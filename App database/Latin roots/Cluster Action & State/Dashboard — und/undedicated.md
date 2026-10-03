@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not dedicated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not dedicated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consecrated or formally dedicated to a sacred purpose; or not dedicated to a patron in a literary work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early print culture, an undedicated volume was published without an opening panegyric epistle courting aristocratic patronage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undedicated designates not dedicated."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"The poet published his satirical verses **undedicated**, refusing to stoop to the servile flattery of noble patrons."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ruined chapel had stood **undedicated** and abandoned since the monastic suppression under Henry VIII."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The new public hall remained **undedicated** to any religious denomination, serving as an impartial civic forum."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not developed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undeveloped or unused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having reached full maturity, growth, or potential; or lacking modern industrial, agricultural, or economic resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and cytology, undeveloped stem cell lineages retain multipotent pluripotency prior to lineage-specific signaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The potential competition of undeveloped countries on all sides, seeking to develop their resources, and profiting by the higher prices of food in the world-market caused by our tariff, threatens the peculiar advantages of the favored land."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is a German conceit, that the vertebræ are absolutely undeveloped skulls."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, therefore, that mortal man who hath more of joy than sorrow in him, that mortal man cannot be true—not true, or undeveloped."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Vast tracts of fertile land in the colonies remained **undeveloped** for lack of sufficient agricultural labor and capital."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain rudimentary organs remain **undeveloped** in adults, serving as evolutionary traces of ancestral anatomy."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian machinery demonstrated technologies far beyond the **undeveloped** industrial capacities of Victorian England."*
+

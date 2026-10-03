@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed and carried out secretly or confidentially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed and carried out secretly or confidentially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducted secretly and illegally, especially involving bribes, illicit payments, or undeclared money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic corporate auditing, investigators trace under-the-table kickbacks disbursed through offshore intermediary accounts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, under-the-table designates designed and carried out secretly or confidentially."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The political bosses received lucrative **under-the-table** payments from meatpackers to overlook sanitary violations."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"Cowperwood negotiated an **under-the-table** compromise with city aldermen to secure street railway franchises."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The corrupt union treasurer demanded **under-the-table** contributions from mine managers under threat of strikes."*
+

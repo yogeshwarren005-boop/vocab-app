@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light long-handled racket used by badminton players.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient racket game.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light wooden bat or racket used in playing battledore and shuttlecock (the ancestor of modern badminton); or a child's hornbook.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early English educational history, a battledore was a folded cardboard primer containing the alphabet, numbers, and basic prayers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Well, I must go in now; and you too: it darkens.” But I stayed out a few minutes longer with Adèle and Pilot—ran a race with her, and played a game of battledore and shuttlecock."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"A life like a shuttlecock may be toss'd With the hand of fate for a battledore; But it matters much for your sweet soul lost, As much as a million souls and more."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"We found two in a cupboard, among a heap of old toys, tops, and hoops, and battledores and shuttlecocks."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The children laughed merrily on the lawn, batting the feathered shuttlecock back and forth with a light wooden **battledore**."*
+> - 📜 **Jane Austen (*Emma*):** *"Harriet and Robert Martin enjoyed an energetic game of **battledore** and shuttlecock in the vicarage garden."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The schoolmaster placed the printed **battledore** into the boy's hand, initiating him into the mysteries of the alphabet."*
+

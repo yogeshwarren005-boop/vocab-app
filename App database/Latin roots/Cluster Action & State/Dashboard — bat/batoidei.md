@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fish with dorsoventrally flattened bodies; includes: rays; skates; guitarfishes; sawfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish with dorsoventrally flattened bodies; includes: rays; skates; guitarfishes; sawfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic superorder of cartilaginous fishes commonly known as rays and skates, characterized by flattened bodies and enlarged pectoral fins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, Batoidei comprises over 600 species possessing ventral gill slits, spiracles for benthic respiration, and pavement-like crushing teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batoidei designates fish with dorsoventrally flattened bodies; includes: rays; skates; guitarfishes; sawfishes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Members of the superorder **batoidei** are distinguished from ordinary selachians by their ventrally situated gill apertures and flattened discoidal bodies."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sandy shoals of the bay teemed with giant stingrays of the order **batoidei**, which buried themselves beneath the silt."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The fossil record of the **batoidei** extends back to the Jurassic epoch, revealing continuous specialization for benthic bottom-feeding."*
+

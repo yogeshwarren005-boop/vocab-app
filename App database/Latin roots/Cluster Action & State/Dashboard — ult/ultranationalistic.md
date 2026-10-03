@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fanatically patriotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fanatically patriotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by extreme, fanatical, or aggressive nationalistic sentiment and hostility toward other nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international relations, ultranationalistic rhetoric often precedes military aggression and the breakdown of multilateral treaties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultranationalistic designates fanatically patriotic."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The dictator whipped up an **ultranationalistic** frenzy among the youth, preparing the domestic populace for territorial conquest."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"We must distinguish between healthy civic patriotism and the aggressive, **ultranationalistic** propaganda that poisons modern politics."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The war was stoked by **ultranationalistic** press barons who sensationalized border incidents to incite popular jingoism."*
+

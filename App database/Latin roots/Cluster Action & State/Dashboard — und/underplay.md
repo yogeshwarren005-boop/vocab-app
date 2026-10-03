@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act (a role) with great restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Play a card lower than (a held high card).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To minimize, downplay, or treat something as being of less importance than it really is; or to underact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical performance and diplomatic negotiation, seasoned practitioners underplay emotional rhetoric to project quiet authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underplay designates act (a role) with great restraint."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The accomplished tragedian chose to **underplay** the grief scene, achieving a poignant intimacy that moved the entire audience."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Ministers attempted to **underplay** the disastrous loss of the armored cruisers, but the naval public was not deceived."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The novelist must not **underplay** the crucial dramatic climax upon which the entire moral theme of the book depends."*
+

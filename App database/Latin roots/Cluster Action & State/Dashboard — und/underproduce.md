@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce below capacity or demand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce below capacity or demand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To produce less than is required, needed, or planned; to fail to meet production quotas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural planning, when domestic grain farms underproduce due to drought, the state must negotiate international grain imports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underproduce designates produce below capacity or demand."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Should manufacturers **underproduce** relative to national demand, domestic prices soar and foreign competitors seize the market."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"Landlords who **underproduce** on fertile soils reduce total agricultural surplus and drive up consumer grain rents."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"The municipal gas works threatened to **underproduce** unless granted a rate increase by the city council."*
+

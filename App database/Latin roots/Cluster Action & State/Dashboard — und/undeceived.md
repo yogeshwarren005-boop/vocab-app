@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from deception or illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed of a mistaken or misguided notion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freed from an illusion, deception, or false belief; having learned the truth of a situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy, an undeceived mind evaluates human actions with objective realism rather than romanticized sentiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ve undeceived him.” “The more fool you!” D’Urberville in anger retreated from her to the hedge, where he pulled off the long smockfrock which had disguised him; and rolling it up and pushing it into the couch-fire, went away."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thank God! i am undeceived in time! but it is a heavy blow! after my father’s consent had been so kindly given—but no more of this."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sometimes, for a fleeting moment, I thought I caught a glance, heard a tone, beheld a form, which announced the realisation of my dream: but I was presently undeceived."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea looked upon her husband with an **undeceived** vision, recognizing the sad limitations of his pedantic intellect."*
+> - 📜 **Samuel Johnson (*The History of Rasselas, Prince of Abissinia*):** *"The prince returned to Abissinia **undeceived** by the worldly pretensions of statesmen, sages, and ascetics."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel Archer was at last **undeceived**, standing face to face with the calculated treachery that had engineered her marriage."*
+

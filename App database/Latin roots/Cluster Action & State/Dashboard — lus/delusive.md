@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate to reality or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate to reality or facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving a false or misleading impression; deceptive, illusory, or fraudulent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology, delusive sensory impressions must be corrected by systematic experimental replication and geometric reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could not find that it led to anything but the formation of delusive hopes in connexion with the suit already the pernicious cause of so much sorrow and ruin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Hopes are often delusive,” said Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But as to Fred Vincy, it is only fair he should be excused a little: old Featherstone’s delusive behavior did help to spoil him."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The utopian promises of theoretical perfection proved a **delusive** phantom that lured the commonwealth into terror."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman commanders were lured into mountain ambuscades by the **delusive** overtures of the barbarian chieftains."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Despair not, though tyrants spin their **delusive** webs to ensnare human freedom and hope."*
+

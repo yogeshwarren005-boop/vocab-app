@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from enchantment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freed from illusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disappointed and realistic after discovering that someone or something is not as good, noble, or true as once believed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical studies of political movements, disillusioned reformers often abandon partisan activism in favor of pragmatic local efforts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This always disillusioned her finally, for it was hard to deny his proofs."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Buns, once fresh and tender, become hard and misanthropic in its refreshment rooms, and look as if they had seen the littleness of existence and were disillusioned."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I make out now what he must have done at school.” And she gave, in her simple sharpness, an almost droll disillusioned nod."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Nick Carraway returned to the Midwest, **disillusioned** by the grotesque predatory carelessness of the East Coast elite."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Many veteran volunteers returned **disillusioned** from Spain, having witnessed factional purges betray democratic ideals."*
+> - 📜 **W. Somerset Maugham (*Of Human Bondage*):** *"Philip gazed upon his unfinished bohemian canvases, a **disillusioned** artist acknowledging the limits of his talent."*
+

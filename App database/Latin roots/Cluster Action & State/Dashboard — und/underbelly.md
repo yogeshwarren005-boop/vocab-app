@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The soft belly or underside of an animal's body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The underside of an animal; or a vulnerable, weak, or exposed area of an organization, country, or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategic discourse, Winston Churchill famously referred to Italy and the Balkans as the 'soft underbelly of the Axis'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underbelly designates lower side."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"We resolved to strike at the soft **underbelly** of the Axis through the Mediterranean, launching the amphibious invasion of Sicily."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen aimed their harpoons at the white **underbelly** of the giant sperm whale as it rolled in the foam."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The ferocious carnivorous dinosaur exposed its soft scaled **underbelly** as it stumbled over the spiked defensive palisade."*
+

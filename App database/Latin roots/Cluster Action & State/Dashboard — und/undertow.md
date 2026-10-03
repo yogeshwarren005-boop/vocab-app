@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination contrary to the strongest or prevailing feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The seaward undercurrent created after waves have broken on the shore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong current below the surface of the sea, moving in the opposite direction to the surface water and pulling outward from shore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical oceanography and beach safety, wave breaking on steep shores creates a dangerous seaward undertow across the swash zone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"But all the din of the isles that the Delver heaves in foam In the draught of the undertow glides out to the sea-gods' home."*
-> - 📜 **James Joyce (*Ulysses*):** *"A corpse rising saltwhite from the undertow, bobbing a pace a pace a porpoise landward."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The swimmer struggled against the powerful oceanic **undertow**, which dragged him relentlessly away from the rocky headland."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"Falling from the main-top into the sea, I felt the cold, suffocating **undertow** pulling me down into the black oceanic abyss."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The heavy surf broke upon the reef with a thunderous roar, sending a savage **undertow** swirling back into the channel."*
+

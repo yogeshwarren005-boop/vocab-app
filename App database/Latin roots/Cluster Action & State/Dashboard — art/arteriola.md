@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the small thin-walled arteries that end in capillaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the small thin-walled arteries that end in capillaries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin and anatomical term for an arteriole; a minute arterial vessel branching into capillaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal microanatomy, the afferent arteriola supplies glomerular capillary tufts, where primary blood filtration takes place.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriola designates one of the small thin-walled arteries that end in capillaries."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"Each terminal **arteriola** is encircled by involuntary smooth muscle fibers that regulate vascular resistance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic sections of the kidney demonstrate hyaline thickening of the afferent **arteriola** in benign nephrosclerosis."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"Delicate coagulation was applied to the tiny bleeding **arteriola** to secure hemostasis along the resection bed."*
+

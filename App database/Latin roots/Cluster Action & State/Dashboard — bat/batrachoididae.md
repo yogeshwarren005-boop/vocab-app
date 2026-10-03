@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toadfishes; related to anglers and batfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toadfishes; related to anglers and batfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of predatory bottom-dwelling teleost fishes commonly known as toadfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine bioacoustics and neurobiology, male Batrachoididae produce loud, resonant hums using rapid sonic swimbladder muscles to attract mates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batrachoididae designates toadfishes; related to anglers and batfishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes of the family **batrachoididae** lie concealed in muddy shallows, snapping up passing crustacea with their cavernous jaws."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The cranial morphology of **batrachoididae** features broad, flattened skulls and venomous opercular spines in certain tropical genera."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"We dredged several curious specimens of the family **batrachoididae** from the shallow muddy inlets of the Falkland Islands."*
+

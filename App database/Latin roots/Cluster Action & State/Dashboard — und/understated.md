@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent as less significant or important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting restrained good taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressed or presented in a subtle, quiet, restrained, or modest way; not ostentatious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interior architecture and sartorial design, understated elegance avoids garish ornament in favor of pure proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understated designates represent as less significant or important."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Madame de Vionnet's apartment was decorated with an **understated** Parisian refinement that captivated Strether's sensibilities."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Old New York society prided itself upon an **understated** dignity that shrank from the flashy displays of newly rich parvenus."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa admired the **understated** courtesy of the veteran diplomat who greeted his guests with quiet warmth."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by deception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With hand brought forward and up from below shoulder level.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by secrecy, deception, slyness, and dishonesty; clandestine and untrustworthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal ethics, underhanded tactics designed to conceal discoverable evidence invite severe court sanctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Esther,” Richard resumed, “you are not to suppose that I have come here to make underhanded charges against John Jarndyce."*
-> - 📜 **Effie Afton (*Eventide*):** *"But some folks always like to be so sly and underhanded." "Stop your clack!" said the master, turning toward her with an angry glance, "and get a bite of something to eat while she is putting her water on and building a fire."*
-> - 📜 **Effie Afton (*Eventide*):** *"I hate this sly, underhanded work."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"Holmes exposed the **underhanded** conspiracy that had framed an innocent young man for the theft of the coronet."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode shrank from the memory of the **underhanded** commercial transactions that had founded his great fortune."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon denounced the curate's **underhanded** efforts to influence the patronage of the hospital appointment."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inactivity resulting from lethargy and lack of vigor or energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from lethargy and lack of vigor or energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sluggish numbness, physical inertness, or slow physiological responsiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and clinical neurology, torpidness of affect signals severe catatonic depression or cerebral stupor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torpidness designates inactivity resulting from lethargy and lack of vigor or energy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sleepy town seemed sunk in incurable **torpidness**, where nothing ever stirred except the cathedral chimes."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"He denounced the spiritual **torpidness** of an aristocracy that enjoyed revenues without discharging duties."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A heavy **torpidness** seized her limbs after the long night of weeping in the solitary school dormitory."*
+

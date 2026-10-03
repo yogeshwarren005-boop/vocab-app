@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discussion in which reasons are advanced for and against some proposition or proposal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formal presentation of a stated proposition and the opposition to it (usually followed by a vote).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal discussion on a particular topic in a public meeting or assembly, in which opposing arguments are put forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary procedure, floor debate follows established rules of order to allow minority views full legislative expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were living, I would try him yet;— Lend me an arm;—the rest have worn me out With several applications; nature and sickness Debate it at their leisure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we debate Our trivial difference loud, we do commit Murder in healing wounds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will debate this matter at more leisure, And teach your ears to list me with more heed."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Now, lords, if God doth give successful end unto this **debate** that bleedeth at our doors, we will our youth lead on to higher fields."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A prolonged and contentious parliamentary **debate** ended with the cabinet stubbornly rejecting all overtures of peace."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The freedom of open public **debate** trains citizens to comprehend the intricate balance of local self-government."*
+

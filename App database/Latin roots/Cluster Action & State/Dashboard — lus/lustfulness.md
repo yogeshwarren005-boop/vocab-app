@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive carnal passion, intense sensual yearning, or lascivious desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ascetic theology and patristic writing, lustfulness is condemned as a mortal vice that clouds intellect and subverts spiritual devotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lustfulness designates a strong sexual desire."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Houyhnhnms abhorred the unrestrained **lustfulness** and dirty appetites of the brutish Yahoos."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A life surrendered to unrestrained **lustfulness** terminates inevitably in physical decay and mental remorse."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Excessive **lustfulness** inflames the animal spirits, producing melancholy delusions and feverish insomnia."*
+

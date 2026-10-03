@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to speak the truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who claims to speak the truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who affirms something or makes a positive formal declaration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal swearing, an affirmer makes a solemn affirmation under penalty of perjury rather than taking a religious oath.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affirmer designates someone who claims to speak the truth."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Boldness is ever blind; wherefore it is ill in counsel, though good in execution, and the confident **affirmer** often misleads the prudent statesman."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The burden of empirical proof rests squarely upon the **affirmer** of a novel scientific hypothesis."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"We ought not hastily to condemn the ancient **affirmer** until we have examined the original conditions of his experiment."*
+

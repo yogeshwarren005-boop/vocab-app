@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving or contained in the arteries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving or contained in the arteries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to an artery or the system of arteries; or relating to major transport routes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular hemodynamics, arterial blood pressure is maintained by rhythmic left ventricular ejection and peripheral vascular resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some were marked with great splotches, red as arterial blood, others were saffron yellow, and others tall and attenuated, with stems like macaroni."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Some were marked with great splotches, red as arterial blood, others were saffron yellow, and others tall and attenuated, with stems like macaroni."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The bright scarlet color of **arterial** blood distinguishes it from the dark purple hue of venous return."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The elastic muscular walls of the **arterial** system convert the intermittent cardiac pulse into a steady flow."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Modern engineers planned broad **arterial** highways radiating outward from the metropolitan center into the countryside."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower side of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower side of anything.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower or bottom surface of an object, leaf, or anatomical structure; underside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, stomata are predominantly concentrated on the foliar undersurface to minimize evaporative water loss during daytime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undersurface designates the lower side of anything."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The glandular hairs on the **undersurface** of the leaf secrete sticky digestive enzymes when touched by an insect."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Microscopic stomatal pores punctuate the green **undersurface** of deciduous leaves, governing respiratory gas exchange."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The pale downy pubescence on the **undersurface** of the silver poplar leaf reflects sunlight and limits transpiration."*
+

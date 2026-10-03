@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequate production or less than expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequate production or less than expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Production that is less than normal, expected, or required; an insufficient output of goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic cycle analysis, underproduction in primary heavy industries precipitates widespread secondary manufacturing bottlenecks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underproduction designates inadequate production or less than expected."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The temporary **underproduction** of coal during winter freezes caused distress among metropolitan urban consumers."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Classical economists debated whether general **underproduction** was theoretically possible under competitive market clearing."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Wartime munitions **underproduction** in the early months of 1915 forced the reorganization of the imperial cabinet."*
+

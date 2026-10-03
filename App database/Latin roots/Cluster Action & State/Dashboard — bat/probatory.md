@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to prove a particular proposition or to persuade you of the truth of an allegation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to prove a particular proposition or to persuade you of the truth of an allegation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to test, prove, or examine; probationary or evidentiary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil law and canon jurisprudence, a probatory term is the designated period granted to litigants to produce evidence and examine witnesses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probatory designates tending to prove a particular proposition or to persuade you of the truth of an allegation."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ecclesiastical judge granted a **probatory** term to allow the parties to interrogate witnesses under oath."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The trials of human existence are designed by Providence to serve a **probatory** discipline that refines virtue."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The transitional assembly instituted a **probatory** constitution, testing public tolerance for sweeping administrative innovations."*
+

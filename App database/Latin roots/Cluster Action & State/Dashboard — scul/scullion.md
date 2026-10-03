@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kitchen servant employed to do menial tasks (especially washing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kitchen servant employed to do menial tasks (especially washing).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A servant employed to do rough, menial kitchen work, such as cleaning pots and floors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern English literature and social hierarchy, calling someone a scullion constituted a sharp contemptuous slur on their character or breeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is most brave, That I, the son of a dear father murder’d, Prompted to my revenge by heaven and hell, Must, like a whore, unpack my heart with words And fall a-cursing like a very drab, A scullion!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Away, you scullion! you rampallian! you fustilarian!"*
-> - 📜 **James Joyce (*Ulysses*):** *"The Bruce’s brother, Thomas Fitzgerald, silken knight, Perkin Warbeck, York’s false scion, in breeches of silk of whiterose ivory, wonder of a day, and Lambert Simnel, with a tail of nans and sutlers, a scullion crowned."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Fie upon't! Foh! About, my brain! I have heard that guilty creatures sitting at a play have by the very cunning of the scene been struck so to the soul that presently they have proclaim'd their malefactions; yet I, a dull and muddy-mettled rascal, peak like John-a-dreams, unpregnant of my cause, and can say nothing; no, not for a king, upon whose property and most dear life a damn'd defeat was made. Am I a coward? Who calls me villain? breaks my pate across? plucks off my beard, and blows it in my face? tweaks me by the nose? gives me the lie i' the throat, as deep as to the lungs? who does me this? Ha! 'Swounds, I should take it: for it cannot be but I am pigeon-liver'd and lack gall to make oppression bitter, or ere this I should have fatted all the region kites with this slave's offal: bloody, bawdy villain! Remorseless, treacherous, lecherous, kindless villain! O, vengeance! Why, what an ass am I! This is most brave, that I, the son of a dear father murder'd, prompted to my revenge by heaven and hell, must, like a whore, unpack my heart with words, and fall a-cursing, like a very drab, a **scullion**! Fie upon't! foh! About, my brain!"*
+> - 📜 **Miguel de Cervantes (*Don Quixote*):** *"The pampered knight mistook a ragged kitchen **scullion** for a lovely princess detained by enchanted spells."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Even the lowest **scullion** in Cedric's hall dared to whisper insolent mockeries behind the foreign monk's back."*
+

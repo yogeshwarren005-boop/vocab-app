@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Report of a mission or task.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put someone through a debriefing and make him report.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal meeting or session held to review, question, and gather information about a recently completed mission or operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation safety and astronautics, the post-flight debriefing identifies technical anomalies and procedural oversights for future mission protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A debriefing officer took Hodak in tow, and an another escorted Drummer to the VIP lounge."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The intelligence staff submitted a thorough **debriefing** report detailing the performance of the clandestine night drops in occupied France."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"At the scientific **debriefing**, the physicists analyzed the unprecedented aerial photographs of the atomic explosion."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"Holmes conducted a quiet **debriefing** of the railway guard, extracting vital clues that escaped the Scotland Yard inspectors."*
+

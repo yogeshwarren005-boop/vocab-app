@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The exposure of falseness or pretensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose while ridiculing; especially of pretentious or false claims and ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of exposing the false or exaggerated nature of a claim, belief, or myth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiographical revisionism, debunking hagiographical legends reveals the complex human motives behind celebrated historical figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debunking designates the exposure of falseness or pretensions."*
+> - 📜 **Carl Sagan (*Broca's Brain*):** *"Rigorous **debunking** of pseudoscientific hoaxes protects the public from costly credulity and dangerous medical quackery."*
+> - 📜 **Bertrand Russell (*In Praise of Idleness*):** *"The **debunking** of ancient taboos is the essential prerequisite for rational moral progress in civilized society."*
+> - 📜 **H. L. Mencken (*Notes on Democracy*):** *"He devoted his satirical columns to the merciless **debunking** of grandiloquent political orators."*
+

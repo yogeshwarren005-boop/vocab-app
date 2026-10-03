@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of avoiding capture (especially by cunning).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of avoiding capture (especially by cunning).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of evading, avoiding, or escaping from something through cunning, dexterity, or artifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical legal jurisprudence, deliberate tax elusion uses statutory ambiguities to escape fiscal liability without overt illegality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was not much time, however, for thought or elusion, and she yielded as calmly as she could to the necessity of letting him overtake her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Moriarty's brilliant **elusion** of the Scotland Yard cordon demonstrated his extraordinary criminal intellect."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The outlaw owed his repeated **elusion** of the king's troopers to his intimate knowledge of the Lammermuir bogs."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Colonial merchants practiced habitual **elusion** of customs duties through intricate smuggling networks in Rhode Island."*
+

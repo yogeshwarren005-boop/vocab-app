@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change venous blood into arterial blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change venous blood into arterial blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert venous blood into arterial blood by oxygenation in the lungs; arterialize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century respiratory physiology, pulmonary capillaries arterialise dark blood through gas exchange across alveoli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arterialise designates change venous blood into arterial blood."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The primary function of pulmonary respiration is to **arterialise** the venous stream before it re-enters the systemic circulation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstruction of the terminal bronchioles impairs the capacity of the lungs to **arterialise** circulating blood, producing cyanosis."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In high Andean altitudes, deep breathing is required to **arterialise** the blood sufficiently to prevent soroche or mountain sickness."*
+

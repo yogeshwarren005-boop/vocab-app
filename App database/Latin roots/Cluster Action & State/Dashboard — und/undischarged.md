@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Owed as a debt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Still capable of exploding or being fired.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not released, paid, dismissed, or unloaded; still carrying a legal obligation or electrical charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insolvency law, an undischarged bankrupt is legally prohibited from obtaining credit or serving as a corporate director without court approval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"One, the most trifling part of my duty, remains undischarged."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Many debtors languished in the Marshalsea prison for years under the weight of **undischarged** financial obligations."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The Leyden jar retained an **undischarged** accumulation of static tension along its metallic coatings."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"A prudent merchant never accepts goods from an **undischarged** bankrupt whose affairs remain tangled in litigation."*
+

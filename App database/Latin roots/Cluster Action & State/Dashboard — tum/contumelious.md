@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrogantly insolent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrogantly insolent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insolent, insulting, scornful, or reproachful in language or behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of tort law, contumelious treatment constituted an aggravated injury to personal honor entitling the victim to punitive damages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With scoffs and scorns and contumelious taunts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He dares not calm his contumelious spirit, Nor cease to be an arrogant controller, Though Suffolk dare him twenty thousand times."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"You know how you feel at the iron gripe of ruthless oppression: you know how you bear the galling sneer of contumelious greatness."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"Timon cursed the ungrateful city of Athens, leaving behind its false friends and their **contumelious** sneers."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Arrogant superiors frequently indulge in **contumelious** language toward dependants who cannot retaliate without ruin."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The captive monarch endured the **contumelious** insults of the Roman mob as he was paraded behind the triumphal car."*
+

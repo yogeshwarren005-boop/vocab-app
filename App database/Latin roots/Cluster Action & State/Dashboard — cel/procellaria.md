@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the procellariidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the procellariidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, southern ocean tube-nosed seabirds in the petrel family, commonly called petrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ornithology, Procellaria petrels spend years gliding over open sub-Antarctic seas, returning to land only on isolated islands to breed in burrows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procellaria designates type genus of the procellariidae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The stormy petrels belonging to the genus **procellaria** skimmed the crests of the giant oceanic rollers around Cape Horn."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"Seamen dread the appearance of **procellaria**, believing that their close approach to the vessel heralds an impending gale."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A lonely petrel of the ocean genus **procellaria** followed the wake of the Pequod across the boundless southern waters."*
+

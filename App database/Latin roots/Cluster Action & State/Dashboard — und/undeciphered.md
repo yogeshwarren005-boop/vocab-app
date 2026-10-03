@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deciphered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deciphered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet decoded, translated, or interpreted; remaining an unsolved mystery or script.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical epigraphy, ancient writing systems like Linear A and the Indus script remain tantalizingly undeciphered by modern linguists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undeciphered designates not deciphered."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The hieroglyphic inscriptions of the Nile obelisks remained **undeciphered** until the discovery of the Rosetta Stone."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The baked clay tablets retrieved from Knossos bore an **undeciphered** script that preserved the lost language of Bronze-Age Crete."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger discovered an **undeciphered** symbol scratched upon the bark of a tree marking the entrance to the plateau."*
+

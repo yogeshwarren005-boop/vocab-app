@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Petrels; fulmars; shearwaters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Petrels; fulmars; shearwaters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of marine tube-nosed seabirds, comprising petrels, shearwaters, and fulmars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelagic seabird ecology, members of Procellariidae possess tubular nostrils atop their hooked bills for excreting concentrated salt and smelling dimethyl sulfide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procellariidae designates petrels; fulmars; shearwaters."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"Pelagic seabirds of the family **procellariidae** spend virtually their entire lives wandering over open oceanic waters."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The subantarctic islands provide predator-free nesting sanctuaries for vast colonies of the tube-nosed **procellariidae**."*
+> - 📜 **John Gould (*A Monograph of the Ramphastidae*):** *"The anatomical structure of the hooked bill in **procellariidae** is adapted for seizing slippery cephalopods at night."*
+

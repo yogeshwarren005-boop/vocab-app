@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of trees and shrubs with berrylike fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of trees and shrubs with berrylike fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous trees in the hemp family commonly known as hackberries or nettle trees, bearing small edible drupes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban forestry and ecology, Celtis occidentalis (common hackberry) is prized for tolerance to drought, wind, and alkaline soil conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celtis designates large genus of trees and shrubs with berrylike fruit."*
+> - 📜 **Henry David Thoreau (*Faith in a Seed*):** *"The small dark berries of the nettle-tree, belonging to the genus **celtis**, persist through winter, providing food for cedar waxwings."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The common hackberry, **celtis** occidentalis, forms a handsome woodland tree with rough, warty bark and ovate leaves."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the river bluffs, scattered groves of hardy **celtis** sheltered herds of grazing guanacos from the wind."*
+

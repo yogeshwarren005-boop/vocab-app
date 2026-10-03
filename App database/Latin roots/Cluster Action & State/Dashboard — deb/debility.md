@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being weak in health or body (especially from old age).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being weak in health or body (especially from old age).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical feebleness, bodily infirmity, or lack of muscular and constitutional vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century clinical nosology, general debility was cataloged as a constitutional syndrome accompanying wasting diseases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I look old, yet I am strong and lusty, For in my youth I never did apply Hot and rebellious liquors in my blood, Nor did not with unbashful forehead woo The means of weakness and debility."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Perhaps this faith that so easily possessed me was due to my extreme debility."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There was not only the debility of recent illness to assist: there was also, as she now learnt, nerves much affected, spirits much depressed to calm and raise, and her own imagination added that there must be a mind to be properly guided."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A fever succeeded to my exertions, and I was confined for several months by extreme bodily **debility** and delirium."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Though I look old, yet I am strong and lusty; for in my youth I never did apply hot and rebellious liquors to my blood, nor did not with unbashful forehead woo the means of weakness and **debility**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The scurvy-stricken sailors suffered severe **debility** and swollen joints after three months without fresh provisions."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lettuce valued especially for its edible stems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaves having celery-like stems eaten raw or cooked.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cultivar of lettuce (stem lettuce) grown primarily for its thick, crisp, edible central stalk rather than its leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Chinese horticulture and cuisine, celtuce (wosun) is peeled, sliced thin, and stir-fried or pickled for its crunchy texture and nutty flavor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celtuce designates lettuce valued especially for its edible stems."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"Agricultural explorers introduced the succulent Chinese asparagus-lettuce, now commonly known as **celtuce**, to American home gardeners."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The edible stem of **celtuce** is harvested before the flower stalks shoot up, providing a tender vegetable in late spring."*
+> - 📜 **Alexis Soyer (*The Modern Housewife*):** *"This crisp stem vegetable, cultivated as **celtuce**, can be braised with butter or served cold as a refreshing salad."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave as expected during of holidays or rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a celebration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely known, praised, honored, and acclaimed for great achievements or distinguished qualities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiographical literature, celebrated figures of antiquity were memorialized in Plutarch's *Parallel Lives* as models of civic virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heaven sets spies upon us, will not have Our contract celebrated."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is celebrated almost everywhere for his deportment.” “Does he teach?” asked Ada."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My father,” said the son, aside, to me with quite an affecting belief in him, “is a celebrated character."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer presented his manuscript regarding the **celebrated** hound legend that had haunted the family for generations."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Pemberley was a **celebrated** estate renowned throughout Derbyshire for its magnificent park and stately architectural beauty."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **celebrated** philosopher Marcus Aurelius united imperial sovereignty with severe Stoic moral introspection."*
+

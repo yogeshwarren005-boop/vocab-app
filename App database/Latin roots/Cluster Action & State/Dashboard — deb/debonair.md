@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sophisticated charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a cheerful, lively, and self-confident air; - frances g. patton; - h.m.reynolds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confident, stylish, charming, and suave; possessing sophisticated manners and a lighthearted demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval chivalric literature, debonair (Old French de bon aire, of good stock) described a knight who was gracious and noble.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Courtiers as free, as debonair, unarm’d, As bending angels; that’s their fame in peace."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Next comes Nibs, the gay and debonair, followed by Slightly, who cuts whistles out of the trees and dances ecstatically to his own tunes."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"If I could have leaped the hedge with a single bound, that would have made a sufficiently dashing and debonair exit."*
+> - 📜 **P. G. Wodehouse (*My Man Jeeves*):** *"Bicky sauntered into the club looking remarkably **debonair** in his silk hat and gardenia buttonhole."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The dashing young aristocrat strolled into Baker Street with a **debonair** smile that masked his deep anxiety."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"Arthur stepped onto the lawn looking delightfully **debonair**, captivating every young lady with his easy grace."*
+

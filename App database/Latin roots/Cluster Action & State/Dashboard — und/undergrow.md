@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grow below something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow below something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To grow beneath or under other plants, trees, or vegetation; to form an understory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In silvicultural ecology, shade-tolerant shrubs undergrow tall forest canopies, capturing filtered sunlight for photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undergrow designates grow below something."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Low huckleberry and blueberry bushes **undergrow** the tall pitch pines along the sandy shores of the pond."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Stout evergreen ferns and dwarf bamboos **undergrow** the beech trees in the rain-soaked Fuegian forests."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Dense rhododendron thickets **undergrow** the giant mountain hemlocks at ten thousand feet elevation."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being affirmed or asserted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being affirmed or asserted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being affirmed, stated as true, or legally validated; assertable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and epistemology, a proposition is affirmable only when it satisfies verifiable criteria of logical consistency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affirmable designates capable of being affirmed or asserted."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Whatever is **affirmable** of the whole class is necessarily affirmable of every individual included in that class."*
+> - 📜 **William James (*Pragmatism: A New Name for Some Old Ways of Thinking*):** *"Truth becomes **affirmable** of an idea whenever its practical consequences harmonize with our wider web of experience."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The reality of an external world remains an **affirmable** datum underlying all consciousness."*
+

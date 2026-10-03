@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Support from beneath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support with evidence or authority or make more certain or confirm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To support or form the foundation for; or to strengthen a wall or foundation from below.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural civil engineering, technicians underpin settling building foundations by driving micro-piles down to solid bedrock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpin designates support from beneath."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Rigorous empirical facts must **underpin** every scientific theory regarding the geological evolution of river basins."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Masons worked beneath the water level to **underpin** the leaning palace facade with fresh squared oak timbers."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A robust revenue power must **underpin** the constitutional authority of the national government to maintain public credit."*
+

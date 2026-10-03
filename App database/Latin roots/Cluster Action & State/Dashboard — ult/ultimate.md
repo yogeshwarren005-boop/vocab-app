@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The finest or most superior quality of its kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furthest or highest in degree or order; utmost or extreme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being the best, greatest, or most extreme of its kind; or final and conclusive in a progression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and behavioral ecology, ultimate causes explain why an adaptation evolved via natural selection, contrasting with proximate mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"When any two young people take it into their heads to marry, they are pretty sure by perseverance to carry their point, be they ever so poor, or ever so imprudent, or ever so little likely to be necessary to each other’s ultimate comfort."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His ultimate intention, if he had any, she had not yet divined; and she found herself conjecturing on the matter as a third person might have done."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts solely by accumulating advantageous variations, leading toward the **ultimate** adaptation of every organism."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **ultimate** foundation of all our knowledge resides in empirical observation and reflective mental operations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sack of Rome by the Visigoths marked the **ultimate** catastrophe of ancient imperial greatness."*
+

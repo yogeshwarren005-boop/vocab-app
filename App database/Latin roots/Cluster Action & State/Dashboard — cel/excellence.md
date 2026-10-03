@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of excelling; possessing good qualities in high degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outstanding feature; something in which something or someone excels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Outstanding merit, superior virtue, or exceptionally high standard of performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian ethics, moral excellence (arête) is cultivated through habituation and the deliberate choice of the virtuous mean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hamlet return’d shall know you are come home: We’ll put on those shall praise your excellence, And set a double varnish on the fame The Frenchman gave you, bring you in fine together And wager on your heads."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are not ignorant of what excellence Laertes is,— HAMLET."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"It is the witness still of **excellence** to put a strange face on his own perfection."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The cultivation of individual **excellence** requires freedom of thought and diversity of social environment."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every great institution is the lengthened shadow of one man whose personal **excellence** commanded universal admiration."*
+

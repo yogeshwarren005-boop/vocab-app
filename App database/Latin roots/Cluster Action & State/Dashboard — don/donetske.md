@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city in the donets basin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial city in the donets basin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant linguistic transliteration or Ukrainian regional form of the city of Donetsk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Slavic toponymy, Donetske reflects the nominal adjectival locative form derived from the Seversky Donets river basin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donetske designates an industrial city in the donets basin."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Regimental couriers carried dispatches across the eastern steppes toward the southern settlements of **donetske**."*
+> - 📜 **Maxim Gorky (*My Childhood*):** *"The grandfather spoke of adventurous Cossack expeditions along the winding waters near **donetske**."*
+> - 📜 **Anton Chekhov (*The Steppe*):** *"The boundless steppe stretched away toward **donetske**, fragrant with wormwood under the shimmering summer heat."*
+

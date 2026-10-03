@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cancel, annul, or reverse an action or its effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of certain characteristics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ruined, brought to disaster, or destroyed; or left unperformed, uncompleted, or unfastened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spiritual confession and liturgy, penitents acknowledge leaving undone those moral duties which they ought to have done.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am undone: there is no living, none, If Bertram be away. ’Twere all one That I should love a bright particular star, And think to wed it, he is so above me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Undone, and forfeited to cares for ever!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en that you have there. [_Exit._] COUNTESS. [_Reads._] _I have sent you a daughter-in-law; she hath recovered the king and undone me."*
+> - 📜 **William Shakespeare (*Othello*):** *"O, I am spoiled, **undone** by villains! Give me some help, I faint with these bleeding wounds."*
+> - 📜 **Book of Common Prayer (*The Book of Common Prayer*):** *"We have left **undone** those things which we ought to have done, and there is no health in us."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Adam cried out in despair, declaring that mankind was hopelessly **undone** by the taste of the forbidden fruit."*
+

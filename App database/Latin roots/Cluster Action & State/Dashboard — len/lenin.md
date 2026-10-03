@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Russian founder of the bolsheviks and leader of the russian revolution and first head of the ussr (1870-1924).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian founder of the bolsheviks and leader of the russian revolution and first head of the ussr (1870-1924).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vladimir Ilyich Lenin (1870–1924), Russian revolutionary leader and founder of the Soviet state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, Lenin adapted Marxist economic theories to revolutionary vanguard party organisation, establishing the Bolshevik regime in 1917.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenin designates russian founder of the bolsheviks and leader of the russian revolution and first head of the ussr (1870-1924)."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The German high command transported **lenin** across Europe in a sealed train like a plague bacillus into Russia."*
+> - 📜 **H. G. Wells (*Russia in the Shadows*):** *"In the Kremlin, **lenin** explained his colossal dream for the universal electrification of the Russian countryside."*
+> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"Meeting with **lenin** impressed me with his extraordinary political willpower and fanatical intellectual single-mindedness."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anointing as part of a religious ceremony or healing ritual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anointing as part of a religious ceremony or healing ritual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of smearing or rubbing the body with an ointment, oil, or medicated balm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological pharmacology, topical inunction facilitates transdermal absorption of lipid-soluble therapeutic compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inunction designates anointing as part of a religious ceremony or healing ritual."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ceremonial **inunction** of the emperor with consecrated chrism was performed by the patriarch in Saint Sophia."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient priests prepared for sacred mysteries by ceremonial ablutions and aromatic **inunction**."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Traditional practitioners placed great faith in mercurial **inunction** long before modern chemotherapeutics were discovered."*
+

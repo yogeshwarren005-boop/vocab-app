@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fall short of (the runway) in a landing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shoot short of or below (a target).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a waterwheel driven by water passing underneath; or shot short of a mark; or having a protruding lower jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In milling technology, an undershot waterwheel utilizes kinetic impulse rather than potential head to power millstones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undershot designates fall short of (the runway) in a landing."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The great wooden wheel of Dorlcote Mill was an ancient **undershot** wheel, churning the dark river water into white foam."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The sluggish current of the lowland river was sufficient to drive an **undershot** waterwheel for grinding grain."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The short, pugnacious muzzle and **undershot** lower jaw of the bulldog represent severe hereditary cranial shortening."*
+

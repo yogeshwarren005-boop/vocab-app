@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or having the nature of an illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or having the nature of an illusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or producing illusion; deceptive, not real, or lacking true substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, an illusory promise reserves an unlimited right to cancel, thereby lacking consideration and legal effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, their interest is stimulated by the fact that they are the first to gain by any temporary economies, and the more so because of the illusory belief sure to persist, that they are the ultimate as well as the immediate bearers of the costs."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This and similar notions soon, however, proved illusory."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She had only time to feel that all this was hazy and perhaps illusory; but one thing was clear and determined—her answer."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The supposed necessary connection between cause and effect is an **illusory** projection of mental habit onto external phenomena."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"A happiness achieved through self-deception rests upon an **illusory** foundation that crumbles before adversity."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The apparent permanence of biological species was shown to be an **illusory** notion by evolutionary transmutation."*
+

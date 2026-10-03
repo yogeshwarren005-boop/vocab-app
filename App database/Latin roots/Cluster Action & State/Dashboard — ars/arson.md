@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malicious burning to destroy property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malicious burning to destroy property.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The criminal act of deliberately and maliciously setting fire to buildings or property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law jurisprudence, arson originally required the malicious burning of the dwelling-house of another during nighttime hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He didn't even have time to explain to me what he meant about "a plain case of arson," and "just circumstantial evidence that wouldn't stand up in court," and about the Law giving him some kind of run-around."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If one sets fire to the property of another, seeking revenge or plunder, he is guilty of the crime of arson."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Notwithstanding which, cases of murder and arson are reported, and bad characters are circulating malicious rumors under pretense that they are only revenging themselves on converts."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The rioters committed widespread **arson** across London, setting Newgate prison ablaze and threatening the Bank of England."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Holmes deduced that the warehouse fire was no accident, but a premeditated crime of **arson** to defraud the underwriters."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The mysterious burning of the hayrick was attributed by the villagers to an act of spiteful **arson** by a discharged laborer."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant aggressiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A militant aggressiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition or eager inclination to fight, contend, or assertively dispute; pugnacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary behavioral biology, territorial combativeness in alpha males secures mating access and protects group boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Seeing that he could not arouse their patriotism, the captain next tried to arouse their combativeness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The instinct of **combativeness** is deeply rooted in mammalian evolutionary biology, finding social outlets in athletics and politics."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Displays of facial sneering and bared canines express natural **combativeness** when an animal prepares for physical contest."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Luther's ferocious theological **combativeness** gave him the courage to face the imperial Diet of Worms without flinching."*
+

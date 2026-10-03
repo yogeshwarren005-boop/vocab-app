@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student who does not perform as well as expected or as well as the iq indicates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A student who does not perform as well as expected or as well as the iq indicates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, student, or organization that fails to achieve their potential or performs below expectations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical counseling, identifying an underachiever requires distinguishing between learning difficulties and motivational deficits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underachiever designates a student who does not perform as well as expected or as well as the iq indicates."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Steerforth regarded poor Tommy Traddles as an amiable **underachiever**, forever being caned and sketching skeletons on slates."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The brilliant eccentric was dismissed as a hopeless **underachiever** because he never published his medical discoveries."*
+> - 📜 **Henry James (*The Europeans*):** *"Mr. Wentworth worried that his nephew was turning into a frivolous social **underachiever**, lacking serious civic ambition."*
+

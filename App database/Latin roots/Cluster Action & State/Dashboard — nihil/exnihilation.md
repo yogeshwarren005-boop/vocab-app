@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin nihil within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of nihil in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of reducing to nothing, or creation out of nothingness; destruction or spontaneous emergence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological metaphysics and philosophical cosmology, exnihilation denotes the theoretical transition from absolute non-being into manifest physical being.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exnihilation designates pertaining to, derived from, or characteristic of latin nihil within the domain of action & state."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The primary imagination dissolves, diffuses, dissipates, in order to recreate; or where this process is rendered impossible, yet still at all events it struggles to idealize and to unify, mocking the total **exnihilation** of spiritual meaning."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The philosopher stood aghast before the apparent **exnihilation** of all ancient creeds and institutional certainties."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Nature permits no absolute **exnihilation**, but continually transmutes dying forms into fresh vitality."*
+

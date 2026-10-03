@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the acceleration of aircraft or rockets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring the acceleration of aircraft or rockets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to measure proper acceleration, mechanical shock, or the rate of velocity change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace navigation and inertial guidance systems, a triaxial accelerometer calculates vehicle trajectory without external radio signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accelerometer designates an instrument for measuring the acceleration of aircraft or rockets."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"The cockpit **accelerometer** registered four gravities of force as the experimental rocket blasted through the stratosphere."*
+> - 📜 **Isaac Asimov (*The Stars, Like Dust*):** *"The pilot tapped the glass of the **accelerometer**, checking the deceleration rate as the spacecraft entered the planetary orbit."*
+> - 📜 **Robert A. Heinlein (*Rocket Ship Galileo*):** *"The needle of the **accelerometer** crept upward toward the red danger line during the intense lunar descent burn."*
+

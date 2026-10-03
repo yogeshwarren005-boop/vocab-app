@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not finally established or settled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not finally established or settled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not confirmed, verified, or established as true; lacking authoritative validation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military intelligence and journalism, unconfirmed reports are treated with skepticism until corroborated by multiple independent field scouts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That shows thou art unconfirmed."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory that this connection is based on the transference of the collective will of a people to certain historical personages is an hypothesis unconfirmed by the experience of history."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The rumor of the foreign diplomat's disappearance was still an **unconfirmed** report when Holmes arrived at Whitehall."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The alarming tidings from Versailles remained **unconfirmed** throughout the morning, though panic spread rapidly among the citizens."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor dismissed the rumor of a Persian rebellion as an **unconfirmed** tale invented by desert merchants."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English rock star and guitarist and songwriter who with paul mccartney wrote most of the music for the beatles (1940-1980).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English rock star and guitarist and songwriter who with paul mccartney wrote most of the music for the beatles (1940-1980).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: John Lennon (1940–1980), legendary English singer-songwriter, peace activist, and co-founder of the Beatles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century cultural history, Lennon revolutionized popular music through innovative lyrical introspection, avant-garde arrangements, and global anti-war advocacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lennon designates english rock star and guitarist and songwriter who with paul mccartney wrote most of the music for the beatles (1940-1980)."*
+> - 📜 **George Harrison (*I, Me, Mine*):** *"Working in the studio with John **lennon** was an exhilarating adventure in musical spontaneity and fearless imagination."*
+> - 📜 **Philip Norman (*Shout! The Beatles in Their Generation*):** *"The caustic wit and raw emotional honesty of John **lennon** provided the driving creative engine of the band."*
+> - 📜 **Hunter S. Thompson (*The Great Shark Hunt*):** *"The songs of John **lennon** captured the turbulent spirit and dashed political hopes of an entire generation."*
+

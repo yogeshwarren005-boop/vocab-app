@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a drowsy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a drowsy manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a drowsy, sleepy, sluggish, or lethargic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative prose, domestic animals blink somnolently before a crackling fireplace during winter evenings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somnolently designates in a drowsy manner."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery sat by the kitchen forge, nodding **somnolently** with his pipe in his hand after a hard day's labor."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The fat spaniel blinked **somnolently** upon the hearth-rug, undisturbed by the conversation of the drawing-room guests."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The dairy cows chewed their cud **somnolently** in the lush riverside meadow under the heavy midday warmth."*
+

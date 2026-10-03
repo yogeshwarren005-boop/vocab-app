@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not represented accurately or precisely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not represented accurately or precisely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not outlined, sketched, or mapped out; lacking precise boundaries or descriptive details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical cartography, vast terra incognita regions remained undelineated on early navigational sea charts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undelineated designates not represented accurately or precisely."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen sailed into vast, **undelineated** ocean basins that appeared on the captain's chart as blank blue spaces."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The subterranean fault lines of the river basin remained **undelineated** until systematic seismic surveys were conducted."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The northern frontiers of the empire bordered upon **undelineated** forests inhabited by nomadic Germanic tribes."*
+

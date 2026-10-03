@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of lacking discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of lacking discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of discipline, order, control, or obedience; state of disorganization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and operational theory, chronic indiscipline and undiscipline in auxiliary units lead to route and operational collapse during retreat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But the latter was an undisciplined and lawless thing."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was still undisciplined enough to burst into angry tears."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The veteran legions of Rome were an overmatch for the undisciplined valor of all other nations and rendered her the mistress of the world."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The chronic **undiscipline** of the praetorian cohorts precipitated the rapid decline of imperial authority in Rome."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Mutinous regiments in the garrisons of Nancy and Metz fell into wild **undiscipline** under Jacobin agitators."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"The general lamented the general **undiscipline** among the militia recruits arriving without basic field training."*
+

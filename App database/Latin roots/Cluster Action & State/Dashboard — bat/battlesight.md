@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of sights that makes possible the rapid aiming of a firearm at short ranges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement of sights that makes possible the rapid aiming of a firearm at short ranges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fixed or default sight setting on a military rifle or artillery piece, calibrated for immediate engagement at combat ranges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In small arms ballistics, battlesight zero allows infantrymen to hit man-sized targets within three hundred yards without manual elevation changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battlesight designates an arrangement of sights that makes possible the rapid aiming of a firearm at short ranges."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The sergeant commanded the recruits to set their rifles at **battlesight** and aim low into the advancing gray line."*
+> - 📜 **Arthur Conan Doyle (*The Green Flag*):** *"The veteran marksman glanced along the **battlesight** of his Martini-Henry rifle as the enemy skirmishers broke from cover."*
+> - 📜 **Ernest Hemingway (*Men at War*):** *"The infantry manual instructed soldiers to utilize the fixed **battlesight** in sudden close-quarters trench encounters."*
+

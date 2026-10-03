@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of asian trees or shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of asian trees or shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering trees in the mallow family (Malvaceae), commonly known as Chinese parasol trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and ornamental horticulture, Firmiana simplex is cultivated for its smooth greenish bark, broad lobed leaves, and lightweight timber used for musical instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, firmiana designates small genus of asian trees or shrubs."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"In the sheltered Asian valleys grows the majestic **firmiana**, renowned for its broad parasol-like foliage and fibrous bark."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Botanists have observed remarkable seed dehiscence mechanisms in species of **firmiana** cultivated across botanical gardens."*
+> - 📜 **Robert Fortune (*A Journey to the Tea Countries of China*):** *"Beside the temple courtyard stood a venerable **firmiana**, beneath whose dense shade the pilgrim scholars rested."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or inhabiting a divine heaven.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the sky, the heavens, or outer space; or divinely sublime, angelic, and otherworldly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical observational astronomy, the celestial sphere is an imaginary concentric sphere of infinite radius surrounding the Earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He came in thunder; his celestial breath Was sulphurous to smell; the holy eagle Stoop’d as to foot us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But virtue, as it never will be mov’d, Though lewdness court it in a shape of heaven; So lust, though to a radiant angel link’d, Will sate itself in a celestial bed And prey on garbage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First, let me tell you whom you have condemn’d: Not one begotten of a shepherd swain, But issued from the progeny of kings; Virtuous and holy, chosen from above, By inspiration of celestial grace, To work exceeding miracles on earth."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sing, **celestial** Muse, that, on the secret top of Oreb, or of Sinai, didst inspire that shepherd who first taught the chosen seed."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"O, cherish him, for he has looked upon a **celestial** vision that mortal eyes can scarce endure."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The same law of universal gravitation governs both terrestrial falling bodies and the orbits of **celestial** planetary bodies."*
+

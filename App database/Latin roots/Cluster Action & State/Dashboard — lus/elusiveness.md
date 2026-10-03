@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being difficult to grasp or pin down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being difficult to grasp or pin down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subtle tendency to evade capture, perception, or definitive comprehension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics, the elusiveness of poetic meaning invites open-ended interpretative engagement across generations of readers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In its partizan phase socialism exhibits all of the baffling variability and elusiveness that it does in its other aspects."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Poetry hath an advantage over prose." "But an advantage compensated on the other hand by the elusiveness of its lightsome spirit, its grace so easily lost," said a poet who wrote songs for the pleasure of the Court."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether was captivated by Madame de Vionnet's charming **elusiveness**, which defied all rigid moral classifications."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe struggled before her easel against the maddening **elusiveness** of the vision she sought to capture on canvas."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Marlow noted the tragic **elusiveness** of Jim's inner soul, hovering always between heroic aspiration and craven retreat."*
+

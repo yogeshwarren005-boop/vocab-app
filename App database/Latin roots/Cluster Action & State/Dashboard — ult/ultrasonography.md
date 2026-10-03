@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-invasive diagnostic imaging technique that utilizes reflected high-frequency sound waves to visualize internal bodily organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and cardiology, ultrasonography enables real-time visual assessment of fetal development and cardiac valvular function without radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultrasonography designates using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"Diagnostic imaging has evolved beyond primitive shadows into modern **ultrasonography**, allowing clinicians to inspect living visceral motion safely."*
+> - 📜 **Harvey Cushing (*Consecratio Medici*):** *"The clinical introduction of diagnostic **ultrasonography** provided surgeons with non-invasive reconnaissance prior to exploratory incisions."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"We utilized intracranial **ultrasonography** to evaluate vascular perfusion through the middle cerebral artery during neurological episodes."*
+

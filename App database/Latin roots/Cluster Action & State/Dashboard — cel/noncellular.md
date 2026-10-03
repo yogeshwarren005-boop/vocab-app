@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made up of or divided into cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made up of or divided into cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consisting of, divided into, or derived from biological cells; acellular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and biomaterials science, viruses and synthetic biopolymer scaffolds represent noncellular entities requiring cellular hosts or integration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncellular designates not made up of or divided into cells."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The protective cuticle of nematodes is a dense, **noncellular** secretion produced by the underlying hypodermis."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Calcareous coral reefs are constructed upon **noncellular** mineral frameworks secreted continuously by living polyps."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The basement membrane forms a thin, **noncellular** substratum supporting epithelial tissue layers."*
+

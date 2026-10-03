@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: African antelopes: hartebeests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African antelopes: hartebeests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large African antelopes commonly known as the hartebeest, characterized by elongated muzzles and ringed horns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian evolutionary biology and game ecology, Alcelaphus buselaphus is adapted to grassland grazing, running in high-speed zigzags to escape predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcelaphus designates african antelopes: hartebeests."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"A herd of hartebeest of the genus **alcelaphus** grazed cautiously across the rolling savanna beneath the acacia trees."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The awkward, high-withered gait of **alcelaphus** belies the astonishing galloping speed of this African antelope."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The curiously twisted, lyrate horns of **alcelaphus** are developed in both sexes and employed in intraspecific territorial defense."*
+

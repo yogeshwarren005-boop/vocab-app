@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath the surface of the sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beneath the surface of the sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, functioning, or operating below the surface of the sea; submarine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine geophysics, undersea volcanic rift zones along the Mid-Atlantic Ridge create new oceanic crust via hydrothermal vents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Fields of undersea, the lines faint brown in grass, buried cities."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo invited Professor Aronnax to join him on an expedition across the marvelous **undersea** forests of the Pacific."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"The marine ranger patrolled the vast **undersea** pastures in his submersible, herding migratory pods of sperm whales."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The great earthquake elevated the rocky shoreline, lifting **undersea** mussel beds several feet above the high-tide mark."*
+

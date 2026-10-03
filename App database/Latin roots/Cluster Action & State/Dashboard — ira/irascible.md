@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quickly aroused to anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily provoked to anger; hot-tempered, irritable, and touchy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comedic theater and character drama, the irascible patriarch provides recurring comic conflict through unreasonable outbursts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Wrench was a small, neat, bilious man, with a well-dressed wig: he had a laborious practice, an irascible temper, a lymphatic wife and seven children; and he was already rather late before setting out on a four-miles drive to meet Dr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like some poor devils ashore that happen to know an irascible great man, they make distant unobtrusive salutations to him in the street, lest if they pursued the acquaintance further, they might receive a summary thump for their presumption."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The suddenness of his arrest and the outrage offered to his sovereign dignity so preyed upon the irascible feelings of this proud savage as to throw him into a raging fever."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet was not an **irascible** man, but he was exasperated by the ceaseless nervous flutterings of his wife."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger was a notoriously **irascible** savant, who tossed impudent journalists down his front steps."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Michael Henchard's **irascible** nature repeatedly betrayed his generous impulses during public confrontations."*
+

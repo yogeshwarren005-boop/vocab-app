@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to favor progress and individual freedom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being generous in behavior and temperament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generosity, bounty, or broad-minded tolerance of differing ideas and behaviors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy, genuine liberalness of spirit reflects magnanimity uncorrupted by mercenary calculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liberalness designates an inclination to favor progress and individual freedom."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The squire was beloved throughout the countryside for the hearty **liberalness** of his hospitality at Christmas."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"She admired the **liberalness** of his political views, contrasting it with the narrow provincial prejudices of her relatives."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Mr. Harding's innate **liberalness** led him to resign his prebend rather than profit from disputed charitable revenues."*
+

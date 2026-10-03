@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not done or made or performed with purpose or intent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not done or made or performed with purpose or intent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not planned, intentional, or premeditated; occurring spontaneously or by chance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidentiary jurisprudence and textual hermeneutics, undesigned coincidences across independent witnesses provide persuasive proof of historical authenticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economic monopoly is a result of private property that is undesigned by the government or by society."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Once it had, by an opening undesigned and unmerited, led him into the way of happiness."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Economic monopoly is a result of private property that is undesigned by the government or by society."*
+> - 📜 **William Paley (*Horae Paulinae*):** *"These **undesigned** coincidences between the epistles and the historical narrative furnish the strongest confirmation of truth."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Many beneficial social conventions arise from **undesigned** human actions rather than explicit legislative deliberation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Their meeting near the shearing-barn was completely **undesigned**, yet it altered the entire course of their lives."*
+

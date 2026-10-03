@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who kisses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who kisses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who kisses; or a mathematical curve or instrument that osculates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical satire and geometrical analysis, an osculator humorously describes a fawning flatterer or an osculating element.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osculator designates someone who kisses."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The fashionable courtier proved himself a professional **osculator** of royal hands and aristocratic slippers."*
+> - 📜 **Oliver Wendell Holmes (*The Poet at the Breakfast-Table*):** *"Our scientific friend defined an ardent suitor as an instinctive **osculator** seeking biological equilibrium."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He joked that the eccentric doctor was a persistent **osculator** of ancient medical relics."*
+

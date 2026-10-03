@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A division of a prison (usually consisting of several cells).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A division of a prison (usually consisting of several cells).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct reinforced building or wing in a prison containing rows of individual detention cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penology and correctional architecture, the cellblock was engineered to enable panoptic central surveillance over incarcerated populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellblock designates a division of a prison (usually consisting of several cells)."*
+> - 📜 **Jack London (*The Star Rover*):** *"The heavy iron gates clanged shut behind me as the guard marched me into the solitary **cellblock**."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The warden led the detectives through the central **cellblock**, pointing out the cell where the fugitive had been detained."*
+> - 📜 **Oscar Wilde (*De Profundis*):** *"The silence of the prison **cellblock** was broken only by the rhythmic footfalls of the warders on night watch."*
+

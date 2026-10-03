@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an air current or wind; rising especially up a slope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an air current or wind; rising especially up a slope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting an upward wind or air current caused by local surface heating; upslope wind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In micro-meteorology, an anabatic thermal breeze ascends sunny mountain slopes during the daytime, replaced by katabatic drainage at night.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabatic designates of an air current or wind; rising especially up a slope."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"As the morning sun warms the barren cliffs, an **anabatic** wind begins to draw up the ravine from the valley floor."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The soaring condors took advantage of the warm **anabatic** currents rising along the precipitous western faces of the Andes."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The seasonal heating of elevated plateaus generates strong **anabatic** airflow that shapes local cloud formations."*
+

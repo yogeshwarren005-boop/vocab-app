@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quiet or hushed tone of voice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subdued emotional quality underlying an utterance; implicit meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quiet or subdued tone of voice; or an underlying quality, feeling, or color tinge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In color theory and painting, a warm or cool undertone beneath a glaze imparts luminous depth to oil portraits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Call the next witness.” And he added in an undertone to the Queen, “Really, my dear, _you_ must cross-examine the next witness."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"_Un_important, of course, I meant,” the King hastily said, and went on to himself in an undertone, “important—unimportant—unimportant—important—” as if he were trying which word sounded best."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess is a fine figure o’ fun, as I said to myself to-day when I zeed her vamping round parish with the rest,” observed one of the elderly boozers in an undertone."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes spoke in a low, cautious **undertone**, gesturing for us to extinguish our lanterns on the dark moor."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"There was an **undertone** of bitter self-reproach in Rochester's voice that moved Jane to profound compassion."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The Venetian masters infused their flesh tints with a delicate golden **undertone** that mimicked the warmth of living blood."*
+

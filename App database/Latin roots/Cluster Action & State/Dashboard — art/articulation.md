@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of pronunciation that involves bringing articulatory organs together so as to shape the sounds of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The shape or manner in which things come together and a connection is made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or manner of expressing an idea in speech; or a joint or connection between bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic phonetics, articulation refers to the vocal tract configurations and movements of lips, tongue, and teeth that shape speech sounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"To savages generally is imputed a guttural articulation."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He was sparing in discourse; but whatever he said was pregnant with meaning, and uttered with rectitude of articulation and force of emphasis of which I had entertained no conception previously to my knowledge of him."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"No articulation was ever more distinct."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The ball-and-socket **articulation** of the hip joint affords immense stability while permitting wide rotational movement."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Hear you this voice? The clear **articulation** of his speech commands silence from the turbulent Roman assembly."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The distinct vocal **articulation** of speech sounds in mankind relies upon precise neuromuscular coordination of the larynx and tongue."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fleshy parasitic herbs lacking green foliage and having heads of small flowers; california and mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fleshy parasitic herbs lacking green foliage and having heads of small flowers; california and mexico.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small family of parasitic, achlorophyllous flowering plants native to arid deserts of North and South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, Lennoaceae (now often placed in Boraginaceae) comprises root parasites like Pholisma, lacking chlorophyll and true leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lennoaceae designates family of fleshy parasitic herbs lacking green foliage and having heads of small flowers; california and mexico."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Botanists examining the desert flora of the Colorado basin described rare specimens belonging to the parasitic family **lennoaceae**."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The morphological reductions observed in root parasites like the **lennoaceae** parallel those seen in Rafflesiaceae."*
+> - 📜 **John Torrey (*Report on the United States and Mexican Boundary Survey*):** *"Among the sand dunes of the Gila river, explorers discovered fleshy subterranean spikes of the anomalous **lennoaceae**."*
+

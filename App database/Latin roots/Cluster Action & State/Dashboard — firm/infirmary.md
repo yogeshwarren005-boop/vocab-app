@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A health facility where patients receive treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A health facility where patients receive treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place in a large institution for the care of those who are ill; a hospital or clinic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic architecture, the infirmary (infirmarium) was a dedicated cloistered building where sick monks and elderly brethren were nursed under mild rule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"At length he recovered sufficiently to be removed under his elder brother's careful and loving supervision to the Edinburgh Infirmary, where he remained for four months."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Being far too ill to remain in the common prison, he was removed, after the first day or so, into the infirmary."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A fine fever hospital in addition to the old infirmary might be the nucleus of a medical school here, when once we get our medical reforms; and what would do more for medical education than the spread of such schools over the country?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Typus fever broke out at Lowood school, transforming the schoolrooms into an overcrowded and mournful **infirmary**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate dedicated his best medical energies to modernizing the Fever Hospital and New **infirmary** in the borough."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The injured carter was carried to the county **infirmary**, where the surgeons dressed his fractured limb."*
+

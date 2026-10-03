@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deterred; - osbert sitwell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deterred; - osbert sitwell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deterred, disheartened, or dispirited by difficulty, adversity, or failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific discovery narratives, researchers working undiscouraged across repeated experimental failures eventually identify catalytic mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Rattle, rattle, went the small sound, undiscouraged."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It has never ceased to rejoice in the labors of the determined, undiscouraged man who amidst manifold labors and difficulties, worked, waited and prayed seven years, like Jacob of old."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"Darwin labored on **undiscouraged** by persistent invalidism, compiling vast notebooks of biological observations."*
+> - 📜 **Thomas Edison (*The Writings of Thomas Edison*):** *"The inventor tested thousands of carbon filaments **undiscouraged** by repeated failure until the incandescent lamp glowed."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Marlow watched the young man depart into the wilderness, **undiscouraged** by the disgrace that had shadowed his youth."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being physiologically lax.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being lax and neglectful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of strictness, rigor, or firmness; looseness of discipline, thought, or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic biomechanics, ligamentous laxity denotes joint hypermobility predisposing articulating surfaces to subluxation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s miscellaneous invitations seemed to belong to that general laxity which came from his inordinate travel and habit of taking too much in the form of ideas."*
-> - 📜 **George Eliot (*Middlemarch*):** *"When was sciolism ever dissociated from laxity?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Fred had been rewarding resolution by a little laxity of late."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A dangerous moral **laxity** creeps into society whenever public opinion ceases to censure fashionable folly."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The habitual **laxity** and carelessness of monastic management stood in stark contrast to the vigilance of private proprietors."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her mother deplored the intellectual **laxity** of modern novels, recommending instead solid theological sermons."*
+

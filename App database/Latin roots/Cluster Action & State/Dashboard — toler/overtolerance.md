@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too much permissiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too much permissiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or misguided tolerance, permitting harmful or unlawful behaviors to go unchecked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional theory and political philosophy, Karl Popper's paradox of tolerance argues that overtolerance toward the intolerant destroys free society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overtolerance designates too much permissiveness."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A weak magistrate's **overtolerance** toward violent agitators quickly results in the overthrow of lawful order."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Society must distinguish between genuine moral forbearance and an **overtolerance** that shields criminal indolence."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"No free commonwealth should practice an **overtolerance** that permits private individuals to enslave their fellow citizens."*
+

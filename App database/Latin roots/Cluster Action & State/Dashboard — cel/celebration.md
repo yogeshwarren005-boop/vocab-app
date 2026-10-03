@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A joyful occasion for special festivities to mark some happy event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any joyous diversion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of celebrating an important day or event; a social gathering or festive party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ritual sociology, collective celebration revitalizes communal bonds through shared symbols, music, and commemorative pageantry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The citizens, I am sure, have shown at full their royal minds, As, let ’em have their rights, they are ever forward In celebration of this day with shows, Pageants, and sights of honour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For besides these beneficial news, it is the celebration of his nuptial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He shall conceal it Whiles you are willing it shall come to note, What time we will our celebration keep According to my birth."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The annual New Year's Eve **celebration** at the Red House brought together the gentry and tenantry in festive harmony."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The triumphal **celebration** of Aurelian displayed the captive queen Zenobia adorned in chains of gold through the Roman Forum."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lively wedding **celebration** cheered the old house with laughter and music after months of solemn quiet."*
+

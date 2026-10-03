@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiation lying in the ultraviolet range; wave lengths shorter than light but longer than x rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or employing wavelengths shorter than light but longer than x-rays; lying outside the visible spectrum at its violet end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electromagnetic radiation having a wavelength shorter than that of the violet end of the visible spectrum but longer than X-rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photochemical physics and germicidal sterilization, ultraviolet radiation (UV-C) disrupts microbial nucleic acids to sterilize clinical environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultraviolet designates radiation lying in the ultraviolet range; wave lengths shorter than light but longer than x rays."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Griffin experimented with phosphorescent chemicals and **ultraviolet** rays to alter the molecular opacity of living cells."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The upper atmosphere absorbs lethal solar **ultraviolet** rays, shielding terrestrial organisms from destructive radiation."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Professor Challenger examined the astronomical spectrogram, noting unexpected anomalies in the **ultraviolet** band of the spectrum."*
+

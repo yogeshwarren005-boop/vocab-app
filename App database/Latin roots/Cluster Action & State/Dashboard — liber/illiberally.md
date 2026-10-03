@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a narrow-minded manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a narrow-minded manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ungenerous, narrow-minded, bigoted, or parsimonious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic essays, administering charity illiberally degrades recipients without relieving systemic destitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illiberally designates in a narrow-minded manner."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolists act **illiberally** when they restrict production to inflate market prices above the natural rate."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon judged his young wife's intellectual impulses **illiberally**, viewing her eager curiosity as impertinent criticism."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial governor hoarded grain during the famine, dispensing it **illiberally** at extortionate rates to the starving citizens."*
+

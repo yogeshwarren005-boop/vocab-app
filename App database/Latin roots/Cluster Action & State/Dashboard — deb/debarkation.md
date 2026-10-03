@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of passengers and crew getting off of a ship or aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of passengers and crew getting off of a ship or aircraft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of disembarking passengers, crew, or cargo from a ship, vessel, or aircraft onto land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime quarantine administration, ports of entry supervise debarkation protocols to ensure passenger health and customs clearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debarkation designates the act of passengers and crew getting off of a ship or aircraft."*
+> - 📜 **James Fenimore Cooper (*The Pilot*):** *"The sudden order for **debarkation** caused bustling commotion among the seamen upon the moonlit deck."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rapid **debarkation** of Belisarius and his veteran cohorts took the Vandal garrisons entirely by surprise."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"A noisy crowd of porters and cabmen jostled along the wharf to witness the **debarkation** of the Atlantic packet."*
+

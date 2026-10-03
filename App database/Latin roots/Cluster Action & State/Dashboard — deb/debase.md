@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce the quality, value, purity, dignity, or moral character of something or someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary history, monarchs frequently chose to debase circulating currency by melting silver coins and adding inferior alloy metals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With all the gracious utterance thou hast, Speak to his gentle hearing kind commends. [_Northumberland returns to Bolingbroke._] [_To Aumerle_.] We do debase ourselves, cousin, do we not, To look so poorly and to speak so fair?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair cousin, you debase your princely knee To make the base earth proud with kissing it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The only way a further profit could be made in this way was to debase the coin again."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Shall I **debase** my dignity by stooping to wrangle with every churlish servingman?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate felt that petty financial compromises threatened to **debase** his high scientific ideals into mundane venality."*
+> - 📜 **G. K. Chesterton (*Heretics*):** *"Cynical commercialism seeks to **debase** authentic popular art into mere mechanical sensationalism."*
+

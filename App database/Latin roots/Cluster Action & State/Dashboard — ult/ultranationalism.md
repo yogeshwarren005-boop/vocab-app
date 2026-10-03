@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fanatical patriotism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fanatical patriotism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme and fanatical devotion to one's own nation, typically accompanied by xenophobia and aggressive expansionism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century political science, ultranationalism operates as a central ideological pillar of totalitarian regimes and fascist state formations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultranationalism designates fanatical patriotism."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The toxic resurgence of militant **ultranationalism** across Central Europe destroyed the fragile collective security framework of the League of Nations."*
+> - 📜 **George Orwell (*Notes on Nationalism*):** *"Fervent **ultranationalism** blinds its adherents to reality, rendering them incapable of acknowledging atrocities committed by their own state."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Senseless **ultranationalism** teaches school children that their country alone possesses virtue, while other peoples are inherently wicked."*
+

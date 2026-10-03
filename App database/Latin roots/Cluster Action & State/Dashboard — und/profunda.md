@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin und within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of und in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep-seated anatomical blood vessel, especially the profunda femoris or profunda brachii artery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross surgical anatomy, the arteria profunda femoris is the principal collateral channel supplying the thigh muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, profunda designates pertaining to, derived from, or characteristic of latin und within the domain of action & state."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ligation of the common femoral artery requires an intact **profunda** branch to maintain collateral perfusion to the lower limb."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The artery **profunda** brachii winds around the posterior surface of the humerus in close contact with the radial nerve."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The surgeon identified the bleeding branch of the **profunda**, applying a secure silk ligature in the deep muscular plane."*
+

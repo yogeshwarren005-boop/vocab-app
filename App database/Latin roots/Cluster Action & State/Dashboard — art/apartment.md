@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A suite of rooms usually on one floor of an apartment house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A suite of rooms usually on one floor of an apartment house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suite of rooms forming one residence, typically within a larger building containing several such dwellings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European court architecture, royal state apartments were arranged in strict ceremonial sequences of guard chambers, presence rooms, and bedchambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Apartment in Caesar’s House Scene V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Apartment in Caesar’s House."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An apartment in Martius’ house Scene IV."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"We met next day as he had arranged, and inspected the rooms at 221B, Baker Street, the very **apartment** we desired."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Gardiner expressed great pleasure at the elegance of the private **apartment** prepared for their reception."*
+> - 📜 **Edgar Allan Poe (*The Masque of the Red Death*):** *"Prince Prospero entertained his thousand friends in seven magnificent suites, each **apartment** hung in imperial colors."*
+

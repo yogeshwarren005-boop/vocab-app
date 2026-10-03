@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip something of drapery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stripped of drapery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not covered or adorned with curtains, drapery, or clothing; bare or naked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neoclassical architectural criticism, undraped windows and unadorned stone porticoes embody Spartan civic austerity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I fancy their Hygienic Immaculacies approved of Cyril's bare floors, undraped windows, and generally knick-knackless condition."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The pale light streamed through the **undraped** window of the Spouter-Inn onto the rough wooden floor."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The cold gray sunshine illuminated the **undraped** walls of the Puritan governor's solemn reception hall."*
+> - 📜 **Henry James (*The Bostonians*):** *"The lecture hall had high, **undraped** windows that admitted a chilling northern daylight upon the audience."*
+

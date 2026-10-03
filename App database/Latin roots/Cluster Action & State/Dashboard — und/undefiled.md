@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from stain or blemish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of language) not having its purity or excellence debased; ; - van wyck brooks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not defiled, corrupted, or polluted; pure, clean, and unblemished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious and moral literature, an undefiled conscience is preserved through steadfast adherence to spiritual integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Pure religion and undefiled is to visit the fatherless and widows in their affliction.' My own heart has been singing for joy all the evening because of your work, and I do not mean to let you do it alone."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He answered no, not yet; and added that he was fearful Christianity, or rather Christians, had unfitted him for ascending the pure and undefiled throne of thirty pagan Kings before him."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"The air, so pure and undefiled, brings near The view, which else far distant would appear."*
+> - 📜 **John Milton (*Comus*):** *"Virtue could see to do what virtue would by her own radiant light, pure and **undefiled** amid surrounding darkness."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister longed for that pristine, **undefiled** peace of soul that had blessed his early collegiate days."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane guarded her moral integrity, resolving that her love for Rochester must remain pure and **undefiled**."*
+

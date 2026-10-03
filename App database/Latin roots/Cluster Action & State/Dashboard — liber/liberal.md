@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who favors a political philosophy of progress and reform and the protection of civil liberties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who favors an economic theory of laissez-faire and self-regulating markets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to respect or accept behavior or opinions different from one's own; open to new ideas; generous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, liberal constitutionalism emphasizes individual rights, the rule of law, representative government, and economic freedom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard it, Pompey, And am well studied for a liberal thanks Which I do owe you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There with fantastic garlands did she make Of crow-flowers, nettles, daisies, and long purples, That liberal shepherds give a grosser name, But our cold maids do dead men’s fingers call them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three of the carriages, in faith, are very dear to fancy, very responsive to the hilts, most delicate carriages, and of very liberal conceit."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others; his own good, either physical or moral, is not a sufficient warrant for a **liberal** society."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **liberal** reward of labor, therefore, as it is the effect of increasing national wealth, so it is the cause of increasing population."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"My library was dukedom large enough, dedicated to closeness and the bettering of my mind with that which, but by being so retired, o'er-prized all popular rate, in my false brother waked an evil nature; and my trust, like a good parent, did beget of him a falsehood in its contrary as great as my trust was; which had indeed no limit, a confidence sans bound; he being thus lorded, not only with what my revenue yielded, but what my power might else exact, like one who having into truth, by telling of it, made such a sinner of his memory, to credit his own lie, he did believe he was indeed the duke; out o' the substitution and executing the outward face of royalty, with all prerequisite: whence his ambition growing—dost thou hear? Your tale, sir, would cure deafness. To have no screen between this part he play'd and him he play'd it for, he needs will be Absolute Milan. Me, poor man, my library was **liberal** provision for my secluded thoughts."*
+

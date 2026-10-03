@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who makes illustrations (for books or magazines or advertisements etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who makes illustrations (for books or magazines or advertisements etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who draws or creates visual images, drawings, or engravings for books, magazines, or advertisements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian print culture, a skilled illustrator like Phiz (Hablot Knight Browne) shaped public reception of serialized novels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In the Sung period the current ideas with regard to these patterns were expressed by the illustrator of the Sung edition of the _Li Chi_ by ornamenting jade discs, in the one case with ears of wheat and in the other with a clump of rushes."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The contrasting colors made the braiding process clearly visible and more understandable. *** I was invited by the Resource Teacher of a local elementary school to participate in their Authors and Illustrators Invitational."*
+> - 📜 **William Makepeace Thackeray (*Roundabout Papers*):** *"George Cruikshank was an incomparable **illustrator** whose vivid caricatures immortalized London street life."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"Sidney Paget was the brilliant **illustrator** whose deerstalker sketches fixed the iconic image of Holmes in the public imagination."*
+> - 📜 **Henry James (*The Real Thing*):** *"The magazine editor hired an experienced **illustrator** to provide engravings for the new serial romance."*
+

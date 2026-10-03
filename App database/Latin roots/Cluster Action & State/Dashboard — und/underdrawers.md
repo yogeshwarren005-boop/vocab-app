@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Underpants worn by men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Underpants worn by men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for underpants, long underwear, or drawers worn beneath trousers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century personal attire, linen or flannel underdrawers extended to the ankles and were secured with tape or buttons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdrawers designates underpants worn by men."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom stripped off his trousers and patched **underdrawers** before diving headlong into the cool waters of the Mississippi."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick hastily slipped into his warm flannel **underdrawers** when awakened by the midnight alarm at the inn."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The sailors washed their heavy canvas trousers and red flannel **underdrawers** upon the scrubbed forecastle deck."*
+

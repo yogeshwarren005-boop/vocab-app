@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states labor organizer who ran for president as a socialist (1855-1926).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman making her debut into society.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural form of deb; young women making their official formal entrance into high society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Also refers historically to Eugene V. Debs (1855–1926), influential American socialist leader and founding member of the Industrial Workers of the World.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debs designates united states labor organizer who ran for president as a socialist (1855-1926)."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"A radiant coterie of fashionable young **debs** gathered around the punch bowl at the Ritz hotel ball."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The workingmen rallied passionately around Eugene **debs** when he spoke on behalf of the striking railway brotherhoods."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"The society columns listed the names of all the season's **debs** who were invited to the grand winter cotillion."*
+

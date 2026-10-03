@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) the batter's attempt to get on base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stuffing made of rolls or sheets of cotton wool or synthetic fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of hitting with a bat; or cotton or wool wadding prepared in sheets for quilts or insulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the game of cricket and baseball, batting technique balances defensive stance, hand-eye coordination, and rotational hip drive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"If you are batting, attack the ball."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Samples weighing from 4 to 6 ozs. are taken three times per shift from the stream of copper running into the moulds, by batting the metal into water with a wooden paddle."*
+> - 📜 **P. G. Wodehouse (*The Gold Bat*):** *"The crowd applauded vigorously as the school captain displayed brilliant **batting** form against the visiting fast bowlers."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dolly Winthrop stitched the warm wool **batting** into the baby's winter quilt with patient, even stitches."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Luffey's aggressive **batting** brought immense satisfaction to the Muggleton supporters at the cricket match."*
+

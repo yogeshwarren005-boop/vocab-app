@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of the moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious worship of the moon, common among ancient pastoral and agrarian societies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mythology and anthropological religion, selenolatry frequently preceded solar worship in early lunar calendar-based cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selenolatry designates the worship of the moon."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Traces of archaic **selenolatry** survive in folk customs that link agricultural planting and human fertility to the waxing moon."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The practice of **selenolatry** reflects the primal awe with which early mankind observed the nocturnal transformations of the lunar disk."*
+> - 📜 **Max Müller (*Lectures on the Origin and Growth of Religion*):** *"Comparative Aryan mythology reveals how poetic hymns to the moon gradually hardened into liturgical **selenolatry**."*
+

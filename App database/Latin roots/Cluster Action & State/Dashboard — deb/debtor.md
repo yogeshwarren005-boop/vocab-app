@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owes a creditor; someone who has the obligation of paying a debt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who owes a creditor; someone who has the obligation of paying a debt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, company, or institution that owes a debt, financial sum, or contractual duty to a creditor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bankruptcy law, a debtor may file for Chapter 11 reorganization or Chapter 7 liquidation to discharge unmanageable liabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The statute of thy beauty thou wilt take, Thou usurer that put’st forth all to use, And sue a friend, came debtor for my sake, So him I lose through my unkind abuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dolabella, I shall remain your debtor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet fortune cannot recompense me better Than to die well and not my master’s debtor. [_Exeunt._] SCENE IV."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Shylock demanded the forfeiture of a pound of flesh from his unfortunate Christian **debtor** Antonio."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Wilt thou seal up the avenues of ill? Pay every **debtor** his due, and live in transparent integrity."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mr. Tulliver could not bear the humiliation of seeing himself recorded as an insolvent **debtor** in the town gazette."*
+

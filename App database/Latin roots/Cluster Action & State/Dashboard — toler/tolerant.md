@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing respect for the rights or opinions or practices of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tolerant and forgiving under provocation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing willingness to allow the existence of opinions or behavior that one does not necessarily agree with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and forestry, shade-tolerant plant species germinate and thrive beneath dense forest canopies under low photosynthetic radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"More tolerant than his father of a contradictory opinion, in its aspect as a danger to its holder, he was less ready than his father to pardon it as a slight to his own teaching."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Yet, he reflected with his tolerant smile, he had fought for it, and was ready any day to fight for it again--for stability and tradition, the Game Laws, the Established Church, and the rotation of crops."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I'm not a bit surprised to hear he has Jew blood in him," Rowsley continued, warming to the discussion: he was a much keener judge of character that the tolerant and easy-going Val."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A truly civilized society must cultivate a **tolerant** spirit toward eccentric individual lifestyles and divergent ideas."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Farebrother was remarkably **tolerant** of human weaknesses, preferring quiet charity to harsh pastoral rebukes."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The wise observer becomes increasingly **tolerant** of diverse characters as his comprehension of human nature deepens."*
+

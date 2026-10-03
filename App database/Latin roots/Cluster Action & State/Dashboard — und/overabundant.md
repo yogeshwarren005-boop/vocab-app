@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively abundant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively abundant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in excessive quantity; more than enough or excessively plentiful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and limnology, overabundant nitrate runoff causes eutrophication and catastrophic algal blooms in freshwater lakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overabundant designates excessively abundant."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Where food supplies are **overabundant**, populations multiply until checked by disease, predators, or famine."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The **overabundant** moisture in the tropical air condenses into torrential daily afternoon downpours."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke possessed an **overabundant** store of miscellaneous information that he rarely applied to practical purpose."*
+

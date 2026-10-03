@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the character of a prolusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or having the character of a prolusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Introductory, preliminary, preparatory, or serving as a prelude or trial exercise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and diplomatic history, prolusory protocols established ground rules and credentials prior to plenary treaty negotiations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolusory designates of or relating to or having the character of a prolusion."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Preliminary aphorisms serve a **prolusory** purpose, preparing the student's mind for deeper philosophical inquiries."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The opening chapters contain **prolusory** definitions necessary to prevent ambiguity in codifying penal statutes."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The introductory chapters are merely a **prolusory** skirmish before Professor Teufelsdröckh expounds his clothes philosophy."*
+

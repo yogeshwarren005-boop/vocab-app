@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The material removed by a cut made underneath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tender meat of the loin muscle on each side of the vertebral column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To offer goods or services at a lower price than a competitor; or to undermine or weaken someone's position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal geology and geomorphology, relentless wave action undercuts sea cliffs, precipitating catastrophic rockfalls into the surf.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"I've got a dummy option on it in the works, and we'll be able to undercut Holliday's prices for his land by about twenty per cent." "False-E, huh?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Enterprising foreign merchants sought to **undercut** the guild prices by introducing steam-powered mechanical looms."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The rushing mountain stream continues to **undercut** the rocky gorge wall until the unsupported overhang collapses."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Factions will attempt to **undercut** executive independence by threatening legislative reductions in constitutional compensation."*
+

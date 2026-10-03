@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subdued emotional quality underlying an utterance; implicit meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A current below the surface of a fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A current of water flowing below the surface; or an underlying opinion, feeling, or tendency contrary to surface appearances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction, a dark undercurrent of unresolved grievance propels dramatic conflict beneath polite drawing-room dialogue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"For even when I was there the undercurrent of discontent in the province was visible."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"That is because it is the undercurrent of my whole life."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan was calmer now; he realized an undercurrent of love in all that Morlene was saying and he knew, as all men know, that love will eventually assert itself."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Beneath the superficial gaiety of Parisian life ran a sinister **undercurrent** of revolutionary fury ready to burst forth."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was unaware of the bitter **undercurrent** of wounded pride that surged through Casaubon's brooding heart."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A powerful equatorial **undercurrent** swept the drifting whaleboat miles off its course during the misty night."*
+

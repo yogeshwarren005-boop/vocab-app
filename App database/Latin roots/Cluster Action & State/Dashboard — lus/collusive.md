@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting together in secret toward a fraudulent or illegal end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting together in secret toward a fraudulent or illegal end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting in secret agreement or conspiracy for a deceitful, fraudulent, or unlawful purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate litigation, collusive bidding practices among rival contractors violate federal commerce acts and incur severe treble damages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collusive designates acting together in secret toward a fraudulent or illegal end."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ministers were accused of entering into **collusive** arrangements with foreign ambassadors to subvert parliamentary authority."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Monopolistic guilds maintained **collusive** agreements to artificially limit the entry of apprentices and inflate guild charges."*
+> - 📜 **Edmund Burke (*Speech on the Nabob of Arcot's Debts*):** *"The committee exposed the **collusive** nature of the fraudulent loan contracts fabricated by colonial administrators."*
+

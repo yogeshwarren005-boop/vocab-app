@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Additional proof that something that was believed (some fact or hypothesis or theory) is correct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information that confirms or verifies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corroborating proof, formal validation, or an ecclesiastical sacramental rite of Christian initiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sacramental theology, confirmation is one of the three sacraments of Christian initiation, imparting the seven gifts of the Holy Spirit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be not angry, Most mighty Princess, that I have adventur’d To try your taking of a false report, which hath Honour’d with confirmation your great judgement In the election of a sir so rare, Which you know cannot err."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To thee it shall descend with better quiet, Better opinion, better confirmation, For all the soil of the achievement goes With me into the earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And let heaven Witness how dear I hold this confirmation."*
+> - 📜 **William Shakespeare (*Othello*):** *"Trifles light as air are to the jealous **confirmation** strong as proofs of holy writ: this may do something."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The telegram provided an unexpected **confirmation** of our theory, pointing directly toward the Thames wharves."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I awaited the arrival of the post in breathless anxiety, seeking **confirmation** of my sister's safety."*
+

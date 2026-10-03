@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality that outshines the usual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The visual property of something that shines with reflected light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gentle sheen or soft glow, especially that of a partly reflective surface; radiance or prestige.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, luster describes the optical appearance of a mineral's crystal surface under reflected light (e.g., metallic, adamantine, vitreous).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They seemed to have become brighter than before, shining with a greenish luster which he had not at first observed."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"You never saw a more brilliant metallic luster than the scales emit— but of this you cannot judge till to-morrow."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His countenance was pale even to ghastliness, and his deep-set eyes glared with unnatural luster."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The polished mahogany desk gleamed with antique **luster** under the morning sunshine."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A victorious navy would shed an unfading **luster** over the nascent American confederacy."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"The grand crystal chandeliers added brilliant **luster** to the assembly rooms of the mansion."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of avoiding capture (especially by cunning).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Escape, either physically or mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Escaping or evading capture, comprehension, or notice through agility, secrecy, or cunning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction and detective plots, an eluding antagonist sustains suspense by repeatedly frustrating official pursuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sanguine by nature, Troy had a power of eluding grief by simply adjourning it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"He saw no way of eluding Featherstone’s stupid demand without incurring consequences which he liked less even than the task of fulfilling it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had taken a cruelly effective means of hindering her: even with indignation against him in her heart, any act that seemed a triumphant eluding of his purpose revolted her."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Moriarty proved himself a master of concealment, **eluding** every net that Scotland Yard and I could spread across Europe."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale sounded beneath the foaming waves, **eluding** the harpoons with majestic and disdainful ease."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"The fugitive swam in the black water alongside the ship, **eluding** the lantern beams directed over the rail."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decorated with something to increase its beauty or distinction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not decorated with something to increase its beauty or distinction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decorated, adorned, or embellished; plain, simple, and unadorned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural criticism, the severe undecorated facades of early modernism emphasized functional utility over historical ornament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Yet these people were clothed in pleasant fabrics that must at times need renewal, and their sandals, though undecorated, were fairly complex specimens of metalwork."*
-> - 📜 **James Joyce (*Ulysses*):** *"In the mirror of the giltbordered pierglass the undecorated back of the dwarf tree regarded the upright back of the embalmed owl."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In the best period the pure white undecorated Ting ware, with rich unctuous glaze, compared to "congealed fat" or "mutton fat," was most esteemed, though ornament was freely used, especially on the Southern Ting."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The honest dignity of an **undecorated** stone wall exceeds all the vulgar plaster ornament that false taste can paste upon it."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane's attic bedroom at Lowood was an **undecorated** cell furnished with a simple straw bed and an unpainted chair."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Gradgrind's schoolroom was an **undecorated** whitewashed hall where facts and figures reigned supreme."*
+

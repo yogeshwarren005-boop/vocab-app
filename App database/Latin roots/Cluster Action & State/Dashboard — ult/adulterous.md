@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by adultery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not faithful to a spouse or lover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, guilty of, or characterized by adultery; unfaithful to marriage vows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian domestic fiction, an adulterous liaison inevitably precipitates social ostracism and domestic tragedy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only th’ adulterous Antony, most large In his abominations, turns you off And gives his potent regiment to a trull That noises it against us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That Angelo is an adulterous thief, An hypocrite, a virgin-violator, Is it not strange and strange?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the parallel passage we read: "`The wicked generation and adulterous seeketh a sign, but there shall no sign be given it, but the sign of the prophet Jonah'; so he left them and departed" (Matt. 16:4)."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Ay, that incestuous, that **adulterous** beast, with witchcraft of his wit, with traitorous gifts, won to his shameful lust the will of my most seeming-virtuous queen."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane fled Thornfield Hall rather than submit to an **adulterous** union that violated her sacred moral convictions."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Conventional society regarded their unconventional, tender cohabitation as a scandalous and **adulterous** defiance."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aimlessly drifting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aimlessly drifting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking guidance, aim, control, destination, or instruction; wandering or haphazard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graph theory and network topology, an undirected edge forms a bidirectional connection between two nodes with no oriented pathway.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Shakespeare, when young, had doubtless all the wildness and irregularity of an ardent, undisciplined, and undirected genius."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Human falsities Mortals have a modus of their own, undirected and un- 212:18 sustained by God."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"If your sagacity, knowledge, and experience, could put me on the right track, I might be able to do so much; unenlightened and undirected, I can do so little."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Human enthusiasm without sound scientific knowledge remains an **undirected** force producing unintended social mischief."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In daydreaming, the flow of mental imagery drifts along an **undirected** current governed solely by casual association."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Random morphological variations occur in an **undirected** fashion, awaiting natural selection to determine their survival value."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unintelligible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unintelligible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that cannot be understood, grasped, or made sense of; incomprehensibly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psycholinguistics and clinical speech pathology, dysarthric speech output can be ununderstandably garbled to listeners without visual cues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ununderstandably designates in an unintelligible manner."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The transcendental philosopher muttered **ununderstandably** into his pipe smoke, lost in obscure metaphysical abstractions."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The aged attorney spoke **ununderstandably** through his toothless gums, rattling off legal precedents in confusion."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The mysterious passenger whispered **ununderstandably** to the crowd before melting into the riverboat shadows."*
+

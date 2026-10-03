@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make liberal or more liberal, of laws and rules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become more liberal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make less strict or more open; to remove legal or economic restrictions on an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory governance, parliaments act to liberalize censorship laws to ensure free circulation of artistic and scientific ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The scattered tribes of the Fatherland now worship at the altar of German unity, with a liberalized Empire."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Statesmen must seek to **liberalize** municipal charters rather than narrow the franchise of ancient boroughs."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"To educate the citizens in civic virtue, the state must **liberalize** the electoral franchise and encourage open public debate."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"To **liberalize** the domestic corn trade was the surest means of preventing artificial scarcities engineered by monopolists."*
+

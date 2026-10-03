@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an illegible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an illegible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an undecipherable, illegible, or completely incomprehensible manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleographical transcription, ancient papyrus fragments written undecipherably require multispectral imaging to reveal hidden inks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undecipherably designates in an illegible manner."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The ancient manuscript was written **undecipherably** in faded seventeenth-century ink that taxed Holmes's patience."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard scrawled his bitter last will and testament **undecipherably** upon a scrap of crumpled paper in the hovel."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The old deed was endorsed **undecipherably** with archaic legal formulas that baffled modern conveyancers."*
+

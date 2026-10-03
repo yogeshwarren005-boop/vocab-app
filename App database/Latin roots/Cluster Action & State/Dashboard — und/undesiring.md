@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or feeling no desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or feeling no desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no longing, craving, or wish; free from appetite or ambitious pursuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic and Buddhist contemplative philosophy, an undesiring consciousness achieves serenity by relinquishing worldly attachments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undesiring designates having or feeling no desire."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The sage stands tranquil and **undesiring**, knowing that all true wealth resides within the sovereign soul."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I sat by the pond **undesiring** of city luxuries, perfectly content with simple bread and clean water."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"A mind truly detached from vanity remains calm and **undesiring** amidst the frantic rivalries of society."*
+

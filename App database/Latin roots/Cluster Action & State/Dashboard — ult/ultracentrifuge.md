@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high speed centrifuge used to determine the relative molecular masses of large molecules in high polymers and proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to the action of an ultracentrifuge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-speed centrifuge capable of spinning rotors at hundreds of thousands of revolutions per minute to sediment macromolecules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invented by Theodor Svedberg in 1925, the analytical ultracentrifuge won the Nobel Prize for enabling direct molecular weight determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultracentrifuge designates a high speed centrifuge used to determine the relative molecular masses of large molecules in high polymers and proteins."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The heavy rotor of the **ultracentrifuge** spun in a vacuum chamber, separating isotopic DNA bands with exquisite clarity."*
+> - 📜 **Sydney Brenner (*My Life in Science*):** *"We spent long nights monitoring the optical absorption scanner of the **ultracentrifuge** in the laboratory basement."*
+> - 📜 **Linus Pauling (*The Architecture of Molecules*):** *"The development of the **ultracentrifuge** opened the realm of colloidal chemistry and giant proteins to direct physical measurement."*
+

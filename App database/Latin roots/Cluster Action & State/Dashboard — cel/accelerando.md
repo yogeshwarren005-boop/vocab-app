@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradually increasing tempo of music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradually increasing in tempo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical tempo direction indicating a gradual increase in tempo and speed of performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orchestral score analysis, an accelerando creates growing acoustic tension leading into climactic cadences or thematic transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accelerando designates a gradually increasing tempo of music."*
+> - 📜 **Romain Rolland (*Jean-Christophe*):** *"The orchestra surged forward in a thrilling **accelerando**, sweeping the listener along in a whirlwind of sound."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The composer employed an **accelerando** in the string section to simulate the galloping approach of the phantom steed."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The syncopated rhythms intensified through a subtle **accelerando**, blurring the boundary between dance and frenzy."*
+

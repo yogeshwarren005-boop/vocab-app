@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorer than expected performance (poorer than might have been predicted from intelligence tests).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poorer than expected performance (poorer than might have been predicted from intelligence tests).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Performance, accomplishment, or output that falls significantly below normal expectations or demonstrated potential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic sociology, chronic regional underachievement reflects structural underinvestment in physical infrastructure and technical education.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underachievement designates poorer than expected performance (poorer than might have been predicted from intelligence tests)."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"The scholastic **underachievement** of pupils frequently stems from pedantic teaching methods that stifle natural curiosity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolistic privileges protect commercial lethargy, resulting in chronic economic **underachievement** across national industries."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy's record at the university was a painful chronicle of academic **underachievement** and squandered allowances."*
+

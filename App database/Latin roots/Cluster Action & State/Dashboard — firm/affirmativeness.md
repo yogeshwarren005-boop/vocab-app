@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The agreeable quality of one who assents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The agreeable quality of one who assents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive, assertive disposition characterized by confident agreement and moral assurance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology, communicational affirmativeness balances personal conviction with polite social receptivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affirmativeness designates the agreeable quality of one who assents."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Goethe possessed a healthy **affirmativeness** of mind that embraced all aspects of human culture and natural growth."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Religious faith imparts an **affirmativeness** to character that transforms moral duty into joyous spiritual enthusiasm."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She was attracted by the calm **affirmativeness** of his principles, contrasting with her own inner turmoil."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to describe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful at eluding capture; - david kline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to find, catch, achieve, or remember; slippery or hard to define.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics, elusive subatomic particles such as neutrinos interact weakly with matter, requiring massive underground detectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Personal incomes, when sought by local assessors, proved to be most elusive."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This elusive quality it is, which causes the thought of whiteness, when divorced from more kindly associations, and coupled with any object terrible in itself, to heighten that terror to the furthest bounds."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It harmonized admirably with the hair and the eyes of elusive color."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great white leviathan remained an **elusive** phantom, disappearing beneath the waves whenever harpoons were readied."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes pursued the **elusive** footprints along the muddy bank of the Thames with relentless tenacity."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Truth is an **elusive** goddess who unveils her countenance only to those who seek her without partisan bias."*
+

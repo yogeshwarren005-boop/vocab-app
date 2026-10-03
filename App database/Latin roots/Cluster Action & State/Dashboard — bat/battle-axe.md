@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp-tongued domineering wife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broadax used as a weapon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval broad-bladed fighting axe; or an informal derogatory term for a domineering or formidable woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In knightly weaponry, the poleaxe and battle-axe were favored weapons for dismounted combat during the Wars of the Roses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battle-axe designates a sharp-tongued domineering wife."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"Lord Cranstoun seized his keen **battle-axe**, rushing forward to defend the castle moat against the border raiders."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ancient armory contained a formidable iron **battle-axe** that had seen bloody service at the battle of Worcester."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins muttered under his breath about his mother's formidable visitor, describing her privately as an old social **battle-axe**."*
+

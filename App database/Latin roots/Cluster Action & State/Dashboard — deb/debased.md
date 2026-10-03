@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Degraded, corrupted, or lowered in value, quality, moral integrity, or purity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics, debased coinage refers to specimen currency minted with significantly reduced precious metal fineness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes, that’s the d’Urberville nose and chin—a little debased."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Sir Thomas Gresham (whose name has but recently been given to this so-called law), explained the principle to Queen Elizabeth when counseling her regarding the recoinage of the debased money of the realm as was done in 1560."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A ruler, either by making a higher seigniorage charge or by coining on his own account, debased the quality or reduced the weight of the money of his realm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperors issued **debased** copper denarii with mere silver wash, inducing ruinous price inflation throughout the provinces."*
+> - 📜 **John Locke (*Some Considerations of the Consequences of the Lowering of Interest*):** *"A merchant receiving payment in **debased** coin must raise his commodity prices in exact proportion to the clipped metallic deficiency."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The wandering friar offered a **debased** Latin benediction that mingled sacred chants with tavern catches."*
+

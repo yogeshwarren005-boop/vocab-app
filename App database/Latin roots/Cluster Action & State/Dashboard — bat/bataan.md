@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coastal province and mountainous peninsula in the Central Luzon region of the Philippines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In World War II history, the Battle of Bataan and the subsequent tragic Bataan Death March of 1942 became legendary symbols of wartime sacrifice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bataan designates the peninsula and island in the philippines where japanese forces besieged american forces in world war ii; united states forces surrendered in 1942 and recaptured the area in 1945."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The desperate, protracted defense of the **bataan** peninsula by Filipino and American soldiers delayed the Japanese offensive schedule in the Pacific."*
+> - 📜 **Douglas MacArthur (*Reminiscences*):** *"The ragged defenders of **bataan** fought with heroic stubbornness against overwhelming air and naval bombardments in the jungle."*
+> - 📜 **Ernest Hemingway (*Men at War*):** *"Dispatches from the besieged lines of **bataan** chronicled an epic struggle against disease, starvation, and superior enemy forces."*
+

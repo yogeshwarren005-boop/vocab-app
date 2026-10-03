@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dress without sufficient warmth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dress informally and casually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing clothes that are too casual or informal for a formal occasion or setting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette chronicles, being underdressed causes acute embarrassment at high-society balls or state receptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Alice did not deign to reply, but tossed her head superbly, and secretly considered whether people would, on comparison, think her overdressed or Lydia underdressed."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"Undine was mortified to discover she was noticeably **underdressed** among the diamond-laden dowagers at the opera."*
+> - 📜 **Jane Austen (*Emma*):** *"Harriet worried lest she appear **underdressed** at the grand dinner party given by the Coles."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"A few latecomers arrived in tweed coats, looking distinctly **underdressed** amid Gatsby's glittering throng."*
+

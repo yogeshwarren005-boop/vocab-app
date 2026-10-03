@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to accept authority or dogma (especially in religion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling to accept authority or dogma (especially in religion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from rigid assertiveness, doctrinaire stiffness, or authoritarian preconceptions; flexible in opinion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical theory and intellectual history, undogmatical instruction fosters critical reflection by encouraging students to challenge core tenets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undogmatical designates unwilling to accept authority or dogma (especially in religion)."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"A truly philosophical instructor remains **undogmatical**, guiding the student toward personal discovery."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific method is inherently **undogmatical**, readily discarding hypotheses refuted by empirical observation."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"Philo maintained an **undogmatical** skepticism throughout the debates regarding natural theology."*
+

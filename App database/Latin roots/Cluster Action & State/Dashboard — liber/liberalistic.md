@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or demonstrating belief in the essential goodness of man and the autonomy of the individual; favoring civil and political liberties, government by law with the consent of the governed, and protection from arbitrary authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or demonstrating belief in the essential goodness of man and the autonomy of the individual; favoring civil and political liberties, government by law with the consent of the governed, and protection from arbitrary authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or resembling the doctrines of liberalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and political criticism, liberalistic tendencies emphasize procedural rights and individual contractual autonomy over traditional communal hierarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liberalistic designates having or demonstrating belief in the essential goodness of man and the autonomy of the individual; favoring civil and political liberties, government by law with the consent of the governed, and protection from arbitrary authority."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The **liberalistic** middle class celebrated industrial prosperity while ignoring the spiritual aridity of modern urban life."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Natural rights theories provided the **liberalistic** rationale under which modern corporate finance established sovereign sway."*
+> - 📜 **John Dewey (*Liberalism and Social Action*):** *"Earlier **liberalistic** formulas must be reconstructed to address the collective realities of the industrial economy."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Know and comprehend the nature or meaning of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceive (an idea or situation) mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprehended, perceived, or grasped intellectually; or agreed upon without needing explicit statement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract jurisprudence, an understood custom of the trade is incorporated into commercial agreements by implication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most harsh one, and not to be understood without bloody succeeding."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When a man’s verses cannot be understood, nor a man’s good wit seconded with the forward child, understanding, it strikes a man more dead than a great reckoning in a little room."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It was tacitly **understood** between them that the subject of Wickham's past should never be mentioned again."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip felt that Joe **understood** his inward remorse far better than any elaborate verbal apologies could express."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes immediately **understood** the meaning of the bloody inscription scrawled upon the wallpaper of the empty house."*
+

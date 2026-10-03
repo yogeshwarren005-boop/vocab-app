@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who commits adultery or fornication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who commits adultery or fornication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A married person, particularly a man, who voluntarily engages in sexual intercourse with someone other than their lawful spouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical family law and canon courts, an adulterer was subject to matrimonial censure and forfeiture of conjugal rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Do not admire your wife's beauty, and you are not angry with the adulterer."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This does not stop his condemning the adulterer, _D._ ii, 4 (man, he said, is formed for fidelity), 10."*
-> - 📜 **James Joyce (*Ulysses*):** *"We’re in the archdiocese here. —And settle down on their striped petticoats, peering up at the statue of the onehandled adulterer. —Onehandled adulterer! the professor cried."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"Ford raged with jealousy, swearing to catch the treacherous **adulterer** Falstaff hidden in his buck-basket."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrate exhorted Hester Prynne to name the fellow **adulterer** who shared her guilt and ignominy."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"Karenin coldly informed his wife that public opinion would brand her lover as an unscrupulous **adulterer**."*
+

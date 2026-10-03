@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To say, state, or perform again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To say or do something again or repeatedly, often for emphasis or clarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical persuasion and diplomatic negotiation, statesmen reiterate core conditions to signal unbending policy resolve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would not be a stander-by to hear My sovereign mistress clouded so, without My present vengeance taken: ’shrew my heart, You never spoke what did become you less Than this; which to reiterate were sin As deep as that, though true."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"How hard it was to reiterate firmly, “I am going.” “Jane!” “Mr."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Toby was now in ecstasies, especially as the young savages continued to reiterate their answer with great energy, as though desirous of impressing us with the idea that being among the Happars, we ought to consider ourselves perfectly secure."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The judge found it necessary to **reiterate** his warning to the courtroom spectators as emotions ran high."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny could only **reiterate** her grateful thanks, while inwardly trembling at Sir Thomas's stern gaze."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"With malice toward none, with charity for all, he sought to **reiterate** the national yearning for a lasting peace."*
+

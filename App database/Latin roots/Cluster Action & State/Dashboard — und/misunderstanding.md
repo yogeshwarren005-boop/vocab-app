@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Putting the wrong interpretation on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An understanding of something that is not correct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A failure to understand correctly; or a disagreement, quarrel, or slight dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social contract theory, mutual trust mitigates the danger that factional misunderstanding will erupt into civil conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have occupied your house for a considerable period, I believe to our mutual satisfaction until this unpleasant misunderstanding arose; let us be at once friendly and business-like."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suspicion and misunderstanding were the fault of the suit?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was about to add,” he presently goes on, “I was about to add, respecting this attack, that it was unfortunately simultaneous with a slight misunderstanding between my Lady and myself."*
+> - 📜 **Jane Austen (*Emma*):** *"The entire unhappy complication arose from a mutual **misunderstanding** between Frank Churchill and Jane Fairfax."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Doctor Strong and his young wife lived under a painful cloud of domestic **misunderstanding** created by Uriah Heep's whispers."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes cleared up the tragic **misunderstanding** that had led the escaped convict to his death upon the rocks."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt or debate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to argument or debate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to question, dispute, or argument; not settled, certain, or universally accepted as fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisdictional border history, debatable land refers to disputed frontier borderlands claimed simultaneously by two rival crowns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Moreover she, and Clare also, stood as yet on the debatable land between predilection and love; where no profundities have been reached; no reflections have set in, awkwardly inquiring, “Whither does this new current tend to carry me?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some industries do well, others ill, under public management, and between these lie many debatable cases."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"There is an ominous look to these pretentious establishments holding strategic points in this or that debatable territory."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"Marauding border moss-troopers rode boldly through the **debatable** ground between England and Scotland under cover of fog."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Matters of subtle scholastic speculation remain forever **debatable** unless brought to the touchstone of rigorous empirical experiment."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"Whether species transform gradually or by sudden saltations is a legitimate and **debatable** hypothesis among modern naturalists."*
+

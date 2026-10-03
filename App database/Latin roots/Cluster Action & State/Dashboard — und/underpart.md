@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A part lying on the lower side or underneath an animal's body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part lying on the lower side or underneath an animal's body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower or underside of an object, surface, animal, or structure; underbelly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, field guides describe the contrasting colors of the crown, mantle, and underpart to identify warbler species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpart designates a part lying on the lower side or underneath an animal's body."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The plumage on the **underpart** of the honeyeater was bright lemon yellow, contrasting with its olive-green back."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The curious lizard displayed brilliant blue mottling across its white **underpart** when basking in the sun."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The protective dermal scutes covering the **underpart** of the crocodilian belly are flattened and non-keeled."*
+

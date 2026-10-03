@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in taurus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest star in taurus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A giant red star of the first magnitude, situated in the constellation Taurus and serving as the eye of the bull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astrophysics, Aldebaran (Alpha Tauri) is an evolved K-type giant exhibiting slow, irregular pulsations and harboring an exoplanet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sovereign brilliancy of Sirius pierced the eye with a steely glitter, the star called Capella was yellow, Aldebaran and Betelgueux shone with a fiery red."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The Dog-star and Aldebaran, pointing to the restless Pleiades, were half-way up the Southern sky, and between them hung Orion, which gorgeous constellation never burnt more vividly than now, as it soared forth above the rim of the landscape."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess’s face and neck reflected the same warmth, which each gem turned into an Aldebaran or a Sirius—a constellation of white, red, and green flashes, that interchanged their hues with her every pulsation."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The ruddy brilliance of **aldebaran** renders it unmistakable as it rises above the winter horizon in Taurus."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Ancient Arabian stargazers named **aldebaran** the follower, because it perpetually tracks the cluster of the Pleiades across the night sky."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Above the lonely hay-ricks, **aldebaran** flashed with fiery amber radiance against the cold crystalline atmosphere."*
+

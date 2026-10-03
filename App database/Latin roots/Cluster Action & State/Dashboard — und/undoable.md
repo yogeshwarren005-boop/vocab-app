@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to achieve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to achieve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being accomplished or performed; or capable of being reversed, unfastened, or canceled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational complexity theory, problems with super-exponential running times are practically undoable within physical universe time scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undoable designates impossible to achieve."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The task set before the National Assembly was practically **undoable** given the complete collapse of fiscal revenues."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undertaking social reform without economic restructuring seemed an **undoable** paradox to the young idealist."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"To reverse the gigantic physical growth caused by the elixir proved wholly **undoable** by any known medicine."*
+

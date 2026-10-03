@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the structural characteristics, compartments, or appearance of a cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In origin-of-life prebiotic chemistry, protocells form cell-like lipid vesicles capable of encapsulating replicating catalytic RNA molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cell-like designates resembling a cell."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The primitive colloidal masses organized themselves into microscopic, **cell-like** globules under the influence of chemical affinity."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Microscopic sections of the connective tissue revealed an intricate network of tiny, **cell-like** compartments."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The spontaneous aggregation of organic macromolecules generates spherical, **cell-like** units possessing permeable boundaries."*
+

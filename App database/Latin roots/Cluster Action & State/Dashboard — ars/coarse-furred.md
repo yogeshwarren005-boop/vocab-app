@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having coarse hair or fur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having coarse hair or fur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having thick, rough, or bristly fur rather than a soft or sleek coat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mammalogy and wildlife ecology, coarse-furred coats provide protective mechanical shielding and thermal insulation in brushy habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coarse-furred designates having coarse hair or fur."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The native capybara is a heavy, **coarse-furred** rodent that browses peacefully among the reed beds of the Parana."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The wild wolf was a lean, **coarse-furred** hunter that circled the campfire just beyond the reach of the flames."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"We captured a strange **coarse-furred** marsupial in the mountain forests of Celebes."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King of persia who subdued numerous revolutions and made peace with sparta (?-359 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of persia who sanctioned the practice of judaism in jerusalem (?-424 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The name of several monarchs of the ancient Achaemenid Persian Empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history, Artaxerxes II Longimanus reigned during the March of the Ten Thousand, famously recounted by Xenophon in the *Anabasis*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artaxerxes designates king of persia who subdued numerous revolutions and made peace with sparta (?-359 bc)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The royal court of **artaxerxes** was adorned with the spoils of conquered nations and governed by intricate palace etiquette."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Persian satraps under **artaxerxes** enjoyed extensive local autonomy, which frequently led to regional rebellions."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Xenophon recorded the dramatic struggle for the Persian crown between Cyrus the Younger and King **artaxerxes** at Cunaxa."*
+

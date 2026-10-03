@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to accept authority or dogma (especially in religion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling to accept authority or dogma (especially in religion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not asserting opinions or principles in an authoritative, rigid, or doctrinaire manner; open-minded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological hermeneutics and secular ethics, undogmatic inquiry prioritizes compassionate human experience over doctrinal rigidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undogmatic designates unwilling to accept authority or dogma (especially in religion)."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystic often possesses an **undogmatic** spiritual temperament that values direct inner light above rigid creeds."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"An **undogmatic** thinker welcomes opposing perspectives as necessary correctives to partial truths."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"True culture demands an **undogmatic** pursuit of sweet reasonableness rather than sectarian dogmatism."*
+

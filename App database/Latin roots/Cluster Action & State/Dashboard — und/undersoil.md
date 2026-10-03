@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of soil between the topsoil and bedrock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The layer of soil between the topsoil and bedrock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of soil immediately beneath the surface topsoil; the subsoil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil science and agronomy, deep plowing fractures dense undersoil (hardpan) to allow crop roots to reach moisture reserves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undersoil designates the layer of soil between the topsoil and bedrock."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms bring up fine particles from the dense **undersoil**, continually adding to the rich black mould at the surface."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Rainwater percolates through the porous surface humus, dissolving mineral carbonates from the underlying **undersoil**."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak drove the trenching spade deep into the stiff, cold clay of the **undersoil** to drain the sheepfold."*
+

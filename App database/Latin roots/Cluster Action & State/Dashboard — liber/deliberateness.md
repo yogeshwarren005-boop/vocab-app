@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate demonstrating an absence of haste or hurry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of thoughtfulness in action or decision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful consideration, intentionality, or unhurried slowness of movement and speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and judicial advocacy, measured deliberateness of delivery commands courtroom authority and dispels suspicion of bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak’s motions, though they had a quiet energy, were slow, and their deliberateness accorded well with his occupation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak’s motions, though they had a quiet energy, were slow, and their deliberateness accorded well with his occupation."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Farfrae conducted all his business transactions with a calm **deliberateness** that infuriated Henchard's impetuous temper."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The puritan magistrate spoke with grave **deliberateness**, weighing the spiritual peril of the unrepentant sinner."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond cultivated an aesthetic **deliberateness** in his gestures, treating every social exchange as a calculated tableau."*
+

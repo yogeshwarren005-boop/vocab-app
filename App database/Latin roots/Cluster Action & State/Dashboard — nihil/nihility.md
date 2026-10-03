@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of nonexistence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of nonexistence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absolute nonexistence, utter void, or the total absence of being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical theology and ontological philosophy, nihility denotes the absence of being, contrasted with absolute divine fullness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nihility designates the state of nonexistence."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He felt himself suspended over the dark yawning gulf of universal **nihility**, shivering at the silence of eternity."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"His grand philosophical system dissolved into mere words and landed the author in complete intellectual **nihility**."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Man is a bundle of relations, a knot of roots, whose flowers and fruitage are the world; withdraw them, and he collapses into **nihility**."*
+

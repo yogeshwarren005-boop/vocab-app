@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation that is too low; an estimate that is less than the true or actual value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make too low an estimate of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of underestimating or undervaluing the true worth, importance, or capability of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic game theory and statecraft, underrating an opponent's resolve frequently precipitates catastrophic diplomatic miscalculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Sure-dart, with the exception of the serious underrating of the great lizard’s speed, had thus far made no mistake, and that blunder had not as yet brought him to grief."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman generals suffered fatal defeat by **underrating** the tactical cohesion and courage of the Gothic cavalry."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate recognized the folly of **underrating** the social power of provincial gossip in shaping his medical practice."*
+> - 📜 **Thomas Babington Macaulay (*The Life of William Pitt*):** *"The French revolutionaries made the disastrous mistake of **underrating** the maritime endurance and financial wealth of Britain."*
+

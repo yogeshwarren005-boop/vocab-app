@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diminution of swelling; the subsidence of anything swollen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diminution of swelling; the subsidence of anything swollen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The subsidence or reduction of a swelling, especially of an erectile organ or inflamed tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive physiology and sexology, detumescence refers to the restoration of an organ to its flaccid state following vasoconstriction and drainage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detumescence designates diminution of swelling; the subsidence of anything swollen."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The physiological cycle comprises progressive tumescence culminating in emotional crisis, succeeded by rapid **detumescence** and tranquil repose."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"Following the resolution of the acute inflammatory phase, tissue **detumescence** restores normal vascular capillary pressure."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Cold compresses applied to the sprained joint accelerated localized **detumescence** and relieved throbbing discomfort."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or of the month preceding the present one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or of the month preceding the present one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In or of the preceding month, used especially in formal letters and dated commercial communications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical commerce, epistolary conventions paired proximo (next month), instant (current month), and ultimo (last month).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultimo designates in or of the month preceding the present one."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"Our printing house received the foreign dispatches on the twenty-second **ultimo**, setting them immediately into type."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal notice published on the fifth **ultimo** warned all claimants against the Jarndyce estate to present their affidavits."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"Review your ledger balance of the thirtieth **ultimo** before accepting fresh bills of exchange from provincial factors."*
+

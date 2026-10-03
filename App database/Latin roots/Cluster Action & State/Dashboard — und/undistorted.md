@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without alteration or misrepresentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without alteration or misrepresentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintaining its original, true, or accurate shape, form, sound, or meaning; free from bias or alteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustical engineering and high-fidelity audio reproduction, an undistorted waveform preserves exact harmonic phase relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undistorted designates without alteration or misrepresentation."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The human understanding must serve as a clear mirror, providing an **undistorted** reflection of nature's operations."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The inductive method requires an **undistorted** record of empirical facts uncoloured by preconceived dogmas."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The calm glassy surface of the pond gave back an **undistorted** image of the surrounding autumnal pines."*
+

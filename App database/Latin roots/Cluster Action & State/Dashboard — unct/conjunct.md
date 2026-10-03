@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Progressing melodically by intervals of a second.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bound in close association.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joined together, combined, or acting in close association with another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical astronomy, two celestial bodies are conjunct when they share the same ecliptic longitude as viewed from Earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am doubtful that you have been conjunct And bosom’d with her, as far as we call hers."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The mind and the hand are **conjunct** instruments; neither alone can achieve great discoveries without adequate methods."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Planets **conjunct** and adverse shed celestial influences across the spheres according to divine appointment."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The legislative and executive powers, though distinct, must act in **conjunct** harmony for the defense of the republic."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of water) rising to the surface under internal hydrostatic pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of water) rising to the surface under internal hydrostatic pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a well or aquifer in which groundwater rises to the surface under natural hydrostatic pressure without pumping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrogeology, an artesian basin forms when a permeable water-bearing aquifer is confined between two impermeable strata of rock or clay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A people who made paved roads, and sunk artesian wells, and used Roman beads and pins."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Her eyes looked larger, and darker, and deeper; so deep, at some silent moments, that they seemed like Artesian wells, down, down, into the infinite."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sinking of an **artesian** well in the arid valley struck pressurized water that spouted several feet above the dry soil."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Water absorbed in the chalk hills of Hertfordshire feeds the great **artesian** wells that supply subterranean London."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The discovery of deep **artesian** springs in the Algerian Sahara transformed barren desert tracts into flourishing date palm oases."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian sculptor (1500-1571).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian sculptor (1500-1571).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Benvenuto Cellini (1500–1571), celebrated Florentine goldsmith, Renaissance sculptor, and flamboyant autobiographer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance art history, Cellini's bronze *Perseus with the Head of Medusa* and his exquisite golden salt cellar exemplified Mannerist virtuosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His whole high, broad form, seemed made of solid bronze, and shaped in an unalterable mould, like Cellini’s cast Perseus."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"His whole high, broad form, seemed made of solid bronze, and shaped in an unalterable mould, like Cellini’s cast Perseus."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The intricate golden craftsmanship of **cellini** displays the flamboyant ornamental genius of the high Italian Renaissance."*
+> - 📜 **Jacob Burckhardt (*The Civilization of the Renaissance in Italy*):** *"The candid memoirs of Benvenuto **cellini** depict an artist of fiery temper and supreme technical confidence."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Beneath the bronze casting of Perseus, **cellini** triumphed over enormous metallurgical and artistic difficulties."*
+

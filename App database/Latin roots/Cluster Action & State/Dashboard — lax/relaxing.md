@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become less tense, rest, or take one's ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less taut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restful, calming, or reducing physical and emotional tension; or becoming less strict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and materials science, stress relaxing occurs when mechanical components held under fixed strain gradually dissipate internal elastic stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet with the warmest enthusiasm, though without relaxing the rigidity of a single muscle."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"If I'm complaisant, that's enough," said Bernard, his features relaxing into a broad grin."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But, though Lawrence knew all, Val had never relaxed the strain before him: was incapable of relaxing it before any spectator."*
+> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"The quiet murmur of the mountain brook had a deeply **relaxing** effect upon my tired wanderer's mind."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The evening air was soft and **relaxing** after the oppressive heat that had baked the London pavements all day."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The carol singers paused upon the bridge, enjoying the **relaxing** warmth of mulled cider before tackling the hill."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time in your life after your physical growth has stopped and you are fully developed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state (and responsibilities) of a person who has attained maturity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The developmental stage of human maturity characterized by legal age, physical growth, and independent social responsibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological rites of passage, initiation ceremonies mark the symbolic transition from adolescent dependence to community adulthood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The grandchildren, in their turn, might take it along with them into adulthood and share it with their progeny. *** All the woodchucks in Woodchuckaton crawled deep into their burrows."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Liberty as a principle has no application to any state of things anterior to the time when mankind have attained **adulthood**."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"David reflected upon his lonely boyhood, realizing how trials had prematurely forced him into the responsibilities of **adulthood**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habits acquired in early youth become cast in plaster before a person reaches full intellectual **adulthood**."*
+

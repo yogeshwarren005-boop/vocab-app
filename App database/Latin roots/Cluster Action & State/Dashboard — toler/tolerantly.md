@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tolerant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tolerant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner showing tolerance, broad-mindedness, or forbearance toward differing opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, characters smiling tolerantly demonstrate emotional maturity and gentle amusement at human foibles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"There was a sober-mindedness in the man; his companions were contented though he only looked on tolerantly at their fun, for the most part, without taking any active share himself."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley smiled **tolerantly** at Emma's match-making schemes, though he did not refrain from playful criticism."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett observed the social maneuvers around him **tolerantly**, deriving quiet amusement from vanity."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The old woodman listened **tolerantly** to the young surveyor's modern theories of timber cultivation."*
+

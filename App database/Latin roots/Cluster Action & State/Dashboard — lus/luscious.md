@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having strong sexual appeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely pleasing to the sense of taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a deliciously rich, sweet, and pleasing taste or smell; richly appealing to the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory prose and culinary writing, luscious denotes rich opulence of flavor, combining ripeness, moisture, and fragrant sweetness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a bank where the wild thyme blows, Where oxlips and the nodding violet grows, Quite over-canopied with luscious woodbine, With sweet musk-roses, and with eglantine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The food that to him now is as luscious as locusts shall be to him shortly as acerb as the coloquintida."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This preparation is called ‘kokoo’, and a most luscious preparation it is."*
+> - 📜 **John Keats (*Endymion*):** *"Pluck the **luscious** cluster from the vine, where purple grapes hang heavy with sunlit sweetness."*
+> - 📜 **William Shakespeare (*Othello*):** *"Food that to him now is as **luscious** as locusts shall be to him shortly as bitter as coloquintida."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Heaped up upon the floor were Norfolk biffins, crisp celery, and piles of **luscious** pears and oranges."*
+

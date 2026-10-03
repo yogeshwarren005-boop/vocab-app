@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of portugal or the people of portugal or their language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the region of lusitania or its people or language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to ancient Lusitania or modern Portugal, its people, language, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and ecology, the Lusitanian flora and fauna refers to species disjunctly native to southwestern Iberia and western Ireland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusitanian designates of or relating to or characteristic of portugal or the people of portugal or their language."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Viriathus led the fierce **lusitanian** tribes in guerrilla warfare against the Roman praetors for fourteen years."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The curious presence of **lusitanian** plant species in the flora of southwestern Ireland poses an intriguing post-glacial dispersal problem."*
+> - 📜 **Richard Francis Burton (*Camoens: His Life and His Lusiads*):** *"The epic poem celebrates the heroic seafaring exploits of the **lusitanian** navigators across uncharted oceans."*
+

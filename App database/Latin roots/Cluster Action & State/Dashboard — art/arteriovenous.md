@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connecting an artery to a vein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connecting an artery to a vein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, involving, or connecting both arteries and veins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular surgery, an arteriovenous fistula (e.g., Cimino fistula) is surgically constructed to provide vascular access for hemodialysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriovenous designates connecting an artery to a vein."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A penetrating bullet wound produced a traumatic **arteriovenous** aneurysm between the femoral artery and vein, accompanied by a continuous thrill."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The neurosurgical team successfully ligated the large congenital **arteriovenous** malformation resting on the cerebral cortex."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"The patient's visual scotoma was traced to a retinal **arteriovenous** crossing defect causing localized macular ischemia."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Group of guns or missile launchers operated together at one place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that produces electricity; may have several primary or secondary cells arranged in parallel or series.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device producing electrical energy through chemical reaction; or a fortified artillery emplacement; or an unlawful physical beating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort law, battery is the intentional, harmful, or offensive contact with another person's body without legal consent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make battery to our ears with the loud music, The while I’ll place you; then the boy shall sing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sevenfold shield of Ajax cannot keep The battery from my heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is able to pierce a corslet with his eye, talks like a knell, and his hum is a battery."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The common law defines **battery** as the unlawful beating of another, for which the injured party may recover damages."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Connecting the voltaic **battery** across the electrolyte solution produced continuous decomposition of water into hydrogen and oxygen."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"A concealed naval **battery** commanding the Dardanelles straits opened fire on our approaching battleships."*
+

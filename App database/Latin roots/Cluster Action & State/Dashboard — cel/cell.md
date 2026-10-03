@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small compartment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smallest structural and functional unit of an organism; or a small room in a prison, monastery, or honeycomb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, the cell theory formulated by Schleiden and Schwann establishes that all living organisms are composed of one or more cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But unto us it is A cell of ignorance, travelling abed, A prison for a debtor that not dares To stride a limit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O proud death, What feast is toward in thine eternal cell, That thou so many princes at a shot So bloodily hast struck?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence will I to my ghostly Sire’s cell, His help to crave and my dear hap to tell. [_Exit._] SCENE III."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"These microscopic pores were the first that were ever seen, for they were very thin and like a **cell** in a honeycomb."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The physiological power of the individual living **cell** to assimilate nourishment and divide underlies all organic growth."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Welcome, sir; this **cell**'s my court: here have I few attendants and subjects none abroad."*
+

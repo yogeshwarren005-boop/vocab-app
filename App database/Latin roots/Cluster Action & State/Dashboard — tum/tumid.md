@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ostentatiously lofty in style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally distended especially by fluids or gas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swollen, distended, or puffed out; or pompous, bombastic, and turgid in language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary criticism, a tumid style uses inflated words and hyperbolic metaphors to describe trivial events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumid designates ostentatiously lofty in style."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The **tumid** billows of the fiery lake surged against the burning crags with ceaseless infernal roar."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Young authors frequently mistake a **tumid** and bombastic vocabulary for genuine elevation of poetic sentiment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **tumid** vanity of the Persian monarch was displayed in pompous titles that insulted the majesty of Rome."*
+

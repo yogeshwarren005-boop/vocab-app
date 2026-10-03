@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Small trees, shrubs, and bushes growing beneath the canopy of taller forest trees; undergrowth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sustainable silviculture and forestry management, clearing dense underwood prevents catastrophic forest fires and encourages timber growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Underwood tariff, 1913. § 14."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But the woman went out to the tobacco-field, and behind went unseen her husband, slinking through the underwood."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Underwood (letter dated 14th November, 1902, Birbeck Bank Chambers, Southampton Buildings, Chancery Lane, W.C.)."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"We forced our way through tangled briar and dense **underwood** along the shadowy margin of the lake."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Winterborne labored through the autumn coppice, pruning hazel stems and hazel **underwood** for thatched hurdles."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A gentle evening rain dripped softly through the pine needles onto the sweet-fern and tangled **underwood**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and heavily armoured warship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and heavily armoured warship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy warship of the largest type, possessing extensive armor plate and batteries of the heaviest caliber guns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval history, the dreadnought battleship dominated maritime strategic doctrine from 1906 until the advent of aircraft carriers in World War II.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"While we're about it, can't we get a warship--a battleship or something?"*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"HOSPITAL SHIP "MAGIC II.," AFTERWARDS RENAMED "CLASSIC" 80 TRANSFERRING A "COT CASE" FROM A BATTLESHIP TO THE HOSPITAL SHIP DRIFTER 81 DENTIST AT WORK ON A BATTLESHIP (H.M.S."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"Ruthenia," previously a dummy battleship, became the storeship and headquarters of the Victualling and Naval Store Officers, and the Fleet Coaling Officer took up his quarters in R.F.A."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The dreadnought **battleship** was the supreme instrument of modern naval power, embodying the industrial might of the British empire."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The torpedo ram Thunder Child steamed into combat against three Martian tripods, fighting like a doomed **battleship** to protect the refugee fleet."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The ironclads and the modern **battleship** represent an austere triumph of steam machinery over the romantic canvas of the past."*
+

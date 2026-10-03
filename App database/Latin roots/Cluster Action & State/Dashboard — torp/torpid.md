@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow and apathetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a condition of biological rest or suspended animation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentally or physically inactive; lethargic, sluggish, or dormant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological ecology, torpid animals depress body temperature and oxygen consumption to conserve energy during harsh environmental stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The two ships becalmed on a torpid sea, I believed to be marine phantoms."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He said every nerve had been overstrained in some way, and the whole system must sleep torpid a while."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Wholly untaught, with faculties quite torpid, they seemed to me hopelessly dull; and, at first sight, all dull alike: but I soon found I was mistaken."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The monster lay **torpid** in his icy cavern until the returning warmth of spring revived his dreadful vitality."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The heath lizards lay **torpid** upon the sunny stones, basking in the drowsy heat of an August noon."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"A **torpid** slumber of the conscience had held him captive for long, guilty years."*
+

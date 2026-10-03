@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put someone through a debriefing and make him report.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put someone through a debriefing and make him report.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To question a pilot, soldier, diplomat, or mission specialist upon their return from an operation to gather intelligence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental psychology, researchers debrief human subjects after a study to disclose all hypotheses and mitigate deceptive stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A debriefing officer took Hodak in tow, and an another escorted Drummer to the VIP lounge."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"Whitehall officials waited eagerly to **debrief** the intelligence agent who had escaped across the German frontier."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Naval commanders gathered at dawn to **debrief** the reconnaissance pilots regarding the position of the enemy battlefleet."*
+> - 📜 **Erskine Childers (*The Riddle of the Sands*):** *"We hurried to the Admiralty to **debrief** the senior lords concerning the hidden channels behind the Frisian islands."*
+

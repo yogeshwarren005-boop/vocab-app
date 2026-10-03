@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving arterioles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving arterioles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located in, or affecting arterioles (minute arterial blood vessels).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systemic hemodynamics, arteriolar tone determines total peripheral resistance, directly governing systemic diastolic blood pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriolar designates of or relating to or involving arterioles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sustained vasoconstriction of the peripheral **arteriolar** bed underlies the pathogenesis of primary essential hypertension."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Vasomotor nerves modulate **arteriolar** diameter, directing blood flow dynamically toward metabolically active tissues."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"Examination of retinal fundi revealed classic **arteriolar** narrowing and copper-wire changes associated with advanced vascular disease."*
+

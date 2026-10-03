@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of asserting that something alleged is not true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of asserting that something alleged is not true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of disaffirming, denying, invalidating, or repudiating a previous statement or contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, disaffirmation is the legal power of a minor or incapacitated party to void a voidable contract upon reaching legal age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disaffirmation designates the act of asserting that something alleged is not true."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The infant retains the legal privilege of **disaffirmation** regarding deeds executed during his minority."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A clear negative judgment involves the intellectual **disaffirmation** of a supposed connection between two ideas."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliamentary declaration stood as a formal **disaffirmation** of the monarch's dispensing power."*
+

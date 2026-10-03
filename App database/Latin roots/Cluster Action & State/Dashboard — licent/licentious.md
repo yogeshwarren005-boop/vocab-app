@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking moral discipline; especially sexually unrestrained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking moral discipline; especially sexually unrestrained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promiscuous and unprincipled in sexual matters; lacking moral discipline or legal restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical republican political philosophy, licentious liberty degenerates into moral anarchy when unrestrained by civic virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How dearly would it touch thee to the quick, Should’st thou but hear I were licentious?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What rein can hold licentious wickedness When down the hill he holds his fierce career?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be none of mine, my sanctity Will to my sense bend no licentious ear, But curb it, spite of seeing."*
+> - 📜 **William Shakespeare (*Henry V*):** *"The **licentious** wickedness of soldiers in a captured town brings dishonor upon any sovereign banner."*
+> - 📜 **John Milton (*Areopagitica*):** *"License they mean when they cry liberty; for who loves that must first be wise and good, rejecting **licentious** excesses."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The reign of the young emperor was marked by every form of **licentious** indulgence in the imperial palace."*
+

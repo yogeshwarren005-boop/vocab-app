@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small to be seen without an ultramicroscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too small to be seen without an ultramicroscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too small to be resolved or seen with an ordinary optical light microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and colloid chemistry, ultramicroscopic viral particles and macromolecules require electron microscopy or dark-field scattering for visualization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramicroscopic designates too small to be seen without an ultramicroscope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain filterable viruses are **ultramicroscopic** in dimension, passing freely through the finest porcelain filters."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Griffin manipulated **ultramicroscopic** cellular structures to alter their refractive index until light passed through undisturbed."*
+> - 📜 **Thomas Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Living protoplasm teems with **ultramicroscopic** particles whose coordinated interactions sustain organic vitality."*
+

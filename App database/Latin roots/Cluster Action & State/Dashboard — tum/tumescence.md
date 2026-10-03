@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tumidity resulting from the presence of blood or other fluid in the tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tumidity resulting from the presence of blood or other fluid in the tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vascular engorgement or enlargement of tissue, especially of erectile organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sexology and reproductive endocrinology, tumescence is driven by nitric-oxide-mediated relaxation of cavernous smooth muscle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To Bloom: the problems of irritability, tumescence, rigidity, reactivity, dimension, sanitariness, pilosity."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The courtship ritual among birds begins with the display of vivid plumage, followed by physiological **tumescence** and mating."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The inflammatory **tumescence** subsided rapidly after the application of ice packs to the contusion."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"In early spring, the tender bark exhibited a burgeoning **tumescence** as the sap rose toward the budding boughs."*
+

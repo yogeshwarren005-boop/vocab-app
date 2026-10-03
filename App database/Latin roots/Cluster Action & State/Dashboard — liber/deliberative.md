@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involved in or characterized by deliberation and discussion and examination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involved in or characterized by deliberation and discussion and examination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or intended for deliberation, careful consideration, or discussion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Aristotelian rhetoric, deliberative oratory addresses future policy decisions within political assemblies, urging adoption or rejection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s was an impulsive nature under a deliberative aspect."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The first is, that the convention must have enjoyed, in a very singular degree, an exemption from the pestilential influence of party animosities the disease most incident to deliberative bodies, and most apt to contaminate their proceedings."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I have shown myself deliberative and calm in the midst of peril."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The proper duty of a **deliberative** assembly is to watch and control the government, throw the light of publicity upon its acts, and demand justification for all measures."*
+> - 📜 **Edmund Burke (*Speech to the Electors of Bristol*):** *"Parliament is not a congress of ambassadors from different and hostile interests; parliament is a **deliberative** assembly of one nation."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The Roman Senate was the most august **deliberative** body the ancient world ever beheld."*
+

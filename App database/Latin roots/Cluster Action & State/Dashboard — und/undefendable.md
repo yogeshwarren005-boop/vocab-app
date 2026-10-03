@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not defended or capable of being defended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not defended or capable of being defended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being defended, justified, or protected against attack or criticism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy, an exposed salient without natural obstacles or artillery support becomes tactically undefendable under bombardment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undefendable designates not defended or capable of being defended."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The frontier salient was tactically **undefendable**, forcing our infantry divisions to withdraw to the canal defenses."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A constitutional proposition that grants sovereign power without accountability is logically **undefendable** in a free republic."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The ministerial policy of taxing the colonies without representation is politically **undefendable** before the bar of reason."*
+

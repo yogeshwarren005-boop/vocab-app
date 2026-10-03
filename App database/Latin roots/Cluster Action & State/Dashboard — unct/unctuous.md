@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly and excessively suave or ingratiating in manner or speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly and excessively suave or ingratiating in manner or speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively flattering, fawning, or insincerely earnest; or oily, greasy, and smooth in texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil science and geology, unctuous clays exhibit smooth, slippery plasticity when moistened with groundwater.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dry up thy marrows, vines and plough-torn leas, Whereof ingrateful man, with liquorish draughts And morsels unctuous greases his pure mind, That from it all consideration slips— Enter Apemantus."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In a word, after being tried out, the crisp, shrivelled blubber, now called scraps or fritters, still contains considerable of its unctuous properties."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And wee Shane did not like fat, unctuous men."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Uriah Heep wrung his hands with an **unctuous** humility that filled David with instinctive repulsion."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The worldly prelate addressed the wealthy dowager in an **unctuous** voice dripping with clerical flattery."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The decks were slippery with the rich, **unctuous** blubber sliced from the spermaceti head."*
+

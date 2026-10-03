@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mixed with impurities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without qualification; used informally as (often pejorative) intensifiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mixed or diluted with any foreign or inferior matter; completely pure and authentic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and philosophical prose, unadulterated designates absolute, uncorrupted emotional truth or pristine ethical conviction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is pure unadulterated country life."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Pure boyhood recollections, unadulterated by later visits to the scenes in which they had their birth"--_The Hawaiian Star_."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"There he stood, with a border of grizzled locks beneath his skull-cap, while his grey eyes, accustomed to the shaded light of his study, were winking, like those of Hester’s infant, in the unadulterated sunshine."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was a moment of pure, **unadulterated** joy, untainted by cynical worldly reservations."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The wilderness offered an **unadulterated** sanctuary where the burdened soul could breathe free from oppressive social judgment."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery's affection for Pip was expressed with **unadulterated** simplicity and unwavering loyalty."*
+

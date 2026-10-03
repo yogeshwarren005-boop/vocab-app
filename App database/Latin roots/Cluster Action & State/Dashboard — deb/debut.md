@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of beginning something new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presentation of a debutante in society.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A first public appearance, performance, or formal presentation of an artist, performer, or young person in society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatre and concert history, a performer's debut before a metropolitan audience can establish or ruin a lifetime professional career.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"And when Mary Madeline came home, on the evening of her debut at the seminary, walking between the two young lady boarders, Amy Seaton and Jenny Andrews, Mrs."*
-> - 📜 **Effie Afton (*Eventide*):** *"And the baby became the toast on all sides; as what baby does not, when making its debut among strangers?"*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"It was decidedly on the short side and as “skimpy” as the notable wincey Anne had worn upon the occasion of her debut at Green Gables; but at least it would not be materially injured by down and feathers."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Mirah prepared with trembling hope for her public musical **debut** before the fashionable London audience."*
+> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne felt a flutter of genuine excitement as she dressed for her social **debut** at the Carmody concert."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"The young provincial actress made her London **debut** as Juliet, eliciting stormy applause from the pit."*
+

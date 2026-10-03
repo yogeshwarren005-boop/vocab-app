@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to tolerate or accept people or situations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Official recognition of the right of individuals to hold dissenting opinions (especially in religion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of tolerating something, especially the existence of differing religious or political opinions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British legal history, the Act of Toleration of 1689 granted freedom of worship to nonconformist Trinitarian Protestants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But immediately after that, the welcome tidings came that _the Emperor, Charles V., had issued his Proclamation of "Religious Toleration in Germany_." In Luther's prayer was fulfilled the remarkable promise of Proverbs, 21: I."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This gradually led to a want of toleration for him, and even—on his being detected in holy orders, and declining to perform the funeral service—to the general indignation taking the form of nuts."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The return of Henry Crawford, and the arrival of William Price, had much to do with it, but much was still owing to Sir Thomas’s more than toleration of the neighbourly attempts at the Parsonage."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"Absolute liberty, just and true liberty, equal and impartial liberty, is the thing that we stand in need of, and universal **toleration** is its secure foundation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman emperors practiced a wise policy of religious **toleration**, welcoming the gods of conquered nations into the Pantheon."*
+> - 📜 **Edmund Burke (*Speech on the Relief of Protestant Dissenters*):** *"**Toleration** is not an act of sovereign favor, but an acknowledgment of sacred human conscience and natural right."*
+

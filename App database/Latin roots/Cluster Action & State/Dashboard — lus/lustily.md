@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a healthy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a healthy manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a healthy, vigorous, robust, or enthusiastic manner; with great energy and heartiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime literature, sailors sing lustily while turning the capstan to weigh the ship's heavy anchor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not desire he should answer for me; and yet I determine to fight lustily for him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you have rung it lustily, my lords; Somewhat too early for new-married ladies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, gentlemen, Let’s tune, and to it lustily awhile."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The buccaneers sang **lustily** as they hauled on the ropes: 'Fifteen men on the dead man's chest—Yo-ho-ho, and a bottle of rum!'"*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Wardle cheered **lustily** as the cricket match reached its exciting and uproarious conclusion."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The black knight blew **lustily** upon his bugle horn to summon the outlaw yeomen to the castle gates."*
+

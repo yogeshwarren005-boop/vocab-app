@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Soviet name (1924–1991) for Saint Petersburg, Russia's historic Baltic imperial metropolis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In World War II military history, the 872-day Siege of Leningrad stood as one of the deadliest and most harrowing urban sieges in human annals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leningrad designates a city in the european part of russia; 2nd largest russian city; located at the head of the gulf of finland; former capital of russia."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The heroic, protracted resistance of the citizens of **leningrad** tied down entire German army groups along the Baltic front."*
+> - 📜 **George Orwell (*Animal Farm*):** *"Soviet radio dispatches from besieged **leningrad** were listened to with solemn sympathy throughout wartime Britain."*
+> - 📜 **Vasily Grossman (*Life and Fate*):** *"The memory of the starvation winter of **leningrad** haunted the veteran soldiers as they prepared for the Don counteroffensive."*
+

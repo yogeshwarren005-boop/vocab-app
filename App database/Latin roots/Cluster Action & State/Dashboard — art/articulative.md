@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to articulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to articulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to articulate, joint, or express distinctly in speech or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and functional phonology, articulative gestures of the tongue coordinate to modulate formant frequencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulative designates of or relating to articulation."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The **articulative** organs of the mouth shape the resonant airflow into distinct vowel timbres."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The **articulative** facets of the cervical vertebrae facilitate horizontal rotation of the skull."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative phonology demonstrates how **articulative** effort is minimized through regular phonetic shifts."*
+

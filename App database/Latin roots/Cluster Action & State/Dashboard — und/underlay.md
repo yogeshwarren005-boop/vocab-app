@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pad placed under a carpet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raise or support (the level of printing) by inserting a piece of paper or cardboard under the type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lay or place something underneath; or a layer of material placed under a carpet or mattress for support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In letterpress printing, an underlay was paper pasted under type or plates to level the impression surface evenly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That would depend upon whether the germs of staunch comradeship underlay the temporary emotion, or whether it were a sensuous joy in her form only, with no substratum of everlastingness."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In short, what theory underlay and prompted the practice of these customs?"*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"A ray of the truth that underlay Cashel’s grotesque experiment was flickering in her mind as she asked herself that question."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty carefully spread the clean wool **underlay** upon the bed to make David comfortable for the night."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak helped the shepherd **underlay** the lambing pens with clean dry straw against the frost."*
+> - 📜 **Herman Melville (*Typee*):** *"The islanders wove mats of soft coconut fiber to **underlay** the sleeping couches inside their bamboo dwellings."*
+

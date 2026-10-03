@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sophisticated charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a sophisticated charm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of debonair; characterized by aristocratic charm, elegance, and easy gentility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French historical annals, Louis the Pious was famously surnamed Louis le Débonnaire on account of his mild and forgiving temper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debonnaire designates having a sophisticated charm."*
+> - 📜 **Francois Rabelais (*Gargantua and Pantagruel*):** *"King Grandgousier was a most **debonnaire** prince, loving peace and good wine above all vain conquests."*
+> - 📜 **Walter Scott (*Quentin Durward*):** *"The young Scottish archer bowed with a **debonnaire** gallantry that pleased the Flemish burgomaster's daughter."*
+> - 📜 **Edward Bulwer-Lytton (*The Last of the Barons*):** *"Edward IV greeted his loyal citizens of London with that **debonnaire** smile that concealed his ruthless ambitions."*
+

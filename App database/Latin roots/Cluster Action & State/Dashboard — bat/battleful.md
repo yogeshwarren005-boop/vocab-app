@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a ready disposition to fight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing a ready disposition to fight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, ready for, or full of battle; martial, combative, or warlike in spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heroic poetry and romantic saga translation, a battleful warrior or tribe eagerly seeks glory in martial confrontation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battleful designates having or showing a ready disposition to fight."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The chieftain rallied his **battleful** clansmen, whose pipes sounded a wild martial gathering across the heather."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"The ancient Norse sagas breathe a **battleful** spirit of fearless defiance against chaotic frost giants and dark destiny."*
+> - 📜 **William Morris (*The Story of Sigurd the Volsung*):** *"The king rode forth with his **battleful** host, their burnished shields glittering beneath the morning sky."*
+

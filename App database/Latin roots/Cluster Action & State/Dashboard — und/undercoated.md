@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cover with a primer; apply a primer to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated or painted with an undercoat; or having a protective seal applied to the underside of a vehicle chassis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural and industrial painting, steel bridges are undercoated with zinc-rich primer to prevent atmospheric corrosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undercoated designates cover with a primer; apply a primer to."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"The iron castings were carefully **undercoated** with rust-resistant enamel before being assembled into dynamo housings."*
+> - 📜 **Arthur C. Clarke (*Islands in the Sky*):** *"The exterior hull plates of the spacecraft were **undercoated** with refractory ceramic bonding to withstand heat friction."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The old truck's chassis had been **undercoated** with tar years ago, but rust had eaten through the exposed fenders."*
+

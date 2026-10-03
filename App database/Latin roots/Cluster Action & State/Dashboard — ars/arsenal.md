@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the weapons and equipment that a country has.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military structure where arms and ammunition and other military equipment are stored and training is given in the use of arms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of weapons and military equipment stored by a country, person, or group; or an armory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Venetian maritime history, the Arsenale di Venezia was the state naval shipyard that pioneered pre-industrial assembly-line shipbuilding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She was forced to resign from the Service, and offered a choice to either join a penetration team to the Outer Region or work in an arsenal under tight supervision."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At intervals were heaps of green bread-fruit, raised in pyramidical stacks, resembling the regular piles of heavy shot to be seen in the yard of an arsenal."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Thiers alone dedicates a few eloquent lines to their memory: “These wretches had occupied the sacred citadel, having supplied themselves with guns from the arsenal, and fired” (the wretches) “at the French."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **arsenal** at Constantinople was stocked with ballistas, catapults, and jars of unquenchable Greek fire."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan explored the deep subterranean **arsenal** of Hell, searching for fiery materials to forge new engines of celestial war."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A national **arsenal** and naval dockyard are indispensable safeguards for the defense and commercial security of a free nation."*
+

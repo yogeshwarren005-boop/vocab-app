@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man-made object taken as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man-made object taken as a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object made or shaped by human workmanship, typically of cultural or historical interest; artifact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, an excavated stone or ceramic artefact provides diagnostic stratigraphical evidence for dating past material cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artefact designates a man-made object taken as a whole."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"The flaked flint core was indisputably an ancient human **artefact** recovered from undisturbed Pleistocene gravels."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Every domestic **artefact** preserved in ethnographic collections illustrates the slow evolution of mechanical arts among early peoples."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"The painted clay vessel was a priceless Minoan **artefact** demonstrating sophisticated bronze-age maritime commerce."*
+

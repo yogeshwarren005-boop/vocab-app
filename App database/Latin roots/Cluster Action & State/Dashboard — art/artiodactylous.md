@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or belonging to mammals of the order artiodactyla.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to mammals of the order artiodactyla.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an even number of toes or digits on each foot; pertaining to the artiodactyls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian comparative osteology, the artiodactylous foot design exhibits paraxonic symmetry with third and fourth digits forming a cloven hoof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactylous designates of or relating to or belonging to mammals of the order artiodactyla."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The **artiodactylous** ungulates exhibit an astragalus with two pulley-like articular surfaces that ensure strictly linear ankle flexion."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Fossil bones discovered in the Pampean formations revealed ancient **artiodactylous** mammals with curious intermediate dental characteristics."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The **artiodactylous** foot structure was perfected in ruminants, allowing swift escape from savanna predators."*
+

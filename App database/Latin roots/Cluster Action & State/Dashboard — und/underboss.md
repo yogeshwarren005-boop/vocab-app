@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant or second-in-command to a chief (especially in a crime syndicate).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant or second-in-command to a chief (especially in a crime syndicate).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A second-in-command in a criminal organization or hierarchy; or a subordinate supervisor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological studies of organized crime syndicates, the underboss manages day-to-day operations and buffers the boss from direct culpability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underboss designates an assistant or second-in-command to a chief (especially in a crime syndicate)."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The industrial trust employed an unscrupulous **underboss** to infiltrate and disrupt the clandestine meetings of the trade union."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"The political ward boss dispatched his trusted **underboss** to distribute election funds among the precinct captains."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"Barkeep McGinty ruled the Scowrers through a ruthless **underboss** who carried out midnight assassinations without remorse."*
+

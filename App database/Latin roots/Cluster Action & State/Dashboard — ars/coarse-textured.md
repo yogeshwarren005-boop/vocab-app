@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having surface roughness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having surface roughness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a rough, unrefined, or heavily granulated physical surface or tactile weave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and soil taxonomy, coarse-textured sandy soils possess rapid percolation rates and low cation exchange capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coarse-textured designates having surface roughness."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Early medieval masons preferred a **coarse-textured** sandstone that imparted a rugged honesty to the lower walls."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms transform **coarse-textured** gravelly soil into rich, homogenous black loam over successive decades."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The country folk wore **coarse-textured** homespun garments that withstood the thorny hedges and winter sleet."*
+

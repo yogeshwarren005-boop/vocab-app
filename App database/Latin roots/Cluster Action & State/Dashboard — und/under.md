@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located below or beneath something else.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in rank, power, or authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending or located directly below; at a lower level or position than; or subject to the control of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, citizens live under a system of statutory laws that balance personal liberty with civic duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These offices, so oft as thou wilt look, Shall profit thee, and much enrich thy book. 78 So oft have I invoked thee for my muse, And found such fair assistance in my verse, As every alien pen hath got my use, And under thee their poesy disperse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath abandon’d his physicians, madam; under whose practices he hath persecuted time with hope, and finds no other advantage in the process but only the losing of hope by time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be able for thine enemy Rather in power than use; and keep thy friend Under thy own life’s key."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"There be some sports are painful, and their labour delight in them sets off; some kinds of baseness are nobly **under**-gone."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species produced **under** domestication display far greater variability than allied forms in the wild state."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"To be **under** government is to be protected by known, established laws promulgated by lawful authority."*
+

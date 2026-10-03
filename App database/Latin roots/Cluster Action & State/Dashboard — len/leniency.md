@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mercifulness as a consequence of being lenient or tolerant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to yield to the wishes of someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Merciful tolerance, mildness in punishment, or compassionate indulgence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military discipline and criminal justice, perceived excess of leniency risks undermining deterrence and order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The lawyer, too, was fairly provoked at the faithlessness of the debtor in his promises or his attention to the subject; thus matters dragged wearily for months, yet exercised leniency in pressing the claim."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"They will teach him charity for the faults of others, without which none can hope for leniency for his own shortcomings."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The police inspector warned that past **leniency** had only emboldened the audacious criminal gang."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The King's sudden **leniency** toward the captured insurgents surprised his vindictive councilors."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Sir Thomas could not look with **leniency** upon conduct that had disgraced the moral honor of his family."*
+

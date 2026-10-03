@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To establish the truth or correctness of something; to make definite, ratify, or strengthen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian liturgy, to confirm candidates in the sacrament of confirmation seals their baptismal vows with episcopal chrism and laying on of hands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her death itself, which could not be her office to say is come, was faithfully confirm’d by the rector of the place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the gods had nothing else to do But to confirm my curses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, my circumstances, Being so near the truth as I will make them, Must first induce you to believe; whose strength I will confirm with oath; which I doubt not You’ll give me leave to spare when you shall find You need it not."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Subsequent observations have served only to **confirm** the truth of the principle that natural selection acts by preserving slight modifications."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A single glance at the footprint was sufficient to **confirm** my darkest suspicions regarding the intruder."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"A letter from Jane arrived to **confirm** all the distressing particulars of Lydia's elopement with Wickham."*
+

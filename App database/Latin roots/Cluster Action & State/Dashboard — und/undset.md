@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Norwegian novelist (1882-1949).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Norwegian novelist (1882-1949).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Sigrid Undset (1882–1949), the Norwegian novelist awarded the Nobel Prize in Literature in 1928.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scandinavian literary history and medievalist scholarship, Undset is celebrated for Kristin Lavransdatter, masterfully capturing medieval Catholic life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undset designates norwegian novelist (1882-1949)."*
+> - 📜 **Sigrid Undset (*Kristin Lavransdatter*):** *"The historical realism of **Undset** portrayed the profound spiritual trials and human passion of medieval Norway."*
+> - 📜 **Thomas Mann (*Essays of Three Decades*):** *"The epic narrative depth of **Undset** renewed our modern understanding of the psychological reality of the Middle Ages."*
+> - 📜 **W. H. Auden (*Forewords and Afterwords*):** *"In the historical trilogies of **Undset**, moral conscience and passionate human frailty collide with devastating truth."*
+

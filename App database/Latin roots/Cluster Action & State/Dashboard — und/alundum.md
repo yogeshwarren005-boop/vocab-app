@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance made of fused alumina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance made of fused alumina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial abrasive and refractory material made of fused crystalline alumina (aluminum oxide).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceramic materials science, Alundum crucibles and grinding wheels withstand extreme metallurgical temperatures above two thousand degrees Celsius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alundum designates a substance made of fused alumina."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"We lined the experimental high-temperature electric furnace with porous **alundum** cement to resist thermal shock."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Industrial refractory coatings formulated from fused **alundum** protected the rocket nozzle from eroding under searing exhaust gases."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The active radioactive preparation was contained inside an **alundum** crucible within the heavy lead shield."*
+

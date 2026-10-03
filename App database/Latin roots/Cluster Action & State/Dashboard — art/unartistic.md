@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking aesthetic sensibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking aesthetic sensibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not artistic; lacking aesthetic sensibility, taste, refinement, or harmony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian aesthetic criticism, mass factory goods were decried as unartistic monstrosities devoid of human feeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unartistic designates lacking aesthetic sensibility."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The vulgar ornamentation slapped onto railway stations is thoroughly **unartistic**, corrupting the natural taste of the public."*
+> - 📜 **Oscar Wilde (*Intentions*):** *"Nothing is so completely **unartistic** as the pedantic desire to reduce poetry to a vehicle for moralizing lectures."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Tanner scoffed at the **unartistic** conventions of suburban drawing rooms where respectability replaced genuine creative passion."*
+

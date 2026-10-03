@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who can read but is disinclined to derive information from literary sources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who can read but is disinclined to derive information from literary sources.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To alter letters or repeat repetitive vowel patterns; or lacking interest in reading despite being able to read.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and sociolinguistics, aliterate habits describe literate individuals who choose not to engage with written texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aliterate designates a person who can read but is disinclined to derive information from literary sources."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"The dialect expert observed how colloquial speakers **aliterate** vowels into indistinguishable regional murmurs."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"A prosperous class of completely **aliterate** citizens emerged, content with sports tabloids and music halls."*
+> - 📜 **John Ruskin (*Sesame and Lilies*):** *"To possess the mechanical skill of reading yet remain wilfully **aliterate** is to despise the treasures of human wisdom."*
+

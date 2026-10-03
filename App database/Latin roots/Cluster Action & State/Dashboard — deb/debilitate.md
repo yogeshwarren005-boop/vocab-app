@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make weak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make weak.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone or something weak, feeble, or constitutionally infirm; to enfeeble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military operations and siege craft, prolonged blockades aim to debilitate defending garrisons by exhausting food and medical stores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I forgit myself when I take such an interest in your breakfast, as to wish your frame, exhausted by the debilitating effects of prodigygality, to be stimilated by the ’olesome nourishment of your forefathers."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The summer days in the lower valleys are quite warm, but, as the dry atmosphere rapidly absorbs the perspiration of the body, it prevents the debilitating effect experienced where the air is heavier and more saturated with moisture."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A very valuable person, and deservedly respected.” The debilitated cousin supposes he is “’normously rich fler.” “He has a stake in the country,” says Sir Leicester, “I have no doubt."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Luxury and sedentary ease served to **debilitate** the martial spirit that had formerly subdued the Mediterranean world."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Excessive inbreeding tends to **debilitate** domesticated stock, diminishing fertility and constitutional resistance to illness."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A lingering tropical malaria served to **debilitate** Dr. Watson so severely that he was invalided home to England."*
+

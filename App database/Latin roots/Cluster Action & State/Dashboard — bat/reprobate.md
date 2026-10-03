@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person without moral scruples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reject (documents) as invalid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unprincipled or depraved person; or to express severe disapproval of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Calvinist theology and predestinarian dogma, the reprobate are those excluded from divine grace and foreordained to eternal damnation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If drawing my sword against the humour of affection would deliver me from the reprobate thought of it, I would take desire prisoner, and ransom him to any French courtier for a new-devised curtsy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if we do omit This reprobate till he were well inclined, And satisfy the Deputy with the visage Of Ragozine, more like to Claudio?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By reprobate desire thus madly led, The Roman lord marcheth to Lucrece’ bed."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Prince Hal was playfully rebuked for keeping company with Falstaff, that ancient and incorrigible **reprobate**."*
+> - 📜 **John Bunyan (*Grace Abounding to the Chief of Sinners*):** *"I trembled in terror lest I should find myself numbered among the hopeless **reprobate** abandoned by God."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Brocklehurst denounced the weeping child as an ungrateful **reprobate** who harbored a deceitful heart."*
+

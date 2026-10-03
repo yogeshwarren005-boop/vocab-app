@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an affirmative manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an affirmative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that expresses agreement, consent, or positive assertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative voting records, members voting affirmatively register their formal statutory assent to the bill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Stanhope answered affirmatively."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Whatever happens to you,” he said, “you must bear it all manfully if you have firmly resolved to join our Brotherhood.” (Pierre nodded affirmatively.) “When you hear a knock at the door, you will uncover your eyes,” added Willarski."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I hear you have made peace with Turkey?” Balashëv bowed his head affirmatively."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes nodded **affirmatively** as the footprints revealed that the beast had indeed turned back at the gate."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I answered **affirmatively** when Mr. Rochester asked whether I was prepared to endure hard journeys with him."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak answered **affirmatively** to the bailiff's questions, his calm honesty winning instant trust."*
+

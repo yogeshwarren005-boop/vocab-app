@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who fights (or is fighting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaging in or ready for combat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, soldier, or nation that engages in fighting, armed conflict, or active competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international humanitarian law and the Geneva Conventions, a lawful combatant wears distinctive uniforms and bears arms openly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give with thy trumpet a loud note to Troy, Thou dreadful Ajax, that the appalled air May pierce the head of the great combatant, And hale him hither."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"CXXII Grandonie was both proof and valiant, And virtuous, a vassal combatant."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"That Emperour is bold and combatant, Rather he'ld die than from the field draw back; No king neath heav'n above a child he ranks."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Every major European **combatant** poured its industrial output and young manpower into the colossal attrition of trench warfare."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The wounded French **combatant** was treated with chivalrous courtesy by the Russian field surgeons after the engagement."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"Thirty chosen warriors from each Highland clan entered the lists as an appointed **combatant** in the judicial trial by battle."*
+

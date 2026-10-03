@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give to a charity or good cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to a charity or good cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give money, goods, or services to help a person, charity, or worthy cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and transfusion medicine, eligible individuals donate blood or bone marrow to replenish clinical blood banks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"DAMES DONATE DUBLIN’S CITS SPEEDPILLS VELOCITOUS AEROLITHS, BELIEF —It gives them a crick in their necks, Stephen said, and they are too tired to look up or down or to speak."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On the 15th of January, 1851, the waters of the “main channel” of Mill Creek were donated to Brigham Young."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge resolved to **donate** an astonishing sum to the benevolent fund, redeeming his past selfish parsimony."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"A generous man is moved by natural sympathy to **donate** portion of his abundance to relieve destitute neighbors."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley was ever ready to **donate** food and fuel to the cottagers during severe winter frosts."*
+

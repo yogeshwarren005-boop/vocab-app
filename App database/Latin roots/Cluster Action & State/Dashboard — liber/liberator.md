@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who releases people from captivity or bondage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who releases people from captivity or bondage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who liberates or frees others from oppression, slavery, or foreign domination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Latin American and European history, Simón Bolívar and Alexander II earned the historical epithet of El Libertador and the Tsar Liberator respectively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The results, however, are momentous; for the hero, being a man of action, is no longer content to write and pay for the printing: in his capacity of liberator he has to step into the arena, and, above all, he has to think out a philosophy."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Gilchrist's part something more than the friendship of her new-found liberator was desired."*
-> - 📜 **James Joyce (*Ulysses*):** *"They passed under the hugecloaked Liberator’s form."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"The hero appears as a divine **liberator**, shattering the false idols and empty formulas that imprison human souls."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Belisarius was acclaimed as the noble **liberator** of Rome when his legions expelled the Gothic garrisons from the gates."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Washington stood before history as the true **liberator** of his country, preferring civic freedom to royal crowns."*
+

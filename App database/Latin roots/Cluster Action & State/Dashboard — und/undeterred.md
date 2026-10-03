@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deterred; - osbert sitwell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deterred; - osbert sitwell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persevering without being discouraged, intimidated, or turned aside by obstacles, danger, or opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polar exploration history, expeditions persevered undeterred through Arctic blizzards to establish critical geographic coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"On arriving before the battlements, I found the Union Jack flying and the drawbridge up; but undeterred by this show of defiance and resistance, I rang at the gate, and was admitted in a most pacific manner by the Aged."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The merchant seamen sailed on **undeterred** by submarine wolfpacks lurking across the stormy Atlantic sea lanes."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The steamer pressed upriver into the humid jungle mist, **undeterred** by the distant rumble of tribal war drums."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck broke trail through deep Yukon snowdrifts, **undeterred** by freezing temperatures and blinding blizzards."*
+

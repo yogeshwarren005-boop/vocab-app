@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not getting adequate food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not getting adequate food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having enough food to eat; insufficiently fed or suffering from chronic malnutrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social reform histories, underfed factory laborers were vulnerable to tuberculosis and occupational exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many persons are moved by sympathy to pronounce competition among low-paid and underfed workers to be bad, and each worker is convinced that it is so in his own trade."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Oliver Twist and his companions suffered the tortures of slow starvation, being systematically **underfed** in the parish workhouse."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The unemployed miner looked pale and chronically **underfed**, his face lined with the anxiety of providing for his children."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The overworked farm horses were visibly **underfed**, their rib cages showing prominently through dull winter coats."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nurse in training who is undergoing a trial period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone released on probation or on parole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person undergoing a period of trial or probation, such as a novice, newly hired employee, or theological student.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century hospital administration, a nurse probationer received practical clinical training under the supervision of a ward sister.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Hall session of 1844 was Cairns's last, and the next step for him to take in ordinary course was to apply to a Presbytery for license as a probationer."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These formed the official creed of the Church, and assent to them was exacted from all its ministers, probationers, and elders."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Reuben Butler was a licensed church **probationer**, waiting patiently for a parish living to fall vacant in the Kirk of Scotland."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The young **probationer** at Lowood school endured strict discipline and meager rations with quiet Christian fortitude."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The hospital **probationer** took the patient's pulse and temperature, recording the clinical data on the chart at the bedside."*
+

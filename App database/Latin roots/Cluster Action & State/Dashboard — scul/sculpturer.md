@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who creates sculptures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who creates sculptures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or literary term for a sculptor; one who carves, models, or engraves sculptures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th-century prose, a sculpturer was distinguished from a painter by their mastery over tactile mass and architectural proportion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculpturer designates an artist who creates sculptures."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The ancient monk who carved these choir stalls was an inspired **sculpturer**, pouring heartfelt faith into stubborn oak."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The **sculpturer** must possess an accurate comprehension of anatomical proportions before he ventures upon marble heroic statues."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"J. J. Ridley wandered through the Louvre admiring the antique statues, imagining himself both painter and **sculpturer**."*
+

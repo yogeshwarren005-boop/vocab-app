@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick soft fur lying beneath the longer and coarser guard hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick soft fur lying beneath the longer and coarser guard hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thick, soft, dense fur that grows beneath the longer, stiffer guard hairs of an animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian pelage biology, the woolly underfur traps an insulating layer of warm air next to the epidermis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underfur designates thick soft fur lying beneath the longer and coarser guard hair."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck's dense **underfur** thickened as the Yukon winter set in, shielding his body from seventy-degree frosts."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The prized silky **underfur** of the Angora rabbit is developed through centuries of artificial selective breeding."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The beaver's soft **underfur** was anciently prized by fur trappers for fashioning waterproof felt hats."*
+

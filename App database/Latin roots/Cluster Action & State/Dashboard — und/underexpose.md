@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to too little light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose insufficiently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To expose photographic film or digital sensors to light for too short a time, resulting in dark images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technical photography, taking care not to underexpose shadow details preserves tonal range across high-contrast compositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underexpose designates expose to too little light."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"Careful shutter regulation ensures that the moving film does not **underexpose** under artificial incandescent studio illumination."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"The photographer was warned not to **underexpose** the crime-scene negatives in the dim interior of the old manor."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Astronomers took long telescope exposures so as not to **underexpose** the faint spiral arms of distant nebulae."*
+

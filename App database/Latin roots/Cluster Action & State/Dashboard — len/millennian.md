@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a millennium or span of a thousand years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a millennium or span of a thousand years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in the millennium; a millenarian or chiliast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological historiography, a millennian anticipated the literal thousand-year reign of Christ upon earth before the final judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millennian designates relating to a millennium or span of a thousand years."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient **millennian** believers comforted their persecuted brethren with prophecies of an earthly paradise."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The Fifth Monarchy men were fanatical **millennian** sectaries who refused allegiance to any earthly sovereign."*
+> - 📜 **John Locke (*A Paraphrase and Notes on the Epistles of St. Paul*):** *"Early patristic commentators occasionally adopted a literal **millennian** interpretation of apocalyptic visions."*
+

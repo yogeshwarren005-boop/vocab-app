@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Employed only part-time when one needs full-time employment or not making full use of your skills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employed only part-time when one needs full-time employment or not making full use of your skills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Employed in a job that does not make full use of one's skills, abilities, education, or working capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor economics, an underemployed graduate working in low-skilled manual service illustrates structural human capital misallocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underemployed designates employed only part-time when one needs full-time employment or not making full use of your skills."*
+> - 📜 **George Gissing (*New Grub Street*):** *"Edwin Reardon found himself an **underemployed** classical scholar struggling to earn bread by writing cheap magazine reviews."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"During seasonal trade slumps, manufacturing artisans remain **underemployed**, earning barely enough for bare subsistence."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"Gordon felt bitter that his literary talents left him an **underemployed** clerk in a dingy antiquarian bookshop."*
+

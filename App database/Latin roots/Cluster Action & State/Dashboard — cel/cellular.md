@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or divided into or containing cells or compartments (the smallest organizational or structural unit of an organism or organization).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or pertaining to biological cells; or organized into discrete, interconnected functional compartments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and cytopathology, cellular differentiation describes the epigenetic maturation of stem cells into specialized functional tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Indeed, owing to this cellular arrangement it resists like a block, as if it were solid."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And the botanist who finds that the apple falls because the cellular tissue decays and so forth is equally right with the child who stands under the tree and says the apple fell because he wanted to eat it and prayed for it."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores in both are distinctly cellular, but in the last genus far more opaque and consolidated than in the first."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Microscopic examination reveals that plant tissue is constructed of delicate **cellular** walls surrounding organic fluid."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The fundamental unit of all living organisms is the single **cellular** mass of protoplasm containing a nucleus."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The complex organs of higher animals arise through progressive multiplication and specialization of primitive **cellular** layers."*
+

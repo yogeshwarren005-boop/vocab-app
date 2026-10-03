@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intelligible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intelligible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that is natural, reasonable, or easy to understand; for reasons that are obvious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, patients diagnosed with life-threatening illness react understandably with acute psychological shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understandably designates in an intelligible manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was **understandably** distressed when she realized the cold intellectual vanity that motivated Casaubon's labors."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Mary Morstan was **understandably** agitated as we drove in the four-wheeler toward the mysterious midnight rendezvous."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane shrank **understandably** from St. John's proposal, refusing to sacrifice her emotional truth to cold religious duty."*
+

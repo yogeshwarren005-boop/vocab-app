@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not left to spoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not left to spoil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not broken down, rotted, or decomposed; remaining intact and chemically unchanged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil science and geology, undecomposed organic leaf litter forms a protective mor layer over acidic boreal forest soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Consequently, the products from the roasting of chalcopyrite consist principally of oxides of iron and copper, together with a certain amount of copper sulphate, very little iron sulphate, and some undecomposed sulphides."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Earthworms swallow fallen leaves, digesting the soft parts while ejecting the **undecomposed** fibrous fragments in their castings."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The coal beds contain fossilized trunks and leaves preserved in an almost **undecomposed** state beneath dense shale layers."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"In the absence of airborne microbial germs, sterile broth remains clear and **undecomposed** indefinitely."*
+

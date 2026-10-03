@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate at the joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate at the joints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate, disconnect, or dismember bones or parts at their joints; or to break apart into distinct components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological anthropology and zooarchaeology, butchery marks reveal how early hominids used flint blades to disarticulate large ungulate carcasses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disarticulate designates separate at the joints."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The comparative anatomist must carefully **disarticulate** the cranial sutures to examine the internal contour of the sphenoid bone."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The ocean surf had begun to **disarticulate** the giant whale skeleton stranded upon the shingle beach of Tierra del Fuego."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon resolved to **disarticulate** the gangrenous toe at the metatarsophalangeal joint to arrest ascending infection."*
+

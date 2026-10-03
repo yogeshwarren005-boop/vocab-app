@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without diplomacy; in an undiplomatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without diplomacy; in an undiplomatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a blunt, tactless, or indiscreet manner that disregards delicate political or interpersonal conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bilateral summit diplomacy, raising contentious territorial boundaries undiplomatically risks collapsing fragile ceasefire negotiations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undiplomatically designates without diplomacy; in an undiplomatic manner."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"Captain Shotover spoke **undiplomatically** to his aristocratic guests, mocking their idle lives without hesitation."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"Mr. Vladimir spoke **undiplomatically** to Verloc, demanding an immediate outrage to shock the British bourgeois public."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The young member of Parliament blurted out party grievances **undiplomatically** before the press corps."*
+

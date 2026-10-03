@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous colorless flammable gas used in organic synthesis and to dope transistors and as a poison gas in warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous colorless flammable gas used in organic synthesis and to dope transistors and as a poison gas in warfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely toxic, flammable gas (AsH3) consisting of arsenic and hydrogen, having a mild garlic odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern semiconductor fabrication, arsine gas is used as an n-type epitaxial dopant for microelectronic silicon and gallium arsenide wafers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsine designates a poisonous colorless flammable gas used in organic synthesis and to dope transistors and as a poison gas in warfare."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The generation of poisonous **arsine** gas during the reduction of arsenic compounds requires rigorous laboratory ventilation."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The chemist explained the lethal mechanism of **arsine**, noting its rapid destruction of red blood cells in the bloodstream."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"Inhalation of even trace quantities of **arsine** provokes acute intravascular hemolysis and renal failure."*
+

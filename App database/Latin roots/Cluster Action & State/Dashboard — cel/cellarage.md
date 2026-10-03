@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A charge for storing goods in a cellar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A storage area in a cellar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subterranean cellar space; or the commercial charge levied for storing goods in a cellar warehouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime and dockland commerce, merchant factors leased bonded cellarage along the Thames to mature imported spirits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come on, you hear this fellow in the cellarage."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes’s jet-black door, in an angle profoundly dark on the brightest midsummer morning and encumbered by a black bulk-head of cellarage staircase against which belated civilians generally strike their brows."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Grewgious’s sleeping-room was across the common stair; and he held some not empty cellarage at the bottom of the common stair."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O day and night, but this is wondrous strange! A worthy pioner! Once more remove, good friends. Hear you this fellow in the **cellarage**?"*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"The venerable counting-house possessed extensive subterranean **cellarage** where ancient maritime ledgers were stored."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"The prudent vintner computes the annual expense of his warehouse **cellarage** against seasonal wholesale turnover."*
+

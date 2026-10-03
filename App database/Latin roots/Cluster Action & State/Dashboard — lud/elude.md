@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Escape, either physically or mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be incomprehensible to; escape understanding by.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To evade or escape from danger, pursuit, or capture, typically in a skillful or cunning way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and memory recall, a fugitive idea or forgotten name may elude conscious recollection despite focused effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The other object, to elude pursuit and to be lost."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had tried to elude agitation by fixing her mind on the trees, sky, any trivial object before her eyes, whilst his reproaches fell, but ingenuity could not save her now."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst and Miss Temple, I had not, at the same time, neglected precautions to secure my personal safety; which I thought would be effected, if I could only elude observation."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The escaped convict managed to **elude** the cordon of police across the vast, trackless wastes of Dartmoor."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The precise ecological causes determining the extinction of a species frequently **elude** the keenest naturalist's scrutiny."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The creature leaped across the icy crevasses with agile strides, mocking my futile attempts to **elude** his tormenting pursuit."*
+

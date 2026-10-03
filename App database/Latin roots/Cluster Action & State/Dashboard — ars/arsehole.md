@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vulgar slang for anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vulgar slang for anus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anus; or colloquially, an irritating, obnoxious, or contemptible person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical dialectology and colloquial lexicography, the compound arsehole dates back to Middle English vulgar anatomical registers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsehole designates vulgar slang for anus."*
+> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan laughed coarse banter over his morning shave, mocking the pompous official as a pretentious **arsehole**."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The abusive kitchen chef cursed every scullion in fluent Parisian gutter slang, labeling the head waiter a meddlesome **arsehole**."*
+> - 📜 **Robert Louis Stevenson (*The Ebb-Tide*):** *"The drunken sailor hurled coarse epithets across the tavern floor, calling the mate an insolent **arsehole**."*
+

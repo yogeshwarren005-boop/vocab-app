@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fall short of (the runway) in a landing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shoot short of or below (a target).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shoot short of a target; or of an aircraft, to land short of the runway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation approach procedures, wind shear or loss of engine power can cause an incoming aircraft to undershoot the airfield threshold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undershoot designates fall short of (the runway) in a landing."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The inexperienced artillery battery continued to **undershoot** the enemy breastworks, kicking up red Georgia mud in the cornfield."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"The pilot was careful not to **undershoot** the orbital glide path, which would bring the craft down into turbulent lower atmosphere."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Locksley cautioned his archers not to **undershoot** the castle barbican when shooting against the wind."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret in the wrong way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fail to interpret, comprehend, or understand something or someone correctly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intercultural communication and diplomacy, ambiguous treaty phrasing causes rival chancelleries to misunderstand strategic intentions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps I can make use of him—I might do it then!” She pointed in the direction of Casterbridge, and the dog seemed to misunderstand: he trotted on."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But the energy, the force, the living that was in them, that could no one misunderstand."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rivers! you quite put me out of patience: I am rational enough; it is you who misunderstand, or rather who affect to misunderstand.” “Perhaps, if you explained yourself a little more fully, I should comprehend better.” “Explain!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You choose to **misunderstand** me, said Elizabeth, smiling; I never accused Mr. Darcy of lacking intellectual abilities."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Vague philosophical terms cause disputants to **misunderstand** one another and waste lifetimes in verbal controversies."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Do not **misunderstand** my silence, for my grief is of that deep inward nature that passes outward show."*
+

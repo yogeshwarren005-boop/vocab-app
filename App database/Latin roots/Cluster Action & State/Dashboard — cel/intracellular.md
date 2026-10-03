@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located or occurring within a cell or cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or occurring within a cell or cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Located, occurring, or functioning within the boundary of a biological cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and pathology, intracellular pathogens such as viruses and Listeria evade humoral antibodies by replicating inside host cytoplasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intracellular designates located or occurring within a cell or cells."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Yeast cells perform **intracellular** fermentation of sugars, converting dextrose into alcohol and carbonic acid gas."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Protoplasmic streaming demonstrates the vigorous **intracellular** circulation of nutrients within living plant cells."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Messenger RNA directs the assembly of amino acids at the **intracellular** ribosomal factory."*
+

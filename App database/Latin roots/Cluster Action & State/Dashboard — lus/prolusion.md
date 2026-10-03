@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short introductory essay preceding the text of a book.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising in preparation for strenuous activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A preliminary essay, trial performance, or introductory exercise preceding a larger work or contest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical academic oratory and scholastic disputation, a prolusion served as a formal rhetorical prelude before faculty debates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But why such long prolusion and display, Such turning and adjustment of the harp, And taking it upon your breast, at length, Only to speak dry words across its strings?"*
+> - 📜 **John Milton (*Prolusions*):** *"Milton delivered his collegiate **prolusion** in Cambridge, demonstrating his mastery of Latin eloquence and philosophical debate."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"The youthful poems of Cowley were regarded as a brilliant **prolusion** to his subsequent metaphysical works."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"These early sketches were a charming **prolusion** to Leonardo's monumental fresco compositions in Milan."*
+

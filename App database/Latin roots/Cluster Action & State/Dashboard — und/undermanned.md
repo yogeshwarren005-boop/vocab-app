@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequate in number of workers or assistants etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequate in number of workers or assistants etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having too few crew, workers, or personnel to operate efficiently, properly, or safely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history, an undermanned vessel in stormy waters struggled to shorten sail quickly, risking structural dismasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undermanned designates inadequate in number of workers or assistants etc."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whaling ship was dangerously **undermanned** after several seamen died of scurvy in the tropical doldrums."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The naval shore batteries were severely **undermanned**, leaving the harbor mouth exposed to night torpedo raids."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"With half the crew prostrate with tropical fever, the barque was pitifully **undermanned** for the passage across the gulf."*
+

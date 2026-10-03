@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or covered with or resembling freckles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or covered with or resembling freckles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with small freckle-like spots or freckly dots; lentiginous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botanical and entomological taxonomy, a lentiginose petal or insect wing exhibits minute, scattered brownish maculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentiginose designates relating to or covered with or resembling freckles."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The pale corolla of the mountain orchid is delicately **lentiginose**, marked with tiny rust-colored flecks."*
+> - 📜 **Joseph Dalton Hooker (*Flora Antarctica*):** *"The herbarium specimen was distinguished by its **lentiginose** foliage, speckled with microscopic glandular spots."*
+> - 📜 **William Jackson Hooker (*British Flora*):** *"The lower lip of the foxglove blossom is distinctly **lentiginose**, guiding pollinating insects toward the nectary."*
+

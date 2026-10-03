@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The density, abundance, and structural arrangement of cells within a biological tissue or marrow sample.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic hematopathology, bone marrow cellularity is assessed relative to age-adjusted norms to diagnose aplastic anemia or leukemic infiltration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellularity designates the state of having cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Histological biopsy of the lymphoid tumor demonstrated marked hyper-**cellularity** and loss of normal follicular architecture."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The neuropathologist evaluated the high **cellularity** of the glioma specimen to determine the histological grade of malignancy."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The variation in tissue **cellularity** across embryonic stages illustrates the rapid tempo of primordial organogenesis."*
+

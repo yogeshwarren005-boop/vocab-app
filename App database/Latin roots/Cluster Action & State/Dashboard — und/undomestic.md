@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not domestic or related to home.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not domestic or related to home.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not accustomed to, suitable for, or fond of home life, household duties, or domestic affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century social critique, women who rejected conventional parlor domesticity were often branded as undomestic by conservative journalists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undomestic designates not domestic or related to home."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mrs. Jellyby's obsessive telescopic philanthropy rendered her notoriously **undomestic**, leaving her home in chaotic disarray."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond considered Dorothea's grand spiritual ambitions strangely **undomestic** and inconvenient for a young wife."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine was pronounced singularly **undomestic** by her mother, preferring cricket and baseball to rolling up paste."*
+

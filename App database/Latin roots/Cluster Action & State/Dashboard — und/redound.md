@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Return or recoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contribute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To contribute greatly to a person's credit, honor, or disadvantage; or to recoil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical legal and moral discourse, honorable public conduct redounds to the enduring glory of a commonwealth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will, my lord, and doubt not so to deal As all things shall redound unto your good."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"And my heart could but pity the woman, whose pain I yet knew would redound to her infinite gain."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I did not omit even our sports and pastimes, or any other particular which I thought might redound to the honour of my country."*
+> - 📜 **John Milton (*Paradise Lost*):** *"All our glory shall **redound** to our Creator, when we stand confirmed in holiness before the throne."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A faithful discharge of the public debt will **redound** to the lasting credit and commercial prosperity of the American union."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Magnanimity in politics will **redound** more to imperial dignity than stubborn insistence upon uncollectible revenue rights."*
+

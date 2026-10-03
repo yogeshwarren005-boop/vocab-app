@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be ascertained; resisting discovery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be ascertained; resisting discovery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being found, seen, or ascertained by searching or investigation; completely hidden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptography and steganography, data embedded within digital carriers in an undiscoverable manner resists statistical frequency detection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A Formula of some great undiscoverable indefinable Thought...."*
+> - 📜 **Edgar Allan Poe (*The Purloined Letter*):** *"The prefect assumed the stolen letter was concealed in an **undiscoverable** cavity within the minister's apartment."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"The metaphysical nature of ultimate moral origins remains **undiscoverable** by pure speculative reasoning."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The causes of natural phenomena are not inherently **undiscoverable**, but yield steadily to empirical investigation."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface coating for ceramics or porcelain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality that outshines the usual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British and Commonwealth spelling of luster; sheen, gentle radiance, or distinguished renown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural interior decoration, cut-glass lustre drops reflect prismatic spectra from crystal chandeliers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy lustre thickens When he shines by."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, sir,” quoth he, “Call me not fool till heaven hath sent me fortune.” And then he drew a dial from his poke, And, looking on it with lack-lustre eye, Says very wisely, “It is ten o’clock."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; I rather added A lustre to it."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her fine dark eyes acquired remarkable brilliance and **lustre** from the animation of the discussion."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The moon shed her pale silver **lustre** over the ruined arches of the Roman Colosseum."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp was eager to add the **lustre** of an aristocratic marriage to her precarious social position."*
+

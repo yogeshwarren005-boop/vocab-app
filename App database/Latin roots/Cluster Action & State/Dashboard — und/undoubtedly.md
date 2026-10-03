@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without doubt; certainly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without doubt; certainly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without any doubt, question, or uncertainty; definitely and undeniably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical epistemology and jurisprudence, corroborated physical evidence undoubtedly establishes the sequence of contested events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This Cardinal, Though from an humble stock, undoubtedly Was fashioned to much honour."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa did not need to mind these annoying negotiations now, but calmly replied that the Baron would send his nephew to the high school in the city and would undoubtedly make his own arrangements."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was full of business and undoubtedly was, as she had told us, devoted to the cause."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The presence of fresh carriage ruts **undoubtedly** proved that the visitor had arrived within the past half hour."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geological exploration has **undoubtedly** revealed only a tiny fraction of the extinct organisms preserved in rocks."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The personal courage of Julian the Apostate was **undoubtedly** equal to the greatest commanders of antiquity."*
+

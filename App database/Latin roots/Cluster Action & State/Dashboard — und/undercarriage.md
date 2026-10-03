@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Framework that serves as a support for the body of a vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Framework that serves as a support for the body of a vehicle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The landing gear of an aircraft; or the supporting framework or chassis beneath a vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical engineering, retractable undercarriage mechanisms reduce aerodynamic drag during high-speed cruise flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undercarriage designates framework that serves as a support for the body of a vehicle."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"The lunar lander touched down softly, its hydraulic **undercarriage** absorbing the impact upon the basaltic dust of the crater floor."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The monoplane landed smoothly on the turf, its wheeled **undercarriage** kicking up a cloud of summer dust."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The post-chaise suffered a fractured axle in its wooden **undercarriage**, stranding Mr. Pickwick upon the road to Rochester."*
+

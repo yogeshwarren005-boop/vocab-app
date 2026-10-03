@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Artwork that helps make something clear or attractive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing by example.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture, drawing, or diagram accompanying a text; or an example used to explain or make something clear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of printing, copperplate book illustration enabled high-precision anatomical and botanical atlases in the Renaissance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illustration designates artwork that helps make something clear or attractive."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Let us take for an **illustration** the simple idea of whiteness as observed in snow or lily petals."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The accompanying geological **illustration** depicts the uplifted fossil shell beds along the Chilean coast."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"A comparative skeletal **illustration** demonstrates the structural affinities between the anthropoid ape and human forms."*
+

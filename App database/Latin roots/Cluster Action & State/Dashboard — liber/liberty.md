@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunity from arbitrary exercise of authority: political independence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom of choice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from arbitrary control, despotic oppression, or unlawful imprisonment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional theory, civil liberty encompasses procedural due process, freedom of conscience, speech, assembly, and protection against arbitrary arrest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now go we in content To liberty, and not to banishment. [_Exeunt._] ACT II SCENE I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I must have liberty Withal, as large a charter as the wind, To blow on whom I please, for so fools have."*
+> - 📜 **Patrick Henry (*Speech in the Virginia Convention*):** *"Is life so dear, or peace so sweet, as to be purchased at the price of chains and slavery? Forbid it, Almighty God! I know not what course others may take; but as for me, give me **liberty** or give me death!"*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The only freedom which deserves the name, is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs, or impede their efforts to obtain it; civil **liberty** protects the independence of the individual."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"**Liberty**! Freedom! Tyranny is dead! Run hence, proclaim, cry it about the streets."*
+

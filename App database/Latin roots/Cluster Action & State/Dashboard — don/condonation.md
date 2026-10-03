@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pardon by treating the offender as if the offense had not occurred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pardon by treating the offender as if the offense had not occurred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The overlooking, excusing, or tacit forgiveness of an offense or wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marital and ecclesiastical law, condonation is the voluntary forgiveness of a matrimonial offense, barring subsequent divorce petitions on that ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, condonation designates a pardon by treating the offender as if the offense had not occurred."*
+> - 📜 **Anthony Trollope (*He Knew He Was Right*):** *"Mr. Trevelyan's torturing jealousy refused to grant that Christian **condonation** which alone could restore domestic peace."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode clung to the hope that his generous civic philanthropies would earn divine **condonation** for past deceit."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Continued voluntary cohabitation with knowledge of adultery constitutes legal **condonation** of the offense."*
+

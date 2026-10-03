@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stock with less than the usual or desirable number or quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stock with less than the usual or desirable number or quantity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide with insufficient stock, inventory, goods, or grazing livestock for pasture capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In range management and pasture agronomy, graziers who understock rich pastures allow coarse woody weeds to outcompete forage grasses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understock designates stock with less than the usual or desirable number or quantity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The tradesman who is forced to **understock** his warehouse loses custom to larger mercantile houses with diverse inventories."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard cautioned the young farmer not to **understock** his sheep meadows, which could easily sustain two hundred ewes."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"It is safer for a young beginner to **understock** his shop slightly than to overtrade on borrowed mercantile capital."*
+

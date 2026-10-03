@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the firmament or upper regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the firmament or upper regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the firmament; celestial or celestial-vaulted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Romantic poetics and cosmological metaphysics, firmamental beauty reflects transcendent cosmic harmony presiding above earthly mutability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Manœuvres of a most extraordinary kind were going on in the vast firmamental hollows overhead."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Manœuvres of a most extraordinary kind were going on in the vast firmamental hollows overhead."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The stars were dim, and thick the night; the helmsman's face by the lamp gleam'd white; from the sails the dew did drip—till clomb above the eastern bar the horned Moon, with one bright star within the nether tip, shining with **firmamental** majesty."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Beneath the silent **firmamental** dome, man wanders through eternity wrapped in his mysterious vesture of flesh."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The stars awaken a certain reverence, because though always present, they are inaccessible, diffusing **firmamental** tranquility."*
+

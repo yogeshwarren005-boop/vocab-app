@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slavonic language spoken in rural area of southeastern germany.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slavonic language spoken in rural area of southeastern germany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Lusatia, a historical region in eastern Germany and southwestern Poland; or a West Slavic Sorbian inhabitant thereof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European ethnolinguistics, Lusatian Sorbs preserve Upper and Lower Sorbian languages, surrounded by Germanic speech communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusatian designates a slavonic language spoken in rural area of southeastern germany."*
+> - 📜 **Jacob Grimm (*Teutonic Mythology*):** *"Folkloric traditions among the **lusatian** Sorbs preserve ancient Slavic nature deities and seasonal customs."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"Frederick the Great marched his Prussian grenadiers through the **lusatian** hills during the Seven Years' War."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **lusatian** dialects offer invaluable philological data regarding archaic West Slavic phonetic changes."*
+

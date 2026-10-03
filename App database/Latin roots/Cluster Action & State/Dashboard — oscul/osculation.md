@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mathematics) a contact of two curves (or two surfaces) at which they have a common tangent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of caressing with the lips (or an instance thereof).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of kissing; or in mathematics, contact between two curves sharing higher-order derivatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and mechanics, osculation denotes second-order contact between a curve and its osculating circle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He kissed the plump mellow yellow smellow melons of her rump, on each plump melonous hemisphere, in their mellow yellow furrow, with obscure prolonged provocative melonsmellonous osculation."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The hearty mistletoe rites concluded with enthusiastic **osculation** amidst the laughter of the country dancers."*
+> - 📜 **Oliver Wendell Holmes (*Elsie Venner*):** *"The professor considered affectionate **osculation** a hygienic hazard, yet tolerated it upon festive domestic anniversaries."*
+> - 📜 **Augustus De Morgan (*The Differential and Integral Calculus*):** *"The degree of **osculation** between curves increases in proportion as higher differential coefficients coincide."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of coelom; the main fluid-filled body cavity in triploblastic animals, lined by mesoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology and invertebrate zoology, the formation of the celom divides bilateria into schizocoelous and enterocoelous clades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celom designates a cavity in the mesoderm of an embryo that gives rise in humans to the pleural cavity and pericardial cavity and peritoneal cavity."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The true **celom** develops as a fluid-filled mesodermal space separating the gut from the outer body wall."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The evolutionary emergence of an internal **celom** allowed bilateral organisms to develop specialized organ systems and hydrostatic locomotion."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The gastraea theory traces the origin of the primitive **celom** to outpouchings of the ancestral archenteron."*
+

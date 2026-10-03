@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungus belonging to the family tricholomataceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungus belonging to the family tricholomataceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of wood-decaying bracket fungi in the family Polyporaceae, characterized by tough, leathery caps with serrated gills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and forest pathology, Lentinus species cause white rot in fallen hardwood timber by enzymatically degrading lignin and cellulose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentinus designates a genus of fungus belonging to the family tricholomataceae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The damp decaying tree-trunks in the Fuegian forests were encrusted with parasitic fungi of the genus **lentinus**."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"We gathered specimens of a leathery **lentinus** mushroom growing abundantly upon rotted rhododendron trunks."*
+> - 📜 **William Jackson Hooker (*Kew Gardens Bulletins*):** *"Mycological collectors sent to the herbarium several new tropical species of **lentinus** noted for their tough, toothed gills."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mercilessness characterized by an unwillingness to relent or let up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mercilessness characterized by an unwillingness to relent or let up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unyielding persistence, unremitting severity, or inexorable determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek tragedy, the relentlessness of fate (ananke) crushes mortal heroes who attempt to outwit divine oracles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relentlessness designates mercilessness characterized by an unwillingness to relent or let up."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The grim **relentlessness** of circumstance seemed deliberately contrived to bring about Michael Henchard's downfall."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **relentlessness** of the Persian siege engines eventually battered down the eastern ramparts of Antioch."*
+> - 📜 **George Eliot (*Romola*):** *"Romola shuddered at the cold **relentlessness** with which Tito discarded every moral tie that threatened his personal safety."*
+

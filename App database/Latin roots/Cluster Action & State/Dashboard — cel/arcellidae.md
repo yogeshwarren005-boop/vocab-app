@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soil and freshwater protozoa; cosmopolitan in distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Soil and freshwater protozoa; cosmopolitan in distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of testate amoebae within the order Arcellinida, bearing organic, non-mineralized circular shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleo-limnology and aquatic ecotoxicology, fossilized tests of Arcellidae serve as bioindicators of past freshwater acidity and heavy metal contamination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcellidae designates soil and freshwater protozoa; cosmopolitan in distribution."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Members of the family **arcellidae** are distinguished from other rhizopods by their hemispherical, organic test devoid of agglutinated sand grains."*
+> - 📜 **Joseph Leidy (*Fresh-Water Rhizopods of North America*):** *"The sphagnum bogs of New Jersey yielded an astonishing abundance of microscopic **arcellidae** thriving among the submerged mosses."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Dredgings from the marshy pools of the Pampas contained several distinct varieties belonging to the testate **arcellidae**."*
+

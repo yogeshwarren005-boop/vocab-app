@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american bamboo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american bamboo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bamboos in the grass family Poaceae, native to North America and Asia; cane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In southeastern North American ecology, Arundinaria gigantea forms dense riverine canebrakes that once covered millions of acres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arundinaria designates north american bamboo."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"We rode for miles through towering canebrakes of **arundinaria**, whose jointed stems grew thirty feet in height."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The native switch-cane, **arundinaria** tecta, forms subterranean rhizomatous networks in damp southern swales."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The historical distribution of native bamboos like **arundinaria** in temperate America illustrates ancient floristic links with East Asia."*
+

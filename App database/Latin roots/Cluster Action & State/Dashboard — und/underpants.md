@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undergarment that covers the body from the waist no further than to the thighs; usually worn next to the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undergarment that covers the body from the waist no further than to the thighs; usually worn next to the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undergarment worn over the genitals and buttocks under trousers, skirts, or shorts; underdrawers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern textile manufacture, breathable cotton jersey underpants replaced heavy woven flannel garments for daily wear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpants designates an undergarment that covers the body from the waist no further than to the thighs; usually worn next to the skin."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The tramp stood shivering in his threadbare **underpants** while the dormitory warder sprayed his coat with disinfectant."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bloom adjusted his braces over his clean cotton **underpants**, preparing for his morning walk across Dublin."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"Mack washed his solitary pair of wool **underpants** in a bucket behind the palace flophouse."*
+

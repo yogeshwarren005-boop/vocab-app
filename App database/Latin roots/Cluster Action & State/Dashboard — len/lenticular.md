@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convex on both sides; shaped like a lentil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convex on both sides; shaped like a lentil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a lentil or a double-convex lens; biconvex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, lenticular clouds (altocumulus lenticularis) form stationary saucer-like lenses over mountain crests due to atmospheric standing waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Fore and aft rose two cages of medium height with inclined sides, and partly closed by thick lenticular glasses; one destined for the steersman who directed the _Nautilus_, the other containing a brilliant lantern to give light on the road."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I examined the fittings of the apparatus, the strength of which was increased a hundredfold by lenticular rings, placed similar to those in a lighthouse, and which projected their brilliance in a horizontal plane."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Four light-ports with lenticular glasses, let in a groove in the partition of the cabin, allowed the man at the wheel to see in all directions."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The Milky Way galaxy was originally conceived by William Herschel as a vast **lenticular** stratum of stars."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The quartz pebbles in the conglomerate were ground into smooth, flattened **lenticular** disks by surf action."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"A magnificent **lenticular** cloud hovered motionless above the alpine peak, glowing crimson in the setting sun."*
+

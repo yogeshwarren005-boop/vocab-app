@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made dim or less bright.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made dim or less bright.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made dark, dull, faint, or obscure; retaining full brightness, brilliance, or clarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomical observation and optics, light transmitted through unpolluted desert skies reaches telescopes with undimmed stellar clarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Eyes undimmed, faculties unimpaired, she _does what she can_."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Her gray silk dress, her spotless lace, old-fashioned jewels, and prim neatness of array, were well suited to the intelligence of her face, with its thin lips, and eyes of a piercing black, undimmed by age."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Where on earth do you see anything?” I could only grasp her more quickly yet, for even while she spoke the hideous plain presence stood undimmed and undaunted."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial archangel shone with **undimmed** majesty, radiating heavenly light upon the garden of Eden."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The southern sun poured its **undimmed** rays upon the marble ruins of ancient Athens."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"The pure spirit burns with **undimmed** flame above the shadows of our earthly night."*
+

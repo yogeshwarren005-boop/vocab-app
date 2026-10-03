@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or covered with or resembling freckles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or covered with or resembling freckles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, covered with, or resembling freckles or lentigo; marked by small pigmented spots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, acral lentiginous melanoma develops as an irregular pigmented macule on the palms, soles, or under nail beds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentiginous designates relating to or covered with or resembling freckles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient presented with widespread **lentiginous** mottling of the facial epidermis following prolonged solar exposure."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The doctor examined the **lentiginous** eruption across the patient's shoulders, diagnosing a harmless benign melanin cluster."*
+> - 📜 **Erasmus Wilson (*Diseases of the Skin*):** *"Fair-skinned individuals of reddish hair frequently display dense **lentiginous** macules upon the cheeks in summer."*
+

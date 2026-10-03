@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a daze; in a dazed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a daze; in a dazed manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sluggish, dormant, or motionless manner; lethargically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, characters moving torpidly embody physical exhaustion, despair, or extreme sensory alienation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torpidly designates in a daze; in a dazed manner."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The winter cattle moved **torpidly** across the frozen turnip fields, their breath steaming in the frosty dawn."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The exhausted sled dogs lay **torpidly** in the snow, too spent even to gnaw at their frozen ration of dried fish."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The muddy river flowed **torpidly** past the jungle station, heavy with decaying vegetation and silence."*
+

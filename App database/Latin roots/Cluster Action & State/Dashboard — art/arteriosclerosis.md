@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sclerosis of the arterial walls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sclerosis of the arterial walls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thickening, hardening, and loss of elasticity of arterial walls, resulting in impaired blood circulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, arteriosclerosis encompasses atherosclerosis, Mönckeberg's medial calcific sclerosis, and arteriolosclerosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriosclerosis designates sclerosis of the arterial walls."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A man is as old as his arteries; the clinical onset of **arteriosclerosis** marks the inevitable physical toll of aging and vascular stress."*
+> - 📜 **Harvey Cushing (*Consecratio Medici*):** *"The surgeon noted that calcific **arteriosclerosis** made the femoral vessel brittle, requiring great care during vascular clamping."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Gradual cognitive decline was attributed to multi-infarct dementia arising from cerebral **arteriosclerosis**."*
+

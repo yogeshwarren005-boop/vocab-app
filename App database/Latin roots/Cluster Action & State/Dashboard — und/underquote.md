@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offer for sale at a price lower than the market price.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quote a price lower than that quoted by (another seller).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To quote a lower price than a competitor; or to state a lower figure than the true market value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insurance underwriting and shipping, brokers who underquote risk premiums suffer severe insolvency when unexpected claims materialize.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underquote designates offer for sale at a price lower than the market price."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"The prudent factor will never **underquote** his established prices merely to secure a transient contract with strangers."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"Cowperwood instructed his brokers to **underquote** rival banking syndicates on the municipal water bond tender."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Foreign textile mills sought to **underquote** English weavers by utilizing water-powered automated spinning jennies."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exultant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exultant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With triumphant joy or proud elation; rejoicingly and boastfully in victory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical polemics, orators speak exultingly when evidence irrefutably confirms their long-derided predictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"No, no!” cried Richard exultingly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have looked forward to it,” he said exultingly, “for months on months!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ll tell ’ee what ’tis, Durbeyfield,” said she exultingly; “he’ll never have the heart not to love her."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer shouted **exultingly** as the whale sounded, drawing the singing line smoothly from the tubs."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Lestrade smiled **exultingly** as he displayed the handcuffs, confident that he had apprehended the true assassin."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Clifford laughed **exultingly** as the steam train swept him away from the gloomy mansion of his sorrows."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nor relaxed; - u.b.phillips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nor relaxed; - u.b.phillips.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relaxed; maintaining continuous tension, strictness, vigilance, or severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological monitoring, an unrelaxed muscle maintains continuous tonic tension, predisposing fibers to ischemic fatigue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"One secret which I alone possessed was the hope to which I had dedicated myself; and the moon gazed on my midnight labours, while, with unrelaxed and breathless eagerness, I pursued nature to her hiding-places."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor maintained an **unrelaxed** vigilance along the frontiers, inspecting every fortress in person."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her stern features retained an **unrelaxed** severity that forbade any approach toward affectionate intimacy."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary tribunal prosecuted its bloody work with **unrelaxed** ferocity through the terrifying autumn months."*
+

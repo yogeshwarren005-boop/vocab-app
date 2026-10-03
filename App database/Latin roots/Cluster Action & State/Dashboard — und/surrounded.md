@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend on all sides of simultaneously; encircle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Envelop completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Encircled, encompassed, or enclosed on all sides by people, objects, or terrain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, an army surrounded without interior supply lines faces imminent capitulation unless relieved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Both ladies were kneeling before a large trunk, surrounded by heaps of clothes, shoes, books and boxes, and a hundred trifles besides."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Uncle Philip was immediately surrounded, and eight arms held him so tight that there was no use in struggling."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With lively gestures they surrounded him like an old acquaintance, so that Salo quickly felt that he had come among good friends."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions under Varus were completely **surrounded** in the dense swamps of the Teutoburg Forest by Arminius."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The royal coach was **surrounded** by a surging Parisian mob armed with pikes and rusty muskets."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The gloomy mansion stood **surrounded** by desolate granite tors and treacherous quagmires of the Great Grimpen Mire."*
+

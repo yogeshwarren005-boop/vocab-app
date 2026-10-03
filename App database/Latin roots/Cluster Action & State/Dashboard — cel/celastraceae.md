@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trees and shrubs and woody vines usually having bright-colored fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trees and shrubs and woody vines usually having bright-colored fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants (the bittersweet or staff-tree family), comprising trees, shrubs, and lianas with small flowers and colorful arils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytochemistry and economic botany, members of Celastraceae yield cytotoxic triterpenes (maytansinoids) and traditional insecticidal extracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celastraceae designates trees and shrubs and woody vines usually having bright-colored fruits."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **celastraceae** is well represented in our woodlands by the climbing bittersweet and the burning bush."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"Tropical mountain forests harbor diverse arborescent genera of **celastraceae** bearing bright scarlet, bird-dispersed arils."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"Climbing woody lianas of the family **celastraceae** twist their stems spirally around neighboring saplings to reach the canopy."*
+

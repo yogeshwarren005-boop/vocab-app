@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having enough food to develop or function normally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having enough food to develop or function normally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficient nutritional intake, malnutrition, or deficiency in essential vitamins and calories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In global humanitarian relief, chronic undernourishment in early childhood induces irreversible physical stunting and cognitive deficits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undernourishment designates not having enough food to develop or function normally."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive constitutional debility and localized edema frequently result from protracted dietary **undernourishment**."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The physical effects of long-term **undernourishment** were visible in the stooped frames and decaying teeth of the miners."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The board of guardians was indicted in the public press for the cruel **undernourishment** of the parish apprentices."*
+

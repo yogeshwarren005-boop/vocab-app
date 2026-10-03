@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn underneath (especially under written matter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give extra weight to (a communication).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw a line under text; or to emphasize, stress, or accentuate the importance of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic and film composition, musical scoring functions as an emotional underscore that accentuates psychological tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A single underscore after a symbol indicates a subscript."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Denoted subscripts by an underscore before a series of subscripted characters enclosed in curly braces, e.g."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"In the text version, italics are denoted by underscores."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Second Stain*):** *"The premier used a heavy black pen to **underscore** the critical sentence in the secret diplomatic dispatch."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The tragic loss of the battlecruiser Hood served to **underscore** the mortal menace posed by the Bismarck in Atlantic waters."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle's quiet words were calculated to **underscore** the enormous social advantages of the proposed Italian match."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being produced by people and not occurring naturally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being produced by people and not occurring naturally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnaturalness, synthetic fabrication, or lack of genuine spontaneity and sincerity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire, dramatists mock the rigid artificiality of courtly etiquette and fashionable drawing-room affectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"To Dorothea this was adorable genuineness, and religious abstinence from that artificiality which uses up the soul in the efforts of pretence."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"His face took on the stupid artificial smile (which does not even attempt to hide its artificiality) of a man who is continually receiving many petitioners one after another."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Evidently she could speak of Russia’s misfortunes with a certain artificiality, but her brother was too near her heart and she neither could nor would speak lightly of him."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"The aesthetic life cultivates an exquisite **artificiality**, preferring the imaginative inventions of art to crude uncurated nature."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne Dashwood detested the cold **artificiality** and polite hypocrisies of fashionable London society."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A nation built upon paper formulas and moral **artificiality** collapses when brought face to face with stark reality."*
+

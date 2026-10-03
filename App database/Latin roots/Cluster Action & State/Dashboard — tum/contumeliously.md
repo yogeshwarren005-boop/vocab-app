@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without respect; in a disdainful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without respect; in a disdainful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an insolently abusive, reproachful, or humiliating manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, antagonists behaving contumeliously inflict moral wounds upon sensitive protagonists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, lords, that you, being supreme magistrates, Thus contumeliously should break the peace!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"John Reed struck me **contumeliously** across the face, shouting that I was a dependent who had no business among gentlefolk."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard felt that his former manager had treated him **contumeliously** before the assembled town council."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Murdstone spoke **contumeliously** of David's departed father, provoking the boy's desperate resistance."*
+

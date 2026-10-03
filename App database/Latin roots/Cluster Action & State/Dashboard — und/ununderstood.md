@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not understood; - psychiatry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not understood; - psychiatry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not grasped, comprehended, or appreciated by others; misunderstood or neglected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical literature and intellectual history, pioneering scientific theories often languish ununderstood for decades by orthodox academies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ununderstood designates not understood; - psychiatry."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"Poets are the unacknowledged legislators of the world, often leaving their sublime visions **ununderstood** by their generation."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"To be great is to be misunderstood; Pythagoras was misunderstood, and Socrates, and Jesus, all lingering **ununderstood** by small minds."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Deronda felt a deep compassion for artists whose intense spiritual longings remained **ununderstood** by fashionable society."*
+

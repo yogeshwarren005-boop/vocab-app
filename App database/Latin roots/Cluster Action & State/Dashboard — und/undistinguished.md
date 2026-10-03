@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worthy of notice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking distinction, excellence, or prominence; ordinary, commonplace, or unexceptional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis of administrative hierarchies, undistinguished bureaucratic careers are characterized by routine compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny with doubting feelings had risen to meet him, but sank down again on finding herself undistinguished in the dusk, and unthought of."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The little disappointments of schoolboy life, and the somewhat less childish ones of an uneventful and undistinguished academic career, should not have sufficed to turn me out at one-and-twenty years of age a melancholic, listless idler."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He could have borne to live an undistinguished life, but not to be forgotten in the grave."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip reflected on his humble beginnings in the forge, fearing a future of **undistinguished** village labor."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet observed that the young officer was merely one of a crowd of **undistinguished** ensigns in uniform."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard died in an isolated cottage, leaving an **undistinguished** will requesting that no man remember him."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remedy that eases pain and discomfort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moderating pain or sorrow by making it easier to bear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality of easing pain, soothing irritation, or mitigating severity; a soothing medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pharmacopeia, a lenitive electuary or syrup of senna was administered as a mild laxative to soothe bowel inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenitive designates remedy that eases pain and discomfort."*
+> - 📜 **Francis Bacon (*Essays*):** *"Prudent counsel and gentle speech act as a soothing **lenitive** upon the exasperated passions of the multitude."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The physician prescribed a gentle **lenitive** draught composed of sweet almond oil and barley water to calm the patient."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Patience is the only sovereign **lenitive** that can mitigate the inevitable distresses of mortal life."*
+

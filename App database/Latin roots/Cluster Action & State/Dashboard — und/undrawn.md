@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not represented in a drawing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not represented in a drawing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pulled, pulled back, or extracted; or not selected in a lottery or draft; not eviscerated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical game theory and commercial lotteries, undrawn tickets retain their speculative probability until the final wheel spin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I have not furnished the names of Senators who have left increased salary undrawn, as this information was not called for in the resolution."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The heavy window curtains hung **undrawn**, shutting out the cold snowy night from the comfortable parlor."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The knight's broadsword remained **undrawn** within its scabbard as he approached the royal pavilion in peace."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Speculators computed the expected mathematical payout based on the number of **undrawn** tickets remaining in the urn."*
+

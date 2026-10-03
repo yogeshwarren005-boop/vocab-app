@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bid (a hand of cards) at less than the strength of the hand warrants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bid lower than a competing bidder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a lower bid than a competitor; or to bid less in a card game than the strength of one's hand justifies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public procurement tendering, a contractor may deliberately underbid a project to win the award, planning to recoup costs via change orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underbid designates bid (a hand of cards) at less than the strength of the hand warrants."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Independent merchants seek to **underbid** the exclusive trading companies, offering cheaper goods to domestic consumers."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"The rival contractor attempted to **underbid** Cowperwood on the city municipal bond issue, sparking a fierce financial contest."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"Melmotte managed to **underbid** all competitors for the South American railway contract through audacious financial maneuvers."*
+

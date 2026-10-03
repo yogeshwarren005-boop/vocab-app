@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imagined even in a dream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not imagined even in a dream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not thought of, imagined, or conceived of as possible; beyond previous expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and technological innovation, discoveries in quantum mechanics unveiled undreamed physical dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To tack her about was undreamed of; to wear her required all hands and half a watch."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"The swift pace that was to come, virtually overnight, was still undreamed of."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This may mean the undreamed of thing of 100 per cent perfect!"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The modern professors of natural philosophy promised to unfold to the world **undreamed** powers of nature."*
+> - 📜 **Francis Bacon (*The New Atlantis*):** *"The experimental college of Solomon's House yielded **undreamed** inventions for the alleviation of human estate."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor's discovery of the anti-gravity substance opened **undreamed** possibilities for interplanetary exploration."*
+

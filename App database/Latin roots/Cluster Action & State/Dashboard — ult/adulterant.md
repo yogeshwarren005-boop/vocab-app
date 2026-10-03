@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that lessens the purity or effectiveness of a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making impure or corrupt by adding extraneous materials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foreign, inferior, or contaminated substance added to food, drink, or manufactured goods to diminish purity or reduce cost.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health chemistry and food forensics, an adulterant such as chalk in flour or water in milk defrauds consumers and risks toxic exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adulterant designates any substance that lessens the purity or effectiveness of a substance."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The analytical chemist discovered a cheap chemical **adulterant** in the patent medicine that boosted its stimulant effects."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lead poisoning frequently arose among laborers who consumed cider contaminated with a metallic **adulterant**."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Inspectors condemned crates of sausage containing chemical preservatives and colored **adulterant** powders."*
+

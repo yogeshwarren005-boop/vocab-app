@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man-made object taken as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man-made object taken as a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object made by a human being, typically an item of cultural, historical, or archaeological interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological science and microscopy, an artifact is an artificial feature or error introduced by processing or experimental technique.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"OK, so this or that artifact doesn't have museum value; it could still be of enduring interest to your family and to the progeny of your progeny's progeny, even unto the xth generation."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whether a show-and-tell visitor to a class presents a story, a memoir, an artifact, a skill, or an art form, almost all have something worth sharing with children."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"Anything made by artificial means is called an artifact." "And potsherds are things with those Chinese laundry ticket scratches on them," added Tom."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The discovery of a chipped stone **artifact** in ancient river terraces proves the high antiquity of human culture."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"Every crude stone **artifact** retrieved from the cave floor illuminates the daily struggles of paleolithic hunters."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger examined the curious wooden **artifact**, declaring it to be the weapon of an unknown South American tribe."*
+

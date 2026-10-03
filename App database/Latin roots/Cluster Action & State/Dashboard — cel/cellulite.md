@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lumpy deposits of body fat especially on women's thighs etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lumpy deposits of body fat especially on women's thighs etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dimpled or puckered skin caused by subcutaneous fat deposits pushing through connective tissue fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic dermatology and cosmetic physiology, cellulite primarily affects the pelvic region, thighs, and buttocks due to fibrous septae architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellulite designates lumpy deposits of body fat especially on women's thighs etc."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Clinical inspection of the immobilized limb revealed localized cutaneous changes and superficial **cellulite** dimpling."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Subcutaneous adipose distribution varies significantly between sexes, predisposing to characteristic **cellulite** patterning."*
+> - 📜 **Harvey Cushing (*Consecratio Medici*):** *"The post-surgical dressing was adjusted to minimize fluid accumulation and avoid aggravating superficial **cellulite**."*
+

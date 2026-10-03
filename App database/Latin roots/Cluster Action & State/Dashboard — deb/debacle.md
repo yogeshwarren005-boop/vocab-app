@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden and violent collapse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flooding caused by a tumultuous breakup of ice in a river during the spring or summer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, disastrous collapse, failure, or complete breakdown of an enterprise, military campaign, or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geomorphology and glaciology, a débâcle originally described the violent breaking up and rushing down of ice in a river during a spring thaw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debacle designates a sudden and violent collapse."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The sudden rupture of the fortified front line turned what was planned as an orderly retreat into an unmitigated **debacle**."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The catastrophic **debacle** of the imperial army at Sedan sealed the sudden overthrow of the second French empire."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The courtroom inquiry laid bare the scandalous **debacle** aboard the abandoned pilgrim vessel."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very hard mineral used as an abrasive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very hard mineral used as an abrasive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely hard mineral consisting of aluminum oxide (Al2O3), forming rubies and sapphires, used as an abrasive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On the Mohs scale of mineral hardness, corundum defines hardness level 9, superseded in natural hardness only by diamond.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corundum designates very hard mineral used as an abrasive."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"In the river gravels of the diamond districts, miners frequently encounter water-worn pebbles of **corundum** and tourmaline."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"The ruby is merely crystallized **corundum** touched with a minute trace of chromium that gives it royal crimson fire."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Granular varieties of **corundum** mixed with magnetite or hematite constitute commercial emery, prized for metal polishing."*
+

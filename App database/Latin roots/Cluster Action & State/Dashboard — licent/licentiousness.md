@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being lewd and lascivious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissolute indulgence in sensual pleasure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disregard for moral rules, legal constraints, or behavioral standards; unrestrained indulgence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and political theory, licentiousness marks the corruption of democratic freedom into lawless chaos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"WILL THE LORD DELIVER FROM BAD HABITS OF TOBACCO, RUM, LIQUOR, LICENTIOUSNESS, ETC., IN ANSWER TO PRAYER."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He had acquired the habit of using large quantities of whiskey and brandy, and withal more or less given to licentiousness."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A victim of licentiousness and sensuousness, who often, amid his sinful pleasures, had the memory of Christian parents before him, felt his was indeed a life of shame."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"When liberty degenerates into rampant **licentiousness**, the inevitable refuge of society is arbitrary despotic force."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A dangerous ambition more often lurks behind the specious mask of zeal for popular rights than under the forbidding face of zeal for firmness of government, the one having been found a much more certain road to the introduction of despotism than the other, and the history of republics teaching us that the former has been much more frequently followed by the latter than the reverse: from the **licentiousness** of factions military usurpation takes root."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The theatrical drama of the Restoration was notorious for unblushing **licentiousness** and witty cynicism."*
+

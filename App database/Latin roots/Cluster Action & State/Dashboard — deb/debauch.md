@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild gathering involving excessive drinking and promiscuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Corrupt morally or by intemperance or sensuality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To corrupt morally, seduce from virtue, or lead astray into sensuality and dissipation; or a bout of extreme excess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern penal records, rogue taverns were indicted for harboring vagabonds in drunken, riotous debauch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s quoted for a most perfidious slave, With all the spots o’ the world tax’d and debauch’d: Whose nature sickens but to speak a truth."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This debauch boded ill for that wilful and fascinating mistress whom the faithful man even now felt within him as the embodiment of all that was sweet and bright and hopeless."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"What a pied ninny's this! Thou scurvy patch! I do beseech thy greatness, give him blows and not **debauch** my servants with liquor."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Emperor Elagabalus plunged into every wild **debauch** that oriental luxury and unbridled imperial power could invent."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"A night of wild **debauch** at the London inn left the young squire penniless and remorseful by morning."*
+

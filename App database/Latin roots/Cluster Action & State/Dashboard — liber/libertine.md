@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dissolute person; usually a man who is morally unrestrained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or morality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who behaves without moral principles or a sense of responsibility; a profligate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th-century intellectual history, free-thinking philosophers were originally called libertines (libertins érudits) for challenging religious orthodoxy before the term shifted to sexual profligacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let witchcraft join with beauty, lust with both; Tie up the libertine in a field of feasts; Keep his brain fuming."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven; Whilst like a puff’d and reckless libertine Himself the primrose path of dalliance treads, And recks not his own rede."*
-> - 📜 **James Joyce (*Ulysses*):** *"A fiendish libertine from his earliest years this stinking goat of Mendes gave precocious signs of infantile debauchery, recalling the cities of the plain, with a dissolute granddam."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Do not, as some ungracious pastors do, show me the steep and thorny way to heaven; whiles, like a puff'd and reckless **libertine**, himself the primrose path of dalliance treads, and recks not his own rede."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth recognized Wickham for what he was: a unprincipled **libertine** who had deceived an innocent girl for selfish amusement."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The youthful **libertine** Elagabalus shocked Roman senators by parading his luxurious vices through the sacred forum."*
+

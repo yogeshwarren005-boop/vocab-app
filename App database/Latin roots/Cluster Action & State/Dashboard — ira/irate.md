@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing extreme anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or showing extreme anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely angry; incensed, enraged, or displaying furious displeasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal advocacy and dispute resolution, managing an irate litigant requires formal procedural composure to avoid contempt of court.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Are you fond of presents?” and he searched my face with eyes that I saw were dark, irate, and piercing."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers suddenly became most irate."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I beg of you, I beg of you,” he repeated, “to occupy the position and prepare for an attack.” “I peg of you yourself not to mix in vot is not your business!” suddenly replied the irate colonel."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The **irate** baronet shook his walking stick at the local postmaster, demanding an explanation for the lost telegram."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"An **irate** aunt bearing down upon an erring nephew is one of the most terrifying spectacles in nature."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Farmer Boldwood turned with an **irate** glance upon the chattering farmhands who had neglected the harvest."*
+

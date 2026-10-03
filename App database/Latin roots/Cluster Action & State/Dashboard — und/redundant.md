@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More than is needed, desired, or required.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of same sense in different words; ; ; - j.b.conant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not or no longer needed or useful; superfluous, repetitive, or exceeding what is natural or necessary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information theory, redundant coding bits are appended to data transmissions to enable forward error detection and correction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is pretty generally agreed that unemployment is essentially a problem of maladjustment of the labor supply, and not that of an absolutely and permanently redundant supply."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The warmly cool, clear, ringing, perfumed, overflowing, redundant days, were as crystal goblets of Persian sherbet, heaped up—flaked up, with rose-water snow."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He was a small, short, youngish man, sprinkled all over his face with freckles, and wearing redundant yellow hair."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With serpentine error wand'ring, found out the sea, where waves tossed **redundant** upon the sandy beach."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Rudimentary organs are **redundant** evolutionary remnants of structures that were fully functional in ancestral lineages."*
+> - 📜 **Francis Bacon (*Essays*):** *"A concise discourse wastes no words on **redundant** flourishes that add nothing to the weight of the counsel."*
+

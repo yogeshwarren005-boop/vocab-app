@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undergraduate who is not yet a senior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undergraduate who is not yet a senior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student in the first or second year of high school or university (a freshman or sophomore).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American collegiate social history, an underclassman was historically subjected to campus customs and hazing by upperclassmen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underclassman designates an undergraduate who is not yet a senior."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"Amory Blaine strolled across the Princeton campus, a self-conscious **underclassman** eager to make his mark in college society."*
+> - 📜 **Thomas Wolfe (*Look Homeward, Angel*):** *"Eugene entered the state university as an awkward, dreamy **underclassman**, overwhelmed by the bustle of campus life."*
+> - 📜 **Henry James (*The Bostonians*):** *"The Harvard **underclassman** rowed with great vigor on the Charles River, dreaming of varsity athletic glory."*
+

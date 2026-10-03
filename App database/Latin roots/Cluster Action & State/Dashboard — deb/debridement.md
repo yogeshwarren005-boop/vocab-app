@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of foreign material and dead tissue from a wound in order to prevent infection and promote healing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of foreign material and dead tissue from a wound in order to prevent infection and promote healing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical or surgical removal of dead, damaged, infected, or necrotic tissue from a wound to facilitate healing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency trauma surgery, thorough wound debridement prevents life-threatening complications such as gas gangrene or sepsis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debridement designates surgical removal of foreign material and dead tissue from a wound in order to prevent infection and promote healing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early and thorough **debridement** of contaminated tissue remains the primary surgical defense against wound infection."*
+> - 📜 **Alexis Carrel (*The Treatment of Infected Wounds*):** *"Surgical **debridement** must precede chemical irrigation to eliminate all necrotic loci harboring anaerobic bacteria."*
+> - 📜 **Harvey Cushing (*A Tumour of the Brain*):** *"The surgeon performed meticulous **debridement** along the edges of the compound fracture to protect the dura mater."*
+

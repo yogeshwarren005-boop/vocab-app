@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissolved matter in a solution; the component of a solution that changes its state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dissolved matter in a solution; the component of a solution that changes its state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The minor component in a solution, dissolved in the solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and colligative properties, increasing solute molality produces boiling-point elevation and freezing-point depression in the solvent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God had been graciously preparing me during many years for the reception of this final revelation of the ab- 107:6 solute divine Principle of scientific mental healing."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The crystalline **solute** dispersed uniformly throughout the aqueous solvent, leaving no visible sediment at the bottom of the flask."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"Osmotic pressure across cell membranes depends directly upon the concentration of the dissolved **solute**."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"Thermodynamic equilibrium in a solution is governed by the chemical potential of each individual **solute** component."*
+

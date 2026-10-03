@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman making her debut into society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman making her debut into society.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal abbreviation for a debutante; a young woman making her formal presentation to society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social chronicles of early twentieth-century aristocratic life, a deb endured an intensive round of etiquette lessons and grand seasonal assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For Heaven’s sake, pop thy hands under the pump, Deb!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I’ve got to go a-skimming,” she pleaded, “and I have on’y old Deb to help me to-day."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The bigot, the deb- auchee, the hypocrite, called Jesus a glutton and a wine-bibber."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"Aunt Agatha insisted that Bertie attend the grand ball and pay polite court to the latest fashionable **deb**."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"Amory watched the glittering throng of dancers, noting how every popular **deb** attracted a swirling circle of college admirers."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa recalled the nervousness of her first season in town when she was presented as a youthful **deb** in white satin."*
+

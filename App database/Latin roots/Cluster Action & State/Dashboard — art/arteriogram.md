@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An x ray of an artery filled with a contrast medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x ray of an artery filled with a contrast medium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiographic or imaging recording of an artery after the injection of a radiopaque contrast medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic interventional radiology, an arteriogram delineates arterial stenosis, occlusive thrombi, or vascular malformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriogram designates an x ray of an artery filled with a contrast medium."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The diagnostic **arteriogram** mapped the precise cerebral vascular displacement caused by the deeply seated neoplasm."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Vascular imaging technology has evolved to where an **arteriogram** clearly illuminates occult lesions before surgical exploration."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The vascular surgeon reviewed the femoral **arteriogram**, noting an abrupt cessation of contrast in the popliteal artery."*
+

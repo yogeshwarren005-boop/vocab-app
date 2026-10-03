@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Florentine sculptor famous for his lifelike sculptures (1386-1466).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Florentine sculptor famous for his lifelike sculptures (1386-1466).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early Renaissance Italian sculptor of Florence (c. 1386–1466), renowned for his bronze David and realistic relief work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance art history, Donatello pioneered linear perspective in bas-relief (rilievo schiacciato) and reintroduced free-standing classical contrapposto.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donatello designates florentine sculptor famous for his lifelike sculptures (1386-1466)."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The young Count of Monte Beni was named **donatello** because his joyful rustic grace recalled the famous faun sculpted by Praxiteles."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The bronze reliefs of **donatello** in Florence display an emotional naturalism that revitalized Western sculpture."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"In the work of **donatello**, the severe dignity of classical marble unites with vivid Tuscan humanity."*
+

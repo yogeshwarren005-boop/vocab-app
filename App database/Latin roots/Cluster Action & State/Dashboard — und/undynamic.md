@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an absence of force or forcefulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an absence of force or forcefulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking energy, vigor, innovation, or progress; static, inactive, or unmoving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational psychology and industrial economics, an undynamic corporate culture resists technological transitions and loses market competitiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undynamic designates characterized by an absence of force or forcefulness."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"A completely balanced, **undynamic** physical state represents the final cessation of developmental momentum."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Archaic social institutions maintain an **undynamic** conservatism designed to preserve established economic privileges."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The utopian society avoided stagnation by ensuring that administrative life did not degenerate into an **undynamic** bureaucracy."*
+

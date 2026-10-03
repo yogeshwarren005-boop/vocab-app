@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an undemocratic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an undemocratic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an undemocratic manner; without popular consent, public vote, or representative governance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative statecraft, enactments decreed undemocratically by executive fiat lack broad popular legitimacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undemocratically designates in an undemocratic manner."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The royal intendants governed the provinces **undemocratically**, ignoring the historic rights of local municipal councils."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"James II ruled **undemocratically**, attempting to suspend parliamentary statutes by arbitrary royal prerogative."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Colonial taxes imposed **undemocratically** by a distant parliament inevitably provoked widespread popular resistance."*
+

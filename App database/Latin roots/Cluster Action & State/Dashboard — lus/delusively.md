@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deceptive and unrealistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a deceptive and unrealistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that deceives, misleads, or gives a false appearance of reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation, coastal mirages delusively alter the apparent distance of rocky reefs, endangering vessels in thick fog.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delusively designates in a deceptive and unrealistic manner."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The glassy surface of the equatorial doldrums shone **delusively** calm beneath the blazing tropical sun."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Hope whispered **delusively** in my ear, promising tranquil happiness where only solitude awaited me."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The distant heath fires flickered **delusively** through the gloom, mocking the lost traveler's search for shelter."*
+

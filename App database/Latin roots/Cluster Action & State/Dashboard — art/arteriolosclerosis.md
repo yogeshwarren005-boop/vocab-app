@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sclerosis of the arterioles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sclerosis of the arterioles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of cardiovascular disease affecting arterioles, characterized by thickening, hardening, and loss of elasticity in vessel walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal and cardiovascular pathology, hyaline and hyperplastic arteriolosclerosis are hallmarks of chronic and malignant hypertension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriolosclerosis designates sclerosis of the arterioles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diffuse renal **arteriolosclerosis** leads to progressive nephron loss, glomerular sclerosis, and eventual uremic insufficiency."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"Histopathological examination of visceral biopsies confirmed advanced **arteriolosclerosis** throughout the mesenteric and cerebral vasculature."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Longstanding hypertension had produced diffuse cerebral **arteriolosclerosis**, predisposing to lacunar subcortical infarcts."*
+

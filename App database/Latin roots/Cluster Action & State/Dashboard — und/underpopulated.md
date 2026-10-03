@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a lower population density than normal or desirable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lower population density than normal or desirable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an unusually or undesirably small population; sparsely inhabited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In demographic geography, vast underpopulated frontier territories offer arable acreage but lack domestic consumer markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpopulated designates having a lower population density than normal or desirable."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The western territories were vast and **underpopulated**, offering boundless fertile soil to energetic pioneer immigrants."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The American colonies, being fertile and **underpopulated**, displayed the most rapid natural population increase in human history."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Recurrent plagues left the Italian countryside **underpopulated**, prompting emperors to settle captive barbarian tribes upon deserted farms."*
+

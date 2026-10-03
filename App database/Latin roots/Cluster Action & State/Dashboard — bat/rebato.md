@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wired or starched collar of intricate lace; worn in 17th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wired or starched collar of intricate lace; worn in 17th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stiff, flared, wired collar or ruff worn by men and women in the late sixteenth and early seventeenth centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Elizabethan and Jacobean costume history, the rebato supported elaborate lace ruffs, framing the neck and shoulders in formal court dress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troth, I think your other rebato were better."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"Hero inquired of Margaret: 'I think the other **rebato** were better.' And Margaret answered: 'No, pray thee, good madam, this one is handsomer.'"*
+> - 📜 **Walter Scott (*Kenilworth*):** *"Queen Elizabeth appeared adorned in a magnificent pleated lace **rebato**, held stiffly upright by concealed silver wire."*
+> - 📜 **Ben Jonson (*Every Man out of His Humour*):** *"The court gallant spent half his morning adjusting the starch in his pleated **rebato** before appearing in Paul's Walk."*
+

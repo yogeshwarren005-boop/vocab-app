@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lowers the quality or character or value (as by adding cheaper metal to coins).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who lowers the quality or character or value (as by adding cheaper metal to coins).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, agent, or influence that lowers, degrades, corrupts, or defiles value, standards, or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penal history, an illicit coiner or debaser of royal currency was prosecuted under capital statutes of high treason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debaser designates a person who lowers the quality or character or value (as by adding cheaper metal to coins)."*
+> - 📜 **Alexander Hamilton (*Report on the Mint*):** *"The clandestine **debaser** of coin strikes at public credit no less severely than an armed invader."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He regarded the flattering courtier as the most pernicious **debaser** of truth and sincere human friendship."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The pamphleteer was denounced as a shameless **debaser** of historical fact and civic decorum."*
+

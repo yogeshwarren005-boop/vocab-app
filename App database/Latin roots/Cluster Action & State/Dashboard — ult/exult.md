@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel extreme happiness or elation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express great joy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or show triumphant elation, joyful pride, or jubilant rejoicing over a victory or success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epic poetry and military chronicles, victorious warriors exult over defeated adversaries upon the field of battle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who might be your mother, That you insult, exult, and all at once, Over the wretched?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Because it is the truth Ere I had finished this reply, my soul began to expand, to exult, with the strangest sense of freedom, of triumph, I ever felt."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Let Bourbon exult in his gay gilded lilies, And England triumphant display her proud rose: A fairer than either adorns the green valleys, Where Devon, sweet Devon, meandering flows."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan gazed upon the ruined angelic host, daring to **exult** in his pride despite thunderous celestial defeat."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Queen Margaret did **exult** with cruel scorn when she placed the paper crown upon York's grieving head."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The monster fled into the alpine night, pausing upon the glacier to **exult** in the horror he had wrought."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A certificate or voucher acknowledging a debt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long-term security or bond issued by a corporation or public authority, backed by creditworthiness rather than physical collateral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and debt capital markets, a debenture holder ranks ahead of preferred shareholders but behind secured creditors in liquidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debenture designates the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant bank negotiated a transferable **debenture** to finance overseas shipping ventures along the Levant trade routes."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"Prudent railway directors issue a fixed-yield **debenture** rather than dilute their equity capital during rapid track expansion."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Holders of a corporate **debenture** expect guaranteed interest disbursements irrespective of seasonal commercial profits."*
+

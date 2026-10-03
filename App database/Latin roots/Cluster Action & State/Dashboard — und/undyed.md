@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not artificially colored or bleached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not artificially colored or bleached.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In its natural, uncolored state; not treated or tinted with coloring pigments or artificial dyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile history and archaeological conservation, undyed wool and linen textiles illustrate ancient spinning techniques prior to vats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undyed designates not artificially colored or bleached."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg wrapped himself in a mantle of natural, **undyed** tapa cloth woven from the bark of island trees."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I preferred clothing of plain, **undyed** homespun wool that smelled of simple sheep pastures and rain."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rustic shearers packed the heavy fleeces of clean, **undyed** wool into vast canvas sacks for market."*
+

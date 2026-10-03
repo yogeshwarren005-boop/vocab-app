@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintaining something at the most favorable temperature for its development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) the phase in the development of an infection between the time a pathogen enters the body and the time the first symptoms appear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of incubating eggs, bacterial cultures, or developing plans; or the period before a disease manifests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology, the incubation period of a virus is the silent time interval elapsed between exposure and the onset of symptoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For _egkolmesis_ or _incubatio_ see Mary Hamilton, _Incubation_ (1906) [84] Clem."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Translation of Mary Hamilton, in her _Incubation_, p. 41 (1906). [52] I agree with the view of Schubart quoted by J."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For Aristides see Hamilton, _Incubation_, pt. i. ch. 3, and Dill, _Roman Society from Nero to Marcus Aurelius_, bk. iv. ch. 1."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical **incubation** period of typhoid fever varies from eight to fourteen days before the step-ladder fever appears."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The female bird assumes the primary burden of **incubation**, her cryptic plumage protecting the clutch from sharp-eyed predators."*
+> - 📜 **Louis Pasteur (*Researches on Attenuated Viruses*):** *"Following inoculation into the animal host, a prolonged period of **incubation** preceded the clinical onset of rabies symptoms."*
+

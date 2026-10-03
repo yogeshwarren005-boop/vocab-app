@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme appetizingness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme appetizingness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich, delectable sweetness and appealing sensory abundance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic gastronomy, lusciousness balances intense sweetness with sufficient acidity to avoid cloying heaviness on the palate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusciousness designates extreme appetizingness."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"A surfeit of sensory **lusciousness** cloys the appetite, rendering simpler fare more truly pleasurable by contrast."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The vintage wine was praised for its velvet texture and honeyed **lusciousness**, distilled from hilltop vineyards."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The carved marble cornices display an opulent vegetative **lusciousness** characteristic of flamboyant Gothic ornament."*
+

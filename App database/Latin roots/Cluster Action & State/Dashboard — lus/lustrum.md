@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of five years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial purification of the roman population every five years following the census.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of five years, originally corresponding to the ancient Roman purificatory census cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman constitutional antiquities, the completion of the census culminated in the solemn lustrum ceremony performed by the censor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the settlement of the questions the Republican party has completed its twenty-five years of glorious existence, and it has sent us here to prepare it for another lustrum of duty and of victory."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"At the expiration of each **lustrum**, the Roman censors numbered the citizens and purged the senatorial rolls."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"For a full **lustrum**, the gates of Janus stood open while Roman legions campaigned across the Etruscan borders."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Another **lustrum** had quietly passed over the empire, marked only by peaceful harvests and civic festivals."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eluding diagnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eluding diagnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not identified or categorized by medical or technical examination; unrecognized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and public health surveillance, individuals with undiagnosed asymptomatic infections facilitate widespread viral transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undiagnosed designates eluding diagnosis."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"Gordon suspected that a lingering, **undiagnosed** ailment contributed to his pervasive lethargy and bitterness."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"Many elderly patients suffered from **undiagnosed** digestive complaints that patent nostrums pretended to cure."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"Septimus Warren Smith endured **undiagnosed** shell shock while society dismissed his agony as mere nerves."*
+

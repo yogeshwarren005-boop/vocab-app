@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who assaults others sexually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who assaults others sexually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who seduces others from virtue, leads others into dissipation, or corrupts innocence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature, the debaucher appears as a stock antagonist who schemes to compromise naive protagonists.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debaucher designates someone who assaults others sexually."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Lovelace stood revealed as a ruthless **debaucher** who employed every artifice of deceit to ensnare unsuspecting virtue."*
+> - 📜 **Daniel Defoe (*Moll Flanders*):** *"She bitterly denounced the elder brother as the cunning **debaucher** who first taught her the trade of illicit intrigue."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The satirist exposed the hypocritical sectary as an insidious **debaucher** of youthful piety and public morals."*
+

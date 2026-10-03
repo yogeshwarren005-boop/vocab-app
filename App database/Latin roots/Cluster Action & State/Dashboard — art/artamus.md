@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the artamidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the artamidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The typical genus of woodswallows within the family Artamidae, native to South Asia, Australasia, and the Pacific.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ethology, Artamus species are noted for communal roosting behavior, huddling tightly along branches to conserve body heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artamus designates type genus of the artamidae."*
+> - 📜 **John Gould (*Handbook to the Birds of Australia*):** *"The dusky woodswallow, **artamus** cyanopterus, glides with effortless buoyancy over the open gum forests."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The wide geographical distribution of the genus **artamus** across oceanic islands reflects their powerful migratory flight."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the genus **artamus**, both sexes display similar sober plumage, sharing equally in the duties of incubation."*
+

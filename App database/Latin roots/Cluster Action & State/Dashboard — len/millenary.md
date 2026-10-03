@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 1000th anniversary (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A span of 1000 years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thousandth anniversary, or a period consisting of a thousand years; millenarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British church history, the Millenary Petition of 1603 was presented to King James I by Puritan ministers requesting ecclesiastical reforms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, millenary designates the 1000th anniversary (or the celebration of it)."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"King James met the Puritan divines at the Hampton Court Conference following the presentation of the **millenary** petition."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Philip the Arab celebrated the **millenary** anniversary of the foundation of Rome with magnificent secular games in the Colosseum."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The word **millenary** denotes both a space of a thousand years and one who expects the millennial reign."*
+

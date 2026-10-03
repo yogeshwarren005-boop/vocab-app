@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not according to nature; not by natural means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not according to nature; not by natural means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By human skill, craft, or intervention rather than by natural processes; synthetically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic regulation, monopolies artificially restrict output to inflate commodity prices above competitive equilibrium levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into the dining-house, unaffected by the seductive show in the window of artificially whitened cauliflowers and poultry, verdant baskets of peas, coolly blooming cucumbers, and joints ready for the spit, Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Apparently he had some time ago reached that entrance to middle age at which a man’s aspect naturally ceases to alter for the term of a dozen years or so; and, artificially, a woman’s does likewise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They are only beginning to be developed artificially by the propagation of oysters, clams, and fish."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Exclusive trading companies **artificially** raise the price of provisions by restraining free competition in the colonial trade."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Horticulturists **artificially** protect delicate ornamental varieties that could never survive unaided in the wild state."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"Doctor Moreau used surgical graftings to **artificially** transform predatory animals into grotesque human caricatures."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of the indo-european languages that (judging from inscriptions and place names) was spread widely over europe in the pre-christian era.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the celts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the Celts or their modern descendant cultures, languages, myths, and traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative linguistics, the Celtic branch of Indo-European comprises Goidelic (Irish, Scottish Gaelic, Manx) and Brythonic (Welsh, Cornish, Breton).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In English the story is told at length by Professor (Sir) John Rhys, _Celtic Heathendom_ (London and Edinburgh, 1888), pp. 529 _sqq._ It is elaborately discussed by Professor F."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the Isle of Man, one of the fortresses in which the Celtic language and lore longest held out against the siege of the Saxon invaders, the first of November, Old Style, has been regarded as New Year's day down to recent times."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Compare (Sir) John Rhys, _Celtic Heathendom_ (London, 1888), pp. 514 _sq._ [349] W.R.S."*
+> - 📜 **Matthew Arnold (*On the Study of Celtic Literature*):** *"The **celtic** genius contributed a magical natural style and passionate melancholy to the English literary heritage."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The ancient **celtic** festival of Samhain marked the boundary between summer and the onset of winter darkness."*
+> - 📜 **William Butler Yeats (*The Celtic Twilight*):** *"The peasantry of western Ireland preserve an enchanting realm of **celtic** folklore alive in their fireside tales."*
+

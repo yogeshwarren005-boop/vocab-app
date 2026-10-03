@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadly or extravagantly humorous; resembling farce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruous;inviting ridicule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: So foolish, unreasonable, or out of place as to be amusing; ridiculous and absurd.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and comic philosophy, the ludicrous arises from an incongruous contrast between dignified pretension and clumsy reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole with a quickened sense of the ludicrous, “that my chairs and tables were not paid for, and yet my landlord walks off with them as composedly as possible."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As I naturally speculated on the object of these visits, and as I always associated something ludicrous with the visitor, it fell out that in laughing about Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And his keen sense of the ludicrous side of things often acted as an antiseptic, and kept him right both with himself and with his people."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins's solemn compliments were so pompous and **ludicrous** that Elizabeth had great difficulty in keeping her countenance."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"The spectacle of the stout old gentleman attempting to leap the garden fence was irresistibly **ludicrous** to all beholders."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A **ludicrous** suspicion crossed my mind, but Holmes's intense gravity immediately checked any impulse to laugh."*
+

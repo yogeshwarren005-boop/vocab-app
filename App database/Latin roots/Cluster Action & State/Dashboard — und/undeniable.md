@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possible to deny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not possible to deny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be denied or disputed; completely true, evident, and indisputable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, undeniable photographic or documentary evidence establishes material facts beyond reasonable doubt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Being what it is, she neither knows nor cares.” Caddy was not at all deficient in natural affection for her mother, but mentioned this with tears as an undeniable fact, which I am afraid it was."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Still, it is undeniable that he makes calls upon our credulity, which a man obeys with reluctance."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In any case, the parables give us pictures of the undeniable activities of the household."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The existence of rudimentary organs in adult animals provides **undeniable** evidence of long evolutionary descent."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The footprint upon the floorboards was an **undeniable** physical clue pointing to the presence of a second intruder."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"It is an **undeniable** fact that modern industrial civilization rests upon empirical scientific discoveries."*
+

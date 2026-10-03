@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A total destroyer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A total destroyer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, weapon, or agency that completely destroys or obliterates something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern algebraic ring theory and module theory, an annihilator is the set of ring elements that yield zero when multiplied by a given module subset.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annihilator designates a total destroyer."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The dread thunder of Heaven proved the almighty **annihilator** of Satanic rebellion throughout the celestial realms."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The atomic bomb emerged as the supreme **annihilator** of cities, rendering modern warfare mutually suicidal."*
+> - 📜 **Thomas Huxley (*Evolution and Ethics*):** *"Natural selection acts as the dispassionate **annihilator** of organisms poorly adapted to their changing environments."*
+

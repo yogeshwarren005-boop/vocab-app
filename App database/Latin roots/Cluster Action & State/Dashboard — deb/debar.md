@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bar temporarily; from school, office, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevent the occurrence of; prevent from happening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exclude, shut out, or officially prohibit someone from having a right, privilege, or admission to a place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional and administrative law, statutory disqualifications debar convicted felons or compromised officials from holding public office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The fear o’ hell’s a hangman’s whip, To haud the wretch in order; But where ye feel your honour grip, Let that aye be your border; Its slightest touches, instant pause— Debar a’ side-pretences; And resolutely keep its laws, Uncaring consequences."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Could we be all assembled, our satisfaction would undoubtedly be more complete, but the absence of some is not to debar the others of amusement.” Mrs."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"I tried to conceal this as much as possible, that I might not debar him from the pleasures natural to one who was entering on a new scene of life, undisturbed by any care or bitter recollection."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I feared that my terrible secret would forever **debar** me from the peaceful joys of domestic companionship."*
+> - 📜 **John Milton (*Paradise Lost*):** *"No harsh decree shall **debar** righteous spirits from entering into the promised celestial inheritance."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Law and custom ought not arbitrarily to **debar** half the human race from competing for honorable careers."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 40 weekdays from ash wednesday to holy saturday.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bestow a quality on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of forty days leading up to Easter, observed by Christian churches as a time of fasting, repentance, and prayer; or past tense of lend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical history, Lent commences on Ash Wednesday, commemorating the forty-day fast of Jesus in the Judaean desert.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then does he say he lent me Some shipping, unrestored."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lucina lent not me her aid, But took me in my throes, That from me was Posthumus ripp’d, Came crying ’mongst his foes, A thing of pity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You owe money here besides, Sir John, for your diet and by-drinkings, and money lent you, four-and-twenty pound."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"No hare, sir; unless a hare, sir, in a **lent** pie, that is something stale and hoar ere it be spent."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty gently **lent** her ear to David's youthful troubles, comforting him with unwearied affection."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The devout parson observed the holy fast of **lent** with strict abstinence, giving his meager bread to the village poor."*
+

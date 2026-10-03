@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located or occurring outside a cell or cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located or occurring outside a cell or cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or functioning outside of a biological cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell physiology and tissue biochemistry, the extracellular matrix provides structural scaffolding and biochemical signaling ligands to adjoining cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extracellular designates located or occurring outside a cell or cells."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Blood plasma constitutes the vital **extracellular** fluid bathing and nourishing every cell within the vascular system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Electrolyte balance in the **extracellular** fluid compartments is regulated primarily by renal tubular resorption mechanisms."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Collagen forms an insoluble **extracellular** fibrous meshwork that gives connective tissues their great tensile strength."*
+

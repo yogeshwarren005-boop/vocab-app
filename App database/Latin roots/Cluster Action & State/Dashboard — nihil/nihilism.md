@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A revolutionary doctrine that advocates destruction of the social system for its own sake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The delusion that things (or everything, including the self) do not exist; a sense that everything is unreal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rejection of all religious and moral principles, often with the belief that life is meaningless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century Russian political history, nihilism designated a radical revolutionary movement advocating the destruction of existing social and state institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nihilism designates a revolutionary doctrine that advocates destruction of the social system for its own sake."*
+> - 📜 **Ivan Turgenev (*Fathers and Sons*):** *"Bazarov is a man who does not bow down before any authority, who does not take any principle on faith; that is what we call **nihilism**."*
+> - 📜 **Fyodor Dostoevsky (*The Possessed*):** *"The insidious poison of political **nihilism** had infected the university youth, leading them toward moral catastrophe."*
+> - 📜 **Friedrich Nietzsche (*The Will to Power*):** *"What does **nihilism** mean? That the highest values devaluate themselves; the goal is lacking; the answer is lacking to our why."*
+

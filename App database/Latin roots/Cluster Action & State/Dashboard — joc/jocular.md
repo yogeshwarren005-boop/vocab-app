@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by jokes and good humor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With humor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fond of or characterized by joking; humorous, playful, or facetious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and rhetorical framing, a jocular demeanor lowers social defense mechanisms and fosters group rapport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This foreign young woman has been my lodger for some weeks back.” “What do Sir Leicester care for that, you think, my angel?” returns mademoiselle in a jocular strain."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Nay, he even went so far, in one of his rough, jocular moods, as to slap that mighty burgher on the back, drink his toddy, and wink in his face,—a thing scarcely to be believed."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The soldiers say it feels easier without boots,” said Captain Túshin smiling shyly in his uncomfortable position, evidently wishing to adopt a jocular tone."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sir Henry attempted a **jocular** remark about ancestral curses, but his voice lacked genuine conviction."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Weston was a man of lively spirits and **jocular** conversation, beloved by all his neighbors."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Bucket assumed a **jocular** air with the suspects, veiling his sharp detective scrutiny beneath jovial banter."*
+

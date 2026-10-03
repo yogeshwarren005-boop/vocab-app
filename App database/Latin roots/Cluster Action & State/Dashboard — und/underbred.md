@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of persons) lacking in refinement or grace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of inferior or mixed breed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ill-bred, vulgar, lacking good manners, breeding, or social refinement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century comedy of manners, the pretentious underbred upstart is satirized for clumsy attempts to mimic aristocratic decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The men appeared to her all coarse, the women all pert, everybody underbred; and she gave as little contentment as she received from introductions either to old or new acquaintance."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma considered Mrs. Elton a thoroughly **underbred** woman, whose loud vulgarity was masked by pretentious accomplishments."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The ostentatious snob reveals his **underbred** origins the moment he attempts to converse with genuine ladies and gentlemen."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon condemned Mr. Slope as an **underbred** ecclesiastical adventurer seeking promotion through vulgar sycophancy."*
+

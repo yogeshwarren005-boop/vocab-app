@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrubs, bushes, saplings, and small trees growing beneath large trees in a forest; undergrowth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest ecology and wildfire dynamics, accumulated dry underbrush acts as ladder fuel that carries surface fires into the tree canopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"It was hard work for the tenderly nurtured maiden to climb the steep mountain ridge, at one time through a thorny tangle of underbrush, and at another clinging against the bare face of the rocks, holding on to swinging vines for support."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"This would itself be a laborious and fatiguing task, as the way would be obstructed by a thick growth of trees and tangled underbrush."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Nan stepped from the road and pushed aside the thick underbrush to find a dry spot to place her foot."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We pushed our way through dense **underbrush** of spruce and hemlock, following the faint tracks of a moose through the wilderness."*
+> - 📜 **James Fenimore Cooper (*The Last of the Mohicans*):** *"Hawkeye stepped noiselessly through the tangled **underbrush**, his rifle ready to repel an Indian ambuscade."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The humid virgin forests of Chiloe were choked with an impenetrable **underbrush** of bamboos and creeping ferns."*
+

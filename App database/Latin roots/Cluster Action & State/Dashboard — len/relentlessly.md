@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a relentless manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a relentless manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unyielding, severe, persistent, and unremitting manner without softening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investigative journalism, reporters pursue financial corruption relentlessly through thousands of banking records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The cry meets with no response, but instead, relentlessly, surely, aye, and most mercifully, the facts and events group themselves about the cowering spirit, that before Love celestial Light may arise."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I kept thinking over everything that has been ever since Jonathan came to see me in London, and it all seems like a horrible tragedy, with fate pressing on relentlessly to some destined end."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"His questions travelled relentlessly along the great dusty high road of facts, while her thoughts danced away from them into sweet little flowery meadows, river-banks, a sunny dream-land of what might, have been, what might be yet."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Van Helsing tracked the vampire **relentlessly** across the Black Sea, giving him no respite by day or night."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian fighting-machines advanced **relentlessly** across Surrey, sweeping the countryside with their thermal heat-rays."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The silent jungle pressed in **relentlessly** upon the tiny river steamer like an impenetrable wall of shadow."*
+

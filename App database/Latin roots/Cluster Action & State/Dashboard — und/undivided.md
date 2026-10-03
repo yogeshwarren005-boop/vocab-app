@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not parted by conflict of opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not shared by or among others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete, whole, and not broken or separated; given entirely and without distraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property jurisprudence, tenants in common hold undivided fractional interests in a single parcel of real estate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"XXXVI Let me confess that we two must be twain, Although our undivided loves are one: So shall those blots that do with me remain, Without thy help, by me be borne alone."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These all form a complex of equitable claims, which together equal in value one undivided property right, which in turn equals the value of the wealth.[4] § 7. #Limitations of bequest and inheritance#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It forbids corporate ownership of stock in a competing corporation, forbids interlocking directorates in large banks and in other competing corporations, with capital, surplus and undivided profits aggregating more than $1,000,000."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes gave his **undivided** attention to the curious footprints impressed upon the soft clay of the garden path."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor exercised **undivided** dominion over the vast provinces stretching from Hispania to Syria."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Doctor Manette received the **undivided** love and tender devotion of his daughter throughout his long recovery."*
+

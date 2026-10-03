@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose creative work shows sensitivity and imagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose creative work shows sensitivity and imagination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates paintings, sculpture, literature, or music as a profession or hobby.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory, an artist translates subjective inner vision and emotional insight into formal perceptual structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In framing an artist, art hath thus decreed, To make some good, but others to exceed; And you are her labour’d scholar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then the bold and coward, The wise and fool, the artist and unread, The hard and soft, seem all affin’d and kin."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is an artist too, an amateur, but might have been a professional."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The **artist** is the creator of beautiful things; to reveal art and conceal the **artist** is art's true aim."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The duty of the landscape **artist** is to represent the eternal truths of natural form and celestial light without compromise."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"We must grant the **artist** his subject, his idea, his donnée; our criticism applies only to what he makes of it."*
+

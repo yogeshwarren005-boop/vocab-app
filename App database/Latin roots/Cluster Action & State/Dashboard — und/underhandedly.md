@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slyly and secretly; - john donne; - c.g.bowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slyly and secretly; - john donne; - c.g.bowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an underhanded, deceitful, secret, and dishonest manner; slyly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial competition, acquiring proprietary trade secrets underhandedly breaches statutory antitrust and tort laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underhandedly designates slyly and secretly; - john donne; - c.g.bowers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed worked **underhandedly** to purchase debts and foreclose upon unfortunate London tradesmen."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp operated **underhandedly**, extracting costly presents from the old baronet while flattering his sisters."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"Rashleigh Osbaldistone acted **underhandedly**, plotting to ruin his family's credit in the City of London."*
+

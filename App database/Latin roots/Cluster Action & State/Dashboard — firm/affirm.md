@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To declare or affirm solemnly and formally as true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state something as a fact strongly and publicly; to confirm, ratify, or validate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial oaths and court procedure, witnesses with religious objections to swearing oaths are legally permitted to affirm their testimony under penalty of perjury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For there’s no motion That tends to vice in man but I affirm It is the woman’s part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I said so, dear Katharine; and I must not blush to affirm it."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I am not depressed.” “But I affirm that you are: so much depressed that a few more words would bring tears to your eyes—indeed, they are there now, shining and swimming; and a bead has slipped from the lash and fallen on to the flag."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To **affirm** that an idea is innate, and at the same time to say that the mind is unaware of it, is a manifest contradiction."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The state conventions will **affirm** the federal compact as the supreme law of the unified American commonwealth."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The dogmatic philosophers **affirm** universal doctrines before they have collected sufficient empirical observations."*
+

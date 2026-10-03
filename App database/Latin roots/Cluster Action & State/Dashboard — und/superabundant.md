@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most excessively abundant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most excessively abundant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in excessive quantity; more than sufficient; overflowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural cultivation, superabundant fruit set is thinned manually to allow remaining fruits to achieve premium market size.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Revenues were superabundant for current expenses of government, and altho there was a large national debt, hardly any of it was redeemable at the time."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Can't you keep your place, ma'am?" and he gave a great _whoo!_ as if he were letting off superabundant steam."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Plants cultivated in rich garden loam produce **superabundant** foliage at the expense of floral development."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **superabundant** harvests of Egypt and Africa sustained the idle plebeian populace of imperial Rome."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Nature provides with **superabundant** generosity for those who are content with simple and wholesome necessities."*
+

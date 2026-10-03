@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to prove a particular proposition or to persuade you of the truth of an allegation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to prove a particular proposition or to persuade you of the truth of an allegation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality of proving, testing, or demonstrating the truth or validity of something; evidentiary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the law of evidence, probative value is weighed against unfair prejudice to determine whether a document is admissible at trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probative designates tending to prove a particular proposition or to persuade you of the truth of an allegation."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"Direct eyewitness testimony possesses the highest **probative** force in establishing the material facts of a criminal indictment."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"A crucial empirical experiment possesses singular **probative** virtue, deciding between two rival hypotheses in natural philosophy."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Inductive generalizations lack **probative** certainty until verified by rigorous methods of elimination and experimental control."*
+

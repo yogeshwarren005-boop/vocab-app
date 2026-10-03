@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being more than full.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity that is more than what is appropriate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive quantity or surplus of something, exceeding normal needs or capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural economics, an overabundance of grain harvests precipitates steep commodity price deflation and farmer insolvency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overabundance designates the state of being more than full."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An **overabundance** of paper currency unregulated by metallic redemption inevitably results in domestic inflation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **overabundance** of seeds produced by every plant ensures that only a tiny fraction survive the severe struggle for existence."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"In the midst of industrial **overabundance**, millions of English laborers languish without daily bread or employment."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located between cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located between cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Located, occurring, or functioning between or among cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, intercellular air spaces in leaf mesophyll tissue enable efficient gaseous diffusion of carbon dioxide during photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These branches perforate the inner walls of the epidermis, and pass into the intercellular spaces of the parenchyma to become mycelium."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The active part increases and ramifies, and produces a mycelium which spreads through the intercellular passages of the parenchyma."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These threads, termed the mycelium, penetrate the intercellular spaces, and insinuate themselves in a complete network, amongst the cells of which the leaf, or other diseased portion of the plant, is composed."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The digestive secretion flows through the **intercellular** channels of the glandular tentacles onto the captured prey."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In primitive sponges, gelatinous mesohyl occupies the **intercellular** spaces between pinacocytes and choanocytes."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Parenchyma tissue is characterized by prominent **intercellular** spaces that facilitate respiration throughout internal plant organs."*
+

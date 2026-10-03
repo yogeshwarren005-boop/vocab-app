@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undulating curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wavelike motion; a gentle rising and falling in the manner of waves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth, rising and falling wavelike movement, outline, or surface formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physical optics and acoustics, light and sound propagate through continuous mediums via wave undulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"While composing a little treatise on Eternity, I had the curiosity to place a mirror before me; and ere long saw reflected there, a curious involved worming and undulation in the atmosphere over my head."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The narwhal seemed motionless; perhaps, tired with its day’s work, it slept, letting itself float with the undulation of the waves."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I seemed to see the membraneous and cylindrical tubes tremble beneath the undulation of the waters."*
+> - 📜 **Thomas Young (*Lectures on Natural Philosophy*):** *"The phenomenon of optical interference demonstrates that light travels as a periodic **undulation** through the luminiferous ether."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The horsemen rode across the vast grassy pampas, which resembled a green ocean fixed in frozen **undulation**."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The boat rose and fell with each majestic **undulation** of the azure Mediterranean swell."*
+

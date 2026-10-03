@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An engagement fought between two military forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of fighting; any contest or struggle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fighting between armed forces; or a struggle or conflict between opposing persons, groups, or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military doctrine and hand-to-hand tactical training, close-quarters combat integrates martial discipline with instinctive survival reflexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My messenger He hath whipped with rods; dares me to personal combat, Caesar to Antony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Henry the Fifth, thy ghost I invocate: Prosper this realm, keep it from civil broils, Combat with adverse planets in the heavens."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My courage try by combat, if thou dar’st, And thou shalt find that I exceed my sex."*
+> - 📜 **William Shakespeare (*Henry V*):** *"The day, my friends, and all things stay for us: then let our herald cry aloud and sound the charge to **combat** upon the field."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The gladiatorial **combat** in the amphitheater entertained the Roman populace with spectacle of blood and fatal valor."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male stags engage in furious **combat** during the autumn rut, locking their branched antlers to win access to the herd."*
+

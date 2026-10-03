@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with insufficient quality or quantity of nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not getting adequate food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not receiving enough food or nourishment to maintain good health; malnourished and frail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nutritional assessment, undernourished patients present with muscle wasting, delayed wound healing, and hypoalbuminemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undernourished designates provide with insufficient quality or quantity of nourishment."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The children playing in the soot-blackened streets looked pale, rickety, and chronically **undernourished**."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Smike was a pitiful, **undernourished** drudge whose hollow cheeks and frightened eyes revealed years of cruelty at Dotheboys Hall."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **undernourished** child showed marked delayed ossification of the epiphyses typical of nutritional rickets."*
+

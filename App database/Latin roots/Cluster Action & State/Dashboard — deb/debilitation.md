@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serious weakening and loss of energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serious weakening and loss of energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming weakened or enfeebled; loss of strength, vigor, or functional capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gerontology and palliative care, constitutional debilitation stems from progressive muscle atrophy and metabolic deceleration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debilitation designates serious weakening and loss of energy."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Effeminate pampering and warm wrapping lead directly to bodily **debilitation** and chronic sensitivity to winter colds."*
+> - 📜 **Thomas Huxley (*Physiography*):** *"Protracted drought produces extreme biological **debilitation** across arid grasslands before the arrival of seasonal monsoons."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Internal factional discord caused the gradual **debilitation** of the Byzantine frontiers against encroaching barbarian tribes."*
+

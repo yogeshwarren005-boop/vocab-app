@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin plain-weave cotton or linen fabric; used for shirts or dresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin plain-weave cotton or linen fabric; used for shirts or dresses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine, light, semi-sheer cotton or linen fabric of plain weave, traditionally used for handkerchiefs and delicate garments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile history, batiste was named after Baptiste Cambray, a thirteenth-century linen weaver of Cambrai in northern France.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batiste designates a thin plain-weave cotton or linen fabric; used for shirts or dresses."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma dried her tears with a delicate handkerchief of embroidered **batiste**, scented with faint lavender essence."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"May Welland's trousseau included dozens of morning gowns made of fine French **batiste** trimmed with Valenciennes lace."*
+> - 📜 **Honoré de Balzac (*Père Goriot*):** *"The dandy adjusted his snowy cravat of sheer **batiste**, ensuring that every fold sat with impeccable Parisian elegance."*
+

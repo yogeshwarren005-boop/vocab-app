@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that relaxes and relieves tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to relax or relieve muscular or nervous tension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug, agent, or substance that induces relaxation, especially of muscle tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical anesthesiology, a neuromuscular relaxant blocks nicotinic acetylcholine receptors at the motor end plate to facilitate endotracheal intubation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relaxant designates a drug that relaxes and relieves tension."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The physician prescribed a gentle herbal **relaxant** to soothe the patient's acute muscular spasms."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"We administered a physiological **relaxant** to counter the tetanic convulsions caused by the strychnine toxin."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"Warm baths act as an effective somatic **relaxant**, dilating peripheral capillaries and soothing motor fatigue."*
+

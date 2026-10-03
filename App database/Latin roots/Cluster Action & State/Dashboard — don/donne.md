@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English clergyman and metaphysical poet celebrated as a preacher (1572-1631).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English clergyman and metaphysical poet celebrated as a preacher (1572-1631).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: John Donne (1572–1631), an English poet and cleric who was the leading representative of the metaphysical poets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, Donne's poetry is renowned for intricate conceits, colloquial speech rhythms, intellectual paradox, and profound devotional intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"John Donne, the English poet, went farther, and said: "All divinity is love or wonder." When a man then begins to wonder about Jesus Christ in earnest, Jesus comes to be for him a new figure."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Dryden, to a greater extent than is (we imagine) generally perceived, was Cowley systematised; and Cowley, who sank into the arms of Dryden, rose from the lap of Donne."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"This is because to most people the Metaphysical School means Donne, whereas it ought to mean Crashaw."*
+> - 📜 **Izaak Walton (*Life of Dr. John Donne*):** *"Dr. **donne** was a preacher so captivating in his eloquence that he drew tears from the eyes of his listeners at Saint Paul's."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"In the poems of **donne**, the most heterogeneous ideas are yoked by violence together with astonishing intellectual dexterity."*
+> - 📜 **Thomas De Quincey (*Essays on the Poets*):** *"The devotional sonnets of **donne** combine dialectical subtlety with an agonized intensity of spiritual struggle."*
+

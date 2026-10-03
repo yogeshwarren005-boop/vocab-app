@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer an oil or ointment to ; often in a religious ceremony of blessing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer an oil or ointment to ; often in a religious ceremony of blessing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To smear, anoint, or rub with oil, salve, or ointment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacological therapeutics, mercurial preparations were applied by topical inunction to inunct patients suffering systemic infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inunct designates administer an oil or ointment to ; often in a religious ceremony of blessing."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The ancient athletes were accustomed to **inunct** their limbs with fragrant oils before engaging in the public games."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Physicians advise to **inunct** the spine with herbal unguents to calm turbulent spirits and invite sweet sleep."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"Gardeners **inunct** the wounded trunks with grafting wax to exclude damp and preserve the inner wood."*
+

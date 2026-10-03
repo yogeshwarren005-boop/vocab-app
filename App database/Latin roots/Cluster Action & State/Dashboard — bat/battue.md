@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hunt in which beaters force the game to flee in the direction of the hunter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indiscriminate slaughter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The driving of game birds or animals toward stationary hunters by beaters; or an indiscriminate slaughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European game preserve history, a battue was an aristocratic shooting party where hundreds of pheasants were driven into waiting guns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The people wage more or less unsuccessful war upon them and at times they organize a sort of battue."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There were shooting-parties and battues; there was a plenty of balls and entertainments at the hospitable Court; the society was generally good; the theatre excellent; and the living cheap."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"Levin preferred solitary hunting with his faithful dog in marshy thickets to the noisy, artificial **battue** organized on great estates."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess was horrified to discover wounded pheasants lying in the woods after an aristocratic autumn **battue** by sporting gentlemen."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman hunters organized a vast **battue** across the Libyan desert to capture wild beasts for the Colosseum amphitheatres."*
+

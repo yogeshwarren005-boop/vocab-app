@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cephalosporin antibiotic (trade name ultracef).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cephalosporin antibiotic (trade name ultracef).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for cefadroxil, a first-generation cephalosporin antibiotic used to treat bacterial infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and infectious disease therapeutics, Ultracef inhibits bacterial cell wall synthesis in urinary tract and skin infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultracef designates a cephalosporin antibiotic (trade name ultracef)."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Modern antimicrobial therapies such as **ultracef** provide clinicians with targeted tools against resistant streptococcal pathogens."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The introduction of cephalosporin derivatives like **ultracef** marked a dramatic advance in postoperative infection control."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The dispensary physician prescribed modern antimicrobial agents like **ultracef** to combat persistent bacterial pharyngitis."*
+

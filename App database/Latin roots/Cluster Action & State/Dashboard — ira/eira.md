@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of mustelidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of mustelidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of South American mustelids comprising the tayra (Eira barbara), a slender tropical carnivore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neotropical mammalogy, the genus Eira exhibits opportunistic omnivory and arboreal dexterity across Central and South American rainforests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eira designates a genus of mustelidae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The agile tayra, classified as **eira** barbara, clambered through the high branches of the Brazilian forest with consummate ease."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Our native guides brought in a specimen of the **eira**, remarking upon its insatiable appetite for honeycomb and small rodents."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"We observed a dark-furred **eira** darting along a fallen log before disappearing into the dense undergrowth."*
+

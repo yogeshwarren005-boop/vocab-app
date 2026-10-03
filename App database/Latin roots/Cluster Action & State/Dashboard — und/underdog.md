@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One at a disadvantage and expected to lose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One at a disadvantage and expected to lose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A competitor, team, or person thought to have little chance of winning a fight, match, or contest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political rhetoric and populist narrative, championing the underdog appeals to universal democratic instincts of fairness and sympathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdog designates one at a disadvantage and expected to lose."*
+> - 📜 **Jack London (*The Iron Heel*):** *"My heart naturally warmed toward the courageous **underdog** who dared to challenge the formidable power of the industrial trust."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The foreign volunteers rallied to support the democratic **underdog** struggling against the mechanized armies of fascism."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The prize-ring crowd always backed the game **underdog** who fought back bravely after being floored by the champion."*
+

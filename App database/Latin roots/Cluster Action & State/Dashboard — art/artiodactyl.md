@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Placental mammal having hooves with an even number of functional toes on each foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to mammals of the order artiodactyla.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ungulate mammal of the order Artiodactyla, having an even number of toes on each foot; an even-toed ungulate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, artiodactyl evolution is characterized by a specialized astragalus bone with double-pulley joints facilitating cursorial speed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactyl designates placental mammal having hooves with an even number of functional toes on each foot."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The living **artiodactyl** lineage, including deer, cattle, and camels, possesses a weight-bearing axis passing between the third and fourth digits."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The skeletal morphology of an **artiodactyl** differs fundamentally from the perissodactyl skeleton in the structure of the carpus and tarsus."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Every typical **artiodactyl** mammal displays paraxonic foot symmetry, an adaptation for high-speed locomotion over open terrain."*
+

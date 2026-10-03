@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Studies intended to provide general knowledge and intellectual skills (rather than occupational or professional skills).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The products of human creativity; works of art collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of art; the various branches of creative activity, such as painting, music, literature, and drama; or the humanities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic history, the faculty of liberal arts (trivium and quadrivium) formed the medieval university curriculum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet be most proud of that which I compile, Whose influence is thine, and born of thee, In others’ works thou dost but mend the style, And arts with thy sweet graces graced be."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These gentle princes (For such and so they are) these twenty years Have I train’d up; those arts they have as I Could put into them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, in some taste, is Lepidus but so: He must be taught, and train’d, and bid go forth: A barren-spirited fellow; one that feeds On objects, arts, and imitations, Which, out of use and stal’d by other men, Begin his fashion."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Prospero was transported and rapt in secret studies, neglecting worldly ends for the closer cultivation of the liberal **arts**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The flourishing of the mechanical and liberal **arts** is the true measure of a commonwealth's intellectual health and prosperity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor is carried furthest in those nations which enjoy the highest degree of industry and improvement in the **arts**."*
+

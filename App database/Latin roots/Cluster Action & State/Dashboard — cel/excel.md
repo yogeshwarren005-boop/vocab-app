@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguish oneself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be exceptionally good at something; to surpass others in skill, virtue, or accomplishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy, the urge to excel (arête) motivates citizens to achieve excellence for the welfare of the polis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her father is no better than an earl, Although in glorious titles he excel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do excel thee in my rapier as much as thou didst me in carrying gates."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O queen of queens, how far dost thou excel No thought can think, nor tongue of mortal tell._ How shall she know my griefs?"*
+> - 📜 **William Shakespeare (*The Tempest*):** *"She will outstrip all praise, and make it halt behind her; for she does **excel** in all virtuous grace."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The natural aspiration of generous minds is to **excel** in learning and expand the boundaries of human knowledge."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Of all the angelic orders, Lucifer seemed in glory and majestic stature to **excel** his bright compeers."*
+

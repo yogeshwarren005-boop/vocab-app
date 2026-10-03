@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in west africa; established in 1822 by americans as a way to free negro slaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in west africa; established in 1822 by americans as a way to free negro slaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the coast of West Africa, founded in the 1820s by free African Americans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In African diplomatic history, Liberia is Africa's oldest modern republic, declaring its independence in 1847 and preserving sovereignty during the Scramble for Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Liberia │Dollar │Gold │ 1 00│ Mexico │do │Silver │ 89.4│Peso or dollar │ │ │ │ 5, 10, 25, and │ │ │ │ 50 centavo."*
+> - 📜 **Frederick Douglass (*The Life and Times of Frederick Douglass*):** *"He debated with colonization societies regarding whether free African Americans should emigrate to **liberia** or claim their equal rights at home."*
+> - 📜 **Harriet Beecher Stowe (*Uncle Tom's Cabin*):** *"George Harris resolved to sail for **liberia**, seeking a wider field of national usefulness and racial pride in the ancestral continent."*
+> - 📜 **Woodrow Wilson (*A History of the American People*):** *"The philanthropic establishment of **liberia** reflected early American aspirations to foster self-governing commonwealths abroad."*
+

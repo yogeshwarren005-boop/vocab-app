@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of comprehensible language or thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of comprehensible language or thought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity, coherence, and ease of comprehension in speech, writing, or design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering and technical writing, code understandability directly influences maintainability and bug remediation time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understandability designates the quality of comprehensible language or thought."*
+> - 📜 **Herbert Spencer (*The Philosophy of Style*):** *"The fundamental principle of composition is to economize the reader's mental attention and ensure immediate **understandability**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The great popular lecturers on natural philosophy combined scientific rigor with luminous, lucid **understandability**."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Philosophical definitions must aim at maximum **understandability**, eliminating circular phrases and ambiguous metaphors."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The criminal class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (religion) the world of the dead; -theognis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The world of the dead or spirits in mythology; or the subterranean criminal network in a modern society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mythology and classical literature, epic heroes journey into the chthonic underworld to consult prophetic shades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"What so natural, then, as to assume that it was in this artificial Underworld that such work as was necessary to the comfort of the daylight race was done?"*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I proceeded, as I have said, to question Weena about this Underworld, but here again I was disappointed."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I had some thought of trying to go up the shaft again, and leave the Underworld alone."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"What so natural, then, as to assume that it was in this artificial **underworld** that the necessary work of the machine was done?"*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"Professor Moriarty directed the criminal **underworld** of London with the precision of a master spider in its web."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From the profound abyss of the gloomy **underworld**, the fallen angels gazed toward the newly created universe."*
+

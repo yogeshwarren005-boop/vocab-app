@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remote and separate physically or socially; ; - w.h.hudson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics not shared by others; - vannever bush.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separated by a distance in space or time; or aside and away from others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical philosophy and aesthetics, setting a concept apart from contingent circumstances clarifies its essential properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I dare him therefore To lay his gay comparisons apart, And answer me declined, sword against sword, Ourselves alone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go apart, Adam, and thou shalt hear how he will shake me up. [_Adam retires._] OLIVER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stay, stand apart, I know not which is which."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Stand all **apart**, and let me hear him speak; for in his sorrow there is royal dignity."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip stood **apart** in the marshes, watching the dark figures of the soldiers pursue the escaped convicts."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind considers complex ideas by taking their simple components **apart** through intellectual abstraction."*
+

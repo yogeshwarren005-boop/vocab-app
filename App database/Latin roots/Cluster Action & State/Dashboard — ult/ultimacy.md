@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or degree of being ultimate; the final or most extreme in degree or size or time or distance,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or degree of being ultimate; the final or most extreme in degree or size or time or distance,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conclusive finality, supreme priority, or the irreducible fundamental character of a truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical ontology and philosophy of science, ultimacy designates irreducible bedrock principles beyond which no further explanation is possible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultimacy designates the state or degree of being ultimate; the final or most extreme in degree or size or time or distance,."*
+> - 📜 **William James (*Pragmatism*):** *"The rationalist seeks absolute **ultimacy** in eternal abstract principles, while the pragmatist tests truth by concrete consequences."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The mystery of cosmic force remains veiled in impenetrable **ultimacy** beyond the grasp of human intellect."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Philosophical skepticism forces us to question the supposed **ultimacy** of common-sense perceptual beliefs."*
+

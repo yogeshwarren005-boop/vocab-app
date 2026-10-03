@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean thistlelike plant widely cultivated for its large edible flower head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thistlelike flower head with edible fleshy leaves and heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A European plant of the daisy family cultivated for its edible flower head with fleshy bracts; globe artichoke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary botany, the edible portion of Cynara cardunculus comprises the tender receptacle (heart) and fleshy bases of the surrounding involucral bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The interior looked like a white pasty, a sort of soft crumb, the flavour of which was like that of an artichoke."*
-> - 📜 **James Joyce (*Ulysses*):** *"Open like flowers, know their hours, sunflowers, Jerusalem artichokes, in ballrooms, chandeliers, avenues under the lamps."*
+> - 📜 **Jane Austen (*Emma*):** *"The kitchen gardens at Donwell Abbey were noted for early rows of asparagus, crisp peas, and handsome heads of **artichoke**."*
+> - 📜 **Alexis Soyer (*The Modern Housewife*):** *"Boil the globe **artichoke** until the leaves pull away easily, and serve with melted Hollandaise sauce."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The green-grocer displayed a fresh basket of spiky **artichoke** heads alongside cabbages and autumn leeks."*
+

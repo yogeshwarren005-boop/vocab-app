@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get undressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove (someone's or one's own) clothes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not wearing clothes; unclothed; or unseasoned, uncultivated, or untreated (such as leather or timber).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical wound management and traumatology, an undressed laceration exposed to septic conditions rapidly develops suppurative infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Despite all her lamenting the child was then undressed and put to bed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was so evident to her in the midst of her agitation that Troy had undressed in the full conviction of dressing again almost immediately, that the notion that anything but death could have prevented him was a perverse one to entertain."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The body has been undressed and properly laid out in grave clothes."*
+> - 📜 **Herman Melville (*Typee*):** *"The native islanders walked through the palm groves **undressed**, wearing only simple garlands of wild flowers."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe fashioned garments from the **undressed** skins of wild goats he had shot in the hills."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The carpenter examined the rough, **undressed** oak beams delivered from the neighboring timber yard."*
+

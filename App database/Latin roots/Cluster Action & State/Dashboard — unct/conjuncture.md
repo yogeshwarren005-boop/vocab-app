@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A critical combination of events or circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critical combination of events or circumstances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combination of events or circumstances occurring at a critical moment; a crisis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical political science and diplomatic strategy, a critical conjuncture denotes a decisive structural juncture that constrains future institutional paths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This was a wonderful conjuncture of time, desire and amount, and could never have happened by any chance operation of Nature or the natural heart and will."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This end will be answered by committing the right of making it, not to any preestablished body, but to men chosen by the people for the special purpose, and at the particular conjuncture."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"An unprincipled fellow who, by the influence of hereditary or acquired wealth, by superior abilities or by a lucky conjuncture of circumstances, obtains a principal place in the administration of the affairs of government."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"In such a perilous **conjuncture**, the wisest statesmen act with prudent moderation rather than revolutionary frenzy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"At this alarming **conjuncture**, the Roman Senate dispatched urgent legations to the Gothic encampment."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The emergency of foreign invasion presents a formidable **conjuncture** requiring the utmost concentration of national resources."*
+

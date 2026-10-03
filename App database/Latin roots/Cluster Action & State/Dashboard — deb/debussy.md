@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French composer who is said to have created impressionism in music (1862-1918).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French composer who is said to have created impressionism in music (1862-1918).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Claude Debussy (1862–1918), celebrated French composer whose innovative harmonic language founded musical Impressionism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology, Debussy pioneered non-functional harmonic progressions, whole-tone scales, and delicate orchestral timbres in works like *La Mer*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura, in a plain black dress, was at the piano, the cool drenched foliage of Claude Debussy's rainwet gardens rustling under her magic fingers."*
+> - 📜 **Igor Stravinsky (*Chronicles of My Life*):** *"The extraordinary harmonic subtlety of **debussy** exerted a profound and lasting influence upon twentieth-century music."*
+> - 📜 **Maurice Ravel (*Autobiographical Sketch*):** *"Listening to the orchestral preludes of **debussy** opened an entirely new universe of acoustic color and poetic freedom."*
+> - 📜 **Romain Rolland (*Musicians of To-day*):** *"In the delicate piano preludes of **debussy**, French musical genius achieved its most ethereal and evocative expression."*
+

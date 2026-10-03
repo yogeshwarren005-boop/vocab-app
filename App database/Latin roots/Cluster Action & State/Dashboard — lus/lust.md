@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-indulgent sexual desire (personified as one of the deadly sins).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense sexual desire; or an overwhelming, passionate craving for power, wealth, or conquest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and theological ethics, lust represents disordered, uncontrolled appetite that treats others as mere instruments of gratification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That can such sweet use make of what they hate, When saucy trusting of the cozen’d thoughts Defiles the pitchy night; so lust doth play With what it loathes, for that which is away."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His captain’s heart, Which in the scuffles of great fights hath burst The buckles on his breast, reneges all temper And is become the bellows and the fan To cool a gipsy’s lust."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let witchcraft join with beauty, lust with both; Tie up the libertine in a field of feasts; Keep his brain fuming."*
+> - 📜 **William Shakespeare (*Sonnet 129*):** *"The expense of spirit in a waste of shame is **lust** in action; and till action, **lust** is perjured, murderous, bloody, full of blame."*
+> - 📜 **Francis Bacon (*Essays*):** *"The unbridled **lust** for sovereign power has toppled great empires and extinguished noble dynastic lines."*
+> - 📜 **John Milton (*Comus*):** *"When **lust** by unchaste looks, loose gestures, and foul thoughts lets in defilement to the inward parts, the soul grows clotted."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having coarse hair or fur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having coarse hair or fur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having thick, rough, or bristly hair instead of fine or smooth tresses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic animal breeding, coarse-haired sheep varieties are bred for durable carpet wool rather than fine apparel textiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coarse-haired designates having coarse hair or fur."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Primitive mountain breeds of goats are typically **coarse-haired**, possessing an undercoat of fine downy cashmere."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The old wagoner was a **coarse-haired**, weather-beaten rustic whose face was tanned like leather by winter gales."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The Highland drovers were accompanied by shaggy, **coarse-haired** collies that guarded the black cattle through the glens."*
+

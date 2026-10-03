@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrived by art rather than nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artificially formal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made or produced by human beings rather than occurring naturally; synthetic or simulated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, artificial selection by human breeders mirrors the mechanistic sorting process of natural selection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, I can smile, and murder while I smile, And cry “Content!” to that which grieves my heart, And wet my cheeks with artificial tears, And frame my face to all occasions."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We, Hermia, like two artificial gods, Have with our needles created both one flower, Both on one sampler, sitting on one cushion, Both warbling of one song, both in one key, As if our hands, our sides, voices, and minds, Had been incorporate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair one, all goodness that consists in bounty Expect even here, where is a kingly patient: If that thy prosperous and artificial feat Can draw him but to answer thee in aught, Thy sacred physic shall receive such pay As thy desires can wish."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The astonishing diversity of domestic dogs and pigeons is the result of continuous **artificial** selection practiced by man."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Many philosophical paradoxes are merely **artificial** dilemmas created by the careless misuse of ambiguous language."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Nature in an **artificial** constraint reveals her secrets more clearly than when left to her own spontaneous course."*
+

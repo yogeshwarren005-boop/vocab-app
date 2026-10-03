@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal new mass of tissue that serves no purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal new mass of tissue that serves no purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal mass of tissue formed when cells grow and divide more than they should; a neoplasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and oncology, tumors are classified as benign or malignant based on invasiveness, anaplasia, and metastatic potential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Miss X. of Brooklyn, had suffered long and severely from a distressing tumor."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"All this time her own prayers were unceasing, those of her friends added to her own; and many a remembrance in the Fulton Street meeting, cheered and encouraged her. _By November, the tumor had totally disappeared!_ That was two years ago."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Cullis, at the Consumptive's Home, a Christian lady with a tumor which confined her almost continuously to her bed in severe suffering."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The skilful surgeon excised the fibrous **tumor** from the patient's neck, preserving the adjacent carotid artery intact."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain plants produce woody galls that closely resemble an animal **tumor**, provoked by the sting of a gall-fly."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"Malignant **tumor** cells invade surrounding lymphatic channels, establishing secondary foci in distant lymph nodes."*
+

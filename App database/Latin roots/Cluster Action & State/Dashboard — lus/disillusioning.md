@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from enchantment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from illusion or false belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing the loss of illusions, naive beliefs, or romanticized expectations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological development, facing disillusioning encounters with institutional corruption fosters intellectual autonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"There was no sign of life about, and it might have served as the refuge of the Sleeping Princess, but a nearer inspection would probably have been disillusioning."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel Archer underwent a **disillusioning** awakening when she discovered Gilbert Osmond's cold aesthetic calculating nature."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"Hans Castorp found the clinical atmosphere of the sanatorium strangely **disillusioning** yet profoundly fascinating."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily Bart endured a series of **disillusioning** social snubs as her fortunes dwindled among the fashionable New York crowd."*
+

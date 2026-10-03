@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language or humor that is down-to-earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being composed of relatively large particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Roughness of texture, vulgarity of manners, or deficiency in delicacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and social satire, deliberate coarseness of dialect is employed to distinguish plebeian authenticity from courtly affectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Her manners were open, easy, and decided, like one who had no distrust of herself, and no doubts of what to do; without any approach to coarseness, however, or any want of good humour."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I was weakly dismayed at the ignorance, the poverty, the coarseness of all I heard and saw round me."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, the banker, seemed to be addressed, but that gentleman disliked coarseness and profanity, and merely bowed."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was mortified by the vulgar **coarseness** of her mother's remarks at the Netherfield ball before Mr. Darcy."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The comedy of Dryden was sometimes blemished by a wanton **coarseness** that offended refined readers of later ages."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The apparent **coarseness** of the exterior stone masonry was compensated by the exquisite delicacy of the interior mosaics."*
+

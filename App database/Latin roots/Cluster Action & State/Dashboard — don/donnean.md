@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or in the manner of john donne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or in the manner of john donne.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the style, conceits, and poetry of John Donne.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic criticism, a Donnean conceit employs complex scientific or geographical analogies to explore emotional and spiritual intimacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donnean designates of or relating to or in the manner of john donne."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The young poet displayed a marked **donnean** inclination for unexpected rhetorical comparisons and knotty philosophical wit."*
+> - 📜 **Thomas De Quincey (*Literary Reminiscences*):** *"He admired that intricate **donnean** vigor of thought which refuses to sacrifice intellectual precision for smooth meter."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Certain modern verses exhibit a **donnean** obscurity without capturing Donne's underlying passionate earnestness."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reply of affirmation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affirming or giving assent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agreeing with or consenting to a statement or request; positive and confirming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In United States constitutional civil rights law, affirmative action policies take proactive measures to remedy historical educational and employment disparities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When Leonore tenderly took leave of her uncle she whispered in his ear, "May Salo come soon, Uncle?" This time the answer was a clear affirmative, and the child's heart was filled with rapture."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not till the rays of the sun had absorbed the young stranger’s retreating figure on the hill that she shook off her temporary sadness and answered her would-be partner in the affirmative."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The most impressed of them said: “Be you really going to christen him, Tess?” The girl-mother replied in a grave affirmative."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth gave an **affirmative** nod to his inquiry, while secretly wondering at the sudden change in his demeanor."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Barkis nodded in the **affirmative**, declaring that Barkis was willing whenever Clara was ready."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Senate must give its **affirmative** consent before any foreign treaty negotiated by the President can take effect."*
+

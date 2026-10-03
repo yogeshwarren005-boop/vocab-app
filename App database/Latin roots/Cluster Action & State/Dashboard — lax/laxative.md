@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild cathartic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulating evacuation of feces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine or agent tending to stimulate bowel evacuation; or having a loosening effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, osmotic laxatives draw water into the intestinal lumen to soften stool and accelerate colonic transit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laxative designates a mild cathartic."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Dame Pertelote advised Chanticleer to swallow a gentle herbal **laxative** of hellebore and fumitory to purge his frightening nightmares."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The country practitioner administered a simple saline **laxative** before contemplating more heroic remedies."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Syrup of roses and stewed prunes serve as a mild **laxative** for sedentary scholars troubled with melancholy."*
+

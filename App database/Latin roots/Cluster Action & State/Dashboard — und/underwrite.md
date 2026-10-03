@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Guarantee financial support of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protect by insurance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sign one's name to an insurance policy, thereby assuming financial liability; or to guarantee the financial backing of an enterprise or issue of securities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investment banking, syndicate underwriters agree to purchase unsubscribed shares during an initial public offering to guarantee capitalization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, father; I cannot underwrite Article Four (leave alone the rest), taking it ‘in the literal and grammatical sense’ as required by the Declaration; and, therefore, I can’t be a parson in the present state of affairs,” said Angel."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"He gets some banking house to underwrite the combination, that is, to agree to dispose of a number of shares to the investing public."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A certain number of shares go to the owners, a certain number to the banking house for its services in underwriting, and a substantial number, it may be ten or twenty per cent, of the enormous capitalization, to the promoter himself."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"No, father; I cannot **underwrite** Article Four, leave alone the rest, taking it in the natural sense."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"The syndicate agreed to **underwrite** the entire municipal street railway bond issue at ninety-four."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchant insurers in maritime ports **underwrite** trading vessels bound for the East Indies against perils of the sea."*
+

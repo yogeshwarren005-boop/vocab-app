@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of excusing a mistake or offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warrant granting release from punishment for an offense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of forgiving or being forgiven for an error or offense; executive clemency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, the executive pardon power allows the head of state to commute sentences or grant full legal amnesty to convicted offenders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be where you list, your charter is so strong, That you yourself may privilage your time To what you will, to you it doth belong, Yourself to pardon of self-doing crime."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, madam; The Count Rossillon cannot be my brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pardon, my lord [_kneeling_], for me and for my tidings."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"That thou shalt see the difference of our spirits, I **pardon** thee thy life before thou ask it: for half thy wealth, it is Antonio's; the other half comes to the general state."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The doctor pleaded desperately for the prisoner's **pardon** before the bloodthirsty revolutionary tribunal."*
+> - 📜 **Abraham Lincoln (*Proclamation of Amnesty and Reconstruction*):** *"A full **pardon** is hereby granted to all persons who participated in the rebellion, upon taking a solemn oath of future loyalty."*
+

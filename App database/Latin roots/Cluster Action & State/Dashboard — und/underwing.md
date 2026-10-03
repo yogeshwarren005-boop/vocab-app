@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moth having dull forewings and brightly colored hind wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moth having dull forewings and brightly colored hind wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the posterior wings of an insect, or the underside surface of an airplane or bird wing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lepidopterology, moths of the genus Catocala conceal brilliant orange or scarlet bands on each underwing to startle avian predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underwing designates moth having dull forewings and brightly colored hind wings."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The sudden flash of vivid crimson on the insect's **underwing** serves to distract approaching insectivorous birds."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"A startled hawk wheeled above the pine woods, revealing the mottled plumage of its broad **underwing**."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The naturalist noted the delicate yellow markings lining the **underwing** of the migratory warbler."*
+

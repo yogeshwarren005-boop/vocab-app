@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very good;of the highest quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very good;of the highest quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely good, of superior quality, or possessing exceptionally high standard of performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, an excellent reputation constitutes a statesman's most durable posthumous legacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was excellent command, to charge in with our horse upon our own wings, and to rend our own soldiers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good now, some excellent fortune!"*
+> - 📜 **William Shakespeare (*King Lear*):** *"Her voice was ever soft, gentle, and low, an **excellent** thing in woman."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet was so odd a mixture of quick parts, sarcastic humor, and reserve, that the experience of three-and-twenty years had been insufficient to make his wife understand his **excellent** character."*
+> - 📜 **Francis Bacon (*Essays*):** *"There is no **excellent** beauty that hath not some strangeness in the proportion."*
+

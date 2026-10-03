@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally distended especially by fluids or gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally distended especially by fluids or gas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swollen or becoming swollen; tumid, or pompous and bombastic in style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic and literary criticism, tumescent prose is weighed down by excessive rhetorical ornamentation and grandiose vocabulary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumescent designates abnormally distended especially by fluids or gas."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The physiological engorgement of the **tumescent** organ signals complete readiness for reproductive union."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The critic objected to the **tumescent** rhetoric of the romantic tragedy, recommending classical restraint."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The **tumescent** buds on the orchard boughs burst open into delicate pink blossoms with the arrival of May."*
+

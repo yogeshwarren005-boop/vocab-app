@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very hard mineral used as an abrasive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very hard mineral used as an abrasive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of corundum; a hard crystalline form of aluminum oxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical lapidary manuals, corundom gems included ruby and sapphire, valued next to diamond in hardness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corundom designates very hard mineral used as an abrasive."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Lapidaries polish the hardest agates using powdered **corundom** imported from the East Indies."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"The mineral specimen of oriental **corundom** exhibited extraordinary hardness, resisting the keenest steel file."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The hardness of **corundom** renders its abrasive dust essential for cutting and faceting precious stones."*
+

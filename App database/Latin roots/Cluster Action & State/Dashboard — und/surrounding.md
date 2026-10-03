@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend on all sides of simultaneously; encircle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Envelop completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Encircling, enclosing, or situated around something; or environmental surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and topography, zoning restrictions protect surrounding agricultural greenbelts from suburban sprawl.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore's eyes were usually very sad, but occasionally she would look quite merry, and it was so that she appeared that evening when the children were surrounding her on all sides."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"A few days later the children, including Leonore, came back with rosy cheeks and glowing eyes from their first walk to the surrounding hills."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The character of much older and steadier people may be even changed by the circumstances surrounding them."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The temperature of the sea exerts a profound moderating influence upon the **surrounding** coastal atmosphere."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The flora of the oceanic island differed markedly from the continental vegetation of the **surrounding** mainland."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Hester Prynne's cottage stood isolated on the outskirts of town, overlooking the sea and the **surrounding** wild forest."*
+

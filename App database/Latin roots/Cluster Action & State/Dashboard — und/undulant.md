@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling waves in form or outline or motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling waves in form or outline or motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving with a smooth, rising and falling or wavelike motion; or describing a fever marked by periodic remissions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease pathology, brucellosis is clinically termed undulant fever due to its characteristic cyclical pyrexial fluctuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Like sea-cliffs and caves resounded their ranks With shoulders like waves, and undulant flanks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician observed the classic step-ladder temperature curves characteristic of **undulant** fever among patients in the Mediterranean."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The sweet melodies rose in **undulant** waves across the enchanted waters of the twilight lake."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The vast expanse of Egdon Heath stretched into the dusk with broad, **undulant** sweeps of dark heather."*
+

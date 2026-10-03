@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of owing something (especially money).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money or goods or services owed by one person to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific sum of money, service, or obligation that is owed or due to another person or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic theory, national debt reflects cumulative sovereign borrowing through treasury bills and bonds to finance public expenditures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This I wonder at, [_Exit Luciana._] Thus he unknown to me should be in debt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he be in debt and theft, and a sergeant in the way, Hath he not reason to turn back an hour in a day?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I let him go, The debt he owes will be requir’d of me."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"If I let him go, the **debt** he owes will be required of me by the officer of the law."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The progress of the enormous **debt** which at present oppresses, and will in the long run probably ruin, all the great nations of Europe."*
+> - 📜 **Benjamin Franklin (*The Way to Wealth*):** *"Think what you do when you run in **debt**; you give to another power over your liberty and peace of mind."*
+

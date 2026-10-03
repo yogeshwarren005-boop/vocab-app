@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a permissively lenient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a permissively lenient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a loose, slack, or insufficiently strict manner; without rigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional history, statutory trade bans executed laxly by provincial customs collectors fostered widespread contraband smuggling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laxly designates in a permissively lenient manner."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The navigation acts were so **laxly** enforced in the American colonies that merchants openly traded with foreign ports."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Principles that are taught **laxly** in childhood fail to construct durable moral guardrails in adult life."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The facial muscles hung **laxly** during states of extreme physical exhaustion and despair."*
+

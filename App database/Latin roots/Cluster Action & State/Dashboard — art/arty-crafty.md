@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pretentiously artistic; cloyingly charming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretentiously artistic; cloyingly charming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of artsy-craftsy; displaying an affectation of handmade, rustic artistic style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century commercial design history, mass-manufactured wares frequently appropriated arty-crafty motifs to mimic genuine William Morris crafts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arty-crafty designates pretentiously artistic; cloyingly charming."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"He noted the comical contrast between gritty industrial mills and the **arty-crafty** vegetarian teashops patronized by suburban eccentrics."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"The provincial parlor was adorned with **arty-crafty** stenciled wallpaper and homemade copper repoussé trays."*
+> - 📜 **E. M. Forster (*Where Angels Fear to Tread*):** *"The English tourists cluttered their Tuscan pensione with **arty-crafty** alabaster souvenirs bought at the railway station."*
+

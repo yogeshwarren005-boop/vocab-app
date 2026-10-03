@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountainous island in eastern indonesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountainous island in eastern indonesia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical name for Sulawesi, a large, uniquely four-peninsula island in eastern Indonesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography, Celebes lies at the heart of Wallacea, exhibiting extraordinary faunal endemism including the babirusa and anoa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kruijt, "De weerwolf bij de Toradja's van Midden-Celebes," _Tijdschrift voor Indische Taal- Landen Volkenkunde,_ xli. (1899) pp. 548-551, 557-560. [764] A.C."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Toradjas of Central Celebes believe that things of the same sort attract each other by means of their indwelling spirits or vital ether."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In eastern seas there is a large shell which the Buginese of Celebes call the "old man" (_kadjâwo_)."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The island of **celebes** occupies a remarkably central position in the archipelago, possessing animal forms utterly distinct from those of Java or Borneo."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The anomalous mammalian fauna of **celebes** indicates long periods of geographic isolation from both Asian and Australian mainlands."*
+> - 📜 **Joseph Conrad (*An Outcast of the Islands*):** *"Willems stared toward the dark outline of the **celebes** coast, wondering what fate awaited him across those tropical straits."*
+

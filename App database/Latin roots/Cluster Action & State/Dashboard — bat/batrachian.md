@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to frogs and toads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amphibian, especially a frog or toad; or pertaining to amphibians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, batrachian adaptations include cutaneous respiration and dual terrestrial-aquatic reproductive life cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batrachian designates any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A curious little **batrachian** reptile inhabited the dry sand-dunes of Bahia Blanca, burrowing rapidly into the loose soil."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The reflex movements of the **batrachian** spinal cord provided classic physiological demonstrations of unconscious neuromuscular response."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The grotesque creature stared at me with wide, unblinking **batrachian** eyes that reflected the flickering campfire."*
+

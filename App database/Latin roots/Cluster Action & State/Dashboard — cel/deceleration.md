@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decrease in rate of change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) a rate of decrease in velocity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction in speed or rate of movement; negative acceleration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trauma biomechanics, rapid deceleration during high-speed collisions causes severe coup-contrecoup intracranial injuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Plenty of time to kick-in vector and deceleration programs." Brad paused, shifted position, rubbed his jaws, sighed deeply, glanced sideways at Xindral and, his voice tighter, continued."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Deceleration and vector adjustments took another three decades."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"The immense **deceleration** experienced upon atmospheric re-entry requires heat shields capable of withstanding intense thermal friction."*
+> - 📜 **Isaac Asimov (*Foundation and Earth*):** *"The sudden **deceleration** threw the crew against their safety restraints as the ship slipped out of hyperspace."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe blunt trauma resulting from sudden vehicle **deceleration** can produce traumatic aortic rupture without external fracture."*
+

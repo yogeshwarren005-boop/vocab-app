@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being ulterior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being ulterior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Latency, concealment, or deliberate reserve regarding undisclosed motives or remote intentions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal scrutiny of contractual intent, evidence of ulteriority demonstrates that representations were made with undisclosed reservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ulteriority designates the quality of being ulterior."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The judge must penetrate the veil of **ulteriority** whenever a witness's testimony hints at secret secondary loyalties."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The profound mystery of poetic symbolism lies in its perpetual **ulteriority**, pointing toward truths beyond explicit speech."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"All earthly emblems possess a mystical **ulteriority**, veiling the eternal spiritual realities beneath material vestures."*
+

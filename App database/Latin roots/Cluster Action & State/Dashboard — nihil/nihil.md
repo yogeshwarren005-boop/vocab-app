@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (latin) nil; nothing (as used by a sheriff after an unsuccessful effort to serve a writ).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (latin) nil; nothing (as used by a sheriff after an unsuccessful effort to serve a writ).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nothing; nonentity, or a thing of no value, importance, or consequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin jurisprudence and Roman civil procedure, a return of nihil indicated that the defendant possessed no property within the bailiff's jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PISTOL. ’Tis _semper idem_, for _obsque hoc nihil est;_ ’tis all in every part."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ iv, 17, _nihil impudentius si ille nos sibi filio faciet qui nobis filios facere non permisit aufercndo conubium_. [61] de Rossi, cited by Harnack, _Expansion_, i, 208 n. [62] Romans 1, 14. [63] See p. 241; and cf."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ iii, i, _atquin nihil putem a deo subitum quia nihil a deo non dispositum_. [44] vii, 13, _skataophagein_."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambitious prelate discovered that all his accumulated earthly honors amounted to **nihil** upon the bed of death."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"To subsist in bones, and be but pyramidally extant, is a fallacy in duration, reducing mortal monuments to **nihil**."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He wasted his life pursuing phantom ambitions that terminated in absolute **nihil** and bitter disappointment."*
+

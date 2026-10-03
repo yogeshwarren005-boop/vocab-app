@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a millennium or span of a thousand years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a millennium or span of a thousand years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or occurring every thousand years; or relating to the biblical millennium or a golden age of peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical discourse, millennial expectations inspire utopian movements anticipating the imminent transformation of human society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Millennial glory If all who ever partook of the sacrament had really commemorated the sufferings of Jesus and drunk of 34:12 his cup, they would have revolutionized the world."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Millennial glory As this consummation draws nearer, he who has shaped his course in accordance with divine Science 96:27 will endure to the end."*
-> - 📜 **George W. Cronyn (*The Glebe 1914/09 (Vol. 2, No. 2): Poems*):** *"There, haunting the taciturn tree-tops Millennial prophecies linger, The inexhaustible waters Abide there forever and aye."*
+> - 📜 **Ralph Waldo Emerson (*Nature, Addresses, and Lectures*):** *"Every reform movement contains within itself a spark of **millennial** enthusiasm, believing human nature can be perfected."*
+> - 📜 **Thomas Carlyle (*Signs of the Times*):** *"Modern mechanical optimism promises a **millennial** era of effortless wealth and universal comfort."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Early Christian communities lived in intense **millennial** expectation of the immediate end of the earthly empire."*
+

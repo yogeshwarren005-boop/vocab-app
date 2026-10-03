@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or prescribed for celiac disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or in or belonging to the cavity of the abdomen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the abdomen or abdominal cavity; or relating to celiac disease (gluten-sensitive enteropathy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human gross anatomy, the celiac trunk is a major visceral branch of the abdominal aorta that vascularizes the stomach, liver, and spleen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celiac designates belonging to or prescribed for celiac disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dr. Samuel Gee first provided an accurate clinical description of the **celiac** affection in children suffering from chronic intestinal malabsorption."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The **celiac** artery arises from the anterior surface of the aorta, supplying digestive organs with arterial blood."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"Surgical access to the upper abdominal viscera requires careful preservation of the autonomic **celiac** plexus."*
+

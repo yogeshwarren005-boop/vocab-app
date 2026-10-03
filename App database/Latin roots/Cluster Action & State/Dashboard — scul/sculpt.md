@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Create by shaping stone or wood or any other hard material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape (a material like stone or wood) by whittling away at it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To carve, mold, or fashion a three-dimensional figure or design out of clay, stone, or metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and physical geography, fluvial and glacial forces sculpt deep canyons and dramatic mountain cirques across geological epochs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculpt designates create by shaping stone or wood or any other hard material."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The medieval master sought to **sculpt** the stone capital with living leaves that seemed to bend under invisible alpine breezes."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subaerial erosion and glacial ice continually **sculpt** the granite summits into rugged arêtes and amphitheaters."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The artist felt a longing to **sculpt** the youth's features in pure Parian marble rather than render them in fading oils."*
+

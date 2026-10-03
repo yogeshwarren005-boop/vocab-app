@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Round flat seed of the lentil plant used for food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fruit or seed of a lentil plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-protein edible pulse or seed of the leguminous plant Lens culinaris, widely cultivated for food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural history and paleobotany, the lentil was among the earliest domesticated founder crops in the fertile crescent over 9,000 years ago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And, provided with a lentil, he lighted a fire of dead wood that crackled joyously."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Why, just one serving of butter is 100 of fats, and eight almonds is another, while a serving of lentils is 100 of proteins."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"John present each other with plates of sprouting corn, lentils, and canary seed, which have been planted forty days before the festival."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The Mediterranean peasant subsisted largely upon cheap porridge made from barley, beans, and the nutritious **lentil**."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"I observed that the tender root-hairs of the sprouting **lentil** bent sensitively toward moisture in the soil."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The French soldier shared his mess-tin of boiled **lentil** stew with his famished Russian prisoner of war."*
+

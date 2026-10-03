@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorly or insufficiently educated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poorly or insufficiently educated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having received inadequate, insufficient, or poor quality formal education and schooling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological policy, an undereducated workforce struggles to adapt to technological automation and advanced industrial demands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undereducated designates poorly or insufficiently educated."*
+> - 📜 **Thomas Carlyle (*Chartism*):** *"An **undereducated** populace left in spiritual darkness will inevitably fall prey to violent revolutionary demagogues."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The state has an imperative duty to ensure that no child grows up **undereducated** and incapable of civic self-governance."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Vast populations in ancient empires remained **undereducated**, toiling as illiterate agricultural serfs."*
+

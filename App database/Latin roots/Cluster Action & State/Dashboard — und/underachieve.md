@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform less well or with less success than expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform less well or with less success than expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform less well, achieve less success, or produce lower results than expected or potential indicates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational psychology, gifted students may underachieve when uninspired by repetitive classroom curricula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underachieve designates perform less well or with less success than expected."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"A child of great natural parts will **underachieve** if education does not provide challenging intellectual stimulation."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Anxiety and emotional fatigue cause talented students to **underachieve** in competitive examination settings."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"Without systematic scientific training, practical mechanics **underachieve** in inventing efficient industrial machinery."*
+

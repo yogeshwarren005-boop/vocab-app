@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not of legal age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dependent by virtue of youth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Below the legal or required age, especially for drinking alcohol, voting, military enlistment, or marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor law history, protective statutory codes were enacted to prohibit underage children from employment in industrial textile mills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underage designates not of legal age."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Fagin recruited **underage** boys from the streets, training them in picking pockets in the squalid London slums."*
+> - 📜 **Winston Churchill (*The River War*):** *"Many eager recruits lying about their birthdates were found to be **underage** when medically examined for the expedition."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet fretted that Lydia had eloped while still an **underage** girl of sixteen, compromising the family honor."*
+

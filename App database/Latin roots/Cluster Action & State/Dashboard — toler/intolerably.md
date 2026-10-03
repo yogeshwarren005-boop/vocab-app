@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an unacceptable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an unacceptable degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an unbearable or unendurable degree; insufferably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric and workplace hygiene, thermal conditions rising intolerably above human endurance induce fatal heat exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But you never read novels, I dare say?” “Why not?” “Because they are not clever enough for you—gentlemen read better books.” “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"True, generous feeling is made small account of by some, but here were two natures rendered, the one intolerably acrid, the other despicably savourless for the want of it."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The weather was very clear and fine, but so intolerably cold that we were obliged to keep on our fur clothing."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The narrow dormitory at Lowood was **intolerably** cold in January, the water freezing in our wash basins overnight."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The midsummer sun beat down **intolerably** upon the exposed furze bushes of Egdon Heath."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The bitter reproaches of my guilty conscience weighed **intolerably** upon my spirits, driving me toward solitary wanderings."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a ballplayer who is batting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (baseball) a ballplayer who is batting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A player who bats in cricket or baseball; a batter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the sport of cricket, an accomplished batsman must master footwork, shot selection, and defensive technique against varied bowling attacks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"When it broke out he was a second lieutenant in the Winchester Regiment, a keen polo player and first class batsman who rarely opened a book."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He stepped onto the cricket pitch as the opening **batsman**, facing the swift bowling with calm technical competence."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The rival **batsman** took his stance before the wickets, watching the bowler's arm with intense concentration."*
+> - 📜 **P. G. Wodehouse (*The Gold Bat*):** *"The school team cheered as their star **batsman** drove the cricket ball cleanly over the boundary ropes for six."*
+

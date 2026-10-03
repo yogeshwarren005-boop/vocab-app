@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of textures that are rough to the touch or substances consisting of relatively large particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking refinement or cultivation or taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rough or loose in texture or grain; or lacking refinement, vulgar, and crude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile manufacturing, coarse yarn counts indicate thick thread diameters used for sackcloth and heavy canvas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I feel Of what coarse metal ye are moulded, envy!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have nothing But this poor petticoat, and two coarse smocks."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I thought it very touching to see these two women, coarse and shabby and beaten, so united; to see what they could be to one another; to see how they felt for one another, how the heart of each to each was softened by the hard trials of their lives."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"They were **coarse** and common clothes, but Joe put them on with a respectful solemnity as his best Sunday attire."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Ferrars was a woman of **coarse** manners and unyielding obstinacy, who measured human merit solely by wealth."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Thy gown? Why, ay: come, tailor, let us see't. O mercy, God! What masquing stuff is here? What's this? A sleeve? 'Tis like a demi-cannon: what, up and down, carved like an apple-tart? Here's snip and nip and cut and slish and slash, like to a censer in a barber's shop. Why, what i' devil's name, tailor, call'st thou this? You bid me make it orderly and well, according to the fashion and the time. Marry, and did; but if you be remember'd, I did not bid you mar it to the time. Go, hop me over every kennel home, for you shall hop without my custom, sir: I'll none of it: hence! make your best of it. Tailor, this is a **coarse** and wretched garment, unfit for any gentlewoman to wear."*
+

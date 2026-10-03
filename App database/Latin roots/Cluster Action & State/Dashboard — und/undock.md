@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move out of a dock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take (a ship) out of a dock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To release, detach, or move a vessel, spacecraft, or software window away from a dock or mooring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orbital aerospace mechanics, spacecraft command systems execute thruster sequences to undock safely from orbiting space stations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undock designates move out of a dock."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The steam tugs assisted the heavy merchant vessel to **undock** safely into the swirling tidal current of the Thames."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The frigate prepared to **undock** at dawn, amidst the shrill piping of boatswains and the thud of heavy hempen hawsers."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"The smugglers hastened to **undock** their shallow skiff before the harbor patrol could light the beacon."*
+

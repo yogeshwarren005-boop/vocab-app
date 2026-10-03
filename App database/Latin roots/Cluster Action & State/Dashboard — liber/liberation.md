@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of liberating someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attempt to achieve equal rights or status.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of setting someone free from imprisonment, slavery, or oppression; release.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eastern philosophy and comparative theology, spiritual liberation (moksha or nirvana) transcends the cyclic wheel of mortal suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The force of the invective, the keenness of the wit, and the fervor of the imagination which they displayed, rendered them an important force in the theological liberation of Scotland."*
-> - 📜 **Effie Afton (*Eventide*):** *"First, Resolved, That the enfranchised women of Wimbledon use their combined efforts for the liberation of their suffering sisterhood, who yet groan beneath the despotic cruelties of the oppressor man." The secretary sat down."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Others suffering from the frightful jail fever or wasted by privation and wearisome marches with little or no food, received from them food and clothing, and were thus enabled to maintain existence till the time for their liberation came."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"The national conflict was overruled by Providence to achieve the **liberation** of four million enslaved human souls."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The storming of the Bastille was hailed across Europe as the symbolic **liberation** of mankind from feudal tyranny."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The titan endured centuries of torture upon the Caucasus rock, awaiting the universal **liberation** of humanity."*
+

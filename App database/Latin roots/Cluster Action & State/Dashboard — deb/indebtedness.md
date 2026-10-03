@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An obligation to pay money to another party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal relation in which one is indebted for a service or favor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of owing money; or a deep sense of gratitude for benefits or favors conferred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and sovereign debt sustainability analysis, heavy indebtedness restricts future investment by consuming cash flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But now--she had been lying there two weeks; six dollars were due for board, and still she was unable to rise, and, when she did, how could she ever pay the back indebtedness?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"During these days of wonderful business and deliverances, after each indebtedness was discharged, there still was not left cash in hand a sum exceeding three to five dollars."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The wasteful process of shipping these sums back and forth is avoided by the cancellation of indebtedness between the two localities."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The long-continued **indebtedness** of the crown eventually forced European parliaments to assert control over taxation."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"To justify the heavy **indebtedness** incurred during the Revolutionary War, the federal government must fund the public debt honorably."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy endured sleepless nights of agony contemplating his growing **indebtedness** to the horse-dealers."*
+

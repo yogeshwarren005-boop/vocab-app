@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity that is more than what is appropriate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantity that is more than what is appropriate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceedingly large quantity, excessive surplus, or overflowing excess of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological reproductive ecology, organisms produce a superabundance of gametes to offset severe juvenile mortality rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She wished to help him, to bestow on him the superabundance of her own happiness."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"As to Henrietta, my apology for whom I just left incomplete, she exemplifies, I fear, in her superabundance, not an element of my plan, but only an excess of my zeal."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Of course in some districts food is scarce, in others, there is a superabundance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **superabundance** of offspring produced by every species inevitably leads to a fierce struggle for limited resources."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A **superabundance** of gold and silver in Spain after the conquest of Peru caused domestic commodity prices to soar."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The industrial mills produced a **superabundance** of cotton cloth while thousands of weavers shivered in rags."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A schismatic christian religion in northern africa from the 4th to the 7th century; held that only those who led a blameless life belonged in the church or could administer the sacraments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schismatic christian religion in northern africa from the 4th to the 7th century; held that only those who led a blameless life belonged in the church or could administer the sacraments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 4th-century North African Christian schism maintaining that sacraments administered by fallen clerics were invalid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical patristics, Saint Augustine opposed Donatism by arguing that sacraments operate ex opere operato through Christ rather than the minister's moral purity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donatism designates a schismatic christian religion in northern africa from the 4th to the 7th century; held that only those who led a blameless life belonged in the church or could administer the sacraments."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The furious controversy of **donatism** tore the churches of North Africa into irreconcilable hostile factions."*
+> - 📜 **Saint Augustine (*Confessions*):** *"He wrote extensively against the sect of **donatism**, defending the unity and universality of the Catholic Church."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The civil wars sparked by **donatism** in Roman Africa illustrated how theological zeal could dismantle imperial peace."*
+

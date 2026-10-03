@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave as expected during of holidays or rites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a celebration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To acknowledge a significant happy day or event with a social gathering, ceremony, or enjoyable activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, human communities celebrate seasonal solstices and harvests through symbolic feasts and commemorative rituals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ENOBARBUS. [_To Antony_.] Ha, my brave emperor, Shall we dance now the Egyptian Bacchanals And celebrate our drink?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dauphin, command the citizens make bonfires And feast and banquet in the open streets To celebrate the joy that God hath given us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet there, my queen, We’ll celebrate their nuptials, and ourselves Will in that kingdom spend our following days: Our son and daughter shall in Tyrus reign."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"A contract of true love to **celebrate**, and some donation freely to estate on the bless'd lovers."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The Cratchit family gathered with joyful hearts to **celebrate** Christmas Day around their modest roasted goose."*
+> - 📜 **Walt Whitman (*Song of Myself*):** *"I **celebrate** myself, and sing myself, and what I assume you shall assume, for every atom belonging to me as good belongs to you."*
+

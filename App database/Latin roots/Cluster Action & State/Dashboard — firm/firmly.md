@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With resolute determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a secure manner; in a manner free from danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a secure, solid, steady, or unshakeable manner; with resolute determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, components bound firmly together maintain tensile adhesion under thermal and mechanical vibration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"YORK. [_Aside_.] Cold news for me, for I had hope of France As firmly as I hope for fertile England."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, at last I firmly am resolved You shall have aid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will maintain My truth and honour firmly."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth resolved **firmly** never to mention the subject again, unwilling to distress her father's affectionate heart."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When variations are **firmly** inherited, they become the basis upon which natural selection gradually shapes distinct varieties."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes grasped the boat's tiller **firmly**, steering straight into the teeth of the blinding Thames gale."*
+

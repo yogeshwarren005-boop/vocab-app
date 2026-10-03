@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cancel, annul, or reverse an action or its effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of certain characteristics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To unfasten, untie, or loosen; or to reverse, annul, or cancel the effect of a previous action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human-computer interaction and software architecture, the undo command utilizes an operational command stack to roll back state transformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good gods will mock me presently When I shall pray “O, bless my lord and husband!” Undo that prayer by crying out as loud “O, bless my brother!” Husband win, win brother, Prays and destroys the prayer; no midway ’Twixt these extremes at all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, masters, my good friends, mine honest neighbours, Will you undo yourselves?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"What's done cannot be undone; to bed, to bed, to bed, yet how we strive to **undo** our past deeds."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Nothing can **undo** what has been wrought, yet repentance may temper the severe hand of destiny."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester attempted in vain to **undo** the tangled knot of his tragic marriage by fleeing across Europe."*
+

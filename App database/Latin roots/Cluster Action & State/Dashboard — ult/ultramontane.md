@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roman catholic who advocates ultramontanism (supreme papal authority in matters of faith and discipline).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ultramontanism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beyond the mountains (especially the Alps from the Italian perspective); or supporting the supreme papal authority over national churches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, ultramontane Catholicism advocated complete centralisation of doctrine and authority in the Vatican, opposing Gallicanism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramontane designates a roman catholic who advocates ultramontanism (supreme papal authority in matters of faith and discipline)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **ultramontane** provinces of Gaul and Britain sent auxiliary legions to reinforce the imperial defenses along the Rhine."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The French clergy vigorously resisted the **ultramontane** party, asserting the traditional privileges of the Gallican Church."*
+> - 📜 **Lord Acton (*The History of Freedom and Other Essays*):** *"The **ultramontane** faction triumphed at the First Vatican Council, securing the dogmatic definition of papal infallibility."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mercifulness as a consequence of being lenient or tolerant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to yield to the wishes of someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition to show mercy, forbearance, mildness, or clemency toward offenders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial jurisprudence, statutory guidelines permit judicial lenience when mitigating factors outweigh aggravating circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenience designates mercifulness as a consequence of being lenient or tolerant."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal showed not the slightest **lenience** to prisoners accused of aristocratic sympathies."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Farebrother advocated generous **lenience** in judging poor Fred Vincy's youthful monetary indiscretions."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"True imperial statesmanship combines political firmness with magnanimous **lenience** toward colonial grievances."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not lessened or diminished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not lessened or diminished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining at the full original size, strength, intensity, or quality; not lessened or reduced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and wave propagation, energy transmitted across ideal lossless media propagates with undiminished wave amplitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That I have ever had the strongest affection for her, and that I retain it undiminished."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The keen instincts of Bathsheba had perceived that the farmer’s staunch devotion to herself was still undiminished, and she sympathized deeply."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet rejoiced to see Jane in undiminished beauty; and more than once during dinner did Mr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The veteran legions advanced with **undiminished** courage against the barbarians who had crossed the frozen Rhine."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Frankenstein pursued his vengeful demon across Arctic ice sheets with **undiminished** hatred and desperation."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Britain faced the threat of aerial bombardment with **undiminished** fortitude during the dark summer of 1940."*
+

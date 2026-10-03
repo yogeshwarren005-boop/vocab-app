@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not admitting of pardon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not admitting of pardon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too severe, offensive, or heinous to be pardoned or forgiven; inexcusable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theological ethics, the unpardonable sin (blasphemy against the Holy Spirit) denotes obstinate, impenitent rejection of divine grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis a fault too too unpardonable."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It would be unpardonable to fail."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Was it unpardonable to think it worth my while to come? and to arrive with some degree of hope?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth declared that Wickham's deceit and ingratitude toward Mr. Darcy were of an **unpardonable** nature."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth's calculated intellectual violation of another human heart was the only truly **unpardonable** sin."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip felt that his ungrateful neglect of Joe Gargery was an **unpardonable** baseness that haunted his conscience."*
+

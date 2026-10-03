@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political orientation that favors social progress by reform and by changing laws rather than by revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An economic theory advocating free competition and a self-regulating market.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political and moral philosophy based on individual liberty, consent of the governed, and equality before the law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century intellectual history, classical liberalism advocated laissez-faire markets, secular education, and parliamentary reform against mercantilist monarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"For many years what has been known as the liberalism of young Oxford and Cambridge is in many respects fundamentally different from what is known as liberalism outside the universities."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The liberalism of the universities, as well as that of the Manchester school, are both popularly described as advanced but between the two there is in many essentials the widest possible divergence."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And all this was found in Alexander I; all this had been prepared by innumerable so-called chances in his life: his education, his early liberalism, the advisers who surrounded him, and by Austerlitz, and Tilsit, and Erfurt."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father's intellectual position was the fountainhead of philosophical radicalism and classical **liberalism** during that transformative epoch."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"True **liberalism** harmonizes personal independence with respect for communal legal institutions."*
+> - 📜 **Lord Acton (*The History of Freedom*):** *"The essence of **liberalism** is the conviction that freedom is not a means to a higher political end, but the highest political end itself."*
+

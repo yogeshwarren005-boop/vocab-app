@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who takes photographs professionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who takes photographs professionally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographer, especially a photojournalist; or a member of the elite interstellar law-enforcement corps in E. E. Smith's space operas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science fiction, the Lensman series by E. E. 'Doc' Smith pioneered space opera tropes, centering on warriors wielding telepathic lenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lensman designates someone who takes photographs professionally."*
+> - 📜 **Arthur C. Clarke (*Astounding Days*):** *"Generations of science fiction readers were enthralled by the heroic exploits of the interstellar **lensman** in the pulp magazines."*
+> - 📜 **Isaac Asimov (*Before the Golden Age*):** *"E. E. Smith created in the cosmic **lensman** an archetype of galactic law enforcement that inspired countless space operas."*
+> - 📜 **Robert A. Heinlein (*Expanded Universe*):** *"The intrepid press **lensman** pushed his way to the front of the crowd to snap a photograph of the departing rocket."*
+

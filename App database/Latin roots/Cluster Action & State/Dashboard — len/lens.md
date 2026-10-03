@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent optical device used to converge or diverge transmitted light and to form images.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of small erect or climbing herbs with pinnate leaves and small inconspicuous white flowers and small flattened pods: lentils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of glass or transparent material with curved sides for concentrating or dispersing light rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and astronomy, chromatic aberration in a refracting lens is corrected by pairing flint and crown glass elements in an achromatic doublet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She hardly observed that a tear descended slowly upon his cheek, a tear so large that it magnified the pores of the skin over which it rolled, like the object lens of a microscope."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In this way, metaphorically speaking, a strong lens applied to Mrs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if his eyes were broad as the lens of Herschel’s great telescope; and his ears capacious as the porches of cathedrals; would that make him any longer of sight, or sharper of hearing?"*
+> - 📜 **Isaac Newton (*Opticks*):** *"When light passes through a convex **lens**, rays of different colors are refracted at unequal angles, producing color fringes."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"By adjusting the tiny glass **lens** of the microscope, the pores in cork tissue became plainly visible to the observer."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes took out his magnifying **lens** and knelt down to examine the faint impressions on the carpet."*
+

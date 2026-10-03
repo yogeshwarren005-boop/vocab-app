@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With humor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With humor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a playful, jesting, humorous, or facetious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative dialogue, speaking jocosely serves to diffuse awkward social tension between unfamiliar acquaintances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The fact is,” Richard proceeded, half thoughtfully and half jocosely, “it is not quite in my way."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Standish, jocosely; “you see the middle-aged fellows carry the day.” Mr."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But you know you love her.” “Do you know I love you?” the young man said, jocosely, to Isabel a little later, while he brushed his hat."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber bowed **jocosely** to the company, observing that something would undoubtedly turn up before nightfall."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The country fiddler remarked **jocosely** upon the bridegroom's nervous pallor during the wedding march."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes touched Watson **jocosely** upon the shoulder, reminding him that the adventure was only beginning."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make weak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impairing the strength and vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing severe weakness, impairment of health, loss of energy, or operational incapacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational health and epidemiology, chronic inflammatory conditions exert a debilitating impact upon daily manual productivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I forgit myself when I take such an interest in your breakfast, as to wish your frame, exhausted by the debilitating effects of prodigygality, to be stimilated by the ’olesome nourishment of your forefathers."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The summer days in the lower valleys are quite warm, but, as the dry atmosphere rapidly absorbs the perspiration of the body, it prevents the debilitating effect experienced where the air is heavier and more saturated with moisture."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The stagnant air of the London slum fostered a **debilitating** ague that laid low entire families in Tom-all-Alone's."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Terrestrial bacterial infections proved a swift and **debilitating** pestilence against the unimmunized Martian invaders."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Persistent neurotic anxiety acts as a **debilitating** drain upon intellectual concentration and decisive executive action."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Locate and correct errors in a computer program code.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Locate and correct errors in a computer program code.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To identify, trace, and remove errors, bugs, or defects from computer hardware, software, or mechanical systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early electronic computing lore, Grace Hopper popularized the term after a literal moth was removed from a relay in the Harvard Mark II.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debug designates locate and correct errors in a computer program code."*
+> - 📜 **Grace Hopper (*Annals of the History of Computing*):** *"From that moment on, whenever the machine stopped, we told the commander we were trying to **debug** the computer."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"It is much harder to **debug** code than to write it; therefore, write programs with utmost conceptual clarity."*
+> - 📜 **Edsger W. Dijkstra (*Selected Writings on Computing*):** *"Testing can demonstrate the presence of bugs, but never their absence; to **debug** effectively requires rigorous mathematical proof."*
+

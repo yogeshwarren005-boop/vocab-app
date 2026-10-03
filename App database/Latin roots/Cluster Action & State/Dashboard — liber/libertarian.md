@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of libertarianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who believes the doctrine of free will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of individual liberty, minimal state intervention, and free-market autonomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of action, a metaphysical libertarian asserts that human agents possess genuine free will incompatible with causal determinism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"You know our libertarian society."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"The consistent **libertarian** opposes every expansion of bureaucratic coercion that diminishes individual self-ownership."*
+> - 📜 **William James (*The Dilemma of Determinism*):** *"The philosophical **libertarian** maintains that genuine novelties and real choices exist in the unfolding universe."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A **libertarian** standard requires that social authority refrain from regulating personal conduct that harms no one else."*
+

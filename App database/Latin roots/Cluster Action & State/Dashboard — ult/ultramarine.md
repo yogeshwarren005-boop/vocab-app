@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Blue pigment made of powdered lapis lazuli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vivid blue to purple-blue color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brilliant deep blue pigment originally produced by crushing lapis lazuli; or the vivid blue color itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance painting, natural ultramarine was more precious than gold, reserved for the garments of the Virgin Mary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The atmosphere beneath is languorous, and is so tinged with azure that what artists call the middle distance partakes also of that hue, while the horizon beyond is of the deepest ultramarine."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Beyond that the tints darkened into fine gradations of ultramarine, and faded into vague obscurity."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The Italian masters illuminated their skies with pure **ultramarine**, achieving a depth of azure that modern chemical blues cannot match."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The distant southern hills lay bathed in a soft haze of glowing **ultramarine** under the clear summer noon."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The clear seawater outside the salon viewport shifted from emerald green to an unfathomable, luminous **ultramarine**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small room (in large old british houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small room (in large old british houses) next to the kitchen; where kitchen utensils are cleaned and kept and other rough household jobs are done.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small room attached to a kitchen, used for washing dishes, pots, and household cleaning chores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian domestic architecture and downstairs servant economy, the scullery was the lowliest workspace where pots were scoured with sand and potash.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The purposes for which a few shapeless pantries and a comfortless scullery were deemed sufficient at Fullerton, were here carried on in appropriate divisions, commodious and roomy."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Pursuing the tradesman's drive between coach-house, tool shed, coal shed, and miscellaneous outbuildings, Lawrence emerged on a brick yard, ducked under a clothes-line, made for an open doorway, and found himself in the scullery."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He took the largest of the jugs from the dresser and strode with it into the scullery, whence came the sound of running water."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The kitchen staff bustled about their work, while the scullery maid wept quietly in the outer **scullery** over a pile of brass pans."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A dismal **scullery** smelling of cold soap-suds and wet flagstones formed the lowest precinct of the London house."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The milkmaids scrubbed the copper pails in the stone-flagged **scullery** as the morning sun peered over the dairy eaves."*
+

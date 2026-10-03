@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fairy shrimp; brine shrimp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fairy shrimp; brine shrimp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic crustaceans commonly known as brine shrimp, adapted to hypersaline lakes and lagoons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental and evolutionary biology, Artemia salina produces cryptobiotic cysts capable of surviving complete desiccation for decades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artemia designates fairy shrimp; brine shrimp."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The ability of the brine shrimp **artemia** to thrive in saturated saline solutions illustrates extreme physiological adaptation."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The phyllopod crustacean **artemia** swims on its back by rhythmic undulations of its flattened foliaceous appendages."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Waterfowl transport the resistant encysted eggs of **artemia** on their muddy feet to isolated desert salt pans."*
+

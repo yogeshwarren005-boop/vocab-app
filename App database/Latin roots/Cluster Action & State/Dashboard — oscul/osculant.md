@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin oscul within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of oscul in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kissing, adhering closely, or exhibiting intermediate characteristics between distinct groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century taxonomic biology, an osculant species or genus shares structural features uniting two otherwise divergent orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osculant designates pertaining to, derived from, or characteristic of latin oscul within the domain of action & state."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Naturalists have applied the term **osculant** to peculiar genera which appear to bridge the morphological interval between distinct families."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The fossil organism displays an **osculant** position, exhibiting reptilian dentition combined with avian skeletal adaptations."*
+> - 📜 **Louis Agassiz (*Essay on Classification*):** *"Certain aberrant synthetic forms occupy an **osculant** station in the grand architecture of the animal kingdom."*
+

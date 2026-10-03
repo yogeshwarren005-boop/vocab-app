@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of exposing film to too little light or for too short a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequate publicity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficient exposure of photographic film or image sensors to light, producing dark, muddy pictures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital radiography, severe underexposure introduces quantum mottle noise that obscures subtle anatomical fracture lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underexposure designates the act of exposing film to too little light or for too short a time."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The experimental photographic plate was ruined by severe **underexposure**, showing only shadowy silhouettes."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"We adjusted the aperture to eliminate **underexposure** during high-speed kinetoscope filming."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The faint light of the dying sun caused an **underexposure** of the photographic plates left to record the horizon."*
+

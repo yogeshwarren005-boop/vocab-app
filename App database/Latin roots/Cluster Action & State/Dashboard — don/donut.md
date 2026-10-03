@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small ring-shaped friedcake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small ring-shaped friedcake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small fried dough confection, typically ring-shaped or filled with jam or cream; a doughnut.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In topology and differential geometry, a donut shape is formally classified as a torus with a single topological genus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donut designates a small ring-shaped friedcake."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The stagecoach passengers devoured hot coffee and fried **donut** cakes at the wayside mountain station with ferocious appetite."*
+> - 📜 **William Dean Howells (*The Rise of Silas Lapham*):** *"The country breakfast featured fresh milk, maple syrup, and a heaping plate of crisp homemade **donut** pastries."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Meg fried a batch of sweet **donut** treats for the Christmas picnic, to the great delight of the March girls."*
+

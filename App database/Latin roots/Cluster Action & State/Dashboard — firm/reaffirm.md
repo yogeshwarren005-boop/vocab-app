@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affirm once again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affirm once again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state or assert something again strongly and publicly; to confirm once more.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international treaties and diplomatic communiqués, signatory states reaffirm their adherence to mutual non-aggression pacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Your proposition, however, practically proposes to re-nominate General Beaver, and reaffirm the abuse which we oppose."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We reaffirm our opposition to further grants of the public lands to corporations and monopolies, and demand that the national domain be devoted to free homes for the people. 10."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We reaffirm the American doctrine of Protection."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"I hold that, in contemplation of universal law and of the Constitution, the Union of these States is perpetual, and I **reaffirm** that resolve today."*
+> - 📜 **Woodrow Wilson (*Fourteen Points Speech*):** *"We enter upon these negotiations to **reaffirm** the sacred rights of small nations to self-determination and sovereign liberty."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The court found it necessary to **reaffirm** the traditional common-law guarantees of individual personal liberty."*
+

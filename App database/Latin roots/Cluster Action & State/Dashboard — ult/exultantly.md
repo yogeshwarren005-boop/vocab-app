@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exultant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exultant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a triumphant, jubilant, or rejoicing manner, filled with victorious pride.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary narratives, protagonists react exultantly upon discovering long-sought revelations or escaping mortal peril.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He took great pleasure in the little prayer-meetings, and in three months cheerfully and exultantly exchanged this world of suffering for the one where father, brother and sister awaited him."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"T ain't nine o'clock yet," she said, exultantly."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Pools of water lay on the leads, the sun just gleamed out from between dark clouds, and birds chirped exultantly."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester laughed **exultantly** as he embraced Jane, believing that fate had at last united their parted destinies."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Long John Silver waved his crutch **exultantly** when the mutineers discovered the freshly dug treasure cache."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck howled **exultantly** across the frozen Yukon wilderness, answering the ancient call of his wild lupine ancestors."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An erroneous mental representation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something many people believe that is false.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceptive appearance or impression; or a false idea, belief, or sensory misperception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and psychophysics, an optical illusion reveals how perceptual neural circuitry infers depth and motion from ambiguous 2D cues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By some illusion see thou bring her here; I’ll charm his eyes against she do appear."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He beheld it all by degrees, stared in stupefaction at the scene, as if he thought it an illusion raised by some fiendish incantation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This very morning the illusion completed its disappearance, and, as it were, all of a sudden, Troy hated himself."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I'll cross it, though it blast me. Stay, **illusion**! If thou hast any sound, or use of voice, speak to me."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Sensory **illusion** demonstrates that secondary qualities like color and heat reside in the observer rather than the external object."*
+> - 📜 **Albert Einstein (*Ideas and Opinions*):** *"The distinction between past, present, and future is only a stubbornly persistent **illusion**."*
+

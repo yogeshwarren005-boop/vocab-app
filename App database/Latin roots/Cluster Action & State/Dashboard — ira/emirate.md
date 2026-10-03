@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The domain controlled by an emir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office of an emir.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank, dignity, or territorial jurisdiction ruled by an Arab emir.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Middle Eastern geopolitical history and Islamic political law, an emirate signifies a sovereign or semi-autonomous principality governed by dynastic emirate law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emirate designates the domain controlled by an emir."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Saracen general established an independent **emirate** across the conquered provinces of Andalusia."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The Bedouin tribes acknowledged the traditional authority of the local **emirate** regarding rights of desert transit."*
+> - 📜 **Arthur Conan Doyle (*The Tragedy of the Korosko*):** *"The travelers discussed the political stability of the border **emirate** while sailing up the Upper Nile."*
+

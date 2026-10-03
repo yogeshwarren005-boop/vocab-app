@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained by convention or morality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or morality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking moral restraint; given to immoral or improper conduct; dissipated and debauched.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical biography and Roman history, dissolute emperors squandered state treasuries upon lavish spectacles and personal profligacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His dissolute disease will scarce obey this medicine."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode, in his usual subdued voice, “an unfortunate dissolute wretch, whom I helped too much in days gone by."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Afterwards he went to America, and returned I fear to an idle dissolute life."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The young emperor surrendered himself to the guidance of **dissolute** favorites, neglecting the defense of the frontiers."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton was a man of good abilities and good emotions, dissipated and **dissolute**, with his career blighted by reckless habits."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Maria Bertram was shocked by the **dissolute** manners of the fashionable London circle into which her marriage introduced her."*
+

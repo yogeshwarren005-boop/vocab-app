@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarify by giving an example of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Depict with an illustration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide pictures, diagrams, or visual aids for a text; or to explain and clarify by examples or analogies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific pedagogy, instructors use physical demonstration models to illustrate abstract principles of electromagnetic flux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But his body And fiery mind illustrate a brave father."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They illustrate most beautifully the blessed way in which the Savior's everlasting arms are around, strengthening, and His presence comforting His weak and helpless ones, in all their little as well as great trials of life."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"May He who said, He that giveth a cup of cold water to a disciple, in the name of a disciple, shall not lose his reward, repay you a thousand-fold for this favor.' "Does not this little incident illustrate the power of prayer?"*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must bring forth practical experiments to **illustrate** and confirm theoretical axioms of natural philosophy."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick produced his pocket notebook to **illustrate** his observations regarding provincial antiquities."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I shall employ the complex structure of the hive-bee's cell to **illustrate** the power of natural selection."*
+

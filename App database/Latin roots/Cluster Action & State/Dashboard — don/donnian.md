@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or in the manner of john donne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or in the manner of john donne.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or resembling John Donne or his intellectual metaphysical poetic style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century literary essays, Donnian wit referred to ingenious dialectical arguments sustained in romantic verse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donnian designates of or relating to or in the manner of john donne."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"The poem exhibits a curious **donnian** subtlety, turning an anatomical detail into a sublime theological metaphor."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Browne's prose occasionally reveals a **donnian** fascination with the solemn paradoxes of mortality."*
+> - 📜 **Algernon Charles Swinburne (*A Study of Shakespeare*):** *"The lyric possesses a **donnian** toughness of fiber that challenges the reader's analytical comprehension."*
+

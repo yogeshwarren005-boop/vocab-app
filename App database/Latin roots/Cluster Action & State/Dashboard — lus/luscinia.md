@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nightingales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nightingales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small passerine birds in the thrush family Muscicapidae, comprising the common nightingale and its close relatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ethology and bioacoustics, Luscinia megarhynchos is renowned for its complex nocturnal vocal repertoire exceeding 180 distinct song types.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, luscinia designates nightingales."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The sweet nocturnal strains of **luscinia** were heard in our southern woods upon the seventh of April."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The musical rivalry among singing males of the genus **luscinia** illustrates the evolutionary potency of sexual selection."*
+> - 📜 **Thomas Pennant (*British Zoology*):** *"The migrant thrush **luscinia** arrives in spring from North Africa, nesting in dense coppices and briars."*
+

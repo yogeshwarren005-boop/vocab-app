@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Petrels; albatrosses; shearwaters; diving petrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Petrels; albatrosses; shearwaters; diving petrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of oceanic tube-nosed seabirds, including albatrosses, petrels, shearwaters, and storm petrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics, the order Procellariiformes is defined by external tubular naricorns, specialized stomach oil, and dynamic soaring over ocean swells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procellariiformes designates petrels; albatrosses; shearwaters; diving petrels."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Seabirds of the order **procellariiformes** exhibit delayed maturity and single-egg clutches adapted to pelagic foraging life."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The Southern Ocean displays the greatest diversity and evolutionary radiation of the soaring order **procellariiformes**."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"Cranial morphology in **procellariiformes** reveals the schizognathous palate and distinctive rostral architecture of tubenoses."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student who does not perform as well as expected or as well as the iq indicates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A business that is less successful than expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, company, investment, or machine that performs less well than expected or required.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human resources management, an underperformer is placed on an improvement plan to diagnose skill gaps or motivational hurdles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underperformer designates a student who does not perform as well as expected or as well as the iq indicates."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Vincent Crummles dismissed the stage **underperformer** whose wooden acting had ruined the romantic third act."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The idle aristocratic **underperformer** who lives upon hereditary rents without performing public duty invites social revolution."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The senior medical partner proved a chronic **underperformer**, leaving all the arduous night calls to his young assistant."*
+

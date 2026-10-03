@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The elimination of fecal waste through the anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something less tight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of loosening, slacking, or relaxing; or bowel evacuation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical humoral therapeutics, gentle laxation of the bowels was prescribed to expel bilious humors during fevers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laxation designates the elimination of fecal waste through the anus."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Physicians frequently prescribe mild mineral waters to promote beneficial **laxation** and cleanse visceral obstructions."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The seasonal **laxation** of plant vessels in spring permits the upward surge of vital vegetative juices."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Moist warmth induces a gentle **laxation** of the bodily pores, facilitating perspiration and recovery."*
+

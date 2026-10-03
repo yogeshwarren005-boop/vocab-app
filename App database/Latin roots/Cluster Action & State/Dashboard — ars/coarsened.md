@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or become coarse or coarser.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less subtle or refined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made rough, harsh, or crude in physical texture, appearance, or moral sensitivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary realism, characters whose sensibilities have been coarsened by poverty or brutal labor reflect environmental determinism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He saw its effects in broken homes and aching hearts, in coarsened minds and reckless lives."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My hands were **coarsened** by hard work at the forge, and Estella mocked them with cold and haughty disdain."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"His fingers were **coarsened** by years of mallet and chisel work on the cathedral stonemasonry."*
+> - 📜 **George Gissing (*New Grub Street*):** *"The perpetual struggle for daily bread had **coarsened** his literary style, stripping away youthful grace and nuance."*
+

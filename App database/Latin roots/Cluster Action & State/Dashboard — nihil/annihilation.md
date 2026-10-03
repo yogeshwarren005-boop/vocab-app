@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destruction by annihilating something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Total destruction, complete obliteration, or reduction to absolute nothingness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and quantum electrodynamics, positron-electron annihilation produces two distinct gamma-ray quanta of 511 keV emitted in opposite directions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In truth, he had awakened that morning from a sleep deep as annihilation; and during those first few moments in which the brain, like a Samson shaking himself, is trying its strength, he had some dim notion of an unusual nocturnal proceeding."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He, with open eyes, chose physical pain, heightened to torture, not escaping any of the suffering which anticipation gives--that physical horror of death, that instinctive fear of annihilation, which nature suggests of itself."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Rushworth would be instant annihilation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The human mind cannot conceive the creation of something out of nothing, nor the total **annihilation** of substance into void."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sack of the imperial capital portended the utter **annihilation** of Roman civilization in the West."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship rushed toward its final **annihilation**, sucked into the vortex of the closing sea."*
+

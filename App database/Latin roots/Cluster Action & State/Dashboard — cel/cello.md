@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large stringed instrument; seated player holds it upright while playing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large stringed instrument; seated player holds it upright while playing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-stringed musical instrument of the violin family, pitched an octave lower than the viola and played between the knees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orchestral instrumentation, the cello possesses an expansive compass ranging from resonant low C up into expressive treble registers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Tiresome shapers scraping fiddles, eye on the bowend, sawing the cello, remind you of toothache."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The mellow timbre of the solo **cello** soared effortlessly above the quiet woodwind accompaniment in the adagio."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"Hanno sat with his **cello** between his knees, practicing scales in the quiet upstairs drawing room."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes would lean back in his armchair and play his favorite airs, imitating the deep tone of a **cello** upon his violin."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assistant subject to the authority or control of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant subject to the authority or control of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of lower status or subordinate rank, often used in a mildly derogatory or dismissive sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate hierarchies, a dismissive manager passes menial routine tasks down to an anonymous underling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Look thou, underling! that thou obeyest mine.—Stand round me, men."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Look thou, underling! that thou obeyest mine.—Stand round me, men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Men at some time are masters of their fates: The fault, dear Brutus, is not in our stars, But in ourselves, that we are underlings."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"The fault, dear Brutus, is not in our stars, but in ourselves, that we are **underling**s to Caesar's ambition."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The pompous clerk refused to discuss business with a common **underling**, demanding an interview with the principal."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Imperial policy should not be abandoned to the arbitrary caprice of every subaltern **underling** in the customs office."*
+

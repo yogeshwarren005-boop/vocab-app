@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lend moral support to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make secure underneath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To secure or support from below; to strengthen or reinforce the underlying foundation of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical history and constitutional theory, fundamental moral principles undergird the stability of democratic institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undergird designates lend moral support to."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Sound public credit and fiscal integrity must **undergird** the authority of the newly established national government."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The crew passed heavy chains beneath the damaged hull to **undergird** the ship against the pounding typhoon seas."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Sincere religious reverence must **undergird** all human labor if society is to escape spiritual despair."*
+

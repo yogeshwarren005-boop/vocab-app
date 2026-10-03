@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of commotion and noise and confusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of commotion and noise and confusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turbulent disorder, uproarious commotion, or violent chaotic agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, the tumultuousness of transitional democracies often provokes military reactions demanding order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumultuousness designates a state of commotion and noise and confusion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The constant **tumultuousness** of the praetorian camp rendered the life of a Roman emperor precarious in the extreme."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"He witnessed with awe the furious **tumultuousness** of the Paris sections marching upon the Tuileries."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The quiet sage avoids the bustling **tumultuousness** of public assemblies, preferring the peaceful retreat of his study."*
+

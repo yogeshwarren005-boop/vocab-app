@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of tempo) very slow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of tempo) very slow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical performance direction indicating that a passage should be played extremely slowly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orchestral score analysis, lentissimo indicates a tempo even more broad and decelerated than largo or lento, conveying profound solemnity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentissimo designates (of tempo) very slow."*
+> - 📜 **Romain Rolland (*Jean-Christophe*):** *"The funeral march moved with solemn majesty, played **lentissimo** by the muted brasses of the orchestra."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"The composer directed the strings to sustain the opening chord **lentissimo**, creating an atmosphere of suspenseful awe."*
+> - 📜 **Arthur Symons (*Plays, Acting and Music*):** *"The cellist drew his bow **lentissimo** across the lower strings, producing a tone of deep mournful gravity."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or producing illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or producing illusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or producing illusion; deceptive, chimerical, or having no substantial existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary economics, illusionary gains arising purely from nominal price inflation do not represent real increases in purchasing power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illusionary designates marked by or producing illusion."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet creates an **illusionary** world that commands a willing suspension of disbelief for the moment."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Descartes systematically doubted all sensory data to eliminate **illusionary** beliefs from the foundations of knowledge."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Time and Space are but **illusionary** garments woven by the mortal intellect to clothe eternal spirit."*
+

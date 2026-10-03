@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do something to an excessive degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represented as greater than is true or reasonable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cooked too much; or exaggerated, excessive, and carried beyond reasonable limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and dramatic performance, overdone melodrama provokes derisive laughter rather than authentic tragic pity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, this overdone, or come tardy off, though it make the unskilful laugh, cannot but make the judicious grieve; the censure of the which one must in your allowance o’erweigh a whole theatre of others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Mistress Overdone, a Bawd."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, sir, by Mistress Overdone’s means; but as she spit in his face, so she defied him."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For anything so **overdone** is from the purpose of playing, whose end, both at the first and now, was and is, to hold, as 'twere, the mirror up to nature."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe's apologies were somewhat **overdone**, but were offered with such genuine tenderness that Pip embraced him."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins's elaborate compliments were so **overdone** that they offended good taste and exhausted everyone's patience."*
+

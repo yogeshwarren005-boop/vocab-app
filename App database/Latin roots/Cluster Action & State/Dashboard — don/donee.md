@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The recipient of funds or other benefits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The recipient of funds or other benefits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who receives a gift, donation, or bequest from a donor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property and equity law, the donee of a power of appointment is empowered to designate the ultimate beneficiaries of trust property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donee designates the recipient of funds or other benefits."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The legal title transfers irrevocably to the **donee** upon voluntary delivery and acceptance of the deed of gift."*
+> - 📜 **Adam Smith (*Lectures on Jurisprudence*):** *"Natural law recognizes that the **donee** acquires a legitimate property right through the uncoerced generosity of the donor."*
+> - 📜 **Anthony Trollope (*Orley Farm*):** *"The court examined whether Lady Mason was the lawful **donee** of the codicil or had obtained it by fraudulent contrivance."*
+

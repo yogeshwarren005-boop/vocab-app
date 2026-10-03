@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Present in great quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present in great quantity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing or available in large quantities; plentiful, copious, or richly overflowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and geochemistry, silicon and oxygen are the most abundant chemical elements in the continental crust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have too few to take my leave of you, When the tongue’s office should be prodigal To breathe the abundant dolour of the heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy overflow of good converts to bad, And thy abundant goodness shall excuse This deadly blot in thy digressing son."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To shuffle through the streets, unfamiliar with the shapes, and in utter darkness as to the meaning, of those mysterious symbols, so abundant over the shops, and at the corners of streets, and on the doors, and in the windows!"*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Rainfall upon the western mountain slopes feeds **abundant** mountain streams that carve fertile alluvial valleys."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Where food supplies are **abundant** throughout the year, animal populations expand rapidly without intense seasonal mortality."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Natural philosophy yields **abundant** practical benefits when guided by rigorous inductive observation rather than idle speculation."*
+

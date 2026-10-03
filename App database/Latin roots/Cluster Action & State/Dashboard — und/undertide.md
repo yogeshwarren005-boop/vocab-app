@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A current below the surface of a fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A current below the surface of a fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subterranean or underwater tidal flow; an undercurrent flowing in a direction contrary to surface currents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal hydrodynamics, a powerful undertide sweeps beneath breaking surf, scouring offshore trenches and challenging swimmers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undertide designates a current below the surface of a fluid."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The drifting whaleboat was caught by a swift, subterranean **undertide** that carried it miles toward the open Pacific."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The deep mill-weir concealed a treacherous **undertide** that swept drowning victims beneath the sunken sluice timbers."*
+> - 📜 **Walter Scott (*The Pirate*):** *"The Shetland boatmen feared the swirling **undertide** of the Sumburgh Roost, where contrary tidal currents clashed in fury."*
+

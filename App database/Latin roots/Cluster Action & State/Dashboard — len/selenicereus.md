@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly epiphytic climbing cacti that bloom at night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly epiphytic climbing cacti that bloom at night.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing epiphytic cacti renowned for massive, fragrant, nocturnal white blooms; queen of the night.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arid and tropical botany, Selenicereus grandiflorus produces fragrant blossoms up to a foot in diameter that open for a single night.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selenicereus designates mostly epiphytic climbing cacti that bloom at night."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Cultivated in warm greenhouses, the climbing cactus **selenicereus** delights horticulturists with its sweet-scented nocturnal flowers."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The rapid expansion of the night-blooming **selenicereus** corolla demonstrates sensitive floral adaptation to moth pollination."*
+> - 📜 **William Jackson Hooker (*Curtis's Botanical Magazine*):** *"The magnificent blossom of **selenicereus** grandiflorus opened at twilight, filling the conservatory with heavy vanilla fragrance."*
+

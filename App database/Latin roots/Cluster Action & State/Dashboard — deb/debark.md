@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go ashore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go ashore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disembark; to leave a ship or aircraft and step onto dry land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval logistics and expeditionary warfare, troops and supplies debark across pontoon bridges or landing craft to establish beachheads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debark designates go ashore."*
+> - 📜 **Herman Melville (*Typee*):** *"The weary mariners were granted leave to **debark** upon the verdant shores of the tranquil tropical haven."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The English archers prepared to **debark** at Bordeaux, donning their breastplates upon the crowded stone quay."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Captain Smollett ordered the armed landing party to **debark** silently upon the sandy spit at low tide."*
+

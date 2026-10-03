@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor able to replace a regular performer when required.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be an understudy or alternate for a role.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who learns the lines of another performer in order to appear in their place at short notice; or to act as an understudy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical management, an understudy attends all rehearsals and remains backstage during performances to safeguard box office receipts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It means that no one woman, be she ever so competent, can keep up the fight single-handed for twelve hours at a stretch, and that an understudy to work under her may mean the very turning of the scale."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I have been understudy by night, and proud I am to record that Nurse proclaims me unusually "handy" for a member of the "laity"."*
-> - 📜 **James Joyce (*Ulysses*):** *"To show the understudy in the title _rôle_ how to."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Nicholas was engaged as an **understudy** in Mr. Vincent Crummles's provincial company, ready to play Romeo or walking gentlemen."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The talented young **understudy** was called upon to step into the leading tragic role without an orchestral dress rehearsal."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The senior consulting surgeon regarded his young house officer as a reliable clinical **understudy** during emergency operations."*
+

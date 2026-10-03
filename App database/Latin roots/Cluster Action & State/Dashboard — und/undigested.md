@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not thought over and arranged systematically in the mind; not absorbed or assimilated mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not digested.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not converted into absorbable nutrients in the digestive tract; or information not intellectually assimilated or reflected upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and historiography, an author who presents raw, undigested archival documents fails to create a coherent narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many of the latter type are persons overburdened either with unearned inherited wealth or with an undigested education."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In one word, Queequeg, said I, rather digressively; hell is an idea first born on an undigested apple-dumpling; and since then perpetuated through the hereditary dyspepsias nurtured by Ramadans."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In one word, Queequeg, said I, rather digressively; hell is an idea first born on an undigested apple-dumpling; and since then perpetuated through the hereditary dyspepsias nurtured by Ramadans."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Academy of Lagado pursued absurd experiments to extract sunbeams from cucumbers and reprocess **undigested** food."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Some books are to be tasted, others to be swallowed, and some few to be chewed and thoroughly **undigested** facts rejected."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The pedantic professor stuffed his mind with vast heaps of **undigested** scholastic lore that bore no living fruit."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a permissively lenient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a permissively lenient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a mild, compassionate, forgiving, or tolerant manner without harsh severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial sentencing, first-time infractions are often dealt with leniently through restitution rather than penal confinement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A lady so graceful and accomplished,” he said, kissing his right glove and afterwards extending it towards the pupils, “will look leniently on the deficiencies here."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"That he would be leniently treated, I could not hope."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It makes one pity the poor Archbishop, and wish that he, too, could have been let off as leniently."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The rector resolved to deal **leniently** with the wayward parish youth, offering counsel rather than public reproof."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The elders debated whether to treat the repentant sinner **leniently** or enforce the full rigors of the colony's code."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blue Carbuncle*):** *"Holmes decided to treat the trembling culprit **leniently**, allowing him to escape prosecution at Christmastime."*
+

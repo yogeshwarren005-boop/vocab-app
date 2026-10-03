@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adulterer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adulterer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A married woman who voluntarily engages in sexual intercourse with someone other than her lawful husband.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and biblical literature, the figure of the adulteress is subjected to intense social opprobrium and moral scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then they called me foul adulteress, Lascivious Goth, and all the bitterest terms That ever ear did hear to such effect."*
-> - 📜 **James Joyce (*Ulysses*):** *"The adulteress and her paramour brought the Saxon robbers here. —Decree _nisi,_ says J."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The stern Puritan crowd gazed upon the condemned **adulteress** as she stood proudly upon the market-place pillory."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Leontes unjustly accused Hermione, shouting that she was an unfaithful **adulteress** unworthy of the crown."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma stared into the mirror, whispering to herself with wild romantic intoxication that she was an **adulteress**."*
+

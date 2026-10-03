@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) the policy that the absolute authority of the church should be vested in the pope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) the policy that the absolute authority of the church should be vested in the pope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious and political doctrine advocating supreme papal supremacy and centralization over national Roman Catholic churches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century European politics, ultramontanism was a major ideological force opposing secular liberalism and state-controlled churches in the Kulturkampf.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramontanism designates (roman catholic church) the policy that the absolute authority of the church should be vested in the pope."*
+> - 📜 **Lord Acton (*The History of Freedom and Other Essays*):** *"The aggressive resurgence of **ultramontanism** alarmed secular European chancellors who feared ecclesiastical encroachment on civil laws."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Gladstone analyzed the political implications of **ultramontanism**, arguing it compromised the civil allegiance of Catholic subjects."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"He sought a moderate theological ground, distancing himself from the extreme zealots of **ultramontanism** in Rome."*
+

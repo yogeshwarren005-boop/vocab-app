@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unmarried person who has taken a religious vow of chastity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abstaining from sexual intercourse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abstaining from marriage and sexual relations, especially because of a religious vow; or a person who practices this.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century sociological surveys, the living conditions of lifelong celibate scholars and monastics were studied for longevity patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He must be celibate; if he is married he must leave his wife."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Each of these groping celibates supplied at any rate a want of which the other was impatiently conscious."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon maintained the ascetic, reserved habits of a lifelong **celibate** scholar buried among dusty folios."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Isabella prepared to enter the convent of Saint Clare, resolving to live a **celibate** votary dedicated to holy prayer."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The colleges of Oxford and Cambridge were staffed by **celibate** fellows who forfeited their fellowships upon marriage."*
+

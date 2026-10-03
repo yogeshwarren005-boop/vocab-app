@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Currently in progress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Currently in progress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having started and currently making progress; in motion or in operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation regulations, a vessel is underway when it is neither at anchor, made fast to the shore, nor aground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underway designates currently in progress."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The anchor was weighed, the topsails sheeted home, and the Pequod was fairly **underway** upon her long, fateful voyage."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Colossal preparations were already **underway** in every shipyard to construct hundreds of anti-submarine patrol vessels."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The police launch was swiftly **underway**, slicing through the dark waters of the Thames in pursuit of the fugitive steam launch."*
+

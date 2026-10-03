@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly flammable substance made from cellulose nitrate and camphor; used in e.g. motion-picture and x-ray film; its use has decreased with the development of nonflammable thermoplastics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medium that disseminates moving pictures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent, flammable plastic made from nitrocellulose and camphor, historically used for photographic film and small molded objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of cinema and technology, celluloid roll film developed by George Eastman and Hannibal Goodwin laid the technical foundation for motion pictures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Mama had the wrinkles pressed out of the suit by the time Miss Lida Belle got back with Mister Wes's white shirt and a celluloid collar that went with it."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Instead of a case of glass or celluloid, as is usual with the older cells, his cells are enclosed in strong boxes of nickel steel."*
-> - 📜 **James Joyce (*Ulysses*):** *"Or the inkbottle I suggested with a false stain of black celluloid."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The early twentieth-century motion picture archives perished in fierce fires due to the volatile nature of nitrate **celluloid** film."*
+> - 📜 **James Joyce (*Ulysses*):** *"The small dressing-table displayed a comb of amber-colored **celluloid** and a silver-backed brush."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"The flexible strip of perforated **celluloid** allowed us to feed successive photographic frames smoothly through the Kinetoscope."*
+

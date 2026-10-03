@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rowing by a single oarsman in a racing shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Propel with sculls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of propelling a boat with sculls or a stern oar; or competing in a sculling race.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinesiology and aquatic exercise, sculling describes figure-eight hand sweep motions generating continuous propulsive lift in synchronized swimming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculling designates rowing by a single oarsman in a racing shell."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"We kept up our steady **sculling** past the black hulls of colliers moored four deep in the Pool of London."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"He maintained his athletic vigor through morning **sculling** on the upper reaches of the Cam."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"I observed Ben Gunn **sculling** his crude coracle across the white surf toward the sheltered cove."*
+

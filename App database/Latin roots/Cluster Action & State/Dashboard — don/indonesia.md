@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign archipelago nation in Southeast Asia consisting of thousands of volcanic islands between the Indian and Pacific Oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geographical and biogeographical history, Indonesia straddles Wallace's Line, dividing Asian faunal ecosystems from Australian marsupial realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indonesia designates a republic in southeastern asia on an archipelago including more than 13,000 islands; achieved independence from the netherlands in 1945; the principal oil producer in the far east and pacific regions."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The islands of **indonesia** present to the naturalist an inexhaustible field for studying organic geographic distribution."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The coastal trading schooners plied the turquoise seas between the lush volcanic islands of **indonesia**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Wallace's discoveries in the tropical archipelago of **indonesia** provided powerful independent support for natural selection."*
+

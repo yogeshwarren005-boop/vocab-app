@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not differentiated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not differentiated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking distinct characteristics, specialized parts, or individual differences; uniform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and histology, an undifferentiated neoplasm consists of anaplastic cells that have lost recognizable tissue architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undifferentiated designates not differentiated."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution progresses from an indefinite, **undifferentiated** homogeneity to a definite, coherent heterogeneity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Infant sensory consciousness begins as a blooming, buzzing, **undifferentiated** mass of visceral sensations."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Primitive colonial organisms display **undifferentiated** structures where every cell performs all essential life functions."*
+

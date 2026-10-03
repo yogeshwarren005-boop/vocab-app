@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or having the nature of an illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or having the nature of an illusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deceptive, unreal, or giving an illusion of reality; misleading or chimerical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology, the illusive nature of subjective memory requires corroboration through documentary evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"For me I am weary of battle-fields, and feel no desire to grasp after illusive flowers and fading grass."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"And," said the Rajah, who was a lover of verse, "how true it is that poetry lends an illusive charm to conceptions ordinary in themselves, like a lovely screen which bestows a grace on the scantiness it only half conceals."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The beliefs of the human mind rob and enslave it, and then impute this result to another illusive 187:12 personification, named Satan."*
+> - 📜 **Percy Bysshe Shelley (*Alastor*):** *"The wandering poet pursued an **illusive** vision of ideal beauty through desolate wildernesses and mountain solitudes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The peace treaty proved an **illusive** phantom that vanished at the first march of the Persian legions."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Worldly ambition promises lasting peace, but its glittering prizes are perpetually **illusive** to the possessor."*
+

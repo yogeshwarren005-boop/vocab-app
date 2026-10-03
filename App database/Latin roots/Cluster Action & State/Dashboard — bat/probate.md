@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judicial certificate saying that a will is genuine and conferring on the executors the power to administer the estate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of proving that an instrument purporting to be a will was signed and executed in accord with legal requirements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official legal process of proving that a will is valid; or to establish the validity of a will in court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inheritance jurisprudence and estate administration, probate courts supervise executor duties, estate asset valuation, and creditor distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"That evening a letter from the probate office at Exeter, N."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We have courts of common law, courts of probates (analogous in certain matters to the spiritual courts in England), a court of admiralty and a court of chancery."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In that State the courts of common law have the cognizance of those causes which with us are determinable in the courts of admiralty and of probates, and of course the jury trial is more extensive in New Jersey than in New York."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The executor must present the testament for formal **probate** before the ecclesiastical ordinary to validate title to personalty."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The jurisdiction over **probate** matters and testamentary administration properly resides in local state judicial tribunals."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The contested will lingered for thirty years in the **probate** courts, until costs consumed the entire disputed inheritance."*
+

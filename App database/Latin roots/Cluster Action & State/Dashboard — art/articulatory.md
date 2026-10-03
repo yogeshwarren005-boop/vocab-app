@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to articulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to articulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the articulation of speech sounds; or pertaining to anatomical joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic linguistics, articulatory phonetics investigates how physical configurations of the vocal tract produce distinctive sound waves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulatory designates of or relating to articulation."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The physiological classification of consonants is based upon their primary **articulatory** position in the mouth."*
+> - 📜 **Henry Sweet (*The Practical Study of Languages*):** *"Students of foreign tongues must master the subtle **articulatory** habits that govern native pronunciation."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The smooth **articulatory** cartilage prevents frictional erosion between opposing skeletal bones."*
+

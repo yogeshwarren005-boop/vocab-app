@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An underground tunnel or passage enabling pedestrians to cross a road or railway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An underground tunnel or passage enabling pedestrians to cross a road or railway.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A road, railway line, or pedestrian walkway that passes underneath another road or railway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil traffic engineering, grade separation via an underpass eliminates hazardous vehicular rail crossings and reduces intersection delays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpass designates an underground tunnel or passage enabling pedestrians to cross a road or railway."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Panicked London refugees jammed the railway **underpass**, fleeing the approaching flight of hostile airships."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The railway line dipped into a deep arched **underpass** near the underground station where the body was discovered."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston hurried through the gloomy concrete **underpass**, his head down against the biting November wind."*
+

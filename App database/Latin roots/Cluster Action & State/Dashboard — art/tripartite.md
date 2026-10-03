@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving three parties or elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving three parties or elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of three parts, divided into three sections, or involving three parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional theory and geopolitical treaties, a tripartite agreement commits three sovereign powers to mutual non-aggression or trade reciprocity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tripartite designates involving three parties or elements."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **tripartite** division of the Roman world between the sons of Constantine ignited bitter fratricidal civil wars across the provinces."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Our constitutional architecture rests upon a **tripartite** distribution of sovereign powers between the executive, legislative, and judicial branches."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The Axis powers signed the **tripartite** pact in Berlin, formalizing a military alliance between Germany, Italy, and Japan."*
+

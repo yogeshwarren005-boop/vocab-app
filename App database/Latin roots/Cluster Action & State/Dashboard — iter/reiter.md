@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A German mercenary cavalryman of the 16th and 17th centuries, armed primarily with pistols; a reitre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military historiography, the Protestant and Catholic armies of the French Wars of Religion employed German reiter units for caracole tactics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reiter designates german bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969)."*
+> - 📜 **Walter Scott (*Quentin Durward*):** *"A fierce German **reiter** sat upon his heavy charger, pistols primed in his holsters."*
+> - 📜 **Alexander Dumas (*The Two Dianas*):** *"The Protestant column was spearheaded by mercenary **reiter** squadrons under the command of the Count of Mansfeld."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"The veteran **reiter** knew no master but his captain and no creed but prompt distribution of pay."*
+

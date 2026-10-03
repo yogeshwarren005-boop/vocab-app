@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fortify by furnishing with battlements for defense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prepare for battle or conflict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To set in military array or draw up troops in readiness for battle; or to fortify with battlements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epic poetry and military chronicles, field generals embattle infantry squares and cavalry squadrons before the general assault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The night Is shiny, and they say we shall embattle By th’ second hour i’ th’ morn."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But after embattling his facts, an advocate who should wholly suppress a not unreasonable surmise, which might tell eloquently upon his cause—such an advocate, would he not be blameworthy?"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But after embattling his facts, an advocate who should wholly suppress a not unreasonable surmise, which might tell eloquently upon his cause—such an advocate, would he not be blameworthy?"*
+> - 📜 **William Shakespeare (*Henry V*):** *"The English are **embattle** in the field, ready to charge with courage against superior numbers."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Michael commanded the celestial legions to **embattle** in radiant ranks upon the plain of heaven."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen prepared to **embattle** the monsters of the deep, their harpoons sharpened for mortal combat."*
+

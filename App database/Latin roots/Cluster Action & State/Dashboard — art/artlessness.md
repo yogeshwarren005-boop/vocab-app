@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of innocent naivete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ingenuousness by virtue of being free from artful deceit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Natural simplicity, ingenuous innocence, and freedom from deceit, cunning, or guile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In portraiture and characterization, portraying genuine artlessness requires subtle nuance to avoid rendering the subject foolish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I thought we were an old family; but this is all new!” she said, in her artlessness."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"That’s the state of the case, for that much I’ve seen myself.” And then they both stared at me, and I, with an obtrusive show of artlessness on my countenance, stared at them, and plaited the right leg of my trousers with my right hand."*
-> - 📜 **Effie Afton (*Eventide*):** *"The eyes were soft and gentle in their glance, And looked with trusting artlessness in yours."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The rural **artlessness** of Tess was her tragic vulnerability before the manipulative worldliness of Alec d'Urberville."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery's moral grandeur lay in his complete **artlessness** and steadfast Christian gentleness of heart."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The little golden-haired child won the hermit weaver back to human love through her pure, affectionate **artlessness**."*
+

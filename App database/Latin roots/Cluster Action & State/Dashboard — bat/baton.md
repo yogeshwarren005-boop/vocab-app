@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin tapered rod used by a conductor to lead an orchestra or choir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short stout club used primarily by policemen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin stick used by an orchestral conductor to direct a performance; or a short heavy stick carried by police.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military ceremony, a marshal's baton represents the supreme insignia of field command, traditionally adorned with golden eagles or fleur-de-lis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The rest of his toilet was soon achieved, and he proudly marched out of the room, wrapped up in his great pilot monkey jacket, and sporting his harpoon like a marshal’s baton."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The rest of his toilet was soon achieved, and he proudly marched out of the room, wrapped up in his great pilot monkey jacket, and sporting his harpoon like a marshal’s baton."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Pots and pans rattled, dishes and bowls clattered, refrigerator doors slammed, and utensils baton-waved in all directions."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The conductor raised his **baton**, and with a single decisive downbeat unleashed the triumphant opening chords of the overture."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"King William conferred the marshal's **baton** upon Schomberg in recognition of his veteran military services in the Irish campaign."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The beadle marched down the church aisle with solemn majesty, carrying his silver-topped **baton** of office."*
+

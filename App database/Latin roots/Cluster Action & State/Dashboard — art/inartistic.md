@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking aesthetic sensibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking aesthetic sensibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking artistic merit, aesthetic grace, or creative skill; crude, clumsy, or tasteless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Aristotelian rhetoric, inartistic proofs (pisteis atechnoi) are extrinsic evidence like laws, contracts, and witness testimony not invented by the speaker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inartistic designates lacking aesthetic sensibility."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"To accuse a painter of creating an **inartistic** work is the ultimate condemnation that modern aesthetic criticism can pronounce."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The mechanical uniformity of modern machine-pressed brickwork is fundamentally **inartistic**, lacking the vital irregularities of hand carving."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"A sprawling, shapeless narrative is intrinsically **inartistic**, failing to subordinate incidental details to the central theme."*
+

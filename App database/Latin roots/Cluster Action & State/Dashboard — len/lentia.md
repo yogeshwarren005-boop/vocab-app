@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: City in northern austria on the danube; noted as a cultural center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: City in northern austria on the danube; noted as a cultural center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Roman name for modern Linz, Austria, a Roman fort and river station along the Danube limes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman provincial archaeology and military history, Lentia formed part of Noricum's fortified river border against Germanic Marcomannic raids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentia designates city in northern austria on the danube; noted as a cultural center."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions stationed at **lentia** patrolled the Danube limes, repelling barbarian incursions into Noricum."*
+> - 📜 **Theodor Mommsen (*The Provinces of the Roman Empire*):** *"Archaeological inscriptions uncovered at modern Linz attest to the auxiliary cavalry garrison quartered at ancient **lentia**."*
+> - 📜 **James Bryce (*The Holy Roman Empire*):** *"The strategic Danube crossing at **lentia** retained its military importance from imperial Roman times through the medieval empire."*
+

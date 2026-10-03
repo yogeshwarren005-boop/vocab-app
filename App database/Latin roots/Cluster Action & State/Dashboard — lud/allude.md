@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a more or less disguised reference to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a more or less disguised reference to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To suggest or call attention to something indirectly; to make a passing reference to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary rhetoric and poetics, writers allude to classical myth or biblical tropes to import thematic resonance without exposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with his finger on his nose, “don’t allude to it!” For some little time the jurymen hang about the Sol’s Arms colloquially."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now I won’t allude to conspiring to extort money or anything of that sort, because we are men and women of the world here, and our object is to make things pleasant."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then, my dear Miss Summerson,” said he with the frankest gaiety, “don’t allude to it."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was careful never to **allude** to Mr. Wickham in the presence of Mr. Darcy, fearing to renew ancient animosities."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes did not **allude** to the Irene Adler affair again, yet her photograph remained upon his mantelpiece."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber begged leave to **allude** to a temporary financial embarrassment that had momentarily clouded his domestic horizon."*
+

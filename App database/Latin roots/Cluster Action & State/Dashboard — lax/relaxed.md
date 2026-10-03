@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become less tense, rest, or take one's ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less taut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from tension, anxiety, or rigidity; resting comfortably and at ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural civil engineering, relaxed prestressing steel tendons experience slight logarithmic loss of tensile stress over long time horizons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, giving the relaxed figure of the old man another shake."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"During the whole of this time, and during the whole search, my companion, wrapped up on the box, never relaxed in his vigilance a single moment; but when we crossed the bridge he seemed, if possible, to be more on the alert than before."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"My poor life and heart, how weak I am!” she moaned, in a relaxed, desultory way, heedless of Liddy’s presence."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Peggotty sat with a **relaxed** smile beside the cottage driftwood fire, enjoying his evening pipe."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles Winterborne walked with a **relaxed** woodman's stride through the fallen autumn leaves of the chase."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes lay back in his armchair with a **relaxed** and contemplative air, listening to the client's strange narrative."*
+

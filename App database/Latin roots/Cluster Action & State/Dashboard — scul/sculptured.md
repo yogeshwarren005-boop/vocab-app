@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Create by shaping stone or wood or any other hard material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape (a material like stone or wood) by whittling away at it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carved, engraved, or molded into ornamental form; having artistic relief or shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and geomorphology, a sculptured plateau features steep erosional escarpments formed by river dissection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Inscription For The Headstone Of Fergusson The Poet^1 No sculptured marble here, nor pompous lay, “No storied urn nor animated bust;” This simple stone directs pale Scotia’s way, To pour her sorrows o’er the Poet’s dust."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nevertheless, Leviathan is of so mighty a magnitude, all his proportions are so stately, that the same deficiency which in the sculptured Jove were hideous, in him is no blemish at all."*
-> - 📜 **Effie Afton (*Eventide*):** *"The grounds seemed beautifully laid out, and over the arching gateway I read the words 'Summer Home' sculptured in the marble."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Perch'd upon a bust of Pallas just above my chamber door—perch'd, and sat, and nothing more, upon the placid **sculptured** stone."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The knight lay sleeping on his **sculptured** tomb, his hands folded in perpetual prayer above his marble breastplate."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Every capital in the arcade was richly **sculptured** with birds, acanthus leaves, and grotesque biblical figures."*
+

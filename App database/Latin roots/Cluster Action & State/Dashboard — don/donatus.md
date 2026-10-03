@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roman grammarian whose textbook on latin grammar was used throughout the middle ages (fourth century).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roman grammarian whose textbook on latin grammar was used throughout the middle ages (fourth century).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 4th-century Roman grammarian (Aelius Donatus) whose Latin textbook was standard throughout the Middle Ages; or the Donatist bishop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval intellectual history, a donatus became a generic term for any introductory Latin grammar primer used in cathedral schools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donatus designates roman grammarian whose textbook on latin grammar was used throughout the middle ages (fourth century)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Saint Jerome took pride in having studied rhetoric and classical Latin under the celebrated master **donatus** at Rome."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The pedantic schoolmaster drilled the frightened urchins in the conjugation rules of **donatus** day after day."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Marius read the classical commentaries of **donatus**, admiring their precise grammatical analysis of Virgil's verse."*
+

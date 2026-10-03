@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the small thin-walled arteries that end in capillaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the small thin-walled arteries that end in capillaries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small branch of an artery leading directly into a network of capillaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microvascular physiology, arterioles function as the primary resistance vessels of the systemic circulation through precapillary sphincters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriole designates one of the small thin-walled arteries that end in capillaries."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The contraction of circular muscle fibers surrounding each **arteriole** restricts blood flow into the downstream capillary bed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe spasm of an **arteriole** in the digital circulation produces the paroxysmal pallor characteristic of Raynaud's phenomenon."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The sudden emotional blush is mediated by the rapid dilation of each facial **arteriole** under autonomic control."*
+

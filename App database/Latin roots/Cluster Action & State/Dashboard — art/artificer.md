@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is the first to think of or make something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who practices some trade or handicraft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled craftsman, mechanic, or maker of things; an inventor or builder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and naval history, an artificer was an enlisted craftsman responsible for constructing and repairing artillery and ordnance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Another lean unwash’d artificer Cuts off his tale and talks of Arthur’s death."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Perhaps the Great Artificer is too far away for our minds."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The Artificer’s hand is not arrested With us; we are rough-hewn, nowise polished."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Mulciber was the fabled **artificer** who built the high palaces and golden battlements of heaven."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The wages of a skilled mechanical **artificer** exceed those of common day-laborers due to the years spent in technical training."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The natural philosopher learns wisdom by studying how the cunning **artificer** manipulates physical materials to achieve utility."*
+

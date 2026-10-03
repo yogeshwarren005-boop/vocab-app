@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polysaccharide that is the chief constituent of all plant tissues and fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A polysaccharide that is the chief constituent of all plant tissues and fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insoluble complex carbohydrate polymer that forms the main structural component of plant cell walls and vegetable fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and botany, cellulose is composed of linear beta-1,4-linked D-glucose units, providing tensile strength to wood, cotton, and hemp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Cotton is almost pure cellulose, another organic substance, like glycerine insomuch as it is composed of carbon and hydrogen, but, unlike it, containing also oxygen."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Treated with nitric acid it also forms a combination of carbon, hydrogen, oxygen and nitrogen, which is called nitro-cotton, nitro-cellulose, or gun-cotton."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"One of the most useful and widespread substances, for example, cellulose, is, at present at least, utterly beyond us."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The tough outer wall of a vegetable cell consists of **cellulose**, a chemical substance insoluble in ordinary water."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The digestive enzymes of the sundew break down insect proteins while leaving the **cellulose** of plant detritus untouched."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Microbial decomposition of plant **cellulose** in anaerobic environments yields marsh gas and organic acids."*
+

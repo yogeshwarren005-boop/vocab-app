@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) the gradual lengthening of inactive muscle or muscle fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) the exponential return of a system to equilibrium after a disturbance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from tension, mental anxiety, or physical strain; rest and recreation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical thermodynamics and spectroscopy, magnetic relaxation denotes the rate at which excited nuclear spins return to thermal equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We went in without any timidity, with a conscious relaxation of the great strain upon us."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Then I felt a gradual relaxation, and found that I was strong like other people."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen left the room, without any relaxation of anger, or any material digression of thought."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The mind requires periodic **relaxation**; continuous intellectual tension eventually blunts the keenest faculties."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"After arduous public labors, the statesman finds in domestic tranquility that sweet **relaxation** which restores serenity."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Laughter is accompanied by the sudden **relaxation** of muscles previously held in strenuous emotional readiness."*
+

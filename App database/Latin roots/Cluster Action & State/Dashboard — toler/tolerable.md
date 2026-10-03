@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne or endured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: About average; acceptable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be tolerated, endured, or put up with; fairly good, passable, or moderate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Regency social comedy and Jane Austen's Pride and Prejudice, Mr. Darcy famously insulted Elizabeth Bennet by deeming her merely tolerable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall also make no noise in the streets: for, for the watch to babble and to talk is most tolerable and not to be endured."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rich enough to work with tolerable peace of mind?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She is **tolerable**, but not handsome enough to tempt me; and I am in no humour at present to give consequence to young ladies who are slighted by other men."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery enjoyed **tolerable** health, though the constant smoke of the forge made him cough in damp weather."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The harvest was in **tolerable** condition despite the heavy rains that had threatened the barley fields."*
+

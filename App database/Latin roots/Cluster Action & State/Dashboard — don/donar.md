@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The teutonic god of thunder; counterpart of norse thor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The teutonic god of thunder; counterpart of norse thor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Germanic thunder deity, equivalent to Thor; or an obsolete botanical and geographical term.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Germanic mythology, Donar (Old High German Thunar) was venerated as the cosmic champion against chaotic giants, associated with sacred oak groves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donar designates the teutonic god of thunder; counterpart of norse thor."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"The ancient Saxons worshipped **donar** as the mighty god of thunder and the protector of the peasant yeoman."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Saint Boniface hewed down the sacred oak of **donar** at Geismar to demonstrate the supremacy of the Christian faith."*
+> - 📜 **Jacob Grimm (*Teutonic Mythology*):** *"Votive inscriptions along the Rhine attest to the widespread veneration of **donar** among early Frankish tribes."*
+

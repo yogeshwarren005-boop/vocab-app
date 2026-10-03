@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender salamanders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender salamanders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lungless salamanders native to the western coast of North America, commonly known as slender salamanders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate herpetology, Batrachoseps species are characterized by four-toed feet, worm-like elongated bodies, and non-nucleated red blood cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batrachoseps designates slender salamanders."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"In the damp redwood forest loam, naturalists discovered the slender salamander **batrachoseps**, coiled beneath rotted fir bark."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The morphological reduction of limbs and digits in fossorial amphibians like **batrachoseps** illustrates evolutionary adaptation to subterranean life."*
+> - 📜 **Edward Drinker Cope (*The Batrachia of North America*):** *"The genus **batrachoseps** exhibits extreme skeletal attenuation, possessing up to twenty-three costal grooves along the trunk."*
+

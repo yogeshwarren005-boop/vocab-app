@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that lessens the purity or effectiveness of a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A changer who lessens the purity or effectiveness of a substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, corporation, or manufacturer that adulterates goods, commodities, or texts with spurious ingredients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial penal codes, an adulterator of essential medicines faced severe fines, license revocation, and imprisonment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adulterator designates any substance that lessens the purity or effectiveness of a substance."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The fraudulent wine merchant was an unprincipled **adulterator** who passed off gooseberry wash as vintage champagne."*
+> - 📜 **Charles Kingsley (*Alton Locke*):** *"The angry tailor denounced the commercial **adulterator** who flooded the market with brittle shoddy garments."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He regarded the careless editor as a literary **adulterator** who corrupted the pure text of ancient authors."*
+

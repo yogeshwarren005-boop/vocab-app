@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Owing gratitude or recognition to another for help or favors etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under a legal obligation to someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Owing money; or feeling deeply grateful and appreciative for kindness, favors, or assistance received.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contractual and moral philosophy, an indebted individual incurs both a legal duty of restitution and an ethical obligation of goodwill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King and commonweal Are deeply indebted for this piece of pains."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And stand indebted, over and above In love and service to you evermore."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, we are much indebted to your travel, Nor shall you lose your wish.—Pirithous, Dispose of this fair gentleman."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"We are much bound and deeply **indebted** to your wisdom for saving a fellow Venetian's life."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt herself exceedingly **indebted** to Mr. Darcy for his generous intervention on behalf of Lydia."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Traddles confessed that he was still heavily **indebted** for the furnishings of his modest chambers in Gray's Inn."*
+

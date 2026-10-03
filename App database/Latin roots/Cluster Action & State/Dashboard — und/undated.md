@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bearing a date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bearing a date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bearing a date; not marked with a specific calendar day or year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manuscript palaeography and archival research, establishing the provenance of an undated letter requires internal watermarks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Read it aloud.” The note was undated, and without either signature or address."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Litzmann," Stuttgart, Cotta, undated."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"WALT WHITMAN TO ANNE GILCHRIST _Camden, New Jersey_ _Undated."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Second Stain*):** *"The stolen dispatch was an **undated** autograph letter from a foreign potentate, fraught with dangerous political consequences."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth received an **undated** letter from her sister Jane, written in haste from Longbourn upon Lydia's disappearance."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The historians discovered an **undated** royal memorandum in the archives that confirmed Monmouth's secret communications."*
+

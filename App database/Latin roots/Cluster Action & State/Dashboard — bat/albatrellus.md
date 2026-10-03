@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family polyporaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family polyporaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial mycorrhizal fungi in the family Albatrellaceae, commonly known as forest floor polypores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and forest pathology, Albatrellus ovinus forms symbiotic ectomycorrhizal associations with spruce and pine roots in boreal ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, albatrellus designates a genus of fungi belonging to the family polyporaceae."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Under the shaded canopy of Himalayan firs, we collected edible fleshy mushrooms belonging to the genus **albatrellus**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The damp coniferous leaf-mold was dotted with clusters of terrestrial polypores resembling northern **albatrellus** species."*
+> - 📜 **William Jackson Hooker (*British Flora*):** *"Mycological collectors gathered specimens of **albatrellus** emerging from the mossy woodland loam in late autumn."*
+

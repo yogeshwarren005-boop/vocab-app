@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to artifacts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to artifacts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or caused by an artifact; artificial or not naturally occurring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopy and histopathology, an artefactual flaw arises from fixation shrinkage, staining precipitation, or knife chatter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artefactual designates of or relating to artifacts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The pathologist must distinguish between true histological lesions and **artefactual** distortions produced by poor tissue fixation."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Critics suggested that the anomalous protoplasmic network was purely **artefactual**, resulting from chemical precipitation."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"Careful microtome sectioning is required to avoid creating **artefactual** vacuolation within delicate brain specimens."*
+

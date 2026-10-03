@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of iran.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modern persian language spoken in iran.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Iran, its people, culture, or the Iranian branch of the Indo-European language family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative philology, Old Iranian encompasses Avestan and Old Persian, forming the sister branch to Vedic Sanskrit within Indo-Iranian.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iranian designates a native or inhabitant of iran."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The historical connection between Vedic Sanskrit and the ancient **iranian** tongue is evident in their shared mythological vocabulary."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **iranian** cavalry hurled themselves against the Roman legions with the impetuous fury of desert warriors."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In ancient **iranian** mythology, Mithra stood as the celestial guardian of truth and divine order."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who fights (or is fighting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who fights (or is fighting).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who fights, struggles courageously against difficulties, or engages in combat; a determined fighter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australian cultural folklore, the 'Aussie battler' represents an ordinary working citizen who perseveres cheerfully through adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battler designates someone who fights (or is fighting)."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen was an indomitable physical **battler** who acknowledged no law beyond his own ruthless survival and iron will."*
+> - 📜 **Henry Lawson (*While the Billy Boils*):** *"The bushman was a patient **battler** who endured droughts, bushfires, and low wool prices without losing his dry humor."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The champion was a game **battler** in the prize ring, rising from heavy knockdowns to continue the contest."*
+

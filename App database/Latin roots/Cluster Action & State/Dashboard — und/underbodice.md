@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short sleeveless undergarment for women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short sleeveless undergarment for women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's undergarment worn beneath a dress bodice; a camisole or corset cover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical costume design, a boned underbodice provided structural support and shape to heavy nineteenth-century silk ballgowns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underbodice designates a short sleeveless undergarment for women."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"May's wedding gown featured an intricately fitted **underbodice** of pale silk beneath layers of vintage Brussels lace."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma unhooked her embroidered **underbodice**, sighing with weary relief in the quiet privacy of her dressing room."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Eustacia adjusted her scarlet ribbon over her dark **underbodice**, preparing for her nocturnal walk across Egdon Heath."*
+

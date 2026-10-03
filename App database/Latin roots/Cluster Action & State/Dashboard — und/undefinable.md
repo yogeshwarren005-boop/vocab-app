@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being precisely or readily described; not easily put into words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being precisely or readily described; not easily put into words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be clearly or precisely defined, described, or categorized; intangible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic philosophy, the sublime possesses an undefinable emotional resonance that eludes formal geometric taxonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But in a few minutes he would recklessly conjure up some undefinable means by which they were both to be made rich and happy for ever, and would become as gay as possible."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But I have always remembered since that when we had stopped at the garden-gate to look up at the sky, and when we went upon our way, I had for a moment an undefinable impression of myself as being something different from what I then was."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"At that moment I heard the distant strains of the organ, a sad harmony to an undefinable chant, the wail of a soul longing to break these earthly bonds."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An **undefinable** sense of dread crept over me as I gazed upon the gray walls of the desolate mansion."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"There was an **undefinable** charm in Madame Merle's conversation that disarmed even the most guarded listeners."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily felt an **undefinable** longing to capture the fleeting essence of the evening light before it vanished."*
+

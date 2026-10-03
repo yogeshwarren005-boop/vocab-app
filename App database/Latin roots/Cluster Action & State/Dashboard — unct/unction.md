@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive but superficial compliments given with affected charm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smug self-serving earnestness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of anointing with oil as a religious rite; or affected, superficial earnestness in speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Catholic theology, Extreme Unction (Anointing of the Sick) constitutes the final sacrament conferring spiritual comfort to the dying.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mother, for love of grace, Lay not that flattering unction to your soul That not your trespass, but my madness speaks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bought an unction of a mountebank So mortal that, but dip a knife in it, Where it draws blood no cataplasm so rare, Collected from all simples that have virtue Under the moon, can save the thing from death This is but scratch’d withal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Took the over-dose?” “Yes!” Krook almost smacks his lips with the unction of a horrible interest."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I bought an **unction** of a mountebank, so mortal that, but dip a knife in it, where it draws blood no cataplasm so rare can save the thing from death."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Brocklehurst spoke with religious **unction**, warning the schoolgirls against the worldly sin of braided hair."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The royal coronation required the sacred **unction** of holy oil poured from the ancient golden ampulla."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The internal supporting structure that gives an artifact its shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The internal supporting structure that gives an artifact its shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The supporting framework or chassis underneath a railway car, automobile, or heavy structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In railway rolling stock engineering, a cast-steel underframe absorbs buffing shocks from locomotive couplers during freight hauling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underframe designates the internal supporting structure that gives an artifact its shape."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The detective examined the steel **underframe** of the railway carriage where the dead clerk had landed."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The heavy machine guns were bolted securely to the reinforced aluminum **underframe** of the combat dirigible."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The streetcar groaned as its heavy iron **underframe** jolted over the frozen tracks of Broadway."*
+

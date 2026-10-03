@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An italian woman of rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An italian woman of rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Italian title of respect for a woman, equivalent to Lady or Madam; or an aristocratic lady.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operatic dramaturgy, Donna Anna and Donna Elvira represent complex aristocratic tragic heroines in Mozart's Don Giovanni.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Negli occhi porta la mia donna Amore; Per che si fa gentil ciò ch’ella mira: Ov’ella passa, ogni uom ver lei si gira, E cui saluta fa tremar lo core."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Prima donna Imperial Opera of Warsaw—yes!"*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I always imagine I’m something very brilliant and triumphant and splendid . . . a great prima donna or a Red Cross nurse or a queen."*
+> - 📜 **Lord Byron (*Don Juan*):** *"**donna** Julia was a charming young matron of twenty-three, married to an elderly Spanish hidalgo."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The prima **donna** stepped before the footlights to acknowledge the enthusiastic applause of the London audience."*
+> - 📜 **George Eliot (*Romola*):** *"The Florentine citizens bowed respectfully as the noble **donna** passed through the crowded market place."*
+

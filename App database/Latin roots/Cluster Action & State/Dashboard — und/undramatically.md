@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an undramatic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an undramatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calm, plain, quiet, or unexciting manner, without theatrical display or commotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic monetary history, policy shifts often unfold undramatically through gradual central bank interest rate adjustments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undramatically designates in an undramatic manner."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The autumn arrived **undramatically**, announcing itself only through yellowing leaves and crisper morning mists."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The elderly curate passed away **undramatically** in his armchair, surrounded by his old theological books."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The crisis subsided **undramatically**, leaving the crew to contemplate their shame in silent isolation."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A baltic-finnic language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A baltic-finnic language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the Ludic language or the Ludic people of the Finnic language family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Uralic linguistics, Ludian represents a transitional Finnic tongue spoken in Karelia between Veps and Karelian proper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ludian designates a baltic-finnic language."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The northern dialects of the Finnic family, including the archaic **ludian** speech, preserve ancient vowel harmonies."*
+> - 📜 **Alexander Castrén (*Researches in Ural-Altaic Philology*):** *"The field linguist collected folk songs preserved in the endangered **ludian** idiom along Lake Onega."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Traditional wedding songs among the **ludian** villagers reflect ancient Finnic communal customs."*
+

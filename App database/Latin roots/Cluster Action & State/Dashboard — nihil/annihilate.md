@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kill in large numbers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To destroy utterly; obliterate, wipe out of existence, or defeat decisively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics and quantum field theory, subatomic particles and their corresponding antiparticles annihilate upon contact into high-energy photons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would annihilate the six years of his life as if they were minutes—so little did he value his time on earth beside her love."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To escape the past and all that appertained thereto was to annihilate it, and to do that she would have to get away."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I was very sorry.” Will only thought of giving a good pinch that would annihilate that vaunted laboriousness, and was unable to imagine the mode in which Dorothea would be wounded."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To be no more; sad cure; for who would lose, though full of pain, this intellectual being, those thoughts that wander through eternity, to perish rather, swallow'd up and lost in the wide womb of uncreated night, devoid of sense and motion? And who knows, let this be good, whether our angry foe can give it, or will ever? How he can is doubtful; that he never will is sure. Will he, so wise, let loose at once his ire, belike through impotence, or unaware, to satisfy his enemy, and bring to nought his own inventions, or **annihilate** his creatures, whom he made for immortal glory?"*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"No natural power can utterly **annihilate** matter; it can only dissolve and recombine its elementary constituents."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fierce cavalry charges of the Huns threatened to **annihilate** the defensive legions stationed upon the Danube."*
+

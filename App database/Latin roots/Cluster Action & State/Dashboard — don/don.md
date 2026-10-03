@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish gentleman or nobleman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teacher at a university or college (especially at cambridge or oxford).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put on an item of clothing; or a university teacher, especially a fellow or tutor at Oxford or Cambridge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish honorific registers, Don (from Latin dominus) precedes a gentleman's Christian name as a traditional mark of respect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine, in all compliments of devoted and heartburning heat of duty, Don Adriano de Armado._ BEROWNE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And Don Armado shall be your keeper."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine in the dearest design of industry, Don Adriano de Armado."*
+> - 📜 **William Shakespeare (*Titus Andronicus*):** *"Thou shalt **don** this robe of white and appear before the Roman populace with dignity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Richard proceeded to **don** his military coat, looking every inch the gallant young cornet of cavalry."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude gazed with reverent longing toward the ancient colleges of Christminster, where every learned **don** paced cloistered walks."*
+

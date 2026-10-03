@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being very thin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being very thin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weighing less than the normal, healthy, or standard amount for an individual's height or a commodity's required measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric clinical assessment, an infant diagnosed as underweight requires intensive nutritional monitoring to prevent developmental complications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underweight designates being very thin."*
+> - 📜 **H. G. Wells (*Kipps*):** *"The apprentice was visibly pale and **underweight**, having survived on cheap tea and dry bread in the draper's shop."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Medical officers reported that nearly a third of the coal miners' children were chronically **underweight**."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The sickly child appeared fragile and **underweight**, carrying a melancholy expression beyond his years."*
+

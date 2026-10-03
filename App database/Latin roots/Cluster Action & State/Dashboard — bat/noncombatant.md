@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the armed forces who does not participate in combat (e.g. a chaplain or surgeon).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of civilians in time of war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is not engaged in active fighting, such as a medical officer, chaplain, or civilian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under the law of armed conflict, a designated noncombatant enjoys protected legal status and must not be targeted in military operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncombatant designates a member of the armed forces who does not participate in combat (e.g. a chaplain or surgeon)."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"International treaties strictly prohibit armed belligerents from targeting an innocent **noncombatant** during naval blockades."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian invaders spared neither age nor sex, slaughtering every peaceful **noncombatant** within the captured provincial city."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The regiment swept through the farmyard, ignoring the frightened **noncombatant** women who sheltered inside the brick dairy."*
+

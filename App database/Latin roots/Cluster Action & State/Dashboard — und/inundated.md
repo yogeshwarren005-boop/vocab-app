@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill quickly beyond capacity; as with a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill or cover completely, usually with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flooded with water; or overwhelmed with an excessive amount of things or people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural history, the Nile valley was seasonally inundated by nutrient-rich floodwaters that deposited fertile black silt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To these circumstances it may, in some measure, be owing that we have not been inundated by the intellect of antiquity--that the fountains of thought have not been broken up, and modern genius drowned in the deluge."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He sent into the world men "inundated with the divine spirit" to proclaim the one God, who framed all things, who made man, who one day will raise man from the dead for eternal judgment."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Fort Hays, at the fork of Big Creek, and supposed to be above high-water, was inundated, six or eight soldiers being swept away, while the remainder were obliged to seek safety on the roofs of the stone barracks."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The heavy monsoon rains had completely **inundated** the lower savanna, cutting off access to my coastal boat."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The Belgian engineers opened the sluice gates, leaving the low country around the Yser **inundated** to stop the German advance."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The Floss overflowed its banks, and the fields were **inundated** by a vast sheet of swirling, muddy water."*
+

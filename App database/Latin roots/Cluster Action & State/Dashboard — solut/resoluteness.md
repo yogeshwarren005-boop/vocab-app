@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being resolute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being resolute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firm determination, unwavering purpose, and moral constancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology, resoluteness bridges cognitive conviction and physical execution, overcoming paralyzing doubt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, resoluteness designates the trait of being resolute."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A great man is characterized by that inner **resoluteness** which trusts its own spontaneous impression against the whole world."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Felix Holt possessed a quiet **resoluteness** of character that no threats of social ostracism could bend."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"The Puritan soldiers marched with an iron **resoluteness** born of absolute conviction in divine election."*
+

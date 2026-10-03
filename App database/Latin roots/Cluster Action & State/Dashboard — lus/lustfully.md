@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a lustful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a lustful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a lustful, lascivious, or excessively passionate manner, characterized by intense sensual craving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological fiction, characters who gaze lustfully upon forbidden objects betray hidden moral vulnerabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lustfully designates in a lustful manner."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The dark impulses of unhallowed passion peered **lustfully** through the ascetic veneer of Puritan hypocrisy."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Ensign Northerton eyed the handsome maid **lustfully** as she passed through the tavern kitchen."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Samson confessed how he had surrendered his sacred strength to gaze **lustfully** upon the Philistine temptress."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By ultrasonic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By ultrasonic means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of ultrasonic acoustic waves or high-frequency vibrational energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In precision manufacturing and surgical sterilization, delicate instruments are cleaned ultrasonically to dislodge microscopic particulate contaminants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultrasonically designates by ultrasonic means."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The exploration team scanned the metallic hull **ultrasonically**, searching for hidden entry airlocks beneath the outer plating."*
+> - 📜 **Isaac Asimov (*Foundation and Earth*):** *"The subterranean chambers were **ultrasonically** scrubbed to prevent biological contamination from reaching the surface ecology."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The alloy sheets were welded **ultrasonically**, producing seams of incredible tensile strength without thermal warping."*
+

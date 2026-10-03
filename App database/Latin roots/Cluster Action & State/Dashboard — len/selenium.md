@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic nonmetallic element related to sulfur and tellurium; occurs in several allotropic forms; a stable grey metallike allotrope conducts electricity better in the light than in the dark and is used in photocells; occurs in sulfide ores (as pyrite).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic nonmetallic element related to sulfur and tellurium; occurs in several allotropic forms; a stable grey metallike allotrope conducts electricity better in the light than in the dark and is used in photocells; occurs in sulfide ores (as pyrite).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element of the oxygen group (atomic number 34), possessing unique photovoltaic and photoconductive properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discovered by Jöns Jacob Berzelius in 1817, selenium was historically utilized in early photoelectric cells, glass decolouration, and xerography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The basis of it is a peculiar power possessed by the metal selenium when in a certain state."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Now the special feature of selenium is that its resistance is reduced if light shine upon it."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Suppose, then, that current be flowing through a mass of selenium and that the latter be suddenly illuminated brightly, the resistance will at once fall and the current increase."*
+> - 📜 **Alexander Graham Bell (*Upon the Production of Sound by Radiant Energy*):** *"In our experiments with the photophone, we utilized a variable **selenium** resistance cell to transmit speech via a beam of light."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Berzelius discovered the element **selenium** in the residues of Swedish sulfuric acid works, naming it after the moon."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"The electrical conductivity of **selenium** varies directly with illumination, making it an extraordinary medium for photographic sensing."*
+

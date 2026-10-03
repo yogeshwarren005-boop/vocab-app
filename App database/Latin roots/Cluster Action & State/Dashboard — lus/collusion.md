@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secret agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement on a secret plot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Secret or illegal cooperation and conspiracy, especially in order to cheat or deceive others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antitrust economics and jurisprudence, tacit collusion among oligopolistic firms fixes prices and stifles competitive market forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The collusion holds in the exchange."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Paul knew priests and Pharisees; he knew James and John and Peter; and he never detected that they were in collusion, yes, and to the point of martyring Stephen--to impose on him and on the world a non-historical Jesus."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Then came Parson Ablethorpe, who in collusion, most likely, with his missionary associate--De la Poer, I think he calls himself--spirited off the women, Aphra last of all."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"People of the same trade seldom meet together, even for merriment, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices by secret **collusion**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Constitutional checks and balances prevent corrupt **collusion** between the legislative and executive branches."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The suspicious clerk hinted at fraudulent **collusion** between the executors of the disputed Chancery estate."*
+

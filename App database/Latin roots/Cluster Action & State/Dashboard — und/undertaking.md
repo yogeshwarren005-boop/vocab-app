@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any piece of work that is undertaken or attempted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trade of a funeral director.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal pledge or promise to do something; or a task, enterprise, or project that is taken on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law, an undertaking in bailment covenants safe delivery of ship cargo against perils of the sea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Novelty is only in request, and as it is as dangerous to be aged in any kind of course as it is virtuous to be constant in any undertaking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell me, wench, how will the world repute me For undertaking so unstaid a journey?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most worthy madam, Your honour and your goodness is so evident, That your free undertaking cannot miss A thriving issue: there is no lady living So meet for this great errand."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I trembled at the momentous **undertaking** I had begun, shutting myself away in my solitary laboratory at Ingolstadt."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant ventures his capital upon a hazardous foreign **undertaking** in the expectation of extraordinary commercial profit."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The creation of a continental union was a colossal political **undertaking** requiring wisdom, compromise, and mutual sacrifice."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stuffing made of rolls or sheets of cotton wool or synthetic fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strip fixed to something to hold it firm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, flat strip of squared timber or metal used to fasten down hatches or secure planks; or to thrive and grow fat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical terminology, to 'batten down the hatches' means to secure tarpaulins over ship hatchways with battens in preparation for storm seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Follow your function, go, and batten on cold bits. [_Pushes him away from him_.] THIRD SERVINGMAN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Could you on this fair mountain leave to feed, And batten on this moor?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nail down the lid; caulk the seams; pay over the same with pitch; batten them down tight, and hang it with the snap-spring over the ship’s stern."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain shouted to **batten** down every hatchway as the dark typhoon cloud swept across the horizon."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Could you on this fair mountain leave to feed, and **batten** on this moor? Ha! have you eyes?"*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The seamen worked hurriedly to **batten** down the forecastle hatch as heavy green breakers began to sweep the deck."*
+

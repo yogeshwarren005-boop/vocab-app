@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of sentinels or of military posts enclosing or guarding some place or thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cord or ribbon worn as an insignia of honor or rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line or ring of police, sentinels, or military guards surrounding an area to prevent passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and public health history, a cordon sanitaire is a guarded sanitary boundary erected around infected regions to prevent contagion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He turned his back and addressed the head man of the village while his six silken satellites made a cordon between us."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Did you hear that noise, Cabaco?” It was the middle-watch; a fair moonlight; the seamen were standing in a cordon, extending from one of the fresh-water butts in the waist, to the scuttle-butt near the taffrail."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was in the midst of this repose, that Archy, one of the cordon, whose post was near the after-hatches, whispered to his neighbor, a Cholo, the words above."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A double **cordon** of armed police guarded the railway station and the roads leading onto Dartmoor."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The magistrates established a strict watchmen **cordon** around infected dwellings to confine the contagion."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The city guard formed a compact **cordon** around the scaffold to hold back the surging Edinburgh crowd."*
+

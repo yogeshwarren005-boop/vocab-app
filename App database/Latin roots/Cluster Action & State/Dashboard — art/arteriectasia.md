@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal distension of an artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal distension of an artery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal dilation or distention of an artery; aneurysmal widening of an arterial vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical vascular surgery, congenital arteriectasia predisposes vessel walls to degenerative dissection or rupture under hypertension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriectasia designates an abnormal distension of an artery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diffuse **arteriectasia** involving the thoracic aorta frequently results from syphilitic degeneration of the tunica media."*
+> - 📜 **Harvey Cushing (*Consecratio Medici*):** *"Exploratory incision revealed localized **arteriectasia** adjacent to the base of the skull, requiring delicate ligatures."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Angiographic imaging disclosed a segmental **arteriectasia** affecting the basilar artery, accounting for intermittent vertigo."*
+

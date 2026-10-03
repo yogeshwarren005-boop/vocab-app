@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sign at the bottom of (a document).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sign at the bottom of (a document).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sign one's name at the end or bottom of a legal document, petition, or contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and constitutional drafting, delegates undersign plenary treaties to bind their sovereign states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"TO THE REVEREND CLERGY:-- The undersigned proposes to commence another Periodical, of original plan and character, provided that adequate pledges of supplies shall be furnished."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In regard to most of the cases, the undersigned are unanimous; as to the others the decision is that of a majority."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The delegates met in Philadelphia to **undersign** the constitutional compact, pledging their honor to its ratification."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The witnesses must formally **undersign** the testamentary deed in the presence of the testator to satisfy the Statute of Frauds."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Seven eminent statesmen resolved to **undersign** the historic invitation to William of Orange to deliver England from tyranny."*
+

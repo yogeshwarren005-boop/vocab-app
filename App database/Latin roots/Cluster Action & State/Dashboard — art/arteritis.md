@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of an artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of an artery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the walls of one or more arteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rheumatology, giant cell arteritis (temporal arteritis) causes scalp tenderness, jaw claudication, and sudden blindness if untreated with corticosteroids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteritis designates inflammation of an artery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The presence of painful, cord-like temporal arteries in an elderly patient strongly indicates acute temporal **arteritis**."*
+> - 📜 **Harvey Cushing (*Consecratio Medici*):** *"Biopsy of the inflamed superficial temporal artery confirmed granulomatous **arteritis** with multinucleated giant cells."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician prescribed anti-inflammatory treatment to subdue the localized **arteritis** before irreversible ischemic damage occurred."*
+

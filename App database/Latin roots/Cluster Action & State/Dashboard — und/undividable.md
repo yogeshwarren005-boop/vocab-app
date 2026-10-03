@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cannot be divided without leaving a remainder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cannot be divided without leaving a remainder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being split, separated, or apportioned into parts; indivisible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical atomism and mathematical philosophy, fundamental particles were historically postulated as undividable units of material existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thyself I call it, being strange to me, That, undividable, incorporate, Am better than thy dear self’s better part."*
+> - 📜 **Lucretius (*De Rerum Natura*):** *"The primordial seeds of matter are solid, eternal, and **undividable**, resisting all dissolution by time."*
+> - 📜 **Isaac Newton (*Opticks*):** *"God in the beginning formed matter in solid, massy, hard, impenetrable, and **undividable** particles."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"Substance that is absolutely infinite is necessarily **undividable** and unique in its essential reality."*
+

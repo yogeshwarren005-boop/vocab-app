@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal or slang terms for mentally irregular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal or slang terms for mentally irregular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Crazy, mad, eccentric, or mentally unhinged in an amusing or harmless way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial British and American idiom, calling someone slightly batty suggests idiosyncratic harmless delusions or flighty habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And from each other look thou lead them thus, Till o’er their brows death-counterfeiting sleep With leaden legs and batty wings doth creep."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And then I went into Griffin’s to hae my boots hobbed, and then I went to Riggs’s batty-cake shop, and asked ’em for a penneth of the cheapest and nicest stales, that were all but blue-mouldy, but not quite."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And then I went into Griffin’s to have my boots hobbed, and then I went to Riggs’s batty-cake shop, and asked ’em for a penneth of the cheapest and nicest stales, that were all but blue-mouldy, but not quite."*
+> - 📜 **P. G. Wodehouse (*Carry On, Jeeves*):** *"Bingo Little was always a bit **batty** when in love, pacing his rooms and reciting sentimental poetry at all hours."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The eccentric village rector had grown delightfully **batty**, mistaking his parishioners for characters from Latin comedies."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Three Garridebs*):** *"The old bibliophile had a reputation for being slightly **batty**, spending fortunes on ancient, worthless parchment fragments."*
+

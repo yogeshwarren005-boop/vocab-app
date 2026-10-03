@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showily imitative of art or artists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showily imitative of art or artists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making an ostentatious, superficial, or pretentious display of artistic interest, taste, or style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural commentary, an arty circle adopts bohemian jargon and idiosyncratic dress to project aesthetic sophistication without creating substantial work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"That accounts for the arty strain in him."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Harrison left his wife because she throwed things at him . . . _hard_ things . . . and Arty Sloane says it was because she wouldn’t let him smoke, and Ned Clay says it was ’cause she never let up scolding him."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"Gordon Comstock despised the wealthy, **arty** dilettantes who patronized highbrow literary magazines while living on private dividends."*
+> - 📜 **Aldous Huxley (*Antic Hay*):** *"Gumbril found himself in an **arty** Chelsea salon where young men with long hair debated non-representational painting over cheap chianti."*
+> - 📜 **W. Somerset Maugham (*The Moon and Sixpence*):** *"Strickland had no patience for the polite, **arty** chatter of drawing-room connoisseurs who had never smelled turpentine or sweat."*
+

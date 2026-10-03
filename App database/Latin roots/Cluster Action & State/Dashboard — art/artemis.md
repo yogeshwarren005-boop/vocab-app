@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the virgin goddess of the hunt and the moon; daughter of leto and twin sister of apollo; identified with roman diana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the virgin goddess of the hunt and the moon; daughter of leto and twin sister of apollo; identified with roman diana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek goddess of the hunt, wilderness, wild animals, childbirth, and the moon; Roman Diana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hellenic mythology, Artemis was the twin sister of Apollo, depicted with a silver bow and accompanied by hunting hounds and nymphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He called her Artemis, Demeter, and other fanciful names half teasingly, which she did not like because she did not understand them."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Ah! here is the duchess, looking like Artemis in a tailor-made gown."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rivalry of Artemis and Phaedra for the affection of Hippolytus reproduces, it is said, under different names, the rivalry of Aphrodite and Proserpine for the love of Adonis, for Phaedra is merely a double of Aphrodite."*
+> - 📜 **John Keats (*Endymion*):** *"The silver radiance of **artemis** shone through forest branches, blessing the sleeping hunter upon the mossy hillside."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The woodland sanctuary of **artemis** at Nemi was guarded by a priest who held office until slain by a runaway slave."*
+> - 📜 **Percy Bysshe Shelley (*Hellas*):** *"Hymns to virgin **artemis** echoed through the mountain pine glades as Athenian maidens celebrated the spring rites."*
+

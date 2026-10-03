@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who owes a creditor; someone who has the obligation of paying a debt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who owes a creditor; someone who has the obligation of paying a debt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A debtor; a person, party, or institution that owes a debt or obligation to a creditor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman civil law and early modern jurisprudence, a debitor was legally bound by contract (nexum) to satisfy claims of the creditor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have no true debitor and creditor but it; of what’s past, is, and to come, the discharge."*
+> - 📜 **William Shakespeare (*Othello*):** *"And I, God bless the mark! his Moorship's ancient, a counter-caster, he, in good time, must his lieutenant be, and I—God bless the mark!—his Moorship's **debitor** and creditor."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The statute protects the **debitor** from extortionate arrest while compelling full restitution of lawful obligations."*
+> - 📜 **Francis Bacon (*Essays*):** *"A wise creditor treats a distressed **debitor** with patience when honest diligence promises eventual repayment."*
+

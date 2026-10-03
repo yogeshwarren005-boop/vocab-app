@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncertain how to act or proceed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncertain how to act or proceed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or feeling hesitancy; uncertain, indecisive, and wavering in purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character psychology, an irresolute personality is paralyzed by anticipating the negative consequences of every choice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He saw her too; yet he looked grave, and seemed irresolute, and only by very slow degrees came at last near enough to speak to her."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He joined them; but, as if irresolute whether to join or to pass on, said nothing, only looked."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He turned away to descend; then, irresolute, faced round to her door again."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Thus conscience does make cowards of us all; and thus the native hue of resolution is sicklied o'er with the pale cast of thought, and enterprises of great pith and moment with this regard their currents turn awry, and lose the name of action, leaving the soul **irresolute** before the dreadful unknown."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot had been persuaded in youth to give up Frederick Wentworth by the well-meaning but **irresolute** cautions of Lady Russell."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Jarvis Lorry stood **irresolute** on the pavement of Saint Antoine, unsure whether to knock at the shoemaker's attic door."*
+

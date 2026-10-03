@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequately clothed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequately clothed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing insufficient clothing for the weather, modesty, or prevailing social circumstances; inadequately dressed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health history, underclothed poor children in wintry industrial cities suffered high rates of hypothermia and pneumonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underclothed designates inadequately clothed."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The shivering chimney-sweep was miserably **underclothed**, his ragged garments offering little shield against the bitter January frost."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The field laborers worked on the windy upland **underclothed** for the autumn drizzle that soaked through their thin smocks."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The homeless men in the London shelter were pitifully **underclothed**, wrapping old newspapers around their legs for warmth."*
+

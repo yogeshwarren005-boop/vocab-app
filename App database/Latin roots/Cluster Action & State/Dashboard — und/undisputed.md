@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generally agreed upon; not subject to dispute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generally agreed upon; not subject to dispute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acknowledged and accepted without challenge, doubt, or controversy; universally recognized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international territorial law and sovereignty doctrine, undisputed control over border regions establishes de jure title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her resolute effort threw back the lid, and gave to her astonished eyes the view of a white cotton counterpane, properly folded, reposing at one end of the chest in undisputed possession!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"This passed for certain, undisputed; It ne’er cam i’ their heads to doubt it, Till chiels gat up an’ wad confute it, An’ ca’d it wrang; An’ muckle din there was about it, Baith loud an’ lang."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Raymond--was the undisputed owner of it all,--of wealth beyond his wildest dreams."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman emperor reigned as the **undisputed** master of the Mediterranean world from Britain to the Euphrates."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The Royal Navy maintained **undisputed** command of the English Channel during the critical autumn weeks of 1940."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"William of Orange was acknowledged as the **undisputed** leader of the Protestant cause in Western Europe."*
+

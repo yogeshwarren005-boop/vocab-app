@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expand abnormally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expand abnormally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To swell, become tumid, or enlarge through physical or emotional arousal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, vascular tissues tumesce when arterial inflow exceeds venous drainage during parasympathetic stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumesce designates expand abnormally."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Under the influence of fury, the facial blood vessels engorge and the neck tissues visibly **tumesce**."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The erectile tissues **tumesce** rapidly as emotional excitement stimulates the pelvic autonomic plexus."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"The capillary beds **tumesce** during reactive hyperemia following the release of an arterial occlusion."*
+

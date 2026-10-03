@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slang for a paunch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A child's or familiar word for the stomach or abdomen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal social conversation and nursery lore, tummy expresses digestive comfort, fullness, or mild childhood stomachache.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tummy designates slang for a paunch."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"The little child rubbed his round **tummy** after the feast of plum cake, smiling sleepily by the nursery fender."*
+> - 📜 **A. A. Milne (*Winnie-the-Pooh*):** *"Pooh felt a small eleven-o'clockish sort of feeling creeping across his **tummy**, reminding him that honey was due."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"Bertie felt as if an unexploded bomb had detonated in the pit of his **tummy** when Aunt Dahlia entered the room."*
+

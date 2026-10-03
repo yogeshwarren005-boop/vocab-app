@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To an undue degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an undue degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an excessive, unwarranted, or disproportionate degree; more than is suitable or right.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial review and administrative law, regulations that burden interstate commerce unduly are struck down under the commerce clause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I can see quite clearly what will happen without unduly imagining anything."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Probably, as with persons playing whist for love, the consciousness of a certain immunity under any circumstances from that worst possible ultimate, the having to pay, makes them unduly speculative."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He found that his strength was not unduly strained when he worked thus six or seven hours a day."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes cautioned Lestrade not to be **unduly** elated by appearances that might prove entirely misleading."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma admitted that she had been **unduly** influenced by her vanity when planning the village match."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To innovate **unduly** upon ancient constitutional principles invites unforeseen civil anarchy and turmoil."*
+

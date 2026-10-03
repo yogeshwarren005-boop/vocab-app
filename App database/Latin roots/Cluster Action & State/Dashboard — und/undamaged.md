@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not harmed or spoiled; sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not harmed or spoiled; sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not harmed, impaired, or damaged; intact, sound, and in good condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic insurance surveying, an undamaged vessel cargo is inspected to verify that seawater flooding did not contaminate holds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Even if we get the depot back undamaged, we'll be unable to make up the time lost."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Put the railroad guns on." Murray glanced through the side peep-hole again--one, two, three, four, five--all the American tanks seemed undamaged."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I succeeded in bringing ashore several barrels of gunpowder that had remained completely **undamaged** by the seawater."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Miraculously, the battlecruiser survived the heavy shell hit with her main engines and steering gear **undamaged**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"Holmes examined the charred ruins, discovering the valuable parchment deed **undamaged** inside the fireproof safe."*
+

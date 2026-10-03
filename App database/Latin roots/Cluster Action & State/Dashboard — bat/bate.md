@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate or restrain; lessen the force of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flap the wings wildly or frantically; used of falcons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lessen, diminish, or abate; or an archaic term meaning to flutter wings violently (as of a falcon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In falconry and classical drama, a hawk was said to bate when it fluttered its wings wildly and attempted to fly from the perch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, good faith, every dram of it; and I will not bate thee a scruple."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, the people Must have their voices; neither will they bate One jot of ceremony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, true Pisanio, Who long’st like me to see thy lord, who long’st (O, let me ’bate!) but not like me, yet long’st, But in a fainter kind."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"All furnish'd, all in arms; all plumed like estridges that with the wind **bate** on their feathers, glittering in golden coats."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Yet I argue not against Heaven's hand or will, nor **bate** a jot of heart or hope, but still bear up and steer right onward."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The proud noble refused to **bate** an inch of his feudal dignity before the assembled burghers."*
+

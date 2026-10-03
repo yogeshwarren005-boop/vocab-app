@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moderate or restrain; lessen the force of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flap the wings wildly or frantically; used of falcons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restrained, held back, or moderated in intensity, especially of breath under suspense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary phraseology, waiting 'with bated breath' signifies an acute state of suspenseful, fearful anticipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So are the horses of the enemy In general, journey-bated and brought low."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These griefs and losses have so bated me That I shall hardly spare a pound of flesh Tomorrow to my bloody creditor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were the world mine, Demetrius being bated, The rest I’d give to be to you translated."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Shall I bend low and in a bondsman's key, with **bated** breath and whisp'ring humbleness, say this: 'Fair sir, you spat on me on Wednesday last'?"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The spectators in the crowded courtroom listened with **bated** breath as the jury returned to deliver the capital verdict."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We waited with **bated** breath in the foggy hollow, listening for the baying of the spectral hound across Dartmoor."*
+

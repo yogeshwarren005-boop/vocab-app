@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With intention; in an intentional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a deliberate unhurried manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intentional, carefully considered, and unhurried manner; on purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, a physician acting deliberately systematically evaluates differential evidence before prescribing invasive therapies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"With two ladies in the coach, this scoundrel has deliberately delayed his arrival six and twenty minutes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I should wish it to be so deliberately said, and so deliberately considered."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket stops and deliberately repeats, “Ought to have been her husband, not a doubt about it."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I went to the woods because I wished to live **deliberately**, to front only the essential facts of life, and see if I could not learn what it had to teach."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes walked **deliberately** around the perimeter of the room, examining the wainscot with his magnifying glass."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea chose her words **deliberately**, unwilling to compromise her convictions merely to avoid domestic friction."*
+

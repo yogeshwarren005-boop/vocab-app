@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin len within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of len in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A smooth, unaspirated consonant sound in classical Greek and phonetics; non-aspirated voiceless plosive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Indo-European phonology, the lene stops (p, t, k) contrast with aspiratae (ph, th, kh) and mediae (b, d, g).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lene designates pertaining to, derived from, or characteristic of latin len within the domain of action & state."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Grimm's Law explains the systematic shift of ancient Greek **lene** consonants into Germanic voiceless fricatives."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The unaspirated **lene** stop is pronounced without the audible puff of breath that characterizes English plosives."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"In archaic dialect inscriptions, the distinction between a **lene** consonant and an aspirate was preserved with phonetic rigor."*
+

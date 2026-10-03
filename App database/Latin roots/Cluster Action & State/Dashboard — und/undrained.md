@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not drained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not drained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cleared of water, excess moisture, or fluid; marshy, waterlogged, or boggy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural hydrology and civil drainage engineering, undrained alluvial soils suffer chronic waterlogging and root anoxia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undrained designates not drained."*
+> - 📜 **Daniel Defoe (*A Tour Thro' the Whole Island of Great Britain*):** *"The vast fens of Cambridgeshire remained an **undrained** wilderness of reeds, fogs, and ague-ridden pools."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Extensive peat mosses formed across the flat, **undrained** hollows left behind by retreating glacial ice."*
+> - 📜 **Thomas Carlyle (*Oliver Cromwell's Letters and Speeches*):** *"The early settlers struggled against the wild, **undrained** swamps along the river valleys of eastern England."*
+

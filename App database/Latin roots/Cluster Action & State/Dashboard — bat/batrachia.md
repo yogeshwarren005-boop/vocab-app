@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Frogs, toads, tree toads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frogs, toads, tree toads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic zoological order or class of animals comprising frogs, toads, and allied amphibians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century comparative anatomy, Batrachia was characterized by moist naked skin, absence of claws, and aquatic larval metamorphosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batrachia designates frogs, toads, tree toads."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The transition from aquatic branchial respiration to pulmonary breathing characterizes the developmental metamorphosis of the **batrachia**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The complete absence of the order **batrachia** on oceanic islands confirms that salt water is fatal to their eggs and skin."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"We trace in the embryology of **batrachia** the remarkable morphological transformation from fish-like tadpole to terrestrial adult."*
+

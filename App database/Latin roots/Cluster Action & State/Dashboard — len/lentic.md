@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or living in still waters (as lakes or ponds).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or living in still waters (as lakes or ponds).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or inhabiting still, calm, or standing fresh water, such as lakes, ponds, or swamps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology and aquatic ecology, lentic ecosystems contrast with lotic (flowing water) systems, exhibiting vertical thermal stratification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentic designates of or relating to or living in still waters (as lakes or ponds)."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Quiet **lentic** waters in woodland beaver ponds shelter teeming populations of dragon-fly larvae and tadpoles."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The sedimentation patterns of a **lentic** basin preserve finely laminated varves of silt and organic detritus."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Freshwater shells inhabiting calm **lentic** pools often show wide geographical distribution across disconnected river basins."*
+

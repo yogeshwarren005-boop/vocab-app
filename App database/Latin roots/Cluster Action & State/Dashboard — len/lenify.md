@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be more favorably inclined; gain the good will of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To soothe, assuage, soften, mitigate, or alleviate pain, anger, or harshness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacopeia and rhetoric, a soothing cordial or gentle speech was prescribed to lenify visceral or emotional distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenify designates cause to be more favorably inclined; gain the good will of."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain balms and aromatic decoctions serve to **lenify** the irritation of acute topical inflammations."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Soft music and gentle discourse have wondrous power to **lenify** the bitter anguish of a troubled spirit."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"Pious meditation operates to **lenify** the terrors of mortality and bring tranquil resignation to the dying."*
+

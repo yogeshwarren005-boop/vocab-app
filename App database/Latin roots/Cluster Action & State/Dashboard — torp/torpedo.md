@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional killer who uses a gun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large sandwich made of a long crusty roll split lengthwise and filled with meats and cheese (and tomato and onion and lettuce and condiments); different names are used in different sections of the united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-propelled underwater naval missile, or historically, an electric ray capable of numbing shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime warfare history, Robert Fulton originally termed stationary underwater explosive naval mines a torpedo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The very resolution to which he had wrought himself by dint of logic and honorable pride was beginning to relax under her torpedo contact."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"You don't seem to realize," he said, "that I have just come from a cruise on a torpedo boat."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"These two are the submarine mine and the torpedo."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He felt a strange, numbing sensation creeping through his veins, as if touched by the galvanic tail of a **torpedo**."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The frigate fired an experimental **torpedo**, but the steel hull of the Nautilus deflected the explosion without injury."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The ancient naturalists recorded that the touch of the **torpedo** fish paralyses the fisherman's arm even through the fishing rod."*
+

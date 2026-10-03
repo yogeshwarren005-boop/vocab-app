@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rebellious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rebellious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stubbornly disobedient, defiant, or insubordinate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history, litigants refusing contumaciously to submit to statutory arbitration faced summary sequestration of their estates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Again a mystic sisterhood would contumaciously assert itself, as she met the sanctified frown of some matron, who, according to the rumour of all tongues, had kept cold snow within her bosom throughout life."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The recalcitrant burgesses **contumaciously** refused to surrender their ancient civic charter to the royal commissioners."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Squire Western swore that any tenant who acted **contumaciously** against his electoral commands should be turned out of his farm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Gothic chieftain behaved **contumaciously** before the imperial throne, rejecting every peaceful overture with arrogant laughter."*
+

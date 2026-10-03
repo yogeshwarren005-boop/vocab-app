@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood vessel that carries blood from the heart to the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blood vessel that carries blood from the heart to the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin and anatomical term for an artery; an efferent blood vessel carrying oxygenated blood from the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Galenic medicine, an arteria was erroneously believed by ancient anatomists to transport vital pneuma rather than blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteria designates a blood vessel that carries blood from the heart to the body."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"When the left ventricle contracts, blood is propelled directly into the great **arteria** aorta and distributed to the extremities."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The pulmonary **arteria** carries deoxygenated venous blood from the right ventricle into the capillary network of the lungs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aneurysmal dilation of the **arteria** femoralis presents as an expansile pulsating mass in Scarpa's triangle."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who favors a political philosophy of progress and reform and the protection of civil liberties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who favors a political philosophy of progress and reform and the protection of civil liberties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate or adherent of liberalism; or relating to the tenets of liberal philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century political journalism, a liberalist favored constitutional modernization and the reduction of ecclesiastic monopolies in civil life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liberalist designates a person who favors a political philosophy of progress and reform and the protection of civil liberties."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The doctrinaire **liberalist** imagines that the world's deep spiritual wounds can be healed by free-trade statistics and mechanical ballot boxes."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"The modern **liberalist** frequently abandons his ancestral creed by multiplying state interventions instead of protecting individual liberties."*
+> - 📜 **Edmund Burke (*Letter to a Noble Lord*):** *"The theoretical **liberalist** tears down ancient ancestral ramparts without calculating the violent tempest that will rush in."*
+

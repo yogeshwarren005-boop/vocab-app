@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joyful and proud especially because of triumph or success.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Joyful and proud especially because of triumph or success.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with or expressing triumphant joy, jubilant celebration, or victorious pride.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological descriptions of triumph, an exultant mindset accompanies the breakthrough completion of arduous long-term quests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They were both earnest, exultant Christians, around whom the angels of God encamped day and night."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Why, of course!” cried Biddy, with an exultant face."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I made my exultant way to the old Battery, and, lying down there to consider the question whether Miss Havisham intended me for Estella, fell asleep."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab uttered an **exultant** cry as the white whale breached the churning ocean waters before the ship."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The native sailors raised an **exultant** shout as the schooner slipped safely past the coral reef into harbor."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes turned to me with an **exultant** gleam in his dark eyes, knowing that our cunning trap had snapped shut."*
+

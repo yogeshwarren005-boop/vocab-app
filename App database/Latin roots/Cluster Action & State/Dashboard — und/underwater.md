@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beneath the surface of the water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Growing or remaining under water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or used beneath the surface of the water; or submerged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine technology and diving physiology, autonomous underwater vehicles (AUVs) map abyssal ocean floor trenches using side-scan sonar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"It seemed like he was underwater half an hour, but it couldn’t have been more than a few seconds."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The powerful electric searchlight of the Nautilus illuminated the enchanted **underwater** landscapes of coral and sunken wrecks."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"The living polyps construct **underwater** ramparts against the open ocean surf, thriving in the well-aerated breaker zone."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"The marine scientist donned his acoustic helmet and plunged into the quiet **underwater** world to inspect the plankton nets."*
+

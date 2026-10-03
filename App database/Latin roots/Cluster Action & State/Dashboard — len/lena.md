@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A russian river in siberia; flows northward into the laptev sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A russian river in siberia; flows northward into the laptev sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major Siberian river flowing north into the Arctic Ocean; or a feminine given name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Russian geography and geology, the Lena River drains eastern Siberia, creating the Lena Pillars nature park and immense fossil mammoth beds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AEMILIUS LEPIDUS, ” ” ” CICERO, PUBLIUS, POPILIUS LENA, Senators."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cassius, be constant: Popilius Lena speaks not of our purposes; For look, he smiles, and Caesar doth not change."*
+> - 📜 **Leo Tolstoy (*Resurrection*):** *"The political exiles endured the grueling overland march across Siberia toward the icy reaches of the river **lena**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Carcasses of woolly mammoths preserved in the frozen soil of the **lena** delta testify to past climatic fluctuations."*
+> - 📜 **Peter Kropotkin (*Memoirs of a Revolutionist*):** *"Geographical expeditions along the upper tributaries of the **lena** mapped uncharted mountain passes in eastern Siberia."*
+

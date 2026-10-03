@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dissolute way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dissolute way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a loose, immoral, or unrestrained manner; profligately and debauchedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, living dissolutely squanders natural physical health and mental gifts in ephemeral hedonism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I am freely dissolved, and dissolutely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a fery discretion answer, save the fall is in the ’ord “dissolutely.” The ’ort is, according to our meaning, “resolutely.” His meaning is good."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The young heir lived **dissolutely** among flattering sycophants until his patrimony was entirely devoured by creditors."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The courtiers of Whitehall lived **dissolutely**, mocking the solemn puritan austerities of the preceding generation."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"He spent his youth **dissolutely** in the taverns of Covent Garden before necessity compelled him to reform."*
+

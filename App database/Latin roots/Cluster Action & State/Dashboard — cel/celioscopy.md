@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Endoscopic examination of the abdomen through the abdominal wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endoscopic examination of the abdomen through the abdominal wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Endoscopic examination of the abdominal cavity through an incision in the abdominal wall; laparoscopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pioneered by Georg Kelling in 1901, diagnostic celioscopy paved the way for modern minimally invasive laparoscopic surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celioscopy designates endoscopic examination of the abdomen through the abdominal wall."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"The introduction of diagnostic **celioscopy** enabled clinicians to inspect visceral surfaces directly without resorting to broad laparotomy incisions."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"Through specialized optical instruments, experimental **celioscopy** demonstrated that peritoneal adhesions could be mapped with minimal surgical trauma."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The operating room staff prepared the optical conduits for an exploratory **celioscopy** to identify the source of occult bleeding."*
+

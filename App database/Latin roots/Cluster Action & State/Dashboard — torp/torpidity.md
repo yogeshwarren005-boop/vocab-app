@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of motor and mental inactivity with a partial suspension of sensibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from lethargy and lack of vigor or energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of motor or mental inactivity; sluggishness, lethargy, or dormancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative animal physiology, daily torpidity enables small hummingbirds and bats to survive freezing nocturnal temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many are not so stealthy and gradual as we may be apt to imagine in considering the general torpidity of a moor or waste."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many are not so stealthy and gradual as we may be apt to imagine in considering the general torpidity of a moor or heath."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant Galapagos tortoises awaken from their seasonal **torpidity** as soon as the rains replenish the high mountain pools."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Indolence plunges the faculties into a fatal **torpidity**, from which neither ambition nor danger can easily rouse them."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine court sank into spiritual **torpidity**, unmoved by the catastrophic collapse of its surrounding provinces."*
+

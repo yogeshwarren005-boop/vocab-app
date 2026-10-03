@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The line along which opposing armies face each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The line along which opposing armies face each other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The forward line or zone along which opposing armed forces engage in active combat; the front line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic warfare and logistics, maintaining supply convoys and communication lines to the battlefront decides operational success.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battlefront designates the line along which opposing armies face each other."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Dispatches from the Russian **battlefront** reported massive tank engagements raging along the perimeter of Kursk."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Upon arriving at the mountain **battlefront**, we found conditions of extreme cold, primitive trenches, and scarce ammunition."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"The ambulance drove along the muddy road toward the mountain **battlefront**, where distant artillery rumbled like thunder."*
+

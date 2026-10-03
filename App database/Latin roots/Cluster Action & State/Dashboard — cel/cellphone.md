@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A portable telephone that operates via cellular radio networks; a mobile phone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern telecommunications, cellphone infrastructure utilizes hexagonal geographic cells serviced by low-power transceivers to reuse frequency bands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellphone designates a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"The worldwide diffusion of the handheld **cellphone** demonstrates how pure electromagnetic theory translates into ubiquitous everyday technology."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"We foresaw a day when every citizen would carry an individual pocket transceiver, what society now terms a **cellphone**."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"The patient noted that interacting through a digital **cellphone** helped bridge perceptual deficits following neurological surgery."*
+

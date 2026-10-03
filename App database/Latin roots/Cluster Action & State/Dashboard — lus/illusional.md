@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or producing illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or producing illusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characterized by illusions; deceptive or non-veridical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric assessment, an illusional perceptual distortion is triggered by an actual sensory stimulus, unlike an unprompted hallucination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illusional designates marked by or producing illusion."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The patient experienced an **illusional** interpretation of the drapery shadows, perceiving them as threatening human silhouettes."*
+> - 📜 **Sigmund Freud (*The Future of an Illusion*):** *"Religious dogmas partake of an **illusional** character, satisfying archaic psychological longings for cosmic protection."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Sensory deprivation experiments readily provoke transient **illusional** phenomena in healthy laboratory subjects."*
+

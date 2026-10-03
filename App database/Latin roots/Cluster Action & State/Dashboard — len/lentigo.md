@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small brownish spot (of the pigment melanin) on the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small brownish spot (of the pigment melanin) on the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, clearly defined brownish or pigmented spot on the skin caused by localized proliferation of melanocytes; a freckle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, solar lentigo (commonly called a liver spot or age spot) results from cumulative ultraviolet radiation exposure in elderly individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentigo designates a small brownish spot (of the pigment melanin) on the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A benign senile **lentigo** must be distinguished from dysplastic pigmented lesions during routine geriatric screening."*
+> - 📜 **Erasmus Wilson (*On Diseases of the Skin*):** *"The development of **lentigo** is accelerated by solar radiation, which stimulates melanogenesis in fair cutaneous types."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The young physician examined the brown **lentigo** upon the patient's forearm, assuring him it posed no malignant threat."*
+

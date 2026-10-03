@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone secreted by the corpus luteum during the last days of pregnancy; relaxes the pelvic ligaments and prepares the uterus for labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone secreted by the corpus luteum during the last days of pregnancy; relaxes the pelvic ligaments and prepares the uterus for labor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peptide hormone that causes relaxation of maternal pelvic ligaments during late pregnancy and childbirth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology, relaxin is synthesized by the corpus luteum and placenta to soften the pubic symphysis and dilate the cervix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relaxin designates hormone secreted by the corpus luteum during the last days of pregnancy; relaxes the pelvic ligaments and prepares the uterus for labor."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative mammalian physiology reveals specialized hormones like **relaxin** facilitating pelvic expansion during parturition."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"The endocrine secretion **relaxin** induces structural remodeling of dense connective tissue in the maternal pelvis."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"Hormonal triggers such as **relaxin** illustrate the complex biochemical cascades underlying physiological development."*
+

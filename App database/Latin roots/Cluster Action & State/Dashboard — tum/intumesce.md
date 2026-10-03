@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move upwards in bubbles, as from the effect of heating; also used metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expand abnormally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To swell, enlarge, or expand; to bubble up, especially under the action of heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and chemical materials, minerals like borax or stilbite intumesce when water of crystallization boils off, causing the heated mineral to swell into a frothy mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intumesce designates move upwards in bubbles, as from the effect of heating; also used metaphorically."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Under the blowpipe flame, the zeolite crystals begin to **intumesce**, swelling into a white porous enamel."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean lava pools **intumesce** with volcanic gases before erupting through fissure vents."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"He observed how heated liquids **intumesce** and froth within the crucible as boiling commences."*
+

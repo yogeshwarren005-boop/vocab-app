@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lowest support of a structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lowest support of a structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The supporting framework, foundation, or substructure beneath a building, bridge, or vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural bridge engineering, the masonry piers and caissons of the understructure transfer dead loads safely into river bedrock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understructure designates lowest support of a structure."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The massive subterranean **understructure** of the Doge's Palace rests upon thousands of driven larch timber piles."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Geologists examined the granitic **understructure** of the mountain chain, exposed where glacial erosion had stripped away shale."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The steel **understructure** of the suspension bridge buckled under the explosive concussion of the aerial bomb."*
+

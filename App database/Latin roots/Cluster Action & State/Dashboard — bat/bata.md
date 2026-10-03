@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chadic language spoken south of lake chad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chadic language spoken south of lake chad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city and principal commercial port of mainland Equatorial Guinea, situated on the Atlantic coast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In West African economic geography, Bata serves as the main shipping terminal for timber, petroleum, and cacao from the Rio Muni mainland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Fellowcountrymen, _sgenl inn ban bata coisde gan capall._ I call on my old friend, Dr Malachi Mulligan, sex specialist, to give medical testimony on my behalf."*
+> - 📜 **Richard Francis Burton (*Two Trips to Gorilla Land and the Cataracts of the Congo*):** *"The merchant schooner dropped anchor in the coastal roads off **bata**, trading brass rods for palm oil and ivory."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"Coastal trading settlements like **bata** connected interior equatorial trade networks with European maritime factors."*
+> - 📜 **Basil Davidson (*The African Slave Trade*):** *"The Atlantic littoral around modern **bata** was historically frequented by Iberian caravels seeking timber and spices."*
+

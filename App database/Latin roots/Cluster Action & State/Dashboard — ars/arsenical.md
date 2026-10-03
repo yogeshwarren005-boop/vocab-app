@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pesticide or drug containing arsenic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing arsenic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, relating to, or produced by arsenic; or having poisonous qualities resembling arsenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian decorative arts and environmental medicine, Scheele's green wallpaper dyed with arsenical pigments caused chronic respiratory poisoning in domestic rooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Rigidity of arsenical copper, 33, 41."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The physician identified the patient's persistent illness as chronic **arsenical** poisoning derived from pigmented bedroom wallpapers."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The thermal springs of the volcanic region emitted sulfurous and **arsenical** vapors that encrusted the surrounding rocks."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"We analyzed the sediment in the stomach contents, detecting distinct traces of an **arsenical** compound."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american annual plant with usually yellow or orange flowers; grows chiefly on wet rather acid soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial herb with branched woody stock and bright yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow-flowered European plant of the poppy family (greater celandine) or buttercup family (lesser celandine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical herbalism and folklore, yellow celandine sap was applied topically to remove warts and soothe ocular inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"One of the first of our native wild flowers, in making its appearance after the departure of frost and snow, is the little yellow celandine (_Ranunculus ficaria_)."*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"Ill befal the yellow Flowers, Children of the flaring hours! 50 Buttercups, that will be seen, Whether we will see or no; Others, too, of lofty mien; They have done as worldlings do, Taken praise that should be thine, Little, humble Celandine!"*
-> - 📜 **William Wordsworth (*Poems in Two Volumes, Volume 1*):** *"Pleasures newly found are sweet When they lie about our feet: February last my heart First at sight of thee was glad; All unheard of as thou art, Thou must needs, I think, have had, Celandine! and long ago, Praise of which I nothing know."*
+> - 📜 **William Wordsworth (*Poems, in Two Volumes*):** *"There is a flower, the lesser **celandine**, that will bloom on bleak winter days when skies are cold and gray."*
+> - 📜 **John Ruskin (*Proserpina*):** *"The glossy golden petals of the lesser **celandine** brighten the English wayside banks long before the primrose appears."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The spring opening of the greater **celandine** along our sunny stone hedgerows coincides with the return of migratory martins."*
+

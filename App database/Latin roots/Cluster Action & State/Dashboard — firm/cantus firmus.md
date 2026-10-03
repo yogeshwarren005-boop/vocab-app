@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin firm within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of firm in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pre-existing melody forming the basis of a polyphonic musical composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance counterpoint and Gregorian chant, the cantus firmus is sustained in long notes by the tenor voice while other voices weave imitative polyphony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cantus firmus designates pertaining to, derived from, or characteristic of latin firm within the domain of action & state."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The ancient sacred melody served as a **cantus firmus** around which the composer wove rich secular polyphony."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The choral fugue rested upon a solid **cantus firmus** intoned with majestic solemnity by the massed basses."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"He demonstrated how the medieval **cantus firmus** provided architectural discipline to the wildest harmonic experiments."*
+

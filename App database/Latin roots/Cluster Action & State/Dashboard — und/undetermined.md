@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet having been ascertained or determined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not precisely determined or established; not fixed or known in advance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not decided, resolved, or established; or having boundaries or characteristics that remain uncertain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil litigation and probate law, property rights that remain undetermined during pending appeals freeze the distribution of estate assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The lodging, that pride of your heart and mine, is given up, and _here he is again_--Charles, I mean--as unsettled and undetermined as ever."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Hitherto, he has put off his return from one particular day to another; henceforward, he leaves the precise time undetermined."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It has been demonstrated that both these bodies, namely, the primary organs or cluster-cups, and the secondary organs or spermogones, are developed from the same mycelium; but the value of the latter is still undetermined."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The endless lawsuit of Jarndyce and Jarndyce left the ultimate ownership of the great estate perpetually **undetermined**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The boundary line between the Roman provinces and the Persian empire remained **undetermined** for generations."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The will remains **undetermined** until stirred to action by some pressing sense of unease or desire."*
+

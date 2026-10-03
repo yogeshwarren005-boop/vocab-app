@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kill in large numbers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroyed completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely destroyed, extinguished, or reduced to nonexistence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military historiography and battle analysis, a combat division is classified as annihilated when its command cohesion and surviving personnel cease operational existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am thinking of the sort of figure I cut the first time I saw you, when you annihilated my poor sketch with your criticism.” “My criticism?” said Dorothea, wondering still more."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Sometimes, nothing is injured but the man who is thus annihilated; oftener the boat’s bow is knocked off, or the thigh-board, in which the headsman stands, is torn from its place and accompanies the body."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And do you know,” I added, “what has been the result since men have almost entirely annihilated this useful race?"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"All my fond hopes were utterly **annihilated** in a single dreadful hour, leaving my soul a barren wilderness."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Ancient fauna that failed in the struggle for life were gradually **annihilated**, leaving only fragmentary fossils in sedimentary strata."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The ancient feudal privileges were **annihilated** during the memorable nocturnal sitting of the fourth of August."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling up with blood or other fluids (as with congestion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The increase in volume of certain substances when they are heated (often accompanied by release of water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of swelling, expanding, or becoming tumid; a tumid swelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th-century medical prose, intumescency described systemic dropsical effusion or glandular enlargement throughout the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intumescency designates swelling up with blood or other fluids (as with congestion)."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The gradual **intumescency** of the serpent's neck occurs during aggressive defensive displays before striking."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Unwholesome diet provokes flatulent **intumescency** within the hypochondria, clouding the patient's spirits with gloom."*
+> - 📜 **Samuel Johnson (*A Journey to the Western Islands of Scotland*):** *"The stream was swollen by torrential rains, presenting an alarming **intumescency** that threatened the wooden bridge."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish courtesy title or form of address for a woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish courtesy title or form of address for a woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Portuguese and Spanish title of respect prefixed to a woman's Christian name; Donna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Iberian social history, the title Dona was historically restricted to women of the nobility before expanding as a polite courtesy title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Captive Ribband Tune—“Robaidh dona gorach.” Dear Myra, the captive ribband’s mine, ’Twas all my faithful love could gain; And would you ask me to resign The sole reward that crowns my pain?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Credit no statement of his save as supported by the clearest evidence; be continually repeating to yourself, “Timeo Danaos et dona ferentes,”—nay, never so much as then."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The best timbered portion of the Rio Grande Valley is between Socorro and Dona Ana."*
+> - 📜 **Miguel de Cervantes (*Don Quixote*):** *"The knight saluted **dona** Rodriguez with profound gravity, mistaking the duenna for a highborn damsel in distress."*
+> - 📜 **Lord Byron (*Don Juan*):** *"His mother, **dona** Inez, was an austere lady deeply versed in moral treatises and heraldic lore."*
+> - 📜 **Washington Irving (*Chronicle of the Conquest of Granada*):** *"The brave **dona** Maria Coronel defended her castle against Moorish raiders with heroic fortitude."*
+

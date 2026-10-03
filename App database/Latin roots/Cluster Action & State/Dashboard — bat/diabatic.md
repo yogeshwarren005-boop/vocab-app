@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving a transfer of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving a transfer of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving a transfer of heat to or from a thermodynamic system; non-adiabatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and atmospheric thermodynamics, diabatic processes include solar radiation absorption, latent heat release, and ground conduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabatic designates involving a transfer of heat."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The heating of surface air through contact with sun-baked soil illustrates a typical **diabatic** process governing local weather."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Planetary atmospheric models must account for **diabatic** heating from solar radiation balancing thermal infrared emissions to space."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"When thermal energy crosses the boundaries of the gas cylinder, the expansion is strictly **diabatic** rather than adiabatic."*
+

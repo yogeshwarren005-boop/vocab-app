@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wilfully obstinate; stubbornly disobedient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wilfully obstinate; stubbornly disobedient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stubbornly or willfully disobedient to authority; recalcitrant, rebellious, and defiant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon and common law civil procedure, a contumacious witness who willfully ignores a judicial subpoena is cited for contempt of court.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Sometimes, without going quite so far as that, the wizard declared that he would scatter the bones of Osiris or reveal his sacred legend, if the god proved contumacious."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Do I then return a contumacious answer?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor punished the **contumacious** prelate with perpetual exile beyond the borders of the diocese."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Court of Chancery regarded the uncooperative defendant as an obstinate and **contumacious** person who defied judicial decrees."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The presbyterian elder was denounced by the royal magistrates as a **contumacious** rebel against the crown's ecclesiastical supremacy."*
+

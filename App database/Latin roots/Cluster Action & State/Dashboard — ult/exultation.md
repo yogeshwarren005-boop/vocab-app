@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of extreme joy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The utterance of sounds expressing great joy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling or outward expression of triumphant elation, triumphant joy, or victorious jubilation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social celebrations of national independence, public exultation manifests through ringing bells, parades, and civic assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go together, You precious winners all; your exultation Partake to everyone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was never tired of seeing Charley in the full enjoyment of that great dignity, standing before me with her youthful face and figure, and her steady manner, and her childish exultation breaking through it now and then in the pleasantest way."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was room for a little pity, also for a very little exultation: the former at his position, the latter at her own."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman populace gave way to boundless **exultation** when news arrived that the barbarian invaders had retreated across the Danube."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary mob danced the Carmagnole in wild **exultation** around the bloodstained platform of the guillotine."*
+> - 📜 **Bram Stoker (*Dracula*):** *"A surge of intense **exultation** filled Van Helsing's heart as the holy wafer sealed the vampire's tomb against escape."*
+

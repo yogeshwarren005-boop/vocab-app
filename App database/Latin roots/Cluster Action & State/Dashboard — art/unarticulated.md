@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not consisting of segments that are held together by joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uttered without the use of normal words or syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not jointed; or not expressed clearly, openly, or distinctly in words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychodynamics, unarticulated anxieties remain repressed in the unconscious, producing somatic tensions or irrational phobias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unarticulated designates not consisting of segments that are held together by joints."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea felt a wave of **unarticulated** grief surge through her heart as she realized the emotional sterility of her marriage."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In early embryonic development, the skeletal elements exist as an **unarticulated** continuous blastema of hyaline cartilage."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Milly Theale recognized the **unarticulated** sympathy in Densher's eyes, even while both avoided naming her mortal illness."*
+

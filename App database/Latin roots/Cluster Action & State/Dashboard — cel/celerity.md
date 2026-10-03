@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate that is rapid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rate that is rapid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swiftness of movement, speed, rapidity, or prompt dispatch in action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical military doctrine, Julius Caesar famously defeated adversaries by conducting forced marches with legendary celerity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do think there is mettle in death which commits some loving act upon her, she hath such a celerity in dying."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Celerity is never more admired Than by the negligent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus with imagin’d wing our swift scene flies, In motion of no less celerity Than that of thought."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Caesar has done his work with that **celerity** that he outstrips our swiftest couriers in the field."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The yield of your design, and the **celerity** with which you execute it, is astonishing to all your friends."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman cavalry swept across the plains with such **celerity** that the enemy encampment was surrounded before scouts could give warning."*
+

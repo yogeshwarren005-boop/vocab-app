@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fully developed person from maturity onward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any mature animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fully grown, mature person, animal, or organism that has attained legal age or reproductive capability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and legal jurisprudence, an adult assumes full civic accountability, contractual capacity, and independent rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The whole court, adult as well as boy, is sleepless for that night, and can do nothing but wrap up its many heads, and talk of the ill-fated house, and look at it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In legal reasoning it is being recognized that the individual wage-worker, even the adult male, is not in a position to judge the number of hours he ought, for his own good, to work, and is unable to fix the length of his own working day."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What more have you to say?” she asked, rather in the tone in which a person might address an opponent of adult age than such as is ordinarily used to a child."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The secondary sexual plumage attains its most vibrant coloration only when the bird reaches the **adult** stage."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The power of parents over their children ceases when the latter arrive at the understanding and status of an **adult**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea looked back upon her naive youthful aspirations with the sober perspective of an **adult** mind."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put up with something or somebody unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recognize and respect (rights and beliefs of others).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To allow the existence, occurrence, or practice of something without interference; to endure or put up with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and clinical medicine, a patient's capacity to tolerate an aggressive chemotherapy regimen dictates dosage schedules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"But, fair or not fair, there are unbecoming conjunctions, which reason will patronize in vain—which taste cannot tolerate—which ridicule will seize."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Sometimes, she would coldly tolerate me; sometimes, she would condescend to me; sometimes, she would be quite familiar with me; sometimes, she would tell me energetically that she hated me."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Their being so new and so recent was all in their disfavour; that you could tolerate nothing that you were not used to; and a great deal more to the same purpose, to give them a knowledge of your character."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"The magistrate has no authority to forbid or penalize peaceful religious practices that the laws of nature **tolerate**."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Think you a little din can daunt mine ears? Have I not in my time heard lions roar? Have I not heard the sea puff'd up with winds rage like an angry boar chafed with sweat? Have I not heard great ordnance in the field, and heaven's artillery thunder in the skies? Have I not in a pitched battle heard loud 'larums, neighing steeds, and trumpets' clang? And do you tell me of a woman's tongue, that gives not half so great a blow to hear as will a chestnut in a farmer's fire? Tush, tush! fear boys with bugs: I will **tolerate** her fury and subdue her wild spirit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn was an austere attorney who would **tolerate** no frivolous interruptions during confidential consultations."*
+

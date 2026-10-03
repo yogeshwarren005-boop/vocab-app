@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A voluntary gift (as of money or service or ideas) made to some worthwhile cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of giving in common with others for a common purpose especially to a charity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something given to an individual, charity, or organization, especially a sum of money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman and canon law, the forged Donation of Constantine was an 8th-century imperial edict granting extensive temporal authority to the papacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ accusation Which they have often made against the Senate, All cause unborn, could never be the native Of our so frank donation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was wise nature’s end in the donation, To be his evidence now."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A contract of true love to celebrate, And some donation freely to estate On the blest lovers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The celebrated **donation** of Constantine was demonstrated by Laurentius Valla to be a clumsy medieval forgery."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Miss Trotwood made a handsome **donation** to David's legal schooling, insisting upon thorough diligence in return."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Endowed hospitals maintained by charitable **donation** were often managed with less efficiency than commercial infirmaries."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or perform an action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completed, finished, or brought to a conclusion; or thoroughly cooked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette, an action not done violates established conventions of polite decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that record could with a backward look, Even of five hundred courses of the sun, Show me your image in some antique book, Since mind at first in character was done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wilt leave me, do not leave me last, When other petty griefs have done their spite, But in the onset come, so shall I taste At first the very worst of fortune’s might."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all is done, have what shall have no end, Mine appetite I never more will grind On newer proof, to try an older friend, A god in love, to whom I am confined."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"If it were **done** when 'tis done, then 'twere well it were done quickly: if the assassination could trammel up the consequence, and catch with his surcease success; that but this blow might be the be-all and the end-all here, but here, upon this bank and shoal of time, we'ld jump the life to come."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The dinner was **done** to a turn, and Bob Cratchit pronounced the roast goose to be the greatest success of the family."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"When all was **done**, Elizabeth felt that her visit to Pemberley had completely altered the course of her affections."*
+

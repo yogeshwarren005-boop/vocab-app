@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A low shrub.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low shrub.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-growing woody perennial plant having woody stems at the base and herbaceous shoots at the top; a subshrub.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, dwarf undershrubs such as heather and bilberry dominate heathland and arctic-alpine tundra communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undershrub designates a low shrub."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The dry gravelly plains of Patagonia were sparsely clothed with thorny **undershrub** vegetation and coarse tussock grass."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Trailing arbutus is a prostrate, evergreen **undershrub** whose fragrant pink blossoms open early in shaded woodlands."*
+> - 📜 **Joseph Dalton Hooker (*Flora Antarctica*):** *"The bleak wind-swept moorlands of the Falkland Islands support creeping colonies of resinous **undershrub** allied to Empetrum."*
+

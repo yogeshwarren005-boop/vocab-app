@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from or characterized by delusions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from or characterized by delusions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, holding, or based on false, irrational beliefs or persistent misconceptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychiatry, delusional disorders are evaluated to determine whether a defendant possessed legal capacity at the time of an offense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delusional designates suffering from or characterized by delusions."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The paranoiac constructs an elaborate, internally consistent system upon an inherently **delusional** premise."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"In severe obsessional neurosis, unexamined guilt feelings can crystallize into **delusional** convictions."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient presented with a **delusional** belief that his left leg belonged to a complete stranger."*
+

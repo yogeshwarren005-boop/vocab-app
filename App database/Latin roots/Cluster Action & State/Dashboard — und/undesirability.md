@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that should be avoided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality possessed by something that should be avoided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwantedness, offensiveness, or the disadvantageous character of an outcome, trait, or circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and environmental economics, the spatial undesirability of heavy industrial zones depresses adjacent residential land valuations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undesirability designates the quality possessed by something that should be avoided."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The civic **undesirability** of monopolistic combinations justifies legislative intervention to preserve equitable market competition."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Philosophers debate the relative **undesirability** of state paternalism compared to unregulated individual initiative."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The apparent **undesirability** of physical hardship often masks the moral discipline necessary to strengthen character."*
+

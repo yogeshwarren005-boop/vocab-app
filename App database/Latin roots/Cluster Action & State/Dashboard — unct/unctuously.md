@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unctuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unctuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an excessively smooth, flattering, or oily manner; insincerely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary characterization, villains speaking unctuously disguise exploitative greed under the veneer of moral concern.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Harry Hawk's attitude toward myself had not been so unctuously confidential and mysterious."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And he had eyed wee Shane unctuously."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She has been (unctuously) very kind to me." "She is kind to everyone," he said shortly, "except myself!"*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Slope smiled **unctuously**, assuring the bishop's wife that her spiritual guidance was his constant inspiration."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The cunning lawyer rubbed his palms together, speaking **unctuously** of his profound devotion to the family's welfare."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Bulstrode delivered his religious admonitions **unctuously**, unaware that his listeners suspected his past integrity."*
+

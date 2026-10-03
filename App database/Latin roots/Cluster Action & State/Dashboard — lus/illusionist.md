@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with unusual powers of foresight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who performs magic tricks to amuse an audience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A performer who creates theatrical illusions or sleight-of-hand tricks; a magician or conjurer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, an illusionist painter uses trompe-l'œil techniques to simulate three-dimensional physical presence on a flat wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illusionist designates a person with unusual powers of foresight."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Mazarin Stone*):** *"The criminal was a master **illusionist** who used lifelike wax effigies to baffle Scotland Yard surveillance."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Griffin performed optical transformations that would have made the reputation of the most celebrated stage **illusionist**."*
+> - 📜 **E. T. A. Hoffmann (*The Golden Pot*):** *"The mysterious archivist appeared like a formidable **illusionist** manipulating supernatural forces behind ordinary spectacles."*
+

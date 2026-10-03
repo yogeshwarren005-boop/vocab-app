@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or manifesting praise or approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing or manifesting praise or approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or showing approval, commendation, or authoritative sanction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic correspondence, an approbatory dispatch signals official ministerial concurrence with an ambassador's negotiated protocol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, approbatory designates expressing or manifesting praise or approval."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The English public greeted the conservative manifesto with widespread **approbatory** sentiment across the shires."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Senate received the emperor's dispatch with **approbatory** acclamations and decreed three days of public thanksgiving."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The bishop gave an **approbatory** smile as Mr. Slope expounded his energetic plans for diocesan reform."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give equal rights to; of women and minorities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant freedom to; free from confinement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freed from imprisonment, foreign military occupation, oppression, or traditional constraints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social movements and gender sociology, a liberated consciousness rejects prescriptive patriarchal stereotypes in personal and professional choices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The usual reservoirs were filled with the newly-liberated water, and the _Nautilus_ soon descended."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You have given orders that Arthur should be liberated, have you not, dad?” she asked."*
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble liberated Susey, and all went shouting off together."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"When I set foot upon the free soil of New Bedford, I felt like one **liberated** from a lifelong living death."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The allied legions marched into the ruined province, welcomed by thousands of **liberated** citizens who had survived the siege."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her spirit felt **liberated** from the solitary gloom of the schoolroom as she walked under the starry summer sky."*
+

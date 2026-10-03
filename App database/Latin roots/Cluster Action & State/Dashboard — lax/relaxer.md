@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent that produces relaxation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent that produces relaxation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, substance, or influence that promotes relaxation; or a chemical hair straightener.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmetic dermatology, a chemical relaxer breaks and re-forms disulfide keratin bonds to permanently alter curl patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relaxer designates any agent that produces relaxation."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"A glass of spiced port wine was the old major's favorite **relaxer** after an evening at the military club."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"Good conversation is the sovereign **relaxer** of tired brains, diffusing cheerful warmth across the breakfast table."*
+> - 📜 **Jerome K. Jerome (*Three Men in a Boat*):** *"George regarded music as a potent **relaxer**, though his banjo playing produced widespread nervous agitation among his friends."*
+

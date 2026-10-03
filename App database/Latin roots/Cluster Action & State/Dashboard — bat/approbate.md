@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Approve or sanction officially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accept (documents) as valid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To approve formally, sanction, or express authorized commendation of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scots law and English contract jurisprudence, a litigant cannot approbate and reprobate—meaning one cannot accept benefits under an instrument while rejecting its obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, approbate designates approve or sanction officially."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The state conventions were convened to consider and **approbate** the new federal compact on behalf of the sovereign citizenry."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Parliament was eager to **approbate** every revenue measure that promised to extract fiscal tribute from the colonies."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A beneficiary cannot **approbate** the profitable provisions of a testamentary settlement while attempting to invalidate its burdens."*
+

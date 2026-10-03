@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to support or corroborate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to support or corroborate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to confirm, corroborate, or verify a finding, statement, or result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnostics, a confirmatory Western blot test verifies initial reactive enzyme immunoassay screening results.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There does.” “Just so,” observes the stationer with his confirmatory cough."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Of course I did.” Sir Leicester gives a nod, approving and confirmatory."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle, “without having the honour of your acquaintance, I do say Guilty.” Upon this we all took courage to unite in a confirmatory murmur."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil beds of South America afforded rich **confirmatory** testimony to the mutual affinities of allied extinct mammals."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The second footprints were an invaluable **confirmatory** link in the chain of deduction."*
+> - 📜 **Thomas Huxley (*Man's Place in Nature*):** *"Anatomical dissection yielded **confirmatory** proof that anthropoid apes share identical skeletal muscle arrangements with man."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin firm within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of firm in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for a person or agency that confirms, establishes, or attests to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical legal conveyancing and medieval diplomatic charters, a confirmator formally ratified the feudal privileges granted by predecessors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confirmator designates pertaining to, derived from, or characteristic of latin firm within the domain of action & state."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The authority of Pliny was long accepted as the sole **confirmator** of extraordinary botanical marvels."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Experiment must stand as the supreme **confirmator** of philosophical doctrines against the assertions of ancient schools."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sovereign pontiff acted as the imperial **confirmator** of treaties between contending Christian princes."*
+

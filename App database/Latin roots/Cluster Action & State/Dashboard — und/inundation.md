@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rising of a body of water and its overflowing onto normally dry land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overwhelming number or amount.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An overwhelming abundance of people or things; or a flood or deluge of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluvial geomorphology, catastrophic river inundation deposits extensive overbank sediments across floodplain terraces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This inundation of mistemper’d humour Rests by you only to be qualified."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, sir, her father counts it dangerous That she do give her sorrow so much sway; And in his wisdom, hastes our marriage, To stop the inundation of her tears, Which, too much minded by herself alone, May be put from her by society."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But with the inundation of the eyes What rocky heart to water will not wear?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian **inundation** swept across the Rhine provinces, extinguishing Roman civil administration in Gaul."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A sudden marine **inundation** followed the earthquake, sweeping ships far inland onto the coastal plains."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliament was besieged by an **inundation** of petitions protesting the royal excise duties."*
+

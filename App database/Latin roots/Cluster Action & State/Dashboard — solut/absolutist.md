@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who advocates absolutism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the principle of totalitarianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates for absolute principles or absolute government authority; or relating to absolutism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, an ethical absolutist maintains that certain moral actions are intrinsically right or wrong regardless of consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And Cecil Winwood still lives, while I, of all men concerned, the utterest, absolutist, innocentest, go to the scaffold in a few short weeks."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"The court faction embraced an **absolutist** theory of royal prerogative that threatened parliamentary independence."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The moral **absolutist** refuses to admit that circumstances may legitimately modify the application of general moral rules."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman emperors, though cloaked in republican titles, exercised an essentially **absolutist** authority over the empire."*
+

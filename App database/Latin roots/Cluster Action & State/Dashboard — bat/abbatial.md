@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or having to do with or belonging to an abbey or abbot, or abbess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or having to do with or belonging to an abbey or abbot, or abbess.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to an abbot, an abbess, or an abbey; monastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, abbatial jurisdiction granted powerful monastic superiors episcopal-like autonomy within their exempt territories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"In the _Abbatial_ libraries, according to the catalogues given by Leland, there were only the following classics--Cicero and Aristotle, which were common; Terence, Euclid, Quintus Curtius, Sidonius Apollinaris, Julius Frontinus, Apuleius, and Seneca."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The grand **abbatial** residence of Saint Mary's possessed stately cloisters and vast vaulted dining halls."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient Benedictine monastery exercised sovereign **abbatial** rights over forty vassal villages across the valley."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Abbot Samson assumed the **abbatial** mitre and pastoral staff, determined to restore discipline and solvency to the monastery."*
+

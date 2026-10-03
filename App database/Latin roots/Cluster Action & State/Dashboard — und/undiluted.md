@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not diluted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not diluted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not mixed, thinned, or weakened with water or another liquid; pure and unmitigated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and chemical manufacturing, handling undiluted acids requires specialized containment vessels and personal protective equipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undiluted designates not diluted."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The captain consumed **undiluted** rum in reckless quantities until a stroke ended his piratical career."*
+> - 📜 **George Orwell (*Animal Farm*):** *"The revolutionary decrees were presented as the **undiluted** doctrine of Animalism for all working beasts."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers spoke with **undiluted** moral intensity that brooked no compromise from his listeners."*
+

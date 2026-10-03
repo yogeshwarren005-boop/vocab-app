@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin torp within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of torp in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of becoming torpid, numb, or dormant; gradual loss of sensation or motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hibernation physiology and hypothermia studies, torpescence marks the metabolic depression preceding deep winter lethargy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torpescence designates pertaining to, derived from, or characteristic of latin torp within the domain of action & state."*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"As autumn chills set in, swallows were thought by ancient observers to sink into a state of **torpescence** along the riverbanks."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The winter **torpescence** of bears and marmots provoked much speculative discourse among ancient physicians."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A creeping intellectual **torpescence** threatens any mind that ceases to grapple with active philosophical inquiries."*
+

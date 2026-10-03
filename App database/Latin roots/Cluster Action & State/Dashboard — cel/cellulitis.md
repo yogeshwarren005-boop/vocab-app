@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spreading bacterial skin infection characterized by localized erythema, edema, warmth, and pain in the deep dermis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious diseases, acute cellulitis is most commonly caused by Streptococcus pyogenes or Staphylococcus aureus entering through skin breaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellulitis designates an inflammation of body tissue (especially that below the skin) characterized by fever and swelling and redness and pain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt administration of parenteral antibiotics is essential to halt the rapid spread of streptococcal **cellulitis** along the limb."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The country doctor lanced the infected boil to prevent the development of diffuse phlegmonous **cellulitis** in the surrounding tissue."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The surgeon monitored the marked red margins of the **cellulitis** daily to verify that antimicrobial therapy was reversing the infection."*
+

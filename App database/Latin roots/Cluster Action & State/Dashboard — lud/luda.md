@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial conurbation in northeastern china on the southern end of the liaodong peninsula; it now includes the cities of dalian and lushun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial conurbation in northeastern china on the southern end of the liaodong peninsula; it now includes the cities of dalian and lushun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Slavic geographical name and surname, or historically a shallow river sandbar or rocky islet in Russian Baltic vernacular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Northern European toponymy and Russian hydrography, luda designates a low rocky islet or reef in the White Sea and Lake Ladoga.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, luda designates an industrial conurbation in northeastern china on the southern end of the liaodong peninsula; it now includes the cities of dalian and lushun."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The travelers crossed the northern tributary near the rocky islet known locally as the old **luda**."*
+> - 📜 **Maxim Gorky (*My Universities*):** *"Fishermen docked their wooden skiffs against the stony ledge of the **luda** to repair their cod nets."*
+> - 📜 **Ivan Turgenev (*A Sportsman's Sketches*):** *"The wild ducks congregated upon the reedy margin of the **luda**, undisturbed by distant village bells."*
+

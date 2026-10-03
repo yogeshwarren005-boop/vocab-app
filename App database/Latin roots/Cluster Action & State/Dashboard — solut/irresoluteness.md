@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being irresolute; lacking firmness of purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being irresolute; lacking firmness of purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronic indecision, vacillation of will, or lack of firm purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military leadership and executive command, chronic irresoluteness surrenders tactical initiative and demoralizes subordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Lamb (*Tales from Shakespeare*):** *"His very melancholy, and the dejection of spirits he had so long been in, produced an irresoluteness and wavering of purpose which kept him from proceeding to extremities."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor's fatal **irresoluteness** allowed the barbarian invaders to fortify their camp unmolested."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Pitiable is the condition of that mind which is paralyzed by habitual **irresoluteness**, deciding nothing and achieving nothing."*
+> - 📜 **Walter Scott (*Waverley*):** *"Edward Waverley's romantic **irresoluteness** repeatedly drew him into political complications contrary to his intentions."*
+

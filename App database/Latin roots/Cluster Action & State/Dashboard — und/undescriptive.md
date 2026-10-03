@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not successful in describing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not successful in describing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking vivid, detailed, or informative description; failing to characterize or depict an object or scene clearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographic cataloging and legal drafting, undescriptive titles cause ambiguity by omitting definitive identifying characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undescriptive designates not successful in describing."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A merely **undescriptive** catalog of natural scenery fails to awaken poetic emotion in the sensitive reader."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The official military dispatch was singularly **undescriptive**, hiding the confusion of retreat behind dry bureaucratic phrases."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"A novelist who relies on **undescriptive** prose deprives his characters of an atmospheric world in which to breathe."*
+

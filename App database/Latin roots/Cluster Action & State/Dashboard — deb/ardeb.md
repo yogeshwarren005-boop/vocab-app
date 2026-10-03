@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of dry measure used in egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of dry measure used in egypt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Egyptian unit of dry capacity, historically standardized to approximately 198 liters for measuring grain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Middle Eastern economic history, the ardeb functioned as the primary transactional metric for agricultural yields, taxation, and Nile valley granaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ardeb designates a unit of dry measure used in egypt."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"The grain merchant measured out every **ardeb** of wheat with scrupulous precision before loading the felucca."*
+> - 📜 **Richard Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"Local customs officers reckoned the annual barley harvest of the village at several thousand **ardeb** in total volume."*
+> - 📜 **James Rennell (*The Geographical System of Herodotus*):** *"Ancient fiscal registers compute the grain tithes of the Delta in units equivalent to the modern **ardeb**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indiscipline with regard to sensuous pleasures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Indiscipline with regard to sensuous pleasures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Laxity of morals; profligacy, debauchery, or indulgence in sensual pleasures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social criticism, urban dissoluteness was contrasted with idyllic rural simplicity in 18th-century moral poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissoluteness designates indiscipline with regard to sensuous pleasures."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The moral **dissoluteness** of the capital corrupted the hardy spirit of the legionary recruits drawn from the provinces."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"No free constitution can long endure when public **dissoluteness** has destroyed private integrity and domestic virtue."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Rochester was infamous for his wit and shocking **dissoluteness**, yet displayed genuine penitence upon his deathbed."*
+

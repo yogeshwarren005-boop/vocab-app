@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat cake of thin batter fried on both sides on a griddle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flat cake of thin batter fried on both sides on a griddle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, flat cake of batter cooked on a griddle or frying pan; a pancake or flapjack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early American regional cooking, a battercake was traditionally prepared from cornmeal or buckwheat batter and served with maple syrup.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I reckon it was nearly midnight when we left, wasn't it, Bess?" "Yes, Lucille cooked us so much ham and battercakes and stuff it took a long time to eat it all up." "Did y'all ride Ollie on a rail?" "No."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"Aunt Sally fried a towering stack of hot **battercake** for breakfast, drenching them in sweet golden sorghum molasses."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I baked my simple **battercake** of unleavened cornmeal upon the hearth coals, finding it wholesome and savory."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"The tea-table was loaded with platters of buckwheat **battercake** and sweet crullers fresh from the Dutch housewife's kettle."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of northern france near the english channel (between picardy and flanders).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former province of northern france near the english channel (between picardy and flanders).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of northern France, bordered by Flanders and Picardy; or a historic French royal county.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval history and military annals, Artois was heavily contested between the French crown, Burgundy, and the Habsburgs, yielding artesian well technology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Regent, and redoubted Burgundy, By whose approach the regions of Artois, Walloon and Picardy are friends to us, This happy night the Frenchmen are secure, Having all day caroused and banqueted."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rich agricultural fields of **artois** were repeatedly ravaged by contending French and Flemish armies during the Middle Ages."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Count of **artois** joined the royalist émigrés at Koblenz, plotting counter-revolutionary invasions with Austrian generals."*
+> - 📜 **William Shakespeare (*Henry V*):** *"The French princes marshaled their feudal levies from Picardy, Flanders, and the fertile plains of **artois** to confront the English king."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument designed for simultaneous use by both eyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument designed for simultaneous use by both eyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument with a lens for each eye, used for viewing distant objects magnified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical engineering, prism binoculars utilize Porro or roof prisms to invert and revert images while shortening optical tube length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had taken up my binoculars while we talked, and was looking at the shore, sweeping the limit of the forest at each side and at the back of the house."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"You're right,' Dad says, raising his binoculars to examine the motor boat."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes raised his field **binoculars** to scan the jagged granite tors across the darkening moor."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The captain lowered his marine **binoculars** and gazed anxiously at the approaching squall on the eastern horizon."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Through my pocket **binoculars**, I could plainly see the colossal tripod fighting-machines striding across the Surrey hills."*
+

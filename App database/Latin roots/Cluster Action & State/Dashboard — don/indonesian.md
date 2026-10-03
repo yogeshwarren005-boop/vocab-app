@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of indonesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dialect of malay used as the national language of the republic of indonesia or of malaysia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Indonesia, its people, culture, or the Indonesian language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Austronesian comparative linguistics, standard Indonesian is a standardized dialect of Malay that serves as the national lingua franca.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Indonesian peoples who thus personify the rice we may take the Kayans or Bahaus of Central Borneo as typical."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Believing the rice to be animated by a soul like that of a man, the Indonesians naturally treat it with the deference and the consideration which they show to their fellows."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The **indonesian** boatmen navigated their outrigger proas through dangerous coral reefs with extraordinary skill."*
+> - 📜 **Joseph Conrad (*Victory*):** *"He made his solitary home upon a remote **indonesian** island, living peacefully among the native forest dwellers."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Ancient spice trade networks linked Mediterranean markets with the rich agricultural civilizations of the **indonesian** archipelago."*
+

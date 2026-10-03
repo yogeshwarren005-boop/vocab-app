@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained by convention or morality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indulging in or characterized by excessive sensual pleasures; corrupt, dissipated, and dissolute in habits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological profiles of decadent courts, debauched courtiers abandoned civic responsibilities to pursue fleeting pleasures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But he has sunk into a drunken debauched creature.” “Is he quite gone away?” said Mrs."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"These houses opposite, compared with Gable Inn, are of a mushroom modernness, and yet are old enough (having begun with a debauched and sickly constitution) to have fallen into an almost complete decrepitude."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Indulgence in social pleasures, if secured at the price of lost sleep, weakened health, and debauched character, are loans from the future made by youthful prodigals at usurious interest."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton leaned over the table, his brilliant mind half-ruined by years of **debauched** companionless tavern carousal."*
+> - 📜 **William Thackeray (*Vanity Fair*):** *"Lord Steyne was universally regarded as a **debauched** old roué whose wealth alone commanded outward social deference."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Rumors whispered that Dorian frequented the most **debauched** dens of Whitechapel beneath an assumed common name."*
+

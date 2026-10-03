@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slight swelling of an organ or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slight swelling of an organ or part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal bodily swelling, or bombastic pompousness and inflation in literary style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, localized tumidity indicates vascular congestion or serous effusion in the interstitial connective tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumidity designates slight swelling of an organ or part."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The **tumidity** of Cowley's early elegies was gradually pruned by maturer judgment and classical taste."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The unusual **tumidity** of the abdomen was regarded by ancient physicians as a sign of dropsical effusion."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Gentle palpation revealed persistent **tumidity** along the course of the inflamed lymphatic vessel."*
+

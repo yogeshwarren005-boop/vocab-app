@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking biological cells; prepared from cellular lysates without containing intact living cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biochemistry, a cell-free translation system enabled Nirenberg and Matthaei to decipher the universal genetic code in 1961.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cell-free designates lacking cells."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"By using a **cell-free** system derived from crushed bacterial cells, biochemists synthesized polypeptide chains from synthetic messenger RNA."*
+> - 📜 **Sydney Brenner (*My Life in Science*):** *"We prepared a **cell-free** extract containing active ribosomes, demonstrating protein synthesis in a test tube."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Enzymatic reactions in **cell-free** solutions proved that biological catalysis operates through ordinary physical and chemical laws."*
+

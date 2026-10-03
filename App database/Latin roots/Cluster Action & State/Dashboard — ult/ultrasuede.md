@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic suede cloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic suede cloth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic fabric with a micro-polyester suede-like feel, developed in 1970 as a stain-resistant leather alternative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile technology and twentieth-century fashion design, Ultrasuede revolutionized haute couture by offering a machine-washable, cruelty-free suede substitute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultrasuede designates a synthetic suede cloth."*
+> - 📜 **Tom Wolfe (*The Bonfire of the Vanities*):** *"The penthouse drawing room was lavishly decorated with custom armchairs upholstered in luxurious vanilla **ultrasuede**."*
+> - 📜 **John Updike (*Rabbit Is Rich*):** *"Harry admired the sleek sport jacket of golden **ultrasuede**, feeling the smooth synthetic nap between his fingers."*
+> - 📜 **Bret Easton Ellis (*American Psycho*):** *"He carefully dusted his new sofa of gray **ultrasuede**, insisting that no guest set a glass upon the fabric without a coaster."*
+

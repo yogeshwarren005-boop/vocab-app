@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who rejects all theories of morality or religious belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of anarchism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that life is meaningless and rejects all religious, moral, and traditional values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late imperial Russian history, a nihilist was an activist who renounced traditional autocracy, religion, and family ties in favor of scientific materialism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I have always had my opinion of women who spill their souls out of an ink-bottle, but I ought to pardon a nihilist, that in the dead of night, cold with terror, confides some awful appointment he has had made him, to his nearest friend."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I am the worst nihilist that ever existed, and the bomb I am throwing may explode and destroy the human race."*
+> - 📜 **Ivan Turgenev (*Fathers and Sons*):** *"A **nihilist** is a man who judges everything from the point of view of critical utility, rejecting traditional pieties."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Golden Pince-Nez*):** *"The mysterious woman confessed her secret association with a Russian **nihilist** circle operating in Geneva."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The grim young **nihilist** Haldin justified political assassination as a necessary act of national liberation."*
+

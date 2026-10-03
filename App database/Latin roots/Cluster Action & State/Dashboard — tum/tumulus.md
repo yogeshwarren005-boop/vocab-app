@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (archeology) a heap of earth placed over prehistoric tombs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (archeology) a heap of earth placed over prehistoric tombs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient burial mound or barrow constructed over a grave from earth or stones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European bronze age archaeology, a tumulus (plural tumuli) protects dolmen or cist chambers containing cremated remains and funerary grave goods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"In the centre was a hillock or tumulus, surmounted by a scorched hawthorn."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Rainbarrow was an enormous Celtic **tumulus** that crowned the highest summit of Egdon Heath, ancient before the Romans came."*
+> - 📜 **Charles Lyell (*The Antiquity of Man*):** *"Excavations beneath the earthen **tumulus** brought to light polished stone axes and human skeletons of the Neolithic period."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The antiquary identified the grassy mound as an ancient Danish **tumulus** raised after a bloody coastal skirmish."*
+

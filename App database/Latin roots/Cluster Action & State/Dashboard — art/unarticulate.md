@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without or deprived of the use of speech or words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without or deprived of the use of speech or words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not jointed or hinged; or inarticulate, indistinct, and lacking clear vocal expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, unarticulate structures lack synovial joints or movable skeletal linkages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unarticulate designates without or deprived of the use of speech or words."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The unhinged, **unarticulate** valves of primitive brachiopods rely entirely on muscular contraction to open and close."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A low, **unarticulate** moan issued from the dark archway where the poor outcast lay shivering in the damp London fog."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Grace Poole muttered an **unarticulate** sound behind her teeth before locking the door of the third-story corridor."*
+

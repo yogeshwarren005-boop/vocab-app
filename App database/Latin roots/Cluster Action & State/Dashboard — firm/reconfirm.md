@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirm again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confirm again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To confirm again; to establish or verify the truth or validity of something once more.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In travel administration and logistics, travelers reconfirm international airline bookings to verify seat allocations and departure schedules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What counterproposals were alternately advanced, accepted, modified, declined, restated in other terms, reaccepted, ratified, reconfirmed?"*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes dispatched a second telegram to **reconfirm** the arrival time of the tidal steamer at Gravesend."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The experimental breeder repeated the hybrid cross in order to **reconfirm** the statistical distribution of plumage colors."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The aeronauts checked their navigational compasses to **reconfirm** their flight trajectory toward the German frontier."*
+

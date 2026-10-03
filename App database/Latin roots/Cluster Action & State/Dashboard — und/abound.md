@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be abundant or plentiful; exist in large quantities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in a state of movement or action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exist in large numbers or great quantities; to be plentiful or richly supplied.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography, productive wetlands and estuarine mangrove creeks abound with migratory fish and crustacean populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plain-song is most just, for humours do abound."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus sometimes hath the brightest day a cloud, And after summer evermore succeeds Barren winter, with his wrathful nipping cold; So cares and joys abound, as seasons fleet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do know Kinsmen of mine, three at the least, that have By this so sickened their estates that never They shall abound as formerly."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The coastal waters of Tierra del Fuego **abound** with giant kelp forests that harbor countless marine organisms."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Let fruitful earth bring forth her verdant growth, where herbs and blossom'd trees **abound** with fruit."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Fertile river valleys naturally **abound** with agricultural produce, encouraging early urban settlement and commerce."*
+

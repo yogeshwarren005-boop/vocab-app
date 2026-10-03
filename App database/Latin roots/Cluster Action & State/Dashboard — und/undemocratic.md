@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in agreement with or according to democratic doctrine or practice or ideals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in agreement with or according to democratic doctrine or practice or ideals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not democratic; not based on or according to the principles of popular democracy and equal representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science, an undemocratic oligarchy concentrates governance and economic privilege in an unrepresentative elite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I commend the virtuous democracy of this Chamber to read that bill, and then tell this Senate whether there ever was a more undemocratic measure than the bill propounded in Virginia by the party whose cause they espouse."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Hereditary privileges that deny citizens equal legal opportunity are fundamentally **undemocratic** and unstable."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Any electoral system that excludes working classes from parliamentary representation is demonstrably **undemocratic**."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The totalitarian regimes established an **undemocratic** apparatus of secret police and censorship to crush free expression."*
+

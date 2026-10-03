@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking determination or decisiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking determination or decisiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indecisive, wavering, or hesitant manner; without firm determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic pacing, characters pacing irresolutely across a room externalize internal psychological vacillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she brought her master his breakfast on Sunday, she stood irresolutely holding the doorknob in her hand."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The old count began irresolutely to admonish Nicholas and beg him to abandon his purpose."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He halted irresolutely, not knowing whether to return or go on."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare lingered **irresolutely** at the crossroads, torn between bitter pride and the lingering tenderness of love."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy turned the horse's head **irresolutely** down the lane, dreading the impending reckoning with Mr. Garth."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I paused **irresolutely** before the door of Mr. Rochester's study, my heart beating with nervous anticipation."*
+

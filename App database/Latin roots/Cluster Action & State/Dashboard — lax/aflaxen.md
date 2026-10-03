@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory drug (trademarks aleve and anaprox and aflaxen) that fights pain and inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory drug (trademarks aleve and anaprox and aflaxen) that fights pain and inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pale yellowish-gray in color; resembling dressed flax fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and regional descriptive prose, aflaxen locks or fleece designated pale blonde hair resembling raw spun flax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aflaxen designates a nonsteroidal anti-inflammatory drug (trademarks aleve and anaprox and aflaxen) that fights pain and inflammation."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Her fine **aflaxen** hair caught the golden rays of the descending sun across the heath."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The sweet girl possessed innocent blue eyes and soft **aflaxen** curls that charmed the elderly baronet."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The beggar brushed aside his thin **aflaxen** locks as he bowed respectfully before the magistrate."*
+

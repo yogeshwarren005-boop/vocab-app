@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to nihilism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to nihilism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejecting all religious and moral principles; believing that life is meaningless and devoid of value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and literary critique, nihilistic tendencies manifest as bitter cynicism toward social reform and moral ideals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nihilistic designates of or relating to nihilism."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"Ivan Karamazov formulated his dangerous **nihilistic** proposition that if there is no God and no immortality, everything is permitted."*
+> - 📜 **Henry James (*The Princess Casamassima*):** *"Hyacinth Robinson found himself drawn into a subterranean world of **nihilistic** conspirators dreaming of social revolution."*
+> - 📜 **Friedrich Nietzsche (*Beyond Good and Evil*):** *"The spread of **nihilistic** exhaustion across Europe warned of an impending moral crisis in modern civilization."*
+

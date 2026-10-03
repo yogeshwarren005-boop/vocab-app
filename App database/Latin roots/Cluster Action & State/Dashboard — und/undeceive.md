@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from deception or illusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from deception or illusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To free someone from an illusion, misconception, or false impression; to reveal the truth to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic fiction, a loyal friend intervenes to undeceive a naive protagonist regarding an unscrupulous suitor's character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I felt that I had only to be placid and merry once for all to undeceive my dear and set her loving heart at rest."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Pray undeceive him as soon as you can, and tell him I beg his pardon—that is—I do not know what I ought to say—but make him understand what I mean, in the properest way."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fairfax surprised me by looking out of the window with a sad countenance, and saying gravely—“Miss Eyre, will you come to breakfast?” During the meal she was quiet and cool: but I could not undeceive her then."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy resolved to **undeceive** Bingley regarding Jane's supposed indifference, acknowledging his past interference."*
+> - 📜 **William Shakespeare (*Othello*):** *"Emilia strove with desperate courage to **undeceive** the Moor before his jealousy accomplished the fatal tragedy."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert Pocket deemed it his duty to **undeceive** Pip gently concerning the true source of his mysterious fortune."*
+

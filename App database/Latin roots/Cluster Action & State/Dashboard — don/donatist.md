@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of donatism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to donatism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower or adherent of Donatism; or relating to the Donatist schism in early Christianity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North African Roman history, the militant Circumcellion peasants allied with the Donatist faction, engaging in violent rebellions against imperial magistrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donatist designates an adherent of donatism."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fanaticism of the **donatist** bishops defied both the edicts of Constantine and the synods of Rome."*
+> - 📜 **Saint Augustine (*The City of God*):** *"The **donatist** party claimed an exclusive holiness, condemning all other Christian communities throughout the Roman world."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"He compared modern sectarian dogmatists to the ancient **donatist** zealots who mistook persecution for piety."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unmarried status.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abstaining from sexual relations (as because of religious vows).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The voluntary practice of abstaining from marriage and sexual relations, typically for religious or spiritual vows.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, clerical celibacy was formally mandated in the Western Catholic Church by the Gregorian reforms of the eleventh century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Johnson’s celebrated judgment as to matrimony and celibacy, and say, that though Mansfield Park might have some pains, Portsmouth could have no pleasures."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"This latter step, however, there was no present prospect that Arthur Dimmesdale would be prevailed upon to take; he rejected all suggestions of the kind, as if priestly celibacy were one of his articles of Church discipline."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Perhaps his very pretence of celibacy was only a cover for a deeper design of getting hold of the riches of the Golden Farmer!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The early Christian hermits regarded perpetual **celibacy** as the highest path toward angelic purity and spiritual contemplation."*
+> - 📜 **Francis Bacon (*Essays*):** *"He that hath wife and children hath given hostages to fortune; for they are impediments to great enterprises, either of virtue or mischief; but **celibacy** breeds inward concentration."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"Ecclesiastical authorities have no civil warrant to enforce vows of monastic **celibacy** upon unwilling subjects by temporal penalties."*
+

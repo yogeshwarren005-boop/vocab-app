@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the bones from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having had the bones removed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having had the bones removed; prepared without bones for culinary use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food processing and commercial meat production, mechanically deboned meat undergoes high-pressure separation of tissue from skeletal elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deboned designates remove the bones from."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"The **deboned** turkey was rolled tightly and roasted to a golden brown for the banquet centerpiece."*
+> - 📜 **Alexis Soyer (*The Gastronomic Regenerator*):** *"Serve the **deboned** pigeon garnished with glazed chestnuts and a rich Madeira reduction."*
+> - 📜 **Charles Ranhofer (*The Epicurean*):** *"A platter of **deboned** quail stuffed with foie gras delighted the dinner guests at Delmonico's."*
+

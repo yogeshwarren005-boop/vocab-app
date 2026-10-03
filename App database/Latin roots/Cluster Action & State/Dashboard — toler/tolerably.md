@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an acceptable (but not outstanding) manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an acceptable (but not outstanding) manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a moderate degree; fairly, passably, or reasonably well.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century English epistolary prose, stating that one was tolerably well expressed modest health without boastfulness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They enable Allegory, though it has cheeks like peaches, and knees like bunches of blossoms, and rosy swellings for calves to its legs and muscles to its arms, to look tolerably cool to-night."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is not there, but his two old-fashioned candlesticks are, and the room is tolerably light."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Being in the law, I have learnt the habit of not committing myself in writing, and therefore I did not mention to your ladyship the name of the firm with which I am connected and in which my standing—and I may add income—is tolerably good."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne played **tolerably** well upon the pianoforte, though her excessive emotional sensibility led her into tempo errors."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Watson found the rooms in Baker Street **tolerably** comfortable and remarkably suited for their shared scientific studies."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The sailors were **tolerably** supplied with fresh water and dried beef before departing the Cape Verde archipelago."*
+

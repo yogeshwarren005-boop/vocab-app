@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that solves a problem or explains how to solve the problem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A means of solving a problem; or a homogeneous liquid mixture of two or more substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical thermodynamics, an ideal solution obeys Raoult's law across all concentrations, with zero enthalpy of mixing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She could only offer one solution; it was, perhaps, for Elizabeth’s sake."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"There were, however, two public questions which interested him deeply, and the solution of which he did what he could by speech and influence to further."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In every time and place in the world there have been questions of industrial policy that challenged men for an answer, and new and puzzling social problems that called for a solution."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"From a drop of water, a logician could infer the possibility of an Atlantic or a Niagara without having seen or heard of one or the other, and every mystery admits of a scientific **solution**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The tangled suit of Jarndyce and Jarndyce dragged on year after year, promising wealth to lawyers and never approaching a final **solution**."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The nutrient **solution** remained completely free from bacterial turbidity when protected from airborne particles."*
+

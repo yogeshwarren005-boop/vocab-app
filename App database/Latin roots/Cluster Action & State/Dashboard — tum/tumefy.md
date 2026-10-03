@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become very swollen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expand abnormally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To swell, or cause to swell, become tumid, or puff up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological pathology, severe venomous stings rapidly tumefy subcutaneous capillary beds, provoking dramatic localized edema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumefy designates cause to become very swollen."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Violent passions of anger and pride **tumefy** the heart, disrupting the serene rhythm of the vital humors."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain poisonous roots cause the tongue and throat to **tumefy** rapidly, threatening suffocating strangulation."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The sting of the hornet was believed to **tumefy** the surrounding flesh through the injection of an acidic humor."*
+

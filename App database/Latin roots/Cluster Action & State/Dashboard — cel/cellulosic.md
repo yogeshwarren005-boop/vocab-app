@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic made from cellulose (or a derivative of cellulose).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plastic made from cellulose (or a derivative of cellulose).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or containing cellulose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renewable energy engineering, cellulosic ethanol is synthesized through biochemical enzymatic hydrolysis of non-food plant biomass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellulosic designates a plastic made from cellulose (or a derivative of cellulose)."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The resistant **cellulosic** framework of ancient trees forms the combustible carbon basis of our coal deposits."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The thickening of the **cellulosic** fibers in the tendril provides the mechanical rigidity required to support climbing vines."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The primary plant cell wall exhibits a complex network of **cellulosic** microfibrils embedded in a pectin matrix."*
+

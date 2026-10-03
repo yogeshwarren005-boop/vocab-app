@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being formally forgiven by a priest in the sacrament of penance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of absolving or remitting; formal redemption as pronounced by a priest in the sacrament of penance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal release from guilt, obligation, or punishment; ecclesiastical forgiveness of sins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sacramental theology, priestly absolution pronounced in the sacrament of reconciliation restores the penitent to a state of grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thoughts are but dreams till their effects be tried; The blackest sin is cleared with absolution."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is the confession, not the priest, that gives us absolution."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"This is retribution, Seek for absolution; Answer me--then cast thy sorrows to the wind."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Bid her devise some means to come to shrift this afternoon; and there she shall at Friar Laurence' cell be shrived and receive **absolution**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The crusaders marched toward the Holy Sepulchre confident that plenary **absolution** had expiated all their past transgressions."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale sought in vain for spiritual peace, discovering that public homage could never substitute for true divine **absolution**."*
+

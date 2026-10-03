@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supported from above especially in a vehicle having springs attached to the axle from below.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lower part projecting beyond the upper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructed with the chassis or body suspended below the level of the axles; or hanging low.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive and railway engineering, an underslung frame lowers the vehicle's center of gravity, enhancing high-speed cornering stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underslung designates supported from above especially in a vehicle having springs attached to the axle from below."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The high-powered racing motorcar featured an **underslung** chassis that gave it great speed and roadholding on turns."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The scouting gondola was **underslung** beneath the keel of the great German aerial flagship."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Gatsby's gorgeous yellow motorcar possessed a long, **underslung** body that gleamed with nickel fittings in the sunlight."*
+

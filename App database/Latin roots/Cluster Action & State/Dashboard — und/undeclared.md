@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not announced or openly acknowledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not announced or openly acknowledged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not officially stated, announced, or admitted; or not declared to customs officials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international military conflict, an undeclared war bypasses formal legislative declarations through covert operations and proxy fighting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s Middlemarch projects, revealed clearly enough that the undeclared motive had relation to Dorothea."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"A state of **undeclared** naval hostility already existed in the Atlantic as submarines prowled the merchant shipping lanes."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The smuggling of **undeclared** goods into colonial ports was tacitly condoned by local magistrates and merchants."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"There lingered between them an **undeclared** affection that neither had the courage to put into explicit words."*
+

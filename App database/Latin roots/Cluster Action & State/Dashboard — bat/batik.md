@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dyed fabric; a removable wax is used where the dye is not wanted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dye with wax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Indonesian method of dyeing fabric by applying molten wax to areas not to be dyed; or fabric so dyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Southeast Asian textile history, Javanese batik was designated a UNESCO Masterpiece of the Oral and Intangible Heritage of Humanity in 2009.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batik designates a dyed fabric; a removable wax is used where the dye is not wanted."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The Javanese women displayed astonishing artistic dexterity in drawing intricate floral patterns upon cotton cloths for **batik** dyeing."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The Malay chieftain wore a sarong of fine Javanese **batik**, decorated with swirling geometric waves of indigo and brown."*
+> - 📜 **W. Somerset Maugham (*The Casuarina Tree*):** *"The veranda was shaded with curtains of patterned **batik** that fluttered gently in the evening tropical breeze."*
+

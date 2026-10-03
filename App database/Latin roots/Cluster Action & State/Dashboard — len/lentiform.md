@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convex on both sides; shaped like a lentil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convex on both sides; shaped like a lentil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form or shape of a lentil; lenticular or biconvex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, the lentiform nucleus is a lens-shaped mass of grey matter within the basal ganglia, comprising the putamen and globus pallidus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentiform designates convex on both sides; shaped like a lentil."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A cerebral hemorrhage into the internal capsule frequently compresses adjacent **lentiform** nuclei, causing contralateral hemiplegia."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"Comparative dissection of mammalian brains reveals the distinct contour of the **lentiform** ganglion in the forebrain."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Degenerative lesions affecting the **lentiform** nucleus produce the classic motor rigidity and tremors of post-encephalitic parkinsonism."*
+

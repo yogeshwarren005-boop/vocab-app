@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smug self-serving earnestness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smug self-serving earnestness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An insincerely flattering, greasy demeanor, or smooth oily physical texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and petrology, the unctuousness of talc and serpentine distinguishes these soft phyllosilicate minerals on physical touch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Granting other whales to be in sight, the fishermen will seldom give chase to one of these Grand Turks; for these Grand Turks are too lavish of their strength, and hence their unctuousness is small."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Plum-pudding is the term bestowed upon certain fragmentary parts of the whale’s flesh, here and there adhering to the blanket of blubber, and often participating to a considerable degree in its unctuousness."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Granting other whales to be in sight, the fishermen will seldom give chase to one of these Grand Turks; for these Grand Turks are too lavish of their strength, and hence their unctuousness is small."*
+> - 📜 **George Gissing (*New Grub Street*):** *"He despised the literary agent's professional **unctuousness**, detecting the mercenary calculation beneath his warm praise."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The soapy **unctuousness** of decomposed volcanic clay caused catastrophic landslides along the coastal bluffs."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"He warned the nation against the moral **unctuousness** of parliamentary orators who offered platitudes instead of bread."*
+

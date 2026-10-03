@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is celebrating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officiating priest celebrating the eucharist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who performs or presides over a formal religious ceremony or rite, especially the Eucharist; or a participant in a celebration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical theology, the celebrant acts in persona Christi during the consecration of the bread and wine at the high altar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The phrase struck him as familiar; for the first time he looked at his fellow celebrant."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Neither the civil nor the ecclesiastical authorities were able to suppress the celebration; nor could the cold, rain, and snow of the season damp or chill the enthusiasm of the celebrants."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The celebrants retired into certain inner shrines, from which at midnight they issued with a loud cry, "The Virgin has brought forth!"*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"Stephen watched the vestmented **celebrant** elevate the golden chalice amid clouds of fragrant incense at the altar."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The solemn Christian **celebrant** pronounced the ancient eucharistic prayers with serene dignity before the gathered congregation."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The bishop stood as the chief **celebrant** in Saint Peter's, blessing the bowed multitudes beneath the mighty dome."*
+

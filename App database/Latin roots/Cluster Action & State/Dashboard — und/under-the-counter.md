@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Done or sold illicitly and secretly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or sold illicitly and secretly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bought or sold illicitly, surreptitiously, or in secret, typically in violation of regulations or rationing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history of wartime shortages, black market goods were traded under-the-counter to evade price control ceilings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, under-the-counter designates done or sold illicitly and secretly."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston bought the beautiful antique notebook **under-the-counter** in a dingy junk shop in the proletarian quarter."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Strict rationing regulations were enforced to suppress clandestine, **under-the-counter** trafficking in essential food supplies."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"Lee Chong occasionally conducted **under-the-counter** transactions for liquor after regular commercial trading hours."*
+

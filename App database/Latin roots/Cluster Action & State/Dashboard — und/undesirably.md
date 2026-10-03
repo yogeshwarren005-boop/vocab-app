@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an undesirable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an undesirable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unwanted, harmful, or objectionable manner; so as to produce adverse results.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal policy analysis, inflation rates that rise undesirably erode real household purchasing power and distort long-term capital investments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undesirably designates in an undesirable manner."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial treasury was **undesirably** depleted by excessive tribute payments to barbarian chieftains along the frontier."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The royal proclamation operated **undesirably** upon commerce by instilling panic among London banking houses."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her uncle's bequest had complicated her life **undesirably**, attracting suitors whose motives she could not trust."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not desired.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not desired.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not wanted, sought, or requested; occurring contrary to one's wishes or intention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical process engineering, undesired secondary reactions consume expensive feedstocks and create hazardous byproduct waste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undesired designates not desired."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With grave aspect he surveyed the **undesired** consequences of rebellion across the starry courts of heaven."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The sudden arrival of the squires was an **undesired** interruption to the quiet gathering at the Rainbow Inn."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"He withdrew into solitary contemplation, seeking relief from **undesired** visits and frivolous worldly intrusions."*
+

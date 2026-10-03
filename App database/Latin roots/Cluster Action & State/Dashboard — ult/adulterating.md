@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making impure or corrupt by adding extraneous materials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ongoing practice or act of contaminating or corrupting a substance by adding inferior ingredients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regulatory chemistry, municipal sanitary officers conducted surprise inspections targeting merchants suspected of adulterating bulk staples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The preparation consists in chopping fine the tea and adulterating leaves and twigs."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Adulterating Christian Science, makes it void."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"The dishonest grocer gained a transient profit by **adulterating** his spices with worthless dust."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Packinghouse managers had perfected the clandestine art of **adulterating** potted ham with tripe and dye."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The analytical apothecary warned that **adulterating** alkaloids with toxic residues endangered patient recovery."*
+

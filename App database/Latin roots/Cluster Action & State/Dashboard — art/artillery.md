@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large but transportable armament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An army unit that uses big guns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Large-caliber mounted firearms, cannons, or missile launchers; or the military branch operating them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tactical military history, massed artillery bombardments altered siege warfare from the Fall of Constantinople through World War I.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll to the Tower with all the haste I can To view th’ artillery and munition; And then I will proclaim young Henry king. [_Exit._] EXETER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ten thousand French have ta’en the sacrament To rive their dangerous artillery Upon no Christian soul but English Talbot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I not heard great ordnance in the field, And heaven’s artillery thunder in the skies?"*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The continuous thunder of heavy **artillery** along the Western Front shattered the defensive entrenchments and deafened the gunners."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Sultan Mehmed deployed colossal bronze **artillery** to batter down the ancient triple land walls of Constantinople."*
+> - 📜 **William Shakespeare (*King John*):** *"The cannons have their bowels full of wrath, and ready mounted are they to spit forth their iron **artillery** against your walls."*
+

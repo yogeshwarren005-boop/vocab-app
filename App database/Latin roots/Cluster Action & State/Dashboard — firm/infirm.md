@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking bodily or muscular strength or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking firmness of will or character or purpose;  - shakespeare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not physically or mentally strong, especially through age or illness; frail and feeble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and probate proceedings, an infirm testator's testamentary capacity is scrutinized to ensure decisions were free from undue influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best and soundest of his time hath been but rash; then must we look from his age to receive not alone the imperfections of long-engrafted condition, but therewithal the unruly waywardness that infirm and choleric years bring with them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here I stand your slave, A poor, infirm, weak, and despis’d old man: But yet I call you servile ministers, That will with two pernicious daughters join Your high-engender’d battles ’gainst a head So old and white as this!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He fell down, this morning, a handsome stately gentleman, somewhat infirm, but of a fine presence, and with a well-filled face."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I am a very foolish fond old man, fourscore and upward, not an hour more or less; and, to deal plainly, I fear I am not in my perfect mind: methinks I should know you, and know this man; yet I am doubtful: for I am mainly ignorant what place this is; and all the skill I have remembers not these garments; nor I know not where I did lodge last night. Do not laugh at me; for, as I am a man, I think this lady to be my child Cordelia. And so I am, I am. Be your tears wet? Yes, 'faith. I pray, weep not: if you have poison for me, I will drink it. I know you do not love me; for your sisters have, as I do remember, done me wrong: you have some cause, they have not. No cause, no cause. Am I in France? In your own kingdom, sir. Do not abuse me. Be comforted, good madam: the great rage, you see, is kill'd in him: and yet it is danger to make him even o'er the time he has lost. Desire him to go in; trouble him no more till further settling. Will't please your highness walk? You must bear with me: pray you now, forget and forgive: I am old and **infirm**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The ancient clerk was too **infirm** to copy records with his former speed, his hands trembling over the vellum."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Though blind and **infirm**, Samson retained a dormant divine might that would shake the Philistine temple to its foundations."*
+

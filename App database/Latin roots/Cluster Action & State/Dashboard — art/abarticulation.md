@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislocation of a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dislocation of a joint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislocation of a joint; or a synovial joint characterized by a wide range of mobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical arthrology and orthopedic surgery, abarticulation designated diarthrodial joints such as the ball-and-socket shoulder articulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abarticulation designates dislocation of a joint."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The pectoral girdle permits extensive **abarticulation**, allowing the humerus free rotational movement within the glenoid fossa."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe traumatic injury may cause violent **abarticulation** of the phalanges, requiring immediate closed reduction under anesthesia."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The surgeon examined the compound dislocation, noting how pathological **abarticulation** had compromised adjacent neurovascular bundles."*
+

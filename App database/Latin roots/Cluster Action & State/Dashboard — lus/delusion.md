@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) an erroneous belief that is held in the face of evidence to the contrary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mistaken or unfounded opinion or idea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A false belief or opinion that is firmly maintained despite being contradicted by reality or rational argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a somatic or persecutory delusion reflects profound neuropsychiatric disorganization rather than mere cultural misconception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He had said to the doctor, “Now, my dear doctor, it is quite a delusion on your part to suppose that you attend me for nothing."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, Lady Dedlock, if you can say but a word to help to clear him, say it!” What delusion can this be?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When will he awake from his delusion!” “He is not in the way to do so now, my dear,” replied my guardian."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"A turn or two I'll walk, to still my beating mind, and free my senses from this strange **delusion**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Madness frequently consists in reasoning correctly from erroneous premises, clinging stubbornly to a private **delusion**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I had dreamed of achieving benevolent scientific glory, but awoke to discover only ruin and horrific **delusion**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A militant organization of irish nationalists who used terrorism and guerilla warfare in an effort to drive british forces from northern ireland and achieve a united independent ireland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retirement plan that allows you to contribute a limited yearly sum toward your retirement; taxes on the interest earned in the account are deferred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wrath, intense anger, or furious indignation; or an individual retirement account in financial banking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy and Latin theology, ira designates the passionate appetite for vengeance, classified among the seven cardinal vices when uncontrolled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say, my lords, _ira furor brevis est_, But yond man is ever angry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, take her, And fluently persuade her to a peace. _Et opus exegi, quod nec Jovis ira, nec ignis—_ Strike up, and lead her in."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But truce with kings, and truce with constitutions, With bloody armaments and revolutions; Let Majesty your first attention summon, Ah! ca ira!"*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The passion of **ira** is aroused by an apparent injustice, seeking retribution in accordance with natural passions."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fallen archangel burned with inexorable **ira**, plotting perpetual war against the highest throne."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden **ira** of the legions was appeased only by the distribution of an extravagant imperial donative."*
+

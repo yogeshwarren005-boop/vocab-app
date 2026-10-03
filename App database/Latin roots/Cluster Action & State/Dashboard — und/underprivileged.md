@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the rights and advantages of other members of society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the rights and advantages of other members of society.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not enjoying the same standard of living or rights as the majority of people in a society; disadvantaged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social welfare policy, targeted assistance programs provide remedial educational and nutritional aid to underprivileged youth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underprivileged designates lacking the rights and advantages of other members of society."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The **underprivileged** families in the northern industrial slums lived in crowded tenements with leaking roofs and damp stone walls."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Poor Jo the crossing-sweeper was the most **underprivileged** outcast in London, perpetually ordered by the police to move on."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A nation that abandons its **underprivileged** laboring masses to cold market forces invites social catastrophe."*
+

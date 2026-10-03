@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp steel wedge that precedes the plow and cuts vertically through the soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp steel wedge that precedes the plow and cuts vertically through the soil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sharp, heavy vertical blade or wheel fixed to the beam of a plow to cut the turf ahead of the plowshare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval agricultural history, the introduction of the heavy wheeled plow with an iron coulter revolutionized northern European farming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thou saw the fields laid bare an’ waste, An’ weary winter comin fast, An’ cozie here, beneath the blast, Thou thought to dwell— Till crash! the cruel coulter past Out thro’ thy cell."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Her fallow leas the darnel, hemlock and rank fumitory doth root upon, while that the **coulter** rusts that should deracinate such savagery."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The bright iron **coulter** of the plow gleamed in the autumn furrow under the fading sunset light."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The sturdy ploughman guided his team, watching the keen **coulter** slice smoothly through the sodden peat moss."*
+

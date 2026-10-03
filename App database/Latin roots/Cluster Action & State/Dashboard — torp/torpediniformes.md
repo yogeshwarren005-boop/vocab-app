@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rays with bodies shaped like torpedoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rays with bodies shaped like torpedoes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of cartilaginous fishes consisting of electric rays, characterized by electrogenic organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine phylogenetic systematics, Torpediniformes encompasses four distinct extant families possessing flattened disc-like pectoral morphologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, torpediniformes designates rays with bodies shaped like torpedoes."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The anatomical affinities of the order **torpediniformes** illustrate profound adaptations for benthic camouflage and electrical defense."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Members of the order **torpediniformes** inhabit warm coastal waters, immobilizing bottom fauna by bioelectric shocks."*
+> - 📜 **Thomas Huxley (*Lectures on the Elements of Comparative Anatomy*):** *"The cranial nerve distribution in the **torpediniformes** exhibits extraordinary hypertrophy to supply their electric discs."*
+

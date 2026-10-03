@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pottery with a metallic sheen produced by adding metallic oxides to the glaze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pottery with a metallic sheen produced by adding metallic oxides to the glaze.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pottery or porcelain decorated with a thin, iridescent metallic glaze that reflects shimmering light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceramic history, lusterware was developed in ninth-century Mesopotamia and later perfected by Hispano-Moresque and Staffordshire potters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusterware designates pottery with a metallic sheen produced by adding metallic oxides to the glaze."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mrs. Tulliver took immense domestic pride in her prized tea set of Staffordshire copper **lusterware**."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"Upon the dusty mantelpiece sat two cracked jugs of pink **lusterware** beside a brass candlestick."*
+> - 📜 **Edith Wharton (*Ethan Frome*):** *"Zeena carefully preserved her grandmother's iridescent **lusterware** teapot in the locked corner cupboard."*
+

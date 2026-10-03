@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is celebrating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is celebrating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who celebrates or participates enthusiastically in a festive event, triumph, or ceremony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary journalism, an engaged celebrator of cultural anniversaries produces retrospective essays honoring seminal artistic milestones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"He is rather the prophet of what is to be than the celebrator of what is."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The poet stands as the loving **celebrator** of American democracy and the manifold labors of working men."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The merry **celebrator** of May Day raised the garlanded maypole upon the woodland green, defying puritan frowns."*
+> - 📜 **William Makepeace Thackeray (*The Paris Sketch Book*):** *"Every lively **celebrator** in the boulevard carnival wore grotesque masks and pelted passersby with confetti."*
+

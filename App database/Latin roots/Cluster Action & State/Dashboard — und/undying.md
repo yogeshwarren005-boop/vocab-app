@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Never dying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Never dying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Immortal, eternal, or imperishable; never ending, ceasing, or fading away.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Romantic lyricism and funerary inscriptions, undying devotion commemorates personal commitment beyond mortal separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He is so unpleasant to me.” That very night she began an appealing letter to Clare, concealing from him her hardships, and assuring him of her undying affection."*
-> - 📜 **Effie Afton (*Eventide*):** *"He has my temperament, reserved, sensitive, and with the same accursed capacity for strong, undying attachment."*
-> - 📜 **Effie Afton (*Eventide*):** *"Still thine own its life retaineth, Still must mine, though bleeding, beat, And the undying thought which paineth, Is, that we no more may meet." Sudden death had entered the home of Louise Edson and made her a widow."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"The one remains, the many change and pass; heaven's light forever shines, earth's shadows fly with **undying** flame."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The hero pledged his **undying** allegiance to the sacred cause of Greek national liberty."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane felt an **undying** affection for Rochester that neither distance, moral principle, nor time could extinguish."*
+

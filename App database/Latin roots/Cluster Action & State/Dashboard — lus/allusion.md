@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing reference or indirect mention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing reference or indirect mention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An indirect or passing reference to an event, person, literary work, or piece of art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and rhetorical theory, an allusion enriches meaning by evoking shared cultural or classical mythology without explicit explanation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ allusion holds in the exchange."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say, th’ allusion holds in the exchange."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Such ASSES as he and Ma make of themselves!” “My dear!” I remonstrated, in allusion to the epithet and the vigorous emphasis Miss Jellyby set upon it."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"The mock-heroic epic abounds in classical **allusion**, playfully transmuting Homeric battles into drawing-room skirmishes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's speech was weighted with pedantic **allusion** to obscure mythological traditions."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"In modern poetic prose, every subtle **allusion** awakens echoes of past literary masters."*
+

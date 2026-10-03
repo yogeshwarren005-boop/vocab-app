@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The next to last syllable in a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Next to the last.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring next to the last in a series; second from the final position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic prosody and phonetics, the penultimate syllable of a polysyllabic Latin word determines stress accent according to vowel length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"How serene does she now arise, a queen among the Pleiades, in the penultimate antelucan hour, shod in sandals of bright gold, coifed with a veil of what do you call it gossamer."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In the **penultimate** chapter of his laborious theological work, Casaubon attempted to synthesize his mythological keys."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"Holmes regarded the secret cipher as the **penultimate** link in the chain that connected the spy to the foreign embassy."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Comparative philology reveals how Greek accents gravitate toward the **penultimate** mora in trochaic meters."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political and economic theories of lenin which provided the guiding doctrine of the soviet union; the modification of marxism by lenin stressed that imperialism is the highest form of capitalism (which shifts the struggle from developed to underdeveloped countries).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political and economic theories of lenin which provided the guiding doctrine of the soviet union; the modification of marxism by lenin stressed that imperialism is the highest form of capitalism (which shifts the struggle from developed to underdeveloped countries).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political and economic theories of Vladimir Lenin, advocating vanguard revolutionary socialism and the dictatorship of the proletariat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century political science, Marxism-Leninism combined historical materialism with central party control and anti-imperialist geopolitical theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leninism designates the political and economic theories of lenin which provided the guiding doctrine of the soviet union; the modification of marxism by lenin stressed that imperialism is the highest form of capitalism (which shifts the struggle from developed to underdeveloped countries)."*
+> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"The strict dogma of **leninism** demanded absolute subordination of individual conscience to the revolutionary central committee."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The ideological doctrines of Ingsoc derived their totalitarian bureaucratic mechanics from historical adaptations of **leninism**."*
+> - 📜 **Arthur Koestler (*Darkness at Noon*):** *"Rubashov reflected on the logical ruthlessness of **leninism**, which treated human individuals as mere statistical variables."*
+

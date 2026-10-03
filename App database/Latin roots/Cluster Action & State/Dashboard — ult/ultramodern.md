@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely modern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely modern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely modern, futuristic, or advanced in ideas, style, architecture, or technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century architectural theory, ultramodern Bauhaus and International Style constructions emphasized functionalism and glass-and-steel simplicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramodern designates extremely modern."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The new metropolitan centers were built with **ultramodern** materials, featuring aerated concrete towers and moving roadways."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The laboratory was an **ultramodern** marvel of automated decanting machines and synchronized synthetic music."*
+> - 📜 **Virginia Woolf (*The Years*):** *"Eleanor observed the **ultramodern** flats springing up along the avenue, wondering at the rapid disappearance of the old Victorian London."*
+

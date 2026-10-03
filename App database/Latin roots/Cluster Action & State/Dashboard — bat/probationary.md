@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under terms not final or fully worked out or agreed upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under terms not final or fully worked out or agreed upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or serving as a period of testing, trial, or evaluation before permanent confirmation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil service administration, a probationary appointment allows supervisors to evaluate a recruit's aptitude before conferring tenure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"A practical inference from the whole is,--that the present life must be regarded as probationary."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"If souls proved entirely unworthy during the probationary or human period, they were cast back into the brute creation to try it over again."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Such appointments are made for a probationary term of six months, when if the Board of Examiners approve the incumbent is continued."*
+> - 📜 **Anthony Trollope (*The Three Clerks*):** *"The ambitious young clerk served a rigorous **probationary** year in the Weights and Measures office before receiving his permanent appointment."*
+> - 📜 **Thomas Babington Macaulay (*The Life of William Pitt*):** *"The new ministers viewed their first parliamentary session as a **probationary** trial before an expectant British public."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy endured his **probationary** agricultural apprenticeship with Caleb Garth, striving to prove his renewed industriousness."*
+

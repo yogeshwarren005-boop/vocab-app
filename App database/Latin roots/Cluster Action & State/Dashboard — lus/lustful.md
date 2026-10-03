@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by lust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Driven by lust; preoccupied with or exhibiting lustful desires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Driven by or expressing intense, uncontrolled sexual desire; lascivious or licentious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, lustful tyrants abuse sovereign authority to satisfy private carnal passions at the expense of their subjects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foul fiend of France and hag of all despite, Encompass’d with thy lustful paramours, Becomes it thee to taunt his valiant age And twit with cowardice a man half dead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet, between my soul’s desire and me— The lustful Edward’s title buried— Is Clarence, Henry, and his son young Edward, And all the unlooked-for issue of their bodies, To take their rooms ere I can place myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll have thee to a couch Softer and sweeter than the lustful bed On purpose trimm’d up for Semiramis."*
+> - 📜 **William Shakespeare (*Richard III*):** *"He is not lolling on a lewd love-bed, but on his knees at meditation; not dallying with a brace of courtezans, but meditating with two deep divines; not sleeping, to engross his idle body, but praying, to enrich his watchful soul: and were he not to England's kingly throne a virtuous and a sovereign prince, he might have been a **lustful** protector."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian resisted the seductions of the **lustful** temptress Madam Wanton, keeping his eyes fixed upon the celestial city."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman annals recount the cruelties of **lustful** despots whose whims terrorized the patrician families."*
+

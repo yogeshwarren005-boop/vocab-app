@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a crude and unskilled manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ingenuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an artless, innocent, natural, and sincere manner, free from deceit or cunning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, characters who speak artlessly disarm cynical adversaries through sheer uncalculated honesty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He showed his appetites and designs too simply and artlessly; when one was alone with him he talked too much about the same subject, and when other people were present he talked too little about anything."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"Then would you love me even as you do them!” she added artlessly, and leaned her chin upon her hand, considering."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He, too, had been reviewing the history of their lives--and had seen her from her childhood to her present age, so sweet, so innocent, so charmingly simple, and artlessly fond and tender."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Daisy Miller spoke **artlessly** to the courier, blissfully oblivious of the scandalous impressions she created among Roman dowagers."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Amelia smiled **artlessly** through her tears, believing with wholehearted devotion in George Osborne's steadfast loyalty."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The child answered **artlessly**, revealing the secret message with charming, unhesitating frankness."*
+

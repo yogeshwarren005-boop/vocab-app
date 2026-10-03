@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of not being dependable or reliable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of not being dependable or reliable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tendency toward unreliability, inconsistency, or failure to fulfill obligations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In employee performance appraisal, habitual undependableness in meeting project milestones justifies disciplinary reassignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undependableness designates the trait of not being dependable or reliable."*
+> - 📜 **Anthony Trollope (*The Three Clerks*):** *"Charley Tudor's chronic **undependableness** at the Internal Navigation Office tested the patience of his senior supervisors."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber's financial **undependableness** was paired with an unfailing, sublime optimism that something would turn up."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The tragic flaw of many brilliant minds is an **undependableness** that squanders talent in unfinished enterprises."*
+

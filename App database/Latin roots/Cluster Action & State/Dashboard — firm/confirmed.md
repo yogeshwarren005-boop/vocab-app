@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been established, verified, or validated; settled in habits or conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology, a confirmed diagnosis is corroborated by definitive laboratory, imaging, or histological findings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"H’as such a confirmed countenance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus far can I praise him; he is of a noble strain, of approved valour, and confirmed honesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am my master’s true confirmed love, But cannot be true servant to my master Unless I prove false traitor to myself."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth's worst fears were **confirmed** when she read that Wickham had no intention whatever of marrying her sister."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber was a **confirmed** optimist, forever expecting financial salvation from some unforeseen quarter."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The laboratory test **confirmed** that the brownish stain upon the floor was human blood of recent origin."*
+

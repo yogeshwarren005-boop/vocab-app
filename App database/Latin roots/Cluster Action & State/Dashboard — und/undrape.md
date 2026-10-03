@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip something of drapery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strip something of drapery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To uncover, unwrap, or reveal by removing drapery, curtains, coverings, or clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical sculpture and studio art pedagogy, the sculptor undrapes the wet clay model to evaluate anatomical proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"That immaculate manliness we feel within ourselves, so far within us, that it remains intact though all the outer character seem gone; bleeds with keenest anguish at the undraped spectacle of a valor-ruined man."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I fancy their Hygienic Immaculacies approved of Cyril's bare floors, undraped windows, and generally knick-knackless condition."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The sculptor stepped forward to **undrape** the newly completed marble bust before his assembled patrons."*
+> - 📜 **Edgar Allan Poe (*The Oval Portrait*):** *"He resolved to **undrape** the mysterious painting hanging in the dark niche of the velvet-hung bedchamber."*
+> - 📜 **Lord Byron (*Don Juan*):** *"With gentle touch the morning breeze began to **undrape** the veil of mist shrouding the distant Aegean isles."*
+

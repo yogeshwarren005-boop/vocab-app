@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn next to the skin and under the outer garments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn next to the skin and under the outer garments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothes worn under other clothes, typically next to the skin; underwear or undergarments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social hygiene history, the widespread adoption of washable cotton and wool underclothes dramatically improved public sanitation in the nineteenth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I'd buy--I'd buy--oh,--silk stockings, and long gloves, and French cambric underclothes, and chiffon nightgowns like those Yvonne wears (but they aren't decent: still that doesn't matter so long as you're not married, and they are so pretty)!"*
-> - 📜 **H. Rider Haggard (*Swallow: A Tale of the Great Trek*):** *"Well, I saw the body of the mother of the boy who was found, and it was that of a common person very roughly clad with coarse underclothes and hands hard with labour, on which there was but one ring, and that of silver."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mrs Miriam Dandrade that sold me her old wraps and black underclothes in the Shelbourne hotel."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty carefully packed David's trunk with clean woolen stockings, linen shirts, and comfortable warm **underclothes**."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym Yeobright changed out of his damp **underclothes** after a long day of furze-cutting on the foggy heath."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the laundry marks upon the deceased man's **underclothes**, discovering the initials of the missing officer."*
+

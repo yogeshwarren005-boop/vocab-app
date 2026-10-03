@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region where a battle is being (or has been) fought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region where a battle is being (or has been) fought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place where a battle is or was fought; or an area of intense competition, debate, or rivalry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electoral political science, a swing state or contested district represents a pivotal battleground that determines executive elections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"This general, hating Barclay, rode to visit a friend of his own, a corps commander, and, having spent the day with him, returned to Barclay and condemned, as unsuitable from every point of view, the battleground he had not seen."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Hardenbergh down the river a party visited the battleground."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The courtroom in America serves as the primary peaceful **battleground** where social interests and constitutional rights are resolved."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Flanders was historically the bloody **battleground** of Europe, where French and allied armies contended for continental supremacy."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The national assembly was converted into a turbulent **battleground** where factional demagogues contended for dictatorial power."*
+

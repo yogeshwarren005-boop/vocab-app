@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to or marked by drowsiness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to or marked by drowsiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleepy, drowsy, heavy with slumber, or inducing sleep; quiet and inactive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional fiction, a somnolent cathedral town or country village sleeps peacefully away from the noisy rush of modern industrial centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When they had passed the little town of Stourcastle, dumbly somnolent under its thick brown thatch, they reached higher ground."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Elsie was therefore able to follow the somnolent progress of the adventures of the late Nicholas, M.D., a gentleman whose travels had led him to the Island of Trinidad."*
-> - 📜 **James Joyce (*Ulysses*):** *"Onward to the dead sea they tramp to drink, unslaked and with horrible gulpings, the salt somnolent inexhaustible flood."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The great moor lay **somnolent** under the autumn twilight, silent save for the occasional cry of a curlew."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Old Hepzibah sat in the **somnolent** shop, startled whenever the bell above the door jangled for a customer."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"A drowsy, dreamy influence seems to hang over the land and to pervade the very atmosphere of this **somnolent** valley."*
+

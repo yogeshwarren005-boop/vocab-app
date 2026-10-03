@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower side of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower side of anything.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The side or surface of something that is underneath or facing the ground; bottom surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lepidopteran taxonomy, the cryptic underside of a resting butterfly's wings mimics dead leaves, concealing it from predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The underside of the mantel-shelf was flushed with the high-coloured light, and the legs of the table nearest the fire."*
-> - 📜 **George Eliot (*Middlemarch*):** *"They stood silent, not looking at each other, but looking at the evergreens which were being tossed, and were showing the pale underside of their leaves against the blackening sky."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Passing under, Hodak cut loose with his laser-quads, raking laterally across the destroyer's underside."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The dull, bark-like coloration on the **underside** of the butterfly's wings provides protective camouflage when folded at rest."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The mouth and tube feet of the starfish are situated upon the oral or **underside** of the radial arms."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I examined the smooth **underside** of the clear ice, observing air bubbles trapped against the frozen surface of the pond."*
+

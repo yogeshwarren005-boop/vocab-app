@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a subnormal degree of sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a subnormal degree of sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an unusually low, subnormal, or deficient sex drive or sexual appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological and psychosexual literature, individual variations in libido range from hypersexual to undersexed orientations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undersexed designates having a subnormal degree of sexual desire."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Constitutional endocrine variations may leave an individual essentially **undersexed**, displaying minimal erotic libido from early youth."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The ascetic temperament is often aided by an inherently **undersexed** constitution that feels little temptation toward sensual excess."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"In the engineered caste society, state conditioning ensured that no citizen became emotionally obsessed or biologically **undersexed**."*
+

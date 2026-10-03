@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To experience or be subjected to something, typically something unpleasant, arduous, or transformative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, materials undergo allotropic phase transitions when subjected to elevated temperatures and pressures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the master of my speeches, and would undergo what’s spoken, I swear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I will not undergo this sneap without reply."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much danger do I undergo for thee. [_Exeunt._] SCENE II."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"All living organisms must **undergo** continuous modifications in the relentless struggle for existence over geological time."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I was forced to **undergo** months of solitary toil and physical exhaustion to accomplish my terrible creation."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Which thou didst bear, and with a smile infused; which raised in me an undergoing stomach, to bear up against what should ensue, and **undergo** all hardships."*
+

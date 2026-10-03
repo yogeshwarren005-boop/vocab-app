@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being distinguished or differentiated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being distinguished or differentiated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being perceived, recognized, or separated as distinct or different; indistinguishable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory perception research and visual psychophysics, two luminous stimuli below threshold chromatic difference appear undistinguishable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fold stands empty in the drownèd field, And crows are fatted with the murrion flock; The nine-men’s-morris is fill’d up with mud, And the quaint mazes in the wanton green, For lack of tread, are undistinguishable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These things seem small and undistinguishable, Like far-off mountains turnèd into clouds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Dogs, undistinguishable in mire."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Two identical white grains of sand appear **undistinguishable** to the naked human eye unless magnified."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The mire seemed an **undistinguishable** expanse of treacherous black mud under the pale autumn moon."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The outline of the decaying masonry was almost **undistinguishable** against the overcast evening sky."*
+

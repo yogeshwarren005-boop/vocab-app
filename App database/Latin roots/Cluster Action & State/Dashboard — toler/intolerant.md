@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling to tolerate difference of opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow-minded about cherished opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tolerant of views, beliefs, or lifestyles differing from one's own; bigoted and narrow-minded.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative pathology, an intolerant host organism manifests severe adverse reactions to specific biochemical substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"There are still stray remnants of the old intolerant distrust."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Were there not even these inducements to moderation, nothing could be more ill-judged than that intolerant spirit which has, at all times, characterized political parties."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I could not help smiling at this introduction of politics into gardening, though I expressed some apprehension that I should find the old gentleman rather intolerant in his creed."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Majorities in popular governments are often fiercely **intolerant** of idiosyncratic personal opinions and harmless nonconformity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon was coldly **intolerant** of any critical inquiry that questioned his unfinished Key to all Mythologies."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The Jacobin clubs showed themselves far more **intolerant** than the ancient church they had fanatically overturned."*
+

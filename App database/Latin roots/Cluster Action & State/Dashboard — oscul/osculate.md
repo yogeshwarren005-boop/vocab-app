@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be intermediate between two taxonomic groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have at least three points in common with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To kiss; or geometrically, to touch at points having a common tangent and curvature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential geometry, two curves osculate when they share a tangent line and equal radius of curvature at the point of contact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osculate designates be intermediate between two taxonomic groups."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The affectionate aunt was eager to **osculate** her nephew upon his return from the university."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The two lovers paused upon the cliff edge, where mutual glances invited them to **osculate** in tender reconciliation."*
+> - 📜 **Isaac Todhunter (*A Treatise on the Differential Calculus*):** *"The circle of curvature is constructed to **osculate** the plane curve at the given coordinates."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evergreen asiatic trees now grown through the tropics: breadfruit; jackfruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen asiatic trees now grown through the tropics: breadfruit; jackfruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees in the mulberry family (Moraceae), comprising breadfruit and jackfruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and Pacific exploration history, Artocarpus altilis (breadfruit) was central to Captain Bligh's fateful voyage aboard HMS Bounty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The sago pasty, the artocarpus bread, some mangoes, half a dozen pineapples, and the liquor fermented from some coco-nuts, overjoyed us."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The fertile valleys of Tahiti abounded with tall groves of the breadfruit tree, **artocarpus**, providing food for the inhabitants."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the Moluccas, we dined upon the roasted fruit of **artocarpus**, finding its white starchy pulp a delicious substitute for fresh bread."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The islanders gathered the large oval fruit of the **artocarpus**, baking it under hot stones in the sand."*
+

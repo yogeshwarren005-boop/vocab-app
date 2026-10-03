@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Run or be performed again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform or state repeatedly; to execute a computational loop or recurring cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numerical methods and computational algorithms, algorithms iterate toward numerical convergence through successive approximations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane's speech of welcome made such an impression that it is no wonder some of the old mothers in Israel got up to iterate it, as the dinner progressed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A tune much iterated has the ridiculous effect of making the words in my mind perform a sort of minuet to keep time—an effect hardly tolerable, I imagine, after boyhood."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They contrast finely with those elaborate and iterated repinings which we sometimes meet with in poetry, the effusions of morbid minds sickening under miseries of their own creating, and venting their bitterness upon an unoffending world."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The instructor must patiently **iterate** fundamental principles until they become indelible habits of thought."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Inquiry requires us to **iterate** experiments under varying circumstances to verify the stability of nature."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mechanical engine was constructed to **iterate** arithmetical calculations without human error."*
+

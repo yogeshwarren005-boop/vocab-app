@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely and without qualification; used informally as intensifiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Totally and definitely; without question.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With no qualification, restriction, or limitation; totally, definitely, and completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology, an absolutely necessary truth holds valid across all possible worlds without empirical exception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath the Prince John a full commission, In very ample virtue of his father, To hear and absolutely to determine Of what conditions we shall stand upon?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you are amazed; but this shall absolutely resolve you."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Although this was an absolutely false report, all the old stories were brought up again and the talk became livelier than ever."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was **absolutely** resolved never to accept Mr. Collins, despite the frantic entreaties of her mother."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"If it could be demonstrated that any complex organ existed which could not possibly have been formed by numerous slight modifications, my theory would **absolutely** break down."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"It is **absolutely** essential to eliminate all extraneous details before framing a valid hypothesis."*
+

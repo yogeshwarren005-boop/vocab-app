@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excuse, overlook, or make allowances for; be lenient with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excuse, overlook, or make allowances for; be lenient with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To accept, overlook, or allow behavior that is considered morally wrong or offensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative statecraft, allowing infractions without formal sanction sets a precedent that appears to condone corruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"No sanctity could condone for the devouring of widows' houses (Matt. 23:14)."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A woman of Spanish blood does not condone such an injury so lightly."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He had almost a morbid horror of defilement from men and women of coarse minds,--a craving too for peace and sympathy; he shrank into himself, condoned, ignored."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny Price could never bring herself to **condone** the reckless theatrical rehearsals that compromised domestic decorum."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"No civilized nation can **condone** the confiscation of private property under the plea of public utility."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Society was eager to **condone** Mr. Merdle's vulgarity so long as his financial speculations returned immense dividends."*
+

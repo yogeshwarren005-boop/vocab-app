@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used for celebrating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used for celebrating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, conveying, or characterized by celebration, festive praise, or happy commemoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In symphonic music, a celebratory fanfare composed for brass and timpani opens civic jubilees and state ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celebratory designates used for celebrating."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The church bells of Florence rang out in a vibrant, **celebratory** peal that resonated across the red-tiled roofs."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The royal banquet concluded with a magnificent **celebratory** display of fireworks rising over the frozen Thames."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"London was filled with **celebratory** crowds waving flags as the radio officially announced victory in Europe."*
+

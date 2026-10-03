@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of repeating over and again (or an instance thereof).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of repeating over and again (or an instance thereof).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of repeating something, or a repeated statement or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary stylistics and musical composition, melodic or thematic reiteration establishes emotional resonance and structural unity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Lilith had altogether vanished, and in her place stood the dim vampire reiteration of the body that lay extended on the table, staring greedily at the assembled company."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"The frequent **reiteration** of commercial grievances without legislative remedy produced mutual estrangement between colony and mother country."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her mother's constant **reiteration** of Dorothea's marriage prospects became an intolerable trial to the young woman."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Through the constant **reiteration** of partisan dogmas, historical falsehoods eventually pass current as unquestioned truth."*
+

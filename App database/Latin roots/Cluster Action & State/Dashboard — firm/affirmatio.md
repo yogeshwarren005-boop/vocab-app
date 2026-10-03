@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin firm within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of firm in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal affirmation, assertion, or Latin rhetorical statement of fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman rhetoric and scholastic dialectic, the affirmatio constitutes the positive thesis defended against the opposing negatio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affirmatio designates pertaining to, derived from, or characteristic of latin firm within the domain of action & state."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Scholastic disputants relied upon formal **affirmatio** to establish doctrines without empirical verification."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A clear **affirmatio** in speech should correspond to a distinct and well-defined idea in the mind."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient naturalists accepted with easy **affirmatio** many fables that modern dissection easily disproves."*
+

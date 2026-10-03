@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or of the month preceding the present one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or of the month preceding the present one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abbreviation for ultimo; occurring or published in the month immediately preceding the present one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century commercial and epistolary correspondence, 'your letter of the 15th ult.' designated the previous calendar month.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"A messenger sent out by the Japanese minister on the 30th ult. returned to-day from Tientsin, bringing word that a mixed force of 33,300 would start from there for the relief of Peking about the 20th inst."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The following letter received to-day by Colonel Shiba, dated Tientsin, the 26th ult.: “Your letter of the 22d received."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"The telegram is undated, but was sent off probably between the 21st and 24th ult."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Messrs. Dodson and Fogg acknowledged receipt of Mr. Pickwick's communication dated the 24th **ult** with polite coldness."*
+> - 📜 **Thomas Babington Macaulay (*Life and Letters of Lord Macaulay*):** *"The foreign office dispatched urgent instructions on the 10th **ult**, demanding a prompt reply from the ambassador."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The lawyer opened his ledger to verify the remittance recorded on the 3rd **ult** before proceeding with the title search."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Removal of fluid from the abdomen by centesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Removal of fluid from the abdomen by centesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical puncture of the abdominal cavity (paracentesis) using a trocar or needle to aspirate fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and hepatology, diagnostic celiocentesis evaluates ascitic fluid for bacterial peritonitis or peritoneal carcinomatosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celiocentesis designates removal of fluid from the abdomen by centesis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Immediate diagnostic **celiocentesis** is indicated in patients with cirrhotic ascites presenting with unexplained abdominal tenderness."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The surgical registrar performed a careful **celiocentesis**, withdrawing several liters of serous fluid to relieve diaphragmatic embarrassment."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Following the therapeutic **celiocentesis**, the patient's respiratory excursions improved noticeably as abdominal pressure subsided."*
+

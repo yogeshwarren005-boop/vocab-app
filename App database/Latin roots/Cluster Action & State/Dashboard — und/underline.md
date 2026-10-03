@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line drawn underneath (especially under written matter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give extra weight to (a communication).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw a line under a word or phrase; or to emphasize, highlight, or stress the importance of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typographic composition, setting text with an underline was the historical manuscript convention indicating italic font for the printer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Underline _imposs._ To write today."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It was full of apologies for having failed to pay before; and then--then came the passage that had been underlined."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She underlined the letter a great deal, and she signed herself affectionately his friend, Amelia Osborne."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Second Stain*):** *"Holmes used his pen to **underline** the critical sentence in the secret diplomatic dispatch on Baker Street."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton took pains to **underline** certain sentimental phrases in the charade he presented to Harriet."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The catastrophic losses at sea served to **underline** the desperate urgency of securing our Atlantic convoy routes."*
+

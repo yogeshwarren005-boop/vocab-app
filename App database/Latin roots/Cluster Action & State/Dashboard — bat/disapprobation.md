@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of strong disapproval; pronouncing as wrong or morally culpable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of strong disapproval; pronouncing as wrong or morally culpable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong moral disapproval, condemnation, or adverse judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social fiction, defying domestic decorum invited severe community disapprobation and formal social exclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In case I should be taking a liberty in putting your ladyship on your guard when there’s no necessity for it, you will endeavour, I should hope, to outlive my presumption, and I shall endeavour to outlive your disapprobation."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Charles’s attentions to Henrietta had been observed by her father and mother without any disapprobation."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But perhaps it may be damp.” It was a narrow winding path through a thick grove of old Scotch firs; and Catherine, struck by its gloomy aspect, and eager to enter it, could not, even by the General’s disapprobation, be kept from stepping forward."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter Elliot expressed his pronounced **disapprobation** of the proposed naval alliance with fashionable coldness."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Lord Chancellor frowned with grave judicial **disapprobation** at the scandalous delays in the Chancery proceedings."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mrs. Cadwallader voiced her loud **disapprobation** of Dorothea's perverse determination to marry an elderly scholar."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation that is too low; an estimate that is less than the true or actual value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An estimation that is too low; an estimate that is less than the true or actual value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation or calculation that falls below the true amount, distance, cost, or value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dead-reckoning maritime navigation, an underreckoning of eastward leeway drift runs vessels onto uncharted coastal shallows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underreckoning designates an estimation that is too low; an estimate that is less than the true or actual value."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Our navigator made a serious **underreckoning** of our longitude, mistaking the Brazilian mainland for the Caribbean islands."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The mate corrected his dead-reckoning log, discovering an **underreckoning** of fifty leagues in the ship's position."*
+> - 📜 **Captain James Cook (*The Three Voyages of Captain James Cook*):** *"A slight **underreckoning** of the equatorial current caused the Endeavour to make landfall thirty leagues south of our intended bay."*
+

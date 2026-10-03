@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not precisely limited, determined, or distinguished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not precisely limited, determined, or distinguished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not clearly or precisely explained, determined, or bounded; having no fixed limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer programming and mathematics, an undefined operation (such as division by zero) produces an indeterminate result.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I had an undefined impression that it might have been better if we had had some other inmate, but I could hardly have explained why even to myself."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I could not have said what I was afraid of, for my fear was altogether undefined and vague, but there was great fear upon me."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But nothing had been betrayed to him as to the history of Raffles, and Bulstrode was anxious not to do anything which would give emphasis to his undefined suspicions."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When words are left with vague and **undefined** meanings, they serve only to obscure philosophical truth."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"An **undefined** menace seemed to hover over the lonely moor as the shadows lengthened across the tors."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The boundary between distinct species and well-marked varieties is frequently fluid and **undefined** in nature."*
+

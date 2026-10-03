@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial or complete nakedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get undressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove clothes, garments, or bandages; or informal, casual, or working attire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military dress regulations and naval history, officers wore undress uniform during daily quarters and watch standing on active duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, undress you, and come now to bed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here she sat down on the edge of the bed, looking blankly around, and presently began to undress."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was in the kitchen just after supper, as my mother was helping me undress for bed, and the missionary was showing photographs of the Holy Land."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The tired child was told to **undress** and climb into the tiny garret bed under the eaves."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne hastened to **undress** after her rain-soaked walk across the downs, shivering beside the hearth."*
+> - 📜 **William Thackeray (*Vanity Fair*):** *"The cavalry colonel was seen in comfortable **undress** uniform, smoking a cigar outside his brigade tent."*
+

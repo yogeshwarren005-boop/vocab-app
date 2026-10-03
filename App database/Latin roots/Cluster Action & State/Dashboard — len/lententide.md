@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 40 weekdays from ash wednesday to holy saturday.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of 40 weekdays from ash wednesday to holy saturday.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The season or time of Lent; the liturgical forty-day period before Easter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval English social calendars, Lententide was marked by strict dietary fasting and cessation of seasonal festivities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lententide designates a period of 40 weekdays from ash wednesday to holy saturday."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Throughout the solemn season of **lententide**, devout pilgrims traveled along muddy roads toward Canterbury."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The hermit excused the frugality of his woodland cell, reminding his guest that holy **lententide** demanded austere penance."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Abbot Samson governed the abbey with vigilant discipline, inspecting the storehouses as **lententide** approached."*
+

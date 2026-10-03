@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixed with impurities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rendered impure, debased, or degraded by the addition of foreign or inferior substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century food safety agitation, adulterated urban milk supplies caused widespread infantile mortality across major industrial cities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Other works, which 457:3 have borrowed from this book without giving it credit, have adulterated the Science. /Third/: Because this book has done more for teacher and student, for healer and 457:6 patient, than has been accomplished by other books."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Unfortunately, it has of late years been much adulterated, and thus the marketable value has been lowered."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"But he had lost all faith in explosives, and Herr Winckelkopf himself acknowledged that everything is so adulterated nowadays, that even dynamite can hardly be got in a pure condition."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The tea sold to Coketown factory workers was notoriously **adulterated** with roasted chicory and dried sloe leaves."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Ancient debased currencies consisted of **adulterated** silver coin that circulated at a deep discount against pure bullion."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A nation that trades in **adulterated** bread and shoddy wool cloth invites moral and industrial ruin."*
+

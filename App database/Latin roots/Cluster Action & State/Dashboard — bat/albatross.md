@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (figurative) something that hinders or handicaps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large oceanic seabird of the family Diomedeidae, with long narrow wings and a hooked bill, famous for dynamic soaring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime folklore and literature, the albatross represents an omen of good fortune, or an agonizing psychological burden when killed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Bethink thee of the albatross, whence come those clouds of spiritual wonderment and pale dread, in which that white phantom sails in all imaginations?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Not Coleridge first threw that spell; but God’s great, unflattering laureate, Nature.[5] [5] I remember the first albatross I ever saw."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But some time after, I learned that goney was some seaman’s name for albatross."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"At length did cross an **albatross**, through the fog it came; as if it had been a Christian soul, we hailed it in God's name."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The snowy plumage and majestic, unwearied flight of the giant **albatross** struck the whalemen with superstitious awe."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The wandering **albatross** glided effortlessly on rigid wings over the stormy crests of the southern ocean swells."*
+

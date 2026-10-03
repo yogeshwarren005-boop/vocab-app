@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Victorious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Victorious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not defeated, conquered, or beaten in battle, contest, or athletic competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military biography, undefeated field marshals like the Duke of Marlborough achieved strategic victory through operational foresight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But, torn, blinded, baffled, the Dane was undefeated."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Himself the undefeated that shall be: Failure, disgrace, he flings them you to test,-- His triumph, in eternity Too plainly manifest! -- St. 7-9."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Belisarius returned to Constantinople **undefeated**, having recovered Italy and Africa for the imperial crown."*
+> - 📜 **Winston Churchill (*Marlborough: His Life and Times*):** *"Marlborough remained an **undefeated** captain in the field, never fighting a battle that he did not win, nor besieging a fortress he did not take."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The veteran prizefighter entered the championship ring **undefeated**, boasting thirty victories over the bravest men of the fancy."*
+

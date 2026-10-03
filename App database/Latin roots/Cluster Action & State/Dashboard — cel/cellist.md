@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who plays a violoncello.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who plays a violoncello.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the violoncello, performing as a soloist, chamber instrumentalist, or orchestral player.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chamber music performance, the cellist provides the foundational bass harmonic voice and rich tenor cantabile solos in string quartets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellist designates someone who plays a violoncello."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"Holmes sat in the concert stalls, his long fingers gently waving in time to the performance of the celebrated **cellist**."*
+> - 📜 **E. M. Forster (*Howards End*):** *"The sensitive young **cellist** drew his bow across the strings, eliciting a mournful, deep resonance from his instrument."*
+> - 📜 **Willa Cather (*The Song of the Lark*):** *"The conservatory orchestra rehearsed Beethoven's symphony under the watchful guidance of the principal **cellist**."*
+

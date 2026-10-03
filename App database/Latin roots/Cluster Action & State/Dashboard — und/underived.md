@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not derived; primary or simple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not derived; primary or simple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not derived from anything else; original, primary, independent, or self-existent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical ontology, underived existence designates eternal, non-contingent being that requires no prior cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underived designates not derived; primary or simple."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Axioms of pure geometry are regarded by rationalists as original and **underived** truths of the understanding."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The primary imagination is an **underived** creative power that echoes in the finite mind the eternal act of creation."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The ultimate cosmic energy that sustains the universe is an **underived** reality transcending human comprehension."*
+

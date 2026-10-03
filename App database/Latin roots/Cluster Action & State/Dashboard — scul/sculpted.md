@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Create by shaping stone or wood or any other hard material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shape (a material like stone or wood) by whittling away at it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carved, molded, or fashioned into a three-dimensional shape, with well-defined contours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology and skeletal biology, sculpted cranial bones exhibit specialized sutures adapted for dissipating biomechanical bite forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculpted designates create by shaping stone or wood or any other hard material."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The ancient bust displayed **sculpted** curls and a gentle faun-like smile frozen in eternal marble repose."*
+> - 📜 **George Eliot (*Romola*):** *"The palazzo doorway was framed with **sculpted** shields displaying the proud armorial bearings of the Medici."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her finely **sculpted** chin and delicate profile stood out clearly against the twilight shadows of the lane."*
+

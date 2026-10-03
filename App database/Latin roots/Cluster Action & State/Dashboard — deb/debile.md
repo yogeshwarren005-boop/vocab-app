@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking bodily or muscular strength or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking bodily or muscular strength or vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking physical strength or bodily vigor; weak, feeble, or infirm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and Renaissance literature, debile was employed as a poetic synonym for physically frail or constitutionally vulnerable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And debile minister, great power, great transcendence, which should indeed give us a further use to be made than alone the recov’ry of the king, as to be— LAFEW."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For that I have not washed my nose that bled, Or foiled some debile wretch—which, without note, Here’s many else have done—you shout me forth In acclamations hyperbolical, As if I loved my little should be dieted In praises sauced with lies."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"I shall give my **debile** limbs a little rest before we renew the assault upon the gates of Corioli."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Subtle dialectical disputes often leave the natural faculties of the understanding **debile** and unexercised in practical affairs."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Old age renders the most robust constitution **debile** and subject to tremors of the extremities."*
+

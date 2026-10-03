@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making less strict.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making less strict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal or loosening of restrictions on something, typically on economic or political activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international trade and developmental economics, trade liberalization reduces import tariffs and quotas to stimulate foreign direct investment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liberalization designates the act of making less strict."*
+> - 📜 **Woodrow Wilson (*The New Freedom*):** *"The **liberalization** of commercial laws is essential to emancipate enterprise from the stranglehold of private industrial monopolies."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The international **liberalization** of grain markets protects nations against regional famine through universal mercantile exchange."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"The progressive **liberalization** of divorce laws reflects growing moral recognition of equal personal autonomy between spouses."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give in, as to influence or pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give in, as to influence or pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To abandon or mitigate a harsh, severe, or cruel intention or treatment; to become less severe or unyielding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative drama, a stubborn protagonist refuses to relent until tragic catastrophe shatters their resolve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Can you, my Lord of Winchester, behold My sighs and tears, and will not once relent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For shame, my Lord of Winchester, relent!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either she hath bewitch’d me with her words, Or nature makes me suddenly relent."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Relent, and save your souls. Which of you, if you were a prince's son, being shut up with murder, would not **relent**?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Can we think that the almighty will **relent** and grant us peaceful oblivion after this celestial rebellion?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers was not a man to **relent** when once he had decided upon a path of religious duty."*
+

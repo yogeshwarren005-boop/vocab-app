@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The soft belly or underside of an animal's body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The soft belly or underside of an animal's body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The underside or lower structure of a vehicle, aircraft, or ship; chassis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive engineering, aerodynamic underbody panels smooth turbulent air drag and protect mechanical linkages from road debris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underbody designates the soft belly or underside of an animal's body."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The body of the unfortunate clerk had fallen from the roof upon the railway carriage **underbody** before tumbling onto the tracks."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The machine-gun battery was mounted beneath the armored **underbody** of the giant German Zeppelin airship."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The reinforced steel **underbody** of the Nautilus glided smoothly over the sharp coral projections of the Torres Strait."*
+

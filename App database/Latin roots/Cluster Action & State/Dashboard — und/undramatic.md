@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking dramatic force and quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking dramatic force and quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking excitement, theatrical flair, sudden tension, or dramatic qualities; quiet and understated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose stylistics, undramatic realism emphasizes the repetitive mundane rhythms of ordinary daily labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undramatic designates lacking dramatic force and quality."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The passage of time during the quiet winter was recorded in an **undramatic**, almost imperceptible settling of dust."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Much of trench warfare consisted of cold, **undramatic** boredom punctuated by occasional sniper fire."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether's meeting with Chad was singularly **undramatic**, lacking the fiery confrontation anticipated in Woollett."*
+

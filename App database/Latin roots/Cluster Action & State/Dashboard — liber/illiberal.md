@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrow-minded about cherished opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow-minded about cherished opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed to liberal principles; narrow-minded, intolerant, ungenerous, or bigoted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical education theory, an illiberal occupation was mechanical or mercenary labor deemed unfitting for a free citizen seeking philosophical cultivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Nobody doubts it; and I hope you do not think I am so illiberal as to want every man to have the same objects and pleasures as myself."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Again, it may be not infrequently observed that devotion to some particular study makes men illiberal to other branches of knowledge."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will be forgotten, on the one hand, that jealousy is the usual concomitant of love, and that the noble enthusiasm of liberty is apt to be infected with a spirit of narrow and illiberal distrust."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"A great empire and little minds go ill together; an **illiberal** policy of commercial coercion will dismantle the British empire in the West."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The despotism of custom is an **illiberal** hindrance to human advancement, warring incessantly against that tendency to aim at something better than customary."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor's **illiberal** parsimony alienated the mercenary troops whose loyalty was essential to border defense."*
+

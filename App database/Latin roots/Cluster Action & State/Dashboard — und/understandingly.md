@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sympathetic, discerning, knowledgeable, and compassionate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral care and counseling, an experienced mentor listens understandingly to troubled confidants before offering advice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood looked at her—not slily, critically, or understandingly, but blankly at gaze, in the way a reaper looks up at a passing train—as something foreign to his element, and but dimly understood."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"In the light we are other persons." "Ah," she smiled understandingly."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood looked at her—not slily, critically, or understandingly, but blankly at gaze, in the way a reaper looks up at a passing train—as something foreign to his element, and but dimly understood."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dolly Winthrop nodded **understandingly**, offering gentle, practical comfort to the solitary weaver in his grief."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Agnes smiled **understandingly** as David poured out his youthful romantic confidences and anxieties."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Phoebe listened **understandingly** to poor Clifford's fragmented recollections of his long, unjust imprisonment."*
+

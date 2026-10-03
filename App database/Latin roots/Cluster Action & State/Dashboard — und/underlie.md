@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or form the base for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lie underneath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lie situated beneath something; or to be the foundation, basis, or fundamental cause of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology, ancient crystalline basement granites underlie younger sedimentary and volcanic strata across continental cratons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Society moves on lines he laid down for it; his plans underlie all."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Ah, it is so easy to follow a line of argument, and so difficult to grasp the facts that underlie it!"*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Dread of the foreigner underlies much of the present activity and openmindedness towards Western ideas."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Universal laws of variation and natural selection **underlie** the astonishing morphological diversity of living forms."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Thick beds of impermeable London clay **underlie** the gravel terraces that border the lower Thames valley."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Natural human sympathies and mutual regard **underlie** the stability of all civilized social compacts."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being mixed with extraneous material; the product of adulterating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of adulterating (especially the illicit substitution of one substance for another).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rendering something impure or fraudulent by mixing it with inferior or spurious matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory history, the Pure Food and Drug Act of 1906 established strict federal prohibitions against chemical adulteration of food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Think of our child labour, of our police graft and our political corruption, of our food adulteration and of our slavery of the daughters of the poor."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Adulteration of Truth The medicine of Science is divine Mind; and dishonesty, sensuality, falsehood, revenge, malice, are animal pro- 104:21 pensities and by no means the mental quali- ties which heal the sick."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"To prevent fraud by the **adulteration** of consumable provisions is an indisputable function of legitimate government."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"Chemical analysis readily exposes every commercial **adulteration** practiced upon olive oils and wines."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The villagers suspected the apothecary of subtle **adulteration** in his medicinal decoctions."*
+

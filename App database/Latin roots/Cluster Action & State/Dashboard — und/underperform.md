@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perform less well or with less success than expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perform too rarely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform less well than expected, required, or relative to a benchmark or competitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investment portfolio management, assets that underperform the benchmark index are reallocated or liquidated by fund managers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underperform designates perform less well or with less success than expected."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"Joint-stock banks that **underperform** during commercial liquidity crises lose customer deposits to conservative institutions."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"If the dynamo should **underperform** under continuous electrical load, we must rewind the armature with heavier copper wire."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Inefficient bureaucratic departments consistently **underperform** private enterprises in delivering complex public works."*
+

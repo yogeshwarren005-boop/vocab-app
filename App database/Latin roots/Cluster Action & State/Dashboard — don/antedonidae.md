@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feather stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feather stars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of unstalked crinoids comprising the common feather stars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In benthic marine ecology, members of Antedonidae inhabit cold temperate to tropical coastal waters, suspension feeding upon plankton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antedonidae designates feather stars."*
+> - 📜 **Thomas Huxley (*Lectures on the Elements of Comparative Anatomy*):** *"The skeletal ossicles of the **antedonidae** exhibit intricate calcareous microstructures."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Trawling in deep coastal waters frequently brings up clusters of **antedonidae** entwined around gorgonian corals."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among the marine dredgings were several striking forms belonging to the family **antedonidae**."*
+

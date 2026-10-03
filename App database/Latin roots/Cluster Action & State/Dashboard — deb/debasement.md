@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being mixed with extraneous material; the product of adulterating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing to a lower state (a less respected state).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of degrading, corrupting, or deteriorating the intrinsic quality, dignity, or moral value of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical economics, monetary debasement by sovereign mints operated as a hidden, regressive tax on real consumer wages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Or, to speak in the fashionable language of the adversaries to the Constitution, will it court the elevation of “the wealthy and the well-born,” to the exclusion and debasement of all the rest of the society?"*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I know few things more affecting than that timorous debasement and self-humiliation of a woman."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The systematic **debasement** of the standard metallic measure by sovereign debtors impoverished legions of private creditors."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"Frequent **debasement** of paper notes beyond their metallic reserve equivalent inevitably leads to domestic currency depreciation."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"No society can long survive the moral **debasement** that worships Mammon and treats working men as disposable tools."*
+

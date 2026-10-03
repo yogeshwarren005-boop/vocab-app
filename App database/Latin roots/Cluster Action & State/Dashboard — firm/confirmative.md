@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to support or corroborate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to support or corroborate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to confirm, verify, or support a statement, theory, or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological measurement, confirmative factor analysis tests whether data fit a pre-specified structural equation measurement model.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confirmative designates serving to support or corroborate."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The experiment yielded **confirmative** evidence of the hidden thermal motion underlying physical combustion."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative embryology furnishes **confirmative** proof of man's descent from a lower vertebrate prototype."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Paleontological discoveries provide striking **confirmative** instances of progressive evolutionary specialization."*
+

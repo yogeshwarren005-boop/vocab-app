@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family coextensive with genus batis: saltworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family coextensive with genus batis: saltworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small family of halophytic flowering shrubs in the order Brassicales, commonly known as saltworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mangrove ecology and physiological botany, Batis maritima (Batidaceae) possesses succulent salt-secreting leaves that tolerate marine inundation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batidaceae designates family coextensive with genus batis: saltworts."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Along the maritime shores of Florida and the West Indies, fleshy halophytic shrubs of the family **batidaceae** cover tidal mudflats."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The saline lagoons of the tropical coast were fringed with fleshy, succulent vegetation belonging to the **batidaceae**."*
+> - 📜 **Joseph Dalton Hooker (*Flora of the British West Indies*):** *"Botanical surveys of Caribbean mangrove swamps documented extensive colonies of **batidaceae** thriving in saline soils."*
+

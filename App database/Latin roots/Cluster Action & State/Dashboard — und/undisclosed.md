@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not made known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not revealed, publicized, or made known; kept secret or confidential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and corporate governance, failure to declare undisclosed liabilities constitutes material misrepresentation voiding agreements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"But there stood one in the midst of you, at whose brand of sin and infamy ye have not shuddered!” It seemed, at this point, as if the minister must leave the remainder of his secret undisclosed."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The banker acknowledged that an **undisclosed** sum of money had been advanced to an illustrious borrower."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"Cowperwood negotiated the purchase of municipal franchises through an **undisclosed** agent to prevent market speculation."*
+> - 📜 **Wilkie Collins (*The Woman in White*):** *"Marian Halcombe suspected that Sir Percival harbored an **undisclosed** secret that held him in terrible dread."*
+

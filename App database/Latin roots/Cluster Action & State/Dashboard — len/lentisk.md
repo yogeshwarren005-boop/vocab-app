@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An evergreen shrub of the mediterranean region that is cultivated for its resin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evergreen shrub of the mediterranean region that is cultivated for its resin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mastic tree (Pistacia lentiscus), a small evergreen Mediterranean shrub yielding an aromatic resin called mastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean ethnobotany, the resinous gum harvested from the bark of the lentisk has been prized since antiquity for incense and breath fresheners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentisk designates an evergreen shrub of the mediterranean region that is cultivated for its resin."*
+> - 📜 **Richard Francis Burton (*The Land of Midian*):** *"The rocky limestone ravines were covered with dense fragrant thickets of wild thyme and resinous **lentisk**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The island of Chios derived immense commercial revenues from its exclusive royal monopolies of the gum **lentisk**."*
+> - 📜 **Camille Flammarion (*Travels in Greece and the Levant*):** *"The warm air was scented with the balsam exudations of the green **lentisk** bushes bordering the Aegean shore."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of merry joking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of merry joking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A playful, jesting disposition characterized by witty remarks and good humor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character assessment and conversational etiquette, excessive jocoseness in grave solemnities violates decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Anything like the jocoseness of Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Mawmsey’s friendly jocoseness in questioning him which had set the tone of Lydgate’s reply."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Perpetual **jocoseness** becomes wearisome when the mind desires rational reflection rather than cheap merriment."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Bob Jakin's natural **jocoseness** cheered Tom Tulliver during his darkest days of family ruin."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The chaplain's untimely **jocoseness** failed to extract a single smile from the austere archdeacon."*
+

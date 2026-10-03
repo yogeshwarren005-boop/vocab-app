@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by iteration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by iteration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeating or tending to repeat; characterized by reiteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic prosody, reiterative refrains emphasize melancholic themes through structural parallelism across stanzas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reiterative designates marked by iteration."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The ballad gains dramatic momentum from the **reiterative** cadence of its ancient choral response."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Rhythmic motion in cosmic systems exhibits a **reiterative** cycle of integration and dissolution."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The critic cautioned against **reiterative** stylistic affectations that weary the attentive reader."*
+

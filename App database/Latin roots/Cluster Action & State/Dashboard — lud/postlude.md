@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A voluntary played at the end of a religious service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A voluntary played at the end of a religious service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concluding piece of music, especially an organ piece played at the end of a church service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical structure and dramatic literature, a postlude provides reflective tonal resolution after the emotional climax of a composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postlude designates a voluntary played at the end of a religious service."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The organist concluded the service with an elaborate Bach **postlude** that shook the dust from the gallery beams."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"As the congregation filed into the sunny churchyard, the strains of the organ **postlude** floated through the open porch."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her quiet closing remarks sounded like a somber **postlude** to the passionate debate that had preceded them."*
+

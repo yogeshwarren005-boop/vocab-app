@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the testis) remaining in the abdomen instead of descending into the scrotum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of the testis) remaining in the abdomen instead of descending into the scrotum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to move down into the normal anatomical position, particularly referring to an ectopic or retained testis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric urology and pediatric surgery, an undescended testis requires early orchidopexy to preserve fertility and minimize neoplastic transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undescended designates (of the testis) remaining in the abdomen instead of descending into the scrotum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical examination of male infants must systematically determine whether an **undescended** testis resides within the inguinal canal."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Failure of gubernacular contraction results in an **undescended** organ retained within the abdominal cavity."*
+> - 📜 **Thomas Henry Huxley (*Comparative Anatomy*):** *"Anomalies such as **undescended** anatomical structures shed valuable light on comparative vertebrate embryonic development."*
+

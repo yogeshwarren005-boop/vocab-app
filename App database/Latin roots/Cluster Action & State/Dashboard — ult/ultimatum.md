@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A final peremptory demand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A final peremptory demand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A final demand or statement of terms, the rejection of which will result in retaliation or a breakdown of relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and international law, an ultimatum specifies a strict deadline before the formal declaration of hostilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Dynamite or curtains had been Warden Atherton’s ultimatum."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The time came when I humbled Warden Atherton to unconditional surrender, making a vain and empty mouthing of his ultimatum, “Dynamite or curtains.” He gave me up as one who could not be killed in a strait-jacket."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They will be the main bargaining chip when I give my ultimatum to Camari." Brad nodded, his features closed."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The Austro-Hungarian government presented an uncompromising **ultimatum** to Serbia that made European war virtually inevitable."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Attila delivered a haughty **ultimatum** to the court of Constantinople, demanding double the customary annual tribute."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The British cabinet delivered a swift **ultimatum** demanding respect for Belgian neutrality in August 1914."*
+

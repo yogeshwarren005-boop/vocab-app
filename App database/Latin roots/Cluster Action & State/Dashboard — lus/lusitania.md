@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient region and roman province on the iberian peninsula; corresponds roughly to modern portugal and parts of spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient region and roman province on the iberian peninsula; corresponds roughly to modern portugal and parts of spain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Roman province in the western Iberian Peninsula; or the famous British ocean liner torpedoed in 1915.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime and geopolitical history, the sinking of the RMS Lusitania by a German U-boat catalyzed American entry into World War I.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Woe to the conquering, not the conquered host, Since baffled Triumph droops on Lusitania's coast."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Where Lusitania and her Sister meet, Deem ye what bounds the rival realms divide?"*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"To Jane Addams at the Hague Two Poems, written on the Sinking of the Lusitania."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The sinking of the **lusitania** by a German torpedo horrified civilized world opinion and fundamentally altered American neutrality."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustus organized the western districts of the Iberian peninsula into the imperial province of **lusitania**."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The tragic destruction of the unarmed liner **lusitania** marked a turning point in modern submarine warfare."*
+

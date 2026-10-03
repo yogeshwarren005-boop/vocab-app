@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman making her debut into society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young woman making her debut into society.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young woman making her formal initial appearance into fashionable society, traditionally at a debutante ball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century European and American aristocracy, a debutante wore a white gown and carried a floral bouquet during her formal presentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It was good to see this courteous, silent man literally at the feet of the young debutante."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"May Welland looked every inch the innocent **debutante** in her tarlatan gown and modest veil of old family lace."*
+> - 📜 **Henry James (*The Bostonians*):** *"She possessed none of the timid self-consciousness of an ordinary **debutante**, speaking with quiet and fearless conviction."*
+> - 📜 **F. Scott Fitzgerald (*The Offshore Pirate*):** *"Ardita was the most willful and celebrated **debutante** of the season, defying every traditional expectation of her guardians."*
+

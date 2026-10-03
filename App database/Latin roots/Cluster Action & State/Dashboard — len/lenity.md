@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mercifulness as a consequence of being lenient or tolerant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mercifulness as a consequence of being lenient or tolerant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gentleness of disposition, clemency, or merciful mildness of treatment toward offenders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical statecraft, Roman emperors like Augustus balanced severe treason laws with displays of calculated imperial lenity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he have power, Then vail your ignorance; if none, awake Your dangerous lenity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good bawcock, bate thy rage; use lenity, sweet chuck!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Charles, and the rest, it is enacted thus: That, in regard King Henry gives consent, Of mere compassion and of lenity, To ease your country of distressful war, And suffer you to breathe in fruitful peace, You shall become true liegemen to his crown."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Away to heaven, respective **lenity**, and fire-eyed fury be my conduct now! Now, Tybalt, take the 'villain' back again."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The conquered provincials were astonished by the unusual **lenity** with which the barbarian king treated their municipal institutions."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Our ancestors governed their colonies by a policy of affectionate **lenity** and mutual commercial advantage."*
+

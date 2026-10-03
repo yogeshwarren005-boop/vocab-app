@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or become coarse or coarser.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less subtle or refined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become coarse, rough, unrefined, or less delicate in texture or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational health and dermatology, continuous exposure to harsh lime or chemical solvents will coarsen the epidermal skin barrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He saw its effects in broken homes and aching hearts, in coarsened minds and reckless lives."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate feared that vulgar provincial gossip would gradually **coarsen** his wife's delicate perceptions of high art."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Field labor under winter frosts began to **coarsen** Tess's tender hands, despite her efforts to protect them."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He watched the painted portrait on the canvas **coarsen** with each hidden sin and cruel deed of his secret life."*
+

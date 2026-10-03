@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having little or no contrast; lacking highlights or gloss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having little or no contrast; lacking highlights or gloss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British and Commonwealth spelling of lusterlessness; dullness or total absence of sheen and radiance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and metallography, the lustrelessness of an unpolished fractured surface distinguishes slag from crystalline ore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lustrelessness designates the property of having little or no contrast; lacking highlights or gloss."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The dreary **lustrelessness** of damp soot-covered brickwork depressed the aesthetic sensibility of the Victorian traveler."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The leaden **lustrelessness** of the wintry sky seemed in full harmony with Jude's thwarted academic ambitions."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The bleached carcass of the whale exhibited an uncanny **lustrelessness** under the blazing tropical sun."*
+

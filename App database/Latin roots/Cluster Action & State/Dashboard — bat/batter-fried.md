@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fried in batter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fried in batter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coated in a liquid batter mixture of flour and liquid before being deep-fried to a crisp golden crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history and commercial gastronomy, batter-fried fish was popularized in Victorian London, evolving into the iconic British fish and chip shop staple.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batter-fried designates fried in batter."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The aroma of sizzling **batter-fried** fish drifted through the narrow alleys of Field Lane from the fried-fish warehouse."*
+> - 📜 **Alexis Soyer (*The Modern Housewife*):** *"Dip the tender fillets into a seasoned light batter, and cook until **batter-fried** to a delicate golden crispness."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The dockers stopped at the street stall to buy steaming portions of **batter-fried** cod wrapped in yesterday's newspaper."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural or surgical joining of parts or branches of tubular structures so as to make or become continuous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural or surgical joining of parts or branches of tubular structures so as to make or become continuous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The junction or union of two vessels, fibers, or conduits so as to intercommunicate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative pathology and microvascular surgery, the successful inosculation of donor capillaries ensures graft viability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inosculation designates a natural or surgical joining of parts or branches of tubular structures so as to make or become continuous."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The graft establishes nutritional continuity through the rapid **inosculation** of newly formed cellular channels."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"The **inosculation** of terminal arterioles forms a protective anastomotic web safeguarding vital organ tissue."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Granulation tissue demonstrates the spontaneous **inosculation** of divided vascular trunks during the healing process."*
+

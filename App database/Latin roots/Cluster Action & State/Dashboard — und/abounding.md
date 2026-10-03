@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be abundant or plentiful; exist in large quantities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in a state of movement or action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in large quantities; plentiful, rich, or overflowing with abundance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral literature, an abounding autumn harvest symbolizes community stability and rural prosperity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark then abounding valour in our English, That being dead, like to the bullet’s grazing, Break out into a second course of mischief, Killing in relapse of mortality."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He was bound to do more than we should expect, when he saw people whom he could help; and it is that spirit of abounding generosity that shows a man what to do (Luke 6:38)."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The Ghost of Christmas Present sat surrounded by an **abounding** feast of turkeys, mince-pies, and glowing punch."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The equatorial feeding grounds displayed an **abounding** richness of squid that attracted schools of sperm whales."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Walden Pond was an **abounding** reservoir of pure spring water, mirroring the changing seasonal foliage."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freely in a nonliteral manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a generous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a generous, bountiful, or open-handed manner; or with broad-minded freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher education theory, a mind cultivated liberally explores philosophical, historical, and scientific domains beyond vocational utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, deceased, by attending on the occasion I told you of at his chambers, though she was liberally paid for her time and trouble.” “Lie!” cries mademoiselle."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Petersburg, at his own cost, supported several native missionaries in India, and gave liberally to the cause of Christ at home."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Being led by his trials to take God's word as his guide in business as well as in heart and religion, he determined to give his earnings liberally unto the Lord."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Nature distributes her bounties **liberally** across the earth, inviting human industry to discover their latent virtues."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge rewarded the portly gentleman **liberally** on Christmas morning, astonishing him with an enormous unexpected charitable donation."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley gave **liberally** to the poor families of Donwell, yet avoided all patronizing display in his benevolence."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pay too little.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pay too little.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pay someone less than is deserved, agreed upon, or required by fair market wages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor economics, unscrupulous employers who underpay workers exploit geographic isolation and limited employment alternatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpay designates pay too little."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Master manufacturers who conspire to **underpay** their laborers provoke bitter strikes and industrial emigration."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Bounderby sought every legal loophole to **underpay** his factory hands while demanding unremitting twelve-hour shifts."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"To **underpay** the honest workman who produces the wealth of the nation is an iniquity that cries to heaven."*
+

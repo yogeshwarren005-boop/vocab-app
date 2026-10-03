@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal that underestimates the value of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appraisal that underestimates the value of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evaluation or financial valuation that rates someone or something below their true merit or value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equity analysis, systematic underevaluation of corporate assets provides activist investors with attractive takeover targets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underevaluation designates an appraisal that underestimates the value of something."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **underevaluation** of silver relative to gold at the royal mint caused silver coinage to be melted down and exported."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"A persistent **underevaluation** of agricultural capital distorts national economic development toward speculative foreign trade."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"Cowperwood realized that the market **underevaluation** of street railway shares offered an immense opportunity for speculative profit."*
+

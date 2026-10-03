@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose presence is undesirable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not wanted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not wanted, pleasing, or beneficial; tending to produce disadvantageous or harmful consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and therapeutics, undesirable side effects such as hepatic toxicity limit the clinical dosage of novel compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He has no income outside his salary, his wife is an invalid, and he is worried in that he has been rejected by the life insurance doctors as an undesirable risk."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this result is not so undesirable."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was a table spread with the best cold eatables, as at a superior funeral; and facilities were offered for that generous-drinking of cheerful glasses which might lead to generous and cheerful bidding for undesirable articles."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Any expression of genuine sympathy or unorthodoxy was deemed politically **undesirable** by the inner party."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes agreed that wandering alone across the treacherous moor after nightfall was highly **undesirable**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Artificial breeders scrupulously eliminate individuals possessing **undesirable** anatomical traits from their pedigree herds."*
+

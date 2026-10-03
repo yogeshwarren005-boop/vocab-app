@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who sculls (moves a long oar pivoted on the back of the boat to propel the boat forward).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who sculls (moves a long oar pivoted on the back of the boat to propel the boat forward).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who propels a boat with sculls, or a rowing boat propelled by sculls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history and Thames watermen lore, a licensed sculler ferried passengers between London wharves prior to the construction of modern bridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sculler designates someone who sculls (moves a long oar pivoted on the back of the boat to propel the boat forward)."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Gaffer Hexam was an expert **sculler**, gliding silently through the nighttime currents beneath Southwark Bridge."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"Arthur watched the champion **sculler** from Cambridge skimming across the sparkling surface of the river."*
+> - 📜 **Jerome K. Jerome (*Three Men in a Boat*):** *"A clumsy **sculler** managed to foul our towline, providing George with an excuse for prolonged rhetorical indignation."*
+

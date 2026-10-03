@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorously passionate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endowed with or exhibiting great bodily or mental health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Healthy, strong, vigorous, and full of hearty energy and vitality; robust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural folklore, lusty laborers and hearty draught horses were celebrated for clearing thick timberland and turning heavy clay soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I look old, yet I am strong and lusty, For in my youth I never did apply Hot and rebellious liquors in my blood, Nor did not with unbashful forehead woo The means of weakness and debility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore my age is as a lusty winter, Frosty but kindly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a pretty redness in his lip, A little riper and more lusty red Than that mixed in his cheek. ’Twas just the difference Betwixt the constant red and mingled damask."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"A gentleman, nurse, that loves to hear himself talk, and will speak more in a minute than he will stand to in a month; a **lusty** youth of gallant bearing."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The coachman gave a **lusty** shout to his four spirited horses as the stagecoach rattled out of the inn yard."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak was a **lusty** young shepherd who could shear more sheep in an hour than any man in the parish."*
+

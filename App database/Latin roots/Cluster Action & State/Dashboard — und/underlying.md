@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or form the base for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lie underneath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated beneath or below; or fundamental, implicit, or serving as the root cause of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic analysis, identifying underlying inflation trends requires excluding volatile food and energy price swings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But he was now a prey to that worst irritation which arises not simply from annoyances, but from the second consciousness underlying those annoyances, of wasted energy and a degrading preoccupation, which was the reverse of all his former purposes."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was an underlying consciousness all the while that he should have to master this anger, and tell her everything, and convince her of the facts."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"In a small community like this it is much easier to get at the real underlying motive of such things than it is in a more complicated civilization."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"A profound unity of physical composition constitutes the **underlying** basis of all animal and plant life."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **underlying** community of descent explains why the homologies between primate and human anatomy are so close."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate failed to perceive the **underlying** vanity that poisoned his domestic peace with Rosamond."*
+

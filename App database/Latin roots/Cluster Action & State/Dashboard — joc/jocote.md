@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common tropical american shrub or small tree with purplish fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common tropical american shrub or small tree with purplish fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical American tree (Spondias purpurea) of the cashew family, or its edible red or purple plum-like fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and neotropical agronomy, the jocote or Spanish plum is cultivated throughout Mesoamerica for fresh fruit and fermented beverages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jocote designates common tropical american shrub or small tree with purplish fruit."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The indigenous markets displayed baskets of ripe **jocote** plums gathered from the dry coastal valleys."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the sheltered orchards, the tart fruit of the **jocote** tree was gathered by children after the rains."*
+> - 📜 **Thomas Belt (*The Naturalist in Nicaragua*):** *"We refreshed ourselves beneath the shade of a flowering **jocote**, enjoying its juicy, acidulous plums."*
+

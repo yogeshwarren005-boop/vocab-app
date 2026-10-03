@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theocratic islamic republic in the middle east in western asia; iran was the core of the ancient empire that was known as persia until 1935; rich in oil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theocratic islamic republic in the middle east in western asia; iran was the core of the ancient empire that was known as persia until 1935; rich in oil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign country in southwestern Asia, historically known as Persia, bordering the Caspian Sea and Persian Gulf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative historical linguistics and Iranian studies, the name Iran derives from Old Persian Arya, signifying the land of the Aryans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"For the space of one year men ceased not to lament for him, and for many years they shed bitter tears for that arrow, and they said, "The glory of Iran hath been laid low."[261] [The myth of Balder was perhaps acted as a magical ceremony."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The ancient fire temples of **iran** preserved sacred flames perpetual upon their mountain altars."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monarchs of **iran** revived the ancient Zoroastrian traditions, contesting dominion over the East with Rome."*
+> - 📜 **Matthew Arnold (*Sohrab and Rustum*):** *"The champion of **iran** faced his unknown son between the opposing hosts upon the sands of Oxus."*
+

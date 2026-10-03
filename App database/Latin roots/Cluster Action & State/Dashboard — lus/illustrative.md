@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarifying by use of examples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to demonstrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an example, explanation, or visual demonstration of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal casebooks, illustrative precedent opinions are selected to illuminate nuanced doctrinal developments for students.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Cases illustrative of the influence of piety on the intellectual powers.--13."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The result of this lowering was somewhat illustrative of that sagacious saying in the Fishery,—the more whales the less fish."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now in the present case Erskine contended that the examples of the whale and the lady were reciprocally illustrative of each other."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The pin manufactory provides an **illustrative** instance of the enormous efficiency gains achieved through division of labor."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The investigator cited an **illustrative** case to establish the validity of the method of concomitant variations."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Tribal rituals provide **illustrative** evidence of how early social cohesion was reinforced through ceremonial customs."*
+

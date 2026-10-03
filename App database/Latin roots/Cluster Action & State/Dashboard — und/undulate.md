@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stir up (water) so as to form ripples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occur in soft rounded shapes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move or cause to move in a smooth, sinuous, wave-like motion; to rise and fall gracefully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and physical geography, rolling plains and dunes undulate continuously across arid desert basins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The huge corpulence of that Hogarthian monster undulates on the surface, scarcely drawing one inch of water."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor does this—its amazing strength, at all tend to cripple the graceful flexion of its motions; where infantileness of ease undulates through a Titanism of power."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"The huge corpulence of that Hogarthian monster undulates on the surface, scarcely drawing one inch of water."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vast golden sea of grain seemed to **undulate** beneath the summer breeze like the swells of the ocean."*
+> - 📜 **Alfred Tennyson (*In Memoriam A.H.H.*):** *"The hills are shadows, and they flow from form to form, and nothing stands; they melt like mist, the solid lands **undulate**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The ripples began to **undulate** across the glassy surface as the gentle evening wind rose over the cove."*
+

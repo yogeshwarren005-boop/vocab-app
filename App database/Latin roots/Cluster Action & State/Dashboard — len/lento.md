@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of tempo) slow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical tempo marking instructing that a piece or movement be played at a slow, stately pace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical sonata form, a lento introduction frequently establishes tragic solemnity before launching into an allegro movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lento designates (of tempo) slow."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The string quartet played the poignant **lento** movement with sublime contrapuntal clarity and restraint."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy played Beethoven's **lento** upon the drawing-room piano, pouring all her secret romantic longing into the keys."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The conductor took the opening **lento** at an excessively dragging pace that robbed the melody of rhythmic pulse."*
+

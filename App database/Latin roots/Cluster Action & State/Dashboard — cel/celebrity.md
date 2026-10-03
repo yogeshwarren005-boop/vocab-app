@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely known person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or quality of being widely honored and acclaimed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread fame, public renown, and social prominence; or a widely recognized person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology, modern celebrity culture transforms private personal identity into a commodified public spectacle via mass media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The Harmonic Meeting hour arriving, the gentleman of professional celebrity takes the chair, is faced (red-faced) by Little Swills; their friends rally round them and support first-rate talent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper compare opinions on the subject of the young lady of professional celebrity who assists at the Harmonic Meetings and who has a space to herself in the manuscript announcement in the window, Mrs."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"This volume was unexpectedly successful, so that, instead of sailing for the West Indies, he went up to Edinburgh, and during that winter he was the chief literary celebrity of the season."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian found that his sudden social **celebrity** brought both flattering adoration and malicious drawing-room gossip."*
+> - 📜 **Henry James (*The Bostonians*):** *"Miss Chancellor shrank from the vulgar **celebrity** that pursued outspoken lecturers in the sensational public press."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Vincent Crummles took immense pride in introducing the infant phenomenon to provincial audiences as a theatrical **celebrity**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perceived or discerned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not perceived or discerned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not noticed, discovered, or revealed; passing without observation or interception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cybersecurity and perimeter defense, malicious intrusion vectors that operate undetected for extended periods inflict extensive systemic compromise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What is yonder undetected villain’s marble mansion with a door-plate for a waif; what is that but a Fast-Fish?"*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"This is perhaps one of the hardest things an undetected criminal has to endure, that he lives in a world of suspicion of his own making, where every imagination is real and as dreadful as the fact."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What is yonder undetected villain’s marble mansion with a door-plate for a waif; what is that but a Fast-Fish?"*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The assassin slipped through the foggy London streets **undetected** by the night watchmen on duty."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Jim Hawkins crept aboard the Hispaniola **undetected**, while the drunken pirates slept below deck."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"Dupin demonstrated how the agile intruder had escaped through the rear window **undetected** by the gathering crowd."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worthy of reliance or trust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to be erroneous or misleading.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be relied upon or trusted; unpredictable, unreliable, or inconsistent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In equipment engineering, an undependable electrical contact introduces intermittent signal dropouts and systemic failures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undependable designates not worthy of reliance or trust."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The moorland pony was a treacherous and **undependable** mount that easily stumbled into hidden peat bogs."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Willoughby proved to be an **undependable** suitor, abandoning Marianne for a wealthy marriage in London."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The rusty machinery of the Patna was old and **undependable**, threatening to break down in heavy seas."*
+

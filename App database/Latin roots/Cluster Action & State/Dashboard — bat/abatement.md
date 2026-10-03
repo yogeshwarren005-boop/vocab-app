@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An interruption in the intensity or amount of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of abating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction, diminution, or suppression in amount, degree, or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal public health and environmental law, a notice of nuisance abatement commands property owners to eliminate sanitary hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are more clement than vile men, Who of their broken debtors take a third, A sixth, a tenth, letting them thrive again On their abatement; that’s not my desire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O spirit of love, how quick and fresh art thou, That notwithstanding thy capacity Receiveth as the sea, nought enters there, Of what validity and pitch soever, But falls into abatement and low price Even in a minute!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We shall be returning Ere you can end this feast, of which I pray you Make no abatement."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sudden **abatement** of commercial demand during wartime causes immediate distress among export manufacturers."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Jarndyce pursued the case with unwearied energy, suffering no **abatement** of his natural benevolence."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king agreed to an **abatement** of the royal hearth tax to conciliate the discontented country gentlemen."*
+

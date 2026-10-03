@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Under the feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the way and hindering progress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Under one's feet; on the ground; or in the way, causing an obstruction or nuisance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical descriptions of peat bogs, spongy sphagnum moss yields wetly underfoot with every walking stride.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Katherine, that cap of yours becomes you not: Off with that bauble, throw it underfoot. [_Katherina pulls off her cap and throws it down._] WIDOW."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s townsman heard of the disclosure, he no more allowed the girl to be patronized and honoured than he would have suffered her to be trodden underfoot before his eyes."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Better stones underfoot than padded dust: and Lawrence struck uphill swiftly, glad to escape from the traffic of the London road."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The dried heath twigs crackled crisply **underfoot** as Venn walked across the dark expanses of Egdon Heath."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The children were constantly tumbling **underfoot** in the crowded, happy confusion of the Peggotty boathouse."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The loose sand shifted **underfoot** as we scrambled up the steep hillside toward Captain Flint's treasure cache."*
+

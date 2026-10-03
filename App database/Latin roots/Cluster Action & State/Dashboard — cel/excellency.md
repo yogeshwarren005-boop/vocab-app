@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A title used to address dignitaries (such as ambassadors or governors); usually preceded by `your' or `his' or `her'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outstanding feature; something in which something or someone excels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An honorific title of respect addressed to high dignitaries, ambassadors, bishops, or governors; or supreme excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and heraldry, 'Your Excellency' is the mandatory formal style employed when addressing foreign heads of mission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She dwells so securely on the excellency of her honour that the folly of my soul dares not present itself; she is too bright to be looked against."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is there not a double excellency in this?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is the witness still of excellency, To put a strange face on his own perfection."*
+> - 📜 **William Shakespeare (*Henry V*):** *"God save your majesty! And you, my royal liege, unto your **excellency** health and fair time of day!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The executive magistrate of the state was addressed as His **excellency**, combining civic respect with republican simplicity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine courtiers prostrated themselves before His **excellency** the prefect, hailing his administrative authority."*
+

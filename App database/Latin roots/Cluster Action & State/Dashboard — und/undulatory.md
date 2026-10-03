@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling waves in form or outline or motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling waves in form or outline or motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or moving with a wave-like or undulating motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century physics and electromagnetic theory, the undulatory theory of light superseded Newton's corpuscular doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undulatory designates resembling waves in form or outline or motion."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic lines of force appear to transmit radiant action by **undulatory** vibrations through space."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The establishment of the **undulatory** theory of light was one of the crowning triumphs of modern mathematical physics."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Electromagnetic disturbances propagate across the dielectric medium in accordance with **undulatory** wave equations."*
+

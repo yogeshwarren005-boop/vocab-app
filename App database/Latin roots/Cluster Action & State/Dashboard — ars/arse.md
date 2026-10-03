@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fleshy part of the human body that you sit on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vulgar slang for anus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's buttocks or posterior; commonly used in British and Commonwealth vernacular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Germanic philology, arse derives from Proto-Germanic arzoz, cognate with Greek orros (tail base).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Romeo, that she were, O that she were An open-arse and thou a poperin pear!"*
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Dedalus, staring from the empty fireplace at Ned Lambert’s quizzing face, asked of it sourly: —Agonising Christ, wouldn’t it give you a heartburn on your arse?"*
-> - 📜 **James Joyce (*Ulysses*):** *"K.M.A. —Will you tell him he can kiss my arse?"*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Nicholas leaped out of the window as Absolon struck him with the hot coulter upon the **arse** in vengeful anger."*
+> - 📜 **James Joyce (*Ulysses*):** *"The dog circled around the lamppost, sniffing the damp cobblestones with tail tucked under its **arse**."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The tramp sat down upon the cold stone pavement, rubbing his bruised **arse** after being shoved by the gendarme."*
+

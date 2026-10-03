@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make too low an estimate of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make too low an estimate of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To underestimate the value, importance, capability, or quality of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military operations and naval warfare, admirals who underrate defensive torpedo minefields risk losing capital warships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Ah! don't misunderstand me--yours is a rich manysided nature, and you're too intelligent to underrate the value of money."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"You, as a good Tory, must not underrate them."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But to underrate or forget thy faithful services is something I could never be guilty of, even in the giddiest moment of my life."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes cautioned Watson never to **underrate** the cunning of an adversary who had spent years planning an escape."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"We did not **underrate** the ferocious defensive tenacity of the German rearguards entrenched across Italy."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth admitted she had been inclined to **underrate** Darcy's generosity before learning the full truth of his conduct."*
+

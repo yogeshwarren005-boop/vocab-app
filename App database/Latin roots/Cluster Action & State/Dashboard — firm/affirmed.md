@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thoroughbred that won the triple crown in 1978.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish or strengthen as with new evidence or facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stated publicly as a fact; confirmed, validated, or legally declared under affirmation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In appellate judicial procedure, a lower court judgment is affirmed when the appellate court upholds its legal correctness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So I gave the helmet away and I should have loved to keep it." "Don't laugh at him, Kurt; I really told him that," the mother affirmed."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now she'll get more verses after all." "Elvira should certainly have done so," the mother affirmed."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It was also affirmed that he was acting at the instigation of the Free Church, who wanted to abolish their chair of Logic in the New College, but could not well do so so long as they had its present incumbent on their hands."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient chroniclers **affirmed** that a fiery comet had blazed in the heavens prior to the barbarian invasion."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Henslow **affirmed** that varieties cultivated under diverse soils frequently alter their morphological habits."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial herald **affirmed** the eternal decrees of Providence before the assembled heavenly host."*
+

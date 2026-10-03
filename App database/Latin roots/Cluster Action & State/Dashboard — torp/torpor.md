@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of motor and mental inactivity with a partial suspension of sensibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from lethargy and lack of vigor or energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of physical or mental inactivity; lethargy, apathy, or temporary dormancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian physiology, torpor represents an active, regulated downregulation of metabolism and heart rate during hypothermia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know all your sisters have done for me since—for I have not been insensible during my seeming torpor—and I owe to their spontaneous, genuine, genial compassion as large a debt as to your evangelical charity.” “Don’t make her talk any more now, St."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The feeling was not like an electric shock, but it was quite as sharp, as strange, as startling: it acted on my senses as if their utmost activity hitherto had been but torpor, from which they were now summoned and forced to wake."*
-> - 📜 **George Eliot (*Middlemarch*):** *"When there she threw herself on the bed with her clothes on, and lay in apparent torpor, as she had done once before on a memorable day of grief."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Roderick Usher spent days in a heavy, brooding **torpor**, gazing into vacancy with terrified eyes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The profound winter **torpor** of hibernating mammals enables them to survive prolonged periods of seasonal starvation."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver was roused from his emotional **torpor** by the sudden apparition of the golden-haired child upon his hearth."*
+

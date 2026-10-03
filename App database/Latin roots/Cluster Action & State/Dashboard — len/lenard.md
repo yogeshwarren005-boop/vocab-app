@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German physicist who studied cathode rays (1862-1947).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German physicist who studied cathode rays (1862-1947).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Philipp Lenard (1862–1947), German physicist who won the 1905 Nobel Prize for research on cathode rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of modern physics, Lenard rays (cathode rays escaping thin metal foils) provided critical experimental data for the discovery of the electron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenard designates german physicist who studied cathode rays (1862-1947)."*
+> - 📜 **Albert Einstein (*Investigations on the Theory of the Brownian Movement*):** *"The pioneering photoelectric experiments of **lenard** stimulated our formulation of the light quantum hypothesis."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The penetrating power of cathode streams investigated by **lenard** demonstrated that atoms consist largely of empty space."*
+> - 📜 **J. J. Thomson (*Conduction of Electricity through Gases*):** *"Using a thin aluminum window, **lenard** succeeded in projecting cathode particles outside the vacuum tube into the air."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silly altercation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A silly altercation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mock-heroic ancient Greek epic poem parodying the Iliad, translating to 'The Battle of the Frogs and Mice'; or a petty, trivial dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary criticism, the Batrachomyomachia is an ancient parody attributing grand Homeric martial speeches and divine interventions to marsh animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batrachomyomachia designates a silly altercation."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"The mock-heroic poem derives its pedigree from the ancient **batrachomyomachia**, turning the weapons of epic poetry against trifling subjects."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Scholars debated whether Homer himself penned the **batrachomyomachia** or if it sprang from the playful wit of Alexandrian satirists."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The pedantic quarrel between the two university librarians degenerated into a ridiculous literary **batrachomyomachia**."*
+

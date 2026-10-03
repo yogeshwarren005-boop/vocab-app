@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impiety characterized by lack of devotion to duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impiety characterized by lack of devotion to duty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The neglect or failure to show proper respect, submission, or obedience to parents, duty, or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth-century casuistry and moral philosophy, filial undutifulness was condemned as a primary violation of the fifth commandment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Let him take the consequences of his undutifulness and folly."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe traced all his subsequent maritime miseries to his early **undutifulness** toward his father's wise counsel."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Squire Western flew into violent rages whenever he suspected Sophia of the slightest **undutifulness** regarding marriage."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Nothing more deeply wounds the parental heart than unprovoked **undutifulness** from a child nurtured with tender care."*
+

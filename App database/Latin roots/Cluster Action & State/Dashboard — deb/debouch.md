@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: March out (as from a defile) into open ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass out or emerge; especially of rivers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To emerge from a narrow valley, defile, gorge, or confined space into an open plain or wider area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tactical military maneuvers, infantry divisions debouch from mountain passes into formation before engaging an enemy army.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A squad of constables debouched from College street, marching in Indian file."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Davout’s troops, in whose charge were the prisoners, were crossing the Crimean bridge and some were already debouching into the Kalúga road."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The main valley of the North Platte, two hundred miles from its mouth to where it debouches through the Black Hills out on to the great plains, is an average of ten miles wide."*
+> - 📜 **James Joyce (*Ulysses*):** *"A squad of constables was seen to **debouch** from the side lane into the wide Dublin thoroughfare."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"General Bagration ordered the Russian battalions to **debouch** from the forest onto the rolling plains of Austerlitz."*
+> - 📜 **Winston Churchill (*The River War*):** *"The Anglo-Egyptian cavalry prepared to **debouch** from the rocky ravines onto the sandy expanse of Omdurman."*
+

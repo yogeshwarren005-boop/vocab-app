@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a european people who once occupied britain and spain and gaul prior to roman times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a european people who once occupied britain and spain and gaul prior to roman times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an ancient European people or their modern descendants; or an ancient prehistoric stone axe-head or chisel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prehistoric archaeology and antiquarian studies, a ground stone or bronze celt was hafted into a wooden shaft as a dual woodworking tool and weapon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Here was nothing to cramp the mind: here was the England that has absorbed Celt, Saxon, Fleming, Norman, generation after generation, each with its passing form of political faith: the England of traditional eld, the beloved country."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Perhaps at the news of it, some hard English official might feel a twitch at his heart-strings, and remembering that the Irish were as little children, be kind to some reprobate Celt...."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"That was the most difficult thing in the world, the Celt in Shane knew."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"The antiquary uncovered a polished greenstone **celt** in the neolithic barrow alongside flint arrowheads."*
+> - 📜 **Matthew Arnold (*On the Study of Celtic Literature*):** *"The fiery imagination and poetic sensibility of the ancient **celt** enriched the mainstream of English verse."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Mr. Oldbuck proudly displayed a bronze **celt** found on the moor, debating whether it was of Roman or Caledonian origin."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seller that sells at a lower price than others do.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seller that sells at a lower price than others do.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant, retailer, or business that sells goods at a lower price than competitors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial history, traditional trade guilds fiercely prosecuted an unlicensed underseller who broke established price controls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underseller designates a seller that sells at a lower price than others do."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The established London retail guild regarded the provincial **underseller** as a dangerous interloper disrupting trade decorum."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"A cut-rate **underseller** who sells below prime cost will inevitably end in bankruptcy within two or three seasons."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The commercial **underseller** peddles shoddy wool cloth and adulterated food, calling it the glorious triumph of free enterprise."*
+

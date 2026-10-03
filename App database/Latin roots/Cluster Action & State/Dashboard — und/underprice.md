@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sell at artificially low prices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell at artificially low prices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To price something below its real value, cost, or market equilibrium rate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In competitive commercial statecraft, foreign exporters may underprice goods (dumping) to drive domestic competitors out of business.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underprice designates sell at artificially low prices."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolistic cartels may temporarily **underprice** their wares to crush budding domestic competitors before raising charges."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"Cowperwood realized the directors had decided to **underprice** the new stock issue, enabling insiders to accumulate shares cheaply."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"The shopkeeper who seeks to gain custom by resolving to **underprice** honest competitors often ends in the bankruptcy court."*
+

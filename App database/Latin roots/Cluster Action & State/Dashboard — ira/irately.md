@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an irate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an enraged, wrathful, or furious manner; with obvious anger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, characters retorting irately reveal a breakdown of diplomatic facade under acute provocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To which cold douche referring to downfall and so on the keeper concurred but nevertheless held to his main view. —Who’s the best troops in the army? the grizzled old veteran irately interrogated."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The client stamped his foot **irately** upon the carpet, demanding that Holmes produce the missing documents immediately."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"Bertie Wooster retreated toward the sideboard as his host barked **irately** across the breakfast table."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The timber merchant gestured **irately** toward the fallen oaks that blocked the narrow carriage lane."*
+

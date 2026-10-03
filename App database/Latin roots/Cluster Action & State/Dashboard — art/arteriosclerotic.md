@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by arteriosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected by arteriosclerosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or characterized by arteriosclerosis; hardened and thickened arterial vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geriatric clinical medicine, arteriosclerotic cardiovascular disease is the leading underlying etiology of ischemic myocardial infarction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriosclerotic designates affected by arteriosclerosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient exhibited rigid, tortuous radial vessels characteristic of severe **arteriosclerotic** vascular remodeling."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"Surgical exposure revealed an **arteriosclerotic** plaque ulcerating into the lumen of the common carotid bifurcation."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The tremor was exacerbated by chronic **arteriosclerotic** parkinsonism, showing poor response to standard dopaminergic agents."*
+

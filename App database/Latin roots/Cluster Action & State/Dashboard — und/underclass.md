@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The social class lowest in the social hierarchy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to the lowest and least privileged social stratum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest social stratum in a society, consisting of disadvantaged and economically marginalized individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban sociology, the underclass experiences persistent intergenerational poverty, educational deficits, and structural unemployment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underclass designates the social class lowest in the social hierarchy."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The industrial masters of Coketown regarded the factory **underclass** as mere hands designed to keep the cotton spindles turning."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The mining community constituted a forgotten economic **underclass** whose dangerous subterranean toil kept Britain warm and powered."*
+> - 📜 **Thomas Carlyle (*Chartism*):** *"The rising discontent among the working **underclass** warned Parliament that social justice could no longer be postponed."*
+

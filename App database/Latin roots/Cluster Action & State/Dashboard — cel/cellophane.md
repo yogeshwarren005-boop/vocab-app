@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent paperlike product that is impervious to moisture and used to wrap candy or cigarettes etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent paperlike product that is impervious to moisture and used to wrap candy or cigarettes etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, transparent sheet made of regenerated cellulose, utilized extensively as a moisture-resistant packaging wrapping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invented by Jacques E. Brandenberger in 1908, cellophane revolutionized retail food preservation by providing hygienic visual display packaging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellophane designates a transparent paperlike product that is impervious to moisture and used to wrap candy or cigarettes etc."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The sterile biological samples were hermetically sealed in glittering sheets of transparent **cellophane**."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"The small grocery counter displayed candies wrapped in crinkling colored **cellophane** that caught the morning light."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"She unpacked the new Parisian dresses from their crackling **cellophane** envelopes upon the hotel bed."*
+

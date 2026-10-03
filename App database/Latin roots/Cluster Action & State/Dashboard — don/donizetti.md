@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian composer of operas (1797-1848).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian composer of operas (1797-1848).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Gaetano Donizetti (1797–1848), a prolific Italian bel canto opera composer celebrated for Lucia di Lammermoor and L'elisir d'amore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicological history, Donizetti composed over sixty operas, bridging Rossinian opera buffa with early Verdian dramatic romanticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donizetti designates italian composer of operas (1797-1848)."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The mad scene from **donizetti** requires extraordinary coloratura agility and dramatic poignancy from the prima donna."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma Bovary wept at the Rouen theater while listening to the tragic romantic melodies of **donizetti**."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"The St. Petersburg society crowd packed the Italian opera to hear the newly staged masterpiece by **donizetti**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Women's underwear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Women's underwear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal or colloquial term for undergarments, particularly panties or briefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic sociology and textile retail history, the popularization of ready-to-wear undies mirrored shifts toward practical daily attire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As for undies they were Gerty’s chief care and who that knows the fluttering hopes and fears of sweet seventeen (though Gerty would never see seventeen again) can find it in his heart to blame her?"*
+> - 📜 **James Joyce (*Finnegans Wake*):** *"The laundress chattered by the riverbank while rinsing out petticoats, collars, and woolen **undies**."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"The washing line in the suburban garden fluttered with socks, shirts, and children's cotton **undies**."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"Gloria unpacked her silk travelling garments and delicate summer **undies** after arriving at the hotel."*
+

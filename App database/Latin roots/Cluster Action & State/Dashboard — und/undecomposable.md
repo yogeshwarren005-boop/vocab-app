@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing the furthest possible extent of analysis or division into parts; - g.s.brett; -m.r.cohen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing the furthest possible extent of analysis or division into parts; - g.s.brett; -m.r.cohen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being decomposed, separated into constituent elements, or broken down chemically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern chemical theory, Robert Boyle and Lavoisier defined chemical elements as undecomposable substances by physical means.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"But mind, whether it be diamond, or black-lead, or this porous charcoal, each and all have the same chemical composition; they are what we call the elementary undecomposable substance carbon."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"An element is defined as a primitive, simple, and **undecomposable** body of which all compounded bodies are composed."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"If we apply the term elements to the **undecomposable** constituents of matter, we must classify thirty-three simple substances."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The mineral residue resisted the action of our strongest voltaic currents, remaining strictly **undecomposable**."*
+

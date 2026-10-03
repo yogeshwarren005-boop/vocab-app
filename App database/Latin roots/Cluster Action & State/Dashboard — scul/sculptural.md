@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of sculpture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling sculpture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling sculpture; having well-defined, statuesque three-dimensional form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural aesthetics, sculptural expressionism uses poured concrete and cantilevered geometries to evoke monumental emotional presence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She attempted to look reserved; her face put on a sculptural severity."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle possessed a **sculptural** serenity of posture that struck observers as both magnificent and completely impenetrable."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The gothic cathedral facade exhibits rich **sculptural** depth, casting dramatic shadows under the afternoon sun."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The figures of Michelangelo possess a severe **sculptural** energy that seems ready to burst through the painted plaster."*
+

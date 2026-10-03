@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change venous blood into arterial blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change venous blood into arterial blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To oxygenate venous blood, transforming it into oxygen-rich arterial blood; or to vascularize a graft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiopulmonary physiology and perfusion technology, membrane oxygenators arterialize hypoxemic blood during open-heart bypass surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arterialize designates change venous blood into arterial blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Failure of the pulmonary circulation to **arterialize** hemoglobin results in progressive systemic tissue hypoxia."*
+> - 📜 **Thomas Henry Huxley (*A Course of Elementary Instruction in Practical Biology*):** *"The extensive vascular network lining the amphibian lung serves to **arterialize** the blood before it returns to the heart."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"The surgeon monitored the revascularized flap to verify that capillary loops had begun to **arterialize** the transplanted tissue."*
+

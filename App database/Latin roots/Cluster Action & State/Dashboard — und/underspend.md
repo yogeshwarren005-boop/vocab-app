@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spend less than the whole of (a budget, for example).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spend at less than the normal rate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To spend less money than is budgeted, allocated, or available.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public finance administration, government departments that underspend their annual appropriations risk budget reductions in subsequent fiscal cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underspend designates spend less than the whole of (a budget, for example)."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Frugal administrators who **underspend** their allocated revenues build up public reserve funds against emergency crises."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The Admiralty was careful never to **underspend** on naval construction during periods of intense European dreadnought rivalry."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"Parliamentary committees scrutinize ministerial accounts to verify whether departments overspend or **underspend** their estimates."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the bones from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the bones from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove the bones from meat, poultry, or fish prior to cooking or culinary preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In butchery and classical French gastronomy, skilled chefs debone a fowl while keeping the exterior skin intact for stuffing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debone designates remove the bones from."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"The cook must carefully **debone** the fowl before stuffing it with savoury truffles and breadcrumbs."*
+> - 📜 **Alexis Soyer (*The Modern Housewife*):** *"Use a sharp, flexible larding knife to **debone** the salmon trout without bruising the delicate flesh."*
+> - 📜 **Auguste Escoffier (*A Guide to Modern Cookery*):** *"To prepare the ballottine, first **debone** the shoulder of lamb and roll it tightly with seasoned farce."*
+

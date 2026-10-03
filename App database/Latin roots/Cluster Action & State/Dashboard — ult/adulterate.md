@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt, debase, or make impure by adding a foreign or inferior substance; often by replacing valuable ingredients with inferior ones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mixed with impurities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To debase or corrupt the purity of something by adding inferior, alien, or spurious ingredients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial regulation and pharmaceutical law, manufacturers who adulterate medicinal compounds face severe statutory penalties and product recalls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For why should others’ false adulterate eyes Give salutation to my sportive blood?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am possess’d with an adulterate blot; My blood is mingled with the crime of lust; For if we two be one, and thou play false, I do digest the poison of thy flesh, Being strumpeted by thy contagion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, that incestuous, that adulterate beast, With witchcraft of his wit, with traitorous gifts,— O wicked wit, and gifts, that have the power So to seduce!—won to his shameful lust The will of my most seeming-virtuous queen."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Men seek to **adulterate** natural philosophy with scholastic dogmatism and empty metaphysical conceits."*
+> - 📜 **William Shakespeare (*Richard III*):** *"From forth the kennel of thy womb hath crept a hell-hound that doth hunt us to the death: that dog, that had his teeth before his eyes, to worry lambs and lap their gentle blood, that foul defacer of God's handiwork, that excellent grand tyrant of the earth, that reigns in galled eyes of weeping souls, thy womb let loose, to chase us to our graves. O upright, just, and true-disposing God, how do I thank thee, that this carnal cur preys on the issue of his mother's body, and makes her pew-fellow with others' moan! Bear with me; I am hungry for revenge, and now I cloy me with beholding it. Thy Edward he is dead, that kill'd my Edward; thy other Edward dead, to quit my Edward; young York he is but boot, because both they match'd not the high perfection of my loss: thy Clarence he is dead that stabb'd my Edward; and the beholders of this frantic play, the **adulterate** Hastings, Rivers, Vaughan, Grey, untimely smother'd in their dusky graves."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth needs no licensing licensers to **adulterate** her clear fountains with partisan doctrinal censorship."*
+

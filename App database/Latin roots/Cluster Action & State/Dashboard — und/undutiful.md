@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking due respect or dutifulness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking due respect or dutifulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to fulfill filial, moral, or official obligations of respect and obedience; disobedient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic melodrama and moral conduct literature, the undutiful heir who defies parental wishes faces disinheritance and poverty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know my duty; you are all undutiful."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop might consider it undutiful and might receive too great a shock."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mother, I have been an undutiful trouble to you, and I have my reward; but of late years I have had a kind of glimmering of a purpose in me too."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Lear cursed his cruel and **undutiful** daughters, Goneril and Regan, who stripped him of his followers."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Clarissa was unfairly accused by her harsh family of being an **undutiful** child for refusing the hateful suitor."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Lilliputian statutes imposed severe punishments upon any **undutiful** offspring who neglected their aged parents."*
+

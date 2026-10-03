@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent as less significant or important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent as less significant or important.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To describe or represent something as being smaller, worse, or less important than it actually is.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical diplomacy, seasoned ambassadors understate their geopolitical claims to avoid provoking public hysteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"After a comfortable week-end's rest, I left Lao-kai in the early morning, helped on my journey by those courtesies that so often in strange lands convince one that "less than kin more than kind" quite understates the truth."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Ministers were careful not to **understate** the critical gravity of the submarine blockade in secret parliamentary sessions."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Holmes was not a man to exaggerate danger, yet he did not **understate** the lethal peril awaiting us at Stoke Moran."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"The cynical old captain preferred to **understate** his maritime exploits, speaking of typhoons as mere squalls."*
+

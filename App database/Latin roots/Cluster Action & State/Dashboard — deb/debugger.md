@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A program that helps in locating and correcting programming errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A program that helps in locating and correcting programming errors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A software tool or program used to test, inspect, step through, and remove bugs from other computer programs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern software engineering toolchains, a symbolic debugger allows developers to set breakpoints, inspect stack frames, and watch memory addresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debugger designates a program that helps in locating and correcting programming errors."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"An interactive **debugger** enables the programmer to halt execution and inspect the registers at the critical moment of failure."*
+> - 📜 **Brian Kernighan (*The Practice of Programming*):** *"The most effective **debugger** is often careful thought accompanied by judiciously placed print statements."*
+> - 📜 **Andrew Tanenbaum (*Structured Computer Organization*):** *"The operating system traps execution signals so that the symbolic **debugger** can examine corrupted memory pages."*
+

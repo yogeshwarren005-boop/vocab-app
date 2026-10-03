@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retaining a solid form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retaining a solid form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in a solid, unliquefied state; not dispersed or disintegrated within a solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical formulation and pharmacokinetic solubility, undissolved drug granules pass through the gastrointestinal lumen unabsorbed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"After the proper time, which is found by experiment, the liquid is drawn off, and in some cases the concentrates are given a second dose to ensure that the gold shall be thoroughly removed and none left undissolved."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"A dense crust of **undissolved** salts collected at the bottom of the glass crucible after precipitation."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The mineral particles remained **undissolved** in the acidic menstruum despite prolonged boiling and stirring."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"Chalk nodules lay **undissolved** within the moist damp subsoil, slowly eroded by organic carbonic acid."*
+

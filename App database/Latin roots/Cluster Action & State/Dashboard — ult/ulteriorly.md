@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ulterior manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ulterior manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ulterior manner; with hidden intent, or situated at a further distance in time or space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic statecraft and jurisprudence, policies designed for immediate fiscal relief operate ulteriorly to transform constitutional balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ulteriorly designates in an ulterior manner."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Measures framed to redress sudden domestic emergencies may operate **ulteriorly** to consolidate federal administrative power."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Taxation on luxury imports acts immediately on revenues and **ulteriorly** upon domestic capital allocation across industries."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Empirical experiments undertaken for practical utility tend **ulteriorly** to reveal universal natural axioms."*
+

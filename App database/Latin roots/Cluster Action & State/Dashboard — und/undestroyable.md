@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very long lasting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being destroyed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being destroyed, ruined, annihilated, or broken down; indestructible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation chemistry and particle physics, foundational mass-energy relationships postulate undestroyable conservation of fundamental constituents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undestroyable designates very long lasting."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Human labor possesses an **undestroyable** reality that outlasts paper currencies and transient political factions."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The leviathan appeared an **undestroyable** titan of the deep, defying the iron harpoons of puny mortals."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The titan endured subterranean agony, fortified by an **undestroyable** love for humankind."*
+

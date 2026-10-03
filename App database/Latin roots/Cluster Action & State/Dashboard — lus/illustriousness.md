@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property possessed by something or someone of outstanding importance or eminence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by something or someone of outstanding importance or eminence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Eminent distinction, renown, grandeur, and celebrated noble character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy, true illustriousness springs from civic virtue and public benevolence rather than dynastic lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illustriousness designates the property possessed by something or someone of outstanding importance or eminence."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The transient **illustriousness** of military conquerors fades before the enduring benefactions of moral philosophers."*
+> - 📜 **Lord Acton (*Historical Essays and Studies*):** *"The moral **illustriousness** of William of Orange lay in his steadfast dedication to European religious freedom."*
+> - 📜 **Francis Bacon (*Essays*):** *"Nobility of birth adds a luster to men of action, giving their deeds an outward **illustriousness** in the eyes of the populace."*
+

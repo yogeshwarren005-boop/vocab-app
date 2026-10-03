@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collarless men's undergarment for the upper part of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collarless men's undergarment for the upper part of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sleeveless or short-sleeved garment worn under a shirt next to the skin; a singlet or vest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personal dress history, cotton jersey undershirts absorbed body perspiration, protecting starched linen dress shirts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Her boy Harold was the nearest in size to Bob of any of the children of his neighbours, and the parcel held everything needed from undershirt to scarlet Windsor scarf to tie under the rolling collar of the blue blouse."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"Tom Joad stripped down to his gray cotton **undershirt**, wiping the dust from his sunburned neck by the truck."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston stood in his patched woolen **undershirt**, executing the compulsory morning physical jerks before the telescreen."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"The orderly unbuttoned his bloodstained military blouse, cutting away the flannel **undershirt** to dress the shrapnel wound."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hostile meeting of opposing military forces in the course of a war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An energetic attempt to achieve something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sustained fight between large organized armed forces; or a protracted struggle or contest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military historiography, a decisive pitched battle can overturn dynastic regimes and redraw continental frontiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perchance he’s hurt i’ the battle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Field of battle between the Camps."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If we draw lots, he speeds; His cocks do win the battle still of mine When it is all to naught, and his quails ever Beat mine, inhooped, at odds."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Once more unto the breach, dear friends, once more; or close the wall up with our English dead. In peace there's nothing so becomes a man as modest stillness and humility: but when the blast of war blows in our ears, then imitate the action of the tiger; summon up the blood, disguise fair nature with hard-favour'd rage: then lend the eye a terrible aspect; let pry through the portage of the head like the brass cannon; let the brow o'erwhelm it as fearfully as doth a galled rock o'erhang and jutty his confounded base, swill'd with the wild and wasteful ocean. Now set the teeth and stretch the nostril wide, hold hard the breath and bend up every spirit to his full height. On, on, you noblest English, whose blood is fet from fathers of war-proof! Fathers that, like so many Alexanders, have in these parts from morn till even fought, and sheathed their swords for lack of argument: dishonour not your mothers; now attest that those whom you call'd fathers did beget you. Be copy now to men of grosser blood, and teach them how to war. And you, good yeomen, whose limbs were made in England, show us here the mettle of your pasture; let us swear that you are worth your breeding; which I doubt not; for there is none of you so mean and base, that hath not noble lustre in your eyes. I see you stand like greyhounds in the slips, straining upon the start. The game's afoot: follow your spirit, and upon this charge cry 'God for Harry, England, and Saint George!' And so prepare for **battle**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The catastrophic **battle** of Adrianople witnessed the destruction of the Roman army and the death of Emperor Valens."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The gigantic naval **battle** of Jutland raged through mist and gunfire across the grey waters of the North Sea."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin len within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of len in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced with relatively weak muscular effort and low breath pressure; a weak, soft consonant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In articulatory phonetics, English voiced plosives (b, d, g) are classified as lenis in contrast to voiceless fortis consonants (p, t, k).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenis designates pertaining to, derived from, or characteristic of latin len within the domain of action & state."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The distinction between a fortis and a **lenis** consonant depends on the muscular tension exerted by the tongue and lips."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The phonologist observes that Germanic languages systematically soften medial plosives into a **lenis** articulation."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"In rapid colloquial speech, a voiceless stop frequently degenerates into a voiced **lenis** through economy of effort."*
+

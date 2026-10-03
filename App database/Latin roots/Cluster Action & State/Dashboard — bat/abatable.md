@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being abated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being abated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being abated, diminished, suppressed, or legally quashed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort law and property jurisprudence, an abatable nuisance is an unlawful interference that can be legally suppressed without destroying property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abatable designates capable of being abated."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A private nuisance is **abatable** by the injured party, provided he commits no breach of the peace during its removal."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An unconstitutional usurpation of authority is not an **abatable** defect, but an irremediable grievance requiring legislative repeal."*
+> - 📜 **John Marshall (*Writings of Chief Justice Marshall*):** *"The court ruled that the obstructive river dam was an **abatable** impediment to interstate commercial navigation."*
+

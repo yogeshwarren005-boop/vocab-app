@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not diversified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not diversified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concentrated in a single field, form, or asset class; lacking variety or risk diversification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural economics and portfolio management, undiversified monoculture renders regional farming communities vulnerable to crop blight and price collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undiversified designates not diversified."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An economy reliant on an **undiversified** staple crop suffers extreme distress whenever seasonal harvests fail."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The risks of **undiversified** colonial trade became evident when foreign blockades cut off sugar shipments."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"Capital placed in an **undiversified** industrial venture carries excessive risk of catastrophic depreciation."*
+

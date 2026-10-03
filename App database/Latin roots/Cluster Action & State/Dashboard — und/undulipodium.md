@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin und within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of und in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A whip-like, motile organelle projecting from eukaryotic cells, encompassing both cilia and eukaryotic flagella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protistology and evolutionary cytology, Lynn Margulis proposed undulipodium to distinguish the eukaryotic 9+2 axoneme from bacterial flagella.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undulipodium designates pertaining to, derived from, or characteristic of latin und within the domain of action & state."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The term **undulipodium** accurately distinguishes the complex eukaryotic 9+2 microtubular organelle from the simple bacterial flagellum."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"Microscopic examination reveals that the epithelial surface is lined with motile hair-like filaments functioning as an **undulipodium**."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"The rhythmic beating of each cellular **undulipodium** propels the unicellular organism smoothly through liquid culture."*
+

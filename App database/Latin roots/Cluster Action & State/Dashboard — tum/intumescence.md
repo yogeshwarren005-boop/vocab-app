@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling up with blood or other fluids (as with congestion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The increase in volume of certain substances when they are heated (often accompanied by release of water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of swelling or being swollen; an enlargement, or a bubbling expansion caused by heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fire-retardant coatings and structural safety, intumescence designates the rapid thermal expansion of an insulating char layer that protects structural steel from fire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intumescence designates swelling up with blood or other fluids (as with congestion)."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"A fleshy **intumescence** develops upon the tendril at the point of contact with the supporting branch."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The sudden **intumescence** of the thermal spring warned the inhabitants of an impending subterranean shock."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The diagnostic inspection revealed an acute inflammatory **intumescence** behind the mastoid process."*
+

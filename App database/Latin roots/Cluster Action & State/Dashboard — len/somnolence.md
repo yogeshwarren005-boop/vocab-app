@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very sleepy state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very sleepy state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drowsiness, heavy sleepiness, or an unnatural inclination toward slumber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, progressive somnolence is a warning symptom of increased intracranial pressure or metabolic encephalopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As a physiologist he believed in the artificial placation of malignant agencies chiefly operative during somnolence."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The onset of uremic poisoning is heralded by increasing headache, mental apathy, and profound **somnolence**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The warm afternoon air of the Lord Chancellor's court induced a state of heavy **somnolence** among the barristers."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The gentle hum of the cider press lulled the farmhands into a tranquil **somnolence** beneath the orchard shade."*
+

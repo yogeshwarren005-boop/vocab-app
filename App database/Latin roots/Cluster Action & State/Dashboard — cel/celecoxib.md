@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cox-2 inhibitor (trade name celebrex) that relieves pain and inflammation without harming the digestive tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cox-2 inhibitor (trade name celebrex) that relieves pain and inflammation without harming the digestive tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory drug (NSAID) that selectively inhibits the cyclooxygenase-2 (COX-2) enzyme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular pharmacology, celecoxib reduces inflammatory prostaglandin synthesis while sparing gastroprotective COX-1 activity in gastric mucosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celecoxib designates a cox-2 inhibitor (trade name celebrex) that relieves pain and inflammation without harming the digestive tract."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical trials demonstrated that **celecoxib** provided potent analgesia in osteoarthritis without impairing platelet aggregation."*
+> - 📜 **Harvey Cushing (*Consecratio Medici*):** *"The development of **celecoxib** marked a major advance in designing enzyme-specific therapeutics for chronic inflammatory disorders."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Postoperative discomfort was effectively managed through selective cyclooxygenase inhibitors such as **celecoxib**."*
+

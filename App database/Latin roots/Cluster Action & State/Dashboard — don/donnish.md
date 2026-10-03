@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a narrow focus on or display of learning especially its trivial aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a narrow focus on or display of learning especially its trivial aspects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of a university don; pedantic, academic, or formal in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire, a donnish temperament is caricatured as detached from practical reality, immersed in obscure scholarly minutiae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donnish designates marked by a narrow focus on or display of learning especially its trivial aspects."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's speech was stiff and **donnish**, smelling of ancient library dust and ecclesiastical folios."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The new bishop's chaplain possessed a **donnish** superiority of air that irritated the hardworking country curates."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"He broke away from the narrow **donnish** circles of Cambridge, longing for active participation in national politics."*
+

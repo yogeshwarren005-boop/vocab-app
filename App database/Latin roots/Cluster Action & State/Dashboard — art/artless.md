@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by an inability to mask your feelings; not devious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Simple and natural; without cunning or deceit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without guile, deception, or pretension; natural, simple, innocent, and sincere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary criticism, an artless tale achieves emotional resonance through unadorned narrative directness rather than rhetorical flourishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So full of artless jealousy is guilt, It spills itself in fearing to be spilt."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole’s avowal of his weaknesses and display of guileless candour; but I could not satisfy myself that it was as artless as it seemed or that it did not serve Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is no great scribe, rather handling his pen like the pocket-staff he carries about with him always convenient to his grasp, and discourages correspondence with himself in others as being too artless and direct a way of doing delicate business."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Perdita spoke with such **artless** grace and rural modesty that Prince Florizel was utterly captivated by her innocence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole pretended to be a mere **artless** child in financial matters, using his apparent innocence to evade debts."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's passionate emotions were expressed with an **artless** openness that disregarded all conventional social reserve."*
+

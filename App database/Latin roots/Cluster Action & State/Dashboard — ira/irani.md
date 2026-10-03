@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of iran.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of iran.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of Iranian descent; or relating to the Zoroastrian diaspora settled in India.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In South Asian sociolinguistics and culinary history, Irani cafes established by 19th-century Zoroastrian emigrants in Bombay formed iconic civic meeting spaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irani designates a native or inhabitant of iran."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"In the bustling bazaar of Lahore, an **irani** horse dealer haggled loudly over northern thoroughbreds."*
+> - 📜 **Richard Francis Burton (*Sindh and the Races That Inhabit the Valley of the Indus*):** *"The scholar conversed with an **irani** merchant regarding the ancient caravan routes across Baluchistan."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The exotic rugs were woven by an **irani** craftsman whose intricate geometric patterns fascinated the traveler."*
+

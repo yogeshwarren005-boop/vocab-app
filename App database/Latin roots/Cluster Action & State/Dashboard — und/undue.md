@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet payable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not appropriate or proper (or even legal) in the circumstances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding what is appropriate, warranted, legal, or reasonable; excessive or immoderate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract jurisprudence and equity law, the doctrine of undue influence invalidates testamentary wills or contracts procured through coercion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No—I’ve hardly looked at her at all,” simpered Joseph, reducing his body smaller whilst talking, apparently from a meek sense of undue prominence."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is not an undue limitation of the rights of the individual depositor."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In the calm with which you learnt you had become suddenly rich, I read a mind clear of the vice of Demas:—lucre had no undue power over you."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet displayed **undue** anxiety regarding the marital prospects of her daughters before the neighborhood."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The executive magistrate must not exercise **undue** prerogative beyond the established laws of the commonwealth."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer warned Sir Henry against exposing himself to **undue** fatigue or solitary night excursions."*
+

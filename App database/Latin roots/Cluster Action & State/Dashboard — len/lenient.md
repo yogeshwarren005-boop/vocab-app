@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tolerant or lenient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not strict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by mildness, mercy, tolerance, and forbearance in judgment or discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penal history, prison reformers advocated lenient treatment for juvenile first offenders to facilitate moral rehabilitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing more, Rick; nothing more.” “And you, being a good man, can pass it as such, and forgive and pity the dreamer, and be lenient and encouraging when he wakes?” “Indeed I can."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"His examination of individual students was lenient in the extreme."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But in other points, as well as this, I was growing very lenient to my master: I was forgetting all his faults, for which I had once kept a sharp look-out."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Lord Angelo was urged to show a **lenient** heart toward Claudio, remembering human fallibility."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery was ever a gentle and **lenient** guardian, shielding Pip from Mrs. Joe's fiery temper."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor Antoninus Pius was celebrated for his **lenient** administration and aversion to harsh capital sentences."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abates a nuisance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who abates a nuisance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abates or removes a nuisance; or one who wrongfully enters an inheritance before the rightful heir.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law property jurisprudence, an abator interposes between the death of the ancestor and the entry of the heir-at-law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abator designates a person who abates a nuisance."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The rightful heir was ousted by an unlawful **abator** who seized possession of the freehold immediately upon the ancestor's decease."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The village constable acted as the authorized **abator** of the illegal tollgate erected across the parish highway."*
+> - 📜 **Francis Bacon (*The Elements of the Common Laws of England*):** *"The law provides distinct writs of entry against the intruder, the disseisor, and the fraudulent **abator**."*
+

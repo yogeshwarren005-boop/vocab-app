@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Official approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Official recognition or approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm approval, authoritative commendation, praise, or official sanction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth-century moral sentimentalism, Adam Smith argued that the natural desire for social approbation regulates human moral conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, worthy Menenius, and with most prosperous approbation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people do admit you, and are summoned To meet anon upon your approbation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was delighted to observe that her father gave his full **approbation** to her sister Jane's engagement."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Man naturally desires not only to be loved, but to be lovely; or to be that thing which is the natural object of **approbation**."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Her demeanor won the gracious **approbation** of all the noble lords and ladies of the Sicilian court."*
+

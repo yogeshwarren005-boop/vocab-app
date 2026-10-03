@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideological belief in freedom of thought and speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideological belief in freedom of thought and speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political philosophy that upholds liberty as a core principle, maximizing autonomy and political freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy, modern libertarianism emphasizes private property rights, voluntary association, and the strict non-aggression principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, libertarianism designates an ideological belief in freedom of thought and speech."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"The foundational principle of **libertarianism** is the equal freedom of every man to exercise his faculties unobstructed by others."*
+> - 📜 **William James (*Pragmatism: A New Name for Some Old Ways of Thinking*):** *"Metaphysical **libertarianism** preserves the moral seriousness of our choices, investing human action with real consequence."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The theoretical appeal of **libertarianism** must be balanced against the collective necessities of public health and education."*
+

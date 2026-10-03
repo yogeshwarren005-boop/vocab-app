@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin firm within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of firm in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical personal surname or given name derived from Latin Firminus, meaning 'firm' or 'steadfast'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hagiography and medieval church history, Saint Firmin of Amiens (Firminus) was a 3rd-century bishop and martyr commemorated in the cathedral sculptures of Amiens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Firmin Didot, (1764-1836), a printer of Paris, cast type of a hard alloy, and when his book-pages were composed, made an impression of them on a sheet of soft lead, thus forming a mold."*
+> - 📜 **John Ruskin (*The Bible of Amiens*):** *"The western portal of the cathedral commemorates Saint **firmin**, the early confessor whose steadfast faith founded the northern church."*
+> - 📜 **William Makepeace Thackeray (*The Adventures of Philip*):** *"Dr. George **firmin** was an imposing and fashionable physician whose polished manners disguised dark pecuniary embarrassments."*
+> - 📜 **Walter Pater (*Gaston de Latour*):** *"The ancient cathedral bells of Saint **firmin** pealed across the quiet river meadows at the vesper hour."*
+

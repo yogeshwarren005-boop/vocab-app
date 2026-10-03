@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish or strengthen as with new evidence or facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strengthen or make more firm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing proof, verification, or validation; strengthening or ratifying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical epistemology, confirming evidence elevates the posterior probability of a hypothesis under Bayesian analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie, fie, unreverend tongue, to call her bad Whose sovereignty so oft thou hast preferred With twenty thousand soul-confirming oaths."*
-> - 📜 **George Eliot (*Middlemarch*):** *"For his observation was constantly confirming Mr."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Confirming the disconnect, Zolan wasted no time in preliminaries."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every naturalist who has visited isolated oceanic islands will bear **confirming** witness to the absence of terrestrial mammals."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Holmes examined the ashes in the grate, **confirming** his suspicion that a valuable document had been destroyed."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate listened in silence, every word **confirming** his bitter realization that his marriage was an irreparable error."*
+

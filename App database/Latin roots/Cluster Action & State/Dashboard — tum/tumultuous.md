@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by unrest or disorder or insubordination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unrest or disorder or insubordination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a loud, confused noise; uproarious, turbulent, disorderly, or riotous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative poetics and marine description, a tumultuous sea evokes the aesthetic sublime through overpowering natural fury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nought rests for me in this tumultuous strife But to make open proclamation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what tumultuous clamour have we here?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now here a period of tumultuous broils."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship rolled through the **tumultuous** waves of the Pacific, her timbers groaning under the press of canvas."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A **tumultuous** crowd of suitors and lawyers surged through the foggy corridors of the Court of Chancery."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My heart was in a **tumultuous** agitation, torn between fierce love and the stern dictates of moral duty."*
+

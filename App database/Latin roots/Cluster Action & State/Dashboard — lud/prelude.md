@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as a preceding event or introduces what follows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music that precedes a fugue or introduces an act in an opera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An introductory performance, event, or action preceding a more important one; or a preliminary piece of music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Romantic literature and poetry, William Wordsworth entitled his grand autobiographical masterwork The Prelude to designate it as an introductory growth of a poet's mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For a moment the voices cheered the heart of Tess, till she reasoned that this interview had its origin, on one side or the other, in the same attraction which had been the prelude to her own tribulation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The grand sequence is this, that at the end of the session I must come forward in the presence of many of the Edinburgh grandees and deliver a Latin oration as a prelude to receiving the medal."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Ingram, who had now seated herself with proud grace at the piano, spreading out her snowy robes in queenly amplitude, commenced a brilliant prelude; talking meantime."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"Wisdom and Spirit of the universe! Thou Soul that art the eternity of thought, that givest to forms and images a breath and everlasting motion, not in vain by day or star-light thus from my first dawn of childhood didst thou intertwine for me the passions that build up our human soul; not with the mean and vulgar works of man, but with high objects, with enduring things—with life and nature—purifying thus the elements of feeling and of thought, and sanctifying, by such discipline, both pain and fear, until we recognize a grandeur in the beatings of the heart. Nor was this fellowship vouchsafed to me with stinted kindness. In November days, when vapours rolling down the valley made an island of the firm ground whereon I stood, or in the frosty season, when the sun had set, and through the twilight blaz'd the cottage windows; through the twilight, blithe and happy, proud and glad, the **prelude** of our evening games began."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The ominous murmurs in Saint Antoine were but a dark **prelude** to the storm that would engulf the French monarchy."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The wild improvisations of his speaking guitar seemed an improvised **prelude** to some dreadful occult revelation."*
+

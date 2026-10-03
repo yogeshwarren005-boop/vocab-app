@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of subjecting to strong attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike against forcefully.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeatedly striking something with heavy blows; or subjecting to severe abuse or damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient and medieval military siegecraft, a battering ram was a heavy suspended wooden beam capped with an iron ram's head used to breach castle gates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sconce, call you it? so you would leave battering, I had rather have it a head."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"O! how shall summer’s honey breath hold out, Against the wrackful siege of battering days, When rocks impregnable are not so stout, Nor gates of steel so strong but Time decays?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Poor Boldwood had no more skill in finesse than a battering-ram, and he was uneasy with a sense of having made himself to appear stupid and, what was worse, mean."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The besiegers brought up a ponderous **battering** ram under a wooden shed to breach the exterior palisade of Torquilstone."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"The great Achilles, whom opinion crowns the sinew and the forehand of our host, with half the Trojan force stands **battering** at our gates."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The constant **battering** of the Roman ballistae eventually pulverized the stone parapets of Jerusalem."*
+

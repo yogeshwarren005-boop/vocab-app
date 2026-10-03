@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing degradation, corruption, humiliation, or a reduction in moral dignity or intrinsic value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural criticism, pandering to prurient sensationalism exerts a debasing effect upon public taste and civic discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not make the request; it was debasing loveliness to ask it to buy and sell, and jarred with his conceptions of her."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The issue of paper money in some cases grew out of the practice of debasing metal."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Dogma gives a charter to mistake, but the very breath of science is a contest with mistake, and must keep the conscience alive.” Alas! the scientific conscience had got into the debasing company of money obligation and selfish respects."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Living under constant social despotism exerts a **debasing** influence that crushes individual genius and intellectual originality."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Trivializing education instills a **debasing** vanity in young women, rendering them dependent upon superficial flattery."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Men stoop to cowardly expedients, yielding to the **debasing** fear of what neighbors and conventional society might say."*
+

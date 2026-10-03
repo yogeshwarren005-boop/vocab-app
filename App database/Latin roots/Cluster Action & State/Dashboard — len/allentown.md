@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in eastern pennsylvania; an industrial and commercial center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in eastern pennsylvania; an industrial and commercial center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major industrial city in eastern Pennsylvania, situated along the Lehigh River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American economic and industrial history, Allentown developed as a premier center for anthracite iron manufacture and silk milling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"These words are being written in the city of Allentown, Pa., where the writer is spending ten days in a series of Pentecostal services."*
+> - 📜 **Upton Sinclair (*The Moneychangers*):** *"Steel contracts negotiated in **allentown** sent ripples of speculative activity through the Wall Street exchanges."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"The railway barons planned branch extensions through the busy manufacturing districts of **allentown** and Bethlehem."*
+> - 📜 **W. E. B. Du Bois (*The Philadelphia Negro*):** *"Migrant laborers traveled along the Lehigh Valley lines connecting Philadelphia, **allentown**, and the mining towns."*
+

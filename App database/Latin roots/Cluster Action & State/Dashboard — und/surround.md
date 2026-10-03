@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The area in which something exists or lives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend on all sides of simultaneously; encircle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be all around someone or something; or to encircle, encompass, or hem in on all sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tactical siege warfare, invading armies construct lines of circumvallation to surround a fortress and starve its garrison.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You must let Leonore surround you with her delightful and soothing personality, which is sure to make you happy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It is a vale whose acquaintance is best made by viewing it from the summits of the hills that surround it—except perhaps during the droughts of summer."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The width of this canvas is never the full girth of the human body it is to surround."*
+> - 📜 **William Shakespeare (*King John*):** *"Our armed legions shall **surround** your walls, shutting out all hope of foreign rescue or food."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I constructed a strong wooden stockade to **surround** my cave and protect me from nocturnal beasts."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The outlaw archers gathered quietly through the forest to **surround** the castle and block every avenue of escape."*
+

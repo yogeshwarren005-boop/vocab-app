@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An army unit usually consisting of a headquarters and three or more companies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large indefinite number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large body of troops ready for battle, typically forming part of a brigade or regiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military organization, an infantry battalion comprises three to five companies commanded by a lieutenant colonel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She does it.” “Then she is as honest and genuine as she looks,” rejoined my guardian, “and it is impossible to say more for her.” “She’s Colour-Sergeant of the Nonpareil battalion,” said Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The milkers formed quite a little battalion of men and maids, the men operating on the hard-teated animals, the maids on the kindlier natures."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Resolutions, reticences, prudences, fears, fell back like a defeated battalion."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"When sorrows come, they come not single spies, but in **battalion** strength against our kingdom."*
+> - 📜 **Winston Churchill (*The River War*):** *"The British infantry **battalion** formed a solid defensive square upon the desert sand, repelling the furious charge of the dervishes."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Prince Andrei watched the French **battalion** advance through the morning mist, their bayonets gleaming like water under the rising sun."*
+

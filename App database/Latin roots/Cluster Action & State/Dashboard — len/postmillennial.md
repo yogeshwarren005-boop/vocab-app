@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the period following the millennium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the period following the millennium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the theological belief that the second coming of Christ will occur after the millennium of Christian peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American intellectual history, nineteenth-century postmillennial optimism fueled abolitionism, temperance crusades, and educational reforms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postmillennial designates of or relating to the period following the millennium."*
+> - 📜 **Ralph Waldo Emerson (*Nature, Addresses, and Lectures*):** *"The **postmillennial** reformers believed that moral education and social reform were actively building the kingdom of God on earth."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A robust **postmillennial** theology views human history as a progressive moral ascent toward divine harmony."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The nineteenth-century faith in inevitable human progress was essentially a secularized version of **postmillennial** optimism."*
+

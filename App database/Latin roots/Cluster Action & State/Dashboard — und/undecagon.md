@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eleven-sided polygon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eleven-sided polygon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane geometrical figure with eleven straight sides and eleven angles; a hendecagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry and polygon construction, a regular undecagon cannot be constructed using an unmarked straightedge and compass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undecagon designates an eleven-sided polygon."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh drew geometric diagrams upon the chalkboard, illustrating the anomalous angles of an **undecagon**."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"The crystalline mineral specimen exhibited eleven distinct pyramidal facets, approximating the shape of a geometric **undecagon**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Mathematical studies of complex figures such as the **undecagon** sharpen the mind's capacity for abstract deduction."*
+

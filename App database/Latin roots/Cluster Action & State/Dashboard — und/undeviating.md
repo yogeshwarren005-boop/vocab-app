@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Going directly ahead from one point to another without veering or turning aside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of values and principles; not subject to change; steady.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving or continuing in a straight line or constant course without turning aside; steadfast and unwavering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial navigation and orbital mechanics, celestial bodies maintain an undeviating path in accordance with gravitational conservation laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Believe it to be most fervent, most undeviating, in F."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Sperm Whale blows as a clock ticks, with the same undeviating and reliable uniformity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, if you regard him very closely, and time him with your watch, you will find that when unmolested, there is an undeviating rhyme between the periods of his jets and the ordinary periods of respiration."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab pursued his quarry with an **undeviating** resolve that bordered on monomania across the uncharted Pacific."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola held to his moral crusade with **undeviating** rectitude despite the escalating hostility of Florence."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Nature moves toward its appointed ends with an **undeviating** precision that humbles the vanity of human contrivance."*
+

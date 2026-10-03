@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plain to see.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plain to see.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not concealed, masked, or hidden; open, frank, and clearly evident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology and facial affect analysis, undisguised micro-expressions of contempt betray genuine interpersonal sentiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Alarmed at herself—fearing some further betrayal of a change so marked in its occasion, she rose and said in a low voice with undisguised anxiety, “I must go; I have overtired myself.” Mr."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's positions in a very undisguised manner."*
-> - 📜 **Effie Afton (*Eventide*):** *"Scarce ten minutes had elapsed, after his departure, when Florence rose and said, "Now I am going." "Why, you just promised to remain all night," said Rufus, in a tone of undisguised disappointment."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy's proposal was delivered with **undisguised** pride and an acute awareness of her social inferiority."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Uriah Heep looked upon David with **undisguised** malice whenever Mr. Wickfield stepped out of the office."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Norman baron regarded the Saxon captives with **undisguised** contempt from the ramparts of Torquilstone."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of resentful anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of resentful anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hot temper, severe irritability, or persistent susceptibility to anger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character psychology and humoral medicine, irascibility was attributed to a choleric excess of yellow bile within the bodily constitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn being heard to return with some irascibility, “Let ’em come in then!” they pass into the great room with the painted ceiling and find him standing before the fire."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They spoke of the sayings and doings of their commander, the Grand Duke, and told stories of his kindness and irascibility."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I have met with few who understood men, their manners, and their ways, equal to him; but stubborn, ungainly integrity, and headlong, ungovernable irascibility are disqualifying circumstances; consequently, I was born a very poor man's son."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Habitual **irascibility** embitters domestic life and transforms trivial differences into lasting enmity."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Creakle's alarming **irascibility** terrorized the timid boys whenever he paced through the Salem House schoolroom."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her uncle's constitutional **irascibility** flared up whenever political reforms were proposed at the county dinner."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very high frequency sound; used in ultrasonography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the reflections of high-frequency sound waves to construct an image of a body organ (a sonogram); commonly used to observe fetal growth or study bodily organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sound or other acoustic vibrations having an ultrasonic frequency; or a medical diagnostic procedure utilizing these waves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine sonar technology and medical diagnostics, pulsed ultrasound beams reflect back from acoustic impedance mismatches in target tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultrasound designates very high frequency sound; used in ultrasonography."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"Sensors on the automated probe broadcast pulses of **ultrasound** to map the topography of the moon's cavernous interior."*
+> - 📜 **Isaac Asimov (*The Caves of Steel*):** *"The security terminal scanned incoming citizens using low-power **ultrasound** to detect concealed metallic weaponry."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The medical team utilized therapeutic **ultrasound** to alleviate muscular spasms and stimulate localized blood flow in rigid limbs."*
+

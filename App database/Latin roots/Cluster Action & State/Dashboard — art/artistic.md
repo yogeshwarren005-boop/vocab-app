@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of art or artists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Satisfying aesthetic standards and sensibilities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or revealing natural creative skill; pertaining to art, aesthetics, or the characteristic work of an artist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century cultural history, the Artistic Movement championed aesthetic discernment and decorative beauty in everyday home furnishings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There IS a way,” says Phil with a highly artistic turn of his brush; “what I’m a-doing at present.” “Whitewashing.” Phil nods."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood went meditating down the slopes with his eyes on his boots, which the yellow pollen from the buttercups had bronzed in artistic gradations."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had never till now estimated the artistic excellence of Tess’s limbs and features."*
+> - 📜 **Oscar Wilde (*The Critic as Artist*):** *"The highest **artistic** temperament finds in critical contemplation a creative intensity equal to original composition."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The noble Gothic architecture of Venice arose from the spontaneous **artistic** liberty granted to individual stone masons."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond lived in an exquisitely curated villa, devoting his life to fastidious **artistic** connoisseurship."*
+

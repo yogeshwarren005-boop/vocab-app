@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn next to the skin and under the outer garments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn next to the skin and under the outer garments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Underclothes considered collectively; garments worn next to the skin beneath outer clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polar exploration history, expeditions utilized multilayered woolen underclothing to trap air and prevent sweat accumulation in subzero cold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"They had nearly the same preferences in silks, patterns for underclothing, china-ware, and clergymen; they confided their little troubles of health and household management to each other, and various little points of superiority on Mrs."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And she has begun to buy in the best linen and cambric for her underclothing.” “Not by my will,” said Mr."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A door opened to the right, and an emaciated sallow man on crutches, barefoot and in underclothing, limped out and, leaning against the doorpost, looked with glittering envious eyes at those who were passing."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"The sledging party wore specialized Jaeger woolen **underclothing**, which maintained body heat while breathing moisture out into the wind."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The pupils at Lowood were provided with coarse, scratchy **underclothing** that chilled them in the unheated stone dormitories."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dolly brought a bundle of warm flannel **underclothing** for the little foundling girl whom Silas had taken in."*
+

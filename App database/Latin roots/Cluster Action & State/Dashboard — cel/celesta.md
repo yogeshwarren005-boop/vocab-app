@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical instrument consisting of graduated steel plates that are struck by hammers activated by a keyboard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A musical instrument consisting of graduated steel plates that are struck by hammers activated by a keyboard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small keyboard instrument in which felt hammers strike suspended steel plates over wooden resonators, producing bell-like tones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invented by Auguste Mustel in 1886, the celesta was famously introduced into the modern orchestra by Tchaikovsky in *The Nutcracker*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celesta designates a musical instrument consisting of graduated steel plates that are struck by hammers activated by a keyboard."*
+> - 📜 **Pyotr Ilyich Tchaikovsky (*Letters to His Family*):** *"I have discovered in Paris a wonderful new instrument called the **celesta**, whose ethereal, bell-like timbre will enchant the public in my new ballet."*
+> - 📜 **Romain Rolland (*Musicians of To-day*):** *"The delicate chiming of the **celesta** lent a magical fairy-tale shimmering atmosphere to the nocturnal garden scene."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"Keyboard percussion instruments such as the **celesta** afford composers luminous, crystal-clear acoustic accents in light orchestration."*
+

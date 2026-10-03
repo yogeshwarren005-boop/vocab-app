@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making less strict.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making less strict.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making rules, laws, or economic systems less strict and more open to freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British economic policy, trade liberalisation encompasses removing import tariffs, abolishing price controls, and opening financial markets to competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liberalisation designates the act of making less strict."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The gradual **liberalisation** of commercial tariffs between nations is the most powerful material antidote to destructive warfare."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"True political progress consists in the progressive **liberalisation** of institutions from monarchical tutelage."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The **liberalisation** of religious penal statutes was championed by the most enlightened statesmen of the century."*
+

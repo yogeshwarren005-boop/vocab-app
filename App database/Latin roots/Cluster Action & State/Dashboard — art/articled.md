@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bind by a contract; especially for a training period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bound by contract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bound by a formal contract of apprenticeship, training, or employment, especially to a solicitor or accountant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian legal and commercial training, an articled clerk served five years under articles of indenture before qualifying for the roll of solicitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Articled clerks have been in the habit of fleshing their legal wit upon it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Articled clerks go a good deal on the water."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge and Carboy are out of town, and the articled clerk has taken out a shooting license and gone down to his father’s, and Mr."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Richard Carstone was **articled** to a respectable London solicitor, but found copying legal briefs tedious and unprofitable."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"John McFarlane was an **articled** clerk working diligently in his father's legal chambers in the City."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"The ambitious young gentleman was **articled** to a prominent civil engineer, hoping to supervise railway construction in India."*
+

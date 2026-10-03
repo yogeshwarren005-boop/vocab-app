@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking brilliance or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking luster or shine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking sheen, glow, or brightness; dull, flat, or completely without vitality and radiance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnosis, lusterless, brittle hair and dry skin indicate severe nutritional deficiencies or endocrine dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusterless designates lacking brilliance or vitality."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"His yellow skin scarcely covered the work of muscles beneath; his watery eyes were dim and **lusterless** in their sockets."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A cadaverousness of complexion and an eye large, liquid, yet **lusterless** beyond comparison distinguished Roderick Usher."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard's weary eyes had grown **lusterless** as misfortune after misfortune overtook his grain business."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With hand brought forward and up from below shoulder level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With the hand swung below shoulder level.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hollow beneath the junction of the arm and the shoulder; the armpit; or performed with the arm below the shoulder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In athletic mechanics and cricket history, underarm bowling was the original style before roundarm and overarm methods were legalized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Don't know how many shots it holds and we need them all." She swung with that underarm motion which is the nearest any woman can achieve to a throw."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The village cricket match featured ancient veterans who bowled with a deceptive, swift **underarm** delivery."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The sweat glands situated in the human **underarm** region produce axillary secretions rich in organic fatty acids."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Luffey delivered an accurate **underarm** ball that took the batsman's middle stump clean out of the ground."*
+

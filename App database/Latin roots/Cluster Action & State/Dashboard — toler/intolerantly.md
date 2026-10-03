@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intolerant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a narrow-minded manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that refuses to accept different opinions, practices, or people; narrow-mindedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political debate, dogmatists arguing intolerantly refuse to acknowledge legitimate empirical counter-evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intolerantly designates in an intolerant manner."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The high church faction acted **intolerantly** toward dissenting Protestant congregations throughout the kingdom."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"Partisan bureaucrats enforce regulations **intolerantly**, ignoring the practical hardships inflicted upon private enterprises."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A dominant religious sect that rules **intolerantly** alienates loyal citizens and provokes covert disaffection."*
+

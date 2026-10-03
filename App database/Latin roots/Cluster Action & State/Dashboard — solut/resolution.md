@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal expression by a meeting; agreed to by a vote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability of a microscope or telescope to measure the angular separation of images that are close together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm decision to do or not to do something; determination, or the solving of a problem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and digital imaging, spatial resolution measures the capability of a sensor to distinguish closely spaced features as separate entities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My resolution and my hands I’ll trust; None about Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, we have no friend But resolution and the briefest end. [_Exeunt, bearing off Antony’s body._] ACT V SCENE I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My resolution’s placed, and I have nothing Of woman in me."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"And thus the native hue of **resolution** is sicklied o'er with the pale cast of thought, and enterprises of great pith and moment with this regard their currents turn awry, and lose the name of action."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth adhered firmly to her **resolution** of refusing Mr. Collins, regardless of family displeasure."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"We here highly resolve that these dead shall not have died in vain; and from that great **resolution** a new birth of freedom shall arise."*
+

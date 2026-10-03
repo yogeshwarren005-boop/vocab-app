@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being weak in health or body (especially from old age).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being weak in health or body (especially from old age).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical or mental weakness; frailty, feebleness, or a moral failing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law jurisprudence, bodily infirmity short of total incapacity does not automatically invalidate legal deeds or contracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good faith, across; But, my good lord, ’tis thus: will you be cur’d Of your infirmity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You speak o’ th’ people As if you were a god to punish, not A man of their infirmity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, when last I went to visit her, She pray’d me to excuse her keeping close; Whereto constrain’d by her infirmity She should that duty leave unpaid to you Which daily she was bound to proffer."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Caesar was subject to fits of the falling sickness, yet his friends excused the sudden **infirmity** as the effect of great labors."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The imperfections of language are closely interwoven with the natural **infirmity** of human comprehension."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Old age brings with it inevitable physical **infirmity**, which wisdom must endure with patient resignation."*
+

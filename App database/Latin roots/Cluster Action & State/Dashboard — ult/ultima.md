@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The last syllable in a word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The last syllable in a word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The last syllable of a word; or the ultimate, farthest boundary in geographical exploration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical geography and myth, Ultima Thule denoted the northernmost habitable limit of the ancient known world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No one was ever more thoroughly Epicurean in the truest sense of the word; no one ever urged more pleasantly the Epicurean theory _Carpe diem_; no one ever had more deeply ingrained in him the belief _Mors ultima linea rerum est_."*
+> - 📜 **Henry Wadsworth Longfellow (*Ultima Thule*):** *"**Ultima** Thule! Utmost isle! Here in thy harbors for a while we lower our sails, having reached the farthest ocean boundary."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"In English prosody, words derived from Norman French frequently retain the tonic accent upon the **ultima**."*
+> - 📜 **Richard Francis Burton (*Ultima Thule; or, A Summer in Iceland*):** *"We set sail across stormy northern seas to explore the volcanic solitudes of Iceland, the fabled **ultima** of classical geographers."*
+

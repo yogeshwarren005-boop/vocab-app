@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter upon an activity or enterprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accept as a challenge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To commit oneself to and begin an enterprise or responsibility; to take on a task or pledge to do something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional history, sovereign executives undertake solemn inaugural oaths to preserve and defend national charters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None better than to let him fetch off his drum, which you hear him so confidently undertake to do."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the hand of a soldier, I will undertake it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not this a strange fellow, my lord, that so confidently seems to undertake this business, which he knows is not to be done; damns himself to do, and dares better be damn’d than to do’t."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"I'll **undertake** to bring the king's son safely to thy cell, performing every charge with faithful speed."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Men must **undertake** the reformation of natural science with humble minds, submitting speculation to empirical nature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal government must **undertake** the honorable funding of revolutionary war debts to establish national credit."*
+

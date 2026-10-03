@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by indirect references.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by indirect references.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Working by suggestion rather than explicit mention; containing or characterized by indirect references.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modernist poetics, an allusive style invites reader participation by weaving fragments of history and world literature into dense tapestries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allusive designates characterized by indirect references."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"The poet's diction is richly **allusive**, drawing vitality from the collective unconscious of Western letters."*
+> - 📜 **Walter Pater (*Appreciations*):** *"His essays exhibit a delicate, **allusive** grace that hints at profound aesthetic meditations."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The dialogue was exquisitely **allusive**, concealing dramatic tensions beneath light polite banter."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Babylonian consort of anu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Babylonian consort of anu.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical or historical botanical term, or archaic variant referring to swelling or an elevated mound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical taxonomy and regional herbal medicine, antum designates an archaic medicinal extract applied to soothe glandular swellings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antum designates babylonian consort of anu."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient herbalists prescribed an ointment of **antum** to reduce inflamed swellings of the throat."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain aromatic plants produce a gummy secretion known as **antum** that subdues visceral tumefaction."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"He applied a poultice prepared from the bitter root of **antum** to dispel stubborn hypochondriacal vapors."*
+

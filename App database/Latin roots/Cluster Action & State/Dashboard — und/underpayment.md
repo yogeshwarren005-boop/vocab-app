@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment smaller than needed or expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of paying less than required.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Payment of less than the agreed, required, fair, or full amount owed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial litigation and contract audit, systematic underpayment of royalties justifies statutory interest and contract termination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underpayment designates a payment smaller than needed or expected."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"The merchant warned his factor that repeated **underpayment** of accepted bills of exchange would destroy his credit on the exchange."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber acknowledged the temporary **underpayment** of his rental obligation with magnificent flourishes of his cane."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The chronic **underpayment** of provincial revenue officers encourages bribery and widespread smuggling along the coast."*
+

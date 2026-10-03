@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A span of 1000 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (new testament) in revelations it is foretold that those faithful to jesus will reign with jesus over the earth for a thousand years; the meaning of these words have been much debated; some denominations (e.g. jehovah's witnesses) expect it to be a thousand years of justice and peace and happiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of one thousand years, especially calculated from the traditional birth of Christ; or a future golden age of peace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In apocalyptic theology and eschatology, the Millennium refers to the prophesied thousand-year earthly reign of righteousness in Revelation 20.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rank and file might be willing to talk of the millennium, but preferred to take it in instalments instead of waiting for it to come some centuries after they were dead."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"We may laugh at their crudity--their certainty that, once orthodoxy has been destroyed by argument, the millennium will begin; what is more to the purpose is to recognise that here is something more than the ordinary dogmatism of youthful ignorance."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Barrie [James Matthew Barrie] A Millennium Fulcrum Edition produced in 1991 by Duncan Research."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"As the close of the first **millennium** approached, a widespread panic seized Europe that the end of the world was at hand."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The establishment of a unified world federation promised to usher in a new **millennium** of scientific prosperity and peace."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Foolish dreamers expect a political **millennium** to arrive through mechanical acts of parliament alone."*
+

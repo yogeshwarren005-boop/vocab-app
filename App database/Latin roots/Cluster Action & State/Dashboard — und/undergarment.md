@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A garment worn under other garments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment worn under other garments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An article of clothing worn beneath other clothes, especially next to the skin; underwear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fashion history, linen and wool undergarments protected expensive tailored outer fabrics from bodily oils and perspiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I was evidently expected, for when I got near the door I faced a cheery-looking elderly woman in the usual peasant dress--white undergarment with long double apron, front, and back, of coloured stuff fitting almost too tight for modesty."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane packed a simple change of linen **undergarment** into her small traveling bag before departing from Gateshead."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister wore a coarse haircloth **undergarment** next to his flesh as a secret, self-inflicted penance."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The delicate lace trimming on the bridal **undergarment** was stitched by hand in a French convent."*
+

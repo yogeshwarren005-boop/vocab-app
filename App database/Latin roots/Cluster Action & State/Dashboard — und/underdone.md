@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficiently cooked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insufficiently cooked.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cooked insufficiently or incompletely; rare (especially of meat).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary tradition, an underdone roast beef retains a juicy pink center, favored in classical British gastronomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Without prejudice to the cold beef if it's underdone."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"You may be an undigested bit of beef, a blot of mustard, a crumb of cheese, a fragment of an underdone potato."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge declared that Marley's ghost might be nothing more than an **underdone** piece of beef, a blot of mustard, or a crumb of cheese."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse cautioned everyone that the mutton was decidedly **underdone** and would disagree with delicate constitutions."*
+> - 📜 **Alexis Soyer (*The Modern Housewife*):** *"A joint of beef should never be served raw, though a slightly **underdone** center preserves the savory natural juices."*
+

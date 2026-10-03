@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel relaxed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel relaxed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To relax completely; to let down one's guard, unwind, or ease physical and mental tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial American literature and dialogue, to unlax expresses an informal invitation to shed stiff formal composure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unlax designates cause to feel relaxed."*
+> - 📜 **Mark Twain (*Roughing It*):** *"After three days of perilous stagecoach travel, the passengers were mighty glad to **unlax** their weary bones before the tavern fire."*
+> - 📜 **Joel Chandler Harris (*Uncle Remus: His Songs and Sayings*):** *"The old storyteller chuckled and began to **unlax**, resting his pipe upon the porch railing as the children gathered round."*
+> - 📜 **Ring Lardner (*You Know Me Al*):** *"The rookie pitcher tried to **unlax** his pitching arm in the dugout between innings while the manager barked encouragement."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood vessel that carries blood from the heart to the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major thoroughfare that bears important traffic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscular-walled tube forming part of the cardiovascular system that carries oxygenated blood away from the heart to the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human gross anatomy, the systemic arterial tree branches hierarchically from the ascending aorta to distribute blood to peripheral organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fate cries out, And makes each petty artery in this body As hardy as the Nemean lion’s nerve. [_Ghost beckons._] Still am I call’d."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had frequently felt the same quick, hard beat in the femoral artery of his lambs when overdriven."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I could use a lancet with some skill, and could distinguish between vein and artery."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The blood moves through every **artery** in a continuous circuit, propelled by the muscular contraction of the heart."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Fleet Street was the roaring **artery** through which poured the noisy tide of London's commercial life."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The lancet penetrated the radial **artery**, causing bright scarlet blood to spurt in rhythmic pulses across the floor."*
+

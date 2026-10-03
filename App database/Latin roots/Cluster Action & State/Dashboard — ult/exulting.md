@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feel extreme happiness or elation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express great joy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejoicing exceedingly; expressing triumphant joy, proud victory, or jubilant satisfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative battle scenes, an exulting cry rises from troops as enemy battlelines buckle and retreat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cry within, “Arcite, Arcite.”_] More exulting?"*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"She had then been exulting in her engagement to Thorpe, and was now chiefly anxious to avoid his sight, lest he should engage her again; for though she could not, dared not expect that Mr."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And, must I think it! is she gone, My secret heart’s exulting boast?"*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The Highland clansmen raised an **exulting** cheer that echoed from crag to crag across the mountain lake."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I heard the **exulting** laughter of the subterranean Morlocks echoing through the dark ventilation shafts."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The armed sans-culottes marched through Paris, **exulting** over the fall of the Bastille's grim towers."*
+

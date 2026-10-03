@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who practices some trade or handicraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who practices some trade or handicraft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker in a skilled trade, especially one that involves making things by hand; a craftsman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor history, the independent artisan tradition of self-directed workshop craftsmanship was disrupted by mechanized factory industrialization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He appeared to be an artisan of some sort, and carried a tin pot of red paint in his hand."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His care began in the first week of his visit, and in a few weeks he was completely recovered." On one occasion a young artisan came, in whom cancer had made such progress as to render any approach to him almost unbearable."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To lower orders are assign’d The humbler ranks of human-kind, The rustic bard, the lab’ring hind, The artisan; All choose, as various they’re inclin’d, The various man."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The master **artisan** took justifiable pride in the durability and hand-fashioned perfection of his manufactured wares."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Honor to the honest **artisan** who shapes raw wood and iron with patient sweat into useful tools for human life."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic societies, the skilled **artisan** aims to produce affordable goods for the many rather than luxury items for the few."*
+

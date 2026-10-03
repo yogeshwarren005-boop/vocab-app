@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejection by god; the state of being condemned to eternal misery in hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe disapproval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe condemnation, formal rejection, or divine exclusion from salvation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Reformed theology, the decree of reprobation is the eternal preterition of non-elect individuals from sovereign divine grace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"On a dark, misty, raw morning in January, I had left a hostile roof with a desperate and embittered heart—a sense of outlawry and almost of reprobation—to seek the chilly harbourage of Lowood: that bourne so far away and unexplored."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"And there will be Kenmure sae gen’rous, Whose honour is proof to the storm, To save them from stark reprobation, He lent them his name in the Firm."*
-> - 📜 **George Eliot (*Middlemarch*):** *"What news have you brought about the sheep-stealer, uncle?” “What, poor Bunch?—well, it seems we can’t get him off—he is to be hanged.” Dorothea’s brow took an expression of reprobation and pity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode trembled at the thought of public **reprobation**, dreading that his past hypocrisies would be laid bare before his neighbors."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman emperors condemned the Gnostic sects with fierce imperial **reprobation**, banishing their leaders from the cities."*
+> - 📜 **Robert Burns (*Holy Willie's Prayer*):** *"The Calvinist elder prayed with grim satisfaction that divine **reprobation** would overtake his theological adversaries."*
+

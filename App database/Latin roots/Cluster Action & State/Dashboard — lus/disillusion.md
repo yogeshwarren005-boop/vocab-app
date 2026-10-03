@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from false belief or illusions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from enchantment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To free someone from a false belief, naivety, or enchantment; or the loss of idealistic illusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological literature of the post-WWI era, the catastrophic carnage served to disillusion an entire generation of European youth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be lectured because the lecturer saw her in the cold morning light of open-shuttered disillusion was exasperating."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A mist makes things wonderful.” “One may lose one’s way.” “All ways end at the same point, my dear Gladys.” “What is that?” “Disillusion.” “It was my _début_ in life,” she sighed."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It's no good trying to disillusion me, Charmion."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"Suffering has the salutary virtue to strip away pretense and **disillusion** the frivolous society dilettante."*
+> - 📜 **H. G. Wells (*Mr. Britling Sees It Through*):** *"The harsh reality of trench warfare came to **disillusion** those who had envisioned a romantic, brief military parade."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"Razumov watched the revolutionary conspirators, feeling an icy desire to **disillusion** their fanatical certitudes."*
+

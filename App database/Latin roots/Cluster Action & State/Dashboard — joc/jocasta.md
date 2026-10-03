@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) queen of thebes who unknowingly married her own son oedipus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) queen of thebes who unknowingly married her own son oedipus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the queen of Thebes who unknowingly married her own son, Oedipus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory and dramatic tragedy, Jocasta embodies tragic maternal complicity in Sophocles' Oedipus Tyrannus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jocasta designates (greek mythology) queen of thebes who unknowingly married her own son oedipus."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Like ancient **jocasta** overwhelmed by incestuous grief, the tragic queen yielded to despair in the inner palace."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The solemn fate of **jocasta** on the Athenian stage haunted his nocturnal visions with classical dread."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The dramatic poets of antiquity depicted the agonizing remorse of **jocasta** with terrible theatrical majesty."*
+

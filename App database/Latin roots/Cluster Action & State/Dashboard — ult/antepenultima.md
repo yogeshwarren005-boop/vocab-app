@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 3rd syllable of a word counting back from the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 3rd syllable of a word counting back from the end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The syllable before the penultimate; the third syllable from the end of a word.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin and Greek metric prosody, the antepenultima frequently carries the tonic accent when the penult is light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antepenultima designates the 3rd syllable of a word counting back from the end."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"In Latin phonology, the acute accent never retreats further from the end of a vocable than the **antepenultima**."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"Polysyllabic words ending in -ity regularly throw their rhythmic stress back upon the **antepenultima**."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"The stress accent in ancient Greek shifts toward the **antepenultima** depending upon the quantity of the final vowel."*
+

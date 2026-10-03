@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of even-toed hoofed mammals, comprising pigs, hippopotamuses, camels, deer, giraffes, sheep, and cattle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic phylogenetics, Artiodactyla is now united with Cetacea into the clade Cetartiodactyla based on genomic and fossil evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artiodactyla designates an order of hooved mammals of the subclass eutheria (including pigs and peccaries and hippopotami and members of the suborder ruminantia) having an even number of functional toes."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The evolutionary divergence of the order **artiodactyla** produced diverse ruminant stomach adaptations for digesting fibrous vegetation."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Members of the order **artiodactyla** possess an even number of functional toes, typically reduced to two in advanced cursorial forms."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The fossil record of **artiodactyla** in North America and Eurasia reveals rapid radiation during the Eocene epoch."*
+

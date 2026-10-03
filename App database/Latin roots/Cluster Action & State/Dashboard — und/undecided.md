@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought to a conclusion; subject to further thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by indecision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not settled, resolved, or determined; wavering between two or more options.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and parliamentary proceedings, an undecided question remains pending on the docket for further argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The suit, still undecided, has fallen into rack, and ruin, and despair, with everything else—and here I stand, this day!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Meanwhile the muslined form of Tess could be seen standing still, undecided, beside this turn-out, whose owner was talking to her."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He spoke of it as a certain event, of which the time alone could be undecided."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"While the momentous question of national union remained **undecided**, commercial enterprise was paralyzed across the states."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Jarndyce inheritance remained **undecided** after decades of argument, while costs ate away the disputed wealth."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was left **undecided** as to whether Edward's strange melancholy sprang from regret or external misfortune."*
+

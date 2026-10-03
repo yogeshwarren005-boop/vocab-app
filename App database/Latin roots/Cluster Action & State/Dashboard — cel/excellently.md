@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely well.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely well.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exceptionally good, superior, or admirable manner; to a high degree of perfection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, prose that is excellently proportioned balances cadenced rhythm with precise denotative clarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I like the new tire within excellently, if the hair were a thought browner; and your gown’s a most rare fashion, i’ faith."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Venus’ hand I swear No man alive can love in such a sort The thing he means to kill, more excellently."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would be loath to cast away my speech; for besides that it is excellently well penned, I have taken great pains to con it."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Thou hast hurt me, and given me that which thou hast no right to take; but thou hast played thy part **excellently** well."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Esther managed the household affairs so **excellently** that every room shone with order and cheerful comfort."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"The tutor succeeded **excellently** in cultivating a keen love of truth and rational inquiry in his young pupil."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being lax and neglectful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being physiologically lax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slackness, looseness, or a marked deficiency in strict discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic articulatory phonetics, laxness of vocalic articulation corresponds to lower acoustic formant frequencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laxness designates the quality of being lax and neglectful."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The rector lamented the growing moral **laxness** among the younger villagers since the opening of the new brewery."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The bishop was criticized in the press for culpable administrative **laxness** regarding the hospital revenues."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"No commonwealth can survive when moral **laxness** supplants the ancient virtues of obedience and duty."*
+

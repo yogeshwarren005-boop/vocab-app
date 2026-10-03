@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in north central algeria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in north central algeria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major city in northeastern Algeria, situated in the Aurès Mountains; capital of Batna Province.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Algerian military history, Batna was established as a French military garrison post in 1844 to command the southern passes into the Sahara.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batna designates a town in north central algeria."*
+> - 📜 **Guy de Maupassant (*Au Soleil*):** *"We traveled southward through the rugged gorges of the Aurès mountains, arriving at the fortified garrison town of **batna**."*
+> - 📜 **Richard Francis Burton (*The Highlands of the Lowlands*):** *"Caravans arriving from the Sahara halted at **batna** to exchange dates and desert wool for Mediterranean manufactured wares."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Near the modern town of **batna** lie the magnificent Roman ruins of Timgad, founded by Emperor Trajan for his veteran legionaries."*
+

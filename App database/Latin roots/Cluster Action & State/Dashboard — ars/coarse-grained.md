@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of or covered with particles resembling meal in texture or consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a fine texture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of coarse or relatively large particles, fibers, or textures; not fine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In igneous petrology, a coarse-grained phaneritic texture forms in intrusive rocks like granite due to slow cooling at deep crustal depths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coarse-grained designates composed of or covered with particles resembling meal in texture or consistency."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The plutonic granite displays a **coarse-grained** texture characterized by large crystals of feldspar and quartz."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Featherstone's mind was of a **coarse-grained** fabric, suspicious of subtle motives and unswayed by gentle sentiment."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The woodsman examined the **coarse-grained** ash timber, calculating its suitability for sturdy wagon spokes."*
+

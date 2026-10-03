@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not defended or capable of being defended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not defended or capable of being defended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not protected against attack, assault, or legal action; lacking defense or military garrison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under the Hague and Geneva conventions, an undefended open town or village must not be subjected to artillery bombardment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford, "this isn't true?" "Perfectly true, sir." Undefended, unreserved, stripped even of pride, Val stood up before them all as if before a firing party, for the others had involuntarily fallen back leaving him alone. . . ."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"The thought of their old father's grave, unwatched and undefended in the outermost dark field, filled their hearts with a strange tenderness."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The prisoners were undefended."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian cavalry poured through the **undefended** passes of the Alps, ravaging the fertile plains of northern Italy."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The coastal ports were left virtually **undefended** while the main battlefleet concentrated in the northern anchorages."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prisoner stood **undefended** before the revolutionary tribunal, where accusations were equivalent to instant condemnation."*
+

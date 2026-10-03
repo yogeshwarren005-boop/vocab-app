@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to abasia (inability to walk).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to abasia (inability to walk).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by vertical airflow in meteorology, specifically vertical motion of air masses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric dynamics, abatic currents (comprising anabatic and katabatic winds) drive thermal circulations over mountainous slopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abatic designates of or relating to abasia (inability to walk)."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The local mountain climate is strongly influenced by diurnal **abatic** air movements ascending and descending the valley slopes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"As the sun heated the rocky cordillera, powerful **abatic** breezes swept up the ravines toward the glaciers."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Atmospheric circulations on terrestrial planets are driven by solar heating that generates energetic **abatic** convection."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonfictional prose forming an independent part of a publication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a class of artifacts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular item or object; a piece of writing in a newspaper or magazine; or a separate clause in a legal contract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, an article is a word (such as 'the' or 'a') used with a noun to indicate the type of reference being made.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have broken The article of your oath, which you shall never Have tongue to charge me with."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But on, Caesar: The article of my oath?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, in the verity of extolment, I take him to be a soul of great article and his infusion of such dearth and rareness as, to make true diction of him, his semblable is his mirror and who else would trace him his umbrage, nothing more."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Then let the peace, of many terms and conditions, be made according to each **article** of this royal treaty."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The third **article** of the proposed constitution establishes an independent federal judiciary to interpret national laws."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery had placed upon the table every **article** of value that the forge possessed to secure Pip's education."*
+

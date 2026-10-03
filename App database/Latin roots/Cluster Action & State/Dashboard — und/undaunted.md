@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unshaken in purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resolutely courageous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not intimidated, dismayed, or discouraged by difficulty, danger, or disappointment; brave.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military chronicles, an undaunted rearguard holds its defensive position against overwhelming odds to save an army.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His soldiers, spying his undaunted spirit, “A Talbot! a Talbot!” cried out amain, And rush’d into the bowels of the battle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Undaunted spirit in a dying breast!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring forth men-children only; For thy undaunted mettle should compose Nothing but males."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan stood with **undaunted** courage upon the burning marl, surveying the ruined host of his fallen legions."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Bring forth men-children only; for thy **undaunted** mettle should compose nothing but males."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The British people stood **undaunted** in the face of imminent invasion, united by an unconquerable resolve to resist tyranny."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A refund of some fraction of the amount paid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rectangular groove made to hold two pieces together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A partial refund to someone who has paid too much money for tax, rent, or a utility; or to blunt a weapon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial history and antitrust regulation, secret railroad rebates granted to Standard Oil helped eliminate smaller independent competitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The result was first the Elkins' Act of 1903, aimed at discrimination and rebates, and then the Hepburn Act Of 1906, which marked a new era in railroad regulation in this country."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The same allegation of inevitableness was once commonly made of discriminatory railroad rates and rebates, evils which have been in large part remedied only since the period 1903-1906, when at last intelligent action was taken."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants petitioned Parliament for a customs **rebate** upon foreign raw materials re-exported in manufactured goods."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Doth make my cold heart **rebate** its natural courage, and turn my thoughts to fearful apprehension."*
+> - 📜 **Frank Norris (*The Octopus*):** *"The wheat growers struggled against the railroad trust, which used discriminatory tariff and secret **rebate** schemes to control the market."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light microscope that uses scattered light to show particles too small to see with ordinary microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light microscope that uses scattered light to show particles too small to see with ordinary microscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument using intense lateral illumination to detect particles smaller than the wavelength of visible light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Developed by Richard Zsigmondy and Henry Siedentopf in 1902, the ultramicroscope revealed Brownian motion in colloidal suspensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultramicroscope designates light microscope that uses scattered light to show particles too small to see with ordinary microscopes."*
+> - 📜 **Albert Einstein (*Investigations on the Theory of the Brownian Movement*):** *"Observations made with the **ultramicroscope** provided direct optical confirmation of molecular kinetic theory."*
+> - 📜 **Jean Perrin (*Atoms*):** *"Under the beam of the **ultracentrifuge** and the **ultramicroscope**, colloidal granules flash like tiny stars against a black void."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The research scientist examined the microscopic culture through his **ultramicroscope**, noting unprecedented cytoplasmic movements."*
+

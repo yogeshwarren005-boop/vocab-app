@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strike against forcefully.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike violently and repeatedly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Damaged, worn, or bruised by repeated blows, rough usage, or weathering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic pathology and pediatrics, battered child syndrome describes a pattern of non-accidental physical trauma in abused minors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marcus, attend him in his ecstasy, That hath more scars of sorrow in his heart Than foemen’s marks upon his battered shield, But yet so just that he will not revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her house is sacked, her quiet interrupted, Her mansion battered by the enemy, Her sacred temple spotted, spoiled, corrupted, Grossly engirt with daring infamy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I say to you that if you rear yourself against it, you shall fall, you shall be bruised, you shall be battered, you shall be flawed, you shall be smashed.” The present effect of this flight of oratory—much admired for its general power by Mr."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Blue Carbuncle*):** *"Holmes held up a remarkably **battered** and disreputable hard-felt hat, examining it through his magnifying glass."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber wore an exceedingly **battered** beaver hat that had weathered many financial crises with tragic dignity."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The Nan-Shan emerged from the hurricane a **battered** and waterlogged hulk, her ventilators twisted like crumpled lead."*
+

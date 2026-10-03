@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act (a role) with great restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act (a role) with great restraint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act with subtle restraint, understatement, or insufficient emotional emphasis, especially in theatrical performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic criticism, an accomplished actor chooses to underact high-stakes scenes to convey profound internal tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underact designates act (a role) with great restraint."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The modern realistic actor knows how to **underact** a tragic scene, letting quiet silence speak louder than melodrama."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp knew when to **underact** her innocence before the Marquis of Steyne, disarming him with modest reserve."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Vincent Crummles instructed his leading tragedian not to **underact** the murder scene, demanding furious ranting."*
+

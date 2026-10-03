@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of liberia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to liberia or its people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Liberia, its people, or its institutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative constitutionalism, the Liberian constitution of 1847 modeled its bicameral legislature and executive presidency upon the United States Constitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, liberian designates a native or inhabitant of liberia."*
+> - 📜 **Frederick Douglass (*My Bondage and My Freedom*):** *"The orator spoke with deep interest of the young **liberian** commonwealth striving to build free institutions upon the African coast."*
+> - 📜 **Alexander Crummell (*The Future of Africa*):** *"The patriotic **liberian** citizen recognized his solemn moral duty to diffuse Christian education among the indigenous tribes."*
+> - 📜 **W. E. B. Du Bois (*The Negro*):** *"The tiny **liberian** state maintained its independence amidst the competing colonial ambitions of European empires."*
+

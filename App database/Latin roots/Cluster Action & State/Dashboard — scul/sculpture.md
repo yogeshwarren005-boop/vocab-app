@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional work of plastic art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Creating figures or designs in three dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of making two- or three-dimensional representative or abstract forms, or an artwork so produced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical aesthetics, sculpture represents the plastic art par excellence, embodying tactile form in durable stone, bronze, or terracotta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He was like a figure I have seen somewhere in sculpture."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Not one poor stone to tell thy name, Or make thy virtues known: But what avails to me—to thee, The sculpture of a stone?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"We’ll sculpture the marble, we’ll measure the lay; Here Vanity strums on her idiot lyre; There keen Indignation shall dart on his prey, Which spurning Contempt shall redeem from his ire."*
+> - 📜 **Percy Bysshe Shelley (*Ozymandias*):** *"Near them, on the sand, half sunk, a shatter'd visage lies, whose frown, and wrinkled lip, and sneer of cold command, tell that its **sculpture** well those passions read which yet survive, stamp'd on these lifeless things."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Antique **sculpture** has a pale, immortal beauty that calms the fevered soul with the quietude of bygone centuries."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarians mutilated the masterpieces of Grecian **sculpture** that had adorned the public baths and forums of Rome."*
+

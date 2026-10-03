@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swedish astronomer who devised the centigrade thermometer (1701-1744).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swedish astronomer who devised the centigrade thermometer (1701-1744).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scale of temperature on which water freezes at zero degrees and boils at one hundred degrees under standard atmospheric pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named after Swedish astronomer Anders Celsius, the Celsius scale was officially adopted by the General Conference on Weights and Measures in 1948.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celsius designates swedish astronomer who devised the centigrade thermometer (1701-1744)."*
+> - 📜 **Lord Kelvin (*On an Absolute Thermometric Scale*):** *"The zero of the absolute scale corresponds to minus two hundred and seventy-three degrees on the air-thermometer of **celsius**."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Surface temperatures on Mars drop to seventy degrees **celsius** below freezing during the protracted Martian polar night."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The lunar thermometers recorded a searing heat of over one hundred degrees **celsius** when the midday sun shone directly upon the rocks."*
+

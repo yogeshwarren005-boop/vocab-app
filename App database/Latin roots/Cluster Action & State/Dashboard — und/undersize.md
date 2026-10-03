@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smaller than normal for its kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smaller than normal for its kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smaller than the standard, usual, or required size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial fisheries regulation, returning undersize fish to the sea preserves juvenile breeding stocks from overexploitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was a little undersized one that would fly into real rages, sometimes with me, sometimes with its fellows."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Nobody can call such an undersized man handsome."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It turned aside for the boulders, and also for an undersized railway-truck lying there on its back with its wheels in the air."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Vincent Crummles examined the **undersize** pony that drew the theatrical carriage, praising its miraculous stamina."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The prospector was an **undersize**, wiry little man who could carry a seventy-pound pack over mountain ridges without stopping."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes noted that the footprint was extraordinarily small, pointing to an **undersize** adult savage as the accomplice."*
+

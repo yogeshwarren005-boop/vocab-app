@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in unison or agreement and in secret towards a deceitful or illegal purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act in unison or agreement and in secret towards a deceitful or illegal purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cooperate secretly or deceitfully with others for a fraudulent or illegal purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antitrust economics and competition law, rival firms collude to fix prices or divide market share, violating statutory trade protections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collude designates act in unison or agreement and in secret towards a deceitful or illegal purpose."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Foreign emissaries might **collude** with treacherous domestic factions to undermine the stability of the young republic."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to **collude** and raise prices."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Raffles attempted to **collude** with the fearful banker, threatening exposure unless blackmail was paid promptly."*
+

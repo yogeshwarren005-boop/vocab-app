@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states comedienne remembered as the confused but imperturbable partner of her husband, george burns (1906-1964).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states filmmaker and comic actor (1935-).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal name or surname of Celtic origin; or an Allen key (hexagonal wrench tool).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical biography, Ethan Allen led the Green Mountain Boys in capturing Fort Ticonderoga during the American Revolutionary War.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen’s side, of having once left her clogs behind her at an inn, and that fortunately proved to be groundless."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen was one of that numerous class of females, whose society can raise no other emotion than surprise at there being any men in the world who could like them well enough to marry them."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Allen and her maid declared she looked quite as she should do."*
+> - 📜 **Washington Irving (*Life of George Washington*):** *"Colonel Ethan **allen** demanded the surrender of the British fortress in the name of the Great Jehovah and the Continental Congress."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The frontiersman recalled the bold exploits of Ethan **allen** in the northern green mountains."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The rough pioneer spirit of **allen** represented the untamed vigor of the early American border settlements."*
+

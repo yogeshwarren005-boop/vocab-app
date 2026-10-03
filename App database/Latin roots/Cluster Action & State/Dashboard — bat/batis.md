@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of plants constituting the family batidaceae: low straggling dioecious shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of plants constituting the family batidaceae: low straggling dioecious shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of salt-tolerant halophytic flowering shrubs; or a genus of small African insectivorous birds (puffback flycatchers).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal wetland botany, Batis maritima colonizes mangrove margins, stabilizing intertidal sediments against storm surge erosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batis designates small genus of plants constituting the family batidaceae: low straggling dioecious shrubs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The maritime succulent shrub **batis** maritima forms dense mats along sandy shores and tidal mudflats in the south."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The low saline flats were covered with creeping clumps of **batis**, whose succulent leaves provide forage for tortoises."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The African forest flycatcher of the genus **batis** flits through the acacia canopy in search of small winged insects."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scarred by battle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scarred by battle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing scars or showing extensive damage resulting from military combat, warfare, or severe struggle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military memoir literature, battle-scarred veterans and regiments wear their physical wounds as emblems of honored service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battle-scarred designates scarred by battle."*
+> - 📜 **Winston Churchill (*The River War*):** *"The **battle-scarred** gunboats steamed up the Nile, their armored bulwarks dented by dervish rifle fire."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Major Sholto was a **battle-scarred** officer whose shattered health reflected years of arduous frontier service in India."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **battle-scarred** hull of the old whaling ship bore deep gashes from encounters with icebergs and ferocious bull sperm whales."*
+

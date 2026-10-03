@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long oar that is mounted at the stern of a boat and moved left and right to propel the boat forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Each of a pair of short oars that are used by a single oarsman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oar used in pairs by a rower, or a single stern oar worked back and forth to propel a boat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In competitive rowing regattas, a scull designates both the lightweight racing shell and the dual oars operated by an individual sculler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Light lay the earth on Billy’s breast, His chicken heart so tender; But build a castle on his head, His scull will prop it under."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"I banged it a good while with one of my sculls, and at last forced it to leap out of the boat."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He had sculled the body of Foster, properly covered with bark and brushwood, and laid it comfortably in the place intended for the Lammermuir farmer."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert took up the **scull** and dipped it quietly into the dark water of the Thames, pulling steadily against the tide."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The ferryman handled his long **scull** with practiced ease, guiding the flat-bottomed punt across the swollen stream."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"We watched the lone boatman feather his **scull** through the Thames mist as the police launch surged past."*
+

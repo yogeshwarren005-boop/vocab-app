@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing debilitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing debilitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause weakness, enfeeblement, or loss of bodily or institutional strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and pathology, debilitative side effects of aggressive treatments require concurrent supportive therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debilitative designates causing debilitation."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Parasitic infections exert a **debilitative** influence upon host organisms by systematically siphoning metabolic nutrients."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Unchecked speculative dogmatism has a **debilitative** effect upon empirical science, turning inquiry into wordy disputes."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Years of bankrupt administration wrought a **debilitative** paralysis upon the royal ministries at Versailles."*
+

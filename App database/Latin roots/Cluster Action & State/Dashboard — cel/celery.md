@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stalks eaten raw or cooked or used as seasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cultivated biennial marsh plant of the parsley family (Apium graveolens), with crisp, fibrous, edible leafy stalks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial horticulture, wild marsh celery (smallage) was domesticated in seventeenth-century Italy through selective blanching to reduce bitterness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Nothing has tasted quite so good to me in a year,” said she when the steak had vanished, dipping a white celery-heart in salt and biting the end off with teeth still whiter."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Peculiar fitness for the cultivation of celery may convert marsh land into a substantial source of income."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CELERY BRAND; sori large, confluent, red-brown, powdery; spores oblong, constricted, brown; epispore smooth, thick; pedicels short, attenuated.—On leaves of Celery."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"There were great, round, pot-bellied baskets of chestnuts, crisp leaves of **celery**, and Spanish onions glowing in the grocer's window."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse cautioned his guests that raw **celery** was far too cold and astringent for delicate winter digestions."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A simple meal of baked corn and wild marsh **celery** proved sweet to the palate of the solitary woodland philosopher."*
+

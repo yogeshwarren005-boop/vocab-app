@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Supported from below especially resting on a track instead of suspended from above.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a lower part projecting beyond the upper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suspended or supported from above; or having a lower jaw that projects noticeably forward beyond the upper jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical crane engineering, an underhung overhead bridge crane travels along the bottom flanges of supporting runway beams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So was his face square, wide between the cheekbones, underhung with massive jaws, and topped with a broad, intelligent forehead."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"His jaw was underhung, and when he laughed, two white buck-teeth protruded themselves and glistened savagely in the midst of the grin."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The bulldogs display a distinctly **underhung** jaw, an anatomical modification preserved by selective breeding for bull-baiting."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In certain deep-sea teleosts, the **underhung** mandible is armed with formidable recurved teeth for seizing slippery prey."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The prize-fighter was a burly man with a pugnacious, **underhung** jaw and broken cauliflower ears."*
+

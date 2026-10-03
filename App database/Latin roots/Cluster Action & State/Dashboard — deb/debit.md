@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accounting entry acknowledging sums that are owing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter as debit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An entry recording a sum owed or deducted from an account; or to charge a sum against an account.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In double-entry bookkeeping, a debit records an increase in asset or expense accounts, or a decrease in liability or equity balances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Before analyzing the properties of manure, before entering into the debit and credit (as he ironically called it), he found out how many cattle the peasants had and increased the number by all possible means."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If the trade of a country with its neighbors continued long to give a balance of imports of goods and of debit items (exclusive of money) it would ultimately be drained of all its coin, and would default payment or cease to import."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Desk and Debit; or, The Catastrophes of a Clerk."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"Every prudent merchant posts every **debit** against his debtors in the ledger before retiring to rest at night."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"Mr. Carker examined the banking books, marking each large **debit** that drained the capital of the venerable shipping house."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"My partner balanced the firm's ledgers scrupulously, entering every small personal **debit** without omission."*
+

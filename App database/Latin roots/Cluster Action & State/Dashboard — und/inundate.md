@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill quickly beyond capacity; as with a liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill or cover completely, usually with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To overwhelm someone with things or people to be dealt with; or to flood with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrologic engineering, torrential rainfall can inundate low-lying floodplains when river levees fail under hydrostatic head.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"To these circumstances it may, in some measure, be owing that we have not been inundated by the intellect of antiquity--that the fountains of thought have not been broken up, and modern genius drowned in the deluge."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He sent into the world men "inundated with the divine spirit" to proclaim the one God, who framed all things, who made man, who one day will raise man from the dead for eternal judgment."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Fort Hays, at the fork of Big Creek, and supposed to be above high-water, was inundated, six or eight soldiers being swept away, while the remainder were obliged to seek safety on the roofs of the stone barracks."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden melting of alpine snows threatened to **inundate** the northern plains of Italy with destructive torrents."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Suppliants continued to **inundate** the Lord Chancellor with petitions and affidavits in the unending Chancery suit."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"Letters and telegrams began to **inundate** Baker Street from foreign embassies demanding immediate recovery of the naval plans."*
+

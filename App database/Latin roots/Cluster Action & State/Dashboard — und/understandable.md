@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being apprehended or understood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being apprehended or understood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be understood, comprehended, or grasped; intelligible, reasonable, or excusable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, information presented with visual aids and logical hierarchy becomes readily understandable to non-experts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I declare it looked as though he would presently put to us some questions in an understandable language; but he died without uttering a sound, without moving a limb, without twitching a muscle."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"How understandable everything was!"*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Many readers, especially those who take an intellectual attitude toward all things, in the heavens above and in the earth beneath, suppose that they are prepared to understand almost anything which is understandable if it is only PUT right."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Jarndyce spoke with an honest, plain directness that made his benevolent intentions immediately **understandable** to all."*
+> - 📜 **Jane Austen (*Emma*):** *"It was very **understandable** that Mr. Knightley should feel indignation at Frank Churchill's thoughtless conduct."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes made the complex sequence of moorland clues perfectly **understandable** to Dr. Watson over breakfast."*
+

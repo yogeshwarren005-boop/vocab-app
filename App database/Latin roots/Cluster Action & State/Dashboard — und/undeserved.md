@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deserved or earned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deserved or earned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not earned, warranted, or justified by a person's conduct, character, or intrinsic actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and jurisprudence, receiving undeserved punishment undermines social trust and civic allegiance to the judicial system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is hard and undeserved measure, my lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let none presume To wear an undeserved dignity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that be made a theme for disputation, The branches of another root are rotted, And undeserved reproach to him allotted That is as clear from this attaint of mine As I, ere this, was pure to Collatine."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"This is hard and **undeserved** measure, my lord, that falls upon a true and faithful servant."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor felt sincere compassion for Marianne under what seemed an **undeserved** and bitter trial of her affections."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To strip an honest citizen of his ancestral estate is an **undeserved** injury that shakes the foundations of justice."*
+

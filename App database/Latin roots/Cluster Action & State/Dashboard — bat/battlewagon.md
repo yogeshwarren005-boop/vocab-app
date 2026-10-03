@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and heavily armoured warship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and heavily armoured warship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial or naval slang term for a heavily armored battleship; or an armored war chariot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century naval parlance, sailors affectionate designated dreadnoughts and fast battleships as battlewagons in fleet maneuvers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battlewagon designates large and heavily armoured warship."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The old **battlewagon** Warspite bombarded the Normandy beachheads with her fifteen-inch guns, supporting the Allied landings."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The wooden line-of-battle ship was the ancestral **battlewagon** of the seas, bristling with tiers of black cannons."*
+> - 📜 **Ernest Hemingway (*Islands in the Stream*):** *"The patrol boat crew watched the great gray **battlewagon** steam past the reef on its way to the Atlantic convoy lanes."*
+

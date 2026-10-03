@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn under a skirt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn under a skirt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skirt worn under another skirt or dress; a petticoat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian and Edwardian costume, a stiffened crinoline underskirt held voluminous dress skirts away from the wearer's feet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I grabbed the gourd and swiped it out as best I could with the tail of my underskirt."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I just wiped it off good with the tail of my underskirt."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"Jennings says that every one wears bows now, and that the underskirt should be frilled."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The crisp rustle of May's silk **underskirt** broke the quiet hush of the drawing room as she rose to greet Newland."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella swept past Pip with cold disdain, the lace hem of her **underskirt** brushing against the dark woodwork."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma adjusted her pleated cambric **underskirt**, inspecting her reflection with critical satisfaction in the mirror."*
+

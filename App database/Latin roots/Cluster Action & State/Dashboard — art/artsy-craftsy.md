@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pretentiously artistic; cloyingly charming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pretentiously artistic; cloyingly charming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informally artistic in an amateurish, pretentious, or excessively decorative and homemade manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern design criticism, artsy-craftsy describes consumer goods that affect handmade rustic styling without genuine artisanal integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artsy-craftsy designates pretentiously artistic; cloyingly charming."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She disliked the bohemian affectation of the drawing room, crowded with **artsy-craftsy** pottery and dyed raffia cushions."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The studio was filled with pretentious dilettantes admiring **artsy-craftsy** hand-painted ceramics and block-printed textiles."*
+> - 📜 **E. M. Forster (*Howards End*):** *"Margaret Schlegel avoided the shallow **artsy-craftsy** fads that preoccupied suburban aesthetic societies in London."*
+

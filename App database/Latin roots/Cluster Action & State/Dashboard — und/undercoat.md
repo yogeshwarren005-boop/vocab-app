@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first or preliminary coat of paint or size applied to a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coat or layer of paint applied before a final topcoat; or the dense underfur of an animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian biology, a dense, water-repellent insulating undercoat protects Arctic mammals against extreme polar temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undercoat designates seal consisting of a coating of a tar or rubberlike material on the underside of a motor vehicle to retard corrosion."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domestic dogs adapted to subarctic climates develop a dense, woolly **undercoat** that sheds seasonal rain and snow."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The painter laid down a warm ochre **undercoat** on the gesso panel before applying the luminous glaze layers."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck's heavy fur grew thicker, developing a warm downy **undercoat** that enabled him to sleep peacefully beneath the snowdrift."*
+

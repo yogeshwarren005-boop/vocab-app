@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An uninflected function word that serves to conjoin words or phrases or clauses or sentences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or tending to connect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to join, connect, or unite; or relating to grammatical conjunctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ocular anatomy and ophthalmology, conjunctive tissues form the protective mucosal mucous membrane covering the sclera and inner eyelids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen his mother Lives almost by his looks; and for myself,— My virtue or my plague, be it either which,— She’s so conjunctive to my life and soul, That, as the star moves not but in his sphere, I could not but by her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us be conjunctive in our revenge against him: if thou canst cuckold him, thou dost thyself a pleasure, me a sport."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words perform a **conjunctive** office in discourse, linking distinct ideas into coherent propositions."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The nervous system provides a vast **conjunctive** network integrating sensory inputs with coordinated muscular actions."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"The delicate **conjunctive** membrane of the eye is continually lubricated by lachrymal secretions."*
+

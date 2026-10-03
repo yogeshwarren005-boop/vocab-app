@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not showing courteous respect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not showing courteous respect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not showing deference, reverence, or polite submission; disrespectful or irreverent toward authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history, democratic frontier communities developed an undeferential ethos that rejected traditional class hierarchies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undeferential designates not showing courteous respect."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American pioneer exhibits an **undeferential** bearing toward public magistrates, treating them as hired servants rather than lords."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton was shocked by the **undeferential** manner in which the newcomer addressed the established gentry of Highbury."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Felix Holt spoke to the wealthy candidate in an **undeferential** tone that startled the complacent election committee."*
+

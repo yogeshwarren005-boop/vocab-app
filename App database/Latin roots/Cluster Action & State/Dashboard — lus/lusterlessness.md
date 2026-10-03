@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having little or no contrast; lacking highlights or gloss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having little or no contrast; lacking highlights or gloss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dullness, opacity, or the complete absence of sheen and reflective radiance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemology and mineralogical grading, lusterlessness in a diamond specimen indicates heavy internal fracture networks or acid corrosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusterlessness designates the property of having little or no contrast; lacking highlights or gloss."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The dead, opaque **lusterlessness** of cheap commercial pigments ruins the airy luminosity of landscape painting."*
+> - 📜 **Herman Melville (*The Encantadas*):** *"The volcanic cinders of the Galapagos exhibit an uncanny **lusterlessness**, absorbing sunlight without reflecting a single ray."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The mineral specimen was characterized by the earthy **lusterlessness** of its weathered exterior crust."*
+

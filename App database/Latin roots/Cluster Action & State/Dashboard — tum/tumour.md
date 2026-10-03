@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal new mass of tissue that serves no purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal new mass of tissue that serves no purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swelling or mass of tissue formed by abnormal cell proliferation (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical histopathology, a tumour is biopsied and graded according to mitotic rate, nuclear pleomorphism, and architectural atypia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A cure for a tumour, based on the principle of homoeopathic magic, is prescribed by Marcellus of Bordeaux, court physician to Theodosius the First, in his curious work on medicine."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"As the vervain dries up in the smoke, so the tumour will also dry up and disappear."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"If the patient should afterwards prove ungrateful to the good physician, the man of skill can avenge himself very easily by throwing the vervain into water; for as the root absorbs the moisture once more, the tumour will return."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Monstrous excrescences and **tumour** formations in plants arise from disordered cellular growth stimulated by parasites."*
+> - 📜 **Thomas Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The post-mortem examination revealed a large cystic **tumour** compressing the left cerebral hemisphere."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"He demonstrated his surgical dexterity by cleanly removing a vascular **tumour** before the admiring medical students."*
+

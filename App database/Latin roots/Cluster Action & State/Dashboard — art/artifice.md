@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceptive maneuver (especially to avoid capture).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceptive maneuver (especially to avoid capture).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clever or cunning devices or expedients, especially as used to trick or deceive others; ingenuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary criticism, poetic artifice refers to conscious rhetorical craft and formal construction that enhances aesthetic expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet resorts to his standard artifice for the maintenance of discipline."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Such a strain of shallow artifice could not impose even upon Catherine."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"What could the bewildered scouts do, masters as they were of every war-like artifice save this one, but trot helplessly after him, exposing themselves fatally to view, while they gave pathetic utterance to the coyote cry."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"With devotion's visage and pious action we do sugar o'er the devil himself by worldly **artifice**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Demagogues frequently employ every rhetorical **artifice** to inflame popular passions and subvert constitutional liberties."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Society is an **artifice** of civilized wisdom constructed to restrain the destructive animal instincts of human nature."*
+

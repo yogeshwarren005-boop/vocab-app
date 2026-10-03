@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conceived in adultery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceived in adultery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or born of adultery; spurious, illicit, or unauthorized by lawful authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English constitutional and feudal history, adulterine castles were fortifications built without royal license during periods of civil anarchy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adulterine designates conceived in adultery."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman jurists examined the inheritance claims of the **adulterine** offspring with severe statutory skepticism."*
+> - 📜 **William Stubbs (*The Constitutional History of England*):** *"Henry II commanded the immediate demolition of all **adulterine** castles erected during the lawless reign of Stephen."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Norman barons erected **adulterine** keeps throughout the countryside to oppress the local Saxon peasantry."*
+

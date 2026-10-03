@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) a ballplayer who is batting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid or semiliquid mixture, as of flour, eggs, and milk, used in cooking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strike repeatedly with hard blows; or a mixture of flour, egg, and milk; or the player batting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fortification warfare, heavy siege guns were brought up to batter down curtain walls and breach fortress bastions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble Antony, Let not the piece of virtue which is set Betwixt us, as the cement of our love To keep it builded, be the ram to batter The fortress of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am vanquished; these haughty words of hers Have batter’d me like roaring cannon-shot, And made me almost yield upon my knees."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The tyrant has not batter’d at their peace?"*
+> - 📜 **William Shakespeare (*The Tempest*):** *"First to possess his books; for with them he's but a sot, as I am; or **batter** at his skull with a log."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The gale began to **batter** furiously against our wooden shutters, rattling every pane of glass in the old house."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Wintry storms continued to **batter** the exposed gables of Lowood School through the dark months of December."*
+

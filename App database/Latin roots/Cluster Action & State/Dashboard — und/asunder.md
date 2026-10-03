@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely separated especially in space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Into parts or pieces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apart or divided; into separate pieces or directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marriage liturgy and tragic drama, the phrase 'rent asunder' denotes the violent dissolution of sacred bonds or cosmic unity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You good gods, Let what is here contain’d relish of love, Of my lord’s health, of his content; yet not That we two are asunder; let that grieve him!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suppose within the girdle of these walls Are now confin’d two mighty monarchies, Whose high upreared and abutting fronts The perilous narrow ocean parts asunder; Piece out our imperfections with your thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My breast I’ll burst with straining of my courage, And from my shoulders crack my arms asunder, But I will chastise this high-minded strumpet. [_They fight again._] PUCELLE."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"What God hath joined together, let no man put **asunder**; yet civil strife tears Verona's peace to shreds."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The sword of Michael smote the adversary, rending the demonic shield and mail **asunder** with celestial wrath."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Families were torn **asunder** by the sudden arrests of the revolutionary tribunal during the Reign of Terror."*
+

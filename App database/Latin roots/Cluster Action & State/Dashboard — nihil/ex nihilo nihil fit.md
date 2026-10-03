@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin nihil within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of nihil in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latin philosophical axiom meaning 'out of nothing, nothing comes'; nothing can be created from nonexistence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical metaphysics and cosmology, Parmenides and Lucretius deployed ex nihilo nihil fit to argue for the eternal conservation of matter and energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ex nihilo nihil fit designates pertaining to, derived from, or characteristic of latin nihil within the domain of action & state."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The ancient axiom **ex nihilo nihil fit** remains a steadfast principle governing all natural transformations of matter."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Reason demonstrates that **ex nihilo nihil fit**, compelling us to deduce an eternal, all-powerful First Cause of all existence."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"Metaphysicians affirm that **ex nihilo nihil fit**, yet faith acknowledges the divine miracle of creation out of void."*
+

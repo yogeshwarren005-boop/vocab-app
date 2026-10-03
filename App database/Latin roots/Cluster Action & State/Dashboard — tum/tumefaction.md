@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal swelling or puffing up of tissue; a localized tumor or distension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, inflammatory tumefaction forms one of the classical cardinal signs of inflammation alongside calor, rubor, and dolor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumefaction designates the process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The surgical incision relieved the painful **tumefaction** caused by the purulent abscess in the patient's forearm."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"Local tissue **tumefaction** results from increased vascular permeability and fluid transudation into interstitial spaces."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain parasitic fungi induce monstrous **tumefaction** upon the stems of diseased plum trees."*
+

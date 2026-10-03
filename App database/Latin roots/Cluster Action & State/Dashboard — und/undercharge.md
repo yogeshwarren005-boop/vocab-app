@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A price that is too low.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insufficient charge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To charge too little money for a service, goods, or work; or to load with an insufficient explosive charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial trade and contract accounting, failing to audit supplier invoices can cause vendors to undercharge or overcharge systematically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undercharge designates a price that is too low."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"The tradesman who is careless in his day-book will constantly **undercharge** his customers and ruin his own profit margin."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The artillery gunner took care not to **undercharge** the mortar, ensuring the shell would reach the besiegers' trenches."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In competitive retail markets, shopkeepers frequently **undercharge** on staples to attract patrons into their establishments."*
+

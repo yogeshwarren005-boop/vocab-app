@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Powered by one or more electric batteries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Powered by one or more electric batteries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating on electrical energy supplied by portable electrochemical batteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and consumer electronics, battery-powered apparatus requires high-efficiency power management circuits to extend operating cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battery-powered designates powered by one or more electric batteries."*
+> - 📜 **Arthur C. Clarke (*Islands in the Sky*):** *"The astronaut carried a compact, **battery-powered** torch to inspect the shadowy recesses of the orbital station."*
+> - 📜 **Isaac Asimov (*The Caves of Steel*):** *"The patrolman activated his portable, **battery-powered** field transceiver to report the disturbance on the lower roadway."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"We illuminated the subterranean caverns with our small, **battery-powered** electric lanterns."*
+

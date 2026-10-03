@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A difficult problem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difficult problem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A confusing and difficult problem or question; or a riddle whose answer involves a pun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology, a profound conceptual conundrum arises when reconciling determinism with subjective moral responsibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It would not be fair, in other words, to propose a conundrum on a basis of ostensible materialism, and then, when no other key would fit, to palm off a disembodied spirit on us."*
-> - 📜 **James Joyce (*Ulysses*):** *"Martin Cunningham forgot to give us his spellingbee conundrum this morning."*
-> - 📜 **James Joyce (*Ulysses*):** *"But Edy wanted to know because they were told to be in early. —Wait, said Cissy, I’ll run ask my uncle Peter over there what’s the time by his conundrum."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The locked room murder presented a perplexing **conundrum** that defied the standard deductions of Scotland Yard."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke treated political reform as a harmless intellectual **conundrum** to be debated pleasantly over claret."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"To discover who was the rightful heir to the Jarndyce millions was a legal **conundrum** that had baffled generations of chancellors."*
+

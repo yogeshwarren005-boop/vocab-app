@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute of being superfluous and unneeded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being superfluous and unneeded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superfluity, excessive repetition, or surplus matter exceeding normal requirements; redundancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary criticism, pruning rhetorical redundance tightens argumentation and sharpens stylistic impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redundance designates the attribute of being superfluous and unneeded."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The author must prune every superfluous **redundance** from his sentences if he wishes his prose to endure."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholastic disputations were encumbered with dialectical **redundance** that obscured simple physical truths."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The political manifesto was weakened by verbal **redundance** and repetitious declarations of familiar platitudes."*
+

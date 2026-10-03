@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily deciphered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily deciphered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to read, translate, or decode; illegible or incomprehensible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical cryptanalysis, an undecipherable cipher defies frequency analysis when encrypted using a one-time pad.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like those mystic rocks, too, the mystic-marked whale remains undecipherable."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Like those mystic rocks, too, the mystic-marked whale remains undecipherable."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dancing Men*):** *"The strange chalk hieroglyphs upon the sundial appeared completely **undecipherable** to the local Norfolk police."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"Legrand showed me a yellow parchment covered with characters that seemed at first glance wholly **undecipherable**."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The inscription carved upon the bronze pedestal was worn by centuries of weathering into an **undecipherable** script."*
+

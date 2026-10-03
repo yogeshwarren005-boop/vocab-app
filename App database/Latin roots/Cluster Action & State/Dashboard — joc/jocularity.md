@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling facetious merriment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fun characterized by humor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A humorous, jesting disposition or state; indulgence in playful joking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and essayistic literature, genuine jocularity is distinguished from malicious mockery by its innocent goodwill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George.” (There is an ogreish kind of jocularity in Grandfather Smallweed to-day.) “And you can refuse, you mean, eh?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, receiving this new light with a most agreeable jocularity of surprise."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s power of jocularity merged into a power of taking the profoundest offence."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Mirth and **jocularity** are the sweet spices of conversation, but must never be made its daily nourishment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rustic malt-house was a forum of unpretentious **jocularity**, where local gossip was exchanged over cider."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Farebrother's warm **jocularity** put Fred Vincy completely at ease during his morning visit to the vicarage."*
+

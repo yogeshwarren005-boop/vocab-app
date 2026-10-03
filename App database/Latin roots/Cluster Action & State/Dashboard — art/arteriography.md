@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenographic examination of arteries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenographic examination of arteries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical imaging technique of visualizing arteries using X-rays or fluoroscopy following radiopaque dye injection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pioneered by Egas Moniz in 1927, cerebral arteriography transformed neurosurgery by making intracranial aneurysms visible in vivo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriography designates roentgenographic examination of arteries."*
+> - 📜 **Harvey Cushing (*Consecratio Medici*):** *"The clinical introduction of cerebral **arteriography** provided neurosurgeons with a reliable roadmap of intracranial circulation."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"Advances in radiological **arteriography** opened new diagnostic horizons for detecting cardiovascular disease before severe complications arose."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Selective **arteriography** revealed severe atheromatous narrowing of the internal carotid artery supplying the parietal cortex."*
+

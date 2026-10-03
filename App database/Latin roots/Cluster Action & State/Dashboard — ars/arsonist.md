@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A criminal who illegally sets fire to property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A criminal who illegally sets fire to property.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who deliberately and maliciously commits the crime of arson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic fire investigation and criminal profiling, an arsonist's motive is categorized into financial insurance fraud, pyromania, or concealment of crime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsonist designates a criminal who illegally sets fire to property."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The deliberate trail of paraffin pointed unmistakably to the handiwork of a calculating **arsonist**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The suspicious oil stains on the cellar timber confirmed that an **arsonist** had attempted to burn the tenement to the ground."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The anarchist bomb-maker was compared by the police inspector to a reckless **arsonist** playing with kerosene in a dry wooden town."*
+

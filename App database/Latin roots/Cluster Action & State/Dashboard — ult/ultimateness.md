@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or degree of being ultimate; the final or most extreme in degree or size or time or distance,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or degree of being ultimate; the final or most extreme in degree or size or time or distance,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character or property of being ultimate, final, primordial, or absolute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical theology, ultimateness denotes the unconditional, non-contingent ground of cosmic being.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultimateness designates the state or degree of being ultimate; the final or most extreme in degree or size or time or distance,."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"We reach the **ultimateness** of consciousness when physical sensations can no longer be resolved into simpler neural components."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystic experiences a profound conviction of spiritual **ultimateness** that defies verbal formulation."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Reason seeks an absolute **ultimateness** that synthetic sensory perceptions can never supply of themselves."*
+

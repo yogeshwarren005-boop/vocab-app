@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The environmental condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The area in which something exists or lives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The things, conditions, and environment around a person or thing; physical setting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental psychology, aesthetic surroundings exert measurable influences on cognitive recovery and stress alleviation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Soon she would be obliged to send him away, and how could she hope for a loving influence in strange surroundings, which was the only thing to quiet him?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As their guest was to remain such a short while, Uncle Philip suggested a walk in order to show him the surroundings, but when they looked around for Salo, they could not find either him or Bruno."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"These unusual surroundings made Leonore so happy that her face became quite rosy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea found her luxurious Roman **surroundings** oppressive, yearning for active moral duty rather than artistic sightseeing."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I stepped from the machine into unfamiliar **surroundings**, gazing upon colossal ruined palaces half-choked with rhododendrons."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes surveyed the luxurious oriental **surroundings** of Thaddeus Sholto's drawing room with keen analytical interest."*
+

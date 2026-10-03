@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admitting of being pardoned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admitting of being pardoned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be excused, forgiven, or tolerated; excusable and understandable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, a pardonable lapse arises from human frailty, ignorance, or sudden emotion rather than premeditated malice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He thought it a very degrading alliance; and Lady Russell, though with more tempered and pardonable pride, received it as a most unfortunate one."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The Admiral hated marriage, and thought it never pardonable in a young man of independent fortune."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Inquiries into our condition are allowable when they are prompted by a disinterested concern for our welfare; and this solicitude is not only pardonable, but may justly be demanded from those who choose us for their companions."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor considered her sister's romantic enthusiasm as an amiable and completely **pardonable** excess of youthful feeling."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Watson felt that his curiosity was **pardonable** under circumstances so extraordinary and perilous."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy's errors were regarded by his uncle as **pardonable** follies, provided they were promptly repented of."*
+

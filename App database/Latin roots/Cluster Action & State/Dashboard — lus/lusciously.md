@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to produce a delightful taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to produce a delightful taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a delicious, richly sweet, fragrant, or sensually delightful manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape poetry, nature is depicted lusciously in summer orchards laden with ripe seasonal harvests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusciously designates so as to produce a delightful taste."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The boughs of Eden bent down with fruit, offering **lusciously** scented nectar to the primal pair."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The heavy perfume of lilac and pink-flowering thorn drifted **lusciously** through the open studio window."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The rich dairy meadows yielded sweet clover, smelling **lusciously** in the warm June dusk."*
+

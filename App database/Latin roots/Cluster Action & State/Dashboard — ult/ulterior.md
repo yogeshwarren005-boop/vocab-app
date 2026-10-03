@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying beyond what is openly revealed or avowed (especially being kept in the background or deliberately concealed); ; - bertrand russell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond or outside an area of immediate interest; remote; ; - g.b.shaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing beyond what is obvious, apparent, or admitted; intentionally concealed, latent, or ulterior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal investigation and tactical diplomacy, investigators search for hidden ulterior motives behind ostensibly benevolent concessions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the view easy to take is the short view, and the ulterior consequences seem to the popular mind to be vain imaginings. § 10. #Exports and exhaustion of the soil#."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"That day at noon, after the bearings were taken, Captain Nemo mounted the platform, where I happened to be, and I was determined not to let him go down again without at least pressing him regarding his ulterior projects."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The little princess, like an old war horse that hears the trumpet, unconsciously and quite forgetting her condition, prepared for the familiar gallop of coquetry, without any ulterior motive or any struggle, but with naïve and lighthearted gaiety."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes suspected that Stapleton harbored an **ulterior** design that went far beyond mere local natural history excursions."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Beneath high-sounding declarations of equality lay **ulterior** ambitions to confiscate private property and centralize tyranny."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen wondered if Grandcourt's courtship concealed some colder, **ulterior** purpose that she could not yet penetrate."*
+

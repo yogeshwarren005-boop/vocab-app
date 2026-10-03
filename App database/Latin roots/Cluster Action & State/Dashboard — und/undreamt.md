@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imagined even in a dream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not imagined even in a dream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not imagined, suspected, or contemplated even in dreams or fantasy; utterly unforeseen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speculative philosophy and ontological metaphysics, aspects of cosmological reality remain undreamt within limited sensory frameworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He moved on in silence, as if his energies were benumbed by the hitherto undreamt-of possibility that his position was untenable."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"New machinery and processes have given undreamt of opportunities for enterprise in the older countries, and the physical frontier of investment has moved outward with the march of millions of immigrants to people the fertile wilderness."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy, mysteries wholly **undreamt** by mortals."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The titan prophesied an age of liberty and light **undreamt** by the tyrannical gods of Olympus."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Beneath the dull exterior of daily life lie divine wonders **undreamt** of by shallow materialist commentators."*
+

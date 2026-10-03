@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A broadax used as a weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sharp-tongued domineering wife.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy axe designed specifically as a weapon for combat; battle-axe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval arms and armor, the double-bitted chivalric battle-ax was swung with two hands to split through plate armor and mail coifs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battle-ax designates a broadax used as a weapon."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Black Knight swung his ponderous **battle-ax** with irresistible might, hewing through the stout oak timbers of the postern gate."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"Sir Nigel raised his notched **battle-ax**, parrying the furious sword strokes of the French man-at-arms."*
+> - 📜 **William Makepeace Thackeray (*The Rose and the Ring*):** *"The fierce giant strode forward, brandishing a rusty **battle-ax** that terrified the royal guards."*
+

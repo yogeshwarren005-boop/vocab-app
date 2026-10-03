@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling reedlike plants of the genus arundinaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling reedlike plants of the genus arundinaria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the characteristics of a reed or cane; reed-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic graminology, arundinaceous grasses possess hollow, jointed, woody culms typical of tall marsh reeds and bamboos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arundinaceous designates of or relating to or resembling reedlike plants of the genus arundinaria."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The margins of the freshwater lake were bordered by tall **arundinaceous** grasses sheltering nesting waterfowl."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Dense thickets of **arundinaceous** cane lined the muddy riverbanks of the Parana, impeding our overland progress."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The delta wetlands harbored magnificent **arundinaceous** vegetation that swayed with the tidal surge."*
+

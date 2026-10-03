@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily seen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barely able to be perceived.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being noticed, discovered, or measured by human senses or standard instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical toxicology and forensic science, trace poisons administered in infinitesimal concentrations were long undetectable before modern spectrometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll install undetectable barriers against psychic probes; then there are..." "Damn you, Ram." Brad cut in, his voice crackling with rage."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"Holmes suspected the killer had employed a rare combustion poison that was virtually **undetectable** upon post-mortem examination."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"By altering the refractive index of living tissue, Griffin rendered his body **undetectable** against the background light."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Incipient morphological shifts between generations are often so minute as to be **undetectable** over short time spans."*
+

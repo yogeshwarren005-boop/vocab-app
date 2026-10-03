@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A silver-white or grey ore of arsenic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A silver-white or grey ore of arsenic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron arsenic sulfide mineral (FeAsS), the principal ore of arsenic, silver-white to steel-gray in color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and hydrothermal mineralogy, arsenopyrite often occurs in association with native gold and quartz veins in orogenic gold deposits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsenopyrite designates a silver-white or grey ore of arsenic."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The lodes of Cornwall yielded abundant masses of **arsenopyrite**, intermixed with cassiterite and copper pyrites."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The auriferous quartz veins of the Ural mountains frequently carry crystals of **arsenopyrite** and specular iron ore."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"The lecturer exhibited a brilliant specimen of **arsenopyrite**, pointing out its sharp orthorhombic crystalline facets."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Still wet or moist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Still wet or moist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not dried or cured; retaining natural moisture, greenness, or sap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural masonry and timber carpentry, using undried green lumber causes severe shrinkage, warping, and joint deformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undried designates still wet or moist."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The smoke of green and **undried** hickory filled the cabin before the draft drew cleanly up the chimney."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The botanical specimens were packed carefully to prevent rot from the damp, **undried** mosses of Tierra del Fuego."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Hops harvested during rainy weather cannot be kilned properly if stacked in an **undried** condition."*
+

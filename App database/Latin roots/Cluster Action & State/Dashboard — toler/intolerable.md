@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being put up with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being put up with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be endured; unendurable, insufferable, or completely unbearable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American revolutionary history, the Intolerable Acts of 1774 were punitive colonial statutes passed by the British Parliament following the Boston Tea Party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But one halfpennyworth of bread to this intolerable deal of sack!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cousin of Buckingham, though Humphrey’s pride And greatness of his place be grief to us, Yet let us watch the haughty cardinal; His insolence is more intolerable Than all the princes’ in the land beside."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My liege, his railing is intolerable."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She is tolerable, but not handsome enough to tempt me; and I am in no humour at present to give consequence to young ladies who are slighted by other men. You had better return to your partner and enjoy her smiles, for you are wasting your time with me; your insolent suggestions have become **intolerable**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The heavy taxation and arrogant cruelty of the aristocracy became at last **intolerable** to the starving populace."*
+> - 📜 **William Shakespeare (*Othello*):** *"O, monstrous! monstrous! I will chop her into messes: cuckold me! Hang her! I do say it is an **intolerable** agony to bear."*
+

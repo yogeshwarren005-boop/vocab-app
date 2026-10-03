@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal distension of an artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal distension of an artery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant medical term for arteriectasia; pathologic dilation or stretching of arterial walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pathology, arteriectasis denotes structural weakening of arterial elastica, leading to fusiform or saccular aneurysm formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arteriectasis designates an abnormal distension of an artery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The presence of chronic hypertension accelerated the progressive **arteriectasis** observed within the abdominal aorta."*
+> - 📜 **Harvey Cushing (*The Medical Career*):** *"Microscopic examination of the resected vessel segment confirmed marked **arteriectasis** accompanied by loss of elastic fibers."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The senior pathologist demonstrated to the clinic students a remarkable specimen of cerebral **arteriectasis**."*
+

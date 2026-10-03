@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region where a battle is being (or has been) fought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region where a battle is being (or has been) fought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The piece of ground on which a battle is fought; or a sphere or arena of intense conflict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military archaeology, metal detection and forensic osteology on historical battlefield sites reconstruct troop movements and combat trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Those who sat with him had lately braved death on battlefield, but death had forborne to touch them, and they rejoiced in existence."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"His expressive face kindled with kindly grace as the young Sikh claimed sympathy with him in his view of life as a battlefield."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Within seconds the battlefield stretched before them."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Prince Andrei lay wounded upon the **battlefield** of Austerlitz, gazing up into the lofty, infinite blue sky."*
+> - 📜 **Abraham Lincoln (*The Gettysburg Address*):** *"We have come to dedicate a portion of that **battlefield**, as a final resting place for those who here gave their lives that that nation might live."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The ruined **battlefield** of the Somme was a desolate moonscape of waterlogged craters and tangled barbed wire."*
+

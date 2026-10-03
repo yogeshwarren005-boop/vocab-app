@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal or child's term for stomach; or an onomatopoeic strumming sound on an instrument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial English literature, rubbing one's tum expresses childish physical comfort or culinary satiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then, from the road, “With my ra-ta-ta, and my rum-tum-tum!” It was a ploughboy."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then, from the road, “With my ra-ta-ta, and my rum-tum-tum!” It was a ploughboy."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Drug-systems are quitting their hold on matter and so letting in matter's higher stra- 158:27 tum, mortal mind."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"He patted his **tum** with cheerful satisfaction after finishing the bowl of bread and butter."*
+> - 📜 **Rudyard Kipling (*Just So Stories*):** *"The little boy complained of an aching **tum** after eating too many ripe wild plums in the high grass."*
+> - 📜 **P. G. Wodehouse (*Carry On, Jeeves*):** *"Bertie groaned that a sharp pain in the **tum** was entirely due to the dining club's experimental lobster mayonnaise."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is restrained in ironic contrast to what might have been said.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that is restrained in ironic contrast to what might have been said.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presentation of something as being smaller, worse, or less important than it actually is; litotes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British literary rhetoric, ironic understatement is celebrated for conveying profound emotional intensity through stoic restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understatement designates a statement that is restrained in ironic contrast to what might have been said."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"To say that Sir Henry was startled was a ludicrous **understatement**; he stood pale and trembling in the doorway."*
+> - 📜 **Winston Churchill (*My Early Life*):** *"To describe our cavalry charge at Omdurman as an animated moment was a mild **understatement** of its bloody peril."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The English character displays a natural genius for ironic **understatement**, especially when facing national danger."*
+

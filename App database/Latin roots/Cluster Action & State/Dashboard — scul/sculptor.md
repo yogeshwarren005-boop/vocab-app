@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who creates sculptures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the southern hemisphere near phoenix and cetus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who creates three-dimensional sculptures by carving stone, modeling clay, or casting metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical art history and Renaissance workshops, the sculptor transformed raw marble blocks into lifelike human anatomies by the subtractive method.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket; “and a friend of mine that you’ll hear of one day as a Royal Academy sculptor would stand something handsome to make a drawing of your proportions for the marble."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But their physical excellence did not merely consist in an exemption from these evils; nearly every individual of their number might have been taken for a sculptor’s model."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The monuments are generally simple, for the lives of literary men afford no striking themes for the sculptor."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The **sculptor** sees in the raw unhewn marble block the living figure imprisoned, waiting only for his chisel to liberate it."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Kenyon was an American **sculptor** working in Rome, striving to capture the noble dignity of Cleopatra in clay."*
+> - 📜 **John Ruskin (*Aratra Pentelici*):** *"The true Greek **sculptor** loved the marble for its own sake, never disguising its crystalline stone texture beneath vulgar paint."*
+

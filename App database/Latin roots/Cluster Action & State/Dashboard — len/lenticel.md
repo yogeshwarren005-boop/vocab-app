@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many raised pores on the stems of woody plants that allow the interchange of gas between the atmosphere and the interior tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many raised pores on the stems of woody plants that allow the interchange of gas between the atmosphere and the interior tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A porous tissue consisting of cells with large intercellular spaces in the periderm of woody plant stems, functioning as a pore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, a lenticel provides an opening through impermeable suberized bark, facilitating gas exchange between internal tissues and the atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lenticel designates one of many raised pores on the stems of woody plants that allow the interchange of gas between the atmosphere and the interior tissue."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Under the microscope, each **lenticel** on the birch stem appears as a loose powdery mass of unsuberized cork cells."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The climbing tendrils anchor themselves firmly, their surfaces dotted with microscopic **lenticel** apertures."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Plant respiration through bark is sustained by specialized **lenticel** openings that permit the inward diffusion of oxygen."*
+

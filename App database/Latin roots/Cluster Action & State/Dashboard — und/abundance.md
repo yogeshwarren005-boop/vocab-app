@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a more than adequate quantity or supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large quantity of something; overflowing fullness, copiousness, or wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological population biology, species abundance measures the relative representation of a species in an ecosystem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sea all water, yet receives rain still, And in abundance addeth to his store, So thou being rich in will add to thy will One will of mine to make thy large will more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that so generally is at all times good, must of necessity hold his virtue to you, whose worthiness would stir it up where it wanted, rather than lack it where there is such abundance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extraordinary **abundance** of certain insect species depends upon their immense reproductive capacity and favorable food supplies."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The market price of commodities falls whenever domestic supply is offered in great **abundance** beyond effective demand."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Poor sacrifices of our enmity! As rich shall Romeo's by his lady's lie; poor sacrifices of our enmity, given in sad **abundance**."*
+

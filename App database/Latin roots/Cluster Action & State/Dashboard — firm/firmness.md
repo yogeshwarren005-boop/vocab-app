@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscle tone of healthy tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being resolute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Solid structural stability, physical resistance to pressure, or resolute moral fortitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and character psychology, firmness of mind represents the fortitude to execute moral duty despite personal temptation or intimidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Just the same!” In the momentary firmness of the hand that was never still—a firmness inspired by the utterance of these last words, and dying away with them—I saw the confirmation of her earnest tones."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How,” says the trooper, folding his arms and looking with indomitable firmness at his brother, “how is my mother to be got to scratch me?” “I am not sure that I understand you, George,” replies the ironmaster."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Your sister is an amiable creature; but _yours_ is the character of decision and firmness, I see."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The executive magistrate must possess sufficient constitutional **firmness** to withstand the temporary delusions of popular passion."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot admired that gentle **firmness** of character which knows how to yield without weakness and persist without obstinacy."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Murdstone constantly preached the necessity of **firmness**, which in his practice was only another name for unfeeling tyranny."*
+

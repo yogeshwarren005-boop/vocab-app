@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of zambia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of zambia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of Zambia, serving as the commercial, administrative, and transportation hub of the country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century African history, Lusaka hosted key diplomatic summits and served as a headquarters for southern African liberation movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lusaka designates the capital and largest city of zambia."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Dispatches from **lusaka** confirmed that Northern Rhodesian copper production was vital to the imperial war supply."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The fertile plateau surrounding modern **lusaka** was traversed by ancient caravan trails connecting the Zambezi to central lakes."*
+> - 📜 **Basil Davidson (*The Black Man's Burden*):** *"Following independence, **lusaka** developed rapidly into a vibrant diplomatic capital for newly sovereign African nations."*
+

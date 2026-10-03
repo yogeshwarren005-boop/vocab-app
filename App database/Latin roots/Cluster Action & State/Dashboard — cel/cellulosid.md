@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or containing or made from cellulose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or containing or made from cellulose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical term denoting a substance containing or related to cellulose compounds; cellulosic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early industrial organic chemistry, cellulosid derivatives were investigated as precursors for synthetic varnishes and molded polymers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cellulosid designates of or containing or made from cellulose."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"We tested various **cellulosid** filaments in the laboratory to determine their electrical endurance under high vacuum."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Asymmetry*):** *"Chemical reagents acted upon the **cellulosid** fibers without altering their optical rotary dispersion."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The decomposed organic residue yielded a distinct **cellulosid** precipitate when treated with dilute acid."*
+

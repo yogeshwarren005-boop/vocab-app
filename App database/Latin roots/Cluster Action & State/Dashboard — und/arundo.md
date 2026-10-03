@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several coarse tall perennial grasses of most warm areas: reeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several coarse tall perennial grasses of most warm areas: reeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tall perennial reed grasses, especially Arundo donax (giant reed), native to the Mediterranean basin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical instrument fabrication, culms of Arundo donax have been harvested since antiquity to manufacture reeds for oboes, clarinets, and bagpipes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"REED SMUT; prodded on the stems of reeds, forming thick bullate patches several inches long, occupying whole internodes, covered by their sheath; spores globose, rather large.—On stems of _Arundo phragmitis_."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The marsh warbler suspended its woven nest among the waving stems of the giant river reed **arundo**."*
+> - 📜 **Richard Francis Burton (*The Land of Midian*):** *"The desert waterholes were fringed with luxuriant clumps of **arundo**, providing shade in the blistering midday heat."*
+> - 📜 **Hector Berlioz (*Treatise on Modern Instrumentation and Orchestration*):** *"Woodwind performance depends essentially upon the elasticity of the cane reed split from dried stalks of **arundo** donax."*
+

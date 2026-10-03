@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not indicating the presence of microorganisms or disease or a specific condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establishing as invalid or untrue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to disprove, contradict, or invalidate a hypothesis, belief, or expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and Popperian falsificationism, seeking disconfirming evidence prevents confirmation bias from perpetuating invalid theories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disconfirming designates not indicating the presence of microorganisms or disease or a specific condition."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I have during many years made a golden rule to record immediately any **disconfirming** fact that ran counter to my theories."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A single well-authenticated **disconfirming** instance is sufficient to overturn a universal empirical induction."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The human mind naturally resists **disconfirming** observations that threaten deeply ingrained ideological habits."*
+

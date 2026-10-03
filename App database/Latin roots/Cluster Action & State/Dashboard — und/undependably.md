@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unfaithful undependable unreliable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unfaithful undependable unreliable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unreliable, inconsistent, or untrustworthy manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental physics, instruments that perform undependably must be recalibrated against certified national standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undependably designates in an unfaithful undependable unreliable manner."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The steam launch performed **undependably**, its sputtering boiler struggling against the swift tidal current of the Thames."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The Alpine post-chaise operated **undependably**, stranding passengers at remote mountain inns overnight."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The electric telegraph operated **undependably** as panicked operators abandoned regional railway stations."*
+

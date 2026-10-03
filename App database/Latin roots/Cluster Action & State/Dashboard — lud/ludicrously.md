@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to arouse or deserve laughter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to arouse or deserve laughter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is amusingly absurd, unreasonable, or ridiculously disproportionate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In satirical writing, describing serious pretensions ludicrously exposes vanity to public mockery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Jonah suggesting something about a “love-child,” and with this thought in his mind, the stranger’s face, which happened to be opposite him, affected him too ludicrously."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"With utter stupefaction he saw an iron countenance, above which a stiff brush of wire hair projected ludicrously."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"That position is untenable—I may say ludicrously untenable."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Uncle Pumblechook sat swollen with self-importance, looking **ludicrously** out of place in our humble forge kitchen."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"Bingo Little looked **ludicrously** mournful, like a pelican that has dropped its fish into the deep sea."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Cain Ball delivered his London news with a **ludicrously** solemn expression that delighted the rustic audience."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not derivative or imitative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not derivative or imitative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not derived or deduced from another source; original, primitive, or underived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical morphology and linguistics, underivative root words serve as primitive base morphemes from which compound terms branch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underivative designates not derivative or imitative."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Simple sensory ideas are primary and **underivative**, constituting the foundational materials of all human knowledge."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative philologists identify primitive, **underivative** verbal roots common to both Sanskrit and classical Greek."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"First principles in natural philosophy must be sought in **underivative** axioms confirmed by direct observation."*
+

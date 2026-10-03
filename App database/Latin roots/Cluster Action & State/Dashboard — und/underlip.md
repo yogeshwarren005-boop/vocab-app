@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower lip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lower lip.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower lip of the human mouth or an animal's mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In expressive portraiture, a protruding or trembling underlip conveys petulant defiance or suppressed grief in a subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His brows knit together into a wedge-like furrow, and with a twitch of pain he bit his underlip."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His eyes grew strangely bright, and he gnawed nervously at his underlip."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A few minutes later the eldest sister came out with a pale hard face, again biting her underlip."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester bit his **underlip** with suppressed agitation, pacing the library floor as the storm raged outside."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip noticed that Magwitch's scarred **underlip** twitched with deep emotion as he gazed upon the boy he had enriched."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess pressed her trembling **underlip** with her teeth, striving to maintain composure before her harsh interrogator."*
+

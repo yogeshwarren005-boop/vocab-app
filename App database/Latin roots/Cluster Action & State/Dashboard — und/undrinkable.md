@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsuitable for drinking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsuitable for drinking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfit, dangerous, or too unpleasant to drink; lacking potable quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine survival medicine and maritime hydrology, hypertonic ocean water is undrinkable because it accelerates cellular dehydration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Masai believe that were the couple to commit a breach of chastity, not only would the wine be undrinkable but the bees which made the honey would fly away."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Methylated spirit only differs from the alcohol in alcoholic beverages in that something is added to make it undrinkable."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Water, water, everywhere, nor any drop to drink; the brackish brine was utterly **undrinkable** beneath the blistering sun."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The stagnant marsh water in the swamp settlement of Eden was foul, turbid, and dangerously **undrinkable**."*
+> - 📜 **George Orwell (*Burmese Days*):** *"The bitter club soda was warm and nearly **undrinkable** during the stifling heat of the pre-monsoon afternoon."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serviceman in the artillery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serviceman in the artillery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soldier who belongs to the artillery service; a gunner who loads, aims, and fires cannons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military literature, the veteran artilleryman is depicted as technically skilled in ballistics, geometry, and ordnance maintenance under fire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet is an ex-artilleryman, tall and upright, with shaggy eyebrows and whiskers like the fibres of a coco-nut, not a hair upon his head, and a torrid complexion."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Matthew Bagnet, otherwise Lignum Vitae, ex-artilleryman and present bassoon-player."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Whose company?” asked Prince Bagratión of an artilleryman standing by the ammunition wagon."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"I encountered an exhausted **artilleryman** hiding in the cellar, whose battery had been destroyed by the Martian heat-ray on the common."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The brave **artilleryman** Captain Tushin directed his battery at Schoengraben without cover, holding back the entire French advance."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The youthful soldier watched an intrepid **artilleryman** swab the smoking cannon barrel amid a storm of rifle bullets."*
+

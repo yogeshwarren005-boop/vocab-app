@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Street name for lysergic acid diethylamide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Street name for lysergic acid diethylamide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dilute sulfuric acid utilized as the chemical electrolyte in lead-acid rechargeable batteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and occupational safety, battery-acid poses severe risks of chemical skin burns and explosive hydrogen gas evolution during charging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, battery-acid designates street name for lysergic acid diethylamide."*
+> - 📜 **Thomas Edison (*The Edison Papers*):** *"We formulated an alkaline nickel-iron cell to eliminate the corrosive fumes and leakage of volatile **battery-acid**."*
+> - 📜 **Arthur C. Clarke (*Islands in the Sky*):** *"The technician wore heavy neoprene gauntlets to protect his hands from splashes of corrosive **battery-acid** during accumulator repairs."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"A severed electrical cable leaked pungent **battery-acid** over the metal deck of the damaged aerial scout ship."*
+

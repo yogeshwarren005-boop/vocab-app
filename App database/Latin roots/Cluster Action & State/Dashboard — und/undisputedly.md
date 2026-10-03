@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unarguable and undisputed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unarguable and undisputed manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that cannot be doubted, contested, or challenged; unquestionably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical musicology and critical biography, Ludwig van Beethoven is undisputedly recognized as a pivotal figure in Western classical harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undisputedly designates in an unarguable and undisputed manner."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Shakespeare is **undisputedly** the greatest articulate voice that the English race has yet produced."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Milton was **undisputedly** a master of sublime poetic meter unmatched in our national literature."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth was **undisputedly** the most capable land surveyor and manager of estates in the entire county."*
+

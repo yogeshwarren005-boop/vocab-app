@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign too low a value to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Esteem lightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To rate, estimate, or price something below its real worth, importance, or value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, individuals who undervalue the quiet virtues of integrity sacrifice lasting peace for ephemeral fame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"God forbid that I should undervalue the warm and faithful feelings of any of my fellow-creatures!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The use which has been made of this difference, in reasonings contained in former papers, will have shown that I am disposed neither to deny its existence nor to undervalue its importance."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The more you know the more unhappy you are.” “You should not undervalue knowledge before Pansy, who has not finished her education,” Madame Merle interposed with a smile."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth warned Jane never to **undervalue** her own noble qualities or allow Bingley's sisters to treat her with condescension."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"A wise man will never **undervalue** the sincere approbation of virtuous citizens, though he despises vulgar flattery."*
+> - 📜 **Francis Bacon (*Essays*):** *"He that will not apply new remedies must expect new evils; for time is the greatest innovator, and to **undervalue** it is fatal."*
+

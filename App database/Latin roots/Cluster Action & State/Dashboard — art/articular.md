@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the joints of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the joints of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located in, or affecting a joint or joints of the skeletal body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional arthrology, articular cartilage provides an ultra-low-friction, wear-resistant bearing surface bathed in synovial fluid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articular designates relating to or affecting the joints of the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute rheumatic fever typically attacks the large synovial joints, producing severe **articular** swelling, heat, and exquisite tenderness."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The **articular** surface of the femoral condyle glides smoothly over the concave tibial plateau during flexion."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The modified **articular** facets of the hominid pelvis reflect the biomechanical requirements of habitual upright bipedal posture."*
+

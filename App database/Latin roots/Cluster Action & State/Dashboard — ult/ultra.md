@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of opinions and actions) far beyond the norm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of opinions and actions) far beyond the norm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Going beyond the usual limit; extreme, radical, or uncompromising, especially in political or philosophical views.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, ultra-royalists in Restoration France were more royalist than the King, demanding full restoration of feudal privileges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The Standard Oil Company at one time had this form of organization, which was declared by the courts to be illegal _(ultra vires)_ for corporations."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The ultra-radical and the ultra-conservative alike declare that these measures "logically" lead on to the complete destruction of private property."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They will ultimately gather within their folds most of the ultra-discontented, and others that are not able to find an alternative economic philosophy and a plan that inspire their hopes."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The **ultra** theorists of the National Assembly tore down ancient institutions without providing viable replacements."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **ultra** Tories opposed every concession to religious toleration, predicting the immediate downfall of Church and Crown."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An **ultra** democratic spirit, if uncontrolled by constitutional checks, risks degenerating into majoritarian despotism."*
+

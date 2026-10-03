@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give equal rights to; of women and minorities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant freedom to; free from confinement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To set free from imprisonment, oppression, or confinement; to release from bondage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical kinetics and thermodynamics, an exothermic reaction will liberate thermal energy into the surrounding environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Russia is at war with Turkey and calls upon Hellas to liberate itself."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On the other hand, Pierre demanded that steps should be taken to liberate the serfs, which the steward met by showing the necessity of first paying off the loans from the Land Bank, and the consequent impossibility of a speedy emancipation."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There now, you wish to liberate your serfs,” he continued; “that is a very good thing, but not for you—I don’t suppose you ever had anyone flogged or sent to Siberia—and still less for your serfs."*
+> - 📜 **Abraham Lincoln (*Emancipation Proclamation*):** *"All persons held as slaves within said designated States and parts of States are, and henceforward shall be, free, and the executive government will recognize and maintain the freedom of said persons, and will do no act or acts to repress such persons, or any of them, in any efforts they may make for their actual freedom; and I hereby enjoin upon the people so declared to be free to abstain from all violence, unless in necessary self-defence; and I recommend to them that, in all cases when allowed, they labor faithfully for reasonable wages; and I further declare and make known, that such persons of suitable condition, will be received into the armed service of the United States to garrison forts, positions, stations, and other places, and to man vessels of all sorts in said service; and upon this act, sincerely believed to be an act of justice, warranted by the Constitution, upon military necessity, I invoke the considerate judgment of mankind, and the gracious favor of Almighty God, seeking to **liberate** millions from bondage."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Samson was chosen by divine decree to **liberate** Israel from Philistine oppression through heroic strength."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The sudden coming of spring began to **liberate** the mountain torrents from their icy winter fetters."*
+

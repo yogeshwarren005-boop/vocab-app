@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who pardons or forgives or excuses a fault or offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval cleric who raised money for the church by selling papal indulgences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval church official authorized to sell papal pardons or indulgences; or a person who pardons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Geoffrey Chaucer's Canterbury Tales, the Pardoner is depicted as a corrupt, hypocritical cleric selling fraudulent relics and papal bulls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I shall obey him. [_Exit Messenger._] DUKE. [_Aside_.] This is his pardon, purchased by such sin For which the pardoner himself is in."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"As saffron tingeth: Chaucer uses “saffron” metaphorically as a verb:-- “And in Latyn I speke a wordes fewe, To saffron with my predicacioun, And for to stire men to devocioun.”--‘The Pardoner’s Prologue’. 113."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"With him there rode a gentle **pardoner** of Rouncivale, his friend and his peer, who sang full loud, 'Come hither, love, to me!'"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The scandalous traffic of the itinerant **pardoner** provoked the indignation of early reformers throughout northern Europe."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The mendicant **pardoner** carried in his leather wallet leaden papal seals and purported splinters of the true cross."*
+

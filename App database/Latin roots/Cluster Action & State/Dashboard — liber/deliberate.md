@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Think about carefully; weigh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discuss the pros and cons of an issue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done consciously and intentionally; carefully weighed, considered, and unhurried.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, deliberate intent distinguishes premeditated homicide from crimes of passion or sudden impulse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To bear all smooth and even, This sudden sending him away must seem Deliberate pause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As it were, to ride day and night, and not to deliberate, not to remember, not to have patience to shift me— SHALLOW."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This outward-sainted deputy, Whose settled visage and deliberate word Nips youth i’ th’ head, and follies doth enew As falcon doth the fowl, is yet a devil."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The republican principle demands that the **deliberate** sense of the community should govern the conduct of those to whom they entrust the management of their affairs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth spoke with **deliberate** composure, determined that her cousin should not perceive how deeply she had been offended."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn took a **deliberate** sip of his old port wine, gazing impassively at the painted Roman upon the ceiling."*
+

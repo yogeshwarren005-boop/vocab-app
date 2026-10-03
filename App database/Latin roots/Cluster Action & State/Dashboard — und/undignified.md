@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking dignity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking dignity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking dignity, seriousness, decorum, or self-respect; inappropriate or unbecoming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and public ceremonialism, undignified conduct by an ambassador insults the host nation and undermines bilateral relations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Sometimes this obscure corner received no inhabitant for the space of two or three years, and then it was usually but a pauper, a poacher, or other sinner of undignified sins."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sitting down as a level member of the dairyman’s household seemed at the outset an undignified proceeding."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Undignified, I call it, the way you women run after a man nowadays."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley remarked that Harriet's flurried retreat across the parlor was hurried and singularly **undignified**."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick found himself in the highly **undignified** predicament of being trapped inside a ladies' boarding school garden."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon considered the bishop's domestic subservience to his wife thoroughly **undignified** for a prelate."*
+

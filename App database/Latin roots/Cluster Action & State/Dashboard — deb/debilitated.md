@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make weak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking strength or vigor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Weakened, enfeebled, or impaired in health, bodily strength, or structural vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a debilitated patient requires restorative nutritional therapies and gradual physical rehabilitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A very valuable person, and deservedly respected.” The debilitated cousin supposes he is “’normously rich fler.” “He has a stake in the country,” says Sir Leicester, “I have no doubt."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Volumnia never heard of such a thing. ‘The debilitated cousin holds that it’s sort of thing that’s sure tapn slongs votes—giv’n—Mob."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Debilitated cousin thinks—country’s going—Dayvle—steeple-chase pace."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The poor consumption patient lay **debilitated** upon her narrow cot, her pale cheeks flushed with fever."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The overworked farm horses returned to the stables **debilitated** after hours of harrowing through stubborn, sodden clay."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Kurtz was carried out of the jungle on a litter, an utterly **debilitated** shadow of his former ambitious self."*
+

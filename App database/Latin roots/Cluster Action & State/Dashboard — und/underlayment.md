@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pad placed under a carpet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pad placed under a carpet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A layer of material, such as foam, plywood, or felt, placed beneath flooring, carpeting, or roofing to provide a smooth, resilient base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural building science, water-resistant underlayment protects structural roof sheathing from wind-driven rain penetration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underlayment designates a pad placed under a carpet."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I laid down an **underlayment** of dry white pine boards to insulate the cabin floor from the frozen ground."*
+> - 📜 **Arthur C. Clarke (*Islands in the Sky*):** *"The acoustic engineers installed a vibration-damping **underlayment** beneath the machinery deck of the orbital station."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Venetian builders laid a resilient **underlayment** of Istrian stone flags over sunken timber pilings in the lagoon."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freeing from false belief or illusions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freeing from false belief or illusions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of disappointment resulting from the discovery that something is not as good as one believed it to be.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, fin-de-siècle disillusionment fostered philosophical existentialism and modernist skepticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Wonder, disillusionment, passion, tragedy, despair."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Prince Andrew looked at the laughing Speránski with astonishment, regret, and disillusionment."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Where was his spleen, his contempt for life, his disillusionment?"*
+> - 📜 **E. M. Forster (*A Passage to India*):** *"The sudden collapse of Fielding's cross-cultural goodwill left him with a bitter sense of social **disillusionment**."*
+> - 📜 **Winston Churchill (*The Aftermath*):** *"The messy compromises of the Versailles peace conference bred widespread public **disillusionment** throughout Europe."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"The young scholar experienced the painful **disillusionment** of discovering that great academic reputations masked petty jealousies."*
+

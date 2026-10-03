@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of inadequate development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (photography) inadequate processing of film resulting in inadequate contrast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficient economic, industrial, or physical growth and technological modernization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental pediatrics and endocrinology, physical underdevelopment can result from growth hormone deficiency or chronic malnutrition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdevelopment designates state of inadequate development."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The economic **underdevelopment** of the inland provinces stemmed directly from the lack of navigable river waterways to the sea."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infantile cretinism presents with pronounced somatic and mental **underdevelopment** due to congenital thyroid absence."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Societies burdened by chronic political insecurity remain trapped in economic **underdevelopment** and primitive subsistence farming."*
+

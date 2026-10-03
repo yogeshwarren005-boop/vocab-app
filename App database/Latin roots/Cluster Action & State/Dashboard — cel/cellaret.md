@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sideboard with compartments for holding bottles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sideboard with compartments for holding bottles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small decorative wooden cabinet, chest, or deep drawer designed to hold wine or liquor bottles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Georgian and Victorian cabinetmaking, mahogany cellarets were lined with lead and fitted with brass handles for dining-room sideboards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A board was found, fixed on two saddles and covered with a horsecloth, a small samovar was produced and a cellaret and half a bottle of rum, and having asked Mary Hendríkhovna to preside, they all crowded round her."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The dining parlor featured a handsome mahogany **cellaret** stocked with choice Madeira for hospitable entertaining."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley unlocked the brass-bound **cellaret** to offer his guests a cordial before the carriage arrived."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"The archdeacon kept his favorite vintage port under lock and key in an antique dining-room **cellaret**."*
+

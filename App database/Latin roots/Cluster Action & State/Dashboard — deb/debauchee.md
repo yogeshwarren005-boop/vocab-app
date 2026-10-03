@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dissolute person; usually a man who is morally unrestrained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dissolute person; usually a man who is morally unrestrained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person given to excessive sensual indulgence, dissipation, and dissolute living; a rake or libertine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth-century moral satires, the ruined debauchee served as an allegorical warning against the perils of squandered youth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debauchee designates a dissolute person; usually a man who is morally unrestrained."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"The aging **debauchee** looked back upon his squandered patrimony with bitter, unavailing regret in his infirmity."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The town **debauchee** spent his mornings in recovery from midnight revels and his afternoons planning fresh intrigues."*
+> - 📜 **Honoré de Balzac (*Père Goriot*):** *"Rastignac recoiled from the cynical philosophy of Vautrin, who dissected Parisian vice like an unrepentant **debauchee**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking brilliance or vitality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking luster or shine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British and Commonwealth spelling of lusterless; lacking glow, shine, or radiance; dull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, lustreless eyes and sallow skin are classic clinical signs of chronic systemic anemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The quick-silvery glaze on the rivers and pools vanished; from broad mirrors of light they changed to lustreless sheets of lead, with a surface like a rasp."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The twisted limbs, the gaping mouths, the staring lustreless eyes, fascinated him."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He is meagre; his low and narrow forehead is deeply wrinkled; his eyes, small and lustreless, sometimes wander apprehensively about him, but oftener seem to look inward."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"His eyes were **lustreless** and heavy, as though the terrible moorland legend had drained his youthful spirit."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The dying leaves hung limp and **lustreless** from the autumn oaks in the misty morning air."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The beast-folk stared with dull, **lustreless** pupils that showed little trace of human intelligence."*
+

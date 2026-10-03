@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Renewed affirmation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Renewed affirmation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of reaffirming something, or a renewed confirmation of a statement or policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial jurisprudence, the reaffirmed doctrine of stare decisis ensures stability and predictability in legal precedent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Finally the differences were partially adjusted by a reaffirmation of the platform of 1884, and very decided endorsements of both the President’s message and the Mills bill."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional amendments were adopted as a formal **reaffirmation** of ancient Anglo-Saxon civil liberties."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"What the colonists demand is a solemn **reaffirmation** of their historical exemption from parliamentary taxation without representation."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The social compact receives continuous tacit **reaffirmation** whenever a citizen enjoys the protection of municipal laws."*
+

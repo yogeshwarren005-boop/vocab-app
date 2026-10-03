@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into words or an expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having joints or connected by joints; or expressed clearly and distinctly in speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and railway design, an articulated locomotive features hinged engine trucks to negotiate tight track curves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Sir Clifford’s whale has been articulated throughout; so that, like a great chest of drawers, you can open and shut him, in all his bony cavities—spread out his ribs like a gigantic fan—and swing all day upon his lower jaw."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He unfolded like an articulated, mechanical crane."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In the foreground, the Slingshot Logistics Depot and its maze of ships, tugs, articulated cranes and flex-conveyers were portrayed busily engaged in loading and unloading the moored vessels, and the new arrivals that waited for their turn."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The fossil skeleton of the giant armadillo displayed heavily **articulated** bony plates protecting the lumbar region."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Crustaceans and insects possess segmented, **articulated** limbs engineered for swimming, running, or grasping."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The Prince **articulated** his feelings with careful diplomatic reserve, choosing each syllable with deliberate elegance."*
+

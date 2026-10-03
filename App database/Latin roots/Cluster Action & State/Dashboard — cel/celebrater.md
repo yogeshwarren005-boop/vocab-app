@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is celebrating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is celebrating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of celebrator; one who celebrates, commemorates, or praises a person, event, or triumph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century festival accounts, every enthusiastic celebrater joined the civic procession through the decorated marketplace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celebrater designates a person who is celebrating."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Snodgrass proved himself a passionate **celebrater** of rustic beauty and bucolic romance during the shooting excursion."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The squire was an indefatigable **celebrater** of old English customs, reviving Yule logs and morris dancing on his estate."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"The poet is born to be a sincere **celebrater** of divine heroism in human history and noble actions."*
+

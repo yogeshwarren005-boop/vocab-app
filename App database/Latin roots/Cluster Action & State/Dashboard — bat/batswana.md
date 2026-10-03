@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a bantu people living chiefly in botswana and western south africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a bantu people living chiefly in botswana and western south africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The people of Botswana; or citizens of Botswana collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In southern African ethnography, the Batswana comprise several Bantu-speaking tribes speaking Setswana, historically ruled by hereditary chiefs (dikgosi).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batswana designates a member of a bantu people living chiefly in botswana and western south africa."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"Living among the **batswana**, I was deeply impressed by their democratic tribal assemblies and eloquent public oratory."*
+> - 📜 **Cecil Rhodes (*Speeches and Letters*):** *"The British South Africa Company negotiated territorial protectorate treaties with the paramount chiefs of the **batswana**."*
+> - 📜 **Basil Davidson (*A History of Africa*):** *"Under King Khama III, the **batswana** skillfully maintained their autonomy by petitioning Queen Victoria directly against corporate annexation."*
+

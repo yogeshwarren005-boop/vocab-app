@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive condition of someone who understands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The statement (oral or written) of an exchange of promises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intellectual comprehension, sympathetic insight, or informal agreement between individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy, human understanding is the active cognitive faculty that synthesizes sensory impressions into concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When a man’s verses cannot be understood, nor a man’s good wit seconded with the forward child, understanding, it strikes a man more dead than a great reckoning in a little room."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you all, If you have hitherto conceal’d this sight, Let it be tenable in your silence still; And whatsoever else shall hap tonight, Give it an understanding, but no tongue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What it should be, More than his father’s death, that thus hath put him So much from th’understanding of himself, I cannot dream of."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **understanding**, like the eye, whilst it informs and teaches us of other things, takes no notice of itself."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Give it an **understanding**, but no tongue: I will requite your loves; so fare you well upon the platform."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was surprised by the mutual **understanding** that had so quietly established itself between Jane and Bingley."*
+

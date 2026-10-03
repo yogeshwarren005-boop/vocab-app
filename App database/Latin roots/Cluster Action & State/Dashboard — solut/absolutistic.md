@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the principle of totalitarianism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the principle of totalitarianism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of absolutism, arbitrary rule, or unconditional dogma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology, absolutistic governance relies upon centralized bureaucratic command and suppressing dissent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, absolutistic designates pertaining to the principle of totalitarianism."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Militant societies naturally develop an **absolutistic** regime, organizing the entire population into a rigid command hierarchy."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Traditional pedagogies frequently employ **absolutistic** methods that stifle independent critical inquiry in the classroom."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Dynastic empires preserved an **absolutistic** ceremonial culture designed to overawe the productive classes."*
+

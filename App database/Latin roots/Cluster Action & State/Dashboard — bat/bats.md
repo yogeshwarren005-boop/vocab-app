@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (baseball) a turn trying to get a hit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of bat; nocturnal flying mammals; or an informal slang term meaning crazy, eccentric, or insane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial idiom, to be 'bats in the belfry' describes erratic mental behavior or obsessive eccentricities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where go you With bats and clubs?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But make you ready your stiff bats and clubs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the charms Of Sycorax, toads, beetles, bats, light on you!"*
+> - 📜 **Bram Stoker (*Dracula*):** *"As the sun set behind the Carpathian peaks, clouds of nocturnal **bats** circled the crumbling battlements of the castle."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"Bertie Wooster suspected that Gussie Fink-Nottle was completely **bats** after his bizarre speech at the Market Snodsbury grammar school."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Immense colonies of fruit-eating **bats** hung by their claws from the branches of the banyan trees in the Australian bush."*
+

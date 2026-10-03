@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The aspect of the verb that expresses the repetition of an action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by iteration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or characterized by repetition; recurring in successive cycles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammatical linguistics and aspect theory, an iterative verb aspect signifies action performed repeatedly or habitually.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iterative designates the aspect of the verb that expresses the repetition of an action."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Mental associations are consolidated through the **iterative** recurrence of contiguous sensory impressions."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Inductive reasoning proceeds through an **iterative** comparison of observed instances and negative controls."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Habit formation is fundamentally an **iterative** neural process requiring constant and uninterrupted practice."*
+

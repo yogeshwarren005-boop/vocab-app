@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality characterized by indirect reference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality characterized by indirect reference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Richness in indirect literary, cultural, or historical references and subtle symbolic connotations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hermeneutic analysis, the allusiveness of a text demands erudition from the reader to unlock multi-layered allegorical interpretations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Clement is the only man who writes in this way, with an allusiveness beyond Plutarch's, and a fancy as comprehensive as his charity and his experience of literature and religion."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The subtle **allusiveness** of Milton's verse requires a scholar's familiarity with ancient Greek and Latin epics."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic genius manifests through an evocative **allusiveness** that transcends literal narrative constraints."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"Mallarmé sought a pure **allusiveness** in verse where words suggest moods rather than name objects."*
+

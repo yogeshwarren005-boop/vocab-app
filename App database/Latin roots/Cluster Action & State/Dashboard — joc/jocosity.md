@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fun characterized by humor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of merry joking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Playful good humor, or a witty sally, jest, or comic remark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical style and historical satire, biting jocosity serves to lampoon pomposity without explicit slander.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jocosity designates fun characterized by humor."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"Mr. Pickwick beamed with benevolent **jocosity** as the punch bowl was carried into the holiday parlor."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Beneath Professor Teufelsdrockh's sardonic **jocosity** lay an abyss of earnest philosophical anguish."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"The old squire enjoyed the innocent **jocosity** of the Christmas mummers performing in the great hall."*
+

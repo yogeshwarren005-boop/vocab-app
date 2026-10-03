@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not domesticated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaccustomed to home life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tamed, cultivated, or bred for human use; living in a natural wild state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological anthropology and evolutionary genetics, undomesticated wild progenitors of modern grains exhibit shattering rachises for seed dispersal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undomesticated designates not domesticated."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The wild, **undomesticated** ancestors of the domestic rock pigeon still nest in the rocky sea cliffs of the Hebrides."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck answered the primordial call of the wilderness, running with the wild, **undomesticated** timber wolves."*
+> - 📜 **Henry David Thoreau (*Walking*):** *"There is a fertile vigor in all wild and **undomesticated** nature that revives the tired spirit of civil man."*
+

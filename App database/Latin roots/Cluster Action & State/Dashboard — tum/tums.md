@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antacid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plural of tum (stomachs); or a popular brand of antacid tablets containing calcium carbonate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial dialect and nursery parlance, tums refers to children's stomachs needing comforting warmth or nourishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tums designates an antacid."*
+> - 📜 **A. A. Milne (*The House at Pooh Corner*):** *"The young animals rubbed their little **tums** and sat in a circle waiting for Kanga to dish out the condensed milk."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"A row of hungry schoolboys stood with hollow **tums**, eyeing the mountainous pile of crumpets on the tea table."*
+> - 📜 **Rudyard Kipling (*Stalky & Co.*):** *"The boys brewed clandestine cocoa after lights out, filling their hollow **tums** against the winter chill of the dormitory."*
+

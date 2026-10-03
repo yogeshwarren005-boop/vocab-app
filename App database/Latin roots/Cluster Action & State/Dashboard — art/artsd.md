@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An honorary arts degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An honorary arts degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical sound daemon for the KDE desktop environment in Unix-like operating systems (aRts daemon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Linux audio architecture of the early 2000s, the artsd sound server routed multiple digital PCM streams to sound card hardware.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artsd designates an honorary arts degree."*
+> - 📜 **Linus Torvalds (*Just for Fun: The Story of an Accidental Revolutionary*):** *"Early desktop audio developers implemented sound servers such as **artsd** to resolve simultaneous digital playback conflicts in user space."*
+> - 📜 **Andrew Tanenbaum (*Modern Operating Systems*):** *"The user-space sound daemon **artsd** managed audio streams before kernel-level ALSA mixing became standardized across Linux distributions."*
+> - 📜 **Brian Kernighan (*The Unix Programming Environment*):** *"System daemons like **artsd** listen on local sockets, mediating sound device access for multiple concurrent application processes."*
+

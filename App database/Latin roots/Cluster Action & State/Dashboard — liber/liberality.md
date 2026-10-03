@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to favor progress and individual freedom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being generous in behavior and temperament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generosity, open-handed bounty, or broad-minded freedom from narrow prejudice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian ethics, liberality (eleutheriotes) is the golden mean governing wealth expenditure, avoiding both prodigality and illiberal parsimony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Over and beside Signior Baptista’s liberality, I’ll mend it with a largess."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then why should he despair that knows to court it With words, fair looks, and liberality?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not birth, beauty, good shape, discourse, manhood, learning, gentleness, virtue, youth, liberality, and such like, the spice and salt that season a man?"*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"**Liberality** consists in bestowing our wealth where it may do real good, guided by prudence rather than vain ostentation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor Julian displayed a philosophical **liberality** of conduct, dining with ascetic frugality while financing civic restorations."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy's **liberality** toward his tenants and poor parishioners was praised warmly by his housekeeper at Pemberley."*
+

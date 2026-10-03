@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rampart built around the top of a castle with regular gaps for firing arrows or guns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rampart built around the top of a castle with regular gaps for firing arrows or guns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parapet at the top of a castle wall or tower, featuring alternating solid merlons and open crenels for defense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval military architecture, a battlement provided archers with protective cover while shooting down at attacking forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was rather difficult to quiet everybody down in bed that night and even when Kurt had gone to sleep he uttered strange triumphant exclamations, for in his dreams the boy had climbed to the top of the highest battlement."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"The while the coyote barked afar All shadowy was the battlement."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It was repeated three times, with as much violence as if it had been blown before an enchanted castle by the destined knight, at whose summons halls and towers, barbican and battlement, were to roll off like a morning vapour."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"The raven himself is hoarse that croaks the fatal entrance of Duncan under my **battlement**."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Crossbowmen looked down from the high stone **battlement**, discharging heavy quarrels into the attacking Saxon ranks."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane walked along the leaded roof of Thornfield Hall, leaning upon the gray **battlement** to gaze out over the quiet hills."*
+

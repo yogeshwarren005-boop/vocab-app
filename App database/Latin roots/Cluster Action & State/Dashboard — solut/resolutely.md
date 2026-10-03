@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing firm determination or purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With firmness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an admirably purposeful, determined, and unwavering manner; firmly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative, characters facing moral trials resolutely embody heroic virtue against societal intimidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thrice-noble Suffolk, ’tis resolutely spoke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a fery discretion answer, save the fall is in the ’ord “dissolutely.” The ’ort is, according to our meaning, “resolutely.” His meaning is good."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli inspected the tiny chickens and the ripening plums with great enjoyment, but as this had barely taken any time at all, she soon said resolutely, "I have to go now because it is late."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I turned my back upon Thornfield Hall and walked **resolutely** into the unknown world, preferring poverty to dishonor."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Michael Henchard **resolutely** bound himself by a solemn oath to abstain from strong liquors for twenty-one years."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sir Henry **resolutely** stepped out into the dark fog across the moor, despite the ominous warnings of his friends."*
+

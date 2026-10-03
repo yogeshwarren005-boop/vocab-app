@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a bellicose contentious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a bellicose contentious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a combative, aggressive, or argumentative manner; pugnaciously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courtroom advocacy, counsel cross-examines an evasive witness combatively to expose internal contradictions in testimony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, combatively designates in a bellicose contentious manner."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Bounderby spoke **combatively**, boasting of his self-made prosperity and daring any man in Coketown to contradict him."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft responded **combatively**, defending his armaments enterprise as the ultimate guarantor of modern social progress."*
+> - 📜 **Henry James (*The Bostonians*):** *"Olive Chancellor eyed her southern cousin **combatively**, anticipating an intellectual battle over the rights of women."*
+

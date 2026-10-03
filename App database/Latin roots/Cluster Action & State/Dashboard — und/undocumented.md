@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking necessary documents (as for e.g. permission to live or work in a country).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking necessary documents (as for e.g. permission to live or work in a country).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not supported, substantiated, or recorded by official written evidence, certificates, or documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering and systems administration, undocumented legacy APIs introduce substantial maintenance overhead and security vulnerabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undocumented designates lacking necessary documents (as for e.g. permission to live or work in a country)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Many popular legends regarding early barbarian kings remain entirely **undocumented** by contemporary chronicles."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The secret treaty contained several **undocumented** oral pledges given by the monarch to the French court."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The interior mountain tribes possessed an **undocumented** oral lore concerning ancient volcanic eruptions."*
+

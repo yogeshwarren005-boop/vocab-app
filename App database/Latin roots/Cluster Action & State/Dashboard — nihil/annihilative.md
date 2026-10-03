@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wreaking or capable of wreaking complete destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wreaking or capable of wreaking complete destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause annihilation, utter destruction, or complete obliteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological theory and psychoanalysis, annihilative anxiety represents the primal fear of psychic disintegration or complete personal dissolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, annihilative designates wreaking or capable of wreaking complete destruction."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The Everlasting No was an **annihilative** spiritual crisis that stripped away every false illusion of earthly glory."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic forces exhibit both creative evolutionary integration and **annihilative** dissolution throughout stellar cycles."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The blind striving of the metaphysical will carries an **annihilative** momentum that devours its own manifestations."*
+

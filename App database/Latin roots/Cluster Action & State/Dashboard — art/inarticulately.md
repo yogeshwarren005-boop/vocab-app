@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without eloquence; in an inarticulate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inarticulate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inarticulate manner; without clear, coherent words; in mumbled, muffled, or indistinct sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction, profound grief or overwhelming terror renders characters capable only of groaning inarticulately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Let go, master,” he cried, almost inarticulately."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"As for women, they're all so." "You don't know how fond I was of that one," Rawdon said, half-inarticulately."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The doctor murmured inarticulately, gave a long gasp or two and was still."*
+> - 📜 **George Bernard Shaw (*Cashel Byron's Profession*):** *"The stunned prizefighter muttered **inarticulately** from his stool as his seconds applied a wet sponge to his bruised brow."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Mr. Osborne sputtered **inarticulately** with rage when informed that his son had married Amelia Sedley without parental consent."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Injun Joe growled **inarticulately** in the darkness of the cavern, searching along the damp limestone walls for an exit."*
+

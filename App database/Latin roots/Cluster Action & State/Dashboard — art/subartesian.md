@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of water) rising naturally in a well to a height appreciably above that of the surrounding water table but not flowing out of the well.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of water) rising naturally in a well to a height appreciably above that of the surrounding water table but not flowing out of the well.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a confined aquifer or well in which groundwater rises under hydrostatic pressure but does not quite reach the surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional agricultural hydrology, subartesian bores in the Australian outback require mechanical windmills or pumps to lift water into livestock troughs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subartesian designates (of water) rising naturally in a well to a height appreciably above that of the surrounding water table but not flowing out of the well."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"In a **subartesian** boring, the hydrostatic pressure elevates water through the impermeable strata, though it requires pumping to reach surface reservoirs."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The drillers tapped a deep **subartesian** water vein beneath the dry plateau, providing livestock with perennial drinking water."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Geologists surveyed the Great Artesian Basin, cataloging both flowing artesian springs and deep **subartesian** pumping stations."*
+

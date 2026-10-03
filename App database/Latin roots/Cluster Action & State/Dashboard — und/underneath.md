@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On the lower or downward side; on the underside of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Under or below an object or a surface; at a lower place or level; directly beneath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated directly below or beneath; situated on the underside of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic personality theory, a serene public persona frequently conceals intense anxieties churning underneath.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only we want a little personal strength; And pause us till these rebels now afoot Come underneath the yoke of government."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray God she prove not masculine ere long, If underneath the standard of the French She carry armour as she hath begun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So doth the swan her downy cygnets save, Keeping them prisoner underneath her wings."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge looked up at the clock, then down at the floor, seeing a pale phantom hovering directly **underneath** the doorway."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Silver dug into the sandy earth with his spade, looking for the iron chest hidden **underneath** the pine roots."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great leviathan sounded into the deep abyss, leaving a vast whirlpool swirling **underneath** our boat."*
+

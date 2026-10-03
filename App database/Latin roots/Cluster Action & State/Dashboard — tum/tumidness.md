@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slight swelling of an organ or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slight swelling of an organ or part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turgid distension, swollen physical condition, or bombastic inflation in writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical analysis, tumidness weakens persuasive prose by drawing attention to verbal pretension rather than substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tumidness designates slight swelling of an organ or part."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He censured the **tumidness** of modern political declamations, which roar like torrents but carry no gold in their streams."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Flatulent **tumidness** in the stomach was relieved by aromatic carminatives and gentle exercise."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"He swept aside the empty **tumidness** of parliamentary oratory, demanding honest action for the starving workingmen."*
+

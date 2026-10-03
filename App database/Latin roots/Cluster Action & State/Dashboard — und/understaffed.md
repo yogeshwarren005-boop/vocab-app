@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inadequate in number of workers or assistants etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inadequate in number of workers or assistants etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having too few employees, staff, or personnel to function properly, safely, or efficiently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hospital administration and public health, understaffed wards increase nurse burnout and elevate postoperative complication rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, understaffed designates inadequate in number of workers or assistants etc."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The hotel kitchen was chronically **understaffed**, forcing the plongeurs to work sixteen furious hours without a break."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The provincial charity dispensary was hopelessly **understaffed**, with two doctors attempting to treat five hundred patients daily."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery law offices were **understaffed** and overwhelmed by stacks of dusty, unread parchment folios."*
+

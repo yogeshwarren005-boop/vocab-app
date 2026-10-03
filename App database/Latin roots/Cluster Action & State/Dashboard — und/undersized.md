@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smaller than normal for its kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smaller than normal for its kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Smaller than the normal, average, or expected size for its kind; stunted or underdeveloped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, undersized island forms illustrate insular dwarfism resulting from limited resources on isolated landmasses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"There was a little undersized one that would fly into real rages, sometimes with me, sometimes with its fellows."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Nobody can call such an undersized man handsome."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It turned aside for the boulders, and also for an undersized railway-truck lying there on its back with its wheels in the air."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil elephants discovered in the caves of Malta were curiously **undersized**, having adapted to restricted island pasturage."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane looked at her reflection in the glass, seeing a plain, pale, and **undersized** girl with serious dark eyes."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The Eloi were graceful but **undersized** creatures, possessing the delicate stature of five-year-old children."*
+

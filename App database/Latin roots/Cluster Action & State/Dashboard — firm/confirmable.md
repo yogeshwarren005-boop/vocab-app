@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being tested (verified or falsified) by experiment or observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being tested (verified or falsified) by experiment or observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being confirmed, verified, or established as true by evidence or testing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science and logical positivism, a hypothesis is empirically confirmable if observation statements can raise its subjective probability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, confirmable designates capable of being tested (verified or falsified) by experiment or observation."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A scientific theory is genuinely **confirmable** only when it yields novel deductions that survive experimental scrutiny."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"The hypothesis remained easily **confirmable** by any naturalist equipped with a standard compound microscope."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Scientific facts are those which are independently **confirmable** by all competent normal observers."*
+

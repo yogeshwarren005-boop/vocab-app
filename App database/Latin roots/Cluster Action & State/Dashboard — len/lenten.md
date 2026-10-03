@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or suitable for lent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or suitable for lent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, appropriate for, or characteristic of Lent; austere, somber, or meager.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and ecclesiastical history, Lenten entertainment restrictions historically curtailed public dramatic performances and meat consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To think, my lord, if you delight not in man, what Lenten entertainment the players shall receive from you."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In Famenne, a district of Namur, men and cattle who traversed the Lenten fires were thought to be safe from sickness and witchcraft."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The dinner, both the Lenten and the other fare, was splendid, yet he could not feel quite at ease till the end of the meal."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"To think, my lord, if you delight not in man, what **lenten** entertainment the players shall receive from you."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The monastery refectory offered only **lenten** fare of salted herrings and coarse barley bread during the fast."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The church choir practiced their **lenten** hymns with somber diligence under the guidance of the parish vicar."*
+

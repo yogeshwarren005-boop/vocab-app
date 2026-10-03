@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of arsenic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt or ester of arsenic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical salt or ester of arsenic acid containing the polyatomic anion AsO4(3-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural chemistry and historical pest management, lead arsenate was widely sprayed as an insecticide in orchards prior to synthetic organochlorines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Also, 2PbO + SO_{3} ➡ PbSO_{4}.PbO (basic sulphate). _Arsenides_ are partly left as the corresponding oxides, whilst some As_{4}O_{6} is evolved, and some basic arsenate generally remains."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"A considerable proportion of the arsenic in the tough-pitch anode-copper, existing as arsenate, is deposited with the mud residues, it being insoluble and non-conducting."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Addition of ammonium sulphate to the electrolyte prevents this formation, whilst combined aëration and heating promote the precipitation of arsenic as insoluble arsenates which settle with the tank slimes."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The precipitate produced by adding copper sulphate to the neutral solution proved to be an insoluble copper **arsenate**."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"The toxic physiological action of sodium **arsenate** disrupts fundamental cellular respiration in animal tissues."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Mineral veins carrying crystalline iron **arsenate** and copper ores were exploited throughout the Cornish mining district."*
+

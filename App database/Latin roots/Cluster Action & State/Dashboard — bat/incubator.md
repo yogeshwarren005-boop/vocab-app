@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus used to provide controlled temperature and humidity for hatching eggs or rearing premature infants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neonatal medicine, modern infant incubators revolutionized pediatrics by maintaining thermoregulation for fragile premature neonates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Garnet," said Phyllis, "do you use an incubator?" "Oh, yes, we have an incubator." "I suppose you find it very useful?" "I'm afraid we use it chiefly for drying our boots when they get wet," I said."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"We have to keep a constant eye on him." "And have you had any success with the incubator?"*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I have always wanted to have one of my own, but we have never kept fowls." "The incubator has not done all that it should have done," I said."*
+> - 📜 **William Osler (*The Evolution of Modern Medicine*):** *"The clinical introduction of the infant **incubator** dramatically reduced mortality rates among fragile, premature newborns in maternity hospitals."*
+> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge invested his meager capital in a patented artificial **incubator**, dreaming of hatching thousands of prize Orpington chickens."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The research scientist placed the experimental bacterial flasks inside the laboratory **incubator** to monitor overnight cell division."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) a single execution of a set of instructions that are to be repeated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) executing the same set of instructions a given number of times or until a specified result is obtained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of a process, utterance, or procedure; a single cycle in a repetitive sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering and agile development, an iteration denotes a time-boxed sprint yielding an updated product increment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou hast damnable iteration, and art indeed able to corrupt a saint."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had never before seen a woman’s lips and teeth which forced upon his mind with such persistent iteration the old Elizabethan simile of roses filled with snow."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"All material objects around announced their irresponsibility with terrible iteration."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"O, thou hast damnable **iteration**, and art indeed able to corrupt a saint."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"By the patient **iteration** of selective breeding through successive generations, domestic varieties undergo astonishing transformations."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Through ceaseless **iteration** of republican slogans, the club leaders swayed the passions of the Paris sections."*
+

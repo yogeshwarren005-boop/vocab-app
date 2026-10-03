@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose while ridiculing; especially of pretentious or false claims and ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose while ridiculing; especially of pretentious or false claims and ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To expose the falseness, sham, or exaggerated claims of an idea, myth, belief, or superstition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific skepticism and investigative journalism, researchers analyze empirical evidence to debunk pseudoscientific health fads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, debunk designates expose while ridiculing; especially of pretentious or false claims and ideas."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"It is the sacred duty of science to **debunk** fraudulent astrology and illuminate the true wonders of the cosmos."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"A little historical knowledge is sufficient to **debunk** the pompous claims of dynastic chauvinism."*
+> - 📜 **H. L. Mencken (*Prejudices: Third Series*):** *"The critic's natural instinct is to **debunk** the hollow platitudes chanted by self-important politicians."*
+

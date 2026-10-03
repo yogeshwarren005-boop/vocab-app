@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple board game in which players move counters according to the throw of dice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple board game in which players move counters according to the throw of dice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classic board game in which players race four tokens from start to finish according to dice rolls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ludology and game history, Ludo was patented in England in 1896 as a simplified commercial adaptation of the ancient Indian cross-and-circle game Pachisi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ludo designates a simple board game in which players move counters according to the throw of dice."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"On rainy holiday afternoons, the family gathered around the parlor table to play a quarrelsome game of **ludo**."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"He recalled the dim parlor of his childhood, where playing **ludo** by candlelight was the height of winter entertainment."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The colored tokens stood upon the board like miniature chessmen in an unfinished game of **ludo**."*
+

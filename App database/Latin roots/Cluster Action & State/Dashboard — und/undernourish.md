@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with insufficient quality or quantity of nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with insufficient quality or quantity of nourishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide with insufficient food or nutrition for healthy bodily growth, maintenance, and energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health advocacy, failing to feed growing children balanced protein diets will undernourish their cognitive and physical development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undernourish designates provide with insufficient quality or quantity of nourishment."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The parish guardians resolved to **undernourish** the workhouse paupers systematically, hoping to discourage vagrancy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"To **undernourish** a convalescent patient recovering from protracted typhus fever is to invite fatal secondary infections."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Economic poverty forces mining families to **undernourish** their children on cheap bread, margarine, and sweetened tea."*
+

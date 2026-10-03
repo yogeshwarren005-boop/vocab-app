@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abdominal tumor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abdominal tumor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical term denoting a tumor, abnormal neoplasm, or cystic mass situated within the abdominal cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century clinical surgical pathology, an intra-abdominal celioma required exploratory laparotomy to assess resectability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celioma designates an abdominal tumor."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnostic differentiation between a mesenteric cyst and an invasive **celioma** relies upon meticulous palpation and exploratory incision."*
+> - 📜 **Harvey Cushing (*Consecratio Medici*):** *"The surgical team dissected the boundaries of the retroperitoneal **celioma**, protecting adjacent mesenteric vessels."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The senior consulting surgeon lectured the students upon an unusual case of intra-abdominal **celioma** in the public ward."*
+

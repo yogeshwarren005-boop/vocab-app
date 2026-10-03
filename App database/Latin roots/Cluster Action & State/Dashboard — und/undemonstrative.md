@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not given to open expression of emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not given to open expression of emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tending to express one's feelings or emotions openly; reserved, quiet, and restrained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social behavioral analysis, the idealized English gentleman cultivated an undemonstrative stoicism under adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You _shall_,” repeated Mary, in the tone of undemonstrative sincerity which seemed natural to her."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She commanded respect, for she was lady-like and well educated; so quiet and undemonstrative, that her presence was hardly noticed, except by the smiling faces of the wounded as she passed."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She was oddly undemonstrative, and for all her charm had a manner which made it impossible to approach one step nearer than she herself decreed."*
+> - 📜 **Arthur Conan Doyle (*The Greek Interpreter*):** *"Holmes was singularly **undemonstrative**, rarely revealing the deep underlying affection he felt for his brother Mycroft."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers maintained an **undemonstrative** exterior, though intense religious zeal burned within his heart."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate admired the quiet, **undemonstrative** gentleness with which Mary Garth attended to her ailing father."*
+

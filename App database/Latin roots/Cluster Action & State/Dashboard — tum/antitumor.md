@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in the treatment of cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in the treatment of cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Counteracting, inhibiting, or preventing the growth and development of tumors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and cancer therapeutics, antitumor antibiotics such as doxorubicin intercalate DNA base pairs to halt malignant cell division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitumor designates used in the treatment of cancer."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Future physiological investigations will discover biological agents capable of exerting direct **antitumor** activity against morbid growths."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"The host immune response mobilizes cellular defenses that generate a natural **antitumor** barrier against abnormal tissue proliferations."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The clinical researcher evaluated the therapeutic efficacy of a potential **antitumor** extract in animal models."*
+

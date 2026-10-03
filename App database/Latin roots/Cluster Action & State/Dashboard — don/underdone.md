@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficiently cooked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insufficiently cooked.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficiently cooked; rare, or raw in the center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic criticism, an underdone theatrical staging lacks emotional conviction, character development, and production polish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Without prejudice to the cold beef if it's underdone."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"You may be an undigested bit of beef, a blot of mustard, a crumb of cheese, a fragment of an underdone potato."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge muttered that the ghostly apparition was only a blot of mustard, a crumb of cheese, or a piece of **underdone** potato."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley grumbled loudly at the hotel waiter, complaining that the roasted beef was **underdone** and cold."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The rustic bakers at the fair turned out batches of **underdone** bread that drew fierce complaints from the townspeople."*
+

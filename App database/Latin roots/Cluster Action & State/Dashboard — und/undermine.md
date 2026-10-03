@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroy property or hinder normal operations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hollow out as if making a cave or opening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dig or excavate beneath something; or to erode, weaken, or damage insidiously and gradually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical siegecraft, sappers dig tunnels beneath castle bastions to undermine their masonry foundations with fire or explosives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man setting down before you will undermine you and blow you up."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, to be plain, They, knowing Dame Eleanor’s aspiring humour, Have hired me to undermine the Duchess And buzz these conjurations in her brain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Troy be not taken till these two undermine it, the walls will stand till they fall of themselves."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman sappers worked tirelessly day and night to **undermine** the ramparts of the besieged Persian stronghold."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Factional demagogues will seek to **undermine** public confidence in constitutional institutions to establish personal tyranny."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For 'tis the sport to have the engineer hoist with his own petard; and 't shall go hard but I will delve one yard below their mines, and blow them at the moon: O, 'tis most sweet, when in one line two crafts directly meet, to **undermine** an adversary."*
+

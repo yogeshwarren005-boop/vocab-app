@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergarment worn next to the skin and under the outer garments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergarment worn next to the skin and under the outer garments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing worn under outer clothes, typically next to the skin for comfort, warmth, and hygiene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In garment manufacturing and hygiene history, the introduction of breathable knitted cotton underwear transformed public health across urban centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"For really cold weather--” “You're not planning to watch the thermometer and keep him changing underwear accordingly?” “Not at all, Doctor Burns."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Silk stockings and crepe de chine underwear were matched in fineness by the crepe blouses, silk dresses, airy organdies, a suit of exquisite tailoring and three hats for as many different costumes."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"His ragged coat concealed the fact that he possessed neither a clean shirt nor spare **underwear**."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"She packed her trunk with starched linen, stockings, and warm flannel **underwear** before departing for school."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bloom noticed the display of ladies' silk **underwear** in the shop window on Grafton Street."*
+

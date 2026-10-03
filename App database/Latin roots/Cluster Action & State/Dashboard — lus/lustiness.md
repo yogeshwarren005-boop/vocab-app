@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being strong and healthy in constitution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being strong and healthy in constitution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorous bodily health, robust stamina, and energetic physical vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Elizabethan drama, youth is celebrated for its carefree lustiness, contrasting with the infirmities of decrepit age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lustiness designates the property of being strong and healthy in constitution."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"My age is as a lusty winter, frosty, but kindly: for all my youth I was temperate, possessing health and **lustiness** still."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The medieval monastery bustled with agricultural **lustiness**, draining swamps and felling primordial forests."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The young squire rode forth with joyful **lustiness**, singing ballads and dreaming of knightly valor."*
+

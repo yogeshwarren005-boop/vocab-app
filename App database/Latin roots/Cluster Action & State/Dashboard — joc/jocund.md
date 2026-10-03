@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or showing high-spirited merriment; ; - wordsworth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of or showing high-spirited merriment; ; - wordsworth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cheerful, merry, lighthearted, and full of buoyant good humor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral poetry and Romantic verse, jocund nature reflects blissful harmony between human spirit and the waking landscape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As gentle and as jocund as to jest Go I to fight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The lords at Pomfret, when they rode from London, Were jocund and supposed their states were sure, And they indeed had no cause to mistrust; But yet you see how soon the day o’ercast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I promise you, my heart is very jocund In the remembrance of so fair a dream."*
+> - 📜 **William Wordsworth (*I Wandered Lonely as a Cloud*):** *"A poet could not but be gay, in such a **jocund** company: I gazed—and gazed—but little thought what wealth the show to me had brought."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Night's candles are burnt out, and **jocund** day stands tiptoe on the misty mountain tops."*
+> - 📜 **John Milton (*L'Allegro*):** *"Then to the well-trod stage anon, if Jonson's learned sock be on, or sweetest Shakespeare, Fancy's child, warble his native wood-notes wild, and ever against eating cares, lap me in soft Lydian airs, married to immortal verse, such as the meeting soul may pierce in notes with many a winding bout of linked sweetness long drawn out, with wanton heed and giddy cunning, the melting voice through mazes running; untwisting all the chains that tie the hidden soul of harmony; that Orpheus' self may heave his head from golden slumber on a bed of heapt Elysian flowers, and hear such strains as would have won the ear of Pluto, to have quite set free his half-regain'd Eurydice. These delights, if thou canst give, Mirth with thee, I mean to live, amid the **jocund** rebecks sound."*
+

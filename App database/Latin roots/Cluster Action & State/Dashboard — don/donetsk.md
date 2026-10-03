@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city in the donets basin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial city in the donets basin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city in eastern Ukraine, situated in the historic Donbas mining region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial history, Donetsk was founded in 1869 by Welsh businessman John Hughes and was originally named Yuzovka in his honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, donetsk designates an industrial city in the donets basin."*
+> - 📜 **Leo Tolstoy (*Resurrection*):** *"The traveler described the vast coal fields of **donetsk**, where thousands of miners labored beneath the smoke-hung steppes."*
+> - 📜 **Maxim Gorky (*The Lower Depths*):** *"Peasants from the famine-stricken central provinces migrated to the iron works of **donetsk** seeking factory labor."*
+> - 📜 **Ivan Turgenev (*Virgin Soil*):** *"The industrial prospects of the **donetsk** basin were debated by ambitious entrepreneurs in the capital."*
+

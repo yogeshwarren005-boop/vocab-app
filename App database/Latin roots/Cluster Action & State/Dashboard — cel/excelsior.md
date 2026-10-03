@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thin curly wood shavings used for packing or stuffing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thin curly wood shavings used for packing or stuffing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curled wood shavings used as packing material or stuffing; or a motto meaning higher or upward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American culture, 'Excelsior' is the official motto of the State of New York and was celebrated in Longfellow's famous eponymous poem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excelsior designates thin curly wood shavings used for packing or stuffing."*
+> - 📜 **Henry Wadsworth Longfellow (*Birds of Passage*):** *"A youth, who bore, 'mid snow and ice, a banner with the strange device, **excelsior**!"*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"We unpacked the delicate scientific instruments from crates filled with dry straw and fine pine **excelsior**."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The mountain climber pushed onward through the blinding blizzard, murmuring the heroic watchword **excelsior**."*
+

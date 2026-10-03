@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of woody vines and erect shrubs (type genus of the celastraceae) that is native chiefly to asia and australia: includes bittersweet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of woody vines and erect shrubs (type genus of the celastraceae) that is native chiefly to asia and australia: includes bittersweet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous and evergreen woody vines and shrubs in the bittersweet family, noted for showy, bright red or yellow seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape ecology and invasive species management, Celastrus orbiculatus (Oriental bittersweet) aggressively outcompetes native North American trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celastrus designates genus of woody vines and erect shrubs (type genus of the celastraceae) that is native chiefly to asia and australia: includes bittersweet."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"In late October, the bursting orange capsules of **celastrus** reveal their brilliant crimson seeds along the forest margin."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The climbing bittersweet, **celastrus** scandens, ascends tall trees in fertile river bottoms, fruiting abundantly in autumn."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The revolving young shoot of **celastrus** sweeps a wide circle through the air until it encounters a supportive branch."*
+

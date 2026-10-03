@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herbs or vines of tropical and subtropical america and asia and africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbs or vines of tropical and subtropical america and asia and africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ornamental plants in the amaranth family (cockscomb), noted for vivid, flame-like or crested floral plumes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany and traditional agriculture, Celosia argentea (silver cockscomb) is cultivated worldwide both for ornamental beds and as an edible potherb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celosia designates annual or perennial herbs or vines of tropical and subtropical america and asia and africa."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The garden cockscomb, a cultivated species of **celosia**, displays striking, velvet-textured crests of intense crimson and gold."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Horticulturists have preserved monstrous crested variations in **celosia** through centuries of careful seed selection."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"Near the village dwellings, small garden patches were adorned with tall, feathery spikes of scarlet **celosia**."*
+

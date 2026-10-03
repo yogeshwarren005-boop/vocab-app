@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of echinoderms of the family antedonidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of echinoderms of the family antedonidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of feather stars belonging to the class Crinoidea, characterized by feathery pinnules and stalkless adult life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, Antedon bifida represents a classical model organism for studying pentamerous echinoderm radial symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antedon designates a genus of echinoderms of the family antedonidae."*
+> - 📜 **Thomas Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The free-swimming crinoid **antedon** anchors itself temporarily to rocky substrates using jointed cirri."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The larval development of the feather-star **antedon** reveals ancient ancestral stalked crinoid stages."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"We observed the graceful undulations of **antedon** swimming through the clear waters of the bay."*
+

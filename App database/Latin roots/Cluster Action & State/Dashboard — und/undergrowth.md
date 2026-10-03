@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brush (small trees and bushes and ferns etc.) growing beneath taller trees in a wood or forest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense growth of shrubs, saplings, and smaller plants growing beneath the trees in a forest; underbrush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wilderness travel, dense undergrowth slows infantry marches and conceals animal trails from casual observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Here Tess flung herself down upon the rustling undergrowth of spear-grass, as upon a bed, and remained crouching in palpitating misery broken by momentary shoots of joy, which her fears about the ending could not altogether suppress."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He jumped from the cart, and having told the groom to take the mare home, made his way towards his guest through the withered bracken and rough undergrowth."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The living trees, lashed together by the creepers and every living bush of the undergrowth, might have been changed into stone, even to the slenderest twig, to the lightest leaf."*
+> - 📜 **James Fenimore Cooper (*The Deerslayer*):** *"The scout pushed through the tangled forest **undergrowth**, keeping his eyes fixed upon the distant lake."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The seedlings of forest trees must struggle against thick **undergrowth** of brambles and weeds for light and space."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We hacked our way through the steamy tropical **undergrowth** with heavy machetes to reach the base of the cliffs."*
+

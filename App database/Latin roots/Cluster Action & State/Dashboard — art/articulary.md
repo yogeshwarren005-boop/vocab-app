@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the joints of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the joints of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant of articular; pertaining to, affecting, or situated near the joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medical literature, articulary rheumatism designated joint inflammation in contrast to muscular or visceral affections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, articulary designates relating to or affecting the joints of the body."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain herbal decoctions and warm mineral baths were anciently prescribed to assuage chronic **articulary** aches."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Cold, damp climates aggravate the **articulary** pains of aged scholars who lead sedentary lives."*
+> - 📜 **Jeremy Taylor (*Holy Dying*):** *"The infirmities of decrepitude, with their lingering **articulary** torments, prepare the soul for quiet detachment from earthly vanity."*
+

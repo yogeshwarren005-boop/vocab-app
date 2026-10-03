@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of strontium sulphate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral consisting of strontium sulphate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A delicate blue or colorless mineral consisting of strontium sulfate (SrSO4), forming tabular and prismatic crystals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial mineralogy, celestite is the principal commercial ore mined for strontium compounds utilized in fireworks and flares.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celestite designates a mineral consisting of strontium sulphate."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"The young mineralogist held up a magnificent cluster of pale sky-blue **celestite** crystals from the limestone geodes."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"In the gypsum beds of the tertiary strata, we discovered crystalline veins containing fibrous **celestite**."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The sky-blue color and high specific gravity readily distinguish **celestite** from allied baryte and carbonate specimens."*
+

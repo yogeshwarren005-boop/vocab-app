@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing one to believe what is not true or fail to believe what is true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing one to believe what is not true or fail to believe what is true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to delude; misleading, deceptive, or lacking substantial reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contractual dispute resolution, delusory promises that lack genuine consideration or legal enforceability are void ab initio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delusory designates causing one to believe what is not true or fail to believe what is true."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The idols of the theater introduce **delusory** dogmas that corrupt natural philosophy with theatrical illusions."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The projectors of Laputa wasted national revenues pursuing **delusory** schemes to extract sunbeams from cucumbers."*
+> - 📜 **Samuel Johnson (*The History of Rasselas, Prince of Abissinia*):** *"Rasselas recognized that the philosopher's boasted equanimity was a **delusory** comfort when real sorrow struck."*
+

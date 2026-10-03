@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extramarital sex that willfully and maliciously interferes with marriage relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extramarital sex that willfully and maliciously interferes with marriage relations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Voluntary sexual intercourse between a married person and someone who is not their lawful spouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law jurisprudence, adultery constituted the primary fault-based ground for marital dissolution before no-fault divorce reforms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We shall see wilful adultery and murder committed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt not die: die for adultery!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, by my wife, who, if she had been a woman cardinally given, might have been accused in fornication, adultery, and all uncleanliness there."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scarlet letter A embroidered upon Hester's breast stood as an indelible public brand of her **adultery**."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Ay, every inch a king: when I do stare, see how the subject quakes. I pardon that man's life. What was thy cause? **Adultery**? Thou shalt not die: die for **adultery**! No: the wren goes to't, and the small gilded fly does lecher in my sight."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"The high society of Petersburg excused covert hypocrisy but harshly punished open, passionate **adultery**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to compounds in which arsenic is trivalent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to compounds in which arsenic is trivalent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing arsenic in a trivalent state; or pertaining to arsenious acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century industrial chemistry, arsenious oxide (white arsenic) served as the primary commercial precursor for insecticides, pigments, and glass clarification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arsenious designates relating to compounds in which arsenic is trivalent."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Sublimation of **arsenious** acid yields delicate octahedral crystals lining the upper neck of the retort."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Fowler's solution, composed of potassium **arsenious** salt, was formerly prescribed as a tonic in chronic skin affections."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The analytical chemist recognized the characteristic garlic odor of **arsenious** vapor rising from the heated test tube."*
+

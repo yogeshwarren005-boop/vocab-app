@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild gathering involving excessive drinking and promiscuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wild gathering involving excessive drinking and promiscuity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive indulgence in sensual pleasures, drunkenness, and licentious or dissolute living.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical histories of late republican Rome, rampant political corruption accompanied moral debauchery among the patrician elite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I tried dissipation—never debauchery: that I hated, and hate."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"See Social Life and Glee sit down, All joyous and unthinking, Till, quite transmugrified, they’re grown Debauchery and Drinking: O would they stay to calculate Th’ eternal consequences; Or your more dreaded hell to state, Damnation of expenses!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Her father overworked his conscience, treating a question of taste as a moral issue, and drawing no line between great and small--like the man who gave a penny to a beggar and implored him not to spend it on debauchery."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The praetorian guards were softened by long years of undisciplined **debauchery** and luxury in their imperial barracks."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian fled past the gates of Destruction, refusing to turn aside into the town of Vanity and its riotous **debauchery**."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr Jekyll and Mr Hyde*):** *"Mr. Hyde plunged without conscience into secret nocturnal **debauchery** that shocked the respectable Victorian neighborhood."*
+

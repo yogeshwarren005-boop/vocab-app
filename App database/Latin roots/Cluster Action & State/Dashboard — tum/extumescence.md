@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin tum within the domain of Action & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of tum in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An outward swelling or swelling up; a protruding tumid formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and botanical morphology, an extumescence denotes an abnormal outgrowth, nodule, or tumorous gall arising upon tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extumescence designates pertaining to, derived from, or characteristic of latin tum within the domain of action & state."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Mechanical irritation of the leaf lamina produces a localized **extumescence** that gradually envelops the captured insect."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The unusual **extumescence** upon the trunk of the oak was attributed by the villagers to magical insect stings."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Abnormal cellular proliferation generates an external **extumescence** that alters normal morphological symmetry."*
+

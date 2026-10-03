@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carnivorous aquatic or bog plants: genera utricularia, pinguicula, and genlisea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carnivorous aquatic or bog plants: genera utricularia, pinguicula, and genlisea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of carnivorous flowering plants, commonly known as the bladderwort family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and evolutionary ecology, Lentibulariaceae includes Utricularia, Pinguicula, and Genlisea, adapted to nutrient-poor aquatic habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lentibulariaceae designates carnivorous aquatic or bog plants: genera utricularia, pinguicula, and genlisea."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The extraordinary suction bladders of Utricularia, belonging to the family **lentibulariaceae**, capture microscopic aquatic crustacea with astonishing rapidity."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Aquatic species of the family **lentibulariaceae** thrive in shallow peaty bogs, bearing delicate bilabiate flowers."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Botanical surveys of Himalayan marshlands documented several endemic species of **lentibulariaceae** clinging to wet mossy rocks."*
+

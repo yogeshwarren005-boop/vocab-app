@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally distended especially by fluids or gas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally distended especially by fluids or gas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swelling up, becoming enlarged, or expanding when exposed to heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fire-protection engineering, an intumescent coating expands into a thick, low-conductivity insulating foam when exposed to high temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intumescent designates abnormally distended especially by fluids or gas."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The mineral displays an **intumescent** character under the blowpipe, puffing into a spongy mass before fusion."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The moist topsoil exhibited an **intumescent** porosity after heavy summer rains, lifted by earthworm burrows."*
+> - 📜 **Thomas Huxley (*Lessons in Elementary Physiology*):** *"The mucosal folds become **intumescent** and congested during the early stages of catarrhal inflammation."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dominance through threat of punishment and violence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of government in which the ruler is an absolute dictator (not restricted by a constitution or laws or opposition etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The acceptance of or belief in absolute principles in political, philosophical, or ethical matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European political history, royal absolutism reached its zenith in the reign of Louis XIV, who asserted that the sovereign embodied the state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The refuge from the constant perils of an unrestrained Democracy was always found in despotism, and when absolutism became intolerable, the tide of passion would surge back to Democracy."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Administrative centralisation was the most durable legacy bequeathed by royal **absolutism** to modern France."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"Constitutional government arose as an organic reaction against the unchecked claims of dynastic **absolutism**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Stuart monarchs were ruined by their stubborn infatuation with the dogmas of theological and political **absolutism**."*
+

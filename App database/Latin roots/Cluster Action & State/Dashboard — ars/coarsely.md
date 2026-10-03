@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In coarse pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coarse pieces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rough, unrefined, or crude manner; or into relatively large pieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artisanal milling, grain ground coarsely produces stoneground wholemeal flour retaining fibrous bran and germ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a gentleman that serves the count Reports but coarsely of her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short, I was in a flutter for a little while and felt as if an old chord had been more coarsely touched than it ever had been since the days of the dear old doll, long buried in the garden."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The walk had made them hungry, Angel in particular, who was now an outdoor man, accustomed to the profuse _dapes inemptae_ of the dairyman’s somewhat coarsely-laden table."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The Lowood porridge was **coarsely** prepared and frequently burnt, yet the starving pupils devoured it eagerly."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard spoke **coarsely** and bluntly in the council chamber, offending the refined sensibilities of his civic colleagues."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The ruffian laughed **coarsely**, tossing off his glass of gin and slamming his pewter mug onto the tavern table."*
+

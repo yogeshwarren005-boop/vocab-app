@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wood swallows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wood swallows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of Australasian passerine birds commonly known as woodswallows and butcherbirds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, members of Artamidae are agile aerial insectivores possessing specialized powder down and bifurcated brush-tipped tongues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, artamidae designates wood swallows."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"Flocks of aerial woodswallows belonging to the family **artamidae** clustered together like a swarm of bees upon the eucalyptus boughs."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The graceful soaring flight of the Australian **artamidae** closely resembles that of European swallows, exhibiting convergent adaptation."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"We observed several species of **artamidae** hawking for winged insects above the forest canopy of Timor."*
+

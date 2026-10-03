@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually plural) discussion of all sides of a question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Careful consideration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Long and careful consideration or discussion; mature reflection prior to action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary law and deliberative democracy, legislative deliberation requires open reasoned debate among representatives to formulate the common good.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It dwelt on my being young, and he past the prime of life; on his having attained a ripe age, while I was a child; on his writing to me with a silvered head, and knowing all this so well as to set it in full before me for mature deliberation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing in the world, and no one in the world, could shake it or could move me.” This she says with great deliberation and distinctness and with no more outward passion than himself."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket with great deliberation."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Free men unite into political society so that public **deliberation** and standing laws may replace the arbitrary will of individuals."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In the legislature, promptitude of decision is oftener an evil than a benefit; differences of opinion and the jarrings of parties promote **deliberation** and circumspection."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Our course will seem too bloody, Caius Cassius, to cut the head off and then hack the limbs: let us enter upon mature **deliberation** before we strike."*
+

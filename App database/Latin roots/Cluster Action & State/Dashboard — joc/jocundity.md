@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling facetious merriment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling facetious merriment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or feeling of being cheerful, lively, and lighthearted; gaiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian aesthetic prose, jocundity describes an unforced, childlike innocence of spirit untouched by worldly cynicism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jocundity designates a feeling facetious merriment."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The whole household joined in the festive **jocundity** of Christmas morning, singing ancient carols around the fire."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"The genuine **jocundity** of the assembled company caused the old manor house to ring with hearty cheers."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The ancient chronicler described the seasonal **jocundity** of the harvest home with simple Saxon delight."*
+

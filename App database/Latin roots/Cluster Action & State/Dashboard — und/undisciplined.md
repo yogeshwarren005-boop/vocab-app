@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subjected to discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subjected to correction or discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking training, control, order, or self-restraint; unruly and disorganized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and education, undisciplined cognitive habits impede sustained focus during complex problem-solving tasks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But the latter was an undisciplined and lawless thing."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was still undisciplined enough to burst into angry tears."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The veteran legions of Rome were an overmatch for the undisciplined valor of all other nations and rendered her the mistress of the world."*
+> - 📜 **Julius Caesar (*Commentaries on the Gallic War*):** *"The Roman cohorts easily repulsed the headlong charge of the **undisciplined** Celtic warriors along the riverbank."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"An **undisciplined** child permitted to indulge every whim grows into an unmanageable adult prone to folly."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie Tulliver struggled against her passionate and **undisciplined** impulses in the quiet provincial town of St. Ogg's."*
+

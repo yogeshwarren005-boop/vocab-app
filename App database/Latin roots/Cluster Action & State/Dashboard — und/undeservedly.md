@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unmerited manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unmerited manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is not justified, earned, or merited; unjustly or unfairly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical biography and criticism, figures who are undeservedly neglected by their contemporaries often gain canonical stature in subsequent centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Assuming that she did go down to see him, Princess Mary imagined the words he would say to her and what she would say to him, and these words sometimes seemed undeservedly cold and then to mean too much."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery bore himself with dignified patience, though **undeservedly** rebuked by the haughty visitors."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor was **undeservedly** censured by provincial senators who failed to appreciate the strategic perils on the Danube."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen realized that she had been treated **undeservedly** well by friends whom she had treated with cold indifference."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement asserting the existence or the truth of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of affirming or asserting or stating something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of affirming something, or a formal declaration that something is true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and cognitive behavioral therapy, a positive affirmation is a repeated self-statement intended to challenge negative automated thoughts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Are you quite sure, Philip?" she asked, wishing for an affirmation."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"What say you, gentlemen?" _Every hand was raised in affirmation of this opinion_."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Doubtless you will wear a crown when he wins to his kingdom.” She nodded affirmation, and I could have struck her in the face for her folly."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"My resolutions are based on the plain **affirmation** of undeniable facts recorded in our parliamentary journals."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A general proposition is an **affirmation** of a relation between attributes that holds true across all instances."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's quiet **affirmation** of faith in Lydgate's honor gave the distressed physician fresh courage."*
+

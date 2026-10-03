@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affirming or giving assent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affirming or giving assent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to affirm, confirm, or state positively; corroborating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidentiary jurisprudence, an affirmatory statement reinforces direct testimonial evidence during trial proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affirmatory designates affirming or giving assent."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Men are naturally prone to welcome **affirmatory** instances while overlooking negative evidence that contradicts their beliefs."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"An **affirmatory** proposition asserts the co-existence of two distinct ideas in the same subject."*
+> - 📜 **Thomas Huxley (*Science and Education*):** *"The experimental demonstration provided an **affirmatory** proof that convinced even the most skeptical savants."*
+

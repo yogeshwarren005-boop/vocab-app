@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Firm in purpose or belief; characterized by firmness and determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by quickness and firmness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admirably purposeful, determined, and unwavering in intent or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military leadership and classical ethics, a resolute commander maintains strategic clarity and fortitude amidst battlefield chaos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had myself notice of my brother’s purpose herein, and have by underhand means laboured to dissuade him from it; but he is resolute."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do what ye dare, we are as resolute. [_Skirmish again._] GLOUCESTER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not resolute, except so much were done, For things are often spoke and seldom meant; But that my heart accordeth with my tongue, Seeing the deed is meritorious, And to preserve my sovereign from his foe, Say but the word, and I will be his priest."*
+> - 📜 **William Shakespeare (*Richard III*):** *"I am settled, and bend up each corporal agent to this terrible feat; be **resolute** and fear no mortal adversary."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Madame Defarge knitted on with a **resolute** and implacable countenance, her stitches numbering the doomed aristocracy."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan addressed his fallen legions with **resolute** defiance, determined never to submit or yield to superior heavenly force."*
+

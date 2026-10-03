@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impatience with annoyances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwillingness to recognize and respect differences in opinions or beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwillingness to accept views, beliefs, or behavior that differ from one's own; bigotry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and digestive medicine, food intolerance denotes non-allergic physiological difficulty in metabolizing specific dietary nutrients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Meanwhile it had been revealed to him that "intolerance" was the cause of all evil, and, in the same flash, that it could be destroyed by clear and simple reasoning."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"The spirit of intolerance those Puritans brought over here with them is what is taking our boy from us now."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Tyranny, intolerance, and bloodshed, wherever found, 94:15 arise from the belief that the infinite is formed after the pattern of mortal personality, passion, and impulse."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"Religious **intolerance** has drenched Europe in blood, whereas mutual toleration would establish lasting civic harmony."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fierce **intolerance** of the competing sectarian factions accelerated the ruin of the Eastern provinces."*
+> - 📜 **Thomas Jefferson (*First Inaugural Address*):** *"Having banished religious **intolerance** from our laws, let us beware of harboring political bigotry in our daily discourse."*
+

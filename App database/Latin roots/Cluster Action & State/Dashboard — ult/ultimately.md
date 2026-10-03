@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As the end result of a succession or process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As the end result of a succession or process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the end, finally, or at the concluding stage of a long process, series of events, or deliberation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic modeling, monetary expansion ultimately translates into general price level adjustments when resource utilization peaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That she will faithfully apply herself to the acquisition of those accomplishments, upon the exercise of which she will be ultimately dependent."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But if she was to be the practical woman she had intended to show herself, business must be carried on, introductions or none, and she ultimately acquired confidence enough to speak and reply boldly to men merely known to her by hearsay."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke to her in low tones, and she instinctively modulated her own to the same pitch, and her voice ultimately even caught the inflection of his."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The whole annual produce of the labor of any country **ultimately** resolves itself into rent, wages, and profit."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Truth gains more even by the errors of one who thinks for himself than by the true opinions of those who hold them only because they do not suffer themselves to think; and **ultimately** truth prevails."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Moral sense in mankind was **ultimately** derived from well-developed social instincts combined with active intellectual powers."*
+

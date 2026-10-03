@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adulterous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an adulterous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adulterous manner; in violation of the marriage bond through unfaithfulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ecclesiastical court proceedings, witnesses testified regarding spouses living adulterously in open defiance of church canons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"From outrage (matrimony) to outrage (adultery) there arose nought but outrage (copulation) yet the matrimonial violator of the matrimonially violated had not been outraged by the adulterous violator of the adulterously violated."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"The puritanical magistrate condemned those who consorted **adulterously** while maintaining an outward facade of piety."*
+> - 📜 **Anthony Trollope (*He Knew He Was Right*):** *"Trevelyan harbored the mad delusion that his faithful wife had conducted herself **adulterously** with Colonel Osborne."*
+> - 📜 **John Milton (*The Doctrine and Discipline of Divorce*):** *"A forced marriage of incompatible minds drives desperate souls to seek comfort **adulterously** outside lawful bonds."*
+

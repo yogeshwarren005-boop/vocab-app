@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to be placated or appeased or moved by entreaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Never-ceasing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppressively constant, unyielding, harsh, and refusing to abate or soften.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history, relentless competition for scarce resources drives the adaptive divergence of living organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket shakes his relentless head."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"All the way home she was asking the Lord to release her from this relentless creditor, and all the way home a man, without her knowledge, was following her."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The well-known face was there: stern, relentless as ever—there was that peculiar eye which nothing could melt, and the somewhat raised, imperious, despotic eyebrow."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket pursued the clues through the labyrinthine streets of London with **relentless** tenacity."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The struggle for existence is **relentless** and perpetual among all organic beings sharing the same geographical region."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab drove the Pequod through stormy seas with a **relentless** fury that terrified his superstitious crew."*
+

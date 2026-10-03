@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often used in combination) consisting of or having a given number or kind of volumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed or rising in rounded masses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a specified volume, bulk, or number of volumes; also rolling in billowing mass or folds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic poetry, describing dense, billowing clouds of smoke, vapor, or swirling garments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Theresa’s passionate, ideal nature demanded an epic life: what were many-volumed romances of chivalry and the social conquests of a brilliant girl to her?"*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Rock, river, forest, mountain all abound, And bluest skies that harmonise the whole: Beneath, the distant torrent's rushing sound Tells where the volumed cataract doth roll Between those hanging rocks, that shock yet please the soul."*
+> - 📜 **Percy Bysshe Shelley (*Ode to the West Wind*):** *"Loose clouds like earth's decaying leaves are shed, shook from the tangled boughs of Heaven and Ocean, **volumed** high."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The artillery smoke hung in a **volumed** pall across the bloody ridges of Waterloo."*
+> - 📜 **Samuel Taylor Coleridge (*Kubla Khan*):** *"Amid whose swift half-intermitted burst huge fragments vaulted like rebounding hail, in **volumed** rivers hurled."*

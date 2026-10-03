@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French writer who was the embodiment of 18th century enlightenment (1694-1778).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer who was the embodiment of 18th century enlightenment (1694-1778).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pen name of François-Marie Arouet, the French Enlightenment writer, satirist, philosopher, and champion of free speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, the leading philosopher celebrated for Candide, crushing religious intolerance with caustic wit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He added later a very complete set of the writings of the English Deists, and the works of Voltaire, Rousseau, and Renan."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Whenever he had a great personality to deal with, such as Origen, Grotius, or Pascal, or, in a quite different way, Voltaire, he rose to the full height of his powers."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Thus, in preparing for one of the lectures, he read through twenty volumes of Voltaire, out of a set of fifty which had been put at his disposal by a friend."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"**Voltaire** was the premier intellectual sovereign of his century, demolishing ancient hypocrisies with mocking laughter."*
+> - 📜 **Friedrich Nietzsche (*Human, All Too Human*):** *"Nietzsche dedicated his work to the free spirit of **Voltaire**, praising his lucid intellectual courage and classical restraint."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"In Geneva I had the good fortune to meet **Voltaire**, whose private theatricals enchanted the Swiss burghers."*

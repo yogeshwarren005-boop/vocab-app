@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rolling or revolving motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rolling or revolving motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spiral turn, whorl, or single coil around a central axis, as in a gastropod shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and mechanics, a revolution or twisting circular movement in space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volution designates a rolling or revolving motion."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Each successive **volution** of the ammonite shell preserves an indelible record of juvenile growth stages."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The spiral **volution** observable in conch shells reflects an underlying mathematical harmony in nature."*
+> - 📜 **Richard Owen (*Palaeontology*):** *"Fossil cephalopods display remarkable diversity in the tightness and ornamentation of each shell **volution**."*

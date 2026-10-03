@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by evolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or produced by evolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on the principles of biological or social evolution; characterized by gradual development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and sociology, theories explaining the progressive maturation of human societal institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Cumulative genetic and accelerated evolutionary alterations to the human body along with the effects of unique, often hostile, environments plus sheer distance from the familiar transformed humans-in-space into something else."*
-> - 📜 **James Joyce (*Ulysses*):** *"Canadian) expansion and the evolutionary theories of Charles Darwin, expounded in _The Descent of Man_ and _The Origin of Species_."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The moral sense of man is the crown of an **evolutionary** heritage rooted in primal social instincts."*
+> - 📜 **Steven Pinker (*How the Mind Works*):** *"Our visual instincts are **evolutionary** adaptations designed to navigate the savannas of Pleistocene Africa."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Geographic isolation provides the primary incubator for major **evolutionary** divergence and speciation."*

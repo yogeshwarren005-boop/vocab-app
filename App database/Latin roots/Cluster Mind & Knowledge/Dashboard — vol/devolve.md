@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass on or delegate to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be inherited by.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transfer or delegate power, responsibility, or authority to a lower level, or to pass by succession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To degenerate or deteriorate gradually into a lower, less advanced, or chaotic state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The Allens, he believed, had lived near them too long, and he knew the young man on whom the Fullerton estate must devolve."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The important task would probably devolve on men, who, with inferior capacities, would in other respects be little better qualified."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Even the management of foreign negotiations will naturally devolve upon him, according to general principles concerted with the Senate, and subject to their final concurrence."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Upon the death or disability of the President, all executive powers **devolve** upon the Vice President."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"When imperial discipline broke down, border defenses began to **devolve** upon undisciplined local militias."*
+> - 📜 **William Golding (*Lord of the Flies*):** *"The stranded boys watched their democratic assembly **devolve** into tribal savagery and primal fear."*

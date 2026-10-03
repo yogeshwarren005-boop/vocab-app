@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Against your will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Against your will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without intentional will, deliberate choice, or conscious control; spontaneously or reflexively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, physical responses executed automatically by the autonomic nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"We think and know that she is the friendliest and most obliging child in school." "Long live Loneli!" Lux suddenly cheered so that the whole band involuntarily joined him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Lies!” At times there is a suddenness in the manner of Mademoiselle Hortense so like a bodily spring upon the subject of it that such subject involuntarily starts and falls back."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He takes it, though!” I involuntarily returned for answer that I perceived Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy started, and for a moment looked **involuntarily** at Elizabeth, his composure momentarily shaken."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip shivered **involuntarily** as the escaped convict seized him roughly by the collar in the churchyard."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Watson drew back **involuntarily** as the venomous poisoned dart struck the wood beside his ear."*

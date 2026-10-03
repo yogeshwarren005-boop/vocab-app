@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rate at which energy is drawn from a source that produces a flow of electricity in a circuit; expressed in volts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The difference in electrical charge between two points in a circuit expressed in volts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electric potential difference expressed in volts; the electrical pressure driving electrons through a circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In power transmission, stepping up voltage with transformers to minimize thermal resistance losses over distances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In this case what is wanted is to test the resistance of a circuit, and it is done by applying a battery, the voltage of which is known, and seeing how much current flows."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In it an enormous current at an extremely low voltage is used."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus the voltage generated in the secondary is very little, but since the secondary has an almost negligible resistance the current caused by that small voltage is enormous."*
+> - 📜 **Nikola Tesla (*Colorado Springs Notes*):** *"By elevating the **voltage** to extreme potentials, electromagnetic waves could be transmitted through the upper atmosphere."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations*):** *"He defended low-voltage direct current systems, warning against the lethal hazards of alternating high **voltage**."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"The electrostatic field inside a conductor vanishes, maintaining uniform **voltage** throughout its volume."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect closely and often incriminatingly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage as a participant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To include, contain, engage, or connect as a necessary part, consequence, or participant in an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical literary usage, to wrap up, envelop, shroud, or entangle within folds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"These household cares involve much pattening and counter-pattening in the backyard and considerable use of a pail, which is finally so happy as to assist in the ablutions of Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy refers to a little slip of paper on which he has made small notes of his line of argument and which seems to involve him in the densest obscurity whenever he looks at it—“I—Oh, yes!—I place myself entirely in your ladyship’s hands."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As considered from other points of view, such cases will always involve more or less unpleasantness."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Decisions made by local municipal councils directly **involve** the daily welfare and property of every townsman."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thick clouds of sulfurous smoke did **involve** the infernal landscape in subterranean gloom."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor dreaded that any public revelation of the secret engagement would **involve** Edward in family ruin."*

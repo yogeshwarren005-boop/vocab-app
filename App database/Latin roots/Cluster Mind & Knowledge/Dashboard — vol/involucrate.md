@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an involucre.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an involucre.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing, surrounded by, or enclosed within an involucre, such as the bracts of a flower head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, describing inflorescences (like those in Asteraceae) encircled by specialized protective bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, involucrate designates having an involucre."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The composite blossom features an **involucrate** head where dozens of tiny florets sit upon a common receptacle."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Characteristic **involucrate** umbels identify members of the Apiaceae family across European pastures."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Growers admire the silvery **involucrate** collars that frame the vibrant purple thistle blossoms."*

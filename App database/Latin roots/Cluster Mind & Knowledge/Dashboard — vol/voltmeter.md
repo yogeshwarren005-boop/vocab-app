@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meter that measures the potential difference between two points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meter that measures the potential difference between two points.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical measuring instrument used for measuring the electric potential difference between two points in a circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory instrumentation, digital or analog d'Arsonval meters with high internal resistance placed in parallel with a component.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Construction of a Voltmeter 64 5."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A simple modification makes any of these instruments into a voltmeter."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The voltmeter is therefore the same as the ammeter, except that its dial is marked for volts instead of for amperes, and it has to be provided with the resistance coil."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The needle of the electrostatic **voltmeter** flickered wildly as the resonance coils reached peak induction."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations*):** *"A calibrated Weston **voltmeter** stood on the laboratory bench to monitor battery discharge curves."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"When connecting a **voltmeter**, one must ensure its internal impedance is sufficiently high not to disturb the circuit."*

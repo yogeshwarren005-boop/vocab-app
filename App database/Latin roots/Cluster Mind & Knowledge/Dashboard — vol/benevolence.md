@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposition to do good.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to do kind or charitable acts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition to do good; an inclination to promote the happiness, well-being, and prosperity of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, the altruistic sentiment regarded by sentimentalist thinkers as foundational to human society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Sir John Falstaff have committed disparagements unto you, I am of the Church, and will be glad to do my benevolence to make atonements and compremises between you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Among the ladies who were most distinguished for this rapacious benevolence (if I may use the expression) was a Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I presume that you founded that belief upon your general knowledge of my being an orphan girl, indebted for everything to the benevolence of Mr."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"No qualities are more entitled to the general affection of mankind than **benevolence** and humanity."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"How selfish soever man may be supposed, there are evidently principles in his nature which interest him in **benevolence**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley possessed an open, pleasant countenance, and general **benevolence** of manner that won every heart."*

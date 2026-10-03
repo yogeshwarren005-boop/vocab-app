@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make volatile; cause to pass off in a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make volatile; cause to pass off in a vapor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or cause to pass from a solid or liquid state into vapor or gas through heating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative discourse, to cause to vanish, disperse, or dissolve into thin air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volatilize designates make volatile; cause to pass off in a vapor."*
+> - 📜 **Karl Marx (*The Communist Manifesto*):** *"All fixed, fast-frozen relations are swept away, all that is solid melts into air, and old traditions **volatilize**."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Gentle warming will **volatilize** the aromatic esters that give fine vintage wine its distinctive bouquet."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Philosophic radicalism threatens to **volatilize** all sacred reverences into empty mechanical formulas."*

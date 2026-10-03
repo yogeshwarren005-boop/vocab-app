@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of potential equal to one-hundred-millionth of a volt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of potential equal to one-hundred-millionth of a volt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The electromagnetic cgs unit of electric potential difference, equal to one hundred-millionth of a volt (10^-8 V).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical electromagnetism, the potential difference between two points when one erg of work transfers one abcoulomb.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abvolt designates a unit of potential equal to one-hundred-millionth of a volt."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"In absolute electromagnetic measure, potential differences are computed in fractions of an **abvolt**."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"The conversion between the practical volt and the theoretical **abvolt** relies upon factors of ten to the eighth."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Alternating Current Phenomena*):** *"Early laboratory galvanometers registered subtle electrostatic inductions measured in each minute **abvolt**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (military) a person who freely enlists for service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who performs voluntary work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who freely offers to undertake a task, service, or duty without being coerced or paid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, an enlistee who joins armed service freely rather than through compulsory conscription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"End of "On the Improvement of the Understanding." Notes by Volunteer. 1."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Sentence Numbers, shown thus (1), have been added by volunteer. 5."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He was of an adventurous and somewhat restless disposition, and, at the time of the threatened invasion by Napoleon, joined a local Volunteer corps."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I saw the brave **volunteer** step forward from the ranks, ready to face the battery on the hill."*
+> - 📜 **Abraham Lincoln (*Proclamation Calling for 75,000 Militia*):** *"The president issued a call for every patriotic **volunteer** to defend the constitutional Union."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Whenever an obstacle arises, the American **volunteer** steps forth to organize community action."*

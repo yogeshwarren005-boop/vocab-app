@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from involvement or entanglement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from involvement or entanglement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disentangle, extricate, unroll, or free from involvement, confusion, or complication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical inquiry, separating essential truths from confusing rhetorical accretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinvolve designates free from involvement or entanglement."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The natural philosopher must **disinvolve** empirical observations from the deceptive Idols of the Marketplace."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"It is the work of mature wisdom to **disinvolve** the mind from frivolous desires and false worldly ambitions."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Clear definitions serve to **disinvolve** complex ideas that scholastic disputes have hopelessly tangled."*

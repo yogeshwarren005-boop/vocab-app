@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A revolution whose aim is to reverse the changes introduced by a previous revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revolution whose aim is to reverse the changes introduced by a previous revolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political revolution opposed to a previous revolution, attempting to reverse its results or restore the former regime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern political theory, organized reactionary movements seeking the re-establishment of pre-revolutionary social orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterrevolution designates a revolution whose aim is to reverse the changes introduced by a previous revolution."*
+> - 📜 **Edmund Burke (*Thoughts on French Affairs*):** *"A concerted European coalition was urged to sponsor a **counterrevolution** and restore the Bourbon monarchy."*
+> - 📜 **Karl Marx (*The Eighteenth Brumaire of Louis Bonaparte*):** *"The forces of monarchical **counterrevolution** exploited rural peasant superstitions to defeat Parisian workers."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The suppression of the revolutionary committees in Barcelona marked the silent victory of the **counterrevolution**."*

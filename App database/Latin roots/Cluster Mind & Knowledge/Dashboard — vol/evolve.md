@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo development or evolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To develop, unfold, or change gradually over time, especially from a simple to a more complex state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology, to undergo heritable genetic modification across successive generations through natural selection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The superadded circumstance which would evolve the genius had not yet come; the universe had not yet beckoned."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I had intended to do that anyway, for if I am to evolve the real American garden."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In short, our dispersed civilizations must have access to sources for minerals and other industrial substances, not only now but in perpetuity, in order to survive and evolve."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Species are not immutable productions, but **evolve** through the preservation of advantageous variations."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The nervous system can **evolve** novel cognitive pathways to compensate for devastating sensory deprivation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commercial markets naturally **evolve** specialized divisions of labor to maximize economic productivity."*

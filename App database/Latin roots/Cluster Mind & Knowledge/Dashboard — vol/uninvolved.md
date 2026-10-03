@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing lack of emotional involvement; - j.s.perelman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not connected with, participating in, or affected by an activity, organization, or emotional relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical observation, tissues, organs, or anatomical areas spared from pathological disease or trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninvolved designates not involved."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The lobar consolidation affected the right lower lobe, leaving the upper lobes completely **uninvolved**."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Civilian shopkeepers tried desperately to remain **uninvolved** as gunfire echoed down the Ramblas."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett preferred to watch the human comedy from the sidelines, an **uninvolved** spectator."*

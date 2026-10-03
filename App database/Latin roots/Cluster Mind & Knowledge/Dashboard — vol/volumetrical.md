@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to measurement by volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to measurement by volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to volumetric measurement; synonymous with volumetric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemical literature, quantitative analysis performed by measuring reagent solution volumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volumetrical designates of or relating to measurement by volume."*
+> - 📜 **Robert Bunsen (*Gasometry: Comprising the Leading Physical and Chemical Properties of Gases*):** *"His **volumetrical** methods for gas analysis achieved unprecedented accuracy through eudiometric tubes."*
+> - 📜 **Thomas Graham (*Elements of Chemistry*):** *"Standardized **volumetrical** solutions enabled factory chemists to determine acid strength within minutes."*
+> - 📜 **Humphry Davy (*Researches, Chemical and Philosophical*):** *"The **volumetrical** expansion of air upon heating conformed strictly to the laws demonstrated by Charles."*

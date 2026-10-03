@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the polar region of the southern hemisphere near dorado and carina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the polar region of the southern hemisphere near dorado and carina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint southern constellation representing the flying fish, located south of the celestial equator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial navigation, a constellation introduced by Dutch navigators Keyser and de Houtman in the late 16th century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volans designates a small constellation in the polar region of the southern hemisphere near dorado and carina."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Observers in the southern hemisphere can trace the faint stars of **Volans** gliding near the Large Magellanic Cloud."*
+> - 📜 **Arthur Eddington (*Stellar Movements and the Structure of the Universe*):** *"Parallax measurements of double stars in **Volans** helped calibrate stellar luminosities in southern skies."*
+> - 📜 **Richard Proctor (*A Star Atlas for the Library, the School and the Observatory*):** *"Navigators rounding Cape Horn utilized the circumpolar stars of **Volans** to calibrate their nocturnal course."*

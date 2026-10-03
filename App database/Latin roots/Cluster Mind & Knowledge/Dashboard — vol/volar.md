@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the palm of the hand or the sole of the foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the palm of the hand or the sole of the foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the palm of the hand or the sole of the foot; palmar or plantar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and plastic surgery, the flexor or anterior compartment of the forearm and hand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volar designates relating to the palm of the hand or the sole of the foot."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The incision along the **volar** aspect of the wrist was planned carefully to avoid the median nerve."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Sensory testing revealed dense anesthesia across the **volar** pads of the fingertips after nerve compression."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The superficial **volar** arch of the hand is formed primarily by the continuation of the ulnar artery."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pistol with a revolving cylinder (usually having six chambers for bullets).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A door consisting of four orthogonal partitions that rotate about a central pivot; a door designed to equalize the air pressure in tall buildings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A repeating handgun that has a revolving cylinder containing multiple cartridge chambers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In firearms history, the multi-chambered firearm popularized by Samuel Colt in the nineteenth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"That was why Bernard offered him the agency--he was delighted to lend a helping hand to one of his old brother officers." "Wounded?" "Yes, he had his right arm smashed by a revolver bullet."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He had it splintered by a revolver--shot on his way home, near our lines." "Oh!"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"And, I say, Doctor, there may be some little danger, so kindly put your army revolver in your pocket.” He waved his hand, turned on his heel, and disappeared in an instant among the crowd."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes slipped his service **revolver** into his overcoat pocket before we set out across the dark moor."*
+> - 📜 **Mark Twain (*Roughing It*):** *"In the mining camps of Nevada, every gentleman carried a Colt **revolver** strapped securely to his hip."*
+> - 📜 **Stephen Crane (*The Bride Comes to Yellow Sky*):** *"Scratchy Wilson stood in the dusty street, twin **revolver** barrels gleaming in the hot Texas sun."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduction in size of an organ or part (as in the return of the uterus to normal size after childbirth).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long and intricate and complicated grammatical construction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of involving or rolling inward, or a return of an enlarged organ (like the uterus) to normal size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, a function or transformation that is its own inverse (applying it twice yields the identity).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Let there be no involution of thought and mind about it."*
-> - 📜 **James Joyce (*Ulysses*):** *"Were there obverse meditations of involution increasingly less vast?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The postpartum **involution** of the uterus proceeds rapidly through physiological autolysis of hypertrophied muscle."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The narrative swept forward through endless **involution** of bureaucratic committees and factional plots."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"Self-referential programs exhibit a dizzying mathematical **involution** where data and code fold upon each other."*

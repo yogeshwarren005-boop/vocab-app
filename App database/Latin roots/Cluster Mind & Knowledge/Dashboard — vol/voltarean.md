@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of voltaire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of voltaire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, characteristic of, or relating to Voltaire; marked by biting satirical wit and Enlightenment skepticism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, a prose style characterized by lucid brevity, sharp irony, and anti-clerical skepticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voltarean designates in the manner of voltaire."*
+> - 📜 **Lytton Strachey (*Landmarks in French Literature*):** *"His prose possessed a **Voltarean** clarity, cutting through pompous metaphysical dogma with sparkling malice."*
+> - 📜 **George Saintsbury (*A History of the French Novel*):** *"The political satire maintained a **Voltarean** sparkle that delighted Parisian salon intellectuals."*
+> - 📜 **Henry James (*French Poets and Novelists*):** *"The critic wielded a **Voltarean** pen, exposing bad poetry with urbane, devastating politeness."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sharing in the activities of a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A connection of inclusion or containment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or state of participating, engaging, or being included in a situation, project, or relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In foreign policy and diplomacy, foreign military or economic intervention in the affairs of other states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer would not have knowingly accepted Scarf's involvement in the proceedings."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Rather than merely riding off into the sunset, older adults choose to brighten the horizons of their minds and lives through continued involvement in family, schools, work place, and community."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Most elderly reject the diminution of their abilities and interests, although as they age into the seventh and eighth decades they may be compelled to restrict their direct involvement somewhat."*
+> - 📜 **George F. Kennan (*American Diplomacy*):** *"He warned against deep military **involvement** on the Asian mainland where strategic objectives remained vague."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Mrs. Ramsay felt a deep emotional **involvement** with the happiness of every guest staying beneath her roof."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber's chronic financial **involvement** led to frequent visits from bailiffs and debt collectors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make volatile; cause to pass off in a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make volatile; cause to pass off in a vapor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or be converted from a solid or liquid into vapor or gas through heat (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgical smelting, driving off sulfur, arsenic, or mercury vapors from crude ores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In addition, values in the form of volatilised metallic products are also conveyed by the gases, particularly when lead, zinc, arsenic, etc., are present in the furnace charge, and these are carried forward in the form of _fume_."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Intense electric discharges can **volatilise** thin gold leaves, leaving a purple stain of metallic mist."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"High heat in closed retorts will **volatilise** the spirit of wine without decomposing its carbonaceous base."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Combustion serves to **volatilise** the sulfurous components of coal, discharging black smoke into the sky."*

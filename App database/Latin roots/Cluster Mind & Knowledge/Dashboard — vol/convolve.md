@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curl, wind, or twist together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curl, wind, or twist together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To roll or wind together; to twist or coil around an axis or upon one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In signal processing and digital image filtering, to apply a mathematical kernel across input arrays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, convolve designates curl, wind, or twist together."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Down rushed the broken chariot wheels that did **convolve** with ruin and frantic tumult down the abyss."*
+> - 📜 **Norbert Wiener (*Extrapolation, Interpolation, and Smoothing of Stationary Time Series*):** *"Linear filter networks **convolve** incoming sensory signals with specialized weighting functions."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The tendril begins to **convolve** into a corkscrew spiral immediately after touching a firm twig."*

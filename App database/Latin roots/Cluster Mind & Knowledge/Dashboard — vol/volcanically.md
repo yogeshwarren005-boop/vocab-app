@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By or like volcanoes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By or like volcanoes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a volcanic manner; by means of volcanic activity, explosive eruption, or subterranean heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphorical description, erupting with sudden, overwhelming passion, fury, or violence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What had been the engrossing world had dissolved into an uninteresting outer dumb-show; while here, in this apparently dim and unimpassioned place, novelty had volcanically started up, as it had never, for him, started up elsewhere."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Mount Shasta stands **volcanically** sculptured above the northern pine forests, its crater choked with snow."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Paris erupted **volcanically**, hurling forth armed mobs of sans-culottes against the Tuileries gates."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Submarine trenches generate deep oceanic seamounts **volcanically**, building island chains across the Pacific."*

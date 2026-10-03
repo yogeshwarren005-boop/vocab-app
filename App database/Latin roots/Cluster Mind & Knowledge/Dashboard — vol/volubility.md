@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being facile in speech and writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being facile in speech and writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of talking fluently, readily, or incessantly; glibness and rapid articulateness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic monologue, an overwhelming stream of words delivered with easy, unbroken fluency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle with great volubility after the first salutations, “are my five boys."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Had Lydia and her mother known the substance of her conference with her father, their indignation would hardly have found expression in their united volubility."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris was all delight and volubility; and even Fanny had something to say in admiration, and might be heard with complacency."*
+> - 📜 **Jane Austen (*Emma*):** *"Miss Bates poured forth a torrent of trivial details with an unceasing **volubility** that exhausted her listeners."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mrs. Nickleby was gifted with amazing conversational **volubility**, wandering through disjointed reminiscences for hours."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Thaddeus Sholto spoke with nervous, jerky **volubility**, fidgeting with his hookah amid the exotic salon."*

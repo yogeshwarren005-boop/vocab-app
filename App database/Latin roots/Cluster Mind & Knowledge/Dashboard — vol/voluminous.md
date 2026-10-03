@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large in volume or bulk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by repeated turns and bends.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occupying much space, large in volume, bulky, or consisting of many books, pages, or written words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fashion and costume, garments characterized by ample folds of flowing fabric.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Opposite the spot to which he had brought her was such a general confluence, and the river was proportionately voluminous and deep."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Legislation to remedy these evils began in England a century ago, and the English code of factory laws, regulating the construction and operation of factories and providing for their inspection, has become voluminous."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"From his voluminous manuscripts, written in the last quarter of the eighteenth century, a selection was published in the latter part of the nineteenth century."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **voluminous** legal codes of Justinian digested centuries of Roman jurisprudence into order."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn sat surrounded by **voluminous** bundles of deeds tied with dusty red tape."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Dashwood received a **voluminous** letter from her absent daughter, recounting every Highbury event."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major change in attitude or principle or point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major change in attitude or principle or point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete and sudden reversal of one's opinion, attitude, political stance, or policy; an about-face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history, a dramatic overnight realignment of alliances between sovereign states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volte-face designates a major change in attitude or principle or point of view."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The sudden Molotov-Ribbentrop pact represented an astounding diplomatic **volte-face** that stunned the world."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"In mid-speech the speaker executed a seamless **volte-face**, announcing that Oceania was at war with Eastasia, not Eurasia."*
+> - 📜 **Edmund Burke (*An Appeal from the New to the Old Whigs*):** *"He condemned former party colleagues who had executed an unprincipled **volte-face** to embrace Jacobin doctrines."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatness of volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatness of volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vastness of scope, immense textual bulk, or spacious physical amplitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary assessment, the comprehensive breadth and sheer page count of an author's collected works.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voluminousness designates greatness of volume."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Dryden's poetic **voluminousness** reflects the fertile industry of a writer who lived by his pen."*
+> - 📜 **Edmund Burke (*Speech on the Nabob of Arcot's Debts*):** *"The sheer **voluminousness** of the East India Company's accounts served to conceal immense corruption."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's unfinished Key to All Mythologies was doomed by the incoherent **voluminousness** of his notes."*

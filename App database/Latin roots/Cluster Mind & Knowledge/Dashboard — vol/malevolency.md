@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of threatening evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of threatening evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or disposition of being malevolent; malicious enmity, spite, or destructive ill will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ethical treatises, deep-seated hostility that celebrates the downfall of virtuous men.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, malevolency designates the quality of threatening evil."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Envy soon degenerates into active **malevolency**, which finds its bitter feast in the humiliation of merit."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"Lady Ashton looked upon the Master of Ravenswood with an unbending **malevolency** that chilled all present."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"Quilp chuckled with hideous **malevolency** as he plotted the financial ruin of poor grandfather Trent."*

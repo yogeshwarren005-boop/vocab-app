@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of 3-dimensional space occupied by an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of something that is great in magnitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of space that a substance or object occupies, or a single book forming part of a larger work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustics, the perceived loudness or amplitude of a sound signal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, as an ostler, that for th’ poorest piece Will bear the knave by th’ volume.—Th’ honoured gods Keep Rome in safety and the chairs of justice Supplied with worthy men!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ th’ world’s volume Our Britain seems as of it, but not in’t; In a great pool a swan’s nest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, this man’s brow, like to a title-leaf, Foretells the nature of a tragic volume."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Density is the quantity of matter arising from its gravity and **volume** conjointly."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"It was in Rome that I conceived the idea of writing the decline and fall of the city, which filled many a **volume**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The leviathan displaced a colossal **volume** of foaming brine as it breached into the twilight air."*

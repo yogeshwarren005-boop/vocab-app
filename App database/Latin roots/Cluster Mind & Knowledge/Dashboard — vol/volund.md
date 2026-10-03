@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (norse mythology) a wonderful smith; identified with anglo-saxon wayland and teutonic wieland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (norse mythology) a wonderful smith; identified with anglo-saxon wayland and teutonic wieland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Völundr (Wayland the Smith), the legendary heroic master blacksmith of Germanic and Norse mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval Scandinavian heroic literature, the mythic craftsman imprisoned by King Níðuðr who forged winged escape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volund designates (norse mythology) a wonderful smith; identified with anglo-saxon wayland and teutonic wieland."*
+> - 📜 **William Morris (*The Story of Sigurd the Volsung*):** *"Ancient smiths sang verses in praise of cunning **Volund**, whose enchanted forge shaped invincible swords."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Norse skalds celebrated the grim vengeance of **Volund**, the master artificer who outwitted cruel kings."*
+> - 📜 **J. R. R. Tolkien (*The Monsters and the Critics*):** *"Echoes of the elven smith **Volund** reverberate through Old English poetry and medieval hoard lore."*

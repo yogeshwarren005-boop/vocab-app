@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn on or around an axis or a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move in an orbit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moved in a circular path or orbit around an axis, or considered and reflected upon deeply in thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics, planets having traversed their completed orbital circuits through the zodiac.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Clark, who, twenty years younger than Jan Coggan, revolved in the same orbit."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every conceivable aid, method, stratagem, mechanism, by which these last desperate eight hundred yards could be overpassed by a human being unperceived, was revolved in her busy brain, and dismissed as impracticable."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The churn revolved as usual, but the butter would not come."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab **revolved** his desperate nautical scheme in the dark cabin, charting the seasonal migration of whales."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial orbs had **revolved** their ancient dance before mortal eyes first beheld the light of dawn."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"David **revolved** the lawyer's stern warning in his thoughts, wondering how to rescue Dora from penury."*

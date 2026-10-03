@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wishing evil to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of threatening evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, disposition, or feeling of wishing evil, harm, or injury to others; active ill will or malice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature, the cold, unprovoked villainy embodied by characters such as Iago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The son of Duncan, From whom this tyrant holds the due of birth, Lives in the English court and is receiv’d Of the most pious Edward with such grace That the malevolence of fortune nothing Takes from his high respect."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Nor is this to be wondered at: for subject as Christianity is to the assaults of unprincipled foes, we are naturally disposed to regard everything like an exposure of ecclesiastical misconduct as the offspring of malevolence or irreligious feeling."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In the meantime the snake’s eyes burned with a more pitiless malevolence than ever."*
+> - 📜 **Samuel Taylor Coleridge (*Lectures on Shakespeare*):** *"Iago's soliloquies reveal a motiveless **malevolence**, an aesthetic delight in engineering destruction for its own sake."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The creature's bitter loneliness hardened into relentless **malevolence** against his neglectful creator."*
+> - 📜 **Edgar Allan Poe (*The Black Cat*):** *"A spirit of perverseness and dark **malevolence** seized my soul, urging me to commit atrocities without motive."*

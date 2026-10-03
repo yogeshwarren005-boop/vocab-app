@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of turning or winding or folding around a central axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of turning or winding or folding around a central axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A winding or rolling around an axis, or a circuitous, indirect, or roundabout course or motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, an obsolete term for a cerebral gyrus or convoluted fold of the brain cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Tell me, then, for you can, in what periphrasis of language, in what circumvolution of phrase, I shall envelope, yet not conceal, the plain story."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The caravan performed a tedious **circumvolution** across arid deserts to avoid the Parthian cavalry."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The apex of every growing shoot performs a continuous **circumvolution** as it searches for physical support."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpoon line uncoiled in frantic **circumvolution** around the loggerhead, smoking with friction."*

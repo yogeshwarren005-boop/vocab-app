@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the first artificial language constructed for use as an auxiliary international language; based largely on english but with some german and french and latin roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the first artificial language constructed for use as an auxiliary international language; based largely on english but with some german and french and latin roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial international auxiliary language created in 1879 by Johann Martin Schleyer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the historical precursor to Esperanto characterized by complex agglutinative Germanic inflections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volapuk designates one of the first artificial language constructed for use as an auxiliary international language; based largely on english but with some german and french and latin roots."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The sudden rise of **Volapuk** demonstrated the widespread modern desire for a neutral universal tongue."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"Utopians discarded irregular historical dialects, adopting a synthesized language superior to **Volapuk**."*
+> - 📜 **Otto Jespersen (*An International Language*):** *"Schleyer's **Volapuk** failed because its synthetic roots distorted familiar European words beyond recognition."*

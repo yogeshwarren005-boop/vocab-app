@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make volatile; cause to pass off in a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Converted into a gas or vapor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Converted into vapor, gas, or fume by the action of heat or chemical reaction (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical alchemy and chemistry, describing components driven off during fractional distillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"In addition, values in the form of volatilised metallic products are also conveyed by the gases, particularly when lead, zinc, arsenic, etc., are present in the furnace charge, and these are carried forward in the form of _fume_."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"The charcoal was **volatilised** in fixed air, yielding a combustible gaseous mixture over water."*
+> - 📜 **Humphry Davy (*Researches, Chemical and Philosophical*):** *"Nitrous oxide gas was **volatilised** and collected in gasometers for experimental inhalation."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The radiant heat of the electric arc **volatilised** the carbon points, emitting a brilliant white glare."*

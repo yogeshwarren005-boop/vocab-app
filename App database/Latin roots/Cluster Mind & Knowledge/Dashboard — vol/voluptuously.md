@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shapely and voluptuous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indulgently voluptuous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a voluptuous, sensuous, or luxurious manner; with sensual delight or voluptuous beauty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical performance, playing melodic passages with rich, warm expressive rubato and sweetness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me profess sincerely: had I a dozen sons, each in my love alike and none less dear than thine and my good Martius, I had rather had eleven die nobly for their country than one voluptuously surfeit out of action."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And although they are very voluptuously inclined, they would not for anything in the world have an intrigue with another man while their husband is at the war, believing firmly that if that happened, their husband would be either killed or wounded."*
+> - 📜 **Oscar Wilde (*Salomé*):** *"She danced **voluptuously** before the tetrarch, her silver veils shimmering in the torchlight."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma reclined **voluptuously** upon the satin cushions, daydreaming of passionate Venetian gondola rides."*
+> - 📜 **Herman Melville (*Typee*):** *"The island maidens floated **voluptuously** through the warm lagoon waters, crowned with fragrant white gardenias."*

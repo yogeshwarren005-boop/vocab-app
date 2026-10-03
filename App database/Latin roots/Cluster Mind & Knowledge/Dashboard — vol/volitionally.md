@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a willing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a willing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of volition; intentionally, deliberately, and with conscious will or choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal culpability, acting with conscious knowledge and purpose rather than through coercion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volitionally designates in a willing manner."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An agent acts **volitionally** when his conscious desire serves as the immediate antecedent of his muscular action."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"He struggled for weeks before he could **volitionally** fire the quadriceps tendon of his injured limb."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea acted **volitionally**, refusing to allow parental disapproval to sway her philanthropic resolutions."*

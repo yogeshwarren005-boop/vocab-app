@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of voltaire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of voltaire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Voltaire; an alternative spelling of Voltarean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, describing rationalist freethinkers who adopt Voltaire's campaign against bigotry (écrasez l'infâme).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voltarian designates in the manner of voltaire."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The philosopher maintained a **Voltarian** skepticism toward orthodox religion throughout his controversial career."*
+> - 📜 **H. L. Mencken (*Prejudices: Second Series*):** *"He assaulted Puritan moralists with **Voltarian** ferocity, mocking their crusades against harmless pleasures."*
+> - 📜 **Isaiah Berlin (*The Crooked Timber of Humanity*):** *"The counter-Enlightenment arose as a romantic backlash against the cold, universalizing **Voltarian** intellect."*

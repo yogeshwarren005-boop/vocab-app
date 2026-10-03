@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a benevolent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a benevolent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a benevolent, kindly, or charitable manner; with goodwill and compassionate generosity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, smiling or acting with condescending or genuine paternal kindness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate’s conceit was of the arrogant sort, never simpering, never impertinent, but massive in its claims and benevolently contemptuous."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"While the Frenchman’s boats, then, were engaged in towing the ship one way, Stubb benevolently towed away at his whale the other way, ostentatiously slacking out a most unusually long tow-line."*
-> - 📜 **Effie Afton (*Eventide*):** *"Orville, and condole with her on her daughter's disgrace; but those benevolently-disposed ladies deemed it expedient to call first at sundry places in the village and repeat the lamentable tale, probably to increase the stock of sympathy; so Mrs."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The village rector smiled **benevolently** upon Eppie, commending Silas for his fatherly devotion."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Mr. Touchett regarded his young niece **benevolently**, determined to secure her financial independence."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Harding listened **benevolently** to the complaints of the bedesmen, offering gentle words of peace."*

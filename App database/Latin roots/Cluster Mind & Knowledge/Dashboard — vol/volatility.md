@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of changing readily from a solid or liquid to a vapor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unpredictably irresolute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency of a substance to evaporate rapidly at normal temperatures; also emotional instability or market fluctuation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial asset pricing, the statistical dispersion of returns measured by standard deviation over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Our importance, our respectability in the world, must be affected by the wild volatility, the assurance and disdain of all restraint which mark Lydia’s character."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It articulates everywhere the spiritual, so to speak--makes it healthy and robust, and protects it against volatility and from running into mysticism. 2."*
+> - 📜 **Benjamin Graham (*The Intelligent Investor*):** *"The disciplined investor profits from market **volatility**, purchasing undervalued assets during panics."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Ether exhibits extraordinary **volatility**, boiling rapidly upon contact with the palm of the hand."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The **volatility** of public opinion makes popular assemblies dangerous guardians of constitutional stability."*

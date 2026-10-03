@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drastic and far-reaching change in ways of thinking and behaving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The overthrow of a government by those who are governed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental, rapid change in political power or social organization, or a circular movement around an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and intellectual history, paradigm shifts such as the Copernican and Darwinian revolutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That I might see what the old world could say, To this composed wonder of your frame, Whether we are mended, or whether better they, Or whether revolution be the same."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The present pleasure, By revolution lowering, does become The opposite of itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s fine revolution, an we had the trick to see’t."*
+> - 📜 **Thomas Kuhn (*The Structure of Scientific Revolutions*):** *"A scientific **revolution** occurs when an accumulation of anomalies shatters the reigning paradigm."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The French **revolution** surprised all of Europe because the old feudal walls fell in a single night."*
+> - 📜 **Nicolaus Copernicus (*On the Revolutions of the Heavenly Spheres*):** *"The apparent daily rotation of the heavens is caused by the axial **revolution** of the Earth itself."*

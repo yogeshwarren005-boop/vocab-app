@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greatness of volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatness of volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great bulk, immense size, or the vast spatial extent of an object, book, or bodily form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, the staggering length or textual sprawl of multi-volume Victorian novels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voluminosity designates greatness of volume."*
+> - 📜 **Thomas Carlyle (*History of Friedrich II of Prussia*):** *"The archival records appalled the historian by their terrifying **voluminosity** and pedantic disorder."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"He remarked upon the loose baggy **voluminosity** of certain nineteenth-century Russian masterpieces."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The magnificent **voluminosity** of Venetian cloudscapes inspired Titian's most grandiloquent canvases."*

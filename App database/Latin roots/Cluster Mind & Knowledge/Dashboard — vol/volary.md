@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where birds are kept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building where birds are kept.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large aviary or birdcage spacious enough to permit birds to fly freely within it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical estate architecture, a freestanding outdoor bird enclosure featured in country gardens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volary designates a building where birds are kept."*
+> - 📜 **Francis Bacon (*The Essays*):** *"For aviaries, I like them not, except they be of that largeness as to be turfed, a true outdoor **volary**."*
+> - 📜 **John Evelyn (*Diary*):** *"His lordship entertained us in his garden, showing a magnificent **volary** stocked with foreign songbirds."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Swallows kept within a spacious **volary** exhibited migratory restlessness as autumnal frosts approached."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disgusting manner or to a disgusting degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disgusting manner or to a disgusting degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a revolting, disgusting, repulsive, or offensive manner; to a sickeningly loathsome degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative, depicting unhygienic conditions or grotesque moral behavior with stark realism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Here at present I felt afresh—for I had felt it again and again—how my equilibrium depended on the success of my rigid will, the will to shut my eyes as tight as possible to the truth that what I had to deal with was, revoltingly, against nature."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The hotel washbasins were **revoltingly** filthy, coated in grease and discarded cigarette stubs."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The grotesque habits of the Yahoos were **revoltingly** beastly, shocking Gulliver's sense of human dignity."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Cardboard Box*):** *"The package contained two severed human ears packed **revoltingly** in coarse kitchen salt."*

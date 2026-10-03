@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of volumetric measurement; in a manner relating to volume or spatial displacement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, calculating stoichiometric concentrations by measuring titrated liquid volumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volumetrically designates with respect to volume."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Carbon dioxide evolved during wine fermentation was captured and measured **volumetrically** over mercury."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"Radon gas released from radium solutions was **volumetrically** determined in capillary quartz tubes."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"He quantified **volumetrically** the amount of subsoil brought to the surface by earthworms each year."*

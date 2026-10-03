@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a chatty manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a chatty manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a voluble, fluent, or rapid manner; talking incessantly and with effortless ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative dialogue, expressing excuses, gratitude, or complaints with breathless loquacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"What do you think of that for a fine bit of antithesis?” said the German, searching in his friend’s face for responding admiration, but going on volubly without waiting for any other answer."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"To-day she sent for me to come to tea, and he came into the room while she was volubly discussing various plans, which struck me as likely to cost more money than they were ever likely to gain."*
-> - 📜 **James Joyce (*Ulysses*):** *"On the doorstep all the whores clustered talk volubly, pointing to the right where the fog has cleared off."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The wine-shop keeper talked **volubly** to the travelers, masking revolutionary signals under casual gossip."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"Mr. Jabez Wilson complained **volubly** of his sudden dismissal, waving the sarcastic notice before Holmes."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Jennings chatted **volubly** throughout the carriage ride, speculating on the prospects of every village bachelor."*

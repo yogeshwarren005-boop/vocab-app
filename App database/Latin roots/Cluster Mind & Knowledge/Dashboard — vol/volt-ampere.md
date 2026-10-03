@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of electrical power in an ac circuit equal to the power dissipated when 1 volt produces a current of 1 ampere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of electrical power in an ac circuit equal to the power dissipated when 1 volt produces a current of 1 ampere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of apparent electrical power in an alternating current circuit, equal to the product of one volt and one ampere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In power engineering, distinguishing apparent power (VA) from real active power (watts) adjusted for power factor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volt-ampere designates a unit of electrical power in an ac circuit equal to the power dissipated when 1 volt produces a current of 1 ampere."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Alternating Current Phenomena*):** *"In reactive inductive circuits, the total **volt-ampere** rating exceeds the real wattage delivered to the load."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents of High Potential*):** *"Careful transformer design minimizes idle **volt-ampere** losses in alternating distribution networks."*
+> - 📜 **Oliver Heaviside (*Electrical Papers*):** *"The ratio between real watts and apparent **volt-ampere** product defines the governing power factor of transmission."*

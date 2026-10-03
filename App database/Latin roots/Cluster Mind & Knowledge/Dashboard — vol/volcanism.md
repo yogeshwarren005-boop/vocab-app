@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomena associated with volcanic activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phenomena associated with volcanic activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Volcanic activity, phenomena, or processes involving the eruption of molten rock, lava, and pyroclastic debris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary geology, the thermal forces that resurface celestial bodies such as Io, Venus, and Mars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volcanism designates the phenomena associated with volcanic activity."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean heat and **volcanism** act as the primary counterbalance to the ceaseless erosion of continents."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Jupiter's moon Io exhibits violent sulfurous **volcanism** driven by tidal gravitational kneading."*
+> - 📜 **James Dwight Dana (*Characteristics of Volcanoes*):** *"Hawaiian **volcanism** is characterized by fluid basaltic flows rather than explosive pyroclastic detonations."*

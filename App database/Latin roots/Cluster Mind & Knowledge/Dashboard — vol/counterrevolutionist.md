@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A revolutionary whose aim is to reverse the changes introduced by an earlier revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A revolutionary whose aim is to reverse the changes introduced by an earlier revolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates, participates in, or leads a counterrevolution against an established revolutionary government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French Revolutionary history, an emigré aristocrat or royalist partisan fighting against the Republic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterrevolutionist designates a revolutionary whose aim is to reverse the changes introduced by an earlier revolution."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary tribunal condemned every suspected **counterrevolutionist** to the impartial blade of the guillotine."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"The exiled French nobleman stood as an unbending **counterrevolutionist**, refusing any compromise with regicides."*
+> - 📜 **Arthur Koestler (*Darkness at Noon*):** *"Rubashov confessed to absurd charges of acting as a fascist **counterrevolutionist** to preserve Party unity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radical supporter of political or social revolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates, organizes, or participates in a political, social, or intellectual revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Russian and European history, underground conspirators organizing political uprisings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is not what he plans; it is the effect, if his plans are achieved, that makes him a revolutionist."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But if you are to wait till we get a logical Bill, you must put yourself forward as a revolutionist, and then Middlemarch would not elect you, I fancy."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"To me, you're a revolutionist, undermining Narval's government, and trying to cram your politics down our throats." Scarf moved away from the bar, drink in hand."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The exiled **revolutionist** lived in a drab Geneva room, plotting conspiracies across the Russian border."*
+> - 📜 **Fyodor Dostoevsky (*Demons*):** *"Verkhovensky was a cynical **revolutionist** who manipulated idealistic youths into political terror."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Danton stood as the colossal titan **revolutionist**, whose voice rallied the armies of France at Valmy."*

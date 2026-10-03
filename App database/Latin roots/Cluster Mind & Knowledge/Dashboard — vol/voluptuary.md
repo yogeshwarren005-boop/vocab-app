@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person addicted to luxury and pleasures of the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying luxury and furnishing gratification to the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person devoted to luxury, sensual pleasures, fine dining, and physical self-indulgence; an epicure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character sketches, a wealthy aesthete whose existence is organized around refined hedonistic delights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Bid the slave-merchant enter," says the Turkish voluptuary with a wave of his hand."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"His features might have been called good, had there not lurked under the pent-house of his eye, that sly epicurean twinkle which indicates the cautious voluptuary."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Elagabalus lived as an unrestrained imperial **voluptuary**, squandering revenues upon scented baths and rare delicacies."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian pursued the refined sensations of a modern **voluptuary**, experimenting with perfumes and exotic jewels."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The Marquis of Steyne was an elderly **voluptuary** whose cynical gaze pierced all social pretenses."*

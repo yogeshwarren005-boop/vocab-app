@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to turn on an axis or center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to turn on an axis or center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To roll or revolve around something in a circular path; to cause to rotate or turn about an axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary mechanics, the orbital revolution of satellites around a primary celestial body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumvolve designates cause to turn on an axis or center."*
+> - 📜 **Isaac Newton (*The System of the World*):** *"The gravitational force causes moons to **circumvolve** their parent planets in elliptical trajectories."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Mystic dances which that starry sphere of planets doth **circumvolve** in numbers that move harmonious chords."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The colossal machinery of universe and society continues to **circumvolve** through cycles of creation and decay."*

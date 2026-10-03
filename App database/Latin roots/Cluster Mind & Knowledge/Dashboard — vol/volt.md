@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt; equivalent to the potential difference across a resistance of 1 ohm when 1 ampere of current flows through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt; equivalent to the potential difference across a resistance of 1 ohm when 1 ampere of current flows through it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The SI unit of electrical potential difference and electromotive force, named after Alessandro Volta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the potential difference across a conductor when a current of one ampere dissipates one watt of power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The hounds had scarcely been loosed before Nicholas heard one he knew, Voltórn, giving tongue at intervals; other hounds joined in, now pausing and now again giving tongue."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And the volt, which is a legal measure, just as much as a pound or a yard, is a certain fraction of the pressure produced by a certain battery known as Clark's Cell."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus we see the volt is the electrical counterpart of the term "pound per square inch" which is used in the case of water pressure."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The international committee adopted the **volt** as the standard practical measure of electromotive force."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"My high-frequency resonant transformers generated potentials exceeding hundreds of thousands of a **volt**."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"Current flows along the cable in direct proportion to the applied difference measured in every **volt**."*

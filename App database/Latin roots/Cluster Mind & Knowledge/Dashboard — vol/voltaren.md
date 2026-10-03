@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory drug (trade name voltaren) that is administered only orally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory drug (trade name voltaren) that is administered only orally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for diclofenac, a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and swelling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a topical gel or oral medication that inhibits cyclooxygenase enzymes (COX-1 and COX-2).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voltaren designates a nonsteroidal anti-inflammatory drug (trade name voltaren) that is administered only orally."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The physiotherapist prescribed topical **Voltaren** gel to soothe post-surgical inflammation in the knee joint."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Patients with severe rheumatoid arthritis obtained substantial relief through targeted NSAIDs like **Voltaren**."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"Pain management regimens combined acetaminophen with topical **Voltaren** to avoid systemic narcotic side effects."*

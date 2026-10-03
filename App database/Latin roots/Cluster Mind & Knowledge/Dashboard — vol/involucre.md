@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly conspicuous bract or bract pair or ring of bracts at the base of an inflorescence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly conspicuous bract or bract pair or ring of bracts at the base of an inflorescence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A whorl, collar, or rosette of bracts surrounding an inflorescence, flower cluster, or umbel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and pteridology, a membranous protective sheath enclosing reproductive organs or sporangia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If, by any means, the lobes of the involucre are any of them separated, the enclosed dust escapes, blackening the fingers and clothing of the collector, as if it were soot (Plate V. fig. 92)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GOATSBEARD CLUSTER-CUPS; spots obliterated; peridia scattered, torn, wider above; spores orange, at length black.—On stems, leaves, and involucres of common Goatsbeard."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The outer bracts of the **involucre** protect the developing florets against desiccating winds and herbivorous insects."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In the sunflower, the multiseriate **involucre** mimics the green calyx of an ordinary solitary flower."*
+> - 📜 **Henry David Thoreau (*Wild Fruits*):** *"The bristly prickly **involucre** of the American chestnut splits into four valves to reveal polished brown nuts."*

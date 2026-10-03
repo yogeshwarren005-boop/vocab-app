@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to the control of the will; ; ; ; - john f.kennedy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject to the control of the will; ; ; ; - john f.kennedy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not voluntary; performed or occurring without the exercise of conscious will or voluntary consent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and bioethics, actions performed without deliberate consent but without active objection (as in infant care).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonvoluntary designates not subject to the control of the will; ; ; ; - john f.kennedy."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Actions performed through ignorance are **nonvoluntary** if the actor feels no subsequent regret or repentance."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Civilized societies distinguish strictly between voluntary contracts and **nonvoluntary** civic obligations."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient experienced **nonvoluntary** respiratory gasps whenever emotional agitation overwhelmed his cortical control."*

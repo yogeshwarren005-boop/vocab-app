@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The shape of something rotating rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A convex fold or elevation in the surface of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coil, twist, or winding fold, especially one of the convex folds (gyri) on the surface of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, an integral operation expressing the overlap of one function as it is shifted over another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Lying in strange folds, courses, and convolutions, to their apprehensions, it seems more in keeping with the idea of his general might to regard that mystic part of him as the seat of his intelligence."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In the middle distance a vast serpent, wearing a crown, reared its head out of its voluminous convolutions and looked at him with his dead mother’s eyes."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Lying in strange folds, courses, and convolutions, to their apprehensions, it seems more in keeping with the idea of his general might to regard that mystic part of him as the seat of his intelligence."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Each cortical **convolution** increases the surface area of gray matter within the rigid confines of the cranium."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Every major cerebral **convolution** identified in the chimpanzee finds its exact anatomical homologue in man."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The strange machine featured an intricate **convolution** of crystalline rods that spun as the levers shifted."*

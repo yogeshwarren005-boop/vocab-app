@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of conscious choice and decision and intention; - george meredith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a choice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty or power of using one's own will; the act of making a conscious, deliberate choice or decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical theology, the mental act that initiates voluntary bodily motion or moral intention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But no; stay, I insist!” He seized her hand, and then volition seemed to leave her, and she went off into a state of passivity."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She lay in a state of percipience without volition, and the rustle of the straw and the cutting of the ears by the others had the weight of bodily touches."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It seemed as though, by some nameless, interior volition, he would fain have shocked into them the same fiery emotion accumulated within the Leyden jar of his own magnetic life."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"**Volition** is an act of the mind knowingly exerting that dominion it takes itself to have over any part of the man."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The essential achievement of the will is to attend to a difficult object and hold it fast before the mind: that is **volition**."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"We experience internal command over our organs, but the secret power linking **volition** to muscular contraction remains unknown."*

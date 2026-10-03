@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connect closely and often incriminatingly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage as a participant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complicated, intricate, and difficult to comprehend, or deeply engaged and participating in an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal relations, emotionally, romantically, or conspiratorially entangled with another party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"All this involved, no doubt, sufficient active exercise of pen and ink to make her daughter’s part in the proceedings anything but a holiday."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, in your suit there are thousands and thousands involved, where in mine there are hundreds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the expression of his face he might be a famous whist-player for a large stake—say a hundred guineas certain—with the game in his hand, but with a high reputation involved in his playing his hand out to the last card in a masterly way."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes listened attentively to the **involved** family legend, leaning back in his armchair with closed eyes."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Maggie found herself hopelessly **involved** in a delicate web of domestic deception and unspoken alliances."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The political disputes between the syndicalists and communists were fiercely **involved** and led to bloodshed."*

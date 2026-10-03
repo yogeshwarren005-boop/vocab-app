@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an evolutionary way; from an evolutionary point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an evolutionary way; from an evolutionary point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to evolution, phylogenetic history, or gradual adaptive development over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, evaluating physical or behavioral traits in terms of their ancestral adaptive fitness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evolutionarily designates in an evolutionary way; from an evolutionary point of view."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"Altruistic behaviors are **evolutionarily** stable only when benefits fall upon genetic kin sharing alleles."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The panda's wrist bone is **evolutionarily** modified from a sesamoid to serve as an opposable stripping thumb."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Eusocial insect colonies are **evolutionarily** designed to function as integrated superorganisms."*

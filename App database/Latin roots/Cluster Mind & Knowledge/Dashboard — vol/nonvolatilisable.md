@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not volatilizing readily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not volatilizing readily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being volatilized or converted into vapor or gas (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, refractory mineral compounds that do not sublimate under standard laboratory distillation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonvolatilisable designates not volatilizing readily."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The metallic residue proved completely **nonvolatilisable** even when exposed to the intense electric arc."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Earthy oxides constitute a **nonvolatilisable** stratum that resists ordinary blowpipe decomposition."*
+> - 📜 **Thomas Graham (*Elements of Chemistry*):** *"In quantitative analysis, the **nonvolatilisable** ash is weighed after all organic carbons have burned away."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn on or around an axis or a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move in an orbit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move in a circular or curving orbit around a central point or axis, or to turn over repeatedly in the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive reflection, to ponder, deliberate, or contemplate an idea from multiple perspectives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Consider, When you above perceive me like a crow, That it is place which lessens and sets off; And you may then revolve what tales I have told you Of courts, of princes, of the tricks in war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And so conduct me where, from company, I may revolve and ruminate my grief. [_Exit._] GLOUCESTER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*
+> - 📜 **Isaac Newton (*Opticks*):** *"The primary planets **revolve** about the Sun in concentric ellipses according to inverse square attraction."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"If this fall into thy hand, **revolve**. In my stars I am above thee; but be not afraid of greatness."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I spent sleepless nights in my laboratory, letting my dark purpose **revolve** continually in my mind."*

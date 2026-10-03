@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with distaste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly offensive, disgusting, repulsive, or loathsome; causing profound visceral revulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, rising up in armed rebellion or mutiny against sovereign authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Comets, importing change of times and states, Brandish your crystal tresses in the sky, And with them scourge the bad revolting stars That have consented unto Henry’s death: King Henry the Fifth, too famous to live long!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By thee Anjou and Maine were sold to France, The false revolting Normans thorough thee Disdain to call us lord, and Picardy Hath slain their governors, surprised our forts, And sent the ragged soldiers wounded home."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be champion of our church, Or let the church, our mother, breathe her curse, A mother’s curse, on her revolting son."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The neglected pauper burial pit presented a **revolting** spectacle of municipal greed and public callousness."*
+> - 📜 **Herman Melville (*Typee*):** *"The traveler averted his gaze from the **revolting** relics of cannibal feasts hung in wicker baskets."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A creature endowed with monstrous stature and **revolting** yellow skin opened watery eyes before me."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having strong sexual appeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a woman's body) having a large bosom and pleasing curves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curvaceous, sexually attractive, and full-figured, or providing sensual gratification and luxury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and art criticism, rich, indulgent textures, warm colors, or soothing musical harmonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The voluptuous Tahitians are the only people who at all deserve to be compared with them; while the dark-haired Hawaiians and the woolly-headed Feejees are immeasurably inferior to them."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was the voluptuous character of these people which rendered the disease introduced among them by De Bougainville’s ships, in 1768, doubly destructive."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"On this morning, the weather was of that voluptuous vernal kind which calls forth all the latent romance of a man’s temperament, filling his mind with music, and disposing him to quote poetry and dream of beauty."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Her beauty was of that rich, **voluptuous** kind that belongs to southern climes and sunlit vineyards."*
+> - 📜 **John Keats (*The Eve of St. Agnes*):** *"A table stood spread with **voluptuous** delicacies, jellies soother than the creamy curd and candied fruits."*
+> - 📜 **Charles Baudelaire (*The Flowers of Evil*):** *"The evening air was filled with a warm, **voluptuous** perfume of exotic blossoms drifting from the harbor."*

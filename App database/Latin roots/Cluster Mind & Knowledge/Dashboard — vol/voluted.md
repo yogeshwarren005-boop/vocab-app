@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the shape of a coil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the shape of a coil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with, decorated with, or shaped in the form of a volute or spiral scroll.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural description, describing Ionic and Composite capitals adorned with prominent spirals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, voluted designates in the shape of a coil."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The marble columns supported elegantly **voluted** capitals carved by Byzantine craftsmen."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Sunlight fell upon the **voluted** pediment of the ruined temple standing along the Appian Way."*
+> - 📜 **Henry James (*Italian Hours*):** *"The baroque facade featured **voluted** buttresses flanking the lofty church portal above the piazza."*

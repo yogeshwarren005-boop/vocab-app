@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in organic evolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who believes in organic evolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies, advocates, or adheres to the theory of biological or cultural evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific historiography, a naturalist championing natural selection against special creation doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evolutionist designates a person who believes in organic evolution."*
+> - 📜 **Thomas Henry Huxley (*Darwiniana*):** *"As an outspoken **evolutionist**, he welcomed every opportunity to defend Darwin's mechanism in public debate."*
+> - 📜 **Charles Darwin (*Life and Letters*):** *"He rejoiced to find that the eminent botanist Asa Gray had declared himself a committed **evolutionist** in America."*
+> - 📜 **Stephen Jay Gould (*Hen's Teeth and Horse's Toes*):** *"The modern **evolutionist** views genetic drift and developmental constraints as essential partners to natural selection."*

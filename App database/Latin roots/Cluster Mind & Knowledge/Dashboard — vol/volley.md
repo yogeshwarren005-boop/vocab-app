@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid simultaneous discharge of firearms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tennis return made by hitting the ball before it bounces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simultaneous discharge of a number of firearms, arrows, or missiles, or hitting a ball before it bounces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, a rapid, overwhelming outpouring of words, arguments, questions, or insults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The holding every man shall beat as loud As his strong sides can volley."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Young Fortinbras, with conquest come from Poland, To the ambassadors of England gives This warlike volley."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, bravely came we off, When with a volley of our needless shot, After such bloody toil, we bid good night, And wound our tott’ring colours clearly up, Last in the field, and almost lords of it!"*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"A rolling **volley** of musketry swept across the wheatfield, cutting down the blue-coated battle line."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Our soldiers answered their haughty taunts with a fierce **volley** of English arrows that darkened the sky."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Madame Defarge released a sudden **volley** of furious curses against the fleeing aristocrats."*

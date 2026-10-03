@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a malevolent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a malevolent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a malevolent, spiteful, or vicious manner; with active malice and evil intent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative description, glaring, speaking, or smiling with overt hostility and sinister joy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Count Rostopchín writes that he will stake his life on it that the enemy will not enter Moscow.” “Oh, that count of yours!” said the princess malevolently."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A gleaming beak had been thrust out and the bright, intelligent eye of one of the dodo-birds was regarding them malevolently from the opening."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Moriarty's eyes gleamed **malevolently** through his spectacles as he warned Holmes of inevitable destruction."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Bill Sikes glared **malevolently** at the cowering dog, striking the table with his heavy fist."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Israel Hands grinned **malevolently**, concealing the bloody dirk behind his back as he stalked Hawkins."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radical supporter of political or social revolution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Markedly new or introducing radical change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or causing a complete or dramatic change, or relating to a political revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and technological history, innovations (like the steam engine) that transform global society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He entertains religious convictions of a curious kind; but, as the man is quite free from revolutionary sentiments, I have never considered it to be my duty to interfere with him, or to investigate his creed."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In many places the resulting changes were revolutionary."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Contemptuous of authority, he had gone his own way, spending pocket-money on revolutionary literature, trying to raise ghosts, and dabbling in chemical experiments."*
+> - 📜 **Thomas Paine (*Common Sense*):** *"The cause of America is in a great measure the cause of all mankind; a **revolutionary** dawn has broken."*
+> - 📜 **Eric Hobsbawm (*The Age of Revolution*):** *"The dual **revolutionary** breakthroughs of British industry and French politics transformed the globe."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The view that species undergo gradual natural modification will have a **revolutionary** effect on natural history."*

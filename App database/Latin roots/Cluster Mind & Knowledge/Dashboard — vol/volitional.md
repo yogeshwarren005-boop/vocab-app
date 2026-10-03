@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With deliberate intention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With deliberate intention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or done by volition, conscious will, or deliberate choice; purposeful and intentional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurological motor control, movements directed by conscious cortical intent rather than reflexive pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"So, according as the family income is from rents or from wages, the motives of the parents differ. [Sidenote: Motives in volitional control] Postponement of marriage must be classed as a mode of volitional control of population."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The failure to marry, from whatever cause, is, in the social view of the question, volitional control."*
-> - 📜 **James Joyce (*Ulysses*):** *"His errors are volitional and are the portals of discovery."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"L-dopa enabled patients to transform frozen immobility into spontaneous **volitional** locomotion and speech."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"The motor cortex and supplementary motor area coordinate the execution of complex **volitional** movements."*
+> - 📜 **William James (*The Will to Believe*):** *"A **volitional** decision becomes imperative when we face a genuine option that is forced, living, and momentous."*

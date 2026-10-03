@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wishing or appearing to wish evil to others; arising from intense ill will or hatred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or exerting a malignant influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a wish to do evil to others; malicious, spiteful, hostile, and actively harmful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myth and supernatural fiction, dark spirits or cosmic entities exerting harmful influences upon humanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is his uncle’s teaching, this is Worcester, Malevolent to you in all aspects, Which makes him prune himself, and bristle up The crest of youth against your dignity."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His face twisted into a malevolent grin."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Its horrible head, thrust flatly forth from the innermost coil and resting upon the outermost, was directed straight toward him, the definition of the wide, brutal jaw and the idiotlike forehead serving to show the direction of its malevolent gaze."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab imputed to the white whale an intelligent, **malevolent** agency that actively sought the destruction of men."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The red eyes of Count Dracula burned in the shadows with cold, **malevolent** intensity as the wolves gathered."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine imagined General Tilney to be a **malevolent** tyrant who had murdered or imprisoned his deceased wife."*

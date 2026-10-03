@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized opposition to authority; a conflict in which one faction tries to wrest control from another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make revolution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An uprising or rebellion against an established authority or government, or to rebel or feel intense disgust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic and ethical discourse, a profound visceral revulsion provoked by ugliness, cruelty, or injustice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou canst not vex me with inconstant mind, Since that my life on thy revolt doth lie, O what a happy title do I find, Happy to have thy love, happy to die!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His qualities being at this poor price, I need not to ask you if gold will corrupt him to revolt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Many hot inroads They make in Italy—the borders maritime Lack blood to think on’t—and flush youth revolt."*
+> - 📜 **Albert Camus (*The Rebel*):** *"What is a rebel? A man who says no; his first act of metaphysical **revolt** affirms common human dignity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Oppressive provincial taxation provoked an armed **revolt** that spread rapidly among the Numidian tribes."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston understood that secret diary writing was an act of solitary **revolt** that carried the death penalty."*

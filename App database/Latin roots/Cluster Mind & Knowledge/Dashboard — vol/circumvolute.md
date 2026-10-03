@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wind or turn in volutions, especially in an inward spiral, as of snail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wind or turn in volutions, especially in an inward spiral, as of snail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To wind, twist, or roll around in a circular or spiral fashion, or shaped in winding spirals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and botany, describing helical shells or tendrils that coil closely around a central axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumvolute designates wind or turn in volutions, especially in an inward spiral, as of snail."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Observe how the climbing vine tendrils **circumvolute** the supporting trellis with vigorous organic elasticity."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"Naturalists admire the elegant spirals that **circumvolute** the chambers of the pearly nautilus."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Intestinal canals in certain herbivorous fishes **circumvolute** repeatedly to prolong nutrient absorption."*

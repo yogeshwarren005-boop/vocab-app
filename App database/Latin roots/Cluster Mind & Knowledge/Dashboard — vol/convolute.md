@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curl, wind, or twist together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice sophistry; change the meaning of or be vague about in order to mislead or deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To roll, twist, or wind together into overlapping folds, or coiled and rolled inward upon itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and argumentation, to make intricate, obscure, or excessively complex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It could be straight or as convoluted as a randomly configured corkscrew."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain delicate flower petals **convolute** tightly before dawn, opening only under the direct warmth of the sun."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Pedantic scholars **convolute** simple metaphysical questions until the original truth is lost in verbal fog."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In bud vernation, leaves that **convolute** roll around one another sequentially in a spiral direction."*

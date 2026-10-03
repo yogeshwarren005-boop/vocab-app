@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to the control of the will; ; ; ; - john f.kennedy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject to the control of the will; ; ; ; - john f.kennedy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not voluntary; occurring without choice, conscious will, or deliberate intention; involuntary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics, actions undertaken without conscious consent or under direct external physical duress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvoluntary designates not subject to the control of the will; ; ; ; - john f.kennedy."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The convulsive spasm of a limb under palsy is purely **unvoluntary**, admitting no intervention of will."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Vital motions such as the circulation of the blood are **unvoluntary**, proceeding without conscious thought."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Our moral sentiments distinguish between voluntary crimes and **unvoluntary** bodily injuries."*

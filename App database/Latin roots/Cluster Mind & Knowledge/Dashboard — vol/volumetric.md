@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to measurement by volume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to measurement by volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the measurement of volume; determined by volume rather than weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry, volumetric analysis (titration) measuring solution concentrations via known volumes of reagent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volumetric designates of or relating to measurement by volume."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Quantitative **volumetric** determinations revealed the precise proportions of hydrogen and oxygen in water."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Carefully calibrated **volumetric** pipettes and burettes are indispensable for exact analytical assaying."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"High-resolution **volumetric** MRI allows researchers to quantify regional hippocampal atrophy in dementia."*

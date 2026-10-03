@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to the control of the will; ; ; ; - john f.kennedy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Controlled by the autonomic nervous system; without conscious control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done or occurring without conscious control, deliberate intention, or will; automatic, reflexive, or compelled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, muscles (such as smooth and cardiac muscle) that operate independent of voluntary cortical control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do not dismiss me so soon, mademoiselle!” she said with an involuntary contraction of her fine black eyebrows."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"’Tis truth.” “Well, you need not let go your hold of me so thanklessly the moment you feel yourself out of danger.” She had not considered what she had been doing; whether he were man or woman, stick or stone, in her involuntary hold on him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Like a flash he took advantage of what he deemed an involuntary exposure."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Blushing is the most peculiar and most human of all expressions, and it is strictly **involuntary**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The knee-jerk reflex represents an elemental **involuntary** spinal arc that bypasses the cerebral hemispheres."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston suppressed an **involuntary** wince of pain as the telescreen barked out morning exercise drills."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being unwilling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being unwilling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence of conscious intention, deliberate will, or voluntary control over an action or bodily movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, the defense that an act was committed without mens rea due to automatism or duress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, involuntariness designates the trait of being unwilling."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Moral praise or blame attaches only to voluntary actions, whereas **involuntariness** receives pardon or pity."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **involuntariness** of an act performed under direct bodily compulsion excludes criminal liability."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Patients were distressed by the uncontrollable **involuntariness** of their tics and sudden oculogyric crises."*

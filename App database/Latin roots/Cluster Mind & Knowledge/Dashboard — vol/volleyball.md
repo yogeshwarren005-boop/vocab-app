@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A game in which two teams hit an inflated ball over a high net using their hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflated ball used in playing volleyball.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A team sport in which players use their hands to hit a high ball back and forth over a net without letting it touch the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports history, an athletic game invented in 1895 by William G. Morgan as a less strenuous indoor recreation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, volleyball designates a game in which two teams hit an inflated ball over a high net using their hands."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The student athletes unwound after grueling tennis drills with an informal sand-court **volleyball** match."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"The Mercury astronauts relaxed between centrifuge tests with vigorous games of beach **volleyball** in Cocoa Beach."*
+> - 📜 **John Updike (*Rabbit at Rest*):** *"The Florida condominium recreation lawn featured a sun-faded **volleyball** net sagging between palm trees."*

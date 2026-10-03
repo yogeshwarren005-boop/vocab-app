@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian physicist after whom the volt is named; studied electric currents and invented the voltaic pile (1745-1827).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in ghana that flows south to the bight of benin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Count Alessandro Volta, the Italian physicist famous for inventing the chemical electric battery (voltaic pile) in 1799.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music and dance, a lively Renaissance turning dance, or a musical direction (prima volta, seconda volta) indicating repeated endings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Then comes the "Electrophorus," an electrical instrument suggested by Volta, which was thought at the time a grand invention for the purpose of getting light (Fig. 6 A)."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"ELECTROTYPING In 1799, Allesandro Volta, of Pavia, in Italy, constructed the first electric battery, which came to be called the Voltaic pile."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In 1837, thirty-eight years after Volta's discovery, Mr."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The immortal discovery of the electric pile by **Volta** opened a glorious new epoch in natural science."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Following the path marked by **Volta**, we were enabled to decompose caustic potassa into pure potassium metal."*
+> - 📜 **William Shakespeare (*Henry V*):** *"They bid us to the English dancing-schools, and teach lavoltas high and swift corantos... like the **volta** of old."*

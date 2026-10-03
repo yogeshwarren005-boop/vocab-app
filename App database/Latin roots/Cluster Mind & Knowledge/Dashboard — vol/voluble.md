@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a ready flow of speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a ready flow of speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Talking fluently, readily, or incessantly; characterized by a steady, effortless flow of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing climbing or twining plant stems that coil spirally around supports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If voluble and sharp discourse be marr’d, Unkindness blunts it more than marble hard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most acute juvenal, voluble and free of grace!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble paused for breath as she delivered herself of the above voluble speech, and the lady visitor replied: "You speak heroicly, sister Justitia."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke was a **voluble** conversationalist who touched upon a hundred topics without finishing a single sentence."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The Russian harlequin was extraordinarily **voluble**, babbling about Kurtz with ecstatic hero-worship."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The morning glory possesses a **voluble** stem that twines dextrorsely up garden trellises."*

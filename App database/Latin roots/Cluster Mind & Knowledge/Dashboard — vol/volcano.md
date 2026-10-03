@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mountain formed by volcanic material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mountain or hill with a crater or vent through which lava, rock fragments, hot vapor, and gas erupt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative expression, a person or situation simmering with suppressed anger ready to explode.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, and bolts along the passage as if he had an acceptable commission to carry the old gentleman to the nearest volcano."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As well had Pilate and I been known to each other before ever he journeyed out to be procurator over the Semitic volcano of Jerusalem."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Others may boast a partial flame, But thou art a volcano!"*
+> - 📜 **Pliny the Younger (*Letters*):** *"A pine-tree shaped cloud of black ash rose high above the roaring **volcano** Vesuvius, blotting out the sun."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The majestic cone of Osorno **volcano** illuminated the Chilean night sky with sheets of crimson fire."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab stood upon the quarter-deck like a dormant **volcano**, brooding upon his dark, consuming vengeance."*

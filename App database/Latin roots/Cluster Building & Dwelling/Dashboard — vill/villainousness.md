@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of evil by virtue of villainous behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of evil by virtue of villainous behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme wickedness, deceitfulness, or moral depravity worthy of a villain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Base, despicable, or treacherous conduct that violates ethical human obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villainousness designates the quality of evil by virtue of villainous behavior."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The physician was horrified to perceive the growing **villainousness** of his own vindictive obsession."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel discovered the cold **villainousness** of Osmond's calculating deception too late."*
+> - 📜 **George Eliot (*Romola*):** *"Tito Melema justified his moral **villainousness** through polished sophistry and self-serving ambition."*

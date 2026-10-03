@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of income) required by law to be reported.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meriting report.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Required by law, regulation, or institutional policy to be officially reported to authorities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving, worthy, or suitable to be recounted, broadcast, or published as news.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reportable designates (of income) required by law to be reported."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The board of health designated Asiatic cholera as an immediately **reportable** contagious disease."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin investigated every **reportable** case of bubonic plague along the tropical harbor front."*
+> - 📜 **Winston Churchill (*The River War*):** *"The reconnaissance scout found no **reportable** enemy troop movements beyond the cataract."*

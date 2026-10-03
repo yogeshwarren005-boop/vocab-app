@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be supported or defended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be supported or defended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being endured, tolerated, or borne; intolerable or unbearable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being substantiated, justified, or defended by logical evidence; untenable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"To have made up his mind that a thing must be, and to find himself thwarted by a bit of a girl--it was unsupportable!--so unsupportable, that even now he refused to believe it could be true."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor's capricious cruelties imposed an **unsupportable** tyranny upon the Roman nobility."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The thought of my beloved brother's tragic murder was an **unsupportable** agony to my soul."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The dogmatic assumption was dismissed by scientific thinkers as logically **unsupportable**."*

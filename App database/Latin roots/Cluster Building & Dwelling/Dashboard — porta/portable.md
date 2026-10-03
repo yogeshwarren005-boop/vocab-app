@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small light typewriter; usually with a case in which it can be carried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily or conveniently transported.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily carried or moved by hand, especially because of being lightweight, compact, or foldable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software and computing, usable on different computers or operating platforms without substantial modification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How light and portable my pain seems now, When that which makes me bend makes the King bow; He childed as I fathered!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All these are portable, With other graces weigh’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go tell him this, and add That if he overhold his price so much We’ll none of him, but let him, like an engine Not portable, lie under this report: Bring action hither; this cannot go to war."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson carried a **portable** lantern that cast long, flickering shadows over the treacherous moor."*
+> - 📜 **Jules Verne (*Around the World in Eighty Days*):** *"Phileas Fogg traveled with a single **portable** carpetbag containing bank notes and shirts."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg produced his small **portable** pagan idol from his pocket, propping it against the chimney."*

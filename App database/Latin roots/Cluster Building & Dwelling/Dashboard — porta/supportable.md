@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne though unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being borne though unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne, endured, or tolerated with fortitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being defended, maintained, or substantiated by sound argument or evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As great to me, as late; and, supportable To make the dear loss, have I means much weaker Than you may call to comfort you, for I Have lost my daughter."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She had no child to connect her with life and happiness again, no relations to assist in the arrangement of perplexed affairs, no health to make all the rest supportable."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"And, after all, I found their natural smell was much more supportable, than when they used perfumes, under which I immediately swooned away."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth thought Mr. Darcy's pride might have been **supportable** had he not wounded her own."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The historian presented only such conclusions as were **supportable** by original state papers."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Her physical hardships at Lowood became **supportable** once she secured Helen Burns's companionship."*

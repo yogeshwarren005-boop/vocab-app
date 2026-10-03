@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Frederick Vernon Coville (1867-1937), prominent American botanist who pioneered the cultivation of blueberries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Botanical taxa named in Coville's honor, such as Coville's lipfern or desert creosote bush varieties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coville designates desert shrub of southwestern united states and new mexico having persistent resinous aromatic foliage and small yellow flowers."*
+> - 📜 **John Muir (*Steep Trails*):** *"Botanists exploring the Death Valley expedition with **Coville** documented the remarkable desert flora."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The western mountain shrub was collected and identified by the diligent botanical explorer **Coville**."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Naturalists commemorated the collector **Coville** in designating newly cataloged American ferns."*

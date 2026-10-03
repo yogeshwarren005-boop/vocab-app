@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman villain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman villain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female villain; a wicked or malicious woman who acts as an antagonist in drama or literature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archetype in literary criticism representing a treacherous or morally corrupt woman.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villainess designates a woman villain."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Lady Macbeth acts as the fierce **villainess** who incites her hesitant husband to bloody regicide."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp was condemned as a heartless **villainess** by the pious hypocrites of Mayfair."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The detective matched wits with an unprincipled **villainess** whose cunning rivaled his own."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable for export.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not suitable for export.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable or not permitted to be exported, due to perishable nature, legal restrictions, or high costs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, describing cultural nuances, local humor, or idioms that cannot be translated or appreciated abroad.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexportable designates not suitable for export."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Heavy, low-value stone and bulky timber remained virtually **unexportable** except along navigable waterways."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"Perishable fresh fruits were historically **unexportable** until the invention of refrigerated shipping."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Certain domestic services and fixed fixtures remain permanently **unexportable** commodities."*

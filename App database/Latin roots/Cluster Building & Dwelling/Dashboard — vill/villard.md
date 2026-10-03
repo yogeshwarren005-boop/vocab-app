@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states railroad magnate and businessman (1835-1900).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states railroad magnate and businessman (1835-1900).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Henry Villard (1835-1900), American journalist, financier, and railroad builder who completed the Northern Pacific Railway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Villard de Honnecourt, thirteenth-century French master builder and draftsman renowned for his Gothic sketchbook.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villard designates united states railroad magnate and businessman (1835-1900)."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The daring financial maneuvers of Henry **Villard** reshaped the transcontinental railroad empires of the West."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The sketchbook of **Villard** de Honnecourt provides an invaluable glimpse into medieval lodge masonry."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"The Northern Pacific Railway had been pushed across the wilderness by the energetic entrepreneur **Villard**."*

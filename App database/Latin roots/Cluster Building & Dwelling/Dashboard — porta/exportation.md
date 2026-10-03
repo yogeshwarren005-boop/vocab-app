@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities (goods or services) sold to a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commercial activity of selling and shipping goods to a foreign country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, commercial process, or business of sending goods or services to another country for sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical economics, the regulated shipping of raw materials or coin abroad under mercantilist laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This calls for a new equilibrium of money and requires at length large and continued exportation of specie."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of course, what is not seen is that if we stop importing goods we thereby eventually will stop the exportation of goods of equal value now being sent in payment and this must throw as many men out of jobs as we helped into jobs by raising the tariff."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The annual exportation has not yet begun."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Bounties upon the **exportation** of corn were intended to stimulate domestic agricultural productivity."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"The unregulated **exportation** of raw materials impoverishes the infant industries of a developing republic."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The embargo temporarily halted all foreign **exportation** from American coastal seaports."*

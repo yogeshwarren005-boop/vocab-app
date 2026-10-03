@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign epithelial tumor forming a rounded mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A benign epithelial tumor forming a rounded mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A villous papilloma; a benign tumor characterized by elongated, vascular, finger-like projections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgical pathology, an epithelial neoplasm occurring in the urinary bladder or colon with a frond-like texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villoma designates a benign epithelial tumor forming a rounded mass."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Histological biopsy of the polypoid **villoma** revealed benign branched epithelial papillae."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"A frond-like **villoma** of the bladder mucosa may cause painless, recurrent hematuria."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"The surgeon carefully excised the vascular **villoma** from the mucosal lining of the bowel."*

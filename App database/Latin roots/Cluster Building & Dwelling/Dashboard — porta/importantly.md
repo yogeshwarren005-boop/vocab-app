@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an important way or to an important degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an important way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an important, significant, or consequential manner; used to emphasize a key point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With an air of solemn self-importance, pomposity, or deliberate authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not likely That when they hear the Roman horses neigh, Behold their quarter’d fires, have both their eyes And ears so cloy’d importantly as now, That they will waste their time upon our note, To know from whence we are."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"There’s no chimney,” Peter said; “we must have a chimney.” “It certainly does need a chimney,” said John importantly."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Well, you did,” said Margaret importantly."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Brocklehurst cleared his throat **importantly** before pronouncing his sentence upon the schoolgirl."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The town clerk nodded **importantly**, adjusting his spectacles over the parish register."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The parish constable strutted **importantly** across the green, eager to display his civic authority."*

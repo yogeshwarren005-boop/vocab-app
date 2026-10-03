@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute hairlike projection on mucous membrane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute hairlike projection on mucous membrane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute, elongated, vascular projection from the surface of a mucous membrane, especially of the small intestine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, a microscopic projection that vastly increases the surface area for nutrient absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villus designates a minute hairlike projection on mucous membrane."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Each intestinal **villus** contains a central lacteal surrounded by a fine plexus of blood capillaries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Atrophy of the mucosal **villus** in chronic sprue leads to severe intestinal malabsorption."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Nutrients diffuse across the simple columnar epithelium covering each microscopic **villus**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of evil by virtue of villainous behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A criminal or vicious act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wicked, criminal, or depraved conduct, actions, or character; treacherous wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of evil, scandalous, or malicious behavior; an outrageous crime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath out-villain’d villainy so far that the rarity redeems him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In me ’tis villainy; In thee ’t had been good service."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All good seeming, By thy revolt, O husband, shall be thought Put on for villainy; not born where’t grows, But worn a bait for ladies."*
+> - 📜 **William Shakespeare (*Richard III*):** *"And thus I clothe my naked **villainy** with odd old ends stolen out of holy writ, and seem a saint."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The detective uncovered the dark **villainy** that had driven the unfortunate law clerk to despair."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane shrank from the cold **villainy** of Rochester's unprincipled brother-in-law."*

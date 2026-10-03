@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of great significance or value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important in effect or meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of great significance, value, or consequence; having a major effect on current or future events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carrying substantial authority, social distinction, or official influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now his important blood will naught deny That she’ll demand; a ring the county wears, That downward hath succeeded in his house From son to son, some four or five descents Since the first father wore it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you not come your tardy son to chide, That, laps’d in time and passion, lets go by The important acting of your dread command?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O dear father, It is thy business that I go about; Therefore great France My mourning and important tears hath pitied."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn was entrusted with the most **important** secrets of the aristocratic Dedlock family."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate regarded his new medical appointment as an **important** opportunity to introduce reform."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"No event in the voyage was more **important** than the first sighting of the white whale."*

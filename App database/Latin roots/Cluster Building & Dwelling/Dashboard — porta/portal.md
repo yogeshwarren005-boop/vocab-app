@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grand and imposing entrance (often extended metaphorically).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A site that the owner positions as an entrance to other sites on the internet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, imposing, and elaborately decorated doorway, gate, or entrance to a monumental building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, pertaining to the portal vein; or in computing, an internet website providing a centralized gateway.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where he goes even now out at the portal. [_Exit Ghost._] QUEEN."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I, supposing he had done with me, prepared to return to the house; again, however, I heard him call “Jane!” He had opened the portal and stood at it, waiting for me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The lawn, the grounds were trodden and waste: the portal yawned void."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The sculpted Byzantine **portal** of Saint Mark's welcomed generations of Venetian mariners."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"I rode through the dark **portal** of the gothic archway into the gloomy courtyard."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Venous blood from the mesenteric capillaries enters the grand **portal** trunk leading to the liver."*

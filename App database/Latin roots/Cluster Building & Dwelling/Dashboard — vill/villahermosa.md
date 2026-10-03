@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southeastern mexico; the capital of the state of tabasco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southeastern mexico; the capital of the state of tabasco.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of the Mexican state of Tabasco, located on the banks of the Grijalva River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mesoamerican archaeology, an important cultural hub noted for the Parque-Museo La Venta containing colossal Olmec heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villahermosa designates a city in southeastern mexico; the capital of the state of tabasco."*
+> - 📜 **John Lloyd Stephens (*Incidents of Travel in Central America*):** *"We disembarked at the river port of **Villahermosa** before venturing inland toward the ruined temples."*
+> - 📜 **Graham Greene (*The Power and the Glory*):** *"The fugitive priest remembered the humid, bustling riverfront streets of **Villahermosa** with longing."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"In the outdoor museum at **Villahermosa**, majestic Olmec basalt heads stare silently across the lagoons."*

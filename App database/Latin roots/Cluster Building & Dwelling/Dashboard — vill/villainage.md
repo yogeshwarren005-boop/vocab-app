@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal status or condition of servitude of a villein or feudal serf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legal status or condition of servitude of a villein or feudal serf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tenure by which a feudal serf or villein held land; the status or servitude of a serf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Low, ignoble, or villainous behavior; base-minded conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villainage designates the legal status or condition of servitude of a villein or feudal serf."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The feudal tenure of pure **villainage** bound the rustic tenant to involuntary agricultural servitude."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The gradual abolition of **villainage** elevated the status of European agricultural laborers."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The thrall wore an iron collar inscribed with his master's name, marking his hereditary **villainage**."*

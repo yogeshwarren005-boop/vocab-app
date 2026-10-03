@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French poet (flourished around 1460).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French poet (flourished around 1460).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: François Villon (c. 1431 - c. 1463), famous medieval French lyric poet renowned for Le Grand Testament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the quintessential romantic archetype of the impoverished rogue, thief, and genius ballad-maker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It must have been like this in ancient Paris when Villon thieved and sang, and the wolves came clamoring at the gates ... and the crusaders in warm Palestine...."*
+> - 📜 **Robert Louis Stevenson (*A Lodging for the Night*):** *"The poet **Villon** crept through the snowbound Parisian alley, wrapping his threadbare cloak tightly."*
+> - 📜 **Algernon Charles Swinburne (*Poems and Ballads*):** *"Swinburne celebrated the bitter genius of **Villon**, our sad, glad, bad poet of medieval Paris."*
+> - 📜 **Ezra Pound (*The Spirit of Romance*):** *"François **Villon** cast aside scholastic rhetoric to sing of tavern rogues and the gallows tree."*

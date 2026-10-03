@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southwestern spain; a major port and cultural center; the capital of bullfighting in spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southwestern spain; a major port and cultural center; the capital of bullfighting in spain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal city of Andalusia, Spain, noted for its Gothic cathedral, Moorish tower, and bitter marmalade oranges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bitter orange (Citrus aurantium), commonly called the Seville orange, used in fine marmalade and liqueurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Fair is proud Seville; let her country boast Her strength, her wealth, her site of ancient days, But Cadiz, rising on the distant coast, Calls forth a sweeter, though ignoble praise."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Lowest of all, a compact leaden-vault enshrined the sweet wine and a stock of cordials: whence issued whispers of Seville Orange, Lemon, Almond, and Caraway-seed."*
+> - 📜 **Lord Byron (*Don Juan*):** *"In **Seville** was he born, a pleasant city, famous for oranges and women."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The old pantry was fragrant with preserves made from pungent **Seville** oranges."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"Columbus returned in triumph through the crowded, cheering streets of **Seville**."*

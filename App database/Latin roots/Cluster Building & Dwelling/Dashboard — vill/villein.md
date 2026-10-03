@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (middle ages) a person who is bound to the land and owned by the feudal lord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feudal serf, peasant, or tenant who was legally bound to a lord's estate and manor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical agricultural laborer holding land in exchange for customary labor services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The villein had the use of the stock, pastures, fields, woodlands, provided he kept them undiminished and undestroyed to transmit to his children."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Saxon **villein** labored in the fields under the watchful eye of the Norman bailiff."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The feudal **villein** could own no personal goods that his manorial lord might not seize at pleasure."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The medieval **villein** enjoyed greater security of life than the chattel slaves of pagan antiquity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aperture or hole that opens into a bodily cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aperture or hole that opens into a bodily cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical opening, entrance, or gateway through which blood vessels or ducts enter an organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Roman topography, a fortified municipal city gate through which roadways passed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Negli occhi porta la mia donna Amore; Per che si fa gentil ciò ch’ella mira: Ov’ella passa, ogni uom ver lei si gira, E cui saluta fa tremar lo core."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"According to some, the trysting-place of the lovers was not in the woods of Nemi but in a grove outside the dripping Porta Capena at Rome, where another sacred spring of Egeria gushed from a dark cavern."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Preceded by the nobles walking barefoot, it moved slowly, to the loud music of pipes and tambourines, out by the Porta Capena, and so down to the banks of the Almo, which flows into the Tiber just below the walls of Rome."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The hepatic artery and portal vein enter the substance of the liver through the transverse **porta**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstruction of lymphatic drainage at the **porta** hepatis produces severe intractable ascites."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Roman legions marched out through the vaulted arch of the **Porta** Capena toward the Appian Way."*

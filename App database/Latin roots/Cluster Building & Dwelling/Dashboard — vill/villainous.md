@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely wicked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely wicked.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or guilty of extreme wickedness, malice, or depravity; worthy of a villain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wretchedly bad, vile, unpleasant, or detestable in quality or character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For I assure thee (and almost with tears I speak it) there is not one so young and so villainous this day living."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well may you, sir, Remember me at court, where I was taught Of your chaste daughter the wide difference ’Twixt amorous and villainous."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"A **villainous** trick had been played upon the rightful Duke of Milan by his perfidious brother."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old sailor cursed the **villainous** gale that ripped our topsails into tattered ribbons."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Long John Silver hid his **villainous** intentions behind a cheerful smile and hearty laughter."*

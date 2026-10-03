@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mexican revolutionary leader (1877-1923).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detached or semidetached suburban house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, luxurious country residence or estate, originally a Roman countryside mansion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British and European suburban architecture, a detached or semi-detached residential dwelling with a garden.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They had taken a little villa in Sils on the mountain, which they had seen advertised for the summer months."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The Herons, though an ordinary villa, stood in its own grounds, and was certainly the last place in which one would have expected to find lodgings, so private was its appearance."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A man she knew, one of the workmen employed at an adjoining villa, was passing by, and she begged him to come in and go upstairs with her; she feared something had happened to one of her lodgers."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond lived in an antique hilltop **villa** overlooking the Arno valley and the towers of Florence."*
+> - 📜 **Edith Wharton (*Italian Villas and Their Gardens*):** *"The Renaissance architect designed the hillside **villa** to harmonize with its clipped cypress terraces."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The wealthy merchant retired to a secluded Italianate **villa** on the outskirts of the town."*

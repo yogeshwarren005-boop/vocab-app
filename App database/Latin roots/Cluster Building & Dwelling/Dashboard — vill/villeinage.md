@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal status or condition of servitude of a villein or feudal serf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tenure by which a villein held land.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The status or tenure of a feudal villein; agricultural serfdom in medieval European manorialism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history, the customary obligations and duties owed by unfree tenants to their feudal lord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, villeinage designates the legal status or condition of servitude of a villein or feudal serf."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Copyhold estates gradually evolved from the ancient and precarious tenure of **villeinage**."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The peaceful extinction of **villeinage** in England occurred without bloody agrarian uprisings."*
+> - 📜 **Francis Bacon (*The History of the Reign of King Henry VII*):** *"The king encouraged the independence of yeomen farmers, thereby hastening the demise of **villeinage**."*

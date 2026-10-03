@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being justified or explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being justified or explained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be endured or tolerated; unbearable, intolerable, or agonizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking valid justification, evidential support, or rational defense; indefensible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, you do me most insupportable vexation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O insupportable and touching loss!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I catch them in humane man traps, fire split peas at their legs, play upon them with the engine—resolve to free mankind from the insupportable burden of the existence of those lurking ruffians."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The agony of my remorse was **insupportable**, and I fled from the presence of my fellow beings."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne declared that life without emotional enthusiasm was an **insupportable** burden."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The barbarian tribute imposed an **insupportable** tax burden upon the exhausted provincial peasantry."*

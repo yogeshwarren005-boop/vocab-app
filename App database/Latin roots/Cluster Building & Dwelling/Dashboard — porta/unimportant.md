@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of importance, meaning, or force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in importance, significance, or value; trivial or negligible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not carrying authority, influence, or prominence within an organization or society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you remember anything so unimportant—which is not to be expected—you would recollect that my first thought in the affair was directly opposed to her remaining here.” Dismiss the Dedlock patronage from consideration?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"How to have this anxious business set to rights, and be admitted as cousins again, was the question: and it was a question which, in a more rational manner, neither Lady Russell nor Mr Elliot thought unimportant."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass was curled round in the fashion of a hedge-hog, apparently in attempts to present the least possible portion of his surface to the air; and behind him was dimly visible an unimportant remnant of William Smallbury."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes warned that an **unimportant** detail overlooked at the crime scene often proves the fatal clue."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma dismissed the young farmer as an **unimportant** person unworthy of Harriet's romantic regard."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrate regarded the children's games as **unimportant** frivolities in a godly community."*

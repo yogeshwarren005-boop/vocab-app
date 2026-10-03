@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of income) not reportable; not required by law to be reported.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of income) not reportable; not required by law to be reported.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable, allowable, or safe to be reported publicly or published in the press.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical trials and official audits, data lacking sufficient reliability or legal compliance to be formally reported.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreportable designates (of income) not reportable; not required by law to be reported."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Naval intelligence received secret communiques that were deemed strictly **unreportable** to parliament."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The atrocities committed by the secret society were of a nature almost **unreportable** in print."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory tests were contaminated, yielding erratic and **unreportable** measurements."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive in appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressive in appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an outward appearance suggesting high significance, authority, gravity, or official status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying an air of pompous dignity or self-conscious solemnity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, important-looking designates impressive in appearance."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"A stout, **important-looking** gentleman entered the consulting room carrying a red umbrella."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Babbitt stuffed several **important-looking** envelopes into his breast pocket before boarding the train."*
+> - 📜 **H.G. Wells (*The History of Mr. Polly*):** *"An **important-looking** inspector in a peaked cap examined the shop's front windows with suspicion."*

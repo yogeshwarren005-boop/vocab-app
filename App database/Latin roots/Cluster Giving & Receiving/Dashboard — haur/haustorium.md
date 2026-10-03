@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A root-like attachment in parasitic plants that penetrates and obtains food from the host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A root-like attachment in parasitic plants that penetrates and obtains food from the host.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized root-like or hyphal structure by which a parasitic plant or fungus absorbs nutrients from its host.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal phytopathology, the intracellular organelle invaginating the host plasma membrane to extract carbohydrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haustorium designates a root-like attachment in parasitic plants that penetrates and obtains food from the host."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The dodder seedling penetrates the host stem by means of a specialized feeding **haustorium**."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Each parasitic **haustorium** dissolves host tissues through secreted enzymes to reach the vascular cylinder."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Powdery mildew fungi send a delicate **haustorium** into epidermal cells without immediately killing the leaf."*

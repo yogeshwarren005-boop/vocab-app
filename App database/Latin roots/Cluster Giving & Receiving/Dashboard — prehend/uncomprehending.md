@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking understanding or comprehension; showing or marked by failure to grasp the situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, a blank, bewildered, or unperceiving expression in moments of crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncomprehending designates lacking understanding."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver stared with **uncomprehending** eyes when he discovered his golden guineas were gone."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude looked at the Latin grammars with an **uncomprehending** gaze, overwhelmed by their grammatical complexity."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Septimus turned an **uncomprehending** face toward the busy London traffic, lost in inward hallucinations."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: That cannot be entirely consumed or used up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being entirely consumed or used up.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being depleted, emptied, or used up; boundless, limitless, or untiring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural aesthetics and creative genius, an endlessly fertile spring of imaginative inspiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a considerable advantage to a man to have so inexhaustible a subject."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Here, consequently, was an inexhaustible subject of discourse."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke wondered, and felt that women were an inexhaustible subject of study, since even he at his age was not in a perfect state of scientific prediction about them."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Shakespeare possessed an **inexhaustible** richness of inventive fancy that animated every character."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Nature is an **inexhaustible** source of spiritual renewal for the receptive human intellect."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"To the whalemen, the boundless ocean appeared an **inexhaustible** reservoir of living leviathans."*

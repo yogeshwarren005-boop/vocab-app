@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear out completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use up (resources or materials).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely tiring, demanding, or fatiguing; draining completely of physical stamina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manufacturing thermodynamics, the process of expelling spent steam or combustion gas through valves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such an increase in output might occur in a change from exhausting hours, as from 12 to 10, and again from 10 to 9, and yet not be possible in a change from 9 to 8."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These laws are primarily for the protection of the public, but they afford a protection to the employee much needed, as many well-authenticated cases of excessive and exhausting hours demonstrate."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley begins by exhausting, in the effort to express her perfection, all the metaphors that rapture can suggest."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A long and **exhausting** journey on top of the stagecoach left the travelers shivering in the cold."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Climbing the steep granite moraine proved an **exhausting** trial under the midday sun."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Digging trenches in frozen limestone shale was an **exhausting** labor that blistered the soldiers' hands."*

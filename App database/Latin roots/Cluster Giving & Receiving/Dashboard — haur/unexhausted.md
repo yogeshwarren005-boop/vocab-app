@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not used up completely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not used up completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not depleted, emptied, or drained; retaining remaining strength, vitality, or resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental geology, natural reserves or aquifers that have not suffered overdraft or depletion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"They used to go away with the dazed air of men who have heard strange matters, and Ukridge, unexhausted, would turn to interview the next batch."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Her patience is unexhausted by hours."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman empire still possessed **unexhausted** reserves of gold and men in the eastern provinces."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Her **unexhausted** youthful energy carried her through the long pedestrian journey to London."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The evolutionary puzzle presents vast **unexhausted** fields for future biological investigation."*

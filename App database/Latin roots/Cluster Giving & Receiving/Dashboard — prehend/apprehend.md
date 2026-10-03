@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get the meaning of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take into custody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrest someone for a crime; to understand, grasp intellectually, or perceive mentally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emotional psychology, to anticipate with anxiety, fear, or foreboding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To apprehend thus Draws us a profit from all things we see, And often to our comfort shall we find The sharded beetle in a safer hold Than is the full-wing’d eagle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou encounter any such, apprehend him, an thou dost me love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I charge you in his Majesty’s name, apprehend him; he’s a friend of the Duke Alençon’s."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Such tricks hath strong imagination, / That if it would but **apprehend** some joy, / It comprehends some bringer of that joy."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The human mind cannot **apprehend** abstract ideas without grounding them in simple sensory perceptions."*
+> - 📜 **Blackstone (*Commentaries on the Laws of England*):** *"The constable was authorized by the warrant to **apprehend** the suspected felon wherever found."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being used up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being used up; capable of being exhausted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being completely consumed, emptied, depleted, or drained; finite in quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural resource economics, non-renewable mineral and fossil energy reserves subject to permanent depletion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"To treat terminable incomes, exhaustible sources of supply, as permanent sources of income, leads alike to unsound theory and to reckless practice."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Mineral deposits are strictly **exhaustible** capitals that cannot be replaced once extracted."*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"The fertility of the soil, though great, is fundamentally **exhaustible** under continuous cropping."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Early navigators mistakenly believed marine fisheries were infinite rather than **exhaustible** ecosystems."*

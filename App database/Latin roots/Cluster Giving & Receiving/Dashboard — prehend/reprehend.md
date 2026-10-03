@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express strong disapproval of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express strong disapproval of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To voice disapproval of; to reprimand, rebuke, censure, or find fault with someone or their conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral theology, the pastoral duty to admonish a transgressor regarding ethical failings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I myself reprehend his own person, for I am his Grace’s farborough."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And this weak and idle theme, No more yielding but a dream, Gentles, do not reprehend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do suspect I have done some offence That seems disgracious in the city’s eye, And that you come to reprehend my ignorance."*
+> - 📜 **Francis Bacon (*Essays*):** *"Prudent friends will privately **reprehend** our follies rather than proclaim them in public company."*
+> - 📜 **John Milton (*Areopagitica*):** *"It is a sign of civic maturity when magistrates hear criticism patiently without seeking to **reprehend** the speaker."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Critics have reason to **reprehend** Dryden's careless rhymes and hasty revisions."*

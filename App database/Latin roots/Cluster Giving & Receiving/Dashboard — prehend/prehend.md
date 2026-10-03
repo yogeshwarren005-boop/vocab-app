@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take hold of; grab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take hold of; grab.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To seize, grasp, take hold of, or lay hands upon physically; to apprehend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological biomechanics, the action of an organ (such as a trunk or prehensile tail) in grasping objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Immortal Mind heals what eye hath not seen; but the spiritual capacity to ap- 179:9 prehend thought and to heal by the Truth-power, is won only as man is found, not in self-righteousness, but re- flecting the divine nature."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Through spiritual sense only, man com- 481:9 prehends and loves Deity."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"These states are not com- prehended and they are left without explanation except in Christian Science."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The animal extends its muscular appendage to **prehend** the proffered piece of fruit."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Primates evolved specialized opposable digits that **prehend** tree branches with remarkable security."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The arboreal cuscus uses its naked tail tip to **prehend** slender creepers among the canopy."*

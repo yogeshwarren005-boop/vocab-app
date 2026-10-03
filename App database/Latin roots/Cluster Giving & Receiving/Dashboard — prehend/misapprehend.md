@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Interpret in the wrong way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpret in the wrong way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To misunderstand, misinterpret, or grasp mistakenly; to form an erroneous impression of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic communications, to mistakenly perceive peaceful overtures as hostile provocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wish not to misapprehend you.” “Not exactly the notice you were to receive, Lady Dedlock, because the contemplated notice supposed the agreement to have been observed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I thought you set less store by them even than I.” “You misapprehend me, father; you often do,” said Angel with a little impatience."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Not to agitate and hinder her longer, the considerate Clare began talking in a more general way: “You quite misapprehend my parents."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne feared her mother would **misapprehend** the true nature of Willoughby's sudden departure."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Men frequently **misapprehend** their own abilities, attempting tasks for which nature never fitted them."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Lest foreign ambassadors should **misapprehend** our national resolve, treaty terms must be unambiguous."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fully understood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fully understood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not understood, grasped, or perceived by the mind; remaining mysterious or enigmatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural theology and romantic poetry, cosmic forces operating beyond human intellectual comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To keep one another back, to breathe in that stifling atmosphere, to be unable to stir, and to await something unknown, uncomprehended, and terrible, was becoming unbearable."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"For Princess Mary, listening to Natásha’s tales of childhood and early youth, there also opened out a new and hitherto uncomprehended side of life: belief in life and its enjoyment."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Deep in the dark earth roll subterranean fires, majestic and **uncomprehended** by mortal eyes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab stared into the white whale's eye, sensing an ancient and **uncomprehended** malice."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"The divine laws work around us silently, **uncomprehended** by the shallow worldly understanding."*

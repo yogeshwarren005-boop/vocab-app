@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an exhaustive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an exhaustive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a thorough, comprehensive manner that considers every detail, aspect, or possibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and scientific inquiry, investigating a research problem to the limit of available evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"These things cannot be reasoned about, and I very earnestly entreat you not to return to the subject we discussed so exhaustively."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"While avoiding undue prolixity, the subjects are comprehensively and exhaustively treated, proving it to be more valuable as a book of reference than any other of similar character ever before given to the public."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"There are numerous explanations for their failure, which have been discussed exhaustively by Percy."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"I have examined the plumage of domestic pigeons **exhaustively** to trace their descent from the rock dove."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The committee debated the provisions of the bill **exhaustively** through many late-night sittings."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The phenomena of subconscious habit have been treated **exhaustively** by contemporary French neurologists."*

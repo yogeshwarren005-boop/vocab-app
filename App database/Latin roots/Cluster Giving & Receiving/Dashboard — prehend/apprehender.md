@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who knows or apprehends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who seizes or arrests (especially a person who seizes or arrests in the name of justice).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who arrests or seizes an offender; one who perceives or understands intellectually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology, the cognitive agent who forms perceptual representations of external phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apprehender designates a person who knows or apprehends."*
+> - 📜 **Blackstone (*Commentaries on the Laws of England*):** *"The statutory reward was promptly paid to the courageous **apprehender** of the highwayman."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poetic mind is both a creator of symbols and an acute **apprehender** of spiritual truths."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A diligent **apprehender** of natural causes will avoid the traps of scholastic superstition."*

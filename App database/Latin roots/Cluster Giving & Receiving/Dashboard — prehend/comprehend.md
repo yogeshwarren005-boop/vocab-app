@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get the meaning of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To become aware of through the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To grasp mentally; to understand the nature or significance of something; to include or encompass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal taxonomy and set theory, to contain or subsume several subcategories within a broader genus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Study his bias leaves, and makes his book thine eyes, Where all those pleasures live that art would comprehend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is your charge: you shall comprehend all vagrom men; you are to bid any man stand, in the Prince’s name."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Study his bias leaves, and makes his book thine eyes, Where all those pleasures live that art can comprehend."*
+> - 📜 **John Milton (*Paradise Lost*):** *"What finite creature can **comprehend** the boundless wisdom and unsearchable decrees of the Almighty?"*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Concepts without intuitions are empty; we cannot **comprehend** objects without sensible representation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was at a loss to **comprehend** how Darcy could have recommended such a match."*

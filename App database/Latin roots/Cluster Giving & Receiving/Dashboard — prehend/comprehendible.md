@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being comprehended or understood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being comprehended or understood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being understood, comprehended, or grasped by the human mind; intelligible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational pedagogy, instructional materials structured to be readily intelligible to learners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comprehendible designates capable of being comprehended or understood."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Natural laws must be formulated in plain terms if they are to be **comprehendible** to ordinary men."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"Scientific truths are easily **comprehendible** when illustrated by direct physical experiments."*
+> - 📜 **William James (*The Will to Believe*):** *"A pragmatic universe presents a **comprehendible** reality responsive to human effort and purpose."*

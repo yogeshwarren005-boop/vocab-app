@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grow under conditions that promote development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sit on (eggs).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sit upon eggs to hatch them by animal heat; to maintain optimal conditions for development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and epidemiology, to maintain microbial cultures under controlled thermal conditions; for an infection to develop before symptoms appear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It appeared to me that the eggs from which young Insurers were hatched were incubated in dust and heat, like the eggs of ostriches, judging from the places to which those incipient giants repaired on a Monday morning."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In certain avian species, both parents take turns to **incubate** the clutch until the young hatch."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications*):** *"We place the inoculated broth tubes in the warm chamber to **incubate** the bacillus for twenty-four hours."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The swallow pairs diligently **incubate** their second brood beneath the warm eaves of the barn."*

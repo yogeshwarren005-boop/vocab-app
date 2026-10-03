@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of resembling a cube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of resembling a cube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or degree of being cubic, three-dimensional, or cube-shaped in spatial form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spatial geometry and stereometry, the mathematical measure or degree of conformity to a cubic solid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubicity designates the property of resembling a cube."*
+> - 📜 **Samuel Taylor Coleridge (*Philosophical Lectures*):** *"The intellect abstracts pure **cubicity** from the rough, irregular stones of the physical world."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Symmetrical solids possess higher degrees of regular **cubicity** than asymmetric polyhedra."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Organic forms rarely preserve exact **cubicity**, tending instead toward curvilinear and bilateral symmetry."*

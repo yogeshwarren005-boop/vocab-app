@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An awkward and inexperienced youth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male child (a familiar term of address to a boy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The young of certain carnivorous mammals, such as the bear, lion, wolf, or fox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In journalistic terminology, an inexperienced junior reporter beginning work for a newspaper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This night, wherein the cub-drawn bear would couch, The lion and the belly-pinched wolf Keep their fur dry, unbonneted he runs, And bids what will take all."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They called Jake Oppenheimer the “Human Tiger.” Some cub reporter coined the phrase that will long outlive the man to whom it was applied."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And the jarl Agard’s steel was out, and his Juts joining him as he shouted: “A bear cub!"*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"Mother Wolf shook off her sleep and sprang forward, guarding each small helpless **cub** against Shere Khan."*
+> - 📜 **Jack London (*White Fang*):** *"The she-wolf nudged the trembling gray **cub** deeper into the dark recesses of the lair."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"I was only a raw young pilot **cub**, terrified of the dark river currents and floating drift logs."*

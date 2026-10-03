@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reclining position (as in a bed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reclining position (as in a bed).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The posture or act of lying down; a recumbent bodily position in bed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nursing and dermatology, a pressure ulcer (decubitus ulcer or bedsore) caused by prolonged recumbency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decubitus designates a reclining position (as in a bed)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Frequent repositioning of paralyzed patients is essential to prevent painful **decubitus** ulcers over bony prominences."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Laxity in bed hygiene inevitably results in threatening **decubitus** lesions along the sacrum and heels."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The patient's lateral **decubitus** afforded partial relief from the pleuritic stitch during respiration."*

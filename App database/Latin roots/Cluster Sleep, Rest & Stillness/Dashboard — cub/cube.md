@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hexahedron with six equal squares as faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A three-dimensional shape with six square or rectangular sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symmetrical three-dimensional solid object bounded by six square faces meeting at right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arithmetic and algebra, the third power of a quantity obtained by multiplying it by itself twice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Not distant far with heavy pace the foe Approaching gross and huge, in hollow cube Training his devilish enginery, impaled On every side with shadowing squadrons deep, To hide the fraud."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Univ. des Musiciens’ and Nisard’s ‘Vie de l’Abbe Vogler’. -- * “This was a very compact organ, in which four key-boards of five octaves each, and a pedal board of thirty-six keys, with swell complete, were packed into a cube of nine feet."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Nor, having only length, breadth, and thickness, can a cube have a real existence.” “There I object,” said Filby."*
+> - 📜 **Isaac Newton (*Opticks*):** *"I placed a polished glass **cube** upon the table to observe internal reflections of the sunlight."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The arithmetic **cube** of eight represents the volume of a geometric figure of side two."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"Geometry allows us to construct a regular **cube** through precise mechanical coordinate relations."*

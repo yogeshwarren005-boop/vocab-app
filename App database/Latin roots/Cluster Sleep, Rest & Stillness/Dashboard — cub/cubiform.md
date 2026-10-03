@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a cube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a cube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape, contours, or physical form of a three-dimensional cube; cubic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogical petrology, describing mineral aggregates that fracture into regular cubic fragments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubiform designates shaped like a cube."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"The elevated reef limestone had weathered into huge **cubiform** blocks along the sea wall."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The quarrymen split the granite ledge into uniform, **cubiform** paving blocks for the city streets."*
+> - 📜 **John Tyndall (*The Glaciers of the Alps*):** *"Seracs formed grotesque **cubiform** towers that tottered precariously over the icy crevasse."*

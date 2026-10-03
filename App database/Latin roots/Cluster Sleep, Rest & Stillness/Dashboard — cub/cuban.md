@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of cuba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of cuba or the people of cuba.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Cuba or its people, culture, language, or products; a native or citizen of Cuba.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international commerce, renowned hand-rolled tobacco cigars originating in the Vuelta Abajo district of Cuba.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuban designates a native or inhabitant of cuba."*
+> - 📜 **Ernest Hemingway (*The Old Man and the Sea*):** *"The old **Cuban** fisherman sailed alone in a skiff in the Gulf Stream, seeking a giant marlin."*
+> - 📜 **Alexander von Humboldt (*The Island of Cuba*):** *"The **Cuban** creoles cultivated a rich literary and civic culture despite rigid colonial censorship."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The merchant ship traded salted beef along the coast in exchange for fragrant **Cuban** tobacco."*

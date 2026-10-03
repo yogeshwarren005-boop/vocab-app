@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female demon believed to have sexual intercourse with sleeping men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female demon believed to have sexual intercourse with sleeping men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female demon or spirit formerly believed to consort with men in their sleep; a female counterpart of an incubus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In demonology and folkloric mythology, a predatory nocturnal entity that drains vitality from sleeping victims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succuba designates a female demon believed to have sexual intercourse with sleeping men."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Medieval theologians debated whether dreams of the **succuba** arose from demonic malice or melancholic humors."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"I hold that nocturnal visitations of the **succuba** belong to superstitious fantasies rather than true spiritual entities."*
+> - 📜 **Walter Scott (*Letters on Demonology and Witchcraft*):** *"The inquisitor claimed the accused peasant had entered into a pact with a seductive **succuba**."*

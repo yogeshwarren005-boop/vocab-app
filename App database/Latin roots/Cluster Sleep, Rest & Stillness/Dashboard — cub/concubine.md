@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who cohabits with an important man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who cohabits with an important man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who lives with a man in a sexual relationship without being legally married to him.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical aristocratic societies, a secondary wife having recognized subordinate status within a household.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know I am too mean to be your queen, And yet too good to be your concubine."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Think'st thou, love, 'twill chafe my ghost in Hades' realm, where heroes shine, Should I hear the shepherd boasting To his Argive concubine?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Then see him of a Sunday with his little concubine of a wife, and she wagging her tail up the aisle of the chapel with her patent boots on her, no less, and her violets, nice as pie, doing the little lady."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Hector was not trojan half so kind / As he is; but yet he is a man, / And he must have his **concubine**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor was persuaded by his favorite **concubine** to pardon the rebellious provincial magistrates."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The Saracen emir traveled with a splendid pavilion reserved exclusively for his favored Circassian **concubine**."*

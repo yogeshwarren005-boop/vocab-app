@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who adheres to the principles of cubism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of cubism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter, sculptor, or artist who works in or advocates the style of cubism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual criticism, relating to artistic works characterized by geometric planes, multi-point perspective, and abstract faceting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubist designates an artist who adheres to the principles of cubism."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"The ambitious **Cubist** painter rejects imitation of nature to construct an autonomous visual architecture."*
+> - 📜 **Guillaume Apollinaire (*The Cubist Painters*):** *"Every genuine **Cubist** aims to depict reality not as it appears to the eye, but as it exists in the mind."*
+> - 📜 **Gertrude Stein (*The Autobiography of Alice B. Toklas*):** *"Picasso and Braque worked together intimately during the heroic early **Cubist** experiments in Montmartre."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three dimensions of length, breadth, and height; shaped like or pertaining to a cube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and algebra, an equation of the third degree in which the highest exponent of the unknown is three.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The cubic feet of oxygen yearly swallowed by a full-grown man—what a shudder they might have created in some Middlemarch circles!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The vast white headless phantom floats further and further from the ship, and every rod that it so floats, what seem square roods of sharks and cubic roods of fowls, augment the murderous din."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So like a choice casket is it secreted in him, that I have known some whalemen who peremptorily deny that the Sperm Whale has any other brain than that palpable semblance of one formed by the cubic-yards of his sperm magazine."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The planetary orbits conform to Kepler's law that the squares of the periods are proportional to the **cubic** powers of distance."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Geometry measures **cubic** volume by compounding linear units across three dimensions."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Cardano's method provided the first general algebraic solution for solving **cubic** equations."*

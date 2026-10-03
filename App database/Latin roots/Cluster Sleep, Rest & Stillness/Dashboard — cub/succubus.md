@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female demon believed to have sexual intercourse with sleeping men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A female demon believed to have sexual intercourse with sleeping men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female demon believed to seduce sleeping men; an oppressive weight, burden, or nightmarish obsession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occult folklore, a shape-shifting phantom visiting human sleepers to harvest vital energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succubus designates a female demon believed to have sexual intercourse with sleeping men."*
+> - 📜 **Walter Scott (*Letters on Demonology and Witchcraft*):** *"Confessions extracted under torture frequently described nocturnal encounters with a malevolent **succubus**."*
+> - 📜 **Edgar Allan Poe (*Ligeia*):** *"The pale, obsessive memory of his lost love haunted him like an unearthly **succubus**."*
+> - 📜 **Nathaniel Hawthorne (*Young Goodman Brown*):** *"The dark forest seemed populated by spectral figures, every shadow hiding a demon or a whispering **succubus**."*

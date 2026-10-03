@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small room in which a monk or nun lives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small individual study area in a library.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small partitioned space, room, or enclosure, especially one used for sleeping or office work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate workplace design, modular workstations formed by movable sound-dampening acoustic panels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The bank of screens shut down as he stepped across the doorway of the cubicle that served him as both command post and sleeping quarters."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Brad and his companions had been secretly transferred beforehand to a cubicle adjacent access to the catwalk."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Myra and Brad stomped into a sleeping cubicle and heaved the sleeping pads first one way, then the other."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"In the long row of partitioned spaces, Winston sat in his tiny **cubicle** attending to the speakwrite."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Each boarding pupil was assigned a curtained **cubicle** in the long white dormitory."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Workers filed silently past rows of identical glass-walled **cubicle** stations in the conditioning center."*

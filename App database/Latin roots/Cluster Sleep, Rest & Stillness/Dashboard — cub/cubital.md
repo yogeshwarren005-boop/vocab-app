@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the elbow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the elbow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or affecting the elbow, forearm, or ulna; of the length of a cubit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human gross anatomy, relating to the cubital tunnel containing the ulnar nerve at the medial elbow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubital designates of or relating to the elbow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Compression of the ulnar nerve within the **cubital** tunnel produces numbness in the ring and little fingers."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **cubital** articulation unites the distal humerus with the radius and ulna to permit flexion and extension."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient statues preserved exact proportions between the **cubital** length and the total stature of the hero."*

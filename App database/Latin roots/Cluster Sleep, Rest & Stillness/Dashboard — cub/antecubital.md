@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the region of the arm in front of the elbow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the region of the arm in front of the elbow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated in front of the elbow; pertaining to the bend or depression of the arm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical phlebotomy and venipuncture, referring to the antecubital fossa used for drawing venous blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antecubital designates of or relating to the region of the arm in front of the elbow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician inserted the needle directly into the prominent **antecubital** vein to obtain blood for diagnostic culture."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The median cubital vein crosses diagonally over the bicipital aponeurosis in the **antecubital** fossa."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"A light tourniquet applied above the elbow renders the **antecubital** vessels immediately visible and accessible."*

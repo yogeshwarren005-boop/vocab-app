@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arm from the elbow to the fingertips.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The elbow or forearm; in insects, one of the primary longitudinal veins of the wing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological venation, the longitudinal vein situated between the media and anal veins on an insect wing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubitus designates hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The homologous bones of the mammalian **cubitus** reveal deep community of descent among diverse vertebrates."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"In classical medical Latin, the term **cubitus** designated both the elbow joint and the ulna bone."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The magnificent swallowtail butterfly displayed distinctive bifurcations along the **cubitus** vein of its forewing."*

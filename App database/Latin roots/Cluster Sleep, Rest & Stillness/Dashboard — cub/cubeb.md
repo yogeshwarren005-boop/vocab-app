@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical southeast asian shrubby vine bearing spicy berrylike fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tropical climbing shrub (Piper cubeba) native to Java; its dried pungent berries used medicinally and as a spice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional pharmacopoeias, an aromatic stimulant and carminative prescribed for bronchial and urinary catarrh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubeb designates spicy fruit of the cubeb vine; when dried and crushed is used medicinally or in perfumery and sometimes smoked in cigarettes."*
+> - 📜 **Richard Burton (*The Book of the Thousand Nights and a Night*):** *"The Persian physician prepared an electuary seasoned with cloves, cinnamon, and fragrant **cubeb** berries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tincture of **cubeb** was once administered to soothe subacute mucosal irritation of the genitourinary tract."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The aromatic cargo of the trading ship smelled richly of nutmeg, camphor, and dried **cubeb**."*

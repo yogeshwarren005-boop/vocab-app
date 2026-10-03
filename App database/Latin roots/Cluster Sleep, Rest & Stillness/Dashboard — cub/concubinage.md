@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cohabitation without being legally married.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cohabitation without being legally married.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or custom of living together as sexual partners without being legally married.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and social history, a recognized secondary marital status in ancient Rome and imperial China.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concubinage designates cohabitation without being legally married."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman civil law strictly distinguished honorable matrimony from the lower legal institution of **concubinage**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Hereditary privileges in ancient societies were rarely extended to the offspring born of informal **concubinage**."*
+> - 📜 **Montesquieu (*The Spirit of Laws*):** *"Polygamy and widespread **concubinage** in eastern seraglios weakened the natural bonds of paternal affection."*

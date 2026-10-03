@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a cube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a cube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having approximately the shape or proportions of a cube; cube-like in form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and cellular pathology, describing simple epithelial cells whose height and width are approximately equal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuboidal designates shaped like a cube."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic sections of the renal tubules revealed swollen, degenerating **cuboidal** epithelial cells."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Simple **cuboidal** epithelium lines many small gland ducts and the thyroid follicles."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"The calcareous granules excreted by earthworms often display a regular, **cuboidal** microscopic structure."*

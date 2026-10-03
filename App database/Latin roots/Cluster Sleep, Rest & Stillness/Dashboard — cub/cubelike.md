@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a cube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a cube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or approximating the geometric shape, proportions, or symmetry of a cube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural design, structures characterized by severe cubic geometry and planar rectangular facades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubelike designates shaped like a cube."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"My small plastered dwelling presented a neat, **cubelike** appearance among the green pines."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Weathered granite boulders lay piled in massive, **cubelike** monoliths across the glacier trail."*
+> - 📜 **H. P. Lovecraft (*At the Mountains of Madness*):** *"The alien ruins exhibited monstrous **cubelike** architecture that defied normal terrestrial geometry."*

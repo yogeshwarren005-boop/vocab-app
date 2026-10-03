@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a cube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a cube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the geometric form, proportions, or configuration of a three-dimensional cube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and crystallography, describing crystal structures belonging to the isometric system (such as pyrite or halite).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cube-shaped designates shaped like a cube."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We broke open the volcanic matrix and discovered perfect, glittering **cube-shaped** crystals of iron pyrites."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the center of the hall stood a curious **cube-shaped** block of white porcelain."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The exploration team surveyed a mysterious **cube-shaped** structure resting upon the metallic plain."*

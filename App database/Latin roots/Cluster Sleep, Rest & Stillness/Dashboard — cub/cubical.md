@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a cube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a cube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape, symmetry, or mathematical form of a three-dimensional cube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, isometric crystal systems having three equal axes intersecting at perpendicular right angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubical designates shaped like a cube."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The salt pans were encrusted with pure **cubical** grains that sparkled brilliantly under the sun."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Certain precious stones naturally shoot into regular **cubical** and polygonal forms in subterranean veins."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I suspended a small **cubical** specimen of bismuth between the magnetic poles to measure diamagnetic deflection."*

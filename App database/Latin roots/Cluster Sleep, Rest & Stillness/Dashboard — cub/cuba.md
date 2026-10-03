@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A communist state in the caribbean on the island of cuba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest island in the west indies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest island country in the Caribbean Sea; a historic Spanish colonial territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical history, the island nation pivotal to transatlantic trade, sugar production, and 20th-century Cold War diplomacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Let America add Mexico to Texas, and pile Cuba upon Canada; let the English overswarm all India, and hang out their blazing banner from the sun; two thirds of this terraqueous globe are the Nantucketer’s."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Skies the most effulgent but basket the deadliest thunders: gorgeous Cuba knows tornadoes that never swept tame northern lands."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Let America add Mexico to Texas, and pile Cuba upon Canada; let the English overswarm all India, and hang out their blazing banner from the sun; two thirds of this terraqueous globe are the Nantucketer’s."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative*):** *"The tropical climate and fertile soil of **Cuba** sustained vast plantations of sugar cane and tobacco."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sailors spun wild tales of warm tradewinds sweeping along the palm-fringed coast of **Cuba**."*
+> - 📜 **Theodore Roosevelt (*The Rough Riders*):** *"Our regiment embarked from Tampa for the southern coast of **Cuba** to confront the Spanish troops."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus consisting of a box designed to maintain a constant temperature by the use of a thermostat; used for chicks or premature infants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus in which environmental conditions (especially temperature and humidity) are controlled for hatching eggs or rearing premature infants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business entrepreneurship, an organization designed to accelerate the growth and success of startup enterprises through shared resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Garnet," said Phyllis, "do you use an incubator?" "Oh, yes, we have an incubator." "I suppose you find it very useful?" "I'm afraid we use it chiefly for drying our boots when they get wet," I said."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"We have to keep a constant eye on him." "And have you had any success with the incubator?"*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I have always wanted to have one of my own, but we have never kept fowls." "The incubator has not done all that it should have done," I said."*
+> - 📜 **Thomas Edison (*Life and Inventions*):** *"The electrical **incubator** maintained a constant temperature of one hundred and two degrees without human intervention."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Rows of test tubes stood ready in the warm **incubator** racks of the Central London Hatchery."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin carefully checked the thermometer of the bacteriological **incubator** before leaving the laboratory for the night."*

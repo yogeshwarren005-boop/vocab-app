@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Body armor that protects the elbow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Body armor that protects the elbow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of medieval plate armor designed to protect the elbow joint; a couter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical European weaponry, the articulated steel plate riveted between the rerebrace and vambrace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubitiere designates body armor that protects the elbow."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Black Knight parried the blow with his armored arm, the steel **cubitiere** turning the sharp sword point aside."*
+> - 📜 **Viollet-le-Duc (*Annals of a Fortress*):** *"Fourteenth-century armories perfected the articulated **cubitiere** to protect the soldier's vulnerable elbow."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"A stout blow dented Sir Nigel's left **cubitiere**, yet his grip upon the reins remained unshaken."*

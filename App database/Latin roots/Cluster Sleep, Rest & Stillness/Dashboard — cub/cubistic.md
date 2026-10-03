@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of cubism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of cubism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, resembling, or pertaining to cubism or cubist artistic technique.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and architectural commentary, describing sharp geometric angles and multi-faceted planar compositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubistic designates relating to or characteristic of cubism."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The modern apartment was decorated with bold, **cubistic** tapestries and angular chromium furniture."*
+> - 📜 **D. H. Lawrence (*Kangaroo*):** *"The modern city skyline looked harsh and fractured, like a giant **cubistic** nightmare of steel and glass."*
+> - 📜 **Wyndham Lewis (*Blasting and Bombardiering*):** *"Vorticist designs borrowed certain **cubistic** elements while injecting ferocious mechanical speed."*

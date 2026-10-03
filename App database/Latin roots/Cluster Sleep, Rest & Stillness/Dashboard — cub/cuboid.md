@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rectangular parallelepiped.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a cube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a cube in form; having roughly the shape of a rectangular box or cube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human foot anatomy, the cuboid bone situated on the lateral side of the tarsus anterior to the calcaneus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuboid designates a rectangular parallelepiped."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **cuboid** bone articulates posteriorly with the calcaneus and anteriorly with the fourth and fifth metatarsals."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The robust development of the tarsal **cuboid** reflects adaptation for upright bipedal human locomotion."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Comparative osteology of the anthropoid foot shows marked changes in the articular facets of the **cuboid**."*

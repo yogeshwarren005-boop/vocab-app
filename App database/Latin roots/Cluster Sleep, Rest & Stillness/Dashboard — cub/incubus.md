@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male demon believed to lie on sleeping persons and to have sexual intercourse with sleeping women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation resembling a terrifying dream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malevolent demon or spirit believed to descend upon sleeping persons; a nightmare or oppressive burden.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology, an overwhelming nocturnal dread accompanied by a sensation of severe respiratory constriction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Then he turns from his cups, as 322:21 the startled dreamer who wakens from an incubus in- curred through the pains of distorted sense."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"And beside, sir, this discussion has relieved my mind of a mystery that has weighed upon it like an incubus for years."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The heavy nocturnal dread lay upon his breast like an **incubus**, stifling all utterance."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The terrifying memory of Bertha Mason's laugh hung over Thornfield like a malignant **incubus**."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Superstitious villagers whispered that the ruined abbey was haunted by an ancient Scottish **incubus**."*

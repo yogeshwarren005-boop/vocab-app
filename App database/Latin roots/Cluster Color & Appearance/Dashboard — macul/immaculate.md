@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely neat and clean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from stain or blemish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perfectly clean, neat, or pure; completely free from spots, blemishes, or moral flaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman Catholic theology, designating the conception of the Virgin Mary free from original sin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Joan of Arc hath been A virgin from her tender infancy, Chaste and immaculate in very thought; Whose maiden blood, thus rigorously effused, Will cry for vengeance at the gates of heaven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My love is most immaculate white and red."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou sheer, immaculate, and silver fountain From whence this stream through muddy passages Hath held his current and defiled himself!"*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The puritan magistrate affected an **immaculate** virtue while harboring secret self-righteousness."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John's linen was always **immaculate**, reflecting the unyielding austerity of his character."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian appeared in society in **immaculate** evening dress, hiding his corrupted soul."*

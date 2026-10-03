@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin purpur within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of purpur in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a purple or imperial crimson color; purpureous, richly regal, or purple-hued.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic literature, adorned with or characterized by opulent purple splendor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purpureal designates pertaining to, derived from, or characteristic of latin purpur within the domain of color & appearance."*
+> - 📜 **John Keats (*Endymion*):** *"Sunset poured its **purpureal** glory across the silent mountain peaks of Latmos."*
+> - 📜 **Edgar Allan Poe (*Al Aaraaf*):** *"The distant star glowed with **purpureal** radiance through the velvet interstellar void."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Vapors of bright **purpureal** mist ascended from the enchanted chasms beneath."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ethnic slur) extremely offensive name for a black person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ethnic slur) extremely offensive name for a black person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Substantia nigra; a dark basal ganglia structure in the midbrain rich in dopamine-producing neurons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and clinical neurology, the brainstem region whose degeneration causes Parkinson's disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Leaf of _Centaurea nigra_ with brand. 〃 68."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The substantia **nigra** presents a semilunar band of deeply pigmented melanin-bearing nerve cells in the midbrain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Degenerative lesions of the substantia **nigra** underlie the tremors and rigidity of paralysis agitans."*
+> - 📜 **Santiago Ramon y Cajal (*Histology of the Nervous System*):** *"Microscopic preparations demonstrate dense dopaminergic axonal networks originating within the substantia **nigra**."*

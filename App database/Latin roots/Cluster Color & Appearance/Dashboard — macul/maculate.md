@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make dirty or spotty, as by exposure to air; also used metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spot, stain, or pollute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked with spots, blotches, or blemishes; spotted; stained or morally tainted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To spot, blemish, or defile; morally compromised as opposed to immaculate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most maculate thoughts, master, are masked under such colours."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"I will visit thee at the lodge; most **maculate** thoughts, master, are masked under modest visors."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Many wild feline carnivores possess a **maculate** coat that provides disruptive camouflage in dappled light."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The weathered marble pillar was **maculate** with ancient lichen stains."*

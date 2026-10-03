@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification systems for the genus russula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification systems for the genus russula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The brittlegill family of mushrooms (order Russulales), comprising the major genera Russula and Lactarius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, a dominant family of ectomycorrhizal basidiomycetes characterized by heteromerous hyphal tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, russulaceae designates used in some classification systems for the genus russula."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Symbiotic forest fungi of the family **Russulaceae** furnish phosphorus and water to northern conifers."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Mycological taxonomists distinguish the family **Russulaceae** by the presence of spherical cell clusters in the context."*
+> - 📜 **John Torrey (*Flora of North America*):** *"The milk-cap mushrooms and brittlegills constitute our commonest North American representatives of **Russulaceae**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin russ within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of russ in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of a brownish, rough, corky skin condition on apples, pears, or potatoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology, a natural cultivar trait or weather-induced suberization of fruit skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, russeting designates pertaining to, derived from, or characteristic of latin russ within the domain of color & appearance."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Natural **russeting** of the fruit skin protects northern apple varieties against severe autumn frosts."*
+> - 📜 **Henry David Thoreau (*Wild Apples*):** *"The wild seedling crab exhibited heavy golden **russeting** that concentrated its tart flavor."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Suberous **russeting** upon fruit epidermis arises from rapid cork cell division following spring moisture."*

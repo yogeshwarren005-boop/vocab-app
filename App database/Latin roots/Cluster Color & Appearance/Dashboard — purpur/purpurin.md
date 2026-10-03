@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin purpur within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of purpur in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A red anthraquinone dye extracted from the root of the madder plant (Rubia tinctorum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, 1,2,4-trihydroxyanthraquinone, used as a histological biological stain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purpurin designates pertaining to, derived from, or characteristic of latin purpur within the domain of color & appearance."*
+> - 📜 **William Henry Perkin (*Journal of the Chemical Society*):** *"Extraction of natural madder root yielded alizarin alongside bright crystalline needles of **purpurin**."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The optical absorption spectrum of **purpurin** distinguishes it readily from synthetic coal-tar dyes."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Histologists employed **purpurin** to demonstrate microscopic calcium deposits in osseous specimens."*

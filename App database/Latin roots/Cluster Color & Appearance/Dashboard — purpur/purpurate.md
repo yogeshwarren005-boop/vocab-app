@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Color purple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color purple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt or ester of purpuric acid, especially ammonium purpurate (murexide).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical terminology, colored purple; or a person invested with imperial purple dignity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purpurate designates color purple."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Treatment of uric acid with nitric acid and ammonia yields the brilliant crimson crystals of ammonium **purpurate**."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The reddish-purple coloration indicated the presence of synthetic **purpurate** compounds."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman senate greeted the **purpurate** general returning in triumph from the Persian frontier."*

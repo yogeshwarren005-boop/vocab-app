@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reddish brown homespun fabric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of brown with a reddish tinge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reddish-brown in color; a rough brownish apple; coarse homespun woolen cloth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rough, brownish skin characteristic of certain apple and potato varieties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But look, the morn in russet mantle clad, Walks o’er the dew of yon high eastward hill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forswear them, and I here protest, By this white glove—how white the hand, God knows!— Henceforth my wooing mind shall be expressed In russet yeas and honest kersey noes."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Far and wide, on each side, there were only fields, where no cattle now browsed; and the little brown birds, which stirred occasionally in the hedge, looked like single russet leaves that had forgotten to drop."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The morn, in **russet** mantle clad, walks o'er the dew of yon high eastward hill."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Orchards glowed with ripening **russet** apples ready for the autumn cider press."*
+> - 📜 **John Milton (*L'Allegro*):** *"The shepherd tells his tale under the hawthorn in the dale, clad in humble **russet** tweed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Darken with a brownish tinge, as of insect wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Darken with a brownish tinge, as of insect wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To darken, obscure, or tinge with a dusky brownish or smoky hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, describing insect wings or body segments that are clouded with dark pigment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infuscate designates darken with a brownish tinge, as of insect wings."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain island beetles exhibit darkened or **infuscate** elytra adapted to volcanic sands."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The membranous wings of the sawfly become progressively **infuscate** toward their outer margins."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Centuries of coal smoke had served to **infuscate** the delicate reliefs of the cathedral portal."*

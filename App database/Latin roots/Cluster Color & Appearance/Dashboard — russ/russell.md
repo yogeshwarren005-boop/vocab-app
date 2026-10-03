@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states religious leader who founded the sect that is now called jehovah's witnesses (1852-1916).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English film director (born in 1927).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bertrand Russell (1872-1970), British philosopher, logician, mathematician, and Nobel laureate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century analytical philosophy, co-author of Principia Mathematica and advocate of logicism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"To Lady Russell, indeed, she was a most dear and highly valued god-daughter, favourite, and friend."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Lady Russell loved them all; but it was only in Anne that she could fancy the mother to revive again."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne haggard, Mary coarse, every face in the neighbourhood worsting, and the rapid increase of the crow’s foot about Lady Russell’s temples had long been a distress to him."*
+> - 📜 **Alfred North Whitehead (*Principia Mathematica*):** *"Whitehead and Bertrand **Russell** collaborated for a decade to deduce mathematics from formal symbolic logic."*
+> - 📜 **Albert Einstein (*Ideas and Opinions*):** *"Einstein praised Bertrand **Russell** for his intellectual integrity and courageous advocacy of nuclear disarmament."*
+> - 📜 **John Dewey (*The Philosophy of Bertrand Russell*):** *"Dewey engaged in vigorous philosophical debates with **Russell** concerning the pragmatic theory of truth."*

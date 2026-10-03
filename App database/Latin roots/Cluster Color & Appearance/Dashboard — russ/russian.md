@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of russia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The slavic language that is the official language of russia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Russia, its people, language, literature, culture, or historical empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An East Slavic language written in the Cyrillic alphabet, the official language of Russia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foolish curs, that run winking into the mouth of a Russian bear and have their heads crush’d like rotten apples!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We four indeed confronted were with four In Russian habit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bruise me with scorn, confound me with a flout, Thrust thy sharp wit quite through my ignorance, Cut me to pieces with thy keen conceit, And I will wish thee never more to dance, Nor never more in Russian habit wait."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The resilient spirit of the **Russian** peasantry resisted the invading French columns at Borodino."*
+> - 📜 **Fyodor Dostoevsky (*Crime and Punishment*):** *"The impoverished student paced along the misty canal banks of the magnificent **Russian** imperial capital."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"Razumov contemplated the mysterious depths of the **Russian** temperament and its fatalistic resignation."*

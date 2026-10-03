@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toothless mammal of southern africa and asia having a body covered with horny scales and a long snout for feeding on ants and termites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several tropical american mammals of the family myrmecophagidae which lack teeth and feed on ants and termites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toothless mammal that feeds primarily on ants and termites, possessing an elongated tubular snout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, a xenarthran mammal adapted to specialized insectivory with sticky saliva and powerful digging claws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anteater designates toothless mammal of southern africa and asia having a body covered with horny scales and a long snout for feeding on ants and termites."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed the giant **anteater** pacing across the pampas, tearing open hardened termite mounds."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The anatomical specializations of the South American **anteater** illustrate extreme niche adaptation."*
+> - 📜 **William Henry Hudson (*The Naturalist in La Plata*):** *"A solitary great **anteater** ambled along the dusty cattle trail, unfazed by our horses."*

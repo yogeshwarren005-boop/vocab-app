@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin nigr within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of nigr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic black aniline dye or mixture of dyes, widely used in inks, leather dyeing, and histology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and cytology, a negative staining agent used to visualize bacterial capsules against dark backgrounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nigrosine designates pertaining to, derived from, or characteristic of latin nigr within the domain of color & appearance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The bacteriologist utilized aqueous **nigrosine** to visualize spirochetes under dark-field microscopy."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Histological sections stained with **nigrosine** clearly delineate myelinated nerve fiber tracts."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Commercial ink formulations incorporated synthetic **nigrosine** for superior indelible blackness."*

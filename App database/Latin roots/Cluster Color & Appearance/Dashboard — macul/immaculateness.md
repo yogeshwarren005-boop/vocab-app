@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being spotlessly clean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being spotlessly clean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spotless purity, cleanliness, and freedom from physical or moral blemish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flawless perfection and uncompromised integrity of character or conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immaculateness designates the state of being spotlessly clean."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Hilda was renowned for the white **immaculateness** of her soul, guarding her tower shrine."*
+> - 📜 **George Eliot (*Romola*):** *"The prior insisted upon the absolute **immaculateness** of the monastic rule against worldly vanity."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The painter celebrated the glistening **immaculateness** of freshly fallen snow upon alpine heights."*

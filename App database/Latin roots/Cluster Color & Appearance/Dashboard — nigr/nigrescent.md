@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin nigr within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of nigr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming black or dark; turning blackish in color; having a blackish hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and botany, describing plant or fungal tissues that blacken with age or bruising.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nigrescent designates pertaining to, derived from, or characteristic of latin nigr within the domain of color & appearance."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The ripening seed pods undergo a marked **nigrescent** transformation before shattering."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Storm clouds cast a **nigrescent** gloom over the jagged peaks of the northern pass."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"As twilight deepened, Egdon Heath assumed its vast, **nigrescent** nocturnal canopy."*

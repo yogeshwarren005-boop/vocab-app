@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin virid within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of virid in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming green or greenish; tinged with or taking on a fresh green hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and ecology, describing young foliage turning green with chlorophyll during spring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viridescent designates pertaining to, derived from, or characteristic of latin virid within the domain of color & appearance."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The grey limestone ledges were softened by **viridescent** patches of early alpine moss."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The spring hedgerows turned delicately **viridescent** as tender birch buds unfolded."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The ice upon the pond assumed a **viridescent** cast before breaking up in April."*

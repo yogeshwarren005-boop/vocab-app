@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin purpur within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of purpur in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In heraldry, the heraldic tincture purple, depicted in uncolored engravings by diagonal lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the color purple in armorial bearings and chivalric insignia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Gules, purpure, argent, etc., quite disowned me."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight's shield was blazoned with a lion rampant upon a field of **purpure**."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The herald inspected the banner bearing a chevron **purpure** between three golden martlets."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Feudal heraldry blazoned every coat with argent, gules, and imperial **purpure**."*

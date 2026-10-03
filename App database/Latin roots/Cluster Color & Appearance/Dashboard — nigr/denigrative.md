@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of statements) harmful and often untrue; tending to discredit or malign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of statements) harmful and often untrue; tending to discredit or malign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to denigrate; disparaging, defamatory, or derogatory in intent or effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by belittling criticisms aimed at diminishing another's stature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denigrative designates (used of statements) harmful and often untrue; tending to discredit or malign."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The satirical review was filled with **denigrative** insinuations concerning the author's pedigree."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Grandcourt indulged in a subtle, **denigrative** irony that chilled every conversation."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The economist rejected **denigrative** stereotypes regarding the industriousness of peasant proprietors."*

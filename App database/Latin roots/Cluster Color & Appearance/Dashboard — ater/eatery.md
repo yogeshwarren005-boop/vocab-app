@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building where people go to eat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building where people go to eat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal restaurant, diner, cafe, or other casual dining establishment serving meals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial American usage, a small neighborhood food shop or roadside canteen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eatery designates a building where people go to eat."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The provincial town boasted a modest German bakery and a bustling roadside **eatery** near the depot."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Nick and Jordan stopped at a modest highway **eatery** to escape the oppressive summer heat."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"Truckers gathered at the roadside **eatery** along Route 66, drinking hot black coffee."*

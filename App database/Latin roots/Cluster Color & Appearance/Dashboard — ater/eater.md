@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who consumes food for nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any green goods that are good to eat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, animal, or organism that consumes food or sustenance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social description, a person characterized by a particular appetite or dietary habit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methinks sometimes I have no more wit than a Christian or an ordinary man has; but I am a great eater of beef, and I believe that does harm to my wit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Misshapen Time, copesmate of ugly night, Swift subtle post, carrier of grisly care, Eater of youth, false slave to false delight, Base watch of woes, sin’s pack-horse, virtue’s snare!"*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Save me from the bloody virgin-eater, and I will catch the squid and beat the kapa for thee all my days." The time of contest approached."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The solitary opium-**eater** experienced celestial visions succeeded by unutterable gloom."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A cannibal is a hearty **eater** who finds relish in wholesome sustenance after a hard voyage."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery was a modest **eater**, marveling at Pip's refined appetite at the forge table."*

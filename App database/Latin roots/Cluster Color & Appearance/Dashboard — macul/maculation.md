@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small contrasting part of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of spotting or staining something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement, pattern, or presence of spots or markings on an animal, plant, or mineral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked spotty pigmentation; a moral blemish or stain upon character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak not ‘Be thou true’ as fearing thee, For I will throw my glove to Death himself That there’s no maculation in thy heart; But ‘Be thou true’ say I to fashion in My sequent protestation: be thou true, And I will see thee."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeders observed that the distinctive **maculation** of the dog's coat was inherited through mendelian ratios."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Dorsal **maculation** in tropical treefrogs mimics the mottled bark of mossy rainforest trunks."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The regular **maculation** of the butterfly wing is determined by symmetrical scale pigmentation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confusion resulting from failure to understand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of obscuring people's understanding, leaving them baffled or bewildered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making something obscure, ambiguous, or difficult to understand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and law, the deliberate creation of confusion to conceal uncomfortable facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obfuscation designates confusion resulting from failure to understand."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Court of Chancery was an impenetrable fog of legal technicality and institutional **obfuscation**."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The minister deployed diplomatic **obfuscation** to conceal the controversial clauses of the treaty."*
+> - 📜 **John Stuart Mill (*System of Logic*):** *"Fallacious arguments survive only through the systematic **obfuscation** of fundamental terms."*

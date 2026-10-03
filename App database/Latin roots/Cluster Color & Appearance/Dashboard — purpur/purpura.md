@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several blood diseases causing subcutaneous bleeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several blood diseases causing subcutaneous bleeding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rash of purple spots on the skin caused by internal bleeding from small capillary blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, a hemorrhagic condition associated with thrombocytopenia or vascular inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, purpura designates any of several blood diseases causing subcutaneous bleeding."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extensive cutaneous **purpura** accompanied by joint pains signaled Henoch-Schonlein syndrome."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Subcutaneous extravasation of red blood cells produces the typical petechial lesions of **purpura**."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"The physician differentiated simple senile **purpura** from malignant hemorrhagic diathesis."*

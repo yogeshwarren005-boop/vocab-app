@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin virid within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of virid in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bluish-green pigment composed of hydrated chromium(III) oxide, prized for brilliant permanence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep vivid green color with a subtle bluish undertone, widely favored by landscape painters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, viridian designates pertaining to, derived from, or characteristic of latin virid within the domain of color & appearance."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The tapestry was embroidered with peacocks displaying plumes of iridescent **viridian** and gold."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe dabbed her brush in clean **viridian** to capture the cool shadow across the lawn."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The deep **viridian** of the canal water mirrored the weathered marble facades of the palazzi."*

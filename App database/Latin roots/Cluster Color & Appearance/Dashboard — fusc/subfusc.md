@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of brightness or appeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of brightness or appeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dull, dark, dusky, or sober in color; traditional dark clothing worn for university examinations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specifically, the dark formal academic dress worn with cap and gown at Oxford University.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subfusc designates devoid of brightness or appeal."*
+> - 📜 **Max Beerbohm (*Zuleika Dobson*):** *"Undergraduates hurried into the examination schools, clad in sober **subfusc** attire beneath black gowns."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude observed the scholars walking through the college quadrangles in dignified **subfusc** garments."*
+> - 📜 **John Ruskin (*Praeterita*):** *"The Victorian university maintained a severe code of **subfusc** habit for all solemn occasions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin nigr within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of nigr in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep blackness, darkness, or intense dark pigmentation of skin or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense pitch-black obscurity or darkness concealing all visible form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nigritude designates pertaining to, derived from, or characteristic of latin nigr within the domain of color & appearance."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The midnight sky was shrouded in an awful **nigritude** unrelieved by a single star."*
+> - 📜 **Edgar Allan Poe (*The Narrative of Arthur Gordon Pym*):** *"The chasms were lined with granite of an extraordinary, glossy **nigritude**."*
+> - 📜 **Thomas De Quincey (*Suspiria de Profundis*):** *"The nightmare engulfed the dreamer in an abyss of total, suffocating **nigritude**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to communicate in russian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to communicate in russian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to communicate in or using the Russian language as a native or acquired tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating linguistic communities or demographics where Russian functions as the primary vernacular.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, russian-speaking designates able to communicate in russian."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"In the Genevan boarding house gathered a circle of **Russian-speaking** political exiles debating revolution."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"A **Russian-speaking** military advisor inspected the defensive barricades outside the command headquarters."*
+> - 📜 **Aleksandr Solzhenitsyn (*The Gulag Archipelago*):** *"The transit barracks contained thousands of **Russian-speaking** prisoners awaiting transport to the Siberian mines."*

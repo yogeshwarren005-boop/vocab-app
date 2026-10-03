@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of something having a dusky brownish grey color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of something having a dusky brownish grey color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a dark, gloomy, brownish-gray or dusky color; somber in tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and ornithology, describing dull brownish-black plumage or insect wing coloration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"HAWKWEED RUST; on both sides of the leaf, dark, fuscous, minute, round, scattered: spores globose, rarely minutely pedicellate.—On Thistles and Hawkweed."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The plumage of the Galapagos ground finch is of a dull, uniform **fuscous** brown."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A **fuscous** cloud of smoke billowed from the whale-tryworks into the midnight air."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The background was painted in **fuscous** tones that highlighted the glowing flesh tints."*

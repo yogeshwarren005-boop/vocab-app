@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family polyporaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family polyporaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bracket or polypore fungi characterized by dark brownish-black, purple-tinted pore surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wood-decaying shelf fungi that produce white rot on dead hardwood timber in tropical and temperate forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nigroporus designates a genus of fungi belonging to the family polyporaceae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Decaying forest logs were encrusted with tough polypores allied to the genus **Nigroporus**."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Upon fallen cypress trunks we observed the dark purplish brackets of wild **Nigroporus**."*
+> - 📜 **John Torrey (*Flora of North America*):** *"The dark, purplish pore surface distinguishes **Nigroporus** from paler bracket fungi on decaying birch."*

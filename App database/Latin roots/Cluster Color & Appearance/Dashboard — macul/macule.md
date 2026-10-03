@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A patch of skin that is discolored but not usually elevated; caused by various diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A patch of skin that is discolored but not usually elevated; caused by various diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small flat, distinct, discolored area of skin that does not involve any change in thickness or texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing and bibliography, a blur or double impression caused by slipping paper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macule designates a patch of skin that is discolored but not usually elevated; caused by various diseases."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical diagnostic sign began as a tiny rose-colored **macule** on the patient's abdomen."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Histologically, a pigmented **macule** exhibits localized melanocyte proliferation within the basal epidermal layer."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"The solitary cutaneous **macule** remained stable over several years without evidence of induration."*

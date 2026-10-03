@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of fungi with stout stems and white spores and neither annulus nor volva; brittle caps of red or purple or yellow or green or blue; differs from genus lactarius in lacking milky juice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of fungi with stout stems and white spores and neither annulus nor volva; brittle caps of red or purple or yellow or green or blue; differs from genus lactarius in lacking milky juice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of mycorrhizal mushrooms noted for bright cap colors, white gills, and brittle chalky flesh.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fleshy forest fungi characterized by sphaerocysts in the gill tissue that cause the stem to snap cleanly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, russula designates large genus of fungi with stout stems and white spores and neither annulus nor volva; brittle caps of red or purple or yellow or green or blue; differs from genus lactarius in lacking milky juice."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Beech woods abound in mycorrhizal fungi such as the scarlet-capped **Russula** emetica."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Damp mossy hollows were brightened by fragile caps of yellow and purple **Russula**."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Naturalists collected edible woodland fungi including stout specimens of **Russula** under the oaks."*

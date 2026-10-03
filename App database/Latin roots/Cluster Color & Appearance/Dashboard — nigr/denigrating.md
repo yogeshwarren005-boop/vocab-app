@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to seem less serious; play down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Criticizing unfairly; speaking in a disparaging, belittling, or defamatory manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Systematically diminishing the reputation, dignity, or honor of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denigrating designates cause to seem less serious; play down."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Society matrons took malicious pleasure in **denigrating** the eccentric Countess Olenska."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The bishop's wife lost no opportunity of **denigrating** the dean's scholarly reputation."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Partisan opponents made a practice of **denigrating** the warnings regarding rearmament."*

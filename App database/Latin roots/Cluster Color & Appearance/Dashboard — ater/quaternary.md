@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Last 2 million years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of three and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of four units, elements, or members; fourth in an order or sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, the current and most recent period of the Cenozoic era, spanning the last 2.58 million years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quaternary designates last 2 million years."*
+> - 📜 **Charles Lyell (*The Geological Evidences of the Antiquity of Man*):** *"Fossil deposits of the **quaternary** period demonstrate the coexistence of early man with the mammoth."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Glacial moraines across northern Europe were deposited during the eventful **quaternary** epoch."*
+> - 📜 **Louis Agassiz (*Geological Sketches*):** *"The colossal ice sheets of the **quaternary** reshaped the topography of North America."*

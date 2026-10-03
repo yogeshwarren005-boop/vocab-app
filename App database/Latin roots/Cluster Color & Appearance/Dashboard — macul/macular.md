@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin macul within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of macul in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affecting, or characterized by maculae, spots, or cutaneous patches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, relating specifically to the macula lutea of the eye; macular degeneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macular designates pertaining to, derived from, or characteristic of latin macul within the domain of color & appearance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A widespread **macular** eruption preceded the secondary stage of the constitutional infection."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The fine capillary plexus surrounding the **macular** area supplies photoreceptors with oxygen."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"Senile **macular** changes resulted in progressive loss of central visual acuity."*

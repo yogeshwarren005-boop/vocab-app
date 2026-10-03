@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or become black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or become black.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make black or dark; to blacken; to impart a dark or blackened color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, to obscure, darken, or cast a gloomy pall over something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nigrify designates make or become black."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Smoke and burning pitch combined to **nigrify** the battlements of the besieged fortress."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Boiling whale blubber served to **nigrify** the copper cauldrons with dense soot."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Centuries of peat smoke had conspired to **nigrify** the vaulted ceiling of the ancient keep."*

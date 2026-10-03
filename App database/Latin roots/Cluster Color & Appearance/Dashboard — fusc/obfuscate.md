@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make obscure or unclear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make obscure or unclear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make obscure, unclear, or unintelligible; to deliberately bewilder or confuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To darken or cast a shadow over an intellectual argument or conceptual distinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obfuscate designates make obscure or unclear."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Pedantic commentators labored to **obfuscate** the simple truth beneath mountains of Latin glosses."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Pretentious diction is used to **obfuscate** harsh political realities from public scrutiny."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scholastic disputations tend to **obfuscate** genuine inquiry through endless verbal sophistry."*

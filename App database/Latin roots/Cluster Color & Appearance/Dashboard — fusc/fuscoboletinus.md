@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family boletaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family boletaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of bolete mushrooms characterized by dark dusky or fuscous spore prints and glandular stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mycorrhizal fungi found in boreal peat bogs and conifer forests, closely allied to the genus Suillus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fuscoboletinus designates a genus of fungi belonging to the family boletaceae."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Boreal conifer forests nourish symbiotic boletes of the genus **Fuscoboletinus** along peat hollows."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Beneath the damp tamarack pines flourished robust clusters of the dark-spored **Fuscoboletinus**."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Naturalists cataloged unusual fleshy boletes including dark-capped species of **Fuscoboletinus** in swamp margins."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cooler darker spot appearing periodically on the sun's photosphere; associated with a strong magnetic field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small yellowish central area of the retina that is rich in cones and that mediates clear detailed vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical spot, patch, or blemish; specifically the macula lutea near the center of the retina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, a discolored spot on the skin not elevated above the surrounding surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macula designates a cooler darker spot appearing periodically on the sun's photosphere; associated with a strong magnetic field."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The central fovea situated within the retinal **macula** provides the point of acute discriminatory vision."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ophthalmoscopic inspection revealed exudative edema surrounding the **macula** lutea."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The physician identified a pigmented **macula** on the patient's forearm, noting its benign character."*

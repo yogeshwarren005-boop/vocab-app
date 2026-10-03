@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belittling comment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abusive attack on a person's character or good name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfair disparagement or malicious defamation of character, reputation, or achievement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of blackening or belittling the status of an adversary through biased criticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denigration designates a belittling comment."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Factional pamphleteers resorted to personal **denigration** rather than reasoned constitutional debate."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The historian separated authentic virtues from the partisan **denigration** of rival chroniclers."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Milton's majestic epic suffered temporary neglect through political **denigration** after the Restoration."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an immaculate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an immaculate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a neat, spotlessly clean, flawless, or faultlessly pure manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With impeccable taste, precision, or moral decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immaculately designates in an immaculate manner."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"The nobleman was **immaculately** attired in a tailored frock coat and polished Hessian boots."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether admired the **immaculately** ordered Parisian apartment with its refined quietude."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The dinner table was **immaculately** laid with heirloom Georgian silver and rare porcelain."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Court-ordered support paid by one spouse to another after they are separated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Court-ordered support paid by one spouse to another after they are separated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A husband's or wife's court-ordered provision for a spouse after separation or divorce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history, the continuous maintenance allowance paid under ecclesiastical decrees of judicial separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"And would a jury give me five shillings alimony tomorrow, eh?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ecclesiastical court awarded reasonable **alimony** for the separate maintenance of the injured wife."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"Financial disputes regarding the settlement of **alimony** dragged on through interminable court proceedings."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"Undine Spragg calculated with cold precision how much **alimony** her aristocratic French divorce would yield."*

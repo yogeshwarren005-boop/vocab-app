@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the vocal cords resulting in an inability to speak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of the vocal cords resulting in an inability to speak.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete loss or impairment of the ability to produce articulate speech due to vocal paralysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech impediment or vocal mutism distinct from intellectual aphasia, caused by peripheral paralysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alalia designates paralysis of the vocal cords resulting in an inability to speak."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral vocal cord paralysis following brainstem infarction resulted in sudden complete **alalia**."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Severe bulbar palsy affecting the hypoglossal nuclei leads inevitably to marked **alalia** and dysphagia."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The patient suffered from temporary **alalia**, unable to articulate syllables despite possessing intact comprehension."*

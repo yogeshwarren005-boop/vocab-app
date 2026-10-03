@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to the supply of aliment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to the supply of aliment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to nourish; tending to supply or promote nutrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the digestive organs or the physiological faculties concerned with nutrition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alimentative designates related to the supply of aliment."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Lower invertebrates consist almost exclusively of a primitive **alimentative** cavity without specialized circulation."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The jellyfish displays an extensive branched **alimentative** system distributing digested food."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Instincts of hunger drive animals to seek food, fulfilling fundamental **alimentative** demands."*

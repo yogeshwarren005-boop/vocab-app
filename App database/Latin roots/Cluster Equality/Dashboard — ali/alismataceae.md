@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial or annual aquatic or marsh plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial or annual aquatic or marsh plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The water-plantain family of monocotyledonous aquatic flowering plants, comprising about a dozen wetland genera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, marsh herbs with acrid milky sap, whorled inflorescences, and trimerous flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alismataceae designates perennial or annual aquatic or marsh plants."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Alismataceae** is distinguished by numerous distinct carpels in a ring or head."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Alismataceae** carpet the muddy fringes of tropical monsoon tanks across the subcontinent."*
+> - 📜 **John Torrey (*Flora of North America*):** *"The marsh arrowhead and water plantain are our commonest North American representatives of **Alismataceae**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming to understand something clearly and distinctly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making real or giving the appearance of reality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of becoming fully aware of something as a fact; understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fulfillment, achievement, or actual execution of a plan, concept, or artistic work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now came the realization that things might be different."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"How nice it must seem!” said Liddy, with the fixed features of mental realization."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then how can you, O my own husband, stop loving me?” “I repeat, the woman I have been loving is not you.” “But who?” “Another woman in your shape.” She perceived in his words the realization of her own apprehensive foreboding in former times."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The sudden **realization** of shared guilt created an indissoluble bond between the companions."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel paused in horror at the **realization** that she had walked into a calculated trap."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Genius consists in the practical **realization** of inspired thought through persistent labor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unrealistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unrealistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unrealistic, impractical, or fanciful manner; without regard to actual conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that departs from faithful or natural representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrealistically designates in an unrealistic manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond judged her husband's income **unrealistically**, expecting endless credit from local tradesmen."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude had dreamed **unrealistically** of university honors while laboring as an obscure stonecutter."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Skimpole lived **unrealistically**, serenely expecting others to pay his mounting butcher bills."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inalienable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inalienable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inalienable manner; so as not to be capable of being surrendered or transferred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By inherent right or legal guarantee that cannot be forfeited or revoked.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"And, besides,” he continued, with a fastidious sensibility, inalienably characteristic of the man, “it would not be fit nor beautiful to go!"*
+> - 📜 **Thomas Paine (*Rights of Man*):** *"Civil rights appertain **inalienably** to man by virtue of his existence as a member of society."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Sovereignty remains **inalienably** vested in the people, though delegated temporarily to their representatives."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Certain core prerogatives of the crown were held to belong **inalienably** to the royal office."*

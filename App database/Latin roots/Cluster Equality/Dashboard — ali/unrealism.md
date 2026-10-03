@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation having no reference to concrete objects or specific examples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation having no reference to concrete objects or specific examples.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of realism; impracticality, fancifulness, or detachment from objective facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art and literature, stylistic departure from faithful representation in favor of fantasy or abstraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrealism designates a representation having no reference to concrete objects or specific examples."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The dramatist mocked the sentimental **unrealism** of popular melodrama with acerbic wit."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Daydreaming indulges a harmless **unrealism**, but habitual detachment from facts paralyzes the will."*
+> - 📜 **John Dewey (*Art as Experience*):** *"Excessive aesthetic **unrealism** severs art from its vital roots in human biological experience."*

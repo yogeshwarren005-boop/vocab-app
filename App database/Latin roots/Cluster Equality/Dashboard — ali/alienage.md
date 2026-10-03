@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being alien.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being alien.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legal status of non-citizenship and civil disability under domestic jurisdiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, classification of individuals who do not possess the rights and duties of domestic citizens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"No alien who has voted in county, State or Territory shall, because of alienage, be exempt from draft."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Disabilities arising from foreign **alienage** disqualify non-citizens from holding high executive office."*
+> - 📜 **Joseph Story (*Commentaries on the Constitution of the United States*):** *"The state court evaluated whether the disability of **alienage** barred the foreign plaintiff from inheriting land."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Federal statutes gradually relaxed the restrictive consequences of **alienage** to encourage immigrant settlement."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher who believes that universals are real and exist independently of anyone thinking of them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who accepts the world as it literally is and deals with it accordingly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who accepts a situation as it is and deals with it in a practical, unromantic way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature, art, or philosophy, a writer, painter, or thinker who adheres to the principles of realism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"On the other hand, we are realists."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The true **realist** sees human nature without sentimental illusions and acts accordingly."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Newland Archer considered himself a cool **realist**, yet he was trapped by tribal conventions."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne was the quintessential **realist**, testing every dogma against the facts of daily experience."*

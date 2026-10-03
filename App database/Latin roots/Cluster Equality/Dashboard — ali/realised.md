@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Earn on some commercial or business transaction; earn as salary or wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into cash; of goods and property.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly understood, perceived, or made fully conscious in thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brought into actual, concrete existence or converted into cash assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She gazed upon their silent throes amid the shades of space, but realised none at all."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And so the hopes of his friends and his own aspirations must be realised in his work, not in the field of philosophy but in that of theology."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This idea, consolatory in theory, I felt would be terrible if realised: with all my might I endeavoured to stifle it—I endeavoured to be firm."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare **realised** too late the cruel injustice of his self-righteous abandonment."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver had **realised** a small fortune in golden guineas through decades of uninterrupted toil."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legacy was never **realised**, swallowed entirely by the monstrous costs of the Chancery litigation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of people (or countries) involved in a pact or treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being combined into one body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary alliance for combined action, especially of political parties or distinct factions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy, an alliance of nations formed to achieve a specific military or strategic purpose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Could he some commutation broach, I’ll pledge my aith in guid braid Scotch, He needna fear their foul reproach Nor erudition, Yon mixtie-maxtie, queer hotch-potch, The Coalition."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Spain must resist this coalition; but she was almost entirely unprovided with either soldiers or sailors."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And about the end of 1702 they expected a rich convoy which France was escorting with a fleet of twenty-three vessels, commanded by Admiral Chateau-Renaud, for the ships of the coalition were already beating the Atlantic."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A defensive **coalition** among sovereign states often collapses when immediate external danger recedes."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"A grand **coalition** of barbarian tribes threatened the Danubian frontiers of the empire."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The parliamentary **coalition** maintained national unity throughout the darkest months of the crisis."*

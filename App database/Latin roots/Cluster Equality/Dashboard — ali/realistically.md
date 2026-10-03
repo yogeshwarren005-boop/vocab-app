@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a realistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a realistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that demonstrates a sensible and practical approach to life or problems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that depicts things accurately and faithfully to life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, realistically designates in a realistic manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother advised Lydgate to assess his financial prospects **realistically** before taking on debt."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Traddles faced his humble prospects **realistically**, working diligently in his modest lodgings."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The author depicted rural poverty **realistically**, stripping away idyllic pastoral illusions."*

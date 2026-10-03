@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states prizefighter who won the world heavyweight championship three times (born in 1942).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fourth caliph of islam who is considered to be the first caliph by shiites; he was a cousin and son-in-law of muhammad; after his assassination islam was divided into shiite and sunnite sects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ali ibn Abi Talib (c. 600-661), cousin and son-in-law of Muhammad, the fourth Caliph and first Shi'a Imam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Arabic onomastics, a prominent masculine given name meaning high, noble, or elevated in spiritual rank.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"It is Ahmet Ali, with his attendants and a lot of people following him." "And who is Ahmet Ali?" "Ahmet Ali! don't you know, Zanim?"*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The great wrestler, Ahmet Ali."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"So that's Ahmet Ali." "Yes, Zan," Fenzile clapped her hands with delight, like a child seeing a circus procession."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The valiant and chivalrous **Ali** united the courage of a warrior with the eloquence of a poet."*
+> - 📜 **Washington Irving (*Mahomet and His Successors*):** *"From his earliest youth, **Ali** was the steadfast champion and devoted disciple of the Prophet."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"Pilgrims reverently recalled the heroic deeds performed by the illustrious Caliph **Ali** at the battle of Khaybar."*

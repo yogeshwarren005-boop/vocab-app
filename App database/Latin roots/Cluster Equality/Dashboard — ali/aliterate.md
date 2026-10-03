@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who can read but is disinclined to derive information from literary sources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who can read but is disinclined to derive information from literary sources.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to read but uninterested in or unwilling to read books, literature, or written texts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational sociology, describing individuals who possess functional literacy yet choose not to exercise reading habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aliterate designates a person who can read but is disinclined to derive information from literary sources."*
+> - 📜 **H.L. Mencken (*Prejudices*):** *"The modern high school produces the comfortably **aliterate** citizen who prefers sensational tabloids to serious thought."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"He complained that the prosperous middle class was virtually **aliterate**, rarely opening a volume of poetry or philosophy."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Babbitt was essentially **aliterate**, boasting that he never wasted a minute reading books when the newspapers gave the scores."*

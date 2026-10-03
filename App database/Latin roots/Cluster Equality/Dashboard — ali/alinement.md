@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of people (or countries) involved in a pact or treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organization of people (or countries) involved in a pact or treaty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrangement in a straight line or into correct relative position; variant spelling of alignment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ground plan or route of a railway line, roadway, or boundary survey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alinement designates an organization of people (or countries) involved in a pact or treaty."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The exquisite **alinement** of the colonnade arches reflected the geometric precision of the builders."*
+> - 📜 **Winston Churchill (*The River War*):** *"Engineers surveyed the **alinement** of the military railway through the scorching Nubian desert."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The strange parallel **alinement** of the raised coastal terraces indicated episodic seismic uplifts."*

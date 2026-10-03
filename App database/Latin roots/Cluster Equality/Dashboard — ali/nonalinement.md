@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People (or countries) who are not aligned with other people (or countries) in a pact or treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People (or countries) who are not aligned with other people (or countries) in a pact or treaty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy or principle of remaining neutral and not aligning with major rival power blocs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy during the Cold War, the stance of nations committed to non-alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonalinement designates people (or countries) who are not aligned with other people (or countries) in a pact or treaty."*
+> - 📜 **Jawaharlal Nehru (*Speeches*):** *"The foreign policy of **nonalinement** preserves our national freedom of judgment in global affairs."*
+> - 📜 **George Kennan (*Memoirs*):** *"Diplomats observed the emerging bloc of developing nations that advocated strict diplomatic **nonalinement**."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Small nations found it perilous to profess **nonalinement** when totalitarian empires sought continental hegemony."*

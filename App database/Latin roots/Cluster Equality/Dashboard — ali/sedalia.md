@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in east central missouri.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in east central missouri.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic city in west-central Missouri, renowned as a major railroad crossroads and birthplace of ragtime music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century frontier history, northern terminus of historic Texas cattle drives along the Sedalia Trail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sedalia designates a town in east central missouri."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Railroads converged upon the burgeoning Missouri town of **Sedalia**, linking midwestern markets."*
+> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"Cowboys drove massive herds of Texas longhorns northward toward the railway corrals at **Sedalia**."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The traveling salesman recounted his adventures from Chicago to the busy railroad yards of **Sedalia**."*

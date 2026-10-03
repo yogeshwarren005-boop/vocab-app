@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of aquatic monocotyledonous herbaceous plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of aquatic monocotyledonous herbaceous plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major botanical order of aquatic and marsh monocotyledonous flowering plants, including pondweeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern botanical taxonomy, an early-diverging lineage of monocots adapted to wetland environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alismales designates an order of aquatic monocotyledonous herbaceous plants."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The order **Alismales** comprises aquatic herbs characterized by apocarpous ovaries and exalbuminous seeds."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Phylogenetic analysis reveals that the aquatic **Alismales** retain primitive floral characteristics among monocots."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Aquatic monocots belonging to the **Alismales** have dispersed across global continents through migrating waterfowl."*

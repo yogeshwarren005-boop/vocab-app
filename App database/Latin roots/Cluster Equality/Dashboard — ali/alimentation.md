@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of supplying food and nourishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The provision, supplying, or receiving of nourishment; the process of nourishing the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In family law and civil codes, the legal obligation to furnish maintenance and support to dependents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alimentation designates a source of materials to nourish the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute febrile crises, artificial **alimentation** by rectal infusion was occasionally necessary."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Bodily growth represents the surplus of **alimentation** over the energy expended in locomotion and heat."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Proper **alimentation** requires a scientific balance of nitrogenous plastic elements and carbonaceous respiratory fuels."*

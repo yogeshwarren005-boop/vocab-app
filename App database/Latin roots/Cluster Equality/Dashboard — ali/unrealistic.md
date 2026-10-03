@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not realistic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not realistic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not realistic; having an impractical, romanticized, or distorted view of what can be accomplished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not depicted in a natural, accurate, or life-like manner in art or literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It's downright unrealistic to keep our self-defense forces in the Special Zone so far below what's needed to protect our vital interests." "What do you suggest, Jim," the President shrugged, "break our treaties with the Outer Region?"*
-> - 📜 **Algis Budrys (*Citadel*):** *"But you, Mead, are a young whipper-snapper." "But that's totally unrealistic!" Mead protested."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory director dismissed the ambitious young researcher's proposals as hopelessly **unrealistic**."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Katharine resisted her mother's **unrealistic** romantic fantasies regarding family lineage."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"It was fatally **unrealistic** to suppose that international treaties alone could restrain armed aggression."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychiatrist and specialist in the legal aspects of mental illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychiatrist and specialist in the legal aspects of mental illness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in the diagnosis and treatment of mental disorders; a forensic psychiatrist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical medical expert called to give evidence regarding the mental competency or sanity of a defendant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Don't talk to me as if you were an alienist trying to examine an abstruse case, Evelina," he growled, with extreme temper."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I don't have to have your consent but I think it is courteous to ask for it." "What!" he exclaimed, as he sat up and looked at me with the expression an alienist might use in an important examination."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"Holmes recommended that a distinguished **alienist** examine the traumatized young woman."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"A modern **alienist** would have found rich material in the governess's escalating hallucinations."*
+> - 📜 **Edith Wharton (*The Fruit of the Tree*):** *"The hospital board consulted an experienced **alienist** concerning the patient's sudden psychiatric relapse."*

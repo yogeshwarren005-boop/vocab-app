@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or providing nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or providing nourishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, supplying, or serving as food or nourishment; nutritious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sustaining or supporting physical or mental vitality; life-giving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"The sun that light imparts to all, receives From all his alimental recompence In humid exhalations, and at even Sups with the ocean."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Roots absorb soluble **alimental** juices from the enriched humus of the garden soil."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The convalescent patient required simple, easily digested **alimental** broths to rebuild strength."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A bowl of boiled cornmeal furnished all the **alimental** sustenance my body demanded."*

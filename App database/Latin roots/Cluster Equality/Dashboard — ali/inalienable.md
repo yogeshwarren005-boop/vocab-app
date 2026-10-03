@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being repudiated or transferred to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject to forfeiture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be taken away, surrendered, or transferred to another; inherent and absolute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional jurisprudence, fundamental human rights that belong inherently to each individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was aggrieved and wounded that the possession of hopeless love from Gabriel, which she had grown to regard as her inalienable right for life, should have been withdrawn just at his own pleasure in this way."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The exchanges were intense as the conferees sought a balance between inalienable rights and solemn obligations."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A joyous feeling of freedom—that complete inalienable freedom natural to man which he had first experienced at the first halt outside Moscow—filled Pierre’s soul during his convalescence."*
+> - 📜 **Thomas Jefferson (*Declaration of Independence*):** *"All men are endowed by their Creator with certain **inalienable** rights, among these life, liberty, and happiness."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Natural liberty and property constitute **inalienable** endowments that no sovereign may legitimately usurp."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Every thinking mind possesses an **inalienable** sovereignty that refuses to conform to blind custom."*

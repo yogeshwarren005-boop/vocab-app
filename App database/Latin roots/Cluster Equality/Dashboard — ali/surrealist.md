@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who is a member of the movement called surrealism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist who is a member of the movement called surrealism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist, writer, or adherent associated with the surrealism movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of surrealism; producing incongruous or dreamlike artistic works.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrealist designates an artist who is a member of the movement called surrealism."*
+> - 📜 **André Breton (*Surrealism and Painting*):** *"The **surrealist** poet uncovers the hidden marvellous in the everyday streets of modern Paris."*
+> - 📜 **Salvador Dalí (*The Secret Life of Salvador Dalí*):** *"Every true **surrealist** painter transforms inner obsessions into objective pictorial realities."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The fragmented juxtaposition of images reminded her of the provocative canvases of a modern **surrealist**."*

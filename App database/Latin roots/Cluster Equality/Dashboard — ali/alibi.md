@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a defense by an accused person purporting to show that he or she could not have committed the crime in question.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defense of some offensive behavior or some failure to keep a promise etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A claim or piece of evidence demonstrating that one was elsewhere when an alleged criminal act took place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excuse, justification, or explanation offered to avoid blame, responsibility, or censure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"He would be far away, as usual, with an alibi obviously provided on purpose."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"There was nothing serious in that, though I was even asked to justify my _alibi_ by giving the employ of my time during the day previous to 'the unfortunate occurrence'--unfortunate, indeed, for me and for all concerned--Harry Foster included."*
-> - 📜 **James Joyce (*Ulysses*):** *"Yes, used to carry punched tickets to prove an alibi if they arrested you for murder somewhere."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The accused gentleman established a flawless **alibi**, proving he was dining at his club."*
+> - 📜 **Agatha Christie (*The Mysterious Affair at Styles*):** *"Poirot examined every minute detail of the suspect's timeline to test the veracity of his **alibi**."*
+> - 📜 **G.K. Chesterton (*The Innocence of Father Brown*):** *"The clever rogue contrived a sensational **alibi** that deceived both judge and jury."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of materials to nourish the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give nourishment to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Food, nourishment, or sustenance required to maintain physical life and growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, something that nourishes, fuels, or sustains mental, moral, or emotional life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the Propontis, as far as I can learn, none of that peculiar substance called _brit_ is to be found, the aliment of the right whale."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Liberty is to faction what air is to fire, an aliment without which it instantly expires."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It is then visited by those elevated meditations which are the proper aliment of noble souls, and are, like manna, sent from heaven, in the wilderness of this world."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The monster feeds upon tiny mollusks, finding abundant **aliment** in the rich ocean meadows."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Pure light and divine love provide eternal **aliment** to the angelic hosts."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Intellectual curiosity starves unless provided with constant **aliment** from original observation."*

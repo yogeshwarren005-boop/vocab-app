@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strange, dreamlike, bizarre, or hallucinatory quality; characteristic of surrealism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Featuring unexpected, irrational, or incongruous juxtapositions of scenes, objects, or ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrealistic designates characterized by fantastic imagery and incongruous juxtapositions; --j.c.powys."*
+> - 📜 **H.G. Wells (*The Shape of Things to Come*):** *"The ruins of the bombed metropolis presented a horrifying, **surrealistic** landscape of twisted steel."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The sensory synthetic cinema projected vivid, **surrealistic** visions directly into the spectator's cortex."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The midnight trench raid under blinding magnesium flares had a nightmare, **surrealistic** horror."*

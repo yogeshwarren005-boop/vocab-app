@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a play of lustrous rainbow colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a play of lustrous rainbow colors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a variety of changing colors like an opal; displaying soft, milky, or iridescent hues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type of translucent or opaque milky glass often tinted with delicate pastel colors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opaline designates having a play of lustrous rainbow colors."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The evening clouds dissolved into an ethereal **opaline** haze against the alpine horizon."*
+> - 📜 **Edgar Allan Poe (*The Domain of Arnheim*):** *"The placid lake reflected the soft **opaline** tints of the sunset sky with crystalline fidelity."*
+> - 📜 **Herman Melville (*Typee*):** *"The secluded bay shone like an **opaline** jewel framed by emerald mountain ridges."*

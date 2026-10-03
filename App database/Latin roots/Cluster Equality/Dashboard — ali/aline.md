@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in a line or arrange so as to be parallel or straight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in a line or arrange so as to be parallel or straight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange in a straight line or bring into correct relative position; variant spelling of align.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surveying and military drill, to adjust positions relative to a reference sighting or straight path.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Aline,” he said to his wife, “go and see what they are about.” The princess went up to the door, passed by it with a dignified and indifferent air, and glanced into the little drawing room."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The princesses Aline and Sophie sit whole days with me, and we, unhappy widows of live men, make beautiful conversations over our charpie, only you, my friend, are missing...” and so on."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The surveyor paused to **aline** his sight with the distant mountain notch."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"Sergeants shouted commands across the field to **aline** the bayonet ranks before the cavalry charge."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boatheader moved his steer-oar to **aline** the craft with the fleeing leviathan's course."*

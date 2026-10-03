@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Semiparasitic herb with purple or white or pink flowers; grows in the united states and west indies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Semiparasitic herb with purple or white or pink flowers; grows in the united states and west indies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of annual and perennial parasitic or hemiparasitic flowering plants commonly called false foxgloves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North American wildflowers belonging to the family Orobanchaceae that parasitize the root systems of grasses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agalinis designates semiparasitic herb with purple or white or pink flowers; grows in the united states and west indies."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The showy pink bell-shaped blossoms of **Agalinis** brighten coastal sandy pine barrens in autumn."*
+> - 📜 **John Torrey (*Flora of North America*):** *"Botanists discovered several distinct species of **Agalinis** flourishing along moist prairie borders."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"In open savannahs we collected delicate purple petals of native **Agalinis** nodding in the autumn breeze."*

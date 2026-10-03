@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or providing nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or providing nourishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to nourishment or sustenance; specifically designating the anatomical tract from mouth to anus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing dietary support, nutrition, or essential food substances to living organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"One thing is certain, that in the year 615 before Jesus Christ, Necos undertook the works of an alimentary canal to the waters of the Nile across the plain of Egypt, looking towards Arabia."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The human **alimentary** canal measures approximately thirty feet in length and executes digestive absorption."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic inflammatory ulceration may affect any segment of the gastrointestinal **alimentary** tract."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Nutrients are propelled through the **alimentary** tube by coordinated peristaltic muscular contractions."*

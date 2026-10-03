@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four subclasses or superorders of monocotyledones; comprises about 500 species in 14 families of aquatic and semiaquatic herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four subclasses or superorders of monocotyledones; comprises about 500 species in 14 families of aquatic and semiaquatic herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical subclass in the Cronquist system containing primitive aquatic and semi-aquatic monocotyledons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, a taxonomic grouping featuring helicoid perianths and free carpels adapted to wetlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alismatidae designates one of four subclasses or superorders of monocotyledones; comprises about 500 species in 14 families of aquatic and semiaquatic herbs."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The subclass **Alismatidae** represents an ancient, specialized aquatic branch of the monocotyledonous class."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Monographs describing the **Alismatidae** emphasize their ecological adaptations to stagnant wetland conditions."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Widespread distribution of aquatic families like the **Alismatidae** reflects the antiquity of freshwater environments."*

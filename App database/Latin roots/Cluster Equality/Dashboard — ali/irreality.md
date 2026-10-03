@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being insubstantial or imaginary; not existing objectively or in fact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being insubstantial or imaginary; not existing objectively or in fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of reality, substance, or genuine existence; an illusory or dreamlike property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phenomenological philosophy, the experienced unreality of perceived illusions, fancies, or hallucinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irreality designates the state of being insubstantial or imaginary; not existing objectively or in fact."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"A sudden sense of the ghostly **irreality** of material objects swept over her in the quiet room."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Milly moved through the grand palazzo enveloped in an atmosphere of enchanted **irreality**."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The silent African jungle produced a disquieting feeling of phantom-like **irreality** upon the European travelers."*

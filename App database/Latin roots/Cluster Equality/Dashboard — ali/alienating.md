@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer property or ownership.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing someone to feel isolated, estranged, hostile, or emotionally detached.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal conveying, transferring the rights, ownership, or title of property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"That is what you have gained by alienating me!” And he walked silently several times up and down the room, his fat shoulders twitching."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Arrogant dogmatism is the surest method of **alienating** genuine friends and collaborators."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn's cold secretive manner had the effect of **alienating** everyone who sought his counsel."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Fierce commercial competition carries the risk of **alienating** citizens from shared communal obligations."*

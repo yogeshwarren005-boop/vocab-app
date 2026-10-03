@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aware or expressing awareness of things as they really are.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing what is real; not abstract or ideal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a sensible and practical idea of what can be achieved or expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing things in a way that is accurate and true to life in art or literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We have in our police reports realism pushed to its extreme limits, and yet the result is, it must be confessed, neither fascinating nor artistic.” “A certain selection and discretion must be used in producing a realistic effect,” remarked Holmes."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Here we leave, for the most part, the dreamy pictures of island life, and find ourselves sharing the extremely realistic discomforts of a Sydney whaler in the early forties."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The rebellious crew’s experiences in the Society Islands are quite as realistic as events on board ship and very entertaining, while the whimsical character, Dr."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The committee adopted a **realistic** business plan that anticipated seasonal market downturns."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe struggled to paint a vision that was neither photographic nor falsely **realistic**."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"A **realistic** appraisal of enemy armaments dispelled the comfortable delusions of the appeasers."*

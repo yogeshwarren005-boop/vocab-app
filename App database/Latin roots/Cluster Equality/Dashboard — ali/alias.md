@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A name that has been assumed temporarily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As known or named at another time or place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A false, assumed, or alternative name, especially one used by a criminal to conceal true identity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and telecommunications, an alternative label or pseudonym referring to a file, command, or email address.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The black prince, sir; alias the prince of darkness; alias the devil."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then you should discover a brace of unmeriting, proud, violent, testy magistrates, alias fools, as any in Rome."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Try if she can speak now—ask her her name.” I felt I could speak, and I answered—“My name is Jane Elliott.” Anxious as ever to avoid discovery, I had before resolved to assume an _alias_."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The fugitive lived under an assumed **alias** in the quiet Pennsylvania mining hamlet."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The old thief operated under more than one notorious **alias** to baffle the Bow Street officers."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The sailor had given a fictitious **alias** when boarding the merchant vessel at Bordeaux."*

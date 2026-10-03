@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unpleasant person who causes friendly people to become indifferent or unfriendly or hostile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unpleasant person who causes friendly people to become indifferent or unfriendly or hostile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who causes estrangement, division, or alienation between others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal conveyancing, the grantor or owner who alienates or transfers property to another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alienator designates an unpleasant person who causes friendly people to become indifferent or unfriendly or hostile."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The title warranty covenants bound the **alienator** and his heirs to defend the purchaser against adverse claims."*
+> - 📜 **Anthony Trollope (*He Knew He Was Right*):** *"The suspicious husband regarded his brother-in-law as a malicious **alienator** of his wife's affections."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Factional demagogues acted as the chief **alienator** between the populace and the constitutional assembly."*

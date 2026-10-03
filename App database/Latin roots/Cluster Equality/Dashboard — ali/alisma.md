@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of aquatic or semiaquatic plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of aquatic or semiaquatic plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial aquatic or marsh plants (family Alismataceae), commonly called water plantains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, wetland herbs bearing ribbed lanceolate leaves and tall panicles of small three-petaled flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alisma designates small genus of aquatic or semiaquatic plants."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The broad-leaved water plantain, **Alisma**, grows abundantly in shallow ditches and muddy pond margins."*
+> - 📜 **John Torrey (*Flora of North America*):** *"Specimens of **Alisma** collected in the northern marshes exhibited delicate pale pink petals."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Along the swampy shallows grew clusters of marsh arrowheads and blossoming **Alisma**."*

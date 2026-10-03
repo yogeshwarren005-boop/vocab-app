@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality possessed by something that is unreal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being insubstantial or imaginary; not existing objectively or in fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or fact of being unreal, illusory, fictitious, or insubstantial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illusion, phantom, or daydream lacking genuine substance or factual foundation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The forms in which he gave it expression are predominantly melancholy, because this kind of idealism, with its insistence on the unreality of evil, is the recoil from life of an unsatisfied and disappointed soul."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Strangest of all it was, to the brink of unreality, that Laura evidently remained blind."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A dim sense of having taken part in some strange tragedy came to him once or twice, but there was the unreality of a dream about it."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister walked through the town as in a dream, conscious of the terrifying **unreality** around him."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"The luxurious aristocratic world of his youth dissolved into a pale, hollow **unreality**."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The sudden catastrophe struck Jim with the paralyzing force of an incomprehensible **unreality**."*

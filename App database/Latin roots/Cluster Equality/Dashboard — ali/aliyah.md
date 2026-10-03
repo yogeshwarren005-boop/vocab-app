@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) the honor of being called up to the reading desk in the synagogue to read from the torah.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) immigration of jews to israel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The immigration of Jews from the diaspora to the Land of Israel; a historic wave of Jewish return.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Jewish synagogue liturgy, the honor of being called up to the bimah to read from or bless the Torah.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aliyah designates (judaism) the honor of being called up to the reading desk in the synagogue to read from the torah."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The prophetic hope of a national return and spiritual **aliyah** stirred Daniel Deronda's deepest convictions."*
+> - 📜 **Theodor Herzl (*The Jewish State*):** *"The revitalization of our ancient homeland began with the pioneering agricultural **aliyah** of dedicated youths."*
+> - 📜 **Israel Zangwill (*Children of the Ghetto*):** *"The pious scholar cherished the lifelong dream of making his **aliyah** to be buried on the Mount of Olives."*

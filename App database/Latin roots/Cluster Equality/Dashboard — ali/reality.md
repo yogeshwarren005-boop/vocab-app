@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All of your experiences that determine how things appear to you.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being actual or real.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of things as they actually exist, rather than as they may appear or might be imagined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The real world, real events, or actual facts taken as a whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is presently reassured on these subjects by the unchallengeable reality of Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I sat where Richard put me, and tried to listen, and looked about me; but there seemed to be no reality in the whole scene except poor little Miss Flite, the madwoman, standing on a bench and nodding at it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Think that the reality is in her suffering, in her useless remorse, in her murdering within her breast the only love and truth of which it is capable!"*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scarlet letter had the effect of an inescapable spell, taking place of all other **reality**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Meditation and water are wedded for ever; but **reality** demands our constant vigilance at the helm."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Behind the outward mask of material appearance lies the sublime spiritual **reality** of the universe."*

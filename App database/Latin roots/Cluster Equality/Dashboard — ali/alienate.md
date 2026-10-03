@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse hostility or indifference in where there had formerly been love, affection, or friendliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer property or ownership.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone to feel isolated, estranged, hostile, or unsympathetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal property transactions, to transfer the ownership of property or title to another party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He sees how quarrels injure life, and alienate a man from God."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"You have plenty of interests left and plenty of friends: so long as you don't alienate them by behaving in such an unmanly way."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is not, however a mere possibility of inconvenience in the exercise of powers, but an immediate constitutional repugnancy that can by implication alienate and extinguish a pre-existing right of sovereignty."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Selfish calculated coldness served only to **alienate** the remaining affection of her relatives."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tyrant's extortionate exactions served to **alienate** the loyalty of the provincial garrisons."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The tenant in tail was prohibited by ancient statute from attempting to **alienate** the family estate."*

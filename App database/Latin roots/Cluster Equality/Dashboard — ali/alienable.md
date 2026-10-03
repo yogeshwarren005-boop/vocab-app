@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transferable to another owner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transferable to another owner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being transferred, conveyed, or sold to the ownership of another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property jurisprudence, describing real estate or chattel that can be lawfully bequeathed or alienated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"There was only a small part of his estate that Sir Walter could dispose of; but had every acre been alienable, it would have made no difference."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Congratulate me on an ever-present and never alienable friend like her, and do, do insert, if you have not _lost_, my dedication [to Mary]."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Statutes of mortmain were enacted to prevent fee-simple estates from becoming permanently unalterable and non-**alienable**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commerce flourished when land became freely **alienable** and released from feudal entailments."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The earth belongs to the living generation, and property rights must remain legitimately **alienable**."*

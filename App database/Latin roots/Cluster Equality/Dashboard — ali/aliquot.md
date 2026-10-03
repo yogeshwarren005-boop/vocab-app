@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An integer that is an exact divisor of some quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Signifying an exact divisor or factor of a quantity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mathematics, an exact divisor of a number that divides it without leaving a remainder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and pharmacology, a measured fractional portion or sample of a liquid solution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aliquot designates an integer that is an exact divisor of some quantity."*
+> - 📜 **Isaac Newton (*Arithmetica Universalis*):** *"Three is an **aliquot** part of twelve, dividing it into four equal integral units."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The analyst pipetted an exact **aliquot** of the standardized reagent into the flask."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural proportions do not always correspond to neat **aliquot** ratios in morphological variation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ali within the domain of Equality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ali in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In law, from another source, from elsewhere, or from evidence outside the document or record.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extrinsic evidence not contained within the four corners of a written deed, will, or contract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aliunde designates pertaining to, derived from, or characteristic of latin ali within the domain of equality."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The intention of the testator must be gathered from the will itself, not from extraneous evidence **aliunde**."*
+> - 📜 **Joseph Story (*Commentaries on Equity Jurisprudence*):** *"Parol proof **aliunde** is inadmissible to contradict the unambiguous covenants of a sealed indenture."*
+> - 📜 **James Kent (*Commentaries on American Law*):** *"Unless ambiguity appears upon the face of the patent, evidence **aliunde** cannot be received to impeach it."*

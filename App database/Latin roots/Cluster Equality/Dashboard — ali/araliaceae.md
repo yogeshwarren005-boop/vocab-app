@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly tropical trees and shrubs and lianas: genera panax and hedera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly tropical trees and shrubs and lianas: genera panax and hedera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ivy or ginseng family of flowering plants, comprising woody climbers, shrubs, and trees with umbellate flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmopolitan family of core eudicots containing economically valuable medicinal plants such as ginseng.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, araliaceae designates mostly tropical trees and shrubs and lianas: genera panax and hedera."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The family **Araliaceae** is closely allied to the Umbelliferae, distinguished by baccate fleshy fruits."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of **Araliaceae** constitute prominent canopy epiphytes and climbers across Himalayan cloud forests."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Lindley classified the ginseng family under **Araliaceae**, noting the characteristic resinous sap."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Align anew or better.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Align anew or better.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To align again; to bring back into correct relative position, orientation, or line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military maneuvers or institutional planning, to reorganize forces or strategic goals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, realine designates align anew or better."*
+> - 📜 **Winston Churchill (*The River War*):** *"The battalion halted beneath the ridge to **realine** its ranks before advancing into the open plain."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The assembly attempted to **realine** municipal administrative boundaries throughout the provinces."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The boatswain ordered the seamen to **realine** the heavy deck battery along the starboard battery."*

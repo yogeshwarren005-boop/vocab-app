@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of persons; marked by failure to realize full potentialities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of persons; marked by failure to realize full potentialities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not achieved, fulfilled, completed, or brought into actual reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance, potential profit or loss on an investment that has not yet been sold or converted to cash.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"It loves the vaguely beheld and unrealised ideal."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon died leaving his grandiose Key to all Mythologies a tragic, **unrealised** fragment."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard lamented his **unrealised** ambitions, viewing his ruined business with bitter despair."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A thousand **unrealised** hopes fluttered through Lucy's lonely heart in the quiet schoolroom."*

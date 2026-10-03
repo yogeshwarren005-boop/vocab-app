@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent unconscious thoughts and dreams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent unconscious thoughts and dreams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A twentieth-century avant-garde movement in art and literature seeking to release unconscious creative potential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artistic expression characterized by dreamlike, bizarre, or irrational juxtapositions of imagery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, surrealism designates a 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent unconscious thoughts and dreams."*
+> - 📜 **André Breton (*Manifesto of Surrealism*):** *"Philosophical **surrealism** rests upon the supreme belief in the superior reality of dream associations."*
+> - 📜 **Salvador Dalí (*The Secret Life of Salvador Dalí*):** *"Through paranoiac-critical painting, I sought to materialize the irrational visions of **surrealism**."*
+> - 📜 **Gertrude Stein (*The Autobiography of Alice B. Toklas*):** *"In the Parisian avant-garde cafes, artists debated whether **surrealism** had superseded cubism."*

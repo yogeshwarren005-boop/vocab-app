@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute of accepting the facts of life and favoring practicality and literal truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being actual or real.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attitude or practice of accepting a situation as it is and dealing with it practically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the arts and literature, the accurate and unembellished representation of ordinary life and nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is the mixture of sheer realism with absurdity that makes the irony and gives it its force."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"But realism is required, and Shelley was constitutionally incapable of realism The personages of the story, Laon and the Hermit, the Tyrant and Cythna, are pale projections of Shelley himself; of Dr."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"We have in our police reports realism pushed to its extreme limits, and yet the result is, it must be confessed, neither fascinating nor artistic.” “A certain selection and discretion must be used in producing a realistic effect,” remarked Holmes."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The author defended artistic **realism**, painting Dutch-like pictures of rustic life without false glamour."*
+> - 📜 **William Dean Howells (*Criticism and Fiction*):** *"Literary **realism** is nothing more and nothing less than the truthful treatment of material."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The novel achieves greatness when psychological **realism** reveals the inner motives of human conduct."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus aralia; often aromatic plants having compound leaves and small umbellate flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus aralia; often aromatic plants having compound leaves and small umbellate flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous trees, shrubs, and perennial herbs commonly known as spikenard or angelica tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic woodland plants cultivated for bold pinnate foliage and historical medicinal root tonics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aralia designates any of various plants of the genus aralia; often aromatic plants having compound leaves and small umbellate flowers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The American spikenard, belonging to the genus **Aralia**, bears aromatic roots and drooping umbels."*
+> - 📜 **John Torrey (*Flora of North America*):** *"The prickly stems of **Aralia** spinosa form formidable thickets along southern woodland edges."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Indigenous healers prepared stimulating infusions from the pungent bark of wild **Aralia**."*

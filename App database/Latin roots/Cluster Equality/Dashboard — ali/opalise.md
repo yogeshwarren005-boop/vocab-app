@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make opalescent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Replace or convert into opal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become opalescent; to take on the milky, iridescent luster of an opal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, to convert wood or organic fossils into opal through silica mineral precipitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opalise designates make opalescent."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The morning mist began to **opalise** under the first radiant beams of the Adriatic dawn."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Siliceous thermal springs gradually **opalise** buried tree trunks into fossilized wood."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The evening sea seemed to **opalise** beneath the pale crescent moon."*

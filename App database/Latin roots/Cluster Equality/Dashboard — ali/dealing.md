@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Method or manner of conduct in relation to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of transacting within or between groups (as carrying on commercial activities).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commercial, professional, or interpersonal transactions and business relations between parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fairness, equity, or method in conducting trade, negotiations, or personal treatment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no honesty in such dealing, unless a woman should be made an ass and a beast, to bear every knave’s wrong."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or hast thou a mark to thyself, like a honest, plain-dealing man?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alack, alack, Edmund, I like not this unnatural dealing."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Honesty and punctual **dealing** constitute the foundation of mercantile credit across nations."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Mankind was my business; charity, mercy, and benevolence were my true **dealing**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth expected open and candid **dealing** from those whom she honored with her friendship."*

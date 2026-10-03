@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of being alienated from other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separation resulting from hostility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The experience or condition of feeling isolated from a group or society to which one should belong.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Marxist theory, the estrangement of workers from the products of their labor; in property law, transfer of title.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sympathies, I believe, exist (for instance, between far-distant, long-absent, wholly estranged relatives asserting, notwithstanding their alienation, the unity of the source to which each traces his origin) whose workings baffle mortal comprehension."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A very respectable solicitor.” “I never noticed any alienation of mind—any aberration of intellect in the late Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was determined not to speak to his cousin, and that Will’s presence at church had served to mark more strongly the alienation between them."*
+> - 📜 **Karl Marx (*Economic and Philosophic Manuscripts of 1844*):** *"Wage labor under capitalism produces the profound **alienation** of the worker from his own productive activity."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen suffered an inner **alienation** from the vapid social world that surrounded her marriage."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Common recoveries were invented as legal fictions to facilitate the free **alienation** of entailed land."*

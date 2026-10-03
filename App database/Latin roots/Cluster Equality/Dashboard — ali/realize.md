@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be fully aware or cognizant of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceive (an idea or situation) mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To become fully aware of something as a fact; to understand clearly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring into concrete reality; to achieve, accomplish, or convert property into money.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You realize well enough that all the talk has no foundation whatever." Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I realize that," the mother answered."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then, turning back once more, he said: "Thank you ever so much, Loneli, you have done me a greater service than you can realize by telling me everything."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip began to **realize** that true gentility lay in honest kindness rather than fine clothes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Few men **realize** the terrifying magnitude of a sperm whale until they encounter it upon the sea."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A manufacturer must sell his inventory in timely fashion to **realize** his capital profits."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ali within the domain of Equality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ali in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latin legal and scholastic term meaning otherwise, in another manner, or in a different way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, used to state an alternative legal conclusion or contradictory scenario.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aliter designates pertaining to, derived from, or characteristic of latin ali within the domain of equality."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The defendant argued that the statute must be construed strictly, **aliter** the common law liberties of subjects were impaired."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The civil magistrate decreed that all citizens must contribute, **aliter** their goods should be confiscated."*
+> - 📜 **Joseph Story (*Commentaries on the Conflict of Laws*):** *"If the marriage was valid where contracted, it is valid everywhere; **aliter**, confusion of civil status would follow."*

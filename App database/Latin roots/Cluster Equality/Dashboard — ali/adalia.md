@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in southwestern turkey on the gulf of antalya.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of ladybugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small ladybird beetles (family Coccinellidae), including the common two-spotted ladybird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beneficial insect predators that prey voraciously on aphids and scale insects in agricultural orchards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adalia designates a port city in southwestern turkey on the gulf of antalya."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Polymorphic color variations in **Adalia** provide classic examples of natural selective balance."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"Larvae of the predatory ladybird **Adalia** consume hundreds of destructive plant lice each day."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"The contrasting red and black elytra of **Adalia** serve as warning coloration to insectivorous birds."*

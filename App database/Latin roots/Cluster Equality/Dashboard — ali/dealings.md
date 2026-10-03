@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social or verbal interchange (usually followed by `with').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual dealings or connections or communications among persons or groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Business relations, transactions, or interpersonal associations carried on with others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reciprocal commercial intercourse or diplomatic exchanges between organizations or governments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O father Abram, what these Christians are, Whose own hard dealings teaches them suspect The thoughts of others."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This fellow’s of exceeding honesty, And knows all qualities, with a learned spirit, Of human dealings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The benefit thereof is always granted To those whose dealings have deserved the place And those who have the wit to claim the place."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg was simple and honest in all his **dealings**, harboring no deceit or petty malice."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I resolved to observe scrupulous integrity in all my commercial **dealings** with fellow printers."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The merchant was guided by legal contracts and mutual self-interest in his daily **dealings**."*

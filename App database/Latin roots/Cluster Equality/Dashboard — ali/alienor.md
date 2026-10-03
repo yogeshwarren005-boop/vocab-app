@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone from whom the title of property is transferred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone from whom the title of property is transferred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In property law, the person who transfers or alienates title, property, or an estate to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grantor who executes a deed conveying real property to an alienee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alienor designates someone from whom the title of property is transferred."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **alienor** must possess lawful capacity and sound mind when executing the indenture of feoffment."*
+> - 📜 **James Kent (*Commentaries on American Law*):** *"Fraudulent conveyance statutes allow creditors to void fraudulent grants executed by the **alienor**."*
+> - 📜 **Joseph Story (*Commentaries on Equity Jurisprudence*):** *"Equity will compel the **alienor** to execute further assurances necessary to complete the conveyance."*

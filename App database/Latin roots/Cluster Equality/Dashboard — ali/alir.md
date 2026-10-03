@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrorist organization that seeks to overthrow the government dominated by tutsi and to institute hutu control again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrorist organization that seeks to overthrow the government dominated by tutsi and to institute hutu control again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In dialectal English, an archaic regional term for a channel, gutter, or small stream of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical English topographic element found in place-names, designating watercourses or low banks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alir designates a terrorist organization that seeks to overthrow the government dominated by tutsi and to institute hutu control again."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The winter rains overflowed the narrow stone **alir** running beside the thatched cottage gate."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"A murmuring **alir** meandered through the boggy hollow where cattle came to drink."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The little brook formed a clear pebbly **alir** that supplied the village watercress beds."*

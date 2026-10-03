@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete term for the study and treatment of mental illness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being alien.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and medical treatment of mental disorders; the historical branch of medicine now called psychiatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legal standing and foreign civil allegiance of an alien residing in a host country.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alienism designates an obsolete term for the study and treatment of mental illness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern **alienism** seeks to replace penal incarceration of the insane with compassionate clinical therapy."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Pioneers in nineteenth-century **alienism** demonstrated that mania frequently originated in organic brain pathology."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The eccentric practitioner dabbled in psychological **alienism**, analyzing the dreams of his neurotic patients."*

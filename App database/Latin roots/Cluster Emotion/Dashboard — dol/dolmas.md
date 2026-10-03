@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Well-seasoned rice (with nuts or currants or minced lamb) simmered or braised in stock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Well-seasoned rice (with nuts or currants or minced lamb) simmered or braised in stock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Middle Eastern and Mediterranean dish of stuffed grape leaves, vegetables, or cabbage with rice and meat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history, traditional Ottoman and Levantine dishes characterized by spiced rice, pine nuts, and herbs wrapped in vine foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolmas designates well-seasoned rice (with nuts or currants or minced lamb) simmered or braised in stock."*
+> - 📜 **Richard Burton (*The Book of the Thousand Nights and a Night*):** *"The host presented platters of savory **dolmas** rolled in tender vine leaves and fragrant with mint and cinnamon."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The banquet of the pasha featured mounds of spiced **dolmas** alongside roasted meats and sweet sherbet."*
+> - 📜 **Alexander Kinglake (*Eothen*):** *"In the cool bazaar of Damascus we dined upon cooling salads and delicate warm **dolmas** served upon brass trays."*

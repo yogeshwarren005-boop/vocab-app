@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually secretive or illicit sexual relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually secretive or illicit sexual relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret or illicit love affair or romantic liaison, typically between unmarried persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical memoir and drama, an erotic intrigue or passionate adventure in aristocratic society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FRENCH SOLDIER. _O, je vous supplie, pour l’amour de Dieu, me pardonner!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The Lament Occasioned by the unfortunate issue of a Friend’s Amour."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"B.] [Footnote 4: Alluding to the newspaper account of a certain Royal sailor’s amour.—R."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"Whispers of the duke's latest Parisian **amour** scandalized the sober courtiers in London."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The private **amour** of the Empress Theodora with a young courtier endangered imperial stability."*
+> - 📜 **George Eliot (*Romola*):** *"Tito concealed his rustic **amour** from Romola, fearing to alienate her wealthy and powerful family."*

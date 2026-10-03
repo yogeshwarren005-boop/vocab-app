@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptable for a long time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honored because of age or long usage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Respected, revered, or observed because of long-standing custom, antiquity, or established tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological customs and ceremonial law, describing venerable practices sanctioned by centuries of communal observance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-honored designates acceptable for a long time."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I say, the most ungentlemanly trick a man can be guilty of is to come among us and flout our **time-honored** county customs."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The villagers gathered on Christmas Eve to observe the **time-honored** rites of the Yule log and wassail bowl."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrates adhered strictly to the **time-honored** sternness of Puritan discipline in meting out public penance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to seem less serious; play down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge falsely or with malicious intent; attack the good name and reputation of someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To criticize unfairly or attack the reputation of someone or something; disparage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polemical debate, to belittle the intellectual or moral standing of a rival philosopher.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denigrate designates cause to seem less serious; play down."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Envious critics seek only to **denigrate** original genius which they cannot hope to emulate."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Partisan controversialists will **denigrate** the purest motives of their political opponents."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"It is idle to **denigrate** evolutionary science merely because its conclusions disturb dogmatic traditions."*

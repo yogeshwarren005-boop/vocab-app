@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by extreme and violent energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by extreme anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely angry; full of or characterized by intense rage, unrestrained fury, or violent turbulence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorological and physical descriptions, moving or acting with destructive speed, force, or tempestuous agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be furious Is to be frighted out of fear, and in that mood The dove will peck the estridge; and I see still A diminution in our captain’s brain Restores his heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are most hot and furious when you win."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SONG GUIDERIUS. _ Fear no more the heat o’ th’ sun, Nor the furious winter’s rages; Thou thy worldly task hast done, Home art gone, and ta’en thy wages."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"To be **furious** is to be frighted out of fear, and in that mood the dove will peck the estridge."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tempest broke with **furious** violence upon the thatched ricks, threatening the harvest with total ruin."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The players all played at once without waiting for turns, quarrelling all the while, and fighting for the hedgehogs with **furious** shouting."*

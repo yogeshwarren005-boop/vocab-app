@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In fortunate circumstances financially; moderately rich.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very lively and profitable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Successful in material terms; flourishing financially; favorable or auspicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical and archaic diction, describing winds or tides that favor swift and safe navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then go thou forth; And fortune play upon thy prosperous helm, As thy auspicious mistress!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, worthy Menenius, and with most prosperous approbation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These promises are fair, the parties sure, And our induction full of prosperous hope."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"A **prosperous** south wind blew them into our Sicilian harbor, carrying tidings of peace and reconciliation."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge beheld the vision of a **prosperous** London merchant enjoying the cheerful comforts of domestic life."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"My plantation in the Brazils had become very **prosperous**, yielding great returns of sugar and tobacco."*

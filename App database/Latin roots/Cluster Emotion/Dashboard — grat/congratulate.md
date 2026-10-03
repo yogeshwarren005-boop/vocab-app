@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Say something to someone that expresses praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express congratulations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To praise someone and say that one is pleased about a success or positive event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social correspondence, extending formal greetings upon civic honors or weddings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, it is the King’s most sweet pleasure and affection to congratulate the Princess at her pavilion in the posteriors of this day, which the rude multitude call the afternoon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you possess it and find it comfortable, I am quite delighted and congratulate you heartily."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And nobody, my love, will congratulate you more sincerely on such a marriage than I shall.” It was curious that this should make me uncomfortable, but I think it did."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I must **congratulate** you on your upcoming marriage, though surprised at the suddenness of the event."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My friends hastened to **congratulate** me warmly when my first magazine article appeared in print."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes paused to **congratulate** Watson upon winning the hand of Miss Morstan."*

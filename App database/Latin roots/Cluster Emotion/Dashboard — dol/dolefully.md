@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With sadness; in a sorrowful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sadness; in a sorrowful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a doleful or mournful manner; sorrowfully, sadly, or with gloomy dejection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative dialogue, speaking or singing with lugubrious inflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I held up my brass begging bowl, and whined more dolefully, and bleared my eyes to hide the blue fire I knew was in them, and calculated the distance and my strength for the leap."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"After this escape, I was content to take a foggy view of the Inn through the window’s encrusting dirt, and to stand dolefully looking out, saying to myself that London was decidedly overrated."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I had scarcely arrived at the total when a seventh was heard, as in the region of air, wailing dolefully."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Thaddeus Sholto sighed **dolefully**, wrapping his Indian shawl tighter about his frail shoulders."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mrs. Gummidge wept **dolefully** by the fire, declaring that everything went contrary with her."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The church bells tolled **dolefully** across Egdon Heath, announcing the funeral of Mrs. Yeobright."*

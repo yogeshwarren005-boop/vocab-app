@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular customer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proprietor of an inn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who gives financial or other support to a person, organization, cause, or art; also a customer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman society (*patronus*) and Renaissance art, an influential protector who commissioned masterpieces and shielded clients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell thee, Syracusian, twenty years Have I been patron to Antipholus, During which time he ne’er saw Syracusa."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, rather, wilt thou draw thy forces hence, Confess who set thee up and plucked thee down, Call Warwick patron and be penitent, And thou shalt still remain the Duke of York."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Royal Lear, Whom I have ever honour’d as my king, Lov’d as my father, as my master follow’d, As my great patron thought on in my prayers.— LEAR."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I tell thee, Syracusian, twenty years have I been **patron** to Antipholus, during which time he never saw me fail of word."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A man conscious of enthusiasm for worthy aims is sustained under petty hostility by the approval of a high-minded **patron**."*
+> - 📜 **Samuel Johnson (*Letter to the Earl of Chesterfield*):** *"Is not a **patron**, my Lord, one who looks with unconcern on a man struggling for life in the water, and when he has reached ground, encumbers him with help?"*

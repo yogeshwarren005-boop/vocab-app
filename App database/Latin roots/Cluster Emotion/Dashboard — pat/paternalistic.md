@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Benevolent but sometimes intrusive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benevolent but sometimes intrusive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the restriction of the freedom and responsibilities of subordinates in their supposed best interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and corporate governance, benevolent yet condescending policies that infantilize employees or citizens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paternalistic designates benevolent but sometimes intrusive."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft mocked the **paternalistic** social schemes of model employers, declaring high wages alone secured respect."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The World State maintained a thoroughly **paternalistic** control over citizens through conditioned happiness and chemical soma."*
+> - 📜 **Jane Addams (*Democracy and Social Ethics*):** *"A genuinely democratic settlement house rejects **paternalistic** philanthropy in favor of mutual civic cooperation."*

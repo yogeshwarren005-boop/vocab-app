@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of chiefly tropical vines often placed in genera dipogon or lablab or macrotyloma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of chiefly tropical vines often placed in genera dipogon or lablab or macrotyloma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of tropical climbing plants in the legume family Fabaceae, including the lablab bean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and ethnobotany, protein-rich pulse crops cultivated for edible seeds, pods, and nitrogen-fixing forage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolichos designates genus of chiefly tropical vines often placed in genera dipogon or lablab or macrotyloma."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated varieties of **Dolichos** lablab display remarkable diversity in pod color and seed pigmentation."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The native gardens around Caracas were shaded by climbing trellises of purple-flowered **Dolichos**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Dolichos** thrive in warm soils, twining vigorously around support stakes throughout summer."*

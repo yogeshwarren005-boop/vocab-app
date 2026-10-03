@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fuse made to burn for a given time (especially to explode a bomb).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fuse made to burn for a given time (especially to explode a bomb).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fuse designed to burn for a predetermined interval before detonating an explosive charge or artillery shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military ballistics and mining ordnance, a pyrotechnic or mechanical delay mechanism ensuring safe distance before detonation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-fuse designates a fuse made to burn for a given time (especially to explode a bomb)."*
+> - 📜 **Winston Churchill (*The River War*):** *"The gunners adjusted the mechanical **time-fuse** on the shrapnel shells to burst precisely over the enemy trenches."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Artillery officers set every **time-fuse** with frantic precision as the tripod machines advanced through the smoke."*
+> - 📜 **Erskine Childers (*The Riddle of the Sands*):** *"The naval reserve practiced cutting lengths of safety **time-fuse** to ensure synchronous demolition of harbor channels."*

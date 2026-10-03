@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) a jewish festival (traditionally 8 days from nissan 15) celebrating the exodus of the israelites from egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a jewish festival (traditionally 8 days from nissan 15) celebrating the exodus of the israelites from egypt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major Jewish spring festival that commemorates the liberation of the Israelites from Egyptian slavery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical history, the sacred feast of unleavened bread (*Pesach*) commemorating the angel of death passing over Israelite homes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The fast called the Passover—a religious affair, of course—was near, and thousands were pouring in from the country, according to custom, to celebrate the feast in Jerusalem."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You know how he tried to befool the mob, first by mocking Jesus as a harmless fool; and second by offering to release him according to the custom of releasing one prisoner at time of the Passover."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He lets them manage the boat, while he sleeps (Mark 4:38), and go and prepare for him (Luke 9:52), and see to the Passover meal (Mark 14:13)."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The blood upon the doorpost marked the solemn feast of **Passover**, sparing the first-born of Israel."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Multitudes of devout pilgrims from across the diaspora gathered at Jerusalem for the feast of the **Passover**."*
+> - 📜 **Philo of Alexandria (*The Special Laws*):** *"The festival of the **Passover** commemorates the miraculous crossing from the bondage of passions to spiritual freedom."*

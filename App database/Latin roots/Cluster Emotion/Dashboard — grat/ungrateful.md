@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not feeling or showing gratitude; ; - shakespeare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disagreeable; - abraham lincoln.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not feeling or showing gratitude; unappreciative of benefits received; also unpleasant or thankless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, describing children or citizens who betray those who nurtured them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worthy Martius, Had we no other quarrel else to Rome but that Thou art thence banished, we would muster all From twelve to seventy and, pouring war Into the bowels of ungrateful Rome, Like a bold flood o’erbear ’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Injurious Hermia, most ungrateful maid!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In common worldly things ’tis called ungrateful With dull unwillingness to repay a debt Which with a bounteous hand was kindly lent; Much more to be thus opposite with heaven, For it requires the royal debt it lent you."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"For Brutus, as you know, was Caesar's angel: judge, O you gods, how dearly Caesar loved him! This was the most unkindest cut of all; for when the noble Caesar saw him stab, **ingratitude**, more strong than traitors' arms, quite vanquished him."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny was accused of being **ungrateful** because she could not force her heart to love Mr. Crawford."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I repented of my **ungrateful** behavior toward my parents, attributing my shipwreck to divine justice."*

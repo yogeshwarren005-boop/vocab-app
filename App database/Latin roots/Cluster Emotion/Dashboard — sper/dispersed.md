@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute loosely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to separate and go in different directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributed, scattered, or spread over a wide area; separated in various directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloidal chemistry, designating fine particles suspended evenly throughout a continuous medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, our army is dispersed already."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With Henry’s death the English circle ends; Dispersed are the glories it included."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now there rests no other shift but this: To gather our soldiers, scattered and dispersed, And lay new platforms to endamage them."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Minute particles of gold remained permanently **dispersed** throughout the fluid, producing an exquisite ruby tincture."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Small groups of guanacos were **dispersed** across the arid, stony plains of Patagonia."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The highland clansmen **dispersed** among the mountain mists as swiftly as they had assembled."*

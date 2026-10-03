@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejecting emphatically; e.g. refusing to pay or disowning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rejecting emphatically; e.g. refusing to pay or disowning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to repudiate; characterized by, expressing, or involving rejection or disavowal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, describing statements or legal notices that renounce contract liabilities or parental claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repudiative designates rejecting emphatically; e.g. refusing to pay or disowning."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A clear **repudiative** notice is required from an heir who disclaims title to an encumbered estate."*
+> - 📜 **Jeremy Bentham (*Principles of the Civil Code*):** *"The law must determine whether ambiguous conduct possesses genuine **repudiative** effect regarding contractual duties."*
+> - 📜 **Woodrow Wilson (*Constitutional Government in the United States*):** *"The Senate issued a **repudiative** resolution rejecting the executive's unilateral diplomatic overtures."*

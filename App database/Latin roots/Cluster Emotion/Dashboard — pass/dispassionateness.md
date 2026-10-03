@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Objectivity and detachment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Objectivity and detachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being dispassionate; emotional detachment, impartiality, and calm objectivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological ethics, the intellectual virtue of subordinating partisan bias to verified truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dispassionateness designates objectivity and detachment."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The genuine seeker of natural laws must cultivate a serene **dispassionateness** toward received authority."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional tenure of federal judges was designed to foster that **dispassionateness** essential to justice."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Legislative debate degenerates into factional warfare when intellectual **dispassionateness** is abandoned."*

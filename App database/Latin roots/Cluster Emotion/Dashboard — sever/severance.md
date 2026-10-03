@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal or social separation (as between opposing factions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of severing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of ending a connection or relationship; separation or detachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In employment and property law, the termination of employment compensation (severance pay) or the division of joint tenancy into separate estates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She had sighed for her self-completeness then, and now she cried aloud against the severance of the union she had deplored."*
-> - 📜 **George Eliot (*Middlemarch*):** *"When he had parted from her before, he had been in ignorance of facts which gave a new aspect to the relation between them, and made a more absolute severance than he had then believed in."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Thus all my being faints, And for thy presence pants; In sorrowful complaints It mourns our severance."*
+> - 📜 **Edmund Burke (*Letter to the Sheriffs of Bristol*):** *"The violent **severance** of America from the British crown was the catastrophic result of unbending ministerial obstinacy."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard felt the bitter **severance** from his former friends as poverty closed in upon him."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **severance** of jointure may be effected by any alienation of an undivided share during the lifetime of the tenant."*

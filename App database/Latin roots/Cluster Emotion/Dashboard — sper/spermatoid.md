@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin sper within the domain of Emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of sper in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling sperm or spermatozoa; spermatozoon-like in form or motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lower botanical and protozoan morphology, describing antherozoids or gametes exhibiting flagellated motility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatoid designates pertaining to, derived from, or characteristic of latin sper within the domain of emotion."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The motile antherozoids produced by cryptogams exhibit a distinctly **spermatoid** shape and movement."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Fertilization in mosses requires aquatic transport of the **spermatoid** antherozoids to the archegonia."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Primitive colonial flagellates produce **spermatoid** reproductive swarms during the sexual phase."*

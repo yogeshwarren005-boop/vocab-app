@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not shrinking from danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not shrinking from danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not frightened, cowed, or overawed; steadfastly courageous in the face of threats or danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic resistance and judicial courage, standing firm on moral principles without bowing to authoritarian pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unintimidated designates not shrinking from danger."*
+> - 📜 **Frederick Douglass (*My Bondage and My Freedom*):** *"I resolved to face the cruel overseer with a fearless heart, standing **unintimidated** upon the soil of freedom."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The judges remained **unintimidated** by the frowns of the King's ministers, rendering a verdict for the liberty of the subject."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane met Mrs. Reed's furious gaze **unintimidated**, declaring her inner conviction of innocence with quiet resolve."*

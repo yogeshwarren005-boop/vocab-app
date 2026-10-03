@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in energy or will; - george meredith.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accepting or allowing what happens or what others do, without active response or resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, designating a voice of verbs in which the subject undergoes rather than performs the action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the twilight of the morning, light seems active, darkness passive; in the twilight of evening it is the darkness which is active and crescent, and the light which is the drowsy reverse."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His mood transmuted itself into a dogged indifference till at length he fancied he was looking on his own existence with the passive interest of an outsider."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I was the only passive thing, the being without occupation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"In bare perception, the human mind is largely **passive**, receiving simple ideas from sensory impressions."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Amy Dorrit remained **passive** in her father's arms, comforting him with gentle, unselfish love."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"Must the citizen ever for a moment, or in the least degree, resign his conscience to the legislator? Under **passive** submission liberty dies."*

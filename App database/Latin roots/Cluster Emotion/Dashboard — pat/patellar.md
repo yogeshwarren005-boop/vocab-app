@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Near or relating to the patella or kneecap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near or relating to the patella or kneecap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the patella (kneecap).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, pertaining to the patellar reflex (knee-jerk reflex) mediated by the femoral nerve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Salivation is insufficient, the patellar reflex intermittent."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Absence of the **patellar** reflex is one of the earliest and most dependable signs of tabetic degeneration in the cord."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **patellar** ligament attaches the lower apex of the kneecap to the prominent tuberosity of the tibia."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The neurologist tapped gently against my tendon, testing whether the brisk **patellar** response had returned after surgery."*

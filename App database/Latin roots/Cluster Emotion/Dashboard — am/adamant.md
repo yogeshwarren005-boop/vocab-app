@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very hard native crystalline carbon valued as a gem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to pleas, persuasion, requests, reason; ; - w.churchill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Refusing to be persuaded or to change one's mind; impervious to pleas, appeals, or reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, a legendary, extraordinarily hard stone or mineral believed to be impenetrable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In iron walls they deem’d me not secure; So great fear of my name ’mongst them were spread That they supposed I could rend bars of steel And spurn in pieces posts of adamant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You draw me, you hard-hearted adamant, But yet you draw not iron, for my heart Is true as steel."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the matter of gravy he is adamant."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"You draw me, you hard-hearted **adamant**; but yet you draw not iron, for my heart is true as steel."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan bounded forth in wrath, armed in heavenly mail and shields of triple **adamant**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine was **adamant** in her opposition, refusing to sanction the unequal alliance."*

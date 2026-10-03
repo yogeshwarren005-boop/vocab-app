@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indolent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indolent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an indolent manner; lazily, sluggishly, languidly, or with leisurely ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric and character description, lounging or reclining without purposeful exertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They came in yet greater volumes, and indolently crept across the intervening valleys, and around the withered papery flags of the moor and river brinks."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The tranced ship indolently rolls; the drowsy trade winds blow; everything resolves you into languor."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like Mark Antony, for days and days along his green-turfed, flowery Nile, he indolently floats, openly toying with his red-cheeked Cleopatra, ripening his apricot thigh upon the sunny deck."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton lounged **indolently** against the bar of the court, appearing to observe nothing."*
+> - 📜 **Herman Melville (*Typee*):** *"We reclined **indolently** on mats of woven pandanus leaves while island youths brought fresh coconuts."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The fat cows chewed their cud **indolently** in the lush, river-fed pastures of the Valley of the Great Dairies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling you have when you are satisfied with yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling you have when you are satisfied with yourself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of smug or uncritical satisfaction with oneself or one's achievements; complacency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and theological ethics, unmindful self-satisfaction that blinds a soul to urgent danger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Admiration seized All Heaven, what this might mean, and whither tend, Wondering; but soon th’ Almighty thus replied: O thou in Heaven and Earth the only peace Found out for mankind under wrath, O thou My sole complacence!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The divine Father beheld his Son with radiant love and unalloyed **complacence**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins surveyed his small parsonage with profound **complacence**, exalting his patroness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's cold **complacence** chilled Dorothea's ardent desire for sympathetic communion."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of severing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set or keep apart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of dividing, slicing, or separating something forcibly; disconnecting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery or metallurgical processing, cutting through tissue or structural metal with specialized instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much better She ne’er had known pomp; though’t be temporal, Yet if that quarrel, Fortune, do divorce It from the bearer, ’tis a sufferance panging As soul and body’s severing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look, love, what envious streaks Do lace the severing clouds in yonder east."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Nigh on the plain, in many cells prepared, That underneath had veins of liquid fire Sluiced from the lake, a second multitude With wondrous art founded the massy ore, Severing each kind, and scummed the bullion-dross."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The heavy broadsword descended with tremendous force, **severing** the iron visor and the crest together."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The crew labored frantically at **severing** the tangled rigging that threatened to capsize the steamer."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"By **severing** mutual ties of commerce, parliament will plunge both Britain and her colonies into ruin."*

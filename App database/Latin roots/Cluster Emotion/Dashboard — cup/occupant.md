@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives at a particular place for a prolonged period or who was born there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lives at a particular place for a prolonged period or who was born there.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who resides, works in, or holds physical possession of a house, vehicle, or premises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal property theory, the holder or tenant currently exercising factual control over a real property estate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was easy to know that the ceremonious, gouty, grey-haired gentleman, the only other occupant of the great pew, was Sir Leicester Dedlock, and that the lady was Lady Dedlock."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The occupant of the pew in the hall, having said thus much, stirs the fire and leaves the triumvirate to warm themselves."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A desolating wind wandered from the north over the hill whereon Oak had watched the yellow waggon and its occupant in the sunshine of a few days earlier."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dark, solitary garret had no other **occupant** than a stray starveling cat and a heap of moldering papers."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We waited breathlessly in the shadows of the ancient stone hut to discover the identity of its mysterious **occupant**."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"Every **occupant** of the lodging house testified to hearing shrill, unintelligible screams from the upper chambers."*

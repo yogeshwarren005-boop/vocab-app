@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of love or fondness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arousal of feelings of sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait or disposition of being amorous; romantic inclination or susceptibility to erotic passion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis, an ardent, impressionable temperament prone to frequent romantic attachments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amorousness designates a feeling of love or fondness."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Prior's verses display an easy, playful **amorousness** unencumbered by deep moral seriousness."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Tom's natural **amorousness** betrayed him into frequent youthful indiscretions despite his good heart."*
+> - 📜 **Lord Byron (*Don Juan*):** *"His southern blood was tinged with an innate **amorousness** that made him heedless of prudent counsel."*

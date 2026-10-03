@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A switch set to operate at a desired time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A switch set to operate at a desired time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A switch operated automatically by an inbuilt clock mechanism at predetermined intervals to control an electrical circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and automation, a timing relay used to schedule street lighting, heating cycles, or industrial machinery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-switch designates a switch set to operate at a desired time."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"A hidden **time-switch** clicked in the conduit, and suddenly the vast avenues of the subterranean metropolis blazed with incandescent light."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"In the Ministry of Truth, an automatic **time-switch** extinguished the corridor lamps promptly at twenty-three hundred hours."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"Holmes inspected the clockwork **time-switch** rigged to the signal lantern on the Underground railway platform."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A perceptual structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A customary way of operation or behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A repeated decorative design; a model or guide proposed for imitation; an exemplary archetype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology and tailoring, an intelligible regularity discerned in nature, or a cut paper template for sewing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, like gross terms, The Prince will, in the perfectness of time, Cast off his followers, and their memory Shall as a pattern or a measure live, By which his Grace must mete the lives of other, Turning past evils to advantages."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereas the contrary bringeth bliss, And is a pattern of celestial peace."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She shall be— But few now living can behold that goodness— A pattern to all princes living with her And all that shall succeed."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet nor the lays of birds, nor the sweet smell of different flowers, could make me any summer's story tell, or from their proud lap pluck them where they grew: they were but sweet, but figures of delight, drawn after you, you **pattern** of all those."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The image as a whole was that of a small Noah's Ark, allowing the decorative **pattern** of the ancient church roof to show through."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"And who are these?' said the Queen, pointing to the three gardeners who were painted in an oblong card **pattern**."*

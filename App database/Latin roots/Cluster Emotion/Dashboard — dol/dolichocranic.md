@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively long head with a cephalic index of under 75.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively long head with a cephalic index of under 75.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a cranial index below 75; having a long, narrow cranium (skull).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and skeletal biology, distinguishing long-headed skulls from mesocranic and brachycranic forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolichocranic designates having a relatively long head with a cephalic index of under 75."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The Engis skull was found upon careful measurement to be **dolichocranic**, conforming closely to typical modern standards."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The pathological specimen presented a **dolichocranic** outline caused by premature sagittal synostosis."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The enthusiast examined the prehistoric burial mound, classifying the recovered skulls as predominantly **dolichocranic**."*

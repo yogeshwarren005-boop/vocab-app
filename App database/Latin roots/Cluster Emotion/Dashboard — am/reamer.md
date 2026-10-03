@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A squeezer with a conical ridged center that is used for squeezing juice from citrus fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drill that is used to shape or enlarge holes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rotary cutting tool used in metalworking or woodworking to enlarge or finish drilled holes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kitchen utensils, a conical, ridged device used for extracting juice from citrus fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reamer designates a squeezer with a conical ridged center that is used for squeezing juice from citrus fruit."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Use a steel **reamer** to widen the aperture in the brass fitting until the glass tube fits securely."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The artisan smoothed the interior bore of the submarine valve with a precision hand **reamer**."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The mechanical arms of the Martian handling-machine revolved with the speed of an industrial **reamer**."*

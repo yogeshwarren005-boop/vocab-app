@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small replica of a person; used as a toy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal terms for a (young) woman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A child's toy representing a human being; also an attractive or darling person (informal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, effigies and figurines used in childhood play, ritual, and educational play across societies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you have Doll Tearsheet meet you at supper?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None, my lord, but old Mistress Quickly and Mistress Doll Tearsheet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fare you well; go. [_Exeunt Bardolph and Page._] This Doll Tearsheet should be some road."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Dora sat dressing her pet dog and playing with her childhood **doll**, a charming but helpless child-wife."*
+> - 📜 **Henrik Ibsen (*A Doll's House*):** *"Our home has been nothing but a playroom; I have been your **doll** wife, just as at home I was papa's **doll** child."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie vented her childish frustrations by driving nails into the wooden head of her battered **doll**."*

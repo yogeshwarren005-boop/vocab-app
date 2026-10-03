@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a patriotic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a patriotic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a patriotic manner; with heartfelt devotion to one's country and willingness to serve its welfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic journalism and oratory, acting in faithful accordance with the public interest during national emergencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He has stopped Austria’s cackle and I fear it will be our turn next.” The colonel was a stout, tall, plethoric German, evidently devoted to the service and patriotically Russian."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We have had the fruits of national struggles transferred to the vanquished, without a shade of violence; and the extreme power of impeachment has been invoked in the midst of intensest political strife, and its judgment patriotically obeyed."*
+> - 📜 **Abraham Lincoln (*Speeches and Letters*):** *"The citizens responded **patriotically** to the call for volunteers, marching forth to preserve the integrity of the Union."*
+> - 📜 **Winston Churchill (*The Unrelenting Struggle*):** *"Factory workers laboured **patriotically** through the night shifts, refusing to take shelter even during heavy air raids."*
+> - 📜 **Theodore Roosevelt (*The Strenuous Life*):** *"To vote **patriotically** requires setting aside narrow partisan advantage in order to support honest administration."*

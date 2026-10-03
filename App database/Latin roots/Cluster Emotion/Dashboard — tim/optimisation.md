@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rendering optimal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rendering optimal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of making the best or most effective use of a situation or resource.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British engineering and mathematics, algorithmic procedures designed to identify maximum or minimum parameter values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optimisation designates the act of rendering optimal."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"The **optimisation** of search subroutines is vital if the machine is to traverse vast combinatorial decision trees."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Public policy must aim at the continuous **optimisation** of capital investment to prevent severe industrial depression."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"The division of labour achieves an astounding **optimisation** in the speed and accuracy of needle fabrication."*

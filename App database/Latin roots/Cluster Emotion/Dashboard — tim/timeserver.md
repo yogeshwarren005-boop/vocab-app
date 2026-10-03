@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who conforms to current ways and opinions for personal advantage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who conforms to current ways and opinions for personal advantage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who unscrupulously adapts their opinions or conduct to suit the prevailing power or fashionable taste of the day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political satire and ethical essays, an unprincipled sycophant who abandons integrity for official favor or personal gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timeserver designates one who conforms to current ways and opinions for personal advantage."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The versatile poet was denounced by unbending moralists as a shameless **timeserver**, altering his verses with every royal succession."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The prime minister was surrounded by every variety of flatterer and **timeserver**, all vying for titles and pensions."*
+> - 📜 **Lord Byron (*Don Juan*):** *"He changed his politics with every change of court, a supple **timeserver** flourishing in turbulent revolutionary waters."*

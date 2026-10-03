@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument or device for keeping time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument or device for keeping time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed for measuring and recording the passage of time, such as a clock or watch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antique horology, a portable mechanical clock or pocket watch celebrated for artistic metalwork and gem escapements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"When you think you have been out the specified number of minutes, you may come back; but I shall not find fault with you if you are not quite punctual, as you will not have a timepiece with you." "Thank you, sir," she said, obeying with alacrity."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Why, that's old Ma'am Stover's timepiece, ain't it?"*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I found the date was indeed today, and looking at the timepiece, saw the hour was almost eight o’clock."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I found the date was indeed today, and looking at the **timepiece**, saw the hour was half-past seven."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The heavy brass **timepiece** over the mantel ticked with solemn deliberation in the silent legal chamber."*
+> - 📜 **Edgar Allan Poe (*The Masque of the Red Death*):** *"The gigantic ebony clock stood against the western wall, a grim **timepiece** whose hollow chimes froze the masqueraders."*

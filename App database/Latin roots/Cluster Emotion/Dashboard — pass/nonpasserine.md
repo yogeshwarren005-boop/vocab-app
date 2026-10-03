@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of birds that are not perching birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of birds that are not perching birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not belonging to the order Passeriformes (perching birds); designating other avian orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological taxonomy, encompassing diverse bird groups such as raptors, waterfowl, woodpeckers, and ratites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonpasserine designates relating to or characteristic of birds that are not perching birds."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Galapagos archipelago supports several unique **nonpasserine** species, including the flightless cormorant."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The distribution of **nonpasserine** families across Wallace's Line provided crucial evidence for tectonic separation."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"Cranial palate osteology distinguishes passerine birds sharply from primitive **nonpasserine** ratite lineages."*

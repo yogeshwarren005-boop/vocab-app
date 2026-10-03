@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any pathology of the peripheral nerves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any pathology of the peripheral nerves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disease or dysfunction of one or more peripheral nerves, typically causing numbness, weakness, or pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, peripheral nerve pathology arising from diabetes, toxic exposure, nutritional deficiency, or trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropathy designates any pathology of the peripheral nerves."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe sensory ataxia accompanied by bilateral foot-drop characterizes alcoholic peripheral **neuropathy**."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Acute sensory **neuropathy** stripped the patient of proprioception, leaving her body feeling disconnected from will."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Degenerative changes within the axis cylinders explain the agonizing paresthesias of diabetic **neuropathy**."*

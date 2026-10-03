@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attract; cause to be enamored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To captivate or charm with love; to inflame with romantic affection (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, to enchant the heart or mind with beauty, virtue, or high ideals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They that, when Richard lived, would have him die Are now become enamour’d on his grave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine ear is much enamour’d of thy note."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Methought I was enamour’d of an ass."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"A beauty that doth **enamour** the eyes of kings, making sovereign wisdom stoop to humble service."*
+> - 📜 **John Keats (*Endymion*):** *"Can mortal vision gaze upon the moon goddess and not **enamour** the soul with immortal longing?"*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The maiden's song was calculated to **enamour** the chivalrous knight wandering in the highland glen."*

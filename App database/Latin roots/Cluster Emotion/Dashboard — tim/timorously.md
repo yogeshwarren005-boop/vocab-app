@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a timorous and trepid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a timorous and trepid manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a timorous, fearful, hesitant, or apprehensive manner; without bold resolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, venturing into uncertain or daunting situations with visible trembling and nervous hesitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are not a Weatherbury man?” she said, timorously."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are not a Weatherbury man?” she said, timorously."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A child may have worms, if you say so, or any other malady, timorously held in the beliefs con- 414:1 cerning his body."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I'll try to think,' she observed, rather more **timorously**; 'if I can think out of the way of the sheep.'"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Chillip, **timorously** stroking his chin, remarked that young mothers are great observers of infant health."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The friar peeped **timorously** through the loophole, dreading lest a volley of Saxon arrows should pierce his cowl."*

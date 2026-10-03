@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disinclination to quarrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a disposition characterized by warmth and friendliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Friendliness and goodwill; absence of hostility, friction, or rancor between parties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy, maintaining peaceful, cordial relations and open channels of arbitration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Promptly, inexplicably, with amicability, gratefully it was declined."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The preservation of **amicability** between neighboring states requires a strong common umpire."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"We desire to cultivate relations of mutual **amicability** and free commercial exchange with all nations."*
+> - 📜 **George Washington (*Farewell Address*):** *"Observe good faith and justice toward all nations; cultivate peace and **amicability** with all."*

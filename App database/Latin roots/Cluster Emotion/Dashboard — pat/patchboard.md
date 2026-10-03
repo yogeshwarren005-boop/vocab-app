@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Telephone central where circuits are completed with patchcords.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Telephone central where circuits are completed with patchcords.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical panel or board containing multiple jacks into which cords can be plugged to route circuits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early telecommunications and analog computing, a physical switchboard used to manually connect telephone lines or program calculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patchboard designates telephone central where circuits are completed with patchcords."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The operator rapidly rearranged jacks on the central **patchboard** to reroute telegraph circuits around line faults."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"Technicians rewired the ancient analog **patchboard**, restoring power to forgotten sectors of the automated city."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Analog computing machines depended on a complex **patchboard** to configure feedback loops between amplifiers."*

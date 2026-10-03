@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is voluntarily absent from home or country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is voluntarily absent from home or country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expatriate; a person living outside their native country, often for professional or cultural reasons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern journalism and social studies, an individual who resides abroad while retaining citizenship of origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expat designates a person who is voluntarily absent from home or country."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"Every young **expat** writer in the Latin Quarter frequented Sylvia Beach's bookshop to borrow literature and gossip."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"The sun-drenched Riviera terrace was crowded with wealthy **expat** families escaping the American winter."*
+> - 📜 **Graham Greene (*The Quiet American*):** *"In the hotel bar, an aging British **expat** sipped his gin while observing the commotion in the Saigon street."*

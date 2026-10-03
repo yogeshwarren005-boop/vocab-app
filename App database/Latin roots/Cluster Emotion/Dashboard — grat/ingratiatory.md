@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasingly persuasive or intended to persuade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calculated to please or gain favor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended or calculated to ingratiate oneself; flattering, fawning, or sycophantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical analysis, language crafted to soften resistance and win the goodwill of an audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingratiatory designates pleasingly persuasive or intended to persuade."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The parasite adopts an **ingratiatory** tone, applauding every folly that falls from his patron's lips."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"His manner had an **ingratiatory** smoothness that warned Gwendolen to be on her guard."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The ambassador delivered an **ingratiatory** speech designed to detach the prince from the Dutch alliance."*

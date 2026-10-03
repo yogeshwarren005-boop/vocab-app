@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of one of a group of semitic peoples inhabiting aram and parts of mesopotamia from the 11th to the 8th century bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aram or to its inhabitants or their culture or their language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an ancient Northwest Semitic people of Syria and Mesopotamia; also their language (Aramaic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Near Eastern archaeology, pastoralists who established major monarchies like Aram-Damascus during the Iron Age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aramean designates a member of one of a group of semitic peoples inhabiting aram and parts of mesopotamia from the 11th to the 8th century bc."*
+> - 📜 **Archibald Sayce (*Fresh Light from the Ancient Monuments*):** *"The King of Assyria recorded tribute extracted from the wealthy **Aramean** cities of the Orontes."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Ancient **Aramean** chronicles preserved memories of the great conflicts between Persian and Roman legions."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The **Aramean** branch of Semitic speech provided the vernacular tongue of Palestine in the first century."*

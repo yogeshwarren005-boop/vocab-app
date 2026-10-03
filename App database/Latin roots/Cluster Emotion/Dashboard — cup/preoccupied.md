@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage or engross the interest or attention of beforehand or occupy urgently or obsessively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupy or take possession of beforehand or before another or appropriate for use in advance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engrossed in thought; distracted, absorbed, or thinking about something else deeply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property and spatial terms, taken possession of or inhabited before someone else arrived.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say you chose him More after our commandment than as guided By your own true affections, and that your minds, Preoccupied with what you rather must do Than what you should, made you against the grain To voice him consul."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her mother was extremely preoccupied, as could easily be seen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was so preoccupied that at first she did not know me, though she sat looking at me with that curious, bright-eyed, far-off look of hers."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester sat silent and **preoccupied** by the fire, brooding over memories he could not banish."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne was too **preoccupied** with Captain Wentworth's sudden arrival to follow the chatter of the party."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip walked through the crowded London streets in a **preoccupied** mood, thinking only of Estella."*

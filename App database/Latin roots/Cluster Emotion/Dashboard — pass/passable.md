@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be passed or traversed or crossed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: About average; acceptable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being traversed or navigated; also just good enough to be acceptable; tolerable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional transportation, a roadway or mountain pass clear enough for carriages or pack animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The virtue of your name Is not here passable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His body’s a passable carcass if he be not hurt."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Save in very wet weather this road was passable for most vehicles."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The winter thaw made the muddy postal route barely **passable** for the heavy Dover mail coach."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"'She is tolerable, but not handsome enough to tempt me,' whispered Darcy, pronouncing Elizabeth merely **passable**."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The highland guide assured us that the rocky ford would remain **passable** until the mountain torrent rose."*

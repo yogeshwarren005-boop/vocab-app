@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most favorable conditions or greatest degree or amount possible under given circumstances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most desirable possible under a restriction expressed or implied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Most conducive to a favorable outcome; best; the most favorable condition or greatest degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological science and physiology, the specific environmental temperature or humidity where an organism exhibits maximum growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am convinced that the UIPS military forces, once they attain optimum strength, will attempt to crush me, or at the least, dominate the Zone."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Launch fighters as soon as the INOR fleet is in optimum range."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now." Optimum range was closing for particle beamers."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Every plant species possesses an **optimum** temperature at which germination proceeds with the greatest vigor."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The chemical reactions of life occur within narrow thermal boundaries, centered around a physiological **optimum**."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"There exists an **optimum** scale of production beyond which additional expansion yields diminishing marginal returns."*

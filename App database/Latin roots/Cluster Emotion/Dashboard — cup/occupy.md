@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep busy with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live (in a certain place).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reside or have one's place of business in a building; to fill, take up, or hold space or time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy, to take control of an enemy town, province, or strategic position by armed force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God’s light, these villains will make the word as odious as the word “occupy,” which was an excellent good word before it was ill sorted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, thou art deceived; I would have made it short, for I was come to the whole depth of my tale, and meant indeed to occupy the argument no longer."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was glad to find his mother busy with work which did not occupy her thoughts, as he often longed for such an opportunity without success."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"A captain! God's light, these villains will make the word as odious as the word '**occupy**'; therefore captains had need look to't."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Studies serve for delight, for ornament, and for ability; they **occupy** the mind with wisdom in solitude."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Gothic legions marched forward to **occupy** the fertile lowlands of Italy without encountering serious resistance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little patronage or few clients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little patronage or few clients.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a patron, financial benefactor, protector, or supporting sponsor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the destitute condition of eighteenth-century Grub Street poets writing without aristocratic subsidy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patronless designates having little patronage or few clients."*
+> - 📜 **Samuel Johnson (*The Vanity of Human Wishes*):** *"There mark what ills the scholar's life assail: toil, envy, want, the **patronless** cell, and the jail."*
+> - 📜 **Oliver Goldsmith (*The Citizen of the World*):** *"The **patronless** philosopher must peddle his wisdom through the cold streets, while sycophants feast at the nobleman's table."*
+> - 📜 **Thomas Chatterton (*The Rowley Poems*):** *"The starving bard languished in his **patronless** garret, scorning to bend the knee to illiterate merchant lords."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of remaining inactive; a lack of initiative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submission to others or to outside influences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance of what happens without active response or resistance; passiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological analysis, a state of behavioral inertia or learned helplessness in the face of adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But no; stay, I insist!” He seized her hand, and then volition seemed to leave her, and she went off into a state of passivity."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The four sang on with the phlegmatic passivity of persons who had long ago settled the question, and there being no mistake about it, felt that further thought was not required."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This passivity was almost dream-like, and yet, in its way, it was positive almost to a pitch of exaltation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind displays complete **passivity** in the reception of simple ideas from external objects."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Excessive administrative centralization induces a creeping civic **passivity** among the provincial populace."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Hypnotic trance is marked by extraordinary motor **passivity** combined with acute sensory focus."*

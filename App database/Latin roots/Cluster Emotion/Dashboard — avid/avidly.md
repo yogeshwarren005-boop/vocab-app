@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an avid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an avid manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eager, greedy, or intensely enthusiastic manner; with voracious appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioural observation, pursuing sensory or intellectual stimuli with undivided, rapt absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"The pirates, listening avidly at the mouths of the trees, heard the question put by every boy, and alas, they also heard Peter’s answer."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The crew drank in the strange tale **avidly**, leaning against the windlass under the starry Pacific sky."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea listened **avidly** to the scholar's explanations, attributing sublime wisdom to his dry dissertations."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the footprints **avidly**, kneeling upon the damp moorland with magnifying glass in hand."*

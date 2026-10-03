@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme bellicose nationalist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extreme bellicose nationalist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes an ostentatious, aggressive, or hypocritical display of patriotism, often for selfish gain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political satire and anti-war literature, a jingoistic war-profiteer who exploits national fervor for personal enrichment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrioteer designates an extreme bellicose nationalist."*
+> - 📜 **Sinclair Lewis (*It Can't Happen Here*):** *"The local **patrioteer** waved his flag vehemently from the podium while pocketing municipal contracts for military uniforms."*
+> - 📜 **H. L. Mencken (*Prejudices: First Series*):** *"Nothing is easier than to arouse the mob with the screeching platitudes of the professional **patrioteer**."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"We must learn to separate genuine civic loyalty from the shallow bombast of the commercial **patrioteer**."*

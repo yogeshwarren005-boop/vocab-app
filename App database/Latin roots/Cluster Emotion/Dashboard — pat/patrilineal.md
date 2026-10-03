@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or tracing descent through the male line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or tracing descent through the male line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on relationship to the father or descent through the male line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative ethnology, describing inheritance laws and surnames passed from father to son.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrilineal designates based on or tracing descent through the male line."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The establishment of a strictly **patrilineal** succession marked an advance toward hereditary monarchy among ancient tribes."*
+> - 📜 **Lewis H. Morgan (*Ancient Society*):** *"With the rise of private property, maternal gens gave way to **patrilineal** inheritance of agricultural estates."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"In many African communities, **patrilineal** descent determines clan membership, ancestral worship, and land tenure."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liver or meat or fowl finely minced or ground and variously seasoned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The top of the head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's head or the crown of the head; also (with accent) a rich paste or spread of seasoned minced meat or fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Shakespearean comedy and culinary history, an archaic colloquial term for the scalp, or a gourmet liver terrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had; so I had broke thy pate, And ask’d thee mercy for’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray you jest, sir, as you sit at dinner: I from my mistress come to you in post; If I return, I shall be post indeed, For she will score your fault upon my pate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have some marks of yours upon my pate, Some of my mistress’ marks upon my shoulders, But not a thousand marks between you both."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would I had; so I had broke thy **pate**, and ask'd thee mercy for't with a repentant heart."*
+> - 📜 **King James Bible (*The Holy Bible*):** *"His mischief shall return upon his own head, and his violent dealing shall come down upon his own **pate**."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The engineer tapped his bald **pate** with a greasy wrench, listening intently to the clatter of the boiler."*

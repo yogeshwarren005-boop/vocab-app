@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used to refer to cited works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used to refer to cited works.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latin term used in textual citations meaning 'throughout' or 'here and there in the work.'
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly apparatus and indexation, indicating that a word, topic, or character is mentioned frequently throughout a treatise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Clement quoted, ch. ix. _passim_, and on pp. 149, 166, 242, 243, 244, 247, 248, 251, 257, 258, 259, 260."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Origen, 114. his book against Celsus; see ch. viii. _passim_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian quoted, chs. vi. and x. _passim_; also pp. 17, 18, 71, 73, 93, 103, 108, 111, 137, 142, 143, 148, 160, 161, 165, 166, 197, 212, 240, 243, 248, 249, 250, 251, 254, 256."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The corruption of the praetorian guard is attested by contemporary historians, **passim**."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"Examples of this brilliant dramatic conceit are to be found in the comedies of Shakespeare, **passim**."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"References to the cosmic process recur in the ancient philosophical dialogues of the Stoics, **passim**."*

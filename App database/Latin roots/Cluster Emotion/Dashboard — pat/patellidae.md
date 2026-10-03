@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine limpets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine limpets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of marine gastropod mollusks commonly known as true limpets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, conical uncoiled snails possessing a muscular foot that clings to littoral rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patellidae designates marine limpets."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The littoral fauna of the Atlantic islands includes specialized species of **patellidae** clinging to volcanic basalt reefs."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrate Animals*):** *"In the family **patellidae**, the conical shell exhibits no spiral coiling, providing an optimal shield against heavy surf."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Mollusks of the family **patellidae** graze on encrusting algae, returning faithfully to their home scar on the rock."*

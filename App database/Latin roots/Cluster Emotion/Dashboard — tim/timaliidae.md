@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Babblers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Babblers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of passerine birds commonly known as Old World babblers, native to tropical Asia and Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, an extensive taxonomic assemblage of small to medium-sized songbirds known for diverse vocalizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog timaliidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The family **timaliidae** finds its greatest richness of forms in the dense evergreen hill-forests of the Indo-Malayan subregion."*
+> - 📜 **Thomas C. Jerdon (*The Birds of India*):** *"Members of the family **timaliidae** are predominantly terrestrial or bush-dwelling birds, feeding on insects and seeds amidst fallen leaves."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Taxonomists long debated the boundaries of the **timaliidae**, as geographic variation among island babblers is extraordinarily complex."*

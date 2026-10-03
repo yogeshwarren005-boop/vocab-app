@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a dreadful kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a dreadful kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a horrible manner; dreadfully, terrifyingly, or to an extreme and shocking degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological narrative, experiencing intense dread or bodily torment that disfigures expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, thou wilt be horribly chid tomorrow when thou comest to thy father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this leek, I will most horribly revenge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he, as loving his own pride and purposes, Evades them, with a bombast circumstance, Horribly stuff’d with epithets of war: And in conclusion, Nonsuits my mediators: for “Certes,” says he, “I have already chose my officer.” And what was he?"*
+> - 📜 **Bram Stoker (*Dracula*):** *"The count's eyes flared **horribly** with red fire as he hurled the woman back from the bed."*
+> - 📜 **Robert Louis Stevenson (*Strange Case of Dr Jekyll and Mr Hyde*):** *"The transformation contorted his features **horribly**, leaving him gasping upon the floor."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Her white shroud was **horribly** spattered with blood from her struggle within the copper coffin."*

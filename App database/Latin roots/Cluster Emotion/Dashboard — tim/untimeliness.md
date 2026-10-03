@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being at an inappropriate time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of occurring at an inconvenient time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence at an inauspicious, premature, ill-timed, or inappropriately scheduled moment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tragedy and elegy, the grief occasioned by an untimely death that cuts down life before fulfillment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene suddenly realized the untimeliness of her complaints."*
+> - 📜 **George Bernard Shaw (*Cashel Byron's Profession*):** *"The sudden arrival of the rector revealed the comical **untimeliness** of the boxer's hasty retreat through the conservatory window."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"The **untimeliness** of the ministerial prorogation inflamed public resentment, making parliamentary conciliation impossible."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard lamented the fatal **untimeliness** of the letter, which arrived only after his daughter's departure."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Faulty position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Faulty position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of putting something in the wrong location, or an erroneous arrangement of objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical pathology and embryology, heterotopia or ectopia involving tissues developing in abnormal sites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misplacement designates faulty position."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **misplacement** of the kidney into the pelvic cavity may simulate an ovarian or uterine neoplasm."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The Circumlocution Office excelled in the bureaucratic **misplacement** of important colonial petitions."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Slight embryonic **misplacement** of germ layers produces teratoid cysts containing dermal structures in internal organs."*

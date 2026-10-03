@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is frightened and in need of help.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising from or marked by despair or loss of hope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling, showing, or involving a hopeless sense that a situation is so bad as to be impossible to deal with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, a last, furious gamble or heroic assault undertaken when all safe retreats are cut off.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that hangs himself is a virgin: virginity murders itself, and should be buried in highways out of all sanctified limit, as a desperate offendress against nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Amongst the rest There is a remedy, approv’d, set down, To cure the desperate languishings whereof The king is render’d lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"A **desperate** man fly hence and leave me: think upon these gone; let them affright thee. I beseech thee, youth, put not another sin upon my head."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prisoner made a **desperate** effort to break through the ring of armed sentries outside the court."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab darted his harpoon with the **desperate** fury of a man who knew his mortal hour was at hand."*

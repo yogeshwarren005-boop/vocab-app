@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of timor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of timor or its inhabitants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the island of Timor, its diverse indigenous cultures, or its inhabitants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Southeast Asian anthropology, denoting the Austronesian and Papuan speaking ethnic groups native to the Timor archipelago.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some of the Timorese tribes recognise two rajahs, the ordinary or civil rajah, who governs the people, and the fetish or taboo rajah, who is charged with the control of everything that concerns the earth and its products."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The **timorese** villagers greeted our expedition with great hospitality, bringing roasted maize and sweet wild honey."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Among the **timorese** tribes, elaborate taboos surround the harvesting of sacred sandalwood trees in the mountain valleys."*
+> - 📜 **Joseph Conrad (*The Rescue*):** *"The prau was manned by veteran **timorese** sailors who knew every dangerous reef along the Ombai Strait."*

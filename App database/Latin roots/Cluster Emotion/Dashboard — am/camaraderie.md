@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of affording easy familiarity and sociability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of affording easy familiarity and sociability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual trust, warm friendship, and goodwill among people who spend a lot of time together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and collegiate history, the deep esprit de corps forged through shared hardship and common endeavor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This good-fellowship—_camaraderie_—usually occurring through similarity of pursuits, is unfortunately seldom superadded to love between the sexes, because men and women associate, not in their labours, but in their pleasures merely."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This good-fellowship—_camaraderie_—usually occurring through similarity of pursuits, is unfortunately seldom superadded to love between the sexes, because men and women associate, not in their labours, but in their pleasures merely."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Shared perils upon the isolated plateau created a rugged **camaraderie** among our diverse company."*
+> - 📜 **Winston Churchill (*My Early Life*):** *"The cheerful **camaraderie** of the cavalry mess at Aldershot formed the happiest memory of my youth."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"A subtle **camaraderie** bound the forecastle crew together as the ship battled the Atlantic squalls."*

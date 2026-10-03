@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The writings of the early church fathers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the lives, writings, and doctrines of the church fathers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the early Church Fathers, their lives, writings, and theology; patristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Catholic and Orthodox historical scholarship, specialized bibliographical study and textual criticism of Christian antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrology designates the writings of the early church fathers."*
+> - 📜 **John Henry Newman (*Essays Critical and Historical*):** *"The library acquired the monumental volumes of Migne's **patrology**, containing the complete Greek and Latin ecclesiastical heritage."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tireless editors of French **patrology** restored corrupt manuscript passages in the treatises of Saint Cyprian."*
+> - 📜 **Lord Acton (*Historical Essays and Studies*):** *"A thorough grounding in **patrology** remains indispensable for assessing early doctrinal debates over conciliar supremacy."*

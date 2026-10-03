@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a promise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes a promise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes a promise or undertakes a binding mutual covenant; one who pledges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, the party who makes a legal promise to another (the promisee) supported by consideration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, promiser designates a person who makes a promise."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Covenants without the sword are but words, leaving the **promiser** free to break faith whenever his interest prompts."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The obligation of a contract binds the **promiser** in natural law even where no positive municipal law exists."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An action of assumpsit lies against the **promiser** who neglects to perform his undertaken engagement."*

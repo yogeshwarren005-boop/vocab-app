@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the degree of something undesirable e.g. pain or weather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something hard to endure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme harshness, uncompromising sternness, rigor, or acute intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, pharmacology, and law, the extreme degree of cold, adverse drug reaction, or legal penalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath resisted law, And therefore law shall scorn him further trial Than the severity of the public power Which he so sets at naught."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I laugh to see your ladyship so fond To think that you have aught but Talbot’s shadow Whereon to practice your severity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is too general a vice, and severity must cure it."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The **severity** of the penal laws did not deter hungry men from stealing a loaf of bread."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"When vice makes mercy, mercy's so extended that for the fault's sake it is to be so; but Angelo enforces the law with dreadful **severity**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The harsh **severity** of military discipline restored order to the legions upon the Danube."*

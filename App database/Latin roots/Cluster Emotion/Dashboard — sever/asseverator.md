@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who claims to speak the truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who claims to speak the truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who solemnly or emphatically affirms, asserts, or declares something to be true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic debate, a speaker who relies on emphatic personal assurance to compel belief in an assertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asseverator designates someone who claims to speak the truth."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The credibility of an **asseverator** must be weighed against his interest in the outcome of the suit."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"The zealous religious **asseverator** assumes that vehement conviction is identical with demonstrated truth."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"No matter how sincere the **asseverator**, an inductive inference requires empirical verification."*

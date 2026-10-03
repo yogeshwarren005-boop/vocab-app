@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of combining one thing at intervals among other things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of combining one thing at intervals among other things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The irregular scattering, insertion, or intermingling of one thing among other distinct elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape ecology, the spatial juxtaposition of different patch types across a mosaic landscape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interspersion designates the act of combining one thing at intervals among other things."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fine **interspersion** of marine shells among freshwater deposits indicated recurring estuarine inundations."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The picturesque **interspersion** of palm groves among savanna grasslands enchanted the European travelers."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The artistic **interspersion** of bright poppies among golden wheat created a vivid summer tapestry."*

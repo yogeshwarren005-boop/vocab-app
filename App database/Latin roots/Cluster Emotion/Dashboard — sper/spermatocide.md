@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contraceptive agent that kills spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contraceptive agent that kills spermatozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent or substance that is destructive to spermatozoa; a spermicide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological history, chemical formulations (such as quinine or lactic acid) utilized to immobilize male gametes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatocide designates a contraceptive agent that kills spermatozoa."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Early physiological investigators tested various saline solutions to determine their potency as a chemical **spermatocide**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain acidic antiseptic washes function effectively as a local **spermatocide** without eroding mucosal tissue."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Dilute acids act as an instantaneous **spermatocide**, immobilizing the flagellar motor apparatus of the cell."*

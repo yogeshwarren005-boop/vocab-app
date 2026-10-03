@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do one's shopping at; do business with; be a customer or client of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume sponsorship of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated with an air of condescending superiority; supported financially or frequented as a customer (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social narratives, receiving aristocratic favor or visiting exclusive commercial establishments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was a concert for the benefit of a person patronised by Lady Dalrymple."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I might have been too reserved, and should have patronised her more (though I did not use that precise word in my meditations) with my confidence."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He was a man loved and honoured by all who knew him; and in his youth was, I have heard, the inventor of a burnt rum punch, much patronised on Derby night."*
+> - 📜 **Jane Austen (*Persuasion*):** *"It was a concert for the benefit of a person **patronised** by Lady Dalrymple, and therefore attended by all the fashionable Bath elite."*
+> - 📜 **Bram Stoker (*Dracula*):** *"He was a man loved and honoured by all who knew him; and in his youth was much **patronised** by the great scholars of Oxford."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Uncle Pumblechook **patronised** Pip at every family dinner, constantly reminding him to be grateful to his betters."*

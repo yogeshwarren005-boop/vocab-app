@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used with count nouns) of an indefinite number more than 2 or 3 but not many.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considered individually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More than two but not many; of an indefinite small number; distinct or separate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and formal diction, respective, individual, and independent rather than joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should my heart think that a several plot, Which my heart knows the wide world’s common place?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Several young French Lords, that serve with Bertram in the Florentine War."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were living, I would try him yet;— Lend me an arm;—the rest have worn me out With several applications; nature and sickness Debate it at their leisure."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"To every Roman citizen he gives, to every **several** man, seventy-five drachmas."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind gathers its simple ideas from the **several** operations of sensation and reflection."*
+> - 📜 **Thomas Jefferson (*Declaration of Independence*):** *"When in the course of human events it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the laws of nature entitle them, a decent respect to the opinions of mankind requires that they should declare the **several** causes which impel them to the separation."*

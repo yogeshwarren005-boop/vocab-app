@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to cause disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to cause disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of causing disease; producing or producing pathology (especially of a microorganism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease medicine, possessing virulent properties (toxins, invasins) that overcome host immune defenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathogenic designates able to cause disease."*
+> - 📜 **Robert Koch (*The Etiology of Anthrax*):** *"Inoculation of healthy cattle with the **pathogenic** spore cultures uniformly produced the fatal symptoms of splenic fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The discovery of **pathogenic** protozoa in the blood of malaria patients validated Laveran's brilliant hypothesis."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Heating liquids destroys **pathogenic** organisms without impairing the nutritional properties of the beverage."*

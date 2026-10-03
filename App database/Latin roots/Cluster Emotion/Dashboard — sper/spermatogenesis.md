@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of spermatozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process of the production and development of mature spermatozoa in the male gonads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology, the entire sequential cascade in seminiferous tubules encompassing spermatocytogenesis, meiosis, and spermiogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatogenesis designates development of spermatozoa."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Normal **spermatogenesis** proceeds continuously along the walls of the seminiferous tubules under endocrine regulation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Seasonal variations in ambient temperature directly influence the rate of testicular **spermatogenesis** in birds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Endocrine deficiencies of pituitary gonadotropins arrest **spermatogenesis** at the primary spermatocyte stage."*

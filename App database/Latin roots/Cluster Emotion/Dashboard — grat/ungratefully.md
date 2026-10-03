@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ungrateful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ungrateful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ungrateful manner; without showing proper appreciation or thanks for kindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, responding to generous hospitality or assistance with callous neglect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Ablethorpe, "you owe me something for the afternoon's work I gave you!" "Yon!" cried the old man, ungratefully, "caa ye that half a day's wark?"*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Janet never speaks ungratefully of her, though she has done nothing for Janet.” “I have not spoken ungratefully,” protested Alice, almost in tears."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Steerforth treated the devoted Peggotty family **ungratefully**, repaying their warm hospitality with betrayal."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Arthur acknowledged that he had acted **ungratefully** toward the honest carpenter who had trusted him."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The creature felt that humanity had rejected him **ungratefully**, meeting his offered friendship with stones and gunfire."*

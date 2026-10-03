@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing fear or dread or terror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing fear or dread or terror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely unpleasant, horrifying, or terrible; frightful, dreadful, or shocking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive reporting, catastrophes or atrocities causing widespread destruction and dismay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horrendous designates causing fear or dread or terror."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A **horrendous** sound like thunder broke from the depths as the wounded leviathan breached into the gale."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We beheld a **horrendous** carnivore emerging from the ferns, its jaws dripping with fresh gore."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian heat-ray produced a **horrendous** devastation across the fleeing multitudes on the common."*

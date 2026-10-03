@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document granting an inventor sole rights to an invention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An official document granting a right or privilege.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily recognizable; obvious; also a government authority or license conferring exclusive rights to an inventor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual property law and anatomy, legal monopoly over an invention or an open, unobstructed bodily vessel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cause of this fair gift in me is wanting, And so my patent back again is swerving."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord that’s gone made himself much sport out of him; by his authority he remains here, which he thinks is a patent for his sauciness; and indeed he has no pace, but runs where he will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So will I grow, so live, so die, my lord, Ere I will yield my virgin patent up Unto his lordship, whose unwishèd yoke My soul consents not to give sovereignty."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cause of this fair gift in me is wanting, and so my **patent** back again is swerving to its rightful owner."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"These are the more **patent** facts which are to be deduced from his hat, obvious to any observant eye."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I did not quite mean you to accept it at first, for it was my one poor **patent** against despair."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish or separate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark as different.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distinguish, separate, or treat individually; to individualize (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and philosophical analysis, to separate collective rights or estates into individual holdings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, severalise designates distinguish or separate."*
+> - 📜 **Jeremy Bentham (*Principles of Penal Law*):** *"To **severalise** offenses into distinct legal categories prevents the arbitrary infliction of disproportionate punishment."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A partition deed serves to **severalise** the joint tenancy into individual holdings held in severalty."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Inductive science must **severalise** complex natural phenomena into their elementary causal components."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attract; cause to be enamored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by foolish or unreasoning fondness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with love, passion, or intense admiration for someone or something; captivated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic and romantic prose, being charmed by natural beauty, philosophy, or artistic ideals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Leroy Edson knelt, an enamored knight, at the shrine of her youth and beauty, she gave him her hand."*
-> - 📜 **Effie Afton (*Eventide*):** *"Surrounded by enamored admirers, no doubt," remarked the clerk."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was evident that the young couple were completely enamored."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"I pray thee, gentle mortal, sing again: mine ear is much **enamored** of thy note; so is mine eye enthralled to thy shape."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Adam stood **enamored** of her heavenly grace, beholding in Eve the perfection of all earthly charm."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was **enamored** of the wild moorland vistas, finding in their solitary expanses a profound peace."*

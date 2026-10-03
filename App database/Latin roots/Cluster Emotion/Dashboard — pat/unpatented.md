@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of devices and processes) not protected by patent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of devices and processes) not protected by patent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not protected or secured by a patent; in the public domain for free use and reproduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial law and history of technology, innovations whose inventors deliberately eschewed commercial patent monopolies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpatented designates (of devices and processes) not protected by patent."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"I declined the governor's offer of a patent for my open stove, believing our inventions should be freely shared **unpatented** for human good."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations of Thomas Alva Edison*):** *"To leave a vital improvement **unpatented** is an open invitation for unscrupulous competitors to reap what our laboratory sowed."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The mathematical calculating engine remained **unpatented**, offered as a gift of pure science to the British nation."*

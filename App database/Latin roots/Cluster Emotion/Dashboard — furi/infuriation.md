@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of intense anger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of intense anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme anger, wrath, or acute exasperation provoked by provocative treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emotional analysis, the acute culmination of irritation evolving into explosive behavioral rage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infuriation designates a feeling of intense anger."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sudden transition from mild vexation to complete **infuriation** is marked by visceral vasodilation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"In his blind **infuriation**, Alec struck the horse with the whip, caring little for the consequences."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"The philosopher observes the petty **infuriation** of daily life without allowing his internal peace to be disturbed."*

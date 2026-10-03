@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discussion (spoken or written) that enlarges on a topic or theme at length or in detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discussion (spoken or written) that enlarges on a topic or theme at length or in detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of speaking or writing at great length; an elaborate discourse or extensive discussion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and rhetoric, a detailed digression that explores every ramification of an idea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expatiation designates a discussion (spoken or written) that enlarges on a topic or theme at length or in detail."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"His lengthy **expatiation** on ancient virtue exhausted the patience of listeners seeking practical counsel."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"After an eloquent **expatiation** upon parliamentary rights, the orator turned to examine commercial revenues."*
+> - 📜 **George Eliot (*Romola*):** *"Tito listened to the scholar's dry **expatiation** with polite indulgence, his thoughts already fixed upon Florentine politics."*

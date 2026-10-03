@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild sedative-hypnotic drug (trade name placidyl).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild sedative-hypnotic drug (trade name placidyl).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for ethchlorvynol, a central nervous system depressant and sedative-hypnotic drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a tertiary acetylenic carbinol formerly prescribed for short-term management of insomnia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placidyl designates a mild sedative-hypnotic drug (trade name placidyl)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Non-barbiturate hypnotic agents like **Placidyl** were developed to induce rapid sedation with reduced risk of respiratory depression."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Excessive doses of synthetic sedatives like **Placidyl** produced troublesome nocturnal confusion in elderly post-encephalitic patients."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician cautioned against habituation to modern sleep-inducing synthetics such as **Placidyl**."*

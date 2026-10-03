@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by casual disrespect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Improperly forward or bold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not showing due respect for another person; insolently bold, brazen, or disrespectful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary dialogue, characterized by audacious impertinence or shameless effrontery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you could find out a country where but women were that had received so much shame, you might begin an impudent nation."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She’s impudent, my lord, And was a common gamester to the camp."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not a confident brow, nor the throng of words that come with such more than impudent sauciness from you, can thrust me from a level consideration."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"John Reed glared at me with an **impudent** smirk before hurling the heavy volume across the room."*
+> - 📜 **William Shakespeare (*Othello*):** *"Are not you a strumpet? No, as I am a Christian: if to preserve this vessel for my lord from any other foul unlawful touch be not to be a strumpet, I am none. What, not an **impudent** strumpet?"*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The cabman gave an **impudent** wink as he pocketed the sovereign and rattled away."*

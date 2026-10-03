@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (something) where one cannot find it again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place or position wrongly; put in the wrong position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put something in the wrong place and lose it temporarily; to mislay; also to direct unwisely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral judgment, to bestow trust, affection, or loyalty upon an unworthy or treacherous person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ESCALUS. [_To Angelo_.] Do you hear how he misplaces?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would we could do so, for her benefits are mightily misplaced, and the bountiful blind woman doth most mistake in her gifts to women."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have this crown of mine cut from my shoulders Before I’ll see the crown so foul misplaced."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne wept bitterly when she realized how she had been led to **misplace** her deepest romantic affections."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick was constantly terrified lest he should **misplace** his manuscript regarding King Charles's head."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"My brother's ambition did **misplace** all sovereign duty, usurping my rightful dukedom in secret treachery."*

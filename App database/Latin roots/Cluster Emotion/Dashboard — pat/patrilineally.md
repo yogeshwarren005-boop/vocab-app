@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By descent through the male line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By descent through the male line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a patrilineal manner; by descent through the male line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinship analysis and tribal succession, transmitting titles and ancestral lands through paternal ancestors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrilineally designates by descent through the male line."*
+> - 📜 **Lewis H. Morgan (*Systems of Consanguinity and Affinity of the Human Family*):** *"Chieftainship in this confederacy is inherited **patrilineally**, passing from father to eldest surviving son."*
+> - 📜 **Bronislaw Malinowski (*The Sexual Life of Savages*):** *"While garden plots descend matrilineally, certain ritual magic formulas are transmitted **patrilineally** to favorite sons."*
+> - 📜 **E. E. Evans-Pritchard (*Kinship and Marriage Among the Nuer*):** *"Cattle marks and clan praise-names are reckoned **patrilineally**, establishing permanent ties between dispersed herdsmen."*

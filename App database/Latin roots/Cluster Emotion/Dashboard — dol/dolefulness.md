@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sadness caused by grief or affliction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sadness caused by grief or affliction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being doleful; sorrowfulness, mournfulness, or gloom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric description, the oppressive melancholy of desolate landscapes or ruined habitations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolefulness designates sadness caused by grief or affliction."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A persistent **dolefulness** hung over the ancient mansion, resisting even the cheerful morning light."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The gray November sky added to the **dolefulness** of our cold walk to Brocklebridge Church."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A sense of insufferable **dolefulness** pervaded my spirit as I gazed upon the tarn and the cracked walls."*

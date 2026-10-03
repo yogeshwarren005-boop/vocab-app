@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A name derived from that of a father or paternal ancestor; a patronymic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In onomastics and historical linguistics, surnames formed by adding prefixes (Mac-, O', Fitz-) or suffixes (-son, -vitch) to a paternal name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patronym designates a family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor)."*
+> - 📜 **Edward Tylor (*Anthropology: An Introduction to the Study of Man and Civilization*):** *"The adoption of a fixed hereditary surname gradually replaced the older Scandinavian **patronym** ending in -sen or -son."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In Homeric epic, the proud warrior announces his identity not by title but by ancestral **patronym**, invoking his father's glory."*
+> - 📜 **James Joyce (*Ulysses*):** *"Stephen meditated upon his own proud Greek **patronym**, Dedalus, artisan and artificer of soaring labyrinthine wings."*

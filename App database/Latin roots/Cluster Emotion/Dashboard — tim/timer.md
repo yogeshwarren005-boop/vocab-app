@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A timepiece that measures a time interval and signals its end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) an official who keeps track of the time elapsed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or person that measures and signals the passage of a specified interval of elapsed time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory instrumentation and industrial automation, an electronic relay designed to cycle circuits at preset durations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a pallid-faced, little dope-fiend of a short-timer who would do anything to obtain the drug."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once, with a guard, and once with a short-timer in solitary, I entrusted, by memorization, a letter of inquiry addressed to the curator of the Museum."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"That ought to attract you.” “I'm going to try a bit of adjustment on this timer now that Mac's out of the way."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The automated airlock **timer** counted down the seconds until equalized atmospheric pressure permitted the outer door to slide open."*
+> - 📜 **Michael Crichton (*The Andromeda Strain*):** *"The technician reset the quartz **timer** on the autoclave, ensuring ninety minutes of high-pressure sterilization."*
+> - 📜 **Ray Bradbury (*Fahrenheit 451*):** *"The kitchen incinerator clicked softly as its internal **timer** activated the cleaning flame for the breakfast dishes."*

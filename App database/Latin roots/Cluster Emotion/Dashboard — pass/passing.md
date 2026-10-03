@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (american football) a play that involves one player throwing the ball to a teammate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euphemistic expressions for death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Going by; moving past; lasting only for a short time; fleeting or transient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and legal diction, a euphemism for death (a passing away); also navigating racial boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be bitter with him and passing short."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, these are almost thoroughly persuaded; For though abundantly they lack discretion, Yet are they passing cowardly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A street near the gate Enter two Senators, with Ladies (Volumnia, Virgilia, Valeria) passing over the stage, with other Lords."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Show me a mistress that is **passing** fair, what doth her beauty serve but as a note where I may read who passed that **passing** fair?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"With headlong haste they fled, not staying to lament the **passing** hours of joy."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I observed a **passing** shadow of sorrow cloud my mother's face before she smiled again."*

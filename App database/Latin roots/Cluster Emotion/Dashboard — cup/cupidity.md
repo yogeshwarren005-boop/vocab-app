@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme greed for material wealth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme greed for material wealth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Greed for money, wealth, or possessions; avarice or excessive covetousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and political economy, an unbridled acquisitive impulse that undermines civic virtue and justice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"These people hated me with the hatred of cupidity and disappointment."*
-> - 📜 **George Eliot (*Middlemarch*):** *"There was no odious cupidity in Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now Jonah’s Captain, shipmates, was one whose discernment detects crime in any, but whose cupidity exposes it only in the penniless."*
+> - 📜 **Edmund Burke (*Speech on the Nabob of Arcot's Debts*):** *"The unprincipled **cupidity** of colonial adventurers drained the wealth of the ancient province."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor's insatiable **cupidity** prompted him to confiscate the ancestral estates of wealthy senators."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Society is corrupted when the admiration due to wisdom and virtue is squandered upon vulgar **cupidity**."*

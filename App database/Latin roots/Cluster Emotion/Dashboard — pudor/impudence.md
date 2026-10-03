@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An impudent statement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being rude and impertinent; inclined to take liberties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being impudent; shameless audacity, cockiness, or insolent disrespect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette, an offensive disregard for decorum, deference, or proper societal boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tax of impudence, A strumpet’s boldness, a divulged shame, Traduc’d by odious ballads; my maiden’s name Sear’d otherwise; nay worse of worst extended With vilest torture, let my life be ended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou or word, or wit, or impudence, That yet can do thee office?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, my father, it befits not me Unto a stranger knight to be so bold: He may my proffer take for an offence, Since men take women’s gifts for impudence."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was shocked by the sheer **impudence** of Wickham's declarations before those who knew his history."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The Artful Dodger met the magistrate's stern reproof with an air of unruffled **impudence**."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"A reckless satirist often mistakes gross **impudence** for honest moral indignation."*

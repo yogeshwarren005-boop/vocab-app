@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an acrid smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme bitterness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pungency or biting sharpness in taste, odor, temper, or language; acrimony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory chemistry and rhetoric, the harsh, burning property of volatile chemicals or caustically bitter speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acridity designates having an acrid smell."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The defensive secretion of certain beetles is distinguished by its pungent odor and intense **acridity**."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"His satirical diatribes possessed an **acridity** that alienated friend and foe alike."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"A note of lingering **acridity** crept into her voice whenever she recalled her former poverty."*

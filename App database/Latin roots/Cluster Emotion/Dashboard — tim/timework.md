@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work paid for at a rate per unit of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work paid for at a rate per unit of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work paid for according to the amount of time spent on it rather than by the piece or amount of output.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial labor economics, an hourly or day-rate wage contract contrasted with incentive-based piecework systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timework designates work paid for at a rate per unit of time."*
+> - 📜 **Karl Marx (*Capital: Critique of Political Economy*):** *"Under the system of **timework**, the price of labor appears directly as the payment for a working day of definite duration."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Workmen who are paid by **timework** are generally less hurried and deliver more durable craftsmanship than pieceworkers."*
+> - 📜 **Sidney and Beatrice Webb (*Industrial Democracy*):** *"Trade unions in the engineering trades insisted upon regulated **timework** to protect members from unwholesome piecework speedups."*

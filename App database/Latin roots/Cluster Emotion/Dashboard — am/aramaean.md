@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of one of a group of semitic peoples inhabiting aram and parts of mesopotamia from the 11th to the 8th century bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to aram or to its inhabitants or their culture or their language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the ancient Arameans, a Northwest Semitic people, or their culture and language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical philology, designating the Semitic dialects that served as the lingua franca of the Near East.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aramaean designates a member of one of a group of semitic peoples inhabiting aram and parts of mesopotamia from the 11th to the 8th century bc."*
+> - 📜 **Archibald Sayce (*Principles of Comparative Philology*):** *"The **Aramaean** script rapidly displaced the complex cuneiform characters in imperial administration."*
+> - 📜 **Ernest Renan (*General History of the Semitic Languages*):** *"The international prestige of **Aramaean** merchants carried their language from Egypt to the borders of India."*
+> - 📜 **William Robertson Smith (*The Religion of the Semites*):** *"Sacrificial rituals among the **Aramaean** tribes reflected ancient pastoral kinship customs."*

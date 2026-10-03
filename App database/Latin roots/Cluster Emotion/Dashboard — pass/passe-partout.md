@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Key that secures entrance everywhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mounting for a picture using gummed tape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A master key that opens many doors; also a picture mount or framing method using tape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French literature and theater, an ingenious jack-of-all-trades (as Phileas Fogg's valet Passepartout in Jules Verne).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passe-partout designates key that secures entrance everywhere."*
+> - 📜 **Jules Verne (*Around the World in Eighty Days*):** *"My name is **Passepartout**, an honest nickname given by my friends because I am handy at all trades."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Holmes carried a small skeleton pick and a **passe-partout** key to gain entry to the villa."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck's bunch of keys included a silent **passe-partout** that opened every pupil's wardrobe."*

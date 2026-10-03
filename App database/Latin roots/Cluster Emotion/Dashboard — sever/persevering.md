@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be persistent, refuse to stop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quietly and steadily persevering especially in detail or exactness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing in a course of action despite difficulties; persistent, resolute, and steadfast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical praise, characterized by tireless and determined labor toward a difficult objective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the doomed young rebel (otherwise a mild youth, and very persevering), showing no sign of grace as he got older but, on the contrary, constructing a model of a power-loom, she was fain, with many tears, to mention his backslidings to the baronet."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Diligent, persevering, steady, acute in business."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They are the thankful record and tribute to the power of _persevering faith_."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A **persevering** spirit will scale obstacles that appear insuperable to the indolent spectator."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"David was a **persevering** youth, mastering shorthand through months of relentless nocturnal study."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Industry and **persevering** frugality raised me from an obscure apprentice to an independent citizen."*

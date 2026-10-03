@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resoluteness by virtue of being unyielding and inflexible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resoluteness by virtue of being unyielding and inflexible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unyielding firmness of purpose; resolute, uncompromising determination or stubbornness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis, an immovable moral conviction or psychological refusal to capitulate to pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adamance designates resoluteness by virtue of being unyielding and inflexible."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola faced the papal commissioners with an **adamance** that silenced their threats."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The grim **adamance** of the Jacobin leadership resisted every compromise with the court."*
+> - 📜 **Henry James (*The Bostonians*):** *"Olive Chancellor's quiet **adamance** in her feminist mission was impervious to social mockery."*

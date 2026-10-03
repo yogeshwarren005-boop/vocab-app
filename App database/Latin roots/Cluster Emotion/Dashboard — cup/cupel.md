@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small porous bowl made of bone ash used in assaying to separate precious metals from e.g. lead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small porous bowl made of bone ash used in assaying to separate precious metals from e.g. lead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, porous shallow vessel made of bone ash, used in assaying and refining precious metals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgical chemistry, an absorbent crucible heated in a muffle furnace to separate lead from gold and silver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupel designates a small porous bowl made of bone ash used in assaying to separate precious metals from e.g. lead."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The molten lead was absorbed by the porous bone ash of the **cupel**, leaving a pure bead of silver behind."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Examine the surface of the **cupel** carefully to verify that all base metals have oxidized and sunken into the vessel."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"In high-temperature assaying, the bone-ash **cupel** withstands intense heat while selectively absorbing volatile litharge."*

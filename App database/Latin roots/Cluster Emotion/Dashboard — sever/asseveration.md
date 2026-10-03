@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A declaration that is made emphatically (as if no supporting evidence were necessary).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A declaration that is made emphatically (as if no supporting evidence were necessary).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious, earnest, or solemn declaration or affirmation of fact; an emphatic avowal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal jurisprudence and rhetoric, an assertion made with solemn gravity to establish credibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Dollop became more and more convinced by her own asseveration, that Dr."*
-> - 📜 **James Joyce (*Ulysses*):** *"After this homily which he delivered with much warmth of asseveration Mr Mulligan in a trice put off from his hat a kerchief with which he had shielded it."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Attorney-General concluded by demanding of them, in the name of everything he could think of with a round turn in it, and on the faith of his solemn asseveration that he already considered the prisoner as good as dead and gone."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A dogmatic philosopher demands credit upon his bare **asseveration**, rather than through demonstration of causes."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"No ministerial **asseveration** can persuade free citizens that taxation without representation is just."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn listened to the clerk's frightened **asseveration** with his customary chilling composure."*

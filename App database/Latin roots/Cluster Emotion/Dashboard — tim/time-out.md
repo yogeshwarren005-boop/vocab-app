@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief suspension of play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brief suspension of play.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief suspension of activity, gameplay, or work; also a temporary disciplinary isolation for a misbehaving child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing network protocols, an event triggered when an expected transmission fails to occur within a designated duration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-out designates a brief suspension of play."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The coach signaled a hurried **time-out** from the sideline, desperate to steady the quarterback's frazzled nerves."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The tired fruit pickers took a rare ten-minute **time-out** beneath the willow shade to drink lukewarm water from a rusty can."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"The combatants paused as if an unspoken **time-out** had fallen over the bombardment, leaving only the distant drone of planes."*

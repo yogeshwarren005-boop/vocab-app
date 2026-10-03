@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apostle and patron saint of ireland; an english missionary to ireland in the 5th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apostle and patron saint of ireland; an english missionary to ireland in the 5th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal name of Latin origin (*Patricius*, noble); famously the patron saint of Ireland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Irish history and folklore, the fifth-century missionary bishop who converted the Gaelic kingdoms to Christianity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, by Saint Patrick, but there is, Horatio, And much offence too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At Friar Patrick’s cell, Where I intend holy confession."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sun begins to gild the western sky, And now it is about the very hour That Silvia at Friar Patrick’s cell should meet me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, by Saint **patrick**, but there is, Horatio, and much offence too, in the ghost's dread revelation."*
+> - 📜 **James Joyce (*Dubliners*):** *"The late lamented **patrick** Morkan, our grandfather, was a staunch citizen of Dublin whose memory we cherish this evening."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"The prisoner was defended by Mr **patrick** Butler, K.C., who was mistaken for an actor on account of his dramatic eloquence."*

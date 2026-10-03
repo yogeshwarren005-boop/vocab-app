@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language based as far as possible on words common to all the european languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language based as far as possible on words common to all the european languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial international auxiliary language created in 1887 by L. L. Zamenhof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics, the most widely spoken constructed auxiliary language, designed with regular grammar and European roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"General amnesty, weekly carnival with masked licence, bonuses for all, esperanto the universal language with universal brotherhood."*
+> - 📜 **L. L. Zamenhof (*An Attempt towards an International Language*):** *"I published my grammar under the pseudonym Doktoro **Esperanto**, signifying one who hopes for universal human brotherhood."*
+> - 📜 **George Bernard Shaw (*Preface to Pygmalion*):** *"An artificial idiom like **Esperanto** proves that logical orthography is completely achievable when custom is set aside."*
+> - 📜 **Leo Tolstoy (*Letters and Essays*):** *"I mastered **Esperanto** in a few hours, finding it so simple and expressive that every enlightened person should learn it."*

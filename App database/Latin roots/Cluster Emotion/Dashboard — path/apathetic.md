@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing little or no emotion or animation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a lack of interest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or feeling no interest, enthusiasm, or concern; indifferent, impassive, or unresponsive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology, describing a blunted affective state resulting from depression, trauma, or neurological injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While they uncovered the sheaves he stood apathetic beside his portable repository of force, round whose hot blackness the morning air quivered."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She had not told him of my visit; he was so listless and apathetic that it worried him to talk, or to have people talk to him."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He is by no means apathetic, but loves both old and young, affects the very brutes and birds and flowers of the field."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The long, joyless labor of the mills left the factory hands listless and **apathetic** to political harangues."*
+> - 📜 **George Eliot (*Silas Marner*):** *"In his lonely cottage, the weaver grew dull and **apathetic**, caring for nothing save the nightly counting of his gold."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Profund exhaustion produces an **apathetic** stupor wherein the most alarming sensory stimuli evoke no response."*

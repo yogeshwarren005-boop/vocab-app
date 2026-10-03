@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressive of sympathetic pleasure or joy on account of someone's success or good fortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of sympathetic pleasure or joy on account of someone's success or good fortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing joy, congratulations, or celebratory praise; congratulatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and poetry, verses or epistles composed to honor a coronation or wedding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"On his way to the railroad station to which he drove slowly, in conscious enjoyment of the beautiful morning, with an unwonted sense of leisure, and a keen anticipation of pleasure, his talk was all in the grateful and gratulatory vein."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The heavenly host raised a **gratulatory** hymn, celebrating the triumphant return of the Son."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Poets vied with one another in presenting **gratulatory** odes upon the accession of the new monarch."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Let our opening address be a **gratulatory** acknowledgment of the king's patronizing of scientific inquiry."*

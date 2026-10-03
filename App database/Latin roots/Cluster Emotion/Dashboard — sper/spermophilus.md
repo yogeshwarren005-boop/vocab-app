@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typical ground squirrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typical ground squirrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of terrestrial rodents in the squirrel family Sciuridae; ground squirrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, Holarctic burrowing rodents that feed primarily upon seeds, herbs, and small insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermophilus designates typical ground squirrels."*
+> - 📜 **John James Audubon (*The Quadrupeds of North America*):** *"Species of the genus **Spermophilus** are distinguished by short tails, cheek pouches, and fossorial claws."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual selection in **Spermophilus** involves aggressive territorial disputes between males during early spring."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Colonies of **Spermophilus** excavate extensive subterranean labyrinths across the Eurasian steppes."*

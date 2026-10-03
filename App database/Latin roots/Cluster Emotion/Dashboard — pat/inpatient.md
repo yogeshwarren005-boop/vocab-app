@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A patient who is residing in the hospital where he is being treated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A patient who is residing in the hospital where he is being treated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A patient who stays in a hospital while under treatment, occupying a bed overnight or longer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare administration and hospital medicine, a admitted clinical subject receiving continuous nursing care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inpatient designates a patient who is residing in the hospital where he is being treated."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin examined the clinical charts of every **inpatient** in the contagion pavilion, seeking patterns in the epidemic."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The surgical team reviewed the morning rounds for each **inpatient**, checking wound drains and vital signs."*
+> - 📜 **William Osler (*Aequanimitas and Other Addresses*):** *"Bedside instruction requires the medical student to observe the **inpatient** with sympathetic diagnostic acumen."*

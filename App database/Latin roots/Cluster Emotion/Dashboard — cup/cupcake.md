@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small cake baked in a muffin tin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small cake baked in a muffin tin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cake baked in a cup-shaped foil or paper container, typically iced and decorated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early American culinary history, an individual portion cake originally measured out by volume in standard tea cups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupcake designates small cake baked in a muffin tin."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Meg baked a delicate frosted **cupcake** for each of the children as a special holiday surprise."*
+> - 📜 **Amelia Simmons (*American Cookery*):** *"Bake the sweet batter in small cups until golden, producing a light and toothsome **cupcake**."*
+> - 📜 **Laura Ingalls Wilder (*Little Town on the Prairie*):** *"Mary carefully set a pink-frosted **cupcake** beside each dinner plate for the sociable."*

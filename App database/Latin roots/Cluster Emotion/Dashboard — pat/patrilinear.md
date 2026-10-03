@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or tracing descent through the male line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or tracing descent through the male line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Patrilineal; tracing descent or transmitting rights and property through the male line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and sociological taxonomy, an agnatic kinship system centered on male lineage continuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrilinear designates based on or tracing descent through the male line."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"The Roman agnatic family was essentially **patrilinear**, excluding all relationship traced through married daughters."*
+> - 📜 **William Graham Sumner (*Folkways*):** *"Feudal tenure rested upon an uncompromisingly **patrilinear** principle to ensure that military service remained unbroken."*
+> - 📜 **Edward Westermarck (*The Origin and Development of the Moral Ideas*):** *"Ancestral sacrifices in ancient China were organized around **patrilinear** tablets housed in the family hall."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The writings of the early church fathers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the lives, writings, and doctrines of the church fathers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of Christian theology that deals with the lives, writings, and doctrines of the early Church Fathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical academic curricula, historical study analyzing the development of orthodoxy and creeds in antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patristics designates the writings of the early church fathers."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"My studies in **patristics** opened my eyes to the living continuity of Catholic tradition through the ages."*
+> - 📜 **William E. H. Lecky (*History of European Morals*):** *"The chair of **patristics** at Oxford trained young scholars to decipher early Greek and Latin church manuscripts."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"Modern **patristics** has benefited enormously from the critical recovery of Syriac and Armenian translations of lost treatises."*

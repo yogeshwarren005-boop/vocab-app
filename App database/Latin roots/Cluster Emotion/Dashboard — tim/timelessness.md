@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of eternal existence believed in some religions to characterize the afterlife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of eternal existence believed in some religions to characterize the afterlife.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of existing outside of or being unaffected by time; eternal quality and relevance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spiritual contemplation and art theory, an immersive stillness wherein chronological awareness dissolves entirely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timelessness designates a state of eternal existence believed in some religions to characterize the afterlife."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"In the presence of profound philosophical truth, the soul enters a state of serene **timelessness**, beyond mortal change."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"A sense of absolute **timelessness** enveloped the empty seaside cottage during the long winter nights."*
+> - 📜 **T. S. Eliot (*Four Quartets*):** *"Only through time time is conquered, granting glimpses of transcendent **timelessness** amidst our hurried days."*

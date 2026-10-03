@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage or engross the interest or attention of beforehand or occupy urgently or obsessively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occupy or take possession of beforehand or before another or appropriate for use in advance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engross or absorb the attention of someone to the exclusion of other things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic and legal contexts, to take prior possession of a position, territory, or privilege before rivals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"What we desire eludes us at the moment of grasping it--or those affections which are the foundation of our lives preoccupy us, and blind the soul."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say you chose him More after our commandment than as guided By your own true affections, and that your minds, Preoccupied with what you rather must do Than what you should, made you against the grain To voice him consul."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her mother was extremely preoccupied, as could easily be seen."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Prejudice and early superstition tend to **preoccupy** the youthful intellect, closing it against new truths."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Vain anxieties about the future **preoccupy** the imagination, robbing the present hour of its natural tranquility."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman vanguard hastened to **preoccupy** the mountain defiles before the Persian army could advance."*

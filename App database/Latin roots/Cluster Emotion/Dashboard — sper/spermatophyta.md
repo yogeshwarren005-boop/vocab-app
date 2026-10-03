@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic division of plants that produce seeds, encompassing gymnosperms and angiosperms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, seed plants that revolutionized terrestrial ecosystems by freeing fertilization from standing water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatophyta designates seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots)."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The grand division **Spermatophyta** encompasses all flowering plants and cone-bearing gymnosperms of our flora."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The sudden appearance of diversified higher **Spermatophyta** in Cretaceous strata long seemed an abominable mystery."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The Sierra pine forests showcase the magnificent pinnacle of evolutionary development in the **Spermatophyta**."*

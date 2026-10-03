@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or inherited from one's father.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a father.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a father; fatherly, benevolent, or protective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genealogy and jurisprudence, lineage, property, or legal rights inherited from or traced through the father's side.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"If he really sought to reconcile himself like a dutiful branch, he must be forgiven for having dismembered himself from the paternal tree."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Her paternal aunt looks after her, and both of them must abstain from eating turtle, dugong, and the heads of fish."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is waited on by women who stand to her in a certain relationship (_mowai_), apparently her paternal aunts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it be so, thy truth then be thy dower: for, by the sacred radiance of the sun, here I disclaim all my **paternal** care."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His letters were to be forwarded to Gordon Square, where he had inherited a modest **paternal** estate from his father."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In several species of birds, **paternal** devotion is so marked that the male alone incubates the clutch of eggs."*

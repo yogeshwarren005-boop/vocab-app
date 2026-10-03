@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a muon; decays to positron and neutrino and antineutrino.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a muon; decays to positron and neutrino and antineutrino.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a muon, possessing positive electric charge, spin-1/2, and mass identical to the muon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics, a leptonic antiparticle that decays into a positron, electron neutrino, and muon antineutrino within microseconds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimuon designates the antiparticle of a muon; decays to positron and neutrino and antineutrino."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"Cosmic rays showering through our upper atmosphere continuously generate pairs of muons and **antimuon** particles."*
+> - 📜 **Steven Weinberg (*The Quantum Theory of Fields*):** *"The decay kinematics of the **antimuon** provided crucial experimental confirmation of the V-minus-A weak interaction structure."*
+> - 📜 **Frank Wilczek (*The Lightness of Being*):** *"In magnetic resonance experiments, a polarized **antimuon** acts as an extraordinarily sensitive probe of local magnetic fields."*

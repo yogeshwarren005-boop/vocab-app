@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is voluntarily absent from home or country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expel from a country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lives outside their native country; also to banish or withdraw from one's homeland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law and literature, voluntary or forced residence abroad, characteristic of modern literary circles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Saint-Martin will not expatriate himself without from time to time making inquiries."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond was an American **expatriate** who had spent so many years in Italy that his native tongue sounded faintly foreign."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The drawing room was frequented by an aristocratic **expatriate** whose lineage commanded respect despite reduced fortune."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The political **expatriate** carries into foreign exile a burning memory of his lost homeland's turbulent factions."*

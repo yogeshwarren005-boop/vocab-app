@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cup of tea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cup of tea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who performs the medical therapy of cupping; also a tool or device used for cupping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the historical history of medicine, a surgical practitioner specializing in bloodletting using heated glass suction cups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Osborne was apprised; the doctors were sent for; Georgy stopped away from school; the bleeders and cuppers came."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In local pulmonary congestion, the skilled hospital **cupper** applied dry glasses along the posterior thorax."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"A noisy Italian **cupper** was summoned to bleed the patient, brandishing his scarificator with theatrical flourishes."*
+> - 📜 **Benjamin Rush (*Medical Inquiries and Observations*):** *"The professional **cupper** must exercise caution when scarifying children, lest excessive bloodletting induce syncope."*

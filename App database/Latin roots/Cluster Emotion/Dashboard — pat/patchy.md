@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Irregular or uneven in quality, texture, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irregular or uneven in quality, texture, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing or happening in scattered patches; irregular, uneven, or inconsistent in quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and dermatology, displaying mottled discoloration or sparse, uneven foliage growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Any stranger peeping into the office at that moment might have wondered what was the drama between the indignant man of business, and the fine-looking young fellow whose blond complexion was getting rather patchy as he bit his lip with mortification."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They reported that they had worked the field out and that it was very patchy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Any stranger peeping into the office at that moment might have wondered what **patchy** business could detain them so late."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"These black beams were set crooked or crisscross at all kinds of angles, giving the plaster wall a curiously **patchy** look."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Memory is **patchy**; brilliant moments of childhood remain vivid while entire years dissolve into gray fog."*

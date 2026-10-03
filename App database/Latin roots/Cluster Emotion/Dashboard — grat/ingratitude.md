@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of gratitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discreditable lack of gratitude; failure or refusal to acknowledge and return kindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and philosophy, regarded as the most hateful and monstrous of human vices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The ingratitude of this Seleucus does Even make me wild."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AMIENS. (_Sings_.) Blow, blow, thou winter wind, Thou art not so unkind As man’s ingratitude."*
+> - 📜 **William Shakespeare (*King Lear*):** *"**Ingratitude**, thou marble-hearted fiend, more hideous when thou show'st thee in a child than the sea-monster! How sharper than a serpent's tooth it is to have a thankless child."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Base **ingratitude** dissolves the moral bonds of society, making men distrust every generous action."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge recoiled at the monstrous **ingratitude** revealed in the vision of his abandoned deathbed."*

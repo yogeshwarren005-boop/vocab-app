@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate into parts or portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate into parts or portions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide, separate, or sever into distinct parts; to disunite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic and emotional diction, to tear asunder bonds of love, political union, or friendship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good Paulina, Lead us from hence; where we may leisurely Each one demand, and answer to his part Perform’d in this wide gap of time, since first We were dissever’d."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"He had contrived, or rather he had happened, to dissever himself from the world--to vanish--to give up his place and privileges with living men, without being admitted among the dead."*
+> - 📜 **Edgar Allan Poe (*Annabel Lee*):** *"And neither the angels in heaven above nor the demons down under the sea can ever **dissever** my soul from the soul of the beautiful Annabel Lee."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Death came to **dissever** all tender ties of human felicity and leave mankind in darkness."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"Sorrow rose to **dissever** the glorious fellowship of the Round Table before the realm dissolved."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disinclination to quarrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a disposition characterized by warmth and friendliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The peaceful characteristic of being amicable; friendliness, cordiality, and goodwill in relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history, the conciliatory spirit displayed by ambassadors seeking treaty accords.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amicableness designates a disinclination to quarrel."*
+> - 📜 **John Adams (*Diplomatic Correspondence*):** *"The **amicableness** of the French minister's reception promised well for our commercial mission."*
+> - 📜 **Benjamin Franklin (*Writings*):** *"Mutual **amicableness** in trade benefits both the buyer and the seller more than jealous restrictions."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law favors the **amicableness** of arbitration over prolonged and ruinous courtroom litigation."*

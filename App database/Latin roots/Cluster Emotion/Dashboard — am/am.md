@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive transuranic metallic element; discovered by bombarding uranium with helium atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A master's degree in arts and sciences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: First-person singular present indicative of the verb 'be'; expressing existence, state, or identity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ontology, the foundational self-assertion of subjective existence (Descartes' *Cogito, ergo sum*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"SOMETIME FELLOW IN GERMANIC LANGUAGES AND LITERATURES, COLUMBIA UNIVERSITY AMS PRESS, INC."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"NEW YORK 1966 Copyright 1905, Columbia University Press, New York Reprinted with the permission of the Original Publisher, 1966 AMS PRESS, INC."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"And confound redheaded school-ma’ams with a habit of popping out of beechwoods where they had no business to be."*
+> - 📜 **William Shakespeare (*Othello*):** *"I **am** not what I **am**; heaven is my judge, not I for love and duty, but seeming so for my peculiar end."*
+> - 📜 **Walt Whitman (*Song of Myself*):** *"I exist as I **am**, that is enough, if no other in the world be aware I sit content."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"I **am** a man from the City of Destruction, but I **am** going to Mount Zion."*

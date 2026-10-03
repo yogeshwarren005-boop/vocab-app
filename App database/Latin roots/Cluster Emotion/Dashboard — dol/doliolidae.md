@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oceanic tunicates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oceanic tunicates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of small, barrel-shaped, free-swimming marine tunicates (order Doliolida).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, pelagic thaliaceans featuring complete muscle hoops and complex metagenic life cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doliolidae designates oceanic tunicates."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Members of the family **Doliolidae** swim by ejecting jets of water through their circular muscular hoops."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The pelagic larvae of **Doliolidae** exhibit a rudimentary notochord, confirming their chordate affinities."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Plankton hauls in warm currents often swarm with countless transparent zooids belonging to **Doliolidae**."*

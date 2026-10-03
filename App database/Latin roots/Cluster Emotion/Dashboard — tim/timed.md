@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measure the time or duration of an event or action or the person who performs an action in a certain period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign a time for an activity or event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set, scheduled, or controlled to occur at a specific moment; also measured with a chronometer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military artillery and cinematic direction, synchronized to fire or execute in harmony with accompanying events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sword, Death’s stamp, Where it did mark, it took; from face to foot He was a thing of blood, whose every motion Was timed with dying cries."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you have really meant to give me a proof of your good opinion, though ill-timed and misplaced, I feel that I ought to thank you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, little housewife,” said my guardian, looking at his watch, “I was strictly timed before I came upstairs, for you must not be tired too soon; and my time has waned away to the last minute."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His sword, Death's stamp, where it did mark, it took; from face to foot he was a thing of blood, whose every motion was **timed** with dying cries."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sky was remarkably clear, and the twinkling of all the stars seemed to be **timed** to the same rhythm across the nocturnal downs."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My arrival was so well **timed** that I walked into the dining-parlour just as tea was being served by Peggotty."*

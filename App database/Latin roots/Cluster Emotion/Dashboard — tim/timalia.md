@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the timaliidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the timaliidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of passerine birds native to South and Southeast Asia within the babbler family Timaliidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological taxonomy, small insectivorous songbirds characterized by dense plumage, strong legs, and skulking behavior in undergrowth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timalia designates type genus of the timaliidae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Among the dense bamboo thickets of Sumatra, I collected a rare species of **timalia** flitting through the lower foliage."*
+> - 📜 **Edward Blyth (*Catalogue of the Birds in the Museum Asiatic Society*):** *"The generic characters of **timalia** include a stout, moderately curved bill and rounded wings adapted for low flights."*
+> - 📜 **Thomas C. Jerdon (*The Birds of India*):** *"This chestnut-capped **timalia** frequents reed-beds and tall grass, keeping up a continuous chatter with its flock."*

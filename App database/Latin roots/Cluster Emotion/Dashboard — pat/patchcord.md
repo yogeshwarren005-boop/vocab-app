@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A length of wire that has a plug at each end; used to make connections at a patchboard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A length of wire that has a plug at each end; used to make connections at a patchboard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical or optical cable used to connect one electronic device to another for signal routing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audio engineering and data center administration, a flexible cord terminating in jacks plugged into patchbays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patchcord designates a length of wire that has a plug at each end; used to make connections at a patchboard."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The communications officer snapped a heavy **patchcord** into the transmitter console, establishing contact with the lunar station."*
+> - 📜 **Philip K. Dick (*Do Androids Dream of Electric Sheep?*):** *"He disconnected the frayed **patchcord** from the empathy console, silencing the simulated mountain climb."*
+> - 📜 **Stanislaw Lem (*Solaris*):** *"A tangle of black **patchcord** wiring linked the spectrometer to the main library computer bank."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make furious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make furious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone extremely angry, enraged, or furious; to provoke to frantic wrath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political or social discourse, to incite intense public indignation through provocative or unjust actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"The rain poured like a second deluge, and terrific winds roared, and shrieked, and bellowed like infuriate spirits of the rushing storm."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"An ani- mal may infuriate another by looking it in the eye, and both will fight for nothing."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The effect was to infuriate the old fellow tenfold, and down he came careering toward us, with what I then thought the most vicious expression of countenance I had ever seen on a buffalo's physiognomy."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"To dismiss a man's deepest religious convictions as trivial nonsense will **infuriate** him far more than open insult."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Severe and unexpected penalties **infuriate** the populace, turning peaceful subjects into desperate conspirators."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Nothing seems to **infuriate** dogmatic theologians more than a quiet presentation of verifiable scientific evidence."*

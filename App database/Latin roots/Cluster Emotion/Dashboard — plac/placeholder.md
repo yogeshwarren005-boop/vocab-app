@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to act for another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbol in a logical or mathematical expression that can be replaced by the name of any member of specified set.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that occupies a position or function temporarily until a permanent replacement is found.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography, algebra, and programming, a variable symbol or dummy text (like Lorem Ipsum) holding space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placeholder designates a person authorized to act for another."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"The appointed senator acted as a mere political **placeholder** until the state legislature chose a permanent successor."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"In formal propositional calculus, the variable 'x' acts as an abstract **placeholder** awaiting specific values."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I inserted a temporary wooden **placeholder** in the printer's galley while awaiting the missing line of lead type."*

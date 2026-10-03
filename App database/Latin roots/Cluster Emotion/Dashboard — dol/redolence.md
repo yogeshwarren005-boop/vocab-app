@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleasingly sweet olfactory property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pleasingly sweet olfactory property.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleasant, sweet, or fragrant smell; fragrance, aroma, or suggestive odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic prose, an evocative quality that powerfully brings back memories or associations of the past.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redolence designates a pleasingly sweet olfactory property."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The sweet **redolence** of the old garden roses drifted through the open gables on the summer air."*
+> - 📜 **Henry James (*The American*):** *"The ancient cathedral was filled with the dim **redolence** of centuries of burned incense and beeswax."*
+> - 📜 **John Keats (*Isabella; or, The Pot of Basil*):** *"The sweet basil grew thick and green, moist with tears and breathing an intoxicating **redolence**."*

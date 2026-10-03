@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pathogenic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pathogenic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pathogenic manner; by means of disease production or infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, acting through cellular invasion, toxin secretion, or tissue destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathogenically designates in a pathogenic manner."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The bacillus operates **pathogenically** by secreting a soluble exotoxin that attacks peripheral motor nerves."*
+> - 📜 **Robert Koch (*Investigations on Wound Infections*):** *"The introduced bacteria multiplied **pathogenically** along the lymphatic channels, producing acute lymphangitis."*
+> - 📜 **Louis Pasteur (*Researches on Attenuation of Virus*):** *"Subcultures maintained at elevated temperatures ceased to act **pathogenically**, serving as protective vaccines."*

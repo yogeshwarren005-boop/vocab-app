@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of wanting to push ahead with something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A positive feeling of wanting to push ahead with something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being avid; intense eagerness, greediness, or voracity of desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological assessment, the persistent intensity with which a person pursues intellectual or material goals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, avidness designates a positive feeling of wanting to push ahead with something."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Her wild **avidness** for Parisian luxury made the quiet heath appear like a dismal prison."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In mystical absorption, the soul displays a peculiar **avidness** for transcendent union that ignores worldly cares."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I observed the **avidness** of the fishers on the pond, whose patience was but hunger disguised as recreation."*

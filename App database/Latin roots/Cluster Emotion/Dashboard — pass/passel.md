@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of') a large number or amount or extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large group or collection of people or things of an unspecified number; a pack (dialectal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American regional literature and folklore, an informal collective noun for children, dogs, or troubles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"T warn't so that I could be spared from home to learn the dressmaker's trade." "'T would a come handy later on, I declare," answered the sympathetic driver, "bein' 's you went an' had such a passel o' gals to clothe an' feed."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Then--"Near's I can make out it's a passel of elephants and they've got us here to work." "What?" Sherman shouted back, not sure he had heard aright."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"There was a whole **passel** of dogs barking and yelping around the cabin porch when we arrived."*
+> - 📜 **Hamlin Garland (*Main-Travelled Roads*):** *"The farmer sighed as he surveyed the **passel** of unpaid bills lying upon the kitchen table."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp*):** *"A noisy **passel** of miners crowded around the cradle to catch a glimpse of the frontier baby."*

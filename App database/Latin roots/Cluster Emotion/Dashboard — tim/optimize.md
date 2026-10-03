@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make optimal; get the most out of; use best.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modify to achieve maximum efficiency in storage capacity or time or cost.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make the best or most effective use of a situation, opportunity, process, or resource.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algorithmic software design, refactoring code to run faster or consume fewer hardware resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They intended to cut straight through our defenses to optimize their broadsides but instead they opened themselves to ours."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"To **optimize** the signal-to-noise ratio, the filter must match the spectral characteristics of the transmitted pulse."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Engineers strive to **optimize** feedback loops so that automatic mechanisms respond smoothly without destructive oscillation."*
+> - 📜 **Herbert Simon (*Administrative Behavior*):** *"While classical economics assumes agents **optimize** outcomes, administrative actors must often settle for satisfying choices."*

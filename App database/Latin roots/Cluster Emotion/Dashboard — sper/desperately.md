@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With great urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intense despair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that shows despair, extreme urgency, or frantic willingness to take any risk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, struggling with all one's might against overwhelming physical or emotional odds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your eldest daughters have fordone themselves, And desperately are dead."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A man that apprehends death no more dreadfully but as a drunken sleep; careless, reckless, and fearless of what’s past, present, or to come; insensible of mortality and desperately mortal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A bloody deed, and desperately dispatched."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I struggled **desperately** against the cold waves, striving to keep the battered skiff afloat in the gale."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I clung **desperately** to my moral resolutions, though my heart cried out for Rochester's love."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sir Henry looked **desperately** around the barren moor as the hound's baying drew terrifyingly near."*

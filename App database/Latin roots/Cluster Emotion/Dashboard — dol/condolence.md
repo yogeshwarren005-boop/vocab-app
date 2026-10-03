@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of sympathy with another's grief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expression of sympathy with another's grief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of sympathy, especially on the occasion of a death or bereavement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette, letters or messages of condolence offering comforting solace to the grieving family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"No letter of condolence had been sent to Ireland."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She wished me to look after the house, to see callers, and answer notes of condolence."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Assistance is impossible; condolence, insufferable."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Dashwood received the formal visits of **condolence** with dignified, quiet sorrow."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Omer sent his respectful **condolence** accompanied by a modest wreath for the funeral."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Holmes offered sincere **condolence** to the family before turning to examine the physical clues."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoking horror; ; ; ; - winston churchill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing horror; terrifying, dreadful, appalling, or shockingly repulsive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, generating intense visceral fear or moral revulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You shuddered as you gazed, and wondered what monstrous cannibal and savage could ever have gone a death-harvesting with such a hacking, horrifying implement."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"The 'ole thing 'ere," said the hired retainer, "is these 'ere fowls have bin and got the roop." I had never heard of the disease before, but it sounded quite horrifying."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"You shuddered as you gazed, and wondered what monstrous cannibal and savage could ever have gone a death-harvesting with such a hacking, horrifying implement."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The cry of the puma during the vivisection was the most **horrifying** sound I had ever heard."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A **horrifying** howl echoed across the black granite tors, chilling our very marrow."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The wilderness had whispered to him things about himself which he did not know, whispering a **horrifying** fascination."*

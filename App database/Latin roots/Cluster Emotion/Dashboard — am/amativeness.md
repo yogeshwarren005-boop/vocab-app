@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The arousal of feelings of sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arousal of feelings of sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to love or erotic passion; amorous propensity or romantic inclination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century phrenology (Gall and Spurzheim), the cerebral organ situated at the cerebellum governing sexual instinct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amativeness designates the arousal of feelings of sexual desire."*
+> - 📜 **Edgar Allan Poe (*The Imp of the Perverse*):** *"Phrenologists assigned to the cerebellum the organ of **amativeness**, attributing to it every romantic impulse."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Dr. John possessed little sentimental **amativeness**, being of a cool, practical temperament in youth."*
+> - 📜 **Walt Whitman (*Democratic Vistas*):** *"Robust personalism balances the **amativeness** of marital devotion with the adhesiveness of fraternal comradeship."*

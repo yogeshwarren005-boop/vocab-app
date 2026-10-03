@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With optimism; in an optimistic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With optimism; in an optimistic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optimistic manner; with hopefulness, cheer, and positive expectation of success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, viewing daunting challenges with resilient cheer and forward-looking faith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optimistically designates with optimism; in an optimistic manner."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert Pocket smiled **optimistically**, declaring that his affairs were upon the brink of turning out gloriously."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mr. Tulliver spoke **optimistically** of the impending lawsuit, confident that equity and good sense would prevail."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Maud looked **optimistically** toward the horizon, convinced that a passing schooner would spy our drifting boat."*

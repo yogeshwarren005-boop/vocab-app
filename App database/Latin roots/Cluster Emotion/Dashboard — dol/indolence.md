@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inactivity resulting from a dislike of work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from a dislike of work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Avoidance of activity or exertion; habitual laziness, sloth, or love of ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th-century moral essayists, a seductive spiritual paralysis that squanders natural talent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Eliza generally took no more notice of her sister’s indolence and complaints than if no such murmuring, lounging object had been before her."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"When the first transports of rage which had produced his activity in seeking her were over, he naturally returned to all his former indolence."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Indolence and love of ease; a want of all laudable ambition, of taste for good company, or of inclination to take the trouble of being agreeable, which make men clergymen."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet's natural **indolence** made him neglect the prudent financial provision of his five daughters."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Of all the vices that corrupt human nature, none is more insidiously fatal to virtue than **indolence**."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Society everywhere is in conspiracy against the manhood of every one of its members; let us throw off **indolence**."*

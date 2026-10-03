@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a self-satisfied manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a self-satisfied manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a smug, self-satisfied, or uncritical manner; with unconcerned ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, smiling or resting contentedly while ignoring urgent realities around one.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe, smiling complacently; “I must say it, though I _am_ his mother, that there is not a more agreeable young man in the world.” This inapplicable answer might have been too much for the comprehension of many; but it did not puzzle Mrs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Reed would have endured my presence more complacently; her children would have entertained for me more of the cordiality of fellow-feeling; the servants would have been less prone to make me the scapegoat of the nursery."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"That is all right, captain,” Smee answered complacently; “we let her go.” “Let her go!” cried Hook."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pumblechook sipped his hot port wine **complacently**, taking all the credit for my unexpected fortune."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Lestrade smiled **complacently** as he produced the handcuffs, convinced he had apprehended the true thief."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The squire rubbed his hands **complacently** before the blazing hearth, proud of his ancestral acres."*

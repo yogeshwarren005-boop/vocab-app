@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a paternal manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a paternal manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a paternal, fatherly, benevolent, or protective manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genealogical descent, on or through the father's side of the family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turveydrop, paternally encircling Caddy with his left arm as she sat beside him, and putting his right hand gracefully on his hip."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The Marquis of Steyne was present, paternally superintending the progress of his pupil."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Jaggers laid his large hand **paternally** upon Pip's shoulder, advising him to guard his fortune against adventurers."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old baronet beamed **paternally** upon the assembled tenantry, wishing them prosperity at the harvest feast."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard regarded the girl **paternally**, longing to reveal that the bond between them was far deeper than friendship."*

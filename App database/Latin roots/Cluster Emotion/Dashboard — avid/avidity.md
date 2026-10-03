@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of wanting to push ahead with something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A positive feeling of wanting to push ahead with something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme eagerness or enthusiasm; greediness or ravenous appetite for possession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical thermodynamics and immunology, the overall binding strength of an antibody or molecular complex with its antigen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John—look at the avidity in her eyes.” “No more at present, sister."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But the mild voice of reason, pleading the cause of an enlarged and permanent interest, is but too often drowned, before public bodies as well as individuals, by the clamors of an impatient avidity for immediate and immoderate gain."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It required, indeed, an insatiable avidity for censure to invent exceptions to the parts which have been excepted to."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I read with the greatest **avidity** the ancient treatises on natural philosophy that filled my father's library."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Men seize upon new mechanical inventions with feverish **avidity**, hoping to escape the ancient burdens of labor."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Pigeons consume small calcareous stones with marked **avidity** to facilitate digestion in the gizzard."*

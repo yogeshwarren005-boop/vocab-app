@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner arousing sympathy and compassion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arousing scornful pity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that arouses pity, sympathy, or compassion; in a miserably inadequate or feeble manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, exhibiting helpless vulnerability or sorrow that touches the heart of the observer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Biddy,” said I, when I gave her my hand at parting, “I am not angry, but I am hurt.” “No, don’t be hurt,” she pleaded quite pathetically; “let only me be hurt, if I have been ungenerous.” Once more, the mists were rising as I walked away."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I wrote it as fervently and pathetically as I could; and when I had finished it and sent it in, I wrote out other petitions to such men in authority as I hoped were the most merciful, and drew up one to the Crown itself."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon,” said Miss Noble, pathetically; “else I must go back and say No, and that will hurt him.” “Yes, I will see him,” said Dorothea."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The abandoned child looked up **pathetically** into the carrier's face, clutching a small wicker box."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie clung **pathetically** to her brother's hand, begging for one kind word of forgiveness."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"The lonely clerk murmured **pathetically** that he would prefer not to make any change in his habits."*

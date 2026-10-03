@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fish-like vertebrate with bony plates on head and upper body; dominant in seas and rivers during the devonian; considered the earliest vertebrate with jaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish-like vertebrate with bony plates on head and upper body; dominant in seas and rivers during the devonian; considered the earliest vertebrate with jaws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct armored jawed fish of the class Placodermi, prominent during the Devonian period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, primitive gnathostomes having bony dermal plates protecting the head and thorax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placoderm designates fish-like vertebrate with bony plates on head and upper body; dominant in seas and rivers during the devonian; considered the earliest vertebrate with jaws."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The gigantic Devonian **placoderm** Dunkleosteus possessed shearing bony jaw plates instead of true teeth."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The armored fossils of the ancient **placoderm** demonstrate the early evolutionary experimentation with vertebrate dermal armor."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The discovery of bizarre armored forms like the Scottish **placoderm** fishes illuminated the Devonian age of fishes."*

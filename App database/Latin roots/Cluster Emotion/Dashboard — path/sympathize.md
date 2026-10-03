@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the feelings of; understand the sentiments of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be understanding of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or express sympathy; to share in suffering or feelings of another (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics (David Hume and Adam Smith), to participate through moral sentiment in the passions and conditions of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then with the losers let it sympathize, For nothing can seem foul to those that win. [_The trumpet sounds_.] Enter Worcester and Vernon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Just, just; and the men do sympathize with the mastiffs in robustious and rough coming on, leaving their wits with their wives; and then, give them great meals of beef and iron and steel, they will eat like wolves and fight like devils."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For why, the senseless brands will sympathize The heavy accent of thy moving tongue, And in compassion weep the fire out; And some will mourn in ashes, some coal-black, For the deposing of a rightful king."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"We can never feel what another feels, but by the imagination we place ourselves in his situation and **sympathize** with his grief."*
+> - 📜 **Abraham Lincoln (*Letter to Mrs. Bixby*):** *"I feel how weak and fruitless must be any word of mine which should attempt to beguile you from the grief of a loss so overwhelming, but I cannot refrain from tendering you the consolation of a republic to **sympathize** with your sorrow."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The minds of men are mirrors to one another, reflecting sentiments so that we naturally **sympathize** with the happiness of neighbors."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of providing approval and support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Customers collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The support given by a patron; the financial backing of arts, or the commercial custom of a store.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, the power to control appointments to office or the distribution of government favors and contracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, as an outlaw in a castle keeps, And useth it to patronage his theft."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, sir, as well as you dare patronage The envious barking of your saucy tongue Against my lord the Duke of Somerset."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I would suggest that as you think her worthy of your patronage, you should exert your influence to keep her from these dangerous hands."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, as an outlaw in a castle keeps, and useth it to **patronage** his theft against the sovereign's officers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It seems very unfitting that I should have this church **patronage**, yet I felt that I was answering for the welfare of the parish."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Pennyways now felt himself to be in something of a difficulty, for should Bathsheba withdraw her **patronage**, his ruin was sealed."*

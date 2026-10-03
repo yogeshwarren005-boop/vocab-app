@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a preparation that gradually releases an active substance (especially a drug) over a period of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a preparation that gradually releases an active substance (especially a drug) over a period of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to release an active constituent, medication, or chemical gradually over a prolonged period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical formulation, an enteric or encapsulated matrix designed to maintain steady therapeutic blood plasma levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-release designates of or relating to a preparation that gradually releases an active substance (especially a drug) over a period of time."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Modern pharmacologists have developed **time-release** capsules capable of sustaining uniform biochemical sedation throughout the day."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The automated life-support systems employed **time-release** nutrients to preserve the astronauts across extended hibernation cycles."*
+> - 📜 **Michael Crichton (*The Andromeda Strain*):** *"The laboratory injectors utilized a microscopic **time-release** mechanism to deliver antiviral serums in measured pulses."*

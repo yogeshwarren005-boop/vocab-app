@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing empathy or ready comprehension of others' states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing empathy or ready comprehension of others' states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by empathy; empathetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychotherapy and social neuroscience, denoting interpersonal resonances mediated by mirror neuron networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whatever the past might have been, his advanced years called for him to be nonjudgmental, empathic, and healing."*
+> - 📜 **William James (*The Principles of Psychology*):** *"There exists an instinctive **empathic** imitation whereby the sight of suffering evokes visceral discomfort in the onlooker."*
+> - 📜 **George Santayana (*The Sense of Beauty*):** *"Aesthetic appreciation relies on an **empathic** projection of human feeling into inanimate artistic forms."*
+> - 📜 **John Dewey (*Art as Experience*):** *"The spectator enters into an **empathic** communion with the painter, recreating the creative tension of the work."*

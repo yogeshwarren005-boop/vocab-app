@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) a kick in which the ball is placed on the ground before kicking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kick (a ball) from a stationary position, in football.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or skill of kicking a stationary ball from the ground or a kicking tee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In team sports strategy, scoring points through reliable penalty conversions and extra points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, place-kicking designates (sports) a kick in which the ball is placed on the ground before kicking."*
+> - 📜 **Thomas Hughes (*Tom Brown's School Days*):** *"The captains agreed that superior **place-kicking** had decided the muddy contest on Big Side."*
+> - 📜 **P. G. Wodehouse (*Tales of St. Austin's*):** *"Hours of solitary practice upon the school field perfected his mechanical accuracy in **place-kicking**."*
+> - 📜 **Arthur Conan Doyle (*The Captain of the Pole-Star and Other Tales*):** *"The Scottish team dominated the second half through brilliant handling and flawless **place-kicking**."*

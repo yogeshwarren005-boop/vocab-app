@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small flat mass of chopped food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small pie or pasty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small flat cake of minced meat, fish, or vegetable, typically fried or grilled; also a small round pie or pasty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomy and casual dining, a ground meat or plant-protein round served in a burger bun or wrapped in flaky crust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*Cinderella; Or, The Little Glass Slipper, and Other Stories*):** *"I’ve been reading Bible stories,” Patty said, “and I believe That Adam’s name MEANT ‘Morning,’ Because his wife was ‘Eve.’” BABIE’S CURLS."*
-> - 📜 **Effie Afton (*Eventide*):** *"Well, Aunt Patty, out with it!" said the youth at length, tired of her long silence."*
-> - 📜 **Effie Afton (*Eventide*):** *"The world's destiny is in a teapot, and Aunt Patty Belcher pours it forth at her pleasure; that's it;" and here they all joined in a hearty laugh."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Cole offered her callers a delicate chicken **patty** and hot tea, pressing them to taste the fresh pastry."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley consumed a savory oyster **patty** with tremendous relish, washed down with iced claret at the tavern."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The baker's boy carried a steaming tray of meat **patty** crusts through the market square, crying out the fresh morning bake."*

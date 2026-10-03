@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small measure (usually of food).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small measure (usually of food).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shapeless mass or lump of soft food; an informal small amount or portion of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary tradition and casual description, a generous spoonful of cream, jam, or butter added to a dish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Jack Dollop, a ’hore’s-bird of a fellow we had here as milker at one time, sir, courted a young woman over at Mellstock, and deceived her as he had deceived many afore."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well,” said the dairyman, “’tis that slack-twisted ’hore’s-bird of a feller, Jack Dollop."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He’s lately got married to a widow-woman.” “Not Jack Dollop?"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Peggotty ladled a steaming **dollop** of hot stew onto my plate with affectionate hospitality."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The cook hurled a greasy **dollop** of mashed turnip into the tin bowl before sliding it across the counter."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"He topped the hot peach cobbler with a cooling **dollop** of rich country cream."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without compatibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without compatibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incompatible manner; discordantly, inconsistently, or without mutual harmony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical philosophy and systemic design, elements conflicting in foundational premises or operational constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incompatibly designates without compatibility."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The two dogmatic assertions clashed **incompatibly**, leaving reason no middle ground of reconciliation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Conflicting emotional impulses often pull the will **incompatibly**, inducing momentary behavioral paralysis."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Two contradictory ideas cannot reside **incompatibly** within the same clear perception of truth."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make timid or fearful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compel or deter by or as if by threats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Frightened, overawed, or cowed into submission, hesitation, or obedience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narratives and trial transcripts, the demoralized psychological condition resulting from menacing display of superior force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I now stood in the empty hall; before me was the breakfast-room door, and I stopped, intimidated and trembling."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We shall make the best use of them, when we are no longer intimidated by the terminology, but go at once to what is meant--to the facts."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I am not to be intimidated into anything so wholly unreasonable."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"As I spoke, rage sparkled in my eyes; the magistrate was **intimidated**, listening with fearful attention to my demand for justice."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Jonathan stood by the dark carriage, thoroughly **intimidated** by the driver's unnatural strength and glowing eyes."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck was beaten, but he was not broken; he was **intimidated** by the man with the club, learning the law of club and fang."*

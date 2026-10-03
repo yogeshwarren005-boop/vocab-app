@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small contrasting part of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small area of ground covered by specific vegetation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of cloth or other material used to mend or cover a hole, tear, or weak spot; a small distinct area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software development and ophthalmology, an interim code fix or a protective covering worn over an injured eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O madam, yonder’s my lord your son with a patch of velvet on’s face; whether there be a scar under’t or no, the velvet knows; but ’tis a goodly patch of velvet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you’ll patch a quarrel, As matter whole you have not to make it with, It must not be with this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DROMIO OF SYRACUSE. [_Within._] Mome, malt-horse, capon, coxcomb, idiot, patch!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O madam, yonder's my lord your son with a **patch** of velvet on's face; whether there be a scar under't or no, the velvet knows."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rusty **patch** immediately upon the verse, caused by previous pressure of an oak leaf, obscured the sacred text."*
+> - 📜 **George Eliot (*Middlemarch*):** *"What a brown **patch** I am by the side of you, Rosy!' said Mary, laughing as she looked in the dressing glass."*

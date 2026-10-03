@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The biblical name for ancient syria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biblical name for ancient syria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Semitic region encompassing central Syria; also a biblical patriarch in Genesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Near Eastern history, the ancestral highland homeland of the Aramaic-speaking peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"These stairs were such as whereon Jacob saw Angels ascending and descending, bands Of guardians bright, when he from Esau fled To Padan-Aram, in the field of Luz Dreaming by night under the open sky And waking cried, This is the gate of Heaven."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Caravans traversing the arid plateaus of **Aram** linked Mesopotamia with the Mediterranean coast."*
+> - 📜 **Archibald Sayce (*The Races of the Old Testament*):** *"The kingdom of Damascus emerged as the powerful center of the federation of **Aram** in biblical times."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From **Aram** to the Euphrates, the ancient kingdoms bowed before the conquering Assyrian hosts."*

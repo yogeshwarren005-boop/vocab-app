@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent determination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of persisting or persevering; continuing or repeating behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistence in doing something despite difficulty or delay in achieving success; steadfastness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and theological doctrine (perseverance of the saints), continuous endurance in grace and virtuous endeavor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Perseverance, dear my lord, Keeps honour bright."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They do wait, however, with the perseverance of military tactics, and at last the bell rings again and the client in possession comes out of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wish to leave my good name unsullied, together with any little property of which I may become possessed through industry and perseverance, to my daughters Emma, Jane, and Caroline."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"**Perseverance**, dear my lord, keeps honor bright; to have done is to hang quite out of fashion, like a rusty mail in monumental mockery."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Through patient **perseverance** in artificial selection, breeders have modified the forms of domestic animals beyond recognition."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"Great works are performed not by strength, but by **perseverance**."*

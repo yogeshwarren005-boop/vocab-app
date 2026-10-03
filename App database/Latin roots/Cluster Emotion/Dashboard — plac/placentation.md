@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of the placenta in the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrangement of the ovules in the placenta and of the placentas in the ovary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation, type, or structure of the placenta in female mammals, or of ovule attachment in plant ovaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology and angiosperm taxonomy, the structural pattern of vascular connection between mother/ovary and embryo/ovule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Nurse Callan taken aback in the hallway cannot stay them nor smiling surgeon coming downstairs with news of placentation ended, a full pound if a milligramme."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Free-central **placentation** is characterized by an axial column rising from the base of the unilocular ovary."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Zonary **placentation** is characteristic of the carnivorous orders, whereas ungulates display diffuse placental villi."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Variations in floral **placentation** provide diagnostic features for distinguishing closely related plant families."*

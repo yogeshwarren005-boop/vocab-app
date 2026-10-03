@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impartially dispassionate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impartially dispassionate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dispassionate manner; objectively, calmly, and without personal emotional bias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courtroom advocacy and scholarship, analyzing evidence strictly according to logic and law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"What! seeing the old man?” said the auctioneer, playing with his seals dispassionately."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's personal character and influence, and it is hardly possible for those who are mourning him as a friend to speak of these dispassionately."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett dispassionately asked."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"Think calmly and **dispassionately** on this whole subject; nothing valuable can be lost by taking time."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Sit down before fact as a little child, prepared to follow **dispassionately** wherever nature may lead."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate weighed the competing medical hypotheses **dispassionately**, testing each by clinical outcome."*

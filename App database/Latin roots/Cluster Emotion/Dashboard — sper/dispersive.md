@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading by diffusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading by diffusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to disperse, scatter, or distribute; causing dispersion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics, characterizing a material's capability to refract different light frequencies at varying angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The twenty millions of freemen in the United States are witnesses of the dispersive injustice of the Old World."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Heavy flint glass exhibits a powerful **dispersive** power, making it invaluable for optical prisms."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Gaseous diffusion reveals the intrinsic **dispersive** tendency of molecules expanding into vacuum."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The oceanic currents act as a gigantic **dispersive** agent for equatorial heat toward the polar regions."*

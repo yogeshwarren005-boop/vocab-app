@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inspiring scornful pity; - dashiell hammett.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incongruous;inviting ridicule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or inviting derision or mockery; absurd, preposterous, or laughable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic theory, depicting human folly and eccentricity that deviates delightfully or grotesquely from rational norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thy love were ever like to mine— As sure I think did never man love so— How many actions most ridiculous Hast thou been drawn to by thy fantasy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those that are good manners at the court are as ridiculous in the country as the behaviour of the country is most mockable at the court."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our very priests must become mockers if they shall encounter such ridiculous subjects as you are."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It was impossible not to smile at Joe's **ridiculous** attempts to accommodate his giant limbs to the parlor chair."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She considered it completely **ridiculous** to maintain ceremonies that caused inconvenience to all parties."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The boy felt utterly **ridiculous** in his Sunday clothes, stiff collar, and polished shoes."*

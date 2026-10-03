@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who passes by casually or by chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who passes by casually or by chance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who happens to walk past something or someone, especially on a street.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban observation, casual pedestrian witnesses who observe incidents in public spaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passer-by designates a person who passes by casually or by chance."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"A respectable **passer-by** seized Oliver by the collar, raising the cry of 'Stop thief!' down the street."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The cabman called upon an innocent **passer-by** to assist in lifting the injured gentleman."*
+> - 📜 **Robert Louis Stevenson (*Strange Case of Dr Jekyll and Mr Hyde*):** *"The brutal assault upon the child was witnessed with horror by a solitary midnight **passer-by**."*

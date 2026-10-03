@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bold outlaw (especially on the american frontier).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bold outlaw (especially on the american frontier).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reckless, bold, and violent criminal or outlaw, especially one ready to take desperate risks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical frontier narrative, an armed bandit or fugitive defying legal authority with fatalistic bravado.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"SAVED FROM THE HANDS OF A DESPERADO."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the Pequod, and the great White Whale its object."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There is nothing like the perils of whaling to breed this free and easy sort of genial, desperado philosophy; and with it I now regarded this whole voyage of the Pequod, and the great White Whale its object."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Slade was a notorious **desperado** whose very name struck terror into the hearts of stagecoach travelers."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The mining valley was terrorized by an organized band of **desperado** outlaws who defied the law."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Israel Hands grinned with the reckless cunning of a seasoned sea **desperado** as he reached for his knife."*

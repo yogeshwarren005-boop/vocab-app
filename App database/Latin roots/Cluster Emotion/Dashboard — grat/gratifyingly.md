@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gratifying manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gratifying manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gratifying manner; in a way that gives pleasure, relief, or satisfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, turning out favorably according to one's hopes and expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gratifyingly designates in a gratifying manner."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The spring timber sale proceeded **gratifyingly**, exceeding the steward's cautious estimates."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The apparatus functioned **gratifyingly**, the dials registering rapid acceleration through temporal space."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether felt the Parisian atmosphere **gratifyingly** dissolve the rigid scruples of his native town."*

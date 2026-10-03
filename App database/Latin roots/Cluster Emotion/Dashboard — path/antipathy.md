@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of intense dislike.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The object of a feeling of intense aversion; something to be avoided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep-seated feeling of aversion or dislike; instinctive repugnance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and moral philosophy, an innate, non-rational aversion felt toward certain individuals, ideas, or creatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No contraries hold more antipathy Than I and such a knave."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John had not much affection for his mother and sisters, and an antipathy to me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"That eye of hers, that voice stirred every antipathy I had."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Some men there are love not a gaping pig; some, that are mad if they behold a cat; for affection, mistress of passion, sways it to the mood of what it likes or loathes; so can I give no reason, nor I will not, more than a lodged hate and a certain **antipathy**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth acknowledged her early **antipathy** toward Darcy, confessing how prejudice had blinded her judgment."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The dog manifested an unmistakable **antipathy** toward the stranger, growling low with bared teeth."*

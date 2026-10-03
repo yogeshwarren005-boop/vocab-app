@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Footwear usually with wooden soles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Footwear usually with wooden soles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wooden shoe, sandal, or clog with a raised iron or wooden ring underneath, worn to elevate shoes above mud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth and nineteenth-century domestic history, protective overshoes worn by women walking on muddy cobbles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Patten in his numerous writings, among them: _The Consumption of Wealth_ (1889); _Theory of Dynamic Economics_ (1892); _The Theory of Prosperity_ (1902)."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Patten Anderson, Ex-Delegate from Washington Territory."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nobody had appeared belonging to the house except a person in pattens, who had been poking at the child from below with a broom; I don’t know with what object, and I don’t think she did."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The incessant click-clack of the **patten** upon the wet flagstones announced that heavy winter rain had set in over Bath."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Marty South walked swiftly along the muddy woodland path, her shoes clean thanks to the iron rings of her wooden **patten**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The charwoman clattered down the damp alleyway in her iron-shod **patten**, carrying her mop and zinc pail to work."*

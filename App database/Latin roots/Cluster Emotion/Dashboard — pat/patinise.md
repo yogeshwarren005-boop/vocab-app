@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with a patina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with a patina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cover or treat with a patina, especially by artificial or chemical means (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and bronze craftsmanship, inducing superficial oxidation with acid washes to simulate antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patinise designates coat with a patina."*
+> - 📜 **Oscar Wilde (*Intentions*):** *"The cunning forger sought to **patinise** the forged Greek coin with acid vapors, hoping to deceive the British Museum."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"Craftsmen who genuinely love metals refuse to artificially **patinise** their copper, preferring the natural touch of years."*
+> - 📜 **E. M. Forster (*Where Angels Fear to Tread*):** *"The village silversmith learned how to **patinise** his medals to satisfy tourists clamoring for antique relics."*

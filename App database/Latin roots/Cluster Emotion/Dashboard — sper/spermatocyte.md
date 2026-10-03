@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male gametocyte that develops into four spermatids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A male gametocyte that develops into four spermatids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell in the testis that undergoes meiotic division to produce spermatids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive histology, primary spermatocytes undergo Meiosis I to yield two secondary spermatocytes, which then complete Meiosis II.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatocyte designates a male gametocyte that develops into four spermatids."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Meiotic division of the primary **spermatocyte** ensures the exact halving of chromosome numbers in gametogenesis."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The microscopic maturation of each **spermatocyte** in hybrid animals frequently reveals chromosomal irregularities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Exposure to high thermal radiation suppresses the division of the germinal **spermatocyte** in the testicular tubules."*

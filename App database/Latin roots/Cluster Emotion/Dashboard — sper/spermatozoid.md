@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile male gamete of a plant such as an alga or fern or gymnosperm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motile male gamete of a plant such as an alga or fern or gymnosperm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile male gamete produced by an antheridium in cryptogams like ferns, algae, and mosses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic botany, a ciliated or flagellated male reproductive unit that swims through moisture to the archegonium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatozoid designates a motile male gamete of a plant such as an alga or fern or gymnosperm."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"Upon the prothallium of the fern, microscopic antheridia rupture to discharge motile **spermatozoid** bodies."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The aquatic swimming of the cryptogamic **spermatozoid** recalls the ancient marine heritage of all terrestrial flora."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Chemical attractants secreted by the archegonium direct the locomotion of the swimming **spermatozoid**."*

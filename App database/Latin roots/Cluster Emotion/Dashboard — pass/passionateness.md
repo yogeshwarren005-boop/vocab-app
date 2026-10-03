@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong feeling or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong feeling or emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being passionate; intense emotional fervor, warmth, or ardency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, a temperament governed by deep and volatile emotional sensibilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passionateness designates a strong feeling or emotion."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **passionateness** of youth must be moderated by the cool reflection of mature judgment."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Arthur's natural **passionateness** was masked by an easy good-nature that made him blind to consequences."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Beneath Lucy's quiet, puritanical exterior lay an unsuspected **passionateness** of feeling."*

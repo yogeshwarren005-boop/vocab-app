@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American revolutionary leader (born in ireland) who was a member of the constitutional convention (1745-1806).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city of northeastern new jersey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent industrial city in northeastern New Jersey, historically known as the 'Silk City'; also a surname.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American industrial history and epic modern poetry, the planned manufacturing center founded by Alexander Hamilton, immortalized by William Carlos Williams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Carter, Paterson & Co., London._ “_17 August._ “Dear Sirs,-- “Herewith please receive invoice of goods sent by Great Northern Railway."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Carter, Paterson & Co., London, to Messrs."*
-> - 📜 **Bram Stoker (*Dracula*):** *"_Pro_ CARTER, PATERSON & CO.” _Mina Murray’s Journal._ _18 August._--I am happy to-day, and write sitting on the seat in the churchyard."*
+> - 📜 **William Carlos Williams (*Paterson*):** *"A man in himself is a city, beginning, seeking, achieving and concluding his life amidst the roaring falls of **paterson**."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The shipping firm Carter, **paterson** & Co., London, delivered the heavy wooden boxes of earth from Transylvania."*
+> - 📜 **Jack London (*The Iron Heel*):** *"We read of the great textile strikes in **paterson**, where immigrant silk weavers confronted armed militia in winter."*

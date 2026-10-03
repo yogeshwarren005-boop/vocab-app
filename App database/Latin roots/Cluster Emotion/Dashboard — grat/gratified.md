@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make happy or satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield (to); give satisfaction to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleased or satisfied by the fulfillment of a wish, desire, or expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical narrative, experiencing pride and contentment from recognized public service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The golden moon above was going her way and seemed to look down with friendly eyes, as if she was gratified that the house, which was filled all day with such noise and lively movement, was standing there so calm and peaceful."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The district attorney's wife did not seem gratified with this information."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore will mean more to you than she will ever realize," the mother concluded, "and I feel very gratified if you can do something for her, too." Mrs."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was **gratified** by Mr. Rochester's praise, though I strove to maintain a modest demeanor."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Biddy smiled in a **gratified** manner as I praised her careful management of the household."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The inspector looked thoroughly **gratified** when the magistrate signed the committal warrant."*

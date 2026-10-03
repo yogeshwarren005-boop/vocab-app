@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of refined upbringing and manners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the aristocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aristocrat or nobleman; a person of high social rank, refined taste, or noble birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman history, a member of the original hereditary ruling families of ancient Rome, contrasted with the plebeians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, come away. [_Exeunt Coriolanus and Cominius._] PATRICIAN."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester receives the gout as a troublesome demon, but still a demon of the patrician order."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"And Lawrence came to her in the mantle of these patrician ghosts."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am known to be a humorous **patrician** and one that loves a cup of hot wine with not a drop of allaying Tiber in't."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A natural gentleman finds his way in, and will keep the oldest **patrician** out by the sheer nobility of his bearing."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Nowhere in all America will you find more **patrician**-like houses, or park-like grounds, than in New Bedford."*

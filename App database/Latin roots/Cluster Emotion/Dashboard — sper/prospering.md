@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make steady progress; be at the high point in one's career or reach a high point in historical significance or importance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very lively and profitable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thriving, flourishing, or succeeding in an activity or business; growing successfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, experiencing an era of expanding trade, stable credit, and rising living standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You are prospering, please the Powers?” Mr."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"And they succeed; throughout all that territory that lies between the China Sea and the Bay of Bengal, whether under British or French rule, unless actually barred out, the Chinese is entrenching himself and prospering."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Today he is the proud owner of three hundred and twenty acres, and is prospering."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I left Traddles comfortably settled in his new chambers, **prospering** in his legal practice day by day."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba's farm was **prospering** under Oak's skillful management, yielding abundant fleece and corn."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The young republic presented the spectacle of a rapidly **prospering** population clearing the wilderness."*

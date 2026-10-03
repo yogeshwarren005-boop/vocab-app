@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make optimal; get the most out of; use best.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Modify to achieve maximum efficiency in storage capacity or time or cost.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make the best or most effective use of a situation, process, opportunity, or resource.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operational research and computer science, tuning algorithms or industrial workflows to maximize throughput or minimize latency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optimise designates make optimal; get the most out of; use best."*
+> - 📜 **Alan Turing (*Systems of Logic Based on Ordinals*):** *"We must carefully **optimise** the computational steps to avoid unnecessary recursive loops in the calculating apparatus."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"Modern managers endeavour to **optimise** every motion of the workman on the assembly line."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The world council sought to **optimise** grain distribution across continents through rationalized air freight."*

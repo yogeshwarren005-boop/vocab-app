@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or near the pudendum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or near the pudendum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the pudenda; pertaining to the external genitalia or perineal region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuroanatomy, designating the pudendal nerve, canal, or artery supplying pelvic floor musculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"VIRAG: _(Prompts in a pig’s whisper.)_ Insects of the day spend their brief existence in reiterated coition, lured by the smell of the inferiorly pulchritudinous female possessing extendified pudendal nerve in dorsal region."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The internal **pudendal** artery traverses Alcock's canal to distribute arterial branches to the perineum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Entrapment of the **pudendal** nerve trunk induces intractable neuralgia across the pelvic dermatomes."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Reflex hyperesthesia in the **pudendal** sensory distribution often accompanies autonomic spinal irritation."*

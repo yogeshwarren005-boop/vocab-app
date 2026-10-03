@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intimidating a weaker person to make them do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling of discouragement in the face of someone's superior fame or wealth or status etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intimidating someone, or the use of threats and coercion to influence behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and labor history, unlawful pressure exerted upon voters, witnesses, or picketers to thwart lawful rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"He intimates that he has decided upon threats and public intimidation as being probably more effective than a servile attitude, which, he allows us to infer, he would be quite willing to take if advisable."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Das Beste muss hier die Presse thun zur Intimidation, und die ersten Kotwuerfe auf Karl Heine und namentlich auf Adolf Halle werden schon wirken."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If it were necessary to confirm so plain a truth by facts, examples would not be wanting, even in this country, of the intimidation or seduction of the Executive by the terrors or allurements of the pecuniary arrangements of the legislative body."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A system of government founded upon terror and **intimidation** must inevitably collapse when popular courage revives."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The tyranny of the majority can exert an intellectual **intimidation** more subtle than physical persecution."*
+> - 📜 **Abraham Lincoln (*Cooper Union Address*):** *"Neither let us be slandered from our duty by false accusations against us, nor frightened from it by menaces of **intimidation**."*

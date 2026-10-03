@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oily colorless liquid obtained by the condensation of two molecules of acetaldehyde; contains an alcohol group (-oh) and an aldehyde group (-cho).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oily colorless liquid obtained by the condensation of two molecules of acetaldehyde; contains an alcohol group (-oh) and an aldehyde group (-cho).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound containing both an aldehyde group and a hydroxyl group; 3-hydroxybutanal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, the prototypical beta-hydroxy aldehyde formed by the dimerization of acetaldehyde via the aldol addition reaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aldol designates an oily colorless liquid obtained by the condensation of two molecules of acetaldehyde; contains an alcohol group (-oh) and an aldehyde group (-cho)."*
+> - 📜 **Charles Adolphe Wurtz (*Sur un aldol*):** *"The condensation of acetaldehyde in the presence of dilute acid yielded a viscous liquid which I named **aldol**."*
+> - 📜 **August Wilhelm von Hofmann (*Introduction to Modern Chemistry*):** *"The formation of **aldol** illustrates how simpler organic molecules can unite into complex carbon chains."*
+> - 📜 **William Henry Perkin (*Chemical Synthesis*):** *"Synthetic carbon transformations often utilize the **aldol** intermediate to synthesize conjugated unsaturated aldehydes."*

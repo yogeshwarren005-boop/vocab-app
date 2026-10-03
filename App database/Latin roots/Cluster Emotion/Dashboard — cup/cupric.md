@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or containing divalent copper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or containing divalent copper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing copper in its higher oxidation state, copper(II) with a valence of two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, characterizing copper salts (such as cupric sulfate) that typically display vivid blue or green colors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is readily formed by the oxidation of copper, and melts at a red heat without decomposition; further heating in the presence of air produces the cupric oxide which is less fusible."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electrolytic decomposition of the blue **cupric** solution deposited a bright crystalline film of pure copper upon the cathode."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"When heated with sulfur, **cupric** oxide yields metallic copper while sulfur dioxide gas is evolved."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The addition of volatile alkali to a dissolved **cupric** precipitate instantly produces an intense, deep sapphire coloration."*

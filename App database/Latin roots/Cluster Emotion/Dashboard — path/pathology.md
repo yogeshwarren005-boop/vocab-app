@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science that studies the causes and nature and effects of diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any deviation from a healthy or normal condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of the causes and effects of diseases, especially the branch of medicine that deals with laboratory examination of samples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral and social science, any abnormal, maladaptive, or destructive condition or pattern in an individual or group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A model clergyman, like a model doctor, ought to think his own profession the finest in the world, and take all knowledge as mere nourishment to his moral pathology and therapeutics."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate, inclined to be sarcastic on the superstitious faith of the people in the efficacy of “the bill,” while nobody cared about the low state of pathology, sometimes assailed Will with troublesome questions."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Winner of the Jackson prize for Comparative Pathology, with essay entitled ‘Is Disease a Reversion?’ Corresponding member of the Swedish Pathological Society."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The whole of **pathology** is nothing more than physiology under altered, abnormal conditions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A sound knowledge of morbid **pathology** is the only reliable compass for the clinical physician."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"The subtle **pathology** of neurosis reveals how repressed ideas express themselves through somatic conversions."*

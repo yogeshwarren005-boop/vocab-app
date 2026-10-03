@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dolichocephalic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dolichocephalic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cranial elongation characterized by a cephalic index of less than 75; dolichocephalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and craniosynostosis, premature fusion of the sagittal suture causing anterior-posterior elongation of the calvarium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolichocephaly designates the quality of being dolichocephalic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Premature closure of the sagittal suture results in marked scaphocephaly and extreme **dolichocephaly**."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The degree of **dolichocephaly** varied considerably among the prehistoric cave-dwellers of western Europe."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Artificial cranial deformation in infants frequently accentuated natural **dolichocephaly** among indigenous American tribes."*

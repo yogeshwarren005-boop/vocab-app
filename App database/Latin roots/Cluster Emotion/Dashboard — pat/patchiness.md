@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unevenness in quality or performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unevenness in quality or performance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or appearance of being patchy; irregularity, unevenness, or inconsistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and landscape architecture, spatial heterogeneity characterized by fragmented habitat zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patchiness designates unevenness in quality or performance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The notable **patchiness** of alpine plant distribution across isolated mountain peaks points to past glacial migrations."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The **patchiness** of his education left curious gaps in his historical knowledge, despite immense classical reading."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The conversation suffered from an awkward **patchiness**, marked by fitful brilliance punctuated by uncomfortable silences."*

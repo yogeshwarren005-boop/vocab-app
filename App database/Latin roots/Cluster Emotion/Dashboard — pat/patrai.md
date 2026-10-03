@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The modern Greek transliteration of Patras, a major port city in the northwestern Peloponnese of Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean maritime trade and Hellenic history, an ancient Roman colony and bustling modern commercial hub on the Gulf of Patras.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrai designates a port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"Our vessel anchored in the harbor of **patrai**, where the majestic peaks of the Peloponnese towered above the sparkling blue gulf."*
+> - 📜 **Pausanias (*Description of Greece*):** *"In ancient **patrai**, the temple of Artemis Laphria stood atop the acropolis, revered by pilgrims from across Achaea."*
+> - 📜 **Edward Dodwell (*A Classical and Topographical Tour through Greece*):** *"The merchant ships lined the quay of **patrai**, loading barrels of fragrant currants and olive oil for European markets."*

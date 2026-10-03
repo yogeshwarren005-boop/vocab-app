@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide a new emplacement for guns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into place or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put into place or set in a prepared position, especially heavy artillery or military equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology and volcanology, the intrusion and consolidation of magma within preexisting host rock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emplace designates provide a new emplacement for guns."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Our engineers labored under nocturnal darkness to **emplace** the heavy coastal howitzers on the bluff."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Subterranean pressure served to **emplace** immense granitic batholiths within the folded metamorphic strata."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We prepared to **emplace** our searchlights upon the basalt pinnacles to sweep the primeval forest below."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With perseverance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With perseverance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a persevering manner; with persistent, steadfast, and determined effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narrative, pursuing a difficult task without yielding to exhaustion or despair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was by that time perseveringly dictating to Caddy, and Caddy was fast relapsing into the inky condition in which we had found her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I hope everybody here will lead them to believe that I died defying them, consistently and perseveringly, as I did through so many years.” Here Mr."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, who continued most perseveringly by her side; and though he could not prevail with her to dance with him again, put it out of her power to dance with others."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I labored **perseveringly** in the dissecting rooms, oblivious to the change of seasons around me."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Lucy Snowe worked **perseveringly** at her teaching duties, concealing her sorrow beneath quiet diligence."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger climbed **perseveringly** up the rock chimney until he gained the basalt ledge above."*

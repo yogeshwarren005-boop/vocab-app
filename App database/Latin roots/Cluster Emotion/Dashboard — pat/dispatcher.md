@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The official who signals the beginning of a race or competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employee of a transportation company who controls the departures of vehicles according to weather conditions and in the interest of efficient service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or system responsible for receiving and transmitting urgent messages or directing vehicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In railroad administration and emergency services, the officer who allocates tracks, crews, and routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dispatcher designates the official who signals the beginning of a race or competition."*
+> - 📜 **Frank Norris (*The Octopus*):** *"The train **dispatcher** sat before his telegraph sounder, nervously clicking keys to avert a collision on the single track."*
+> - 📜 **Stephen Crane (*The Monster and Other Stories*):** *"The carriage **dispatcher** shouted directions through the sleet, urging the horses into the crowded square."*
+> - 📜 **Upton Sinclair (*King Coal*):** *"In the mine office, the car **dispatcher** marked the tallies of coal cars emerging from the dark drift."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of cupressaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of cupressaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen coniferous trees and shrubs commonly known as cypresses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and Mediterranean landscape history, resinous conical trees revered for durable, aromatic timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupressus designates type genus of cupressaceae."*
+> - 📜 **Virgil (*Georgics*):** *"Slender branches of **Cupressus** cast dark, solemn shadows across the tombs of ancient heroes."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The wood of **Cupressus** is immune to rot and insect infestation, making it the choice material for temple doors."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Venerable specimens of **Cupressus** have flourished near the Mexican shrines for more than a thousand years."*

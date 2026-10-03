@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A course of conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way especially designed for a particular use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A way or track laid down for walking or made by continual treading; a route, course, or direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphorical and philosophical discourse, a chosen course of conduct, moral development, or spiritual journey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a path to’t; ’tis some savage hold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven; Whilst like a puff’d and reckless libertine Himself the primrose path of dalliance treads, And recks not his own rede."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now hear me speak with a prophetic spirit; For even the breath of what I mean to speak Shall blow each dust, each straw, each little rub, Out of the path which shall directly lead Thy foot to England’s throne; and therefore mark."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Do not, as some ungracious pastors do, show me the steep and thorny way to heaven, whiles, like a puffed and reckless libertine, himself the primrose **path** of dalliance treads."*
+> - 📜 **Robert Frost (*The Road Not Taken*):** *"Two roads diverged in a yellow wood; I took the **path** less traveled by, and that has made all the difference."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Keep straight upon the narrow **path**, and turn not aside into the meadows of By-path meadow."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set or keep apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut off from a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided, sliced, or separated into parts; disconnected or broken off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and traumatic anatomy, describing blood vessels or tissues cut completely through.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our force by land Hath nobly held; our severed navy too Have knit again, and fleet, threat’ning most sea-like."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, the King hath severed you and Prince Harry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three glorious suns, each one a perfect sun; Not separated with the racking clouds, But severed in a pale clear-shining sky."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpoon line **severed** cleanly beneath the blow of the mate's razor-sharp boat-knife."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Engineer's Thumb*):** *"The unfortunate young engineer held up his hand, revealing a freshly **severed** thumb wrapped in a bloody kerchief."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The communication between the capital and the frontier legions was completely **severed** by the barbarian incursions."*

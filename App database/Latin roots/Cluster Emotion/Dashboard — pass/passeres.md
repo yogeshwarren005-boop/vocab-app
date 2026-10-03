@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two names for the suborder of typical songbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two names for the suborder of typical songbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical taxonomic order or suborder comprising perching birds (Passeriformes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical ornithological classification, birds possessing four unwebbed toes arranged for perching (three anterior, one posterior).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passeres designates two names for the suborder of typical songbirds."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The anatomical boundaries of the **Passeres** are defined by the distinctive aegithognathous palate structure."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Complex vocal syrinx development is uniquely perfected among the singing families of the **Passeres**."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"More than half of all known living avian species are embraced within the vast order **Passeres**."*

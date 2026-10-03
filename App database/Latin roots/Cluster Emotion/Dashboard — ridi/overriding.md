@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule against.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevail over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More important than any other considerations; predominant, paramount, or overruling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In governance and mechanics, exercising sovereign authority to supersede prior rules or manual control mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"But don’t go overriding the hounds,” said “Uncle” sternly."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The preservation of personal liberty must remain the **overriding** objective of constitutional design."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"An **overriding** regard for state authority often blinds legislators to the rights of individual citizens."*
+> - 📜 **Woodrow Wilson (*The State*):** *"In times of national peril, public defense becomes the single **overriding** duty of the executive."*

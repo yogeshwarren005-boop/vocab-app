@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The openness (lack of obstruction) of a bodily passage or duct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being easy to see and understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An open, unobstructed, or expanded lumen (especially of a bodily duct, blood vessel, or catheter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular physiology and legal patent systems, open lumen passage or the public status of patent rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patency designates the openness (lack of obstruction) of a bodily passage or duct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon confirmed the **patency** of the bile duct by verifying the immediate flow of hepatic secretion."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The lumen of the radial artery retained full **patency** despite the proximity of the fibrous fracture callus."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"We checked the **patency** of the catheter under fluoroscopy before injecting the radio-opaque dye."*

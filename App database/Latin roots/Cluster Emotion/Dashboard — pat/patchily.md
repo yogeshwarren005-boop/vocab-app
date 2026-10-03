@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In spots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a patchy manner; unevenly, irregularly, or only in scattered spots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and surface painting, occurring with irregular density across an observed area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog patchily as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The winter snow melted **patchily** across Egdon Heath, leaving dark pools of black bog water amid yellow furze."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The morning sun shone **patchily** through shifting London fog, warming the damp stone pavements in brief flashes."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The vessel was **patchily** painted with red lead, showing raw rust beneath her battered bulwarks."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place or move into the position of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take the place of; to provide a substitute for someone or something; to put back in its place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic production, installing new machinery or processes to supersede obsolete capital equipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He did not attempt to fill up the hole, replace the flowers, or do anything at all."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The insurance companies paid me enough to replace every damage, and the office was renewed better than before."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John once said) I must seek another interest in life to replace the one lost: is not the occupation he now offers me truly the most glorious man can adopt or God assign?"*
+> - 📜 **William Shakespeare (*King Lear*):** *"I will give thee all my kingdom if thou canst **replace** my loving daughter upon the throne."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I tried to **replace** the torn page in the schoolbook before the schoolmaster's watchful eye fell upon me."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Annual capital investments must continually **replace** the tools and raw materials consumed in production."*

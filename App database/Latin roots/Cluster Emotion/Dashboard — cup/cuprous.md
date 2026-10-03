@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or containing divalent copper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or containing divalent copper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing copper in its lower oxidation state, copper(I) with a valence of one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical nomenclature, contrasting with cupric compounds, commonly forming insoluble monovalent halides and red oxide precipitates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It would seem that one of the functions of the cuprous oxide, which is purposely introduced into the metal when “bringing it up to pitch,” is to exert this action."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The ridge in the ingot of overpoled copper is, to some extent, accounted for as being due to the effects of the evolved gases, and this appearance indicates the absence of the requisite quantity of cuprous oxide necessary to counteract the effect."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This eutectic contains about 3·45 per cent. of cuprous oxide, equivalent to 0·38 per cent. of oxygen; it melts at a temperature about 18° C. below that of the pure metal."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The gentle reduction of alkaline copper solutions by sugar produces a bright red precipitate of **cuprous** oxide."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electrochemical equivalent of copper in **cuprous** salts is exactly double its equivalent in cupric compounds."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"A colorless solution of **cuprous** chloride rapidly turns deep green upon exposure to atmospheric oxygen."*

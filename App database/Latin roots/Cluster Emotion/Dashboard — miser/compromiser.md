@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator willing to compromise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator willing to compromise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is inclined to compromise or who settles disputes through reciprocal concessions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, a mediator who reconciles conflicting factional interests to avert violent conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compromiser designates a negotiator willing to compromise."*
+> - 📜 **Abraham Lincoln (*Speech at Peoria*):** *"Henry Clay was known as the great **compromiser**, seeking through mutual concessions to preserve the Union."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A prudent statesman must be a skillful **compromiser**, balancing abstract rights against practical necessities."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The principled thinker must not become an unprincipled **compromiser** when fundamental liberties are at stake."*

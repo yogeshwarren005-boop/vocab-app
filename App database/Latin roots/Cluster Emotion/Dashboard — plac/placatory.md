@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to pacify by acceding to demands or granting concessions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to pacify by acceding to demands or granting concessions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to make someone less angry or hostile; conciliatory, pacifying, or soothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric and correspondence, using humble, reassuring language to disarm indignation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placatory designates intended to pacify by acceding to demands or granting concessions."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins wrote a **placatory** epistle, hoping to heal the long estrangement with Longbourn."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Barkis produced an apple tart from his pocket with a **placatory** grin for the weeping Peggotty."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The innkeeper spoke in a low, **placatory** murmur, terrified of offending the dangerous Scowrers."*

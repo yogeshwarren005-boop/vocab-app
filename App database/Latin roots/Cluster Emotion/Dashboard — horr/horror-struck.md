@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stricken with horror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stricken with horror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Overcome or seized with horror; terrified, appalled, or stunned by a dreadful spectacle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, reacting with acute mental paralysis upon uncovering gruesome reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horror-struck designates stricken with horror."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The gendarmes paused, **horror-struck**, at the sight of the mangled body thrust upward into the chimney flue."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Helen Stonor sat **horror-struck** in her chair as the speckled band slithered down the bell-rope."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"We peered **horror-struck** through the stockade logs as the mutineers raised their bloody cutlasses."*

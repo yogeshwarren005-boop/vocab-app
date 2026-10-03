@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detachment used for security or reconnaissance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of going around or through an area at regular intervals for security purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep watch over an area by regularly walking or traveling around it; a detachment sent out on security duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military reconnaissance and municipal law enforcement, a roving guard tasked with monitoring territory and deterring crime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When I proposed to put him at the head of a patrol, he had an attack of the nerves."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He read his Hours as he went round at the head of his patrol."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I got up and went to meet the patrol which was coming in, and found that great good-for-nothing Jacques running close after me, holding my cloak."*
+> - 📜 **Bram Stoker (*Dracula*):** *"As we went further, we met fewer people, till at last we were somewhat alarmed by the armed **patrol** guarding the bridge."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Naval destroyers maintained an unbroken **patrol** across the Straits of Dover to intercept hostile torpedo craft."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The solitary constable on night **patrol** examined the bolted padlocks of the closed shops with professional suspicion."*

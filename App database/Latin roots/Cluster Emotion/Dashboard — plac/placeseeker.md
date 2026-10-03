@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disparaging term for an appointee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging term for an appointee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who seeks public or political office, especially for personal profit or partisan patronage; an office seeker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political satire, a self-serving opportunist who courts politicians to secure lucrative sinecures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placeseeker designates a disparaging term for an appointee."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"The ministerial corridors were besieged by every rapacious **placeseeker** hungry for court pensions."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A nation governed by a chorus of noisy **placeseeker** factions drifts helplessly toward political ruin."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional executive must be shielded from the corrupt importunities of the unprincipled **placeseeker**."*

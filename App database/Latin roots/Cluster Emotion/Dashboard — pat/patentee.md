@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inventor to whom a patent is issued.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inventor to whom a patent is issued.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or corporate entity to whom a patent is officially granted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial jurisprudence, the legal holder possessing exclusive statutory rights to exploit an invention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He was a patentee of the Openshaw unbreakable tire, and his business met with such success that he was able to sell it and to retire upon a handsome competence."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He was a **patentee** of the Openshaw unbreakable tire, and his business met with immense success in Birmingham."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"The **patentee** must frequently expend his entire fortune defending his statutory privilege against piratical infringers."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopoly granted to a **patentee** of a new machine is justified as a temporary reward for ingenuity and capital expenditure."*

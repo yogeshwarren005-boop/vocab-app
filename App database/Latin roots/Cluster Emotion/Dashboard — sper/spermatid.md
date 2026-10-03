@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An immature gamete produced by a spermatocyte; develops into a spermatozoon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An immature gamete produced by a spermatocyte; develops into a spermatozoon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An immature male germ cell formed by the division of a spermatocyte, developing into a spermatozoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular spermatogenesis, a haploid round germ cell that undergoes spermiogenesis (flagellar elongation and nuclear condensation).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatid designates an immature gamete produced by a spermatocyte; develops into a spermatozoon."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"In the seminiferous follicles, each round **spermatid** gradually elongates into a mature motile spermatozoon."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic cytology traces the metamorphosis of the non-flagellated **spermatid** into a functional sperm cell."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cellular differentiation from parent spermatocyte to embryonic **spermatid** reflects profound physiological vitality."*

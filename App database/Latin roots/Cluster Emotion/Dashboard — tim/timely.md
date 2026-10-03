@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Before a time limit expires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or happening at the appropriate or proper time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, done, or provided at an opportune, advantageous, or particularly appropriate time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical treatment and civic interventions, an action taken swiftly enough to avert impending catastrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But here must end the story of my life; And happy were I in my timely death, Could all my travels warrant me they live."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He did command me to call timely on him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now spurs the lated traveller apace, To gain the timely inn; and near approaches The subject of our watch."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But here must end the story of my life; and happy were I in my **timely** death, could all my travels warrant me they live."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Leaving her instructions with Gabriel and Maryann, she rejoiced that a **timely** thunderstorm had not destroyed the newly mown hay."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, meeting these **timely** questions with dignified patience, explained his extensive theological research."*

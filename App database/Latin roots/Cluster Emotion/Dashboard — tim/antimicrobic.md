@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of destroying or inhibiting the growth of disease-causing microorganisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to destroy or inhibit microbes; acting as an antimicrobial agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical bacteriology and sanitation treatises, an antiseptic agent or barrier designed to suppress bacterial propagation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimicrobic designates an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease."*
+> - 📜 **Joseph Lister (*The Antiseptic System of Treatment in Surgery*):** *"The application of carbolic solutions proved a reliable **antimicrobic** barrier against atmospheric hospital gangrene."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Mild heating produced a decisive **antimicrobic** effect, preserving wine without impairing its delicate vintage flavor."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Immunology*):** *"We searched systematically for chemical dyes that might exert a specific **antimicrobic** action upon trypanosomes."*

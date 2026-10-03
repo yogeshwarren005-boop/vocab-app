@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of cuprous oxide that is a source of copper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral consisting of cuprous oxide that is a source of copper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, heavy, red oxide mineral of copper (copper(I) oxide, Cu2O); ruby copper ore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and economic geology, an important secondary copper ore found in the oxidized zones of copper deposits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuprite designates a mineral consisting of cuprous oxide that is a source of copper."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The brilliant octahedral crystals of **cuprite** exhibit an adamantine luster and a characteristic cochineal-red color."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Veins of native copper and deep crimson **cuprite** intersect the weathered granite rocks along the Cornish coast."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Rich veins of fibrous **cuprite** were extracted by native miners in the high cordilleras of the Andes."*

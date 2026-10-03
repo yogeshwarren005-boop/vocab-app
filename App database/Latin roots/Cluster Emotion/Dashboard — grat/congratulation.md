@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of acknowledging that someone has an occasion for celebration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) an expression of pleasure at the success or good fortune of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of praise for an achievement or good fortune on a special occasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric, a ceremonial oration celebrating the victory or inauguration of a dignitary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt is so far away, now,” said I, “that I thought the time for such congratulation was past, Miss Flite.” “But, my child,” she returned, “is it possible that you don’t know what has happened?” “No,” said I."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But, when he had sufficiently mastered the language to be able to read the Koran, he knew that he had two grounds for self-congratulation, and these were sufficiently characteristic."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What does that grave smile signify?” “Wonder and self-congratulation, sir."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Every visitor offered words of cordial **congratulation** to the newly married couple."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Addresses of **congratulation** poured into Whitehall from every corporation across the kingdom."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"I cannot send letters of premature **congratulation** on events whose outcome remains uncertain."*

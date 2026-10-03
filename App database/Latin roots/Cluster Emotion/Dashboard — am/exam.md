@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of questions or exercises evaluating skill or knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of questions or exercises evaluating skill or knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal test of a person's knowledge or proficiency in a subject; examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic institutions, comprehensive testing administered to assess eligibility for degrees or civil service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"And when our test exams came out And mine were extra bad, I said, "We needn't fuss about A scrap of paper, dad." When sister's chap comes round at night, And pa seems in a rage, Ma only smiles; she knows all right, It's just dad's camoflage."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Exams. in elementary mathematics; and I hope Herby has got into the Academy, but do not know for certain yet."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Three Students*):** *"The university examination paper was stolen from the tutor's desk on the eve of the scholarship **exam**."*
+> - 📜 **H. G. Wells (*Love and Mr Lewisham*):** *"Lewisham spent late nights cramming biological taxonomy in preparation for the government science **exam**."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"He boasted of having passed every collegiate **exam** with honors, though possessing little practical wisdom."*

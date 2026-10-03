@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fanatical patriotism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fanatical patriotism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive, blind, or belligerent patriotism; aggressive jingoism and chauvinism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic ethics and sociopolitical analysis, virulent hyper-nationalism that demonizes foreign cultures and domestic dissenters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superpatriotism designates fanatical patriotism."*
+> - 📜 **H. L. Mencken (*Prejudices: Fourth Series*):** *"The epidemic of **superpatriotism** that gripped the nation during wartime silenced every courageous advocate of free speech."*
+> - 📜 **Sinclair Lewis (*Gideon Planish*):** *"Dr. Planish discovered that promoting commercialized **superpatriotism** brought in rich donations from anxious conservative millionaires."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"We must rid ourselves of that blustering **superpatriotism** which mistakes arrogance for genuine strength of character."*

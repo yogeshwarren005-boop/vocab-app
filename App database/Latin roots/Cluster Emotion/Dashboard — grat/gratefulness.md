@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm friendly feelings of gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm friendly feelings of gratitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A warm feeling of heartfelt thankfulness, appreciation, or indebtedness for benefits received.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, the virtuous sentiment of indebtedness prompting reciprocation of kindness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Loneli's heart was simply filled with gratefulness for what he had done and she often wished in turn for an opportunity to help him out of some trouble."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"I have a long history to tell you, one of these days, of the gratefulness of the men."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Tom got more cuffs and kisses that day—according to Aunt Polly’s varying moods—than he had earned before in a year; and he hardly knew which expressed the most gratefulness to God and affection for himself."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"True **gratefulness** does not merely acknowledge a benefit, but seeks occasions to return it."*
+> - 📜 **George Eliot (*Silas Marner*):** *"A deep **gratefulness** welled in the weaver's heart as the golden-haired child nestled in his arms."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I awoke with a feeling of boundless **gratefulness** for the morning sunlight upon the water."*

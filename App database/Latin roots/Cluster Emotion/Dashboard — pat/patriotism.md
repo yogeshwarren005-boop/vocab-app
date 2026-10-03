@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of country and willingness to sacrifice for it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love of country and willingness to sacrifice for it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devotion to and vigorous support for one's country; national pride and civic loyalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and political ethics, love of one's homeland tempered by universal justice and international fraternity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That the country is shipwrecked, lost, and gone to pieces (as is made manifest to the patriotism of Sir Leicester Dedlock) because you can’t provide for Noodle!"*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hence we find him ever ready to degrade his muse by making it the vehicle for immoral thoughts and abominable calumnies.[271] The question of Heine's patriotism has always been a much-debated one, and must doubtless remain so."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This idea will add the inducements of philanthropy to those of patriotism, to heighten the solicitude which all considerate and good men must feel for the event."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He asked himself whether these tribunal judges were inspired by motives of sheer **patriotism**, or bloodthirsty faction."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"There is not the fight recorded in Concord history, at least, that would bear a moment's comparison with this **patriotism** of the ants."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A tribe including many members who possessed in a high degree the spirit of **patriotism**, fidelity, and mutual aid would always succeed best."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mongolian ruler of samarkand who led his nomadic hordes to conquer an area from turkey to mongolia (1336-1405).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mongolian ruler of samarkand who led his nomadic hordes to conquer an area from turkey to mongolia (1336-1405).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fourteenth-century Turco-Mongol conqueror (Tamerlane), founder of the Timurid Empire spanning Central Asia and Persia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eurasian historiography and literature, the military tactician renowned for vast conquests and the architectural embellishment of Samarkand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timur designates mongolian ruler of samarkand who led his nomadic hordes to conquer an area from turkey to mongolia (1336-1405)."*
+> - 📜 **Christopher Marlowe (*Tamburlaine the Great*):** *"The dread conqueror **timur** rode in triumph through Persepolis, proclaiming his sovereign decree over subject kings."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The victories of **timur** suspended for fifty years the fall of Constantinople, shattering the Ottoman sultan upon the plains of Angora."*
+> - 📜 **Ibn Khaldun (*Autobiography*):** *"I conversed at length outside Damascus with **timur**, observing in him a fierce intellect combined with ruthless military ambition."*

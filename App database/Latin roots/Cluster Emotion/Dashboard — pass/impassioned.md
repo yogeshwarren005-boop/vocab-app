@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by intense emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by intense emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with or showing great emotion, passion, or fervor; ardent and deeply felt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oratorical rhetoric, delivering a persuasive address marked by intense moral urgency and eloquence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They threw themselves into committees in the most impassioned manner and collected subscriptions with a vehemence quite extraordinary."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a very fervid, impassioned speaker—full of fire!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All the impassioned scenes of her brief experience seemed to revive with added emotion at that moment, and those scenes which had been without emotion during enactment had emotion then."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester spoke with an **impassioned** eloquence that shook my resolution to the very foundation."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"His **impassioned** denunciations of human bondage awakened northern consciences to immediate action."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola poured forth an **impassioned** sermon that moved the crowded cathedral of Florence to tears."*

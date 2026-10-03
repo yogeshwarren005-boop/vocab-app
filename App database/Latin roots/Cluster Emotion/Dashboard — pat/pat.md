@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sound made by a gentle blow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light touch or stroke.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Touch quickly and gently with the flat of the hand; also suitably, opportune, or excessively glib.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In idiomatic discourse and narrative description, answers delivered with suspicious, rehearsed fluency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now might I do it pat, now he is praying."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been begging sixteen years in court, Am yet a courtier beggarly, nor could Come pat betwixt too early and too late For any suit of pounds; and you, O fate!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pat! he comes, like the catastrophe of the old comedy: my cue is villainous melancholy, with a sigh like Tom o’Bedlam.—O, these eclipses do portend these divisions!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now might I do it **pat**, now he is praying; and now I'll do't, and so he goes to heaven."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She did not adjust her hat, or **pat** her hair, or press a dimple into shape, but walked straight to the wagon."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Next came an angry voice—the Rabbit's—'**pat**! **pat**! Where are you? Come and help me out of this window!'"*

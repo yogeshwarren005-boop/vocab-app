@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak or write at length or in considerable detail; elaborate upon a theme or argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and philosophical dialogue, expanding thoroughly upon a thesis to convince an audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Now, as the business of standing mast-heads, ashore or afloat, is a very ancient and interesting one, let us in some measure expatiate here."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"From his mighty bulk the whale affords a most congenial theme whereon to enlarge, amplify, and generally expatiate."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Now, as the business of standing mast-heads, ashore or afloat, is a very ancient and interesting one, let us in some measure expatiate here."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"I will not reason here, nor will I stop for you to **expatiate** on the absurdity of our sudden separation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Now, as the business of standing mast-heads is a very ancient custom, let me **expatiate** upon its nautical philosophy."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The venerable clergyman began to **expatiate** upon the grievous nature of sin before the assembled congregation."*

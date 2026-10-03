@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stupid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stupid manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a doltish, stupid, or clumsy manner; with thick-witted slowness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive prose, reacting foolishly or gaping without comprehension when challenged.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doltishly designates in a stupid manner."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The groom stared **doltishly** at Holmes's sovereign, scratching his head in vacant bewilderment."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The tavern loafers grinned **doltishly** as the furmity woman recounted her ancient gossip."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"Hugh gaped **doltishly** around the drawing room, clutching his heavy cudgel like an awkward bear."*

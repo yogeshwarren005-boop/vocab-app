@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who shows no gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who shows no gratitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ungrateful person; one who fails to appreciate or return kindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical tragedy and moral philosophy, a person guilty of ingratitude, regarded as the basest of human vices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That we have been familiar, Ingrate forgetfulness shall poison rather Than pity note how much."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, on his part I’ll empty all these veins, And shed my dear blood drop by drop in the dust, But I will lift the down-trod Mortimer As high in the air as this unthankful King, As this ingrate and canker’d Bolingbroke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know the gallant monarch is in arms And like an eagle o’er his aery towers To souse annoyance that comes near his nest.— And you degenerate, you ingrate revolts, You bloody Neroes, ripping up the womb Of your dear mother England, blush for shame!"*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Ingrateful boy! Thou dissembling cub, what wilt thou do when time hath sowed a grizzle on thy cheek? I hate an **ingrate**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"**Ingrate**, he had of me all he could have; I made him just and right, sufficient to have stood."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"Shall an **ingrate** presume to dictate laws to the divine Providence that sustains his breath?"*

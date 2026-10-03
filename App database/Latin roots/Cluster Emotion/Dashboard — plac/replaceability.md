@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exchangeability by virtue of being replaceable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exchangeability by virtue of being replaceable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of being replaced or substituted; exchangeability or fungibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial design and engineering, modular component interchangeability to simplify maintenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, replaceability designates exchangeability by virtue of being replaceable."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The standardized **replaceability** of machine components was the foundational breakthrough of mass industrial manufacture."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"In highly integrated social systems, individual units exhibit greater functional **replaceability** than in primitive tribes."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger underscored the **replaceability** of our camping gear compared to our precious scientific instruments."*

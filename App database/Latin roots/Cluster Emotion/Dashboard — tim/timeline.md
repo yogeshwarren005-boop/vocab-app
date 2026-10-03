@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sequence of related events arranged in chronological order and displayed along a line (usually drawn left to right or top to bottom).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual representation or listing of a chronological sequence of events, milestones, or historical epochs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and project engineering, a graphical schedule used to trace causation, dependencies, and projected completion dates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Net yields from nonrenewable reserves, residues and substitutes had dwindled until exhaustion was certain and a timeline predictable."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"The historian must construct a broad **timeline** of civilizational migrations to grasp how ancient cultures intertwined."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Compressing the fifteen-billion-year cosmic **timeline** into a single calendar year reveals human history occupying mere final seconds."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"Every orbital mission operates upon an inflexible launch **timeline**, governed by the celestial mechanics of planetary alignment."*

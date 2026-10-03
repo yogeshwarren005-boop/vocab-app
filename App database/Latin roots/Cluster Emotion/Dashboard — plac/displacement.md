@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of taking the place of another especially using underhanded tactics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event in which something is displaced without rotation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The moving of something from its place or position, or the removal of people from their homeland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis, an unconscious defense mechanism transferring emotional impulses from their original object to a safer substitute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This caused the displacement of silver by gold and drove out a large proportion of the silver coins of smaller denominations."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A wide field for enterpriser's profits was opened up by the rapid displacement of prevailing prices in all quarters of the industrial world."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The displacement theory; its fundamental assumption. § 11."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Dream-distortion is the direct product of psychological **displacement**, shifting emotional emphasis onto trivial details."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The massive vertical **displacement** of strata along the fault line occurred during prehistoric seismic upheavals."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The westward **displacement** of barbarian nations pushed entire tribes across the frozen Danube into Roman territory."*

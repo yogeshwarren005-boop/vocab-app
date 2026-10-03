@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sudden and strong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sudden and strong.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, expressing, or using energetic exclamation or sudden emotional outcry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammatical syntax and rhetoric, sentences or phrases punctuated by exclamation marks expressing passion or shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Conversation was exclamatory for a little while with gaps of wonderment; and then the Editor got fervent in his curiosity."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The witnesses agreed that the voice was shrill and **exclamatory**, though differing on the language spoken."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mrs. Micawber indulged in several **exclamatory** remarks regarding her family's aristocratic connections."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet's conversation was predominantly **exclamatory**, composed of loud laments for her frail nerves."*

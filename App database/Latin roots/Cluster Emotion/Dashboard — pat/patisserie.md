@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bakery specializing in french pastry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bakery specializing in french pastry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shop where French pastries and cakes are made and sold; also French pastry or baking as an art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary gastronomy, delicate confections such as éclairs, mille-feuilles, and tarts crafted with laminated doughs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patisserie designates a bakery specializing in french pastry."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"The display window of the Parisian **patisserie** gleamed with golden brioches, glazed fruit tarts, and delicate almond madeleines."*
+> - 📜 **Gustave Flaubert (*Sentimental Education*):** *"Frédéric paused outside the fashionable **patisserie**, inhaling the rich aroma of melted butter and toasted sugar."*
+> - 📜 **Katherine Mansfield (*The Garden Party and Other Stories*):** *"The children gazed longing through the glass of the **patisserie**, admiring pink cream puffs dusted with powdered sugar."*

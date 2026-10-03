@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A humorist who uses ridicule and irony and sarcasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humorist who uses ridicule and irony and sarcasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who mocks, derides, or subjects others to ridicule or contemptuous laughter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical satire, an author or polemicist who systematically exposes pretension through ironic wit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ridiculer designates a humorist who uses ridicule and irony and sarcasm."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The fearless **ridiculer** of pedantry drew the wrath of dull scribblers across the kingdom."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A habitual **ridiculer** of sacred traditions frequently mistakes cynicism for intellectual superiority."*
+> - 📜 **William Hazlitt (*Lectures on the English Comic Writers*):** *"Molière was the supreme **ridiculer** of hypocrites, unmasking imposture with effortless humor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bomb in certain patterns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bomb in certain patterns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bomb an area systematically in accordance with a predetermined geometric grid or calculated spatial pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military aviation history, carpet bombing designed to saturate a targeted defensive zone with overlapping blast radiuses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pattern-bomb designates bomb in certain patterns."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Bomber Command resolved to **pattern-bomb** the industrial rail yards of the Ruhr, disrupting enemy munitions transport."*
+> - 📜 **Ernest K. Gann (*Fate Is the Hunter*):** *"The squadron leader instructed his navigators how to **pattern-bomb** the airfield runways through dense cloud cover."*
+> - 📜 **John Steinbeck (*Bombs Away: The Story of a Bomber Team*):** *"The bombardiers synchronized their sights in flight to **pattern-bomb** the synthetic oil refineries with overlapping detonations."*

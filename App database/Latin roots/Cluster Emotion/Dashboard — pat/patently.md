@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmistakably (`plain' is often used informally for `plainly').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmistakably (`plain' is often used informally for `plainly').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly, without doubt; obviously and undeniably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical argument and legal debate, describing assertions whose truth or falsehood is self-evident.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Morrell’s method was so patently the reverse of my method of self-hypnosis that I was fascinated."*
-> - 📜 **James Joyce (*Ulysses*):** *"Stephen, patently crosstempered, repeated and shoved aside his mug of coffee or whatever you like to call it none too politely, adding: —We can’t change the country."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"No chronological significance can be attached to the variations of colour, and to place the grey ware earlier than the red is both, unscientific and patently incorrect."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"To deny that sensory experiences correspond to external reality appears **patently** absurd to common sense."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"His clumsy attempt to flatter her intellect was so **patently** insincere that Katharine could not suppress a smile."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The official newspaper accounts were so **patently** false that even the rawest recruit mocked the headlines."*

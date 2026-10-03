@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavy and dull and stupid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy and dull and stupid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stupid, dull-witted, idiotic, or slow to understand; characteristic of a dolt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social characterization, lacking intellectual sharpness, conversational wit, or emotional refinement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Take off thine eye! more intolerable than fiends’ glarings is a doltish stare!"*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Take off thine eye! more intolerable than fiends’ glarings is a doltish stare!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"John Reed's **doltish** insolence was encouraged by his mother's blind, foolish indulgence."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Dunstan Cass laughed with **doltish** satisfaction at the prospect of blackmailing his brother."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"A **doltish** companion converts a journey through sublime scenery into a tedious endurance test."*

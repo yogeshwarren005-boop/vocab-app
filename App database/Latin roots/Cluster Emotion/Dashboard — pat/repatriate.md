@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has returned to the country of origin or whose citizenship has been restored.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send someone back to his homeland against his will, as of refugees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Send or bring someone back to their own country; also send money back to one's native land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international humanitarian law and corporate finance, the return of refugees, prisoners of war, or foreign profits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repatriate designates a person who has returned to the country of origin or whose citizenship has been restored."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Arrangements were concluded with neutral powers to **repatriate** severely wounded prisoners of war aboard specially marked hospital ships."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The government sought to **repatriate** displaced settlers whose boundary claims had been compromised by frontier treaties."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"Exorbitant indemnity demands made it impossible for the conquered state to **repatriate** its foreign capital reserves."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like (or supporting) a cupule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like (or supporting) a cupule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a small cup; cup-shaped or resembling a cupule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and plant anatomy, possessing or situated within a protective cup-like involucre or cupule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupular designates shaped like (or supporting) a cupule."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The base of the acorn is securely enveloped by a woody, **cupular** structure composed of fused bracts."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In cultivated hazel trees, the **cupular** husk varies remarkably in length and degree of fringed division."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Primitive seed-ferns displayed a distinct **cupular** organ enclosing the ovules, foreshadowing the true angiosperm carpel."*

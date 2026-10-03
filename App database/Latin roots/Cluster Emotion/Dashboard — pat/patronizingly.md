@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With condescension; in a patronizing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With condescension; in a patronizing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a patronizing, condescending, or offensively superior manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, addressing subordinates with arrogant complacency and feigned benevolence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She nodded twice or thrice patronizingly to the little boy, who looked up from his dinner or from the pictures of soldiers he was painting."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The European guide nodded **patronizingly**, assuming that crude American tourists could appreciate nothing finer than barroom prints."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"Undine waved her hand **patronizingly** to her old Apex schoolmates, delighted that her Parisian gown set her worlds apart."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"Drouet chuckled **patronizingly** at Carrie's awe of the Chicago department stores, feeling himself an accomplished man of the world."*

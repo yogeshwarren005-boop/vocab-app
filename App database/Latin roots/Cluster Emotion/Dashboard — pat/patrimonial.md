@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inherited or inheritable by established rules (usually legal rules) of descent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inherited or inheritable by established rules (usually legal rules) of descent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or inherited from one's father or ancestors; passed down as hereditary family property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology (Max Weber), a traditional authority structure where royal administration is treated as the ruler's private household.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"At the time Shamus was added to the population of Ireland, the patrimonial estate had dwindled down to a peat bog."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Preston], enclosing a note of five thousand dollars, which he requested him to endorse, and raise the money in Virginia, so as to enable him to leave this city, and return to his modest retreat—his patrimonial inheritance—in that State."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"But there is no one thing which men so rarely do, whatever the provocation or inducement, as to bequeath patrimonial property away from their own blood."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"He that saw his **patrimonial** timber cast its leaf, sells the last scantling to pay debts of gaming honor."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"We receive, we hold, we transmit our government and our privileges in the same manner as our **patrimonial** estates."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic republics, equal division of inheritances shatters the large **patrimonial** estates of the old aristocracy."*

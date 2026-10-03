@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a miserable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a miserable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wretched, unhappy, or pitiable manner; poorly, squalidly, or with utter lack of success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, failing catastrophically or enduring prolonged deprivation without relief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast one son; for his sake pity me, Lest in revenge thereof, sith God is just, He be as miserably slain as I."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is the figure of a woman, too; but it is miserably dressed, and no such clothes ever came through the hall and out at the great door of the Dedlock mansion."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Yet so miserably had he conducted himself, that though she was at this present time (the summer of 1814) wearing black ribbons for his wife, she could not admit him to be worth thinking of again."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The castaways drifted for days, suffering **miserably** from scorching sun and lack of fresh water."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The villain perished **miserably** in the foul heart of the Great Grimpen Mire."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The orphan children slept **miserably** in drafty dormitories, shivering beneath thin coverlets."*

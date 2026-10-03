@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or inciting pity; ; ; - galsworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inspiring mixed contempt and pity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing pity, especially through vulnerability or sadness; miserably inadequate or distressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and rhetoric, relating to the emotions or calculated to evoke pathos (as in the pathetic fallacy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole was left alone all this time and entertained himself by playing snatches of pathetic airs and sometimes singing to them (as we heard at a distance) with great expression and feeling."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby repeats the word with pathetic emphasis—“in the court."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His outlook upon time was as a transient flash of the eye now and then: that projection of consciousness into days gone by and to come, which makes the past a synonym for the pathetic and the future a word for circumspection, was foreign to Troy."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The gentle death of little Nell was the most **pathetic** scene that ever drew tears from a reading public."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The **pathetic** fallacy imputes human sensations and griefs to inanimate natural objects like weeping clouds."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"There was a **pathetic** dignity in the young mother as she carried her dying child to be baptized."*

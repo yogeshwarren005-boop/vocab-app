@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hideous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a hideous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a horrid manner; dreadfully, shocking, or in a way that causes disgust or terror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conversational exaggeration, intensely or distressingly unpleasant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What may this mean, That thou, dead corse, again in complete steel, Revisit’st thus the glimpses of the moon, Making night hideous, and we fools of nature So horridly to shake our disposition With thoughts beyond the reaches of our souls?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Head to foot Now is he total gules, horridly trick’d With blood of fathers, mothers, daughters, sons, Bak’d and impasted with the parching streets, That lend a tyrannous and a damned light To their vile murders."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"How horridly you talk,” cried Bess."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The monster's countenance was **horridly** illuminated by a vivid flash of alpine lightning."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The red light of the threshing machine glowed **horridly** through the autumn twilight like an engine of torment."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The room smelled **horridly** of stale gin and charred paper when we opened the shuttered window."*

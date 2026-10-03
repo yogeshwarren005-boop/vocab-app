@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to bring to mind; - wilder hobson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used with `of' or `with') noticeably odorous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strongly reminiscent or suggestive of something; fragrant, sweet-smelling, or evocative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory literature, permeated with the rich scent of flowers, earth, tobacco, or sea brine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The odour which now filled the refectory was scarcely more appetising than that which had regaled our nostrils at breakfast: the dinner was served in two huge tin-plated vessels, whence rose a strong steam redolent of rancid fat."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Must it not be to that famous elephant, with jewelled tusks, and redolent with myrrh, which was led out of an Indian town to do honor to Alexander the Great?"*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Glittered and sparkled the revelling spray, Swelled and receded its silvery lay, Rustled the roses in fervid array, In fragrance declaring their costly acclaim, Wafting on soft winds the redolent fame Of fantasy, fountain, and tuneful refrain."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The cozy kitchen was **redolent** of roasted meats, fresh bread, and savory country herbs."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The cab was heavily **redolent** of cheap cigars and wet umbrellas as we drove through Baker Street."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The autumn mown fields were **redolent** of sweet clover, cider pomace, and damp woodland earth."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a seam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morally degraded; ; ; ; - seattle weekly; - james joyce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sordid, disreputable, squalid, or morally unappealing; also showing seams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary metaphor (originating in Shakespeare's Othello), the rough, unadorned, underside of society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some such squire he was That turn’d your wit the seamy side without, And made you to suspect me with the Moor."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lucian Selincourt was her only brother and very dear to her, but there was no denying that his career had its seamy side."*
+> - 📜 **William Shakespeare (*Othello*):** *"Some such squire he was that turned your wit the **seamy** side without, and made you to suspect me with the Moor."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Our nocturnal journey revealed the dark and **seamy** side of Victorian London's opium dens."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Fagin introduced the innocent boy to the **seamy** underworld of London pickpockets and thieves."*

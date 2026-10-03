@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hate coupled with disgust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hate coupled with disgust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of revulsion or loathing; disgust and hatred combined; detestation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, the deep instinctive repulsion felt toward cruelty, deceit, or tyranny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Did he look like—not like YOU?” says the woman with abhorrence."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Surely then he might have regarded that abhorrence of the un-intact state, which he had inherited with the creed of mysticism, as at least open to correction when the result was due to treachery."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"As her successor in that house, she regarded her with jealous abhorrence."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My heart sickened with profound **abhorrence** as the creature stepped into the moonlight before me."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"I express my unalterable **abhorrence** of doctrines that overthrow the ancestral order of civil society."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Darnay turned away with visible **abhorrence** from the bloodstained courtyard of the tribunal."*

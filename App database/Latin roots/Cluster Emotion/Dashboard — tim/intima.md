@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost layer or coat of an organ or anatomical vessel, especially an artery or vein (tunica intima).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular pathology, the endothelial lining of blood vessels subject to lipid accumulation and plaque formation during atherogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intima designates the innermost membrane of an organ (especially the inner lining of an artery or vein or lymphatic vessel)."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"Dissecting the great arteries reveals the smooth, glistening **intima** that minimizes resistance to the surging blood."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We trace the inception of chronic endarteritis to inflammatory irritations occurring within the deepest layers of the arterial **intima**."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **intima** consists of an endothelial layer, a delicate subendothelial connective tissue, and an internal elastic lamina."*

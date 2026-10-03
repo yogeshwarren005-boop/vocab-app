@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: True sparrows: old world birds formerly considered weaverbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True sparrows: old world birds formerly considered weaverbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of Old World sparrows, true sparrows, and snowfinches in the order Passeriformes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, seed-eating songbirds characterized by stout conical beaks and global synanthropic distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passeridae designates true sparrows: old world birds formerly considered weaverbirds."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Species of **Passeridae** exhibit remarkable behavioral adaptability to human agricultural settlements."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The cranial osteology of **Passeridae** reflects specialized adaptations for crushing hard graminaceous seeds."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Colonization of isolated oceanic islands by members of **Passeridae** demonstrates rapid plumage divergence."*

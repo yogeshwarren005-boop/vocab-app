@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from antimony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or derived from antimony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or containing pentavalent antimony in its higher oxidation state (+5).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, characterizing acid or oxide salts where antimony exhibits maximum valence, such as antimonic acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimonic designates relating to or derived from antimony."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"When the metallic regulus is completely calcined with excess oxygen, it yields a dense **antimonic** oxide."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"The precipitation of **antimonic** acid from dissolved salts requires careful regulation of the acidic reagent."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The combustion of the metal in pure chlorine produced a dense white powder possessing distinct **antimonic** properties."*

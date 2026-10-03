@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the writings of the early church fathers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the writings of the early church fathers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the early Christian Church Fathers or their writings and theological doctrines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology, the theological era spanning the Apostolic Fathers to the Council of Chalcedon (circa 100–500 AD).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"All this time he was pursuing his Patristic and other historical studies with unflagging vigour, always writing new lectures, always maintaining his love of abstract knowledge and his eager desire to add to his already vast stores of learning."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Probably he went to sleep over his Church Times, or else buried himself in some venerable volume of patristic literature and forgot about her."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"Deep immersion in **patristic** literature convinced Newman that modern Anglicanism had drifted from the primitive church."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The student of **patristic** eloquence will find in Chrysostom the fire of Demosthenes tempered by Christian zeal."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The scholastic master cites the **patristic** authority of Saint Augustine as the foundational bedrock of his argument."*

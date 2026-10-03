@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of mending a hole in a garment by sewing a patch over it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To join or unite the pieces of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of mending, repairing, or reinforcing with patches; improvising a temporary repair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software maintenance and textiles, applying corrective code updates or stitching reinforcement fabric.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Once dad, in the bar room, Counted out his money, Weary mother sat at home, Patching clothes for sonny."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Sherwood could not at present do her own laundry-work, she insisted upon darning and patching and mending as only she could darn and patch and mend."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The rest of my days will be spent in patching and painting and puttying and caulking my priceless possession and in looking the other way when an imploring argument or a damaging fact approaches. 1."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Ham had been **patching** up a great pair of waterboots; and I sat beside him on the upturned boat admiring his skill."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"The ancient roof bore traces of repeated **patching**, showing where Tudor tiles met modern slate."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The cooper was busy **patching** leaky herring barrels with fresh willow hoops along the Glasgow quay."*

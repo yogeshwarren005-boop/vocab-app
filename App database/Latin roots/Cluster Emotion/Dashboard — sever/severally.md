@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apart from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apart from others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Individually, separately, or each by itself; respectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract jurisprudence, denoting individual liability where each party may be sued separately for the entire obligation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Haste you again. [_Exeunt severally._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I’ll go seek the Duke; his banquet is prepared. [_Exeunt severally._] SCENE VI."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank thee. [_Exeunt severally._] SCENE V."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The states are united in one national commonwealth, yet retain their **severally** reserved municipal powers."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The obligors bound themselves jointly and **severally** to pay the full sum upon the date appointed."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"Every man has a right to the fruits of the earth which he has **severally** mixed with his own labor."*

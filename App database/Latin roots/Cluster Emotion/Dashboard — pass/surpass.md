@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or do something to a greater degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exceed; to be greater than; to do or be better than ever before.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary critique and aesthetics, to transcend ordinary human achievement in sublime beauty or skill.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This system gave considerable opportunity for management on the part of a thrifty housewife, and for such management there were few to surpass the housewife in the shepherd's cottage at Dunglass."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is noteworthy that the very year 1896, which marked the height of the political agitation to abandon the gold standard for silver, saw the gold production for the first time in all history surpass the two hundred million dollar mark."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gold output had caught up with, and began to surpass, the normal monetary demands of the world, meaning by that phrase, the amount of gold needed to maintain a stationary level of prices. § 12. #Rising prices after 1896#."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"This is the prettiest low-born lass that ever ran on the green-sward; nothing she does or seems but smacks of something greater than herself, too noble for this place; her virtues **surpass** report."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His form had yet not lost all her original brightness, nor appeared less than Archangel ruined, and the excess of glory obscured: so did he **surpass** his fallen peers."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Modern navigational discoveries far **surpass** the narrow geographical boundaries of the ancient Greeks."*

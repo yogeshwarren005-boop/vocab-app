@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading widely or driving off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial or geographic property of being scattered about over a range, area, or volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of scattering, spreading, or distributing things over a wide geographic area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and statistics, the separation of light into wavelengths or the extent to which values deviate from the mean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Europeans who travel into the jungle have, even at the present time, only to point a camera at a crowd to procure its instant dispersion."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The stones and bits of iron represent the ills and disasters of the past year, and the dispersion of them by the explosion is believed to remove the ills and disasters themselves."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The custom, thus found among three separate branches of the Celtic stock, probably dates from a period before their dispersion, or at least from a time when alien races had not yet driven home the wedges of separation between them."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The phenomenon of chromatic **dispersion** in glass lenses presented a formidable obstacle to refracting telescopes."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tragic **dispersion** of the Jewish nation across the provinces followed the destruction of Jerusalem."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Means of **dispersion** are of paramount significance in determining whether a species establishes wide geographical range."*

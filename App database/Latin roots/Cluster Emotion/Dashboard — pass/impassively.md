@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impassive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impassive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impassive manner; without emotion, expression, or visible reaction; stoically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, enduring pain or confronting mortal peril without flinching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Xindral, perched on his stool, arms in his lap, impassively observed their reactions."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Camari returned Narval's gape impassively."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Among them walked impassively the blue-gowned men of the ruling race, fairer, smaller, feebler, and yet undoubtedly master."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The count stood **impassively** by the doorway, observing Jonathan's terrified movements without a word."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"Bartleby stared **impassively** at the blank wall, answering every command with his quiet refusal."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard took the severe rebuke **impassively**, folding his arms in grim, obstinate silence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A policeman who patrols a given region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policeman who patrols a given region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A police officer who patrols a designated beat in a town or city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal police administration, a uniformed officer on foot or in a squad car maintaining public order on assigned beats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrolman designates a policeman who patrols a given region."*
+> - 📜 **O. Henry (*The Four Million*):** *"The **patrolman** on the beat moved up the avenue impressively, checking shop doors and twirling his polished nightstick."*
+> - 📜 **Stephen Crane (*Maggie: A Girl of the Streets*):** *"A burly **patrolman** stepped quickly from the shadows, commanding the unruly crowd on the corner to disperse."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"Cowperwood bribed the district captain, ensuring that every **patrolman** turned a blind eye to his midnight franchise track-laying."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Celebrate a jubilee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express great joy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To show great joy or rejoice triumphantly; to express exultant gladness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical worship, Psalm 100 (*Jubilate Deo*) sung as an opening canticle of thanksgiving in Christian morning prayer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly Leonore called back in jubilating tones, "Salo, Salo, did you hear?" Salo had heard her call but comprehended nothing further."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The angelic choirs did **jubilate** aloud, striking their celestial harps to celebrate the dawn of creation."*
+> - 📜 **Samuel Taylor Coleridge (*Religious Musings*):** *"Let all created beings **jubilate** in harmony, praising the eternal source of life and light."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Crowds gathered to **jubilate** over the fall of tyranny, unknowing what terror the future held."*

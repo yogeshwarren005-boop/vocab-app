@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make timid or fearful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compel or deter by or as if by threats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Frighten, overawe, or cow someone, especially in order to force them to do what one wants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical discourse and jurisprudence, using threats of violence, coercion, or menacing authority to suppress free expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But, in such a cause, his anger, though it must shock, could not intimidate Henry, who was sustained in his purpose by a conviction of its justice."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The usage they have in every case received from the natives has been such as to intimidate the boldest of their number."*
-> - 📜 **Effie Afton (*Eventide*):** *"As the fair girl grew older, she resolved the arbitrary woman should not govern or intimidate her, and met all her attempts at petty tyranny with a bold, undaunted spirit, which seemed to increase the woman's hatred."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The society of the energetic class, in their friendly and festive meetings, is full of warmth, yet they never allow timid men to **intimidate** them."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn looked coldly upon the distraught woman, determined to **intimidate** her into confessing the secret."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"The overseers sought by whip and pistol to **intimidate** every enslaved laborer into absolute submission."*

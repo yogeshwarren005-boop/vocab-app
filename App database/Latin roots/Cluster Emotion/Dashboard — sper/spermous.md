@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or resembling spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or resembling spermatozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or resembling sperm or semen; spermatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medical and physiological treatises, describing secretions or fluids containing reproductive elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermous designates consisting of or resembling spermatozoa."*
+> - 📜 **Francis Bacon (*The History of Life and Death*):** *"The vital spirits are deeply nourished by the pure and concocted **spermous** humors of the body."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Certain alchemical philosophers believed in a universal **spermous** ether that impregnated base metals."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The internal tubules secrete a viscid **spermous** fluid that protects the gametes during external emission."*

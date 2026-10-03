@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very unhappy; full of misery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving or inciting pity; ; ; - galsworthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wretchedly unhappy, uneasy, or uncomfortable; characterized by great distress or squalor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social reform literature, destitute living conditions that degrade human dignity and health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Twice did he turn his back and purposed so; But kindness, nobler ever than revenge, And nature, stronger than his just occasion, Made him give battle to the lioness, Who quickly fell before him; in which hurtling From miserable slumber I awaked."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had I been thief-stol’n, As my two brothers, happy! but most miserable Is the desire that’s glorious."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Get you therefore hence, Poor miserable wretches, to your death, The taste whereof God of his mercy give You patience to endure, and true repentance Of all your dear offences!"*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"The **miserable** change now at my end lament nor sorrow at; but please your thoughts in feeding them with those my former fortunes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tom-all-Alone's was a **miserable** street where disease and pestilence nested in rotting tenements."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I was benevolent and good; misery made me a fiend. Make me happy, and I shall again be virtuous, but now I am **miserable** beyond all living things."*

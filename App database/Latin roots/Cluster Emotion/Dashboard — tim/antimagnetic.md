@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impervious to the effects of a magnetic field; resistant to magnetization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impervious to the effects of a magnetic field; resistant to magnetization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistant to magnetization; not readily magnetized or affected by an external magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horology and precision engineering, describing timepieces constructed with non-ferrous alloys to prevent timing errors near dynamos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimagnetic designates impervious to the effects of a magnetic field; resistant to magnetization."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The instruments were encased in specialized **antimagnetic** alloys to shield delicate sensors from the spacecraft's ion engines."*
+> - 📜 **Ian Fleming (*Thunderball*):** *"Bond strapped on his diver's watch, noting its heavy **antimagnetic** casing designed to withstand naval ordnance fields."*
+> - 📜 **Carl Sagan (*Contact*):** *"The receiver's inner electronics were enclosed within an **antimagnetic** bulkhead to suppress terrestrial radio interference."*

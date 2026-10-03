@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A church endowment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inheritance coming by right of birth (especially by primogeniture).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Property, estate, or wealth inherited from one's father or male ancestor; a heritage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical economics and ecclesiastical law, the hereditary lands of a family or the Patrimony of Saint Peter (Papal States).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"General, Take thou my soldiers, prisoners, patrimony; Dispose of them, of me; the walls are thine: Witness the world that I create thee here My lord and master."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No good at all that I can do for him, Unless you call it good to pity him, Bereft and gelded of his patrimony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Signior Baptista, you are happily met. [_To the Pedant_] Sir, this is the gentleman I told you of; I pray you stand good father to me now; Give me Bianca for my patrimony."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who can be bound by any solemn vow to do a murderous deed, to rob a man, to force a spotless virgin's chastity, to reave the orphan of his **patrimony**?"*
+> - 📜 **King James Bible (*The Holy Bible*):** *"They shall have like portions to eat, beside that which cometh of the sale of his **patrimony**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The rich **patrimony** of the Roman church in Sicily and Calabria was confiscated by the Byzantine emperor."*

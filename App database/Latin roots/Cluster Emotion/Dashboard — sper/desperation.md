@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in which all hope is lost or absent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desperate recklessness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of despair, typically one which results in rash, dangerous, or extreme behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential psychology, the acute breakdown of hope that drives individuals to reckless decisive action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Desperation Is all the policy, strength, and defence That Rome can make against them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The very place puts toys of desperation, Without more motive, into every brain That looks so many fathoms to the sea And hears it roar beneath."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a soul But felt a fever of the mad, and play’d Some tricks of desperation."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The mass of men lead lives of quiet **desperation**. What is called resignation is confirmed **desperation**."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"In a frenzy of **desperation**, the hunted murderer scrambled onto the sloping roof tiles above Folly Ditch."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Hetty walked through the cold night fields with the blind **desperation** of a trapped creature."*

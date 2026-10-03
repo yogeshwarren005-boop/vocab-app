@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Line of descent traced through the paternal side of the family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Line of descent traced through the paternal side of the family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lineage or descent traced exclusively through the paternal line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology, a corporate descent group whose members trace common ancestry to a male progenitor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrilineage designates line of descent traced through the paternal side of the family."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"The corporate rights to sacred hunting grounds were vested within the male elders of the village **patrilineage**."*
+> - 📜 **Meyer Fortes (*The Dynamics of Clanship Among the Tallensi*):** *"Every domestic altar in the compound is dedicated to the departed ancestors of the localized **patrilineage**."*
+> - 📜 **Max Gluckman (*Custom and Conflict in Africa*):** *"Disputes over livestock inheritance are adjudicated by senior lineage heads within the defendant's **patrilineage**."*

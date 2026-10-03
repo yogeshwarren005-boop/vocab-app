@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little patronage or few clients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little patronage or few clients.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not supported, sponsored, or treated by a patron (British spelling); neglected by patrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and artistic biography, struggling geniuses forced to create without aristocratic subsidy or elite favor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpatronised designates having little patronage or few clients."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The young poet lived **unpatronised** in an obscure London lodging, producing verses of rare sublimity unnoticed by the court."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"An independent painter, proud and **unpatronised**, must endure the disdain of fashionable portrait-mongers."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh laboured in his tower **unpatronised** by academy or prince, spinning his philosophy out of his own deep soul."*

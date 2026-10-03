@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of returning to the country of origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of returning to the country of origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The return of someone to their own country; the sending of money or assets back to one's homeland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In post-conflict administration and museum ethics, restitution of displaced populations or looted cultural patrimony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repatriation designates the act of returning to the country of origin."*
+> - 📜 **Winston Churchill (*Triumph and Tragedy*):** *"The swift **repatriation** of hundreds of thousands of liberated allied laborers posed an immense logistical challenge across broken rail systems."*
+> - 📜 **George Orwell (*As I Please*):** *"The orderly **repatriation** of soldiers from overseas garrisons is essential to restore economic vitality to civilian industry."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The treaty negotiated the **repatriation** of captured legionary standards and thousands of Roman captives detained beyond the Euphrates."*

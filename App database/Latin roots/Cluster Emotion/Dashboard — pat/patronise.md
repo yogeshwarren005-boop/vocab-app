@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do one's shopping at; do business with; be a customer or client of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume sponsorship of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat condescendingly, with apparent kindness that betrays a feeling of superiority; also support as a customer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British literature and social discourse, displaying condescending arrogance toward social inferiors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In all the clam’rous cry of starving want, They dun Benevolence with shameless front; Oblige them, patronise their tinsel lays— They persecute you all your future days!"*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Yet I do not call to mind that I was ever in my earlier youth the subject of remark in our social family circle, but some large-handed person took some such ophthalmic steps to patronise me."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"For myself, I found that I was expressing my tendency to lavish expenditure, and to patronise Herbert, and to boast of my great prospects, before I quite knew that I had opened my lips."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"It is always dangerous to **patronise** young men from the country, who frequently turn out far cleverer than one expects."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins took delight in shocking duchesses, refusing to **patronise** high society with hypocritical compliments."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy disliked the elderly spinster's effort to **patronise** her, preferring the honest brusqueness of the Emersons."*

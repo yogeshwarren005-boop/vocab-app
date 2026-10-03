@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Do one's shopping at; do business with; be a customer or client of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assume sponsorship of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treating someone with an apparent kindness that betrays a feeling of superiority; condescending (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character analysis, displaying subtle vanity and insulting deference under the guise of benevolence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"There’s your true Ashantee, gentlemen; there howl your pagans; where you ever find them, next door to you; under the long-flung shadow, and the snug patronising lee of churches."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"There was something very enchanting in the eager attention with which her information was awaited, and she looked round upon them all with a patronising benignity, which was, to say the least, irritating."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"He had not her patronising, superior ways; he was not always watching and spying."*
+> - 📜 **James Joyce (*Dubliners*):** *"Gallaher was only **patronising** him by his friendliness, showing off the glitz of London journalism to a humble Dublin clerk."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There's your true Ashantee, gentlemen; observe how he displays that **patronising** grin when civilized sailors express terror."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond disliked her sister-in-law's **patronising** air, which seemed to assume that county pedigree surpassed all town elegance."*

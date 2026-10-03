@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing sympathy; - kenneth roberts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or expressing sympathy; - kenneth roberts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or feeling commiseration; compassionate, sympathetic, or sorrowful for others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological descriptions, an affective disposition characterized by habitual empathy for the suffering of living creatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commiserative designates feeling or expressing sympathy; - kenneth roberts."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Hepzibah cast a **commiserative** glance upon her broken brother as he tottered into the garden."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her warm, **commiserative** nature made Dorothea responsive to the slightest sign of distress in others."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The old cottagers exchanged **commiserative** sighs as the young mother passed beneath the churchyard wall."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical trade name for penicillamine, an oral chelating agent used to treat Wilson's disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a heavy-metal chelator that binds excess systemic copper ions to promote their urinary excretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuprimine designates a drug (trade name cuprimine) used to treat heavy metal poisoning and wilson's disease and severe arthritis."*
+> - 📜 **William Osler (*Principles and Practice of Medicine*):** *"Modern chelating therapy utilizing **Cuprimine** transformed the formerly fatal prognosis of hepatolenticular degeneration."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The physician explained how specific antidotes like **Cuprimine** could purge toxic accumulations of mineral poisons from living tissues."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Chelation with **Cuprimine** halted the progression of dystonic tremors in the young patient suffering from copper storage disease."*

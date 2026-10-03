@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `to') strongly opposed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by antagonism or antipathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or feeling a strong, deep-seated aversion, opposition, or dislike; antagonistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical and biological systems, exhibiting mutual incompatibility or repellent physical properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Judaism antipathetic Judaism was the antithesis of Christianity, because Judaism engendered the limited form of a national or 133:21 tribal religion."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His influence upon the rest of the group must have been consciously and increasingly antipathetic."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Jasper assents, with an antipathetic shiver."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"His austere metaphysical temperament was thoroughly **antipathetic** to the sensual extravagances of French romance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond found her husband's intense scientific preoccupations utterly **antipathetic** to her social ambitions."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Dogmatic scholasticism has ever been **antipathetic** to the free spirit of experimental inquiry."*

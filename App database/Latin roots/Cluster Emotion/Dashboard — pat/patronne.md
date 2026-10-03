@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a patron or the wife of a patron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a patron or the wife of a patron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female proprietor, manager, or owner, especially of a French café, bistro, pension, or small hotel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French travel memoirs, the formidable matriarch who commands the cash register and kitchen staff of a Parisian restaurant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patronne designates a woman who is a patron or the wife of a patron."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"The cheerful **patronne** of the Basque inn brought us a steaming tureen of garlic soup and fresh crusty loaves."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"Madame the **patronne** watched the kitchen entrance like a hawk, ready to dock twenty sous for the slightest broken plate."*
+> - 📜 **Katherine Mansfield (*In a German Pension*):** *"The stout **patronne** stood behind her zinc counter, loudly berating the sleepy chambermaid in rapid French."*

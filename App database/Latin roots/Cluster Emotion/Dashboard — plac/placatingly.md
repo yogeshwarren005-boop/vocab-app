@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a placating manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a placating manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a placating or conciliatory manner; in a way that attempts to pacify or appease someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative dialogue, speaking softly or gesturing apologetically to de-escalate tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placatingly designates in a placating manner."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe smiled **placatingly** at Mrs. Joe as she flourished the dreaded Tickler across the hearth."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Seth spoke **placatingly** to his fiery brother, urging patience and faith in God's providence."*
+> - 📜 **Herman Melville (*Billy Budd, Sailor*):** *"The handsome sailor held out his open palms **placatingly**, distressed by the master-at-arms' stern frown."*

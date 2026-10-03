@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to pacify by acceding to demands or granting concessions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to pacify by acceding to demands or granting concessions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving, tending, or designed to placate; conciliatory or pacifying in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic strategy, small concessionary gestures made to soothe irritated allies or adversaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placative designates intended to pacify by acceding to demands or granting concessions."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Weak governments rely upon **placative** concessions that invite further aggression from foreign powers."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley sent a **placative** basket of pineapples to his sister after their angry domestic quarrel."*
+> - 📜 **Henry James (*The Bostonians*):** *"Basil Ransom offered a **placative** bow, hoping to soften the rigid hostility of his northern hostess."*

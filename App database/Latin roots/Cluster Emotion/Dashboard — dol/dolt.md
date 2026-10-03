@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is not very bright.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is not very bright.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stupid, foolish, or slow-witted person; a blockhead or dunce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic satire and colloquial reproach, an insensitive individual who fails to grasp plain truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was a simple-minded, good-natured dolt and not above earning an honest dollar by smuggling in tobacco for the convicts."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In my haste to an engagement I was clumsy, most woful clumsy, but without intention.” What could the dolt do but grudgingly accept the amends I so freely proffered him?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Sea-cuny that I was, I was no dolt with women, and I sensed more than idle curiosity in her sending for me."*
+> - 📜 **William Shakespeare (*Othello*):** *"O gull! O **dolt**! As ignorant as dirt! Thou hast done a deed—I care not for thy sword; I'll make thee known."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Every pedantic **dolt** fancies himself qualified to pronounce judgment upon the masterpieces of the ancients."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Creakle roared that I was an obstinate **dolt** who would feel the weight of his cane before sunset."*

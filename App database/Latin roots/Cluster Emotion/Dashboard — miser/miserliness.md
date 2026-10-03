@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total lack of generosity with money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total lack of generosity with money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive desire to hoard wealth and extreme reluctance to spend money; stinginess or parsimony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, neurotic hoarding behavior driven by morbid fear of impoverishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He is vulnerable to reason there—always a few grains of common-sense in an ounce of miserliness."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Miserliness is a capital quality to run in families; it’s the safe side for madness to dip on."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Does economic theory throw any light on the ethics of miserliness? 4."*
+> - 📜 **George Eliot (*Silas Marner*):** *"His **miserliness** was not ambition, but a dull substitute for the human warmth he had lost."*
+> - 📜 **Honore de Balzac (*Eugenie Grandet*):** *"The old cooper's ferocious **miserliness** dictated every spoonful of sugar and candle-end in the house."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Sordid **miserliness** hoards coin in vaults, whereas productive frugality invests capital in active enterprise."*

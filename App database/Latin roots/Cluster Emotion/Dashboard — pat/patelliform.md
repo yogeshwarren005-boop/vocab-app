@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a dish or pan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a dish or pan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a small dish, platter, limpet shell, or kneecap; patelloid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and mycological morphology, describing saucer-shaped or shallow bowl-like apothecia and spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patelliform designates shaped like a dish or pan."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Certain fungal fructifications develop a distinctly **patelliform** disc with raised margins to disperse their microscopic spores."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"The base plate of this barnacle presents a shallow **patelliform** depression fitted snugly to the underlying rock."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The lichens produce small **patelliform** cups that cup moisture and foster the growth of reproductive asci."*

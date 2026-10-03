@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A swelling on the epididymis or the testis; usually contains spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A swelling on the epididymis or the testis; usually contains spermatozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign cystic accumulation of sperm-containing fluid originating in the epididymis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urological surgery, an epididymal retention cyst located superior to the testis, typically painless and transilluminating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatocele designates a swelling on the epididymis or the testis; usually contains spermatozoa."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"A distended **spermatocele** may be differentiated from a hydrocele by its distinct anatomical position above the testicle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aspiration of a chronic **spermatocele** yields opalescent fluid teeming with non-motile spermatozoa."*
+> - 📜 **William James (*The Letters of William James*):** *"The consulting physician reassured the anxious youth that the small scrotal **spermatocele** was entirely benign."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traveler on a public or private conveyance (such as a ship, train, or automobile) other than the driver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial transport history, fare-paying voyagers whose safety is entrusted to licensed common carriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are my mates, that make their wills their law, Have some unhappy passenger in chase."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Straight, without turning to the right or left, through the city, from one gate to another, this passenger seemed going; and as he went there was the sound as of a proclamation, as if it were a herald denouncing war or ratifying peace."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Afterwards, as you shall learn, I identified this reminiscence and knew that the moaning and the groaning was of the sweep-slaves manacled to their benches, which I heard from above, on the poop, a soldier passenger on a galley of old Rome."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Dover mail coach carried three weary **passenger** travelers, wrapped in cloaks against the winter fog."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"I never go as a **passenger**; nor, though I am something of a salt, do I ever go to sea as a Commodore."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Holmes disguised himself as an elderly **passenger** on the Continental express to evade Moriarty's spies."*

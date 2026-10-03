@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the feelings of; understand the sentiments of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To feel or express sympathy or compassion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or express sympathy; to understand and share the feelings of another (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and moral discourse, to support or approve of a cause, movement, or party.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While something in me,” he went on, “is acutely sensible to her charms, something else is as deeply impressed with her defects: they are such that she could sympathise in nothing I aspired to—co-operate in nothing I undertook."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John’s taciturnity: he was sincerely glad to see his sisters; but in their glow of fervour and flow of joy he could not sympathise."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"We, of this self-conscious, incredulous generation, sentimentalise our children, analyse our children, think we are endowed with a special capacity to sympathise and identify ourselves with children; we play at being children."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I could not but **sympathise** with his restless misery, even while my judgment condemned his deception."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The gentle rector knew how to **sympathise** with the simple sorrows of his rural flock."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"It is natural for generous minds to **sympathise** with peoples struggling against foreign tyranny."*

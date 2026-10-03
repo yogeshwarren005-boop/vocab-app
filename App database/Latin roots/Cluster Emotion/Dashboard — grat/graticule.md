@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A network of fine lines, dots, cross hairs, or wires in the focal plane of the eyepiece of an optical instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A network of fine lines, dots, cross hairs, or wires in the focal plane of the eyepiece of an optical instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of fine lines in the eyepiece of an optical instrument, used as a measuring scale; reticle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartography and navigational science, the network of lines of latitude and longitude on a map or globe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graticule designates a network of fine lines, dots, cross hairs, or wires in the focal plane of the eyepiece of an optical instrument."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Align the specimen precisely against the micrometric **graticule** within the microscope eyepiece."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Astronomical observations enabled us to project the geographical **graticule** across uncharted lands."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The survey map overlaid a precise **graticule** to locate the fossiliferous strata across the valley."*

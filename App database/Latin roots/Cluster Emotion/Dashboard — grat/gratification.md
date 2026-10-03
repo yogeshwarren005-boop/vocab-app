@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being gratified or satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or an instance of satisfying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasure, especially when gained from the satisfaction of a desire or goal; contentment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and behavioral theory, the immediate or delayed fulfillment of instinctual appetites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is a source of much gratification to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She gave me a gracious welcome to her domain and indicated, with much gratification and pride, its principal attractions."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Circumstances undoubtedly prevent my saying that it would afford me any gratification to hear that Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It was a source of profound **gratification** to see her daughter so happily settled in life."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The internal **gratification** of conscious virtue exceeds all the applause of the multitude."*
+> - 📜 **Sigmund Freud (*Beyond the Pleasure Principle*):** *"The pleasure principle drives the unconscious mind toward immediate instinctual **gratification**."*

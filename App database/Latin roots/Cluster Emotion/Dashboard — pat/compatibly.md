@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With compatibility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With compatibility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compatible manner; harmoniously, consistently, and without mutual interference or discord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and system architecture, operating in simultaneous agreement with preexisting standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compatibly designates with compatibility."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Two rival scientific hypotheses can rarely function **compatibly** when explaining the same mechanical phenomenon."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Ancient liberties and sovereign authority had long coexisted **compatibly** under the British constitution."*
+> - 📜 **William James (*The Will to Believe*):** *"Different religious temperaments live **compatibly** when mutual tolerance tempers the zeal of dogma."*

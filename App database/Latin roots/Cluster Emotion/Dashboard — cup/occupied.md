@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep busy with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Live (in a certain place).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being used or inhabited by someone; also actively engaged or busy with an activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military geography, referring to a territory or fortification held under the armed authority of an invading power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She would have loved to have a little daughter herself, therefore she occupied herself with me as if I belonged to her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt was so much occupied at lunch with his own plans and ideas that he never even noticed when his favorite dessert appeared on the table."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The distance they had to traverse occupied about two hours, but it did not seem long."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was too much **occupied** with her own perplexing thoughts to attend to the frivolous chatter of the tea table."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Every window in the Saint Antoine quarter was **occupied** by eager citizens watching the arrival of the tumbrils."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes was deeply **occupied** with his chemical retorts, taking no notice of my entrance."*

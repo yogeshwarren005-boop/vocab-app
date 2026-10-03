@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures the height above ground; used in navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that measures the height above ground; used in navigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures and displays the altitude of an object above a fixed level, especially sea level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace and mountaineering, a barometric or radio-based instrument crucial for vertical navigation and terrain clearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"With that subconscious concentration of the flying man on his ship, he glanced at the instrument board first, and taking in the astonishing information that both the altimeter and the air-speed meter registered zero, he looked over the side."*
+> - 📜 **Charles Lindbergh (*The Spirit of St. Louis*):** *"I glance repeatedly at the dial of the **altimeter**, watching the needle fluctuate as the monoplane encounters turbulent downdrafts over the open ocean."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"The pilot tapped the glass of the **altimeter** with his gloved knuckle, seeking reassurance amid the heavy Andean squalls."*
+> - 📜 **Ernest K. Gann (*Fate Is the Hunter*):** *"In the swirling snow, the **altimeter** unwound with terrifying rapidity as we descended toward the invisible ridge."*

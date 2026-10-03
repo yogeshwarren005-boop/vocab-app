@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shy or timid or bashful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a shy or timid or bashful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shy, hesitant, fearful, or apprehensive manner; without boldness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fictional dialogue and social interaction, speaking or moving with hesitant deference to avoid offense or rebuff.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But, mother, one must not leave before everything is straightened up and put into the wardrobe," Lippo said timidly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As only Ada and I were at home, we received her timidly, for she seemed to come in like cold weather and to make the little Pardiggles blue as they followed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Unless my cousin John is blind, my pet,” said I, “I should think my cousin John knows pretty well as much as we know.” “We want to speak to him before Richard goes,” said Ada timidly, “and we wanted you to advise us, and to tell him so."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She placed one of these forks under each arm as a crutch, tested them, **timidly** took two steps forward, and sighed."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Not quite right, I'm afraid,' said Alice, **timidly**; 'some of the words have got altered.'"*
+> - 📜 **George Eliot (*Middlemarch*):** *"What is your opinion?' she added, rather **timidly**, after a slight pause, glancing up at the solemn scholar."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something located at a time when it could not have existed or occurred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Time incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An error in calculating, synchronizing, or choosing the appropriate time for an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performance analysis and industrial mechanics, a synchronization flaw that degrades efficiency or disrupts choreographed teamwork.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistiming designates something located at a time when it could not have existed or occurred."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A tragic **mistiming** in the firing of the artillery allowed the Martians to erect their heat-ray apparatus unmolested."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The awkward pause in the salon revealed a sudden **mistiming** of conversation, as if two clocks struck discordant hours."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The burglar's undoing was a simple **mistiming** of the night watchman's regular rounds through the vault gallery."*

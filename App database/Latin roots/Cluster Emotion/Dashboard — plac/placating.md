@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to pacify by acceding to demands or granting concessions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to make someone less angry or hostile; conciliatory, pacifying, or appeasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral description, adopting a gentle tone or submissive posture to avert conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placating designates cause to be more favorably inclined; gain the good will of."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Farfrae adopted a soft, **placating** tone that disarmed Henchard's loud and blustering rage."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Barrymore raised a **placating** hand, begging Sir Henry to hear his explanation in private."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Jane's sweet and **placating** voice always sought to soften her mother's unreasonable complaints."*

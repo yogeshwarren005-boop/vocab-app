@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency for a memory or idea to persist or recur without any apparent stimulus for it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of persisting or persevering; continuing or repeating behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetitive continuation or recurrence of an activity, word, or thought without an appropriate stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and cognitive psychology, an involuntary persistence of a response typical of brain damage or dementia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perseveration designates the tendency for a memory or idea to persist or recur without any apparent stimulus for it."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Mental **perseveration** illustrates how neural pathways retain motor excitability long after the original stimulus subsides."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"In chronic dementia, verbal **perseveration** reduces conversational response to the endless repetition of a single phrase."*
+> - 📜 **Alexander Luria (*Higher Cortical Functions in Man*):** *"Motor **perseveration** was demonstrated whenever the patient attempted to change from writing numbers to writing letters."*

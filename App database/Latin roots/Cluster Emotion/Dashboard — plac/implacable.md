@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being placated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being placated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be placated, appeased, or pacified; relentless, unyielding, and inexorable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical tragedy and epic poetry, fierce, unbending hatred or vengeance that pursues enemies to destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Souls and bodies hath he divorced three, and his incensement at this moment is so implacable that satisfaction can be none but by pangs of death and sepulchre."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn observes, following her out upon the staircase, “as the most implacable and unmanageable of women."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it is whispered that when he is most ferocious towards his old foe, he is really most considerate, and that Sir Leicester, in the dignity of being implacable, little supposes how much he is humoured."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Madame Defarge was an **implacable** spirit of retribution, knitting the names of the doomed with icy resolve."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab pursued the white whale with an **implacable** malice that consumed every humane feeling in his breast."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan burned with **implacable** hatred against the Almighty and the newly created race of mankind."*

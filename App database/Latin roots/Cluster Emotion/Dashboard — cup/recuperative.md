@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting recuperation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoting recuperation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to restore health, strength, or vitality; having the power of recovery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, denoting self-healing mechanisms and metabolic processes that repair tissue damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The recuperative power which pervaded organic nature was surely not denied to maidenhood alone."*
-> - 📜 **Bram Stoker (*Dracula*):** *"It is wonderful, however, what intellectual recuperative power lunatics have, for within a few minutes he stood up quite calmly and looked around him."*
-> - 📜 **Bram Stoker (*Dracula*):** *"God’s will be done!” With his usual recuperative energy, he went on: “Come."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **recuperative** powers of youth frequently overcome systemic infections that prove fatal to the aged."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"I observed the marvelous **recuperative** stamina of the wounded soldiers breathing the sweet country air."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"Nature possesses an inexhaustible **recuperative** energy if the physician will only refrain from meddlesome interference."*

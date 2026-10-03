@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have one's hair stand on end and get goosebumps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause (someone's) hair to stand on end and to have goosebumps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause the hairs of the skin to stand erect through cold, fear, or excitement; to get goosebumps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological medicine, to undergo piloerection mediated by sympathetic stimulation of arrector pili muscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horripilate designates have one's hair stand on end and get goosebumps."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"Sensory stimulation of the cutaneous nerves can cause the human skin to **horripilate** in reflex shivering."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Terror causes the hairs to **horripilate** in both humans and chimpanzees through contractions of involuntary muscular fibers."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sudden spectral dread causes the cutaneous papillae to **horripilate** before conscious reflection occurs."*

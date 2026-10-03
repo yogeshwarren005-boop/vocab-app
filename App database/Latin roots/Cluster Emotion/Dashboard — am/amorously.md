@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an amorous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an amorous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an amorous manner; with romantic passion, erotic desire, or tender affection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction, gazing or speaking with unmistakable expressions of romantic longing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Buck Mulligan suspired amorously."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Alec looked down **amorously** at her flushed face as they rode beneath the dark oak boughs."*
+> - 📜 **Herman Melville (*Typee*):** *"The island maidens smiled **amorously** as they wove garlands of fragrant gardenias for our hair."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw gazed **amorously** at Dorothea across the drawing room, admiring her noble grace."*

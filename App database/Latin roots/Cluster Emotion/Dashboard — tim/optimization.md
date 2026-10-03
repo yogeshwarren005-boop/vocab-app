@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rendering optimal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rendering optimal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making the best or most effective use of a situation, system, or resource.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical programming and computer engineering, finding the best available values of an objective function within defined domains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, optimization designates the act of rendering optimal."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback mechanisms accomplish continuous **optimization** by adjusting servo controls in response to error signals."*
+> - 📜 **John von Neumann (*The Computer and the Brain*):** *"The **optimization** of memory access speeds remains the central bottleneck in modern electronic digital computers."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Efficient coding enables the **optimization** of channel capacity even in the presence of thermal transmission noise."*

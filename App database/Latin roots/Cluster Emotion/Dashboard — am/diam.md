@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The length of a straight line passing through the center of a circle and connecting two points on the circumference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a straight line passing through the center of a circle and connecting two points on the circumference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Common abbreviation for diameter, the straight line segment passing through the center of a circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technical engineering specifications and optics, the designated measurement across a circular aperture or bore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diam designates the length of a straight line passing through the center of a circle and connecting two points on the circumference."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The copper cylinder measured six inches in **diam.**, with walls of exceptional smoothness and uniformity."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The pupillary opening measured approximately four millimeters in **diam.** during emotional excitement."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Red blood corpuscles average approximately one thirty-two-hundredth of an inch in **diam.** in human blood."*

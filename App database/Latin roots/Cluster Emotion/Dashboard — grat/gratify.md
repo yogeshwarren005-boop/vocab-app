@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make happy or satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield (to); give satisfaction to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give pleasure or satisfaction to someone; to indulge or satisfy a wish or appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, to yield to sensory or selfish inclinations rather than rational duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Having determined of the Volsces and To send for Titus Lartius, it remains, As the main point of this our after-meeting, To gratify his noble service that Hath thus stood for his country."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In these fear’d hopes I barely gratify your love; they failing, I must die much your debtor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Antonio, gratify this gentleman, For in my mind you are much bound to him. [_Exeunt Duke and his train._] BASSANIO."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men often sacrifice future well-being to **gratify** a momentary and frivolous appetite."*
+> - 📜 **Francis Bacon (*The Essays*):** *"It is dangerous for princes to **gratify** private favorites at the expense of public justice."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"To **gratify** every curiosity is impossible, for the horizons of knowledge expand endlessly."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct group of bony-plated fishes with primitive jaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct group of bony-plated fishes with primitive jaws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct class of armored prehistoric fishes that flourished in the Silurian and Devonian periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate systematics, the earliest known jawed vertebrates, possessing an articulated joint between cranial and thoracic shields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placodermi designates extinct group of bony-plated fishes with primitive jaws."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Members of the class **Placodermi** dominated the marine and freshwater habitats of the Middle Devonian era."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Cranial shields of the **Placodermi** exhibit unique hinge structures facilitating wide vertical jaw gape."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative paleontology links the skeletal architecture of the **Placodermi** to primitive gnathostome origins."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being irreplaceable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being irreplaceable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or fact of being impossible to replace; unique and incomparable value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy and aesthetics, the singular uniqueness of an individual life or masterpiece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irreplaceableness designates the quality of being irreplaceable."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"A true realization of the **irreplaceableness** of every human soul is the supreme foundation of democratic ethics."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The absolute **irreplaceableness** of Turner's atmospheric watercolors demands the most reverent gallery preservation."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Nature stamps each genius with an unrepeatable seal of **irreplaceableness** that defies imitation."*

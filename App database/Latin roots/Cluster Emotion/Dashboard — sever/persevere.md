@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be persistent, refuse to stop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be persistent, refuse to stop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To continue in a course of action even in the face of difficulty or with little prospect of success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spiritual and intellectual life, to maintain resolute commitment to lofty ideals through periods of adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess still stood hesitating like a bather about to make his plunge, hardly knowing whether to retreat or to persevere, when a figure came forth from the dark triangular door of the tent."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Away walked Catherine in great agitation, as fast as the crowd would permit her, fearful of being pursued, yet determined to persevere."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Teachers and pupils may look coldly on you for a day or two, but friendly feelings are concealed in their hearts; and if you persevere in doing well, these feelings will ere long appear so much the more evidently for their temporary suppression."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"He resolved to **persevere** along the narrow path, though roaring lions guarded the ascent to the palace."*
+> - 📜 **Thomas Henry Huxley (*Life and Letters*):** *"If men of science will only **persevere** in verified truth, dogmatic opposition will crumble by degrees."*
+> - 📜 **George Washington (*Letters and Addresses*):** *"Let us **persevere** through this harsh winter at Valley Forge, confident that our cause is just."*

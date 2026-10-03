@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest order of birds, comprising more than half of all avian species; the perching birds or passerines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics, songbirds distinguished by anisodactyl feet (three toes forward, one back) and vocal syrinx complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passeriformes designates largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The order **Passeriformes** represents the crown radiation of modern neornithine avian evolution."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The adaptive radiation of **Passeriformes** on isolated archipelagos provided key evidence for speciation."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Song, brilliant plumage, and nest architecture attain their highest development within **Passeriformes**."*

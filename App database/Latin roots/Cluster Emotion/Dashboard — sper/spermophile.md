@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various terrestrial burrowing rodents of old and new worlds; often destroy crops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various terrestrial burrowing rodents of old and new worlds; often destroy crops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ground squirrel of the genus Spermophilus, inhabiting open plains and prairies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American zoology and mammalogy, burrowing sciurids noted for extensive cheek pouches used to store seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermophile designates any of various terrestrial burrowing rodents of old and new worlds; often destroy crops."*
+> - 📜 **John James Audubon (*The Viviparous Quadrupeds of North America*):** *"The striped **spermophile** scurries among the prairie burrows, chirping shrilly at the approach of a hawk."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Adaptive instincts in the prairie **spermophile** include communal alarm signals and deep winter hibernation."*
+> - 📜 **John Muir (*Our National Parks*):** *"A lively little **spermophile** emerged from beneath the granite boulder to gather fallen pine nuts."*

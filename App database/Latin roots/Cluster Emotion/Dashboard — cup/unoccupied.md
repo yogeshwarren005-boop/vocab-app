@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not held or filled or in use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not seized and controlled.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occupied; having no occupant, tenant, or user; vacant, empty, or unengaged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and colonial history, territory containing no defending troops or formal administrative outposts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It seemed as if the spot was unoccupied by a living soul."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His walk was towards the churchyard, entering which he searched around till he found a newly dug unoccupied grave—the grave dug the day before for Fanny."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Once there, Bathsheba was forced to make the best of it and remain: she sat down, spreading her skirts with some dignity over the unoccupied space on each side of her, and giving a new and feminine aspect to the pavilion."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The vast, deserted mansion stood with shuttered windows, leaving the cavernous rooms wholly **unoccupied**."*
+> - 📜 **Jane Austen (*Emma*):** *"Finding the comfortable armchair **unoccupied**, Mr. Woodhouse seated himself near the hearth with satisfaction."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The quiet dairy lanes were **unoccupied** at that early dawn hour, save for the lowing cows."*

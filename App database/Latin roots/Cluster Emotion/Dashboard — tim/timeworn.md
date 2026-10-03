@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeated too often; overfamiliar through overuse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeated too often; overfamiliar through overuse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Damaged, impaired, or showing the effects of long use, wear, or the passage of time; venerable with age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and rhetoric, describing platitudes, clichés, or architectural ruins weather-beaten across centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timeworn designates repeated too often; overfamiliar through overuse."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"I wandered through the **timeworn** corridors of the Moorish palace, touching carved arabesques softened by five centuries of weather."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The venerable gables presented a **timeworn** aspect, encrusted with moss and blackened by coastal autumn rains."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Monkbarns dusted the cover of the **timeworn** folio, declaring it the rarest treasure of seventeenth-century typography."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing sorrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing sorrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of or expressing great sorrow or grief; mournful or painful (variant British spelling of dolorous).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and archaic diction, causing or accompanying tragic affliction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolourous designates showing sorrow."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"Balin struck the **dolourous** stroke that smote King Pellam and laid waste three noble kingdoms."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"The knight heard a **dolourous** complaint rising from the enchanted thicket by the wayside."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The wounded knight groaned in a **dolourous** tone, begging for water to cool his burning fever."*

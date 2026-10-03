@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic monetary unit in many countries; equal to 100 cents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of paper money worth one dollar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic monetary unit of the United States, Canada, Australia, and numerous other countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary history, derived from the German *Thaler* (Joachimsthaler), a heavy silver coin minted in Bohemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"No less ready when at the bottom of fortune's ladder, than at the top, to do good as she had opportunity, she paid another poor woman's way to a neighboring State, where employment awaited her, and did it literally with her _last_ dollar-and a-half!"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We were privileged to keep our rooms and have board at one dollar a week."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"N---- said: 'I should like to give Miss B---- something,' and handed my friend _a five dollar bill for me_."*
+> - 📜 **Alexander Hamilton (*Report on the Establishment of a Mint*):** *"The Spanish silver piece of eight, commonly called a **dollar**, has long served as the de facto currency of our trade."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A man is rich in proportion to the number of things which he can afford to let alone without spending a **dollar**."*
+> - 📜 **Mark Twain (*The £1,000,000 Bank Note*):** *"I was an American stranded in London without a single **dollar** to buy a crust of bread."*

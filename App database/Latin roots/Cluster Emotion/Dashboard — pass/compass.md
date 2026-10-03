@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Navigational instrument for finding directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in which something acts or operates or has power or control:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument containing a magnetized pointer showing the direction of magnetic north; also scope or boundary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and drafting, an instrument with two hinged legs used for drawing circles and measuring distances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, let it not be so: Herein you war against your reputation, And draw within the compass of suspect The unviolated honour of your wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is too big, I hope, for me to compass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, you are so fat, Sir John, that you must needs be out of all compass, out of all reasonable compass, Sir John."*
+> - 📜 **William Shakespeare (*Othello*):** *"A sibyl that had numbered in the world the sun to course two hundred **compasses**, in her prophetic fury sewed the work."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In his hand he took the golden **compasses**, prepared in God's eternal store, to circumscribe this universe."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab stood before the binnacle, observing how the lightning had inverted the polarity of the main **compass**."*

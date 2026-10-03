@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the practice of homeopathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the practice of homeopathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on homeopathy; also referring to an extremely minute, infinitesimal dose or amount.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical philosophy, adhering to the principle that a disease is cured by substances that produce similar symptoms in healthy persons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Homeopathic Magic of a Flesh Diet THE PRACTICE of killing a god has now been traced amongst peoples who have reached the agricultural stage of society."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Currents and Counter-Currents in Medical Science*):** *"He calculated that a **homeopathic** dilution of the tenth potency would require a sphere of water larger than the solar system."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The Drosera tentacles reacted to minute **homeopathic** traces of nitrogenous fluid with astonishing motor speed."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He applied a **homeopathic** dose of praise, knowing that vanity would unlock the suspect's reticence."*

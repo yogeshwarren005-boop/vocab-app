@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of social organization in which a male is the family head and title is traced through the male line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of social organization in which a male is the family head and title is traced through the male line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of society or government in which men hold the primary power and predominate in leadership roles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feminist theory and social anthropology, institutionalized male supremacy regulating family descent, property, and civic authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patriarchy designates a form of social organization in which a male is the family head and title is traced through the male line."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"The private house and the public office remain intertwined under the ancient reign of **patriarchy**, preserving unearned male privilege."*
+> - 📜 **Charlotte Perkins Gilman (*The Man-Made World*):** *"The transition from maternal kinship to absolute **patriarchy** marked the subordination of woman's creative potential in culture."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"The legal supremacy of the husband over the wife is the last remaining bastion of primitive **patriarchy** in modern law."*

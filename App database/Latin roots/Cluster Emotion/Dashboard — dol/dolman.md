@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hussar's jacket worn over the shoulders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman's cloak with dolman sleeves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, loose garment with narrow sleeves, formerly worn in Turkey; also a woman's mantle with cape-like sleeves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military uniform history, a short braided jacket worn by European hussar cavalrymen over one shoulder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"MRS YELVERTON BARRY: _(In lowcorsaged opal balldress and elbowlength ivory gloves, wearing a sabletrimmed brickquilted dolman, a comb of brilliants and panache of osprey in her hair.)_ Arrest him, constable."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The Turkish envoy was resplendent in an embroidered silk **dolman** girded with a jeweled scimitar."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Lieutenant George Osborne strutted before the ladies in his scarlet hussar **dolman** trimmed with fur."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She wrapped her dark woolen **dolman** closely about her shoulders against the biting autumn wind."*

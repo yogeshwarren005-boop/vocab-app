@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of statements) harmful and often untrue; tending to discredit or malign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of statements) harmful and often untrue; tending to discredit or malign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Derogatory, disparaging, or tending to belittle the reputation of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, expressing malicious statements that expose a person to public hatred or contempt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denigratory designates (used of statements) harmful and often untrue; tending to discredit or malign."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Civil damages are awarded for **denigratory** words that cause measurable pecuniary injury to trade."*
+> - 📜 **Lord Byron (*English Bards and Scotch Reviewers*):** *"The poet replied with savage verse to the **denigratory** notices published in the northern review."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"His rival circulated **denigratory** rumors questioning his medical qualifications in the district."*

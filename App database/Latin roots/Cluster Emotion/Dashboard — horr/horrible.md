@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provoking horror; ; ; ; - winston churchill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provoking horror; ; ; ; - winston churchill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or likely to cause horror; shockingly dreadful, abominable, or distressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, evoking dread, disgust, and shuddering revulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What say you? [_Strikes him again._] Hence, horrible villain, or I’ll spurn thine eyes Like balls before me!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What if it tempt you toward the flood, my lord, Or to the dreadful summit of the cliff That beetles o’er his base into the sea, And there assume some other horrible form Which might deprive your sovereignty of reason, And draw you into madness?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But tell me, Hal, art not thou horrible afeard?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O, **horrible**! O, **horrible**! most **horrible**! If thou hast nature in thee, bear it not."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"His yellow skin scarcely covered the work of muscles and arteries beneath; his hair was of a lustrous black, and flowing; his teeth of a pearly whiteness; but these luxuriances only formed a more **horrible** contrast with his watery eyes."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The **horrible** cry of murder rang out in the dead of night, freezing the blood of all who heard it."*

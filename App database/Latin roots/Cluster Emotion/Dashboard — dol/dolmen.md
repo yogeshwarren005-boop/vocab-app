@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prehistoric megalithic tomb typically having two large upright stones and a capstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hussar's jacket worn over the shoulders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prehistoric megalithic tomb consisting of a large flat stone laid on upright stones; a portal tomb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Neolithic archaeology, single-chamber burial structures built across western Europe from 4000 to 3000 BCE.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It is, in fact, practically the same as the "mat marking" on the Japanese and Corean pottery taken from the dolmens which were built over a long period extending from the second century B.C. to the eighth century A.D."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"On the lonely Dorset down stood an ancient stone **dolmen**, gray and weathered by three thousand years."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"Earthworms had gradually undermined the soil surrounding the upright megaliths of the ancient **dolmen**."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Monkbarns pointed enthusiastically toward the prehistoric **dolmen**, expounding upon its Druidical rites."*

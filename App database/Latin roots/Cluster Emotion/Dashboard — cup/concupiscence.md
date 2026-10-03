@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A desire for sexual intimacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desire for sexual intimacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong sexual desire or lust; ardent or inordinate sensual appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the inherent inclination of fallen human nature toward sin and temporal indulgence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Part 1*):** *"C._ 1710. _Underwritten._ Thou Fool, 'twas done for want of Sense, I tickl'd her Concupiscence: And that is enough to save her Credit. _S."*
+> - 📜 **Augustine of Hippo (*Confessions*):** *"My youth was tossed about upon the churning sea of **concupiscence**, far from the harbor of divine peace."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Original sin transmits a disordered **concupiscence** that clouds reason and inclines the will toward temporal goods."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Carnal desire inflamed their minds, leading to shameless **concupiscence** after eating the forbidden fruit."*

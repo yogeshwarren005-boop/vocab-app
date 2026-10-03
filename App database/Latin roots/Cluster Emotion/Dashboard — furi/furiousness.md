@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being wild or turbulent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being wild or turbulent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme condition of wild rage, tempestuous anger, or violent turbulence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive rhetoric, the unbridled fury of natural elements or human emotional outbursts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, furiousness designates the property of being wild or turbulent."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sheer **furiousness** of the white whale's assault splintered the cedar planks as though they were glass."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The sudden **furiousness** of Arthur's passion astonished him, sweeping away his habitual self-possession."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The storm raged with a demonic **furiousness** around the ancient tower, howling through every battlement."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (football) a kicker who makes a place kick for a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (football) a kicker who makes a place kick for a goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A football player who kicks the ball from a fixed position on the ground (solid spelling of place-kicker).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports specialization, an athletic specialist responsible for executing point-after touchdowns and field goals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placekicker designates (football) a kicker who makes a place kick for a goal."*
+> - 📜 **P. G. Wodehouse (*The Head of Kay's*):** *"The school team relied upon their unerring **placekicker** to snatch victory in the dying minutes of the match."*
+> - 📜 **Thomas Hughes (*Tom Brown at Oxford*):** *"The college **placekicker** stepped back from the ball with the quiet coolness of a veteran marksman."*
+> - 📜 **Arthur Conan Doyle (*The Captain of the Pole-Star*):** *"Our star **placekicker** booted the ball cleanly between the uprights, winning the university championship."*

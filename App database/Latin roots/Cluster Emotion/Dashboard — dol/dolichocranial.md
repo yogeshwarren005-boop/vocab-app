@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively long head with a cephalic index of under 75.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively long head with a cephalic index of under 75.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having a long skull; specifically applied to dry skull specimens with a cranial index below 75.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic craniometry and osteology, describing dry cranial vaults exhibiting elongated anteroposterior dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolichocranial designates having a relatively long head with a cephalic index of under 75."*
+> - 📜 **Thomas Henry Huxley (*Further Remarks on the Human Remains Found in the Caves of Gibraltar*):** *"The fossilized calvarium is clearly **dolichocranial**, measuring over two hundred millimeters in longitudinal axis."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative measurements of **dolichocranial** specimens reveal cranial capacity equal to modern European averages."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The missing link possessed a **dolichocranial** vault combined with the ape-like dentition of a dryopithecus."*

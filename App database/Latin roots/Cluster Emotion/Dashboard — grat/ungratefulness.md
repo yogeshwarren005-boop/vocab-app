@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of gratitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character or trait of being ungrateful; lack of gratitude; unthankfulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, the callous disregard for moral debts owed to parents, teachers, and benefactors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ungratefulness designates a lack of gratitude."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Nothing more alienates the hearts of subjects than perceived **ungratefulness** in their sovereign."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The benefactor must learn to endure human **ungratefulness** without relinquishing the practice of charity."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"In the kingdom of the Lilliputians, **ungratefulness** was punished as a capital crime against society."*

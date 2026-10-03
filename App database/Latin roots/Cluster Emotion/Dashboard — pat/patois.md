@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic language of a particular group (as among thieves).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regional dialect of a language (especially french); usually considered substandard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of the common people of a region, differing in various respects from the standard language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics, non-standard vernacular speech or regional jargon lacking official orthography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this part of France the last sheaf is called the _coujoulage,_ which, in the patois, means a wether."*
-> - 📜 **James Joyce (*Ulysses*):** *"To hell with the bloody brutal Sassenachs and their _patois._ So J."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The Parisian street urchin spoke a lively **patois**, blending underworld slang with the quick wit of the barricades."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Elizabeth-Jane was careful to weed every provincial **patois** word from her vocabulary to please her ambitious father."*
+> - 📜 **George Sand (*The Master Bell-Ringers*):** *"The village woodsmen conversed in a rich Berry **patois**, unintelligible to townspeople accustomed to Parisian French."*

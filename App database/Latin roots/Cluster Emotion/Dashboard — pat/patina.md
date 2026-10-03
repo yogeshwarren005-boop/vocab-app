@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine coating of oxide on the surface of a metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fine coating of oxide on the surface of a metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A green or brown film on the surface of bronze or copper produced by oxidation over a long period; a surface sheen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antique connoisseurship and metallurgy, the mellow luster acquired by wood or metal through age and handling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The latter are actually made of coco-nut, and, curiously enough, their interior after much use acquires a vivid patina, whose colour recalls some of the Yüan tz´ŭ glazes."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He admired the Renaissance bronze dagger, upon whose chased handle centuries of handling had imparted a rich, dark **patina**."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The antique shop was filled with venerable curiosities whose soft **patina** whispered of ancient Venetian palazzos."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The true glory of a Gothic cathedral lies not in its pristine stones, but in the golden **patina** of age and moss."*

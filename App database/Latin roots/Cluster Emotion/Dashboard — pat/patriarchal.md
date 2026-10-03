@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of a form of social organization in which the male is the family head and title is traced through the male line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a man who is older or higher in rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of a patriarch or a system of society controlled by men; fatherly and traditional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological history, social structures where authority, descent, and inheritance are concentrated exclusively in elder males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In family or patriarchal communities all share a common income and combine in the common defense, but self-preservation often has compelled such small communities to form a larger, stronger state for the common defense."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Here and there a patriarchal smith still serves a dwindling group of customers and speaks with mingled pride and pathos of his sons, now in the automobile business in the city."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is a survival from more patriarchal conditions when, in the large family, or clan, the bond of unity was very strong."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"In early stages of human association, morality was enforced through stern **patriarchal** authority over the tribe."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"I doubt greatly whether any public functionary had ever maintained a more tranquil and **patriarchal** household."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The **patriarchal** lives of my protectors caused these impressions to take a firm hold on my mind, showing me domestic peace."*

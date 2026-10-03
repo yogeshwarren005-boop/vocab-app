@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or resembling spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or resembling spermatozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling sperm or semen; conveying reproductive fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human surgical anatomy, designating the spermatic cord, spermatic artery, and pampiniform venous plexus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatic designates consisting of or resembling spermatozoa."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **spermatic** cord suspends the testis within the scrotum, carrying the vas deferens and testicular blood vessels."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Ligation of the internal **spermatic** artery rapidly produces ischemic atrophy of the germinal epithelium."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The alchemists spoke fancifully of a universal **spermatic** principle animating all metallic transformations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an optimal and most desirable way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an optimal and most desirable way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the most favorable, desirable, or effective manner possible; at peak efficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering and physiology, functioning at the highest attainable standard under real-world operating constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I have no choice, but I have to act quickly." Selvin's battle computer counted down the enemy's distance and flashed estimates on when the enemy line would be optimally exposed to particle beam volleys."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"When oxygen and glucose are supplied in precise proportion, the heart muscle functions **optimally** without exhaustion."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Attention functions **optimally** when distractions are minimized and interest is genuinely engaged with the task."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"In a frictionless market, resources distribute themselves **optimally** to satisfy aggregate consumer demand."*

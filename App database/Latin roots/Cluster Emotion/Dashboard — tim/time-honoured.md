@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptable for a long time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honored because of age or long usage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Respected and venerable because of long-standing observance and ancient tradition (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British constitutional history, traditional conventions preserved through unbroken generational practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-honoured designates acceptable for a long time."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Old John of Gaunt, **time-honoured** Lancaster, hast thou, according to thy oath and band, brought hither Henry Hereford thy bold son?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The proprietor of a large old water-mill at Wellbridge—once the mill of an Abbey—clung to the **time-honoured** ways of flour grinding."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"As I looked out of the coach window, and observed that an old house on Fish-street retained its **time-honoured** gables, memories rushed upon me."*

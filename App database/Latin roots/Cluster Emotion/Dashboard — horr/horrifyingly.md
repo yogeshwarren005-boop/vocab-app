@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a horrifying manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a horrifying manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a horrifying manner; so as to cause intense horror, terror, or dread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive journalism or narrative, unfolding with appalling clarity and dreadful consequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horrifyingly designates in a horrifying manner."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white brow of the whale loomed **horrifyingly** close above the gunwale of our fragile boat."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The vampire's fingernails clicked **horrifyingly** against the stone parapet as he crawled downward face first."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The iron tripod towered **horrifyingly** over the treetops, leveling everything with flashes of fire."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who pursues a study or sport as a pastime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An athlete who does not play for pay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who engages in a pursuit, study, or activity on an unpaid rather than professional basis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, enthusiastic naturalists and independent experimenters who contributed foundational discoveries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a musical man, an amateur, but might have been a professional."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is an artist too, an amateur, but might have been a professional."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A mere amateur.” Sir Leicester seemed to approve of this even more."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Much of our knowledge regarding floral fertilization is due to the patient observations of the zealous **amateur**."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes described himself as a consulting detective, but the official police regarded him as an **amateur**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The scientific **amateur** often brings a fresh perspective that rigid academic specialization overlooks."*

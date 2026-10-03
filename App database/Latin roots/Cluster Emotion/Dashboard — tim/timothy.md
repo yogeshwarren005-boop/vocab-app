@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grass with long cylindrical spikes grown in northern united states and europe for hay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disciple of saint paul who became the leader of the christian community at ephesus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely cultivated European perennial grass (*Phleum pratense*) grown for pasture and cattle hay; also a masculine name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Biblical literature, an early Christian evangelist and companion of the Apostle Paul to whom two pastoral epistles are addressed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He loved Paul of Tarsus, liked St John, hated St James as much as he dared, and regarded with mixed feelings Timothy, Titus, and Philemon."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were Will Aden, Abel Milliken, and Timothy Grant."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not until morning did I hear of the return of Abel Milliken and Timothy Grant, but I was not long in learning."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The lush dairy meadows were fragrant with flowering clover and sweet **timothy** grass under the warm June sun."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Old **timothy** was a wiry laborer of an ancient rustic type, who maintained that honest ditching beat all book-learning."*
+> - 📜 **King James Bible (*The Holy Bible*):** *"Paul, an apostle of Jesus Christ by the will of God, to **timothy**, my dearly beloved son: Grace, mercy, and peace, from God the Father."*

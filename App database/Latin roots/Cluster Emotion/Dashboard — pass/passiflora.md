@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the passifloraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the passifloraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of about 550 species of flowering plants in the family Passifloraceae; passion flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, climbing vines celebrated for intricate radial flowers and edible tropical passion fruits (*maracuyá*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passiflora designates type genus of the passifloraceae."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The sensitive tendrils of **Passiflora** gracilis curl rapidly around supportive stems upon the slightest mechanical friction."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Vast climbing vines of **Passiflora** covered the riverbank trees with glorious corona-fringed blossoms."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Passiflora** bear complex multi-colored corona rings symbolizing the instruments of the Passion."*

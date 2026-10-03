@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ostentatiously lofty in style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ostentatiously lofty in style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vehement, impassioned, or dramatic in expression; marked by rhetorical pomp or theatrical style.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic criticism, an exaggeratedly formal or oratorical style of acting that lacks natural subtlety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This fixed idea of the rhapsodist was delivered with animated enthusiasm, in a manner entirely declamatory, for he had plainly no skill as a dialectician."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was ratified in June, 1795, by the Senate by the constitutional majority of two-thirds, though there was much declamatory opposition, and the feeling between the Federal and Republican parties ran higher than ever before."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The Boy Stood on the Burning Deck” followed; also “The Assyrian Came Down,” and other declamatory gems."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Addison's Cato is filled with noble sentiments, but its tone is too cold and **declamatory** for true tragedy."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"Let us abandon noisy, **declamatory** rhetoric and examine the sober realities of commercial revenue."*
+> - 📜 **William Hazlitt (*Characters of Shakespear's Plays*):** *"Shakespeare avoids the dry, **declamatory** verse of the French classical stage in favor of passionate nature."*

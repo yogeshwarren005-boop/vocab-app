@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being replaced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being replaced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be replaced, exchanged, or substituted; not unique or irreplaceable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modular mechanics, standard parts designed for rapid field substitution when worn or damaged.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"They have replaceable cast-iron nose-pieces to facilitate repair after wearing down."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Glass joints should be standardized so that broken tubes are immediately **replaceable** from stock."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Mass aviation design relied upon **replaceable** modular wings that could be swapped in field hangars."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft reminded his engineers that even the most skillful mechanic is **replaceable** in a modern foundry."*

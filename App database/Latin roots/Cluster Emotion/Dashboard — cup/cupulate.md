@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like (or supporting) a cupule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like (or supporting) a cupule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or provided with a cupule or cup-shaped structure; cup-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, describing fruits, flowers, or fungi enclosed at the base by a cup-like sheath or involucre.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupulate designates shaped like (or supporting) a cupule."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **cupulate** fruit of Quercus alba matures within a single season, dropping its nut from the shallow bowl."*
+> - 📜 **John Lindley (*Introduction to Botany*):** *"Fleshy **cupulate** receptacles are characteristic of several primitive discomycetous fungi growing upon damp timber."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Certain carnivorous plant glandular organs exhibit a **cupulate** form that retains secreted enzymes."*

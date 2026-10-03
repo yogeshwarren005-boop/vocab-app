@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offensive to the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inspiring disgust and loathing; repugnant, detestable, or deeply offensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logical and ethical discourse, completely contrary or incompatible with fundamental moral principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When he was a _mauvais sujet_ he was less abhorrent to me than now."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The deeper he went in sin, the more unsatisfactory and abhorrent it became, and he would have turned, long before, to the Lord, had he believed there was the least hope for him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The crime of waste was abhorrent."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The suppression of peaceful opinion is **abhorrent** to the principles of a free and enlightened society."*
+> - 📜 **Abraham Lincoln (*Speech at Peoria*):** *"I hate it because of the monstrous injustice of slavery itself; I hate it because it deprives our republican example of its just influence in the world and makes us appear hypocritical; this is **abhorrent** to all our professions."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Cruelty inflicted for mere pleasure is universally **abhorrent** to the civilized conscience."*

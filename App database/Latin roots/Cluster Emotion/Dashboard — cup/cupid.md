@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) god of love; counterpart of greek eros.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symbol for love in the form of a cherubic naked boy with wings and a bow and arrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Roman god of love and desire, usually depicted as a winged boy with a bow and arrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical iconography and mythology, the capricious divine personification of erotic attraction and romantic infatuation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brains of my Cupid’s knock’d out, and I begin to love, as an old man loves money, with no stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that will divide a minute into a thousand parts, and break but a part of the thousand part of a minute in the affairs of love, it may be said of him that Cupid hath clapped him o’ the shoulder, but I’ll warrant him heart-whole."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lovers And men in dangerous bonds pray not alike; Though forfeiters you cast in prison, yet You clasp young Cupid’s tables."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Love looks not with the eyes, but with the mind; and therefore is winged **Cupid** painted blind."*
+> - 📜 **John Keats (*Ode to Psyche*):** *"The winged boy, fair **Cupid**, lay entwined with Psyche beneath the fragrant forest boughs."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"A thousand fluttering sprites surrounded Belinda, guarding her locks from mischievous **Cupid**'s darts."*

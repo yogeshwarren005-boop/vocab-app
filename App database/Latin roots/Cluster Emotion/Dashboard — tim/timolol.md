@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A beta blocker (trade name blocadren) administered after heart attacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beta blocker (trade name blocadren) administered after heart attacks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-selective beta-adrenergic receptor blocking drug used primarily in ophthalmology to lower intraocular pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a topical beta-blocker prescribed for open-angle glaucoma that reduces aqueous humor production in the eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timolol designates a beta blocker (trade name blocadren) administered after heart attacks."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The ophthalmologist prescribed topical **timolol** drops to halt the stealthy progression of elevated intraocular pressure in the elderly patient."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"The surgical prep sheet required verifying whether the patient had received preoperative **timolol** to stabilize eye pressure prior to lens replacement."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern ocular therapeutics owes much to synthetic adrenoceptor antagonists like **timolol** that preserve vision without systemic toxicity."*

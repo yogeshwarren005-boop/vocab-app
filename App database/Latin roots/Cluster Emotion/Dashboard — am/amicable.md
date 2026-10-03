@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by friendship and good will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by friendship and good will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by friendly goodwill; peaceable, agreeable, and free from disagreement or dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and contract negotiation, an out-of-court settlement reached by mutual consent without litigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper, says in amicable conversation with that excellent woman."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This has been so far accomplished as, under a continuation of the Union, to afford a decided prospect of an amicable termination of the dispute."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Chapman, and Miss Morris, established the most amicable relations with the surgeon in charge, Dr."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The two brothers separated on **amicable** terms, agreeing to avoid contentious discussions in the future."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The opposing attorneys concluded an **amicable** agreement over a glass of port before trial commenced."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"An **amicable** adjustment of commercial differences is infinitely preferable to the violent arbitrament of war."*

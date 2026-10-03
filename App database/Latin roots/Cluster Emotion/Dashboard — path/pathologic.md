@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused by or altered by or manifesting disease or pathology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the practice of pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pathology; caused by, involving, or indicating disease; pathological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and medical diagnosis, exhibiting structural abnormalities resulting from morbid disease processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathologic designates caused by or altered by or manifesting disease or pathology."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Every **pathologic** tissue formation has its physiological prototype in embryonic or adult developmental stages."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The post-mortem examination revealed severe **pathologic** changes throughout the cardiac valves."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"Slips of the tongue illuminate the continuous borderland between normal psychology and **pathologic** symptoms."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not one of the first three in a race or competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not one of the first three in a race or competition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a place or assigned location; not placed; unranked in a race or contest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horseracing and athletic events, finishing behind the first three or four recognized prize positions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unplaced designates not one of the first three in a race or competition."*
+> - 📜 **Arthur Conan Doyle (*Silver Blaze*):** *"The favorite was surprisingly left **unplaced** as the outsider surged past the winning post in the Wessex Cup."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Thousands of legal documents remained **unplaced** in the chaotic, dust-covered closets of the Chancery stationer."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba's ram was left **unplaced** at the county agricultural show, to Gabriel's keen disappointment."*

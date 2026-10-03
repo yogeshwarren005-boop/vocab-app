@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regain or make up for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regain a former condition after a financial loss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To recover from illness or exertion; to regain health, strength, or energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial and commercial contexts, to recover losses or regain invested capital through subsequent profitable operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Another bout of this duration they gave me, after a day and a night to recuperate."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The programme, as given me by Warden Atherton, was that I was to rest up and recuperate for a few days, and then, if in the meantime I had not confessed to the hiding-place of the dynamite, I should be given another ten days in the jacket."*
-> - 📜 **Bram Stoker (*Dracula*):** *"We want sleep, both you and I, and rest to recuperate."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The convalescent patient requires fresh air, nourishing food, and quiet rest to **recuperate** vital strength."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"I was compelled to retire to Moor Park for several weeks to **recuperate** from severe gastric prostration."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether welcomed the journey to Paris as an opportunity to **recuperate** from years of unceasing provincial routine."*

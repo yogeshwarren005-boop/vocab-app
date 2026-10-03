@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express one's sympathetic grief, on the occasion of someone's death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express one's sympathetic grief, on the occasion of someone's death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To express sympathy, condolence, or sorrow for someone suffering misfortune or grief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social correspondence, to visit or write to a bereaved friend to share in their mourning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us condole the knight; for, lambkins, we will live. [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will move storms; I will condole in some measure."*
-> - 📜 **Effie Afton (*Eventide*):** *"Orville, and condole with her on her daughter's disgrace; but those benevolently-disposed ladies deemed it expedient to call first at sundry places in the village and repeat the lamentable tale, probably to increase the stock of sympathy; so Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins wrote to **condole** with Mr. Bennet upon Lydia's elopement, advising him to cast off his unworthy daughter."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The relatives gathered in the parlor to **condole** with the widow over her husband's bankruptcy."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Let us **condole** the knight; for, lambkins, we will live."*

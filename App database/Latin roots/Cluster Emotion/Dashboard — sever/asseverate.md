@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State categorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State categorically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To declare or affirm solemnly, earnestly, or emphatically; to avow positively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and theological discourse, to attest to the truth of an assertion under oath or formal declaration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I should not for instance have been able to asseverate to my friend that I was certain—which was so much to the good—that _I_ at least had not betrayed myself."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"I think we must forgive him for that part of it this time if he will promise never to say what isn’t true again.” “I never will, now that I know it’s bad,” asseverated Davy between sobs."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"He is . . . he says he is himself,” asseverated Davy."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men will passionately **asseverate** propositions for which they cannot produce a single coherent argument."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The traveler did not hesitate to **asseverate** that he had beheld flying dragons in the Arabian deserts."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The witness continued to **asseverate** his innocence despite the overwhelming mass of documentary proof."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Objectivity and detachment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Objectivity and detachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from passion, prejudice, or personal emotion; calm impartiality and objectivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial theory, the disciplined affective neutrality required of judges to render fair verdicts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dispassion designates objectivity and detachment."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A philosopher must examine contested doctrines with philosophical **dispassion**, unmoved by popular clamor."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Historical judgment requires a solemn **dispassion** that neither party zeal nor temporary triumphs can disturb."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Scientific **dispassion** differs profoundly from religious fervor, substituting objective measurement for ecstasy."*

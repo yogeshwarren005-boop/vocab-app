@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Out of fashion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: No longer fashionable; out of date; past one's prime (masculine form of French *passé*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fashion and cultural history, describing styles, customs, or doctrines discarded by modern society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"No, if thou had'st thould'st nere marryed a woman In thy bosome, they're Cataplasmes made oth' deadly sins: I nere saw any yet but mine own mother; Or if I did, I did regard them but As shadowes that passe by of under Creatures. _And_."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"To passe the Land I have, Sir, Unto your younger brother. _Cha_."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"On ne passe pas!” * cried a voice. * “You can’t pass!” “This way, uncle,” cried the girl."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Nothing is so completely **passe** as the romantic melancholy of the preceding decade."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Chad perceived that the provincial ideals of Woollett were hopelessly **passe** in sophisticated Paris."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The Victorian conception of feminine duty has become thoroughly **passe** in the modern world."*

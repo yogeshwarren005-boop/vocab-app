@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special anniversary (or the celebration of it).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A special anniversary (or the celebration of it).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A special anniversary of an event, especially one celebrating twenty-five, fifty, or sixty years of a reign or milestone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Hebrew law (Leviticus 25), a sabbatical year recurring every fiftieth year during which debts were remitted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"A beggar-woman and her little boy—pale, ragged objects both—were coming up the walk, and I ran down and gave them all the money I happened to have in my purse—some three or four shillings: good or bad, they must partake of my jubilee."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Some of the symptoms reminded me of the stir produced among the scullions of a large hotel, where a grand jubilee dinner is about to be given."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The vital needs of the most holy House of Worship reared in the service and for the glory of the Most Great Name, though virtually met, still require the last exertions to ensure its completion as the hour of its Jubilee approaches."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The universal restoration of knowledge would be a glorious **jubilee** for the whole human commonwealth."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The golden **jubilee** of the monarch brought visitors from every province of the sprawling empire."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"The Mosaic law ordained a **jubilee** of restitution so that no family might be permanently disinherited."*

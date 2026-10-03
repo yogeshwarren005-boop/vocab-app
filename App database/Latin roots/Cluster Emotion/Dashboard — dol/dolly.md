@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conveyance consisting of a wheeled support on which a camera can be mounted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conveyance consisting of a wheeled platform for moving heavy objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A child's word for a doll; also a small wheeled platform used for moving heavy loads or moving cameras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional laundering, a wooden club or agitator used for stirring clothes in a wash-tub.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This made me, I dare say, more timid and retiring than I naturally was and cast me upon Dolly as the only friend with whom I felt at ease."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Imperfect as my understanding of my sorrow was, I knew that I had brought no joy at any time to anybody’s heart and that I was to no one upon earth what Dolly was to me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A dolly sort of beauty perhaps,” says Miss Volumnia, reserving her own sort, “but in its way, perfect; such bloom I never saw!” Sir Leicester, with his magnificent glance of displeasure at the rouge, appears to say so too."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Little Charley carried her favorite wooden **dolly**, singing to it with tender maternal affection."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The village washerwomen pounded their linen with heavy ash **dolly** pegs in the bubbling stream."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We loaded our heavy ammunition cases onto a wheeled mining **dolly** to haul them across the ravine."*

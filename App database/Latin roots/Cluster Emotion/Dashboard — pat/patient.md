@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who requires medical care.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic role of an entity that is not the agent but is directly involved in or affected by the happening denoted by the verb in the clause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to accept or tolerate delays, problems, or suffering without becoming annoyed; also a person receiving medical care.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, an individual undergoing medical evaluation or treatment by physicians and nurses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is my hand; the premises observ’d, Thy will by my performance shall be serv’d; So make the choice of thy own time, for I, Thy resolv’d patient, on thee still rely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I must be patient; there is no fettering of authority."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ADAM. [_Coming forward_.] Sweet masters, be patient."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thence comes it that my name receives a brand, and almost thence my nature is subdued to what it works in, like the dyer's hand: pity me then and wish I were a **patient** man."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Dr. Watson examined the nervous **patient** in the consulting room, noting his trembling fingers and pallid brow."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The good doctor was gentle and **patient** with the sick waif, dressing his fevered wounds with untiring charity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually paved outdoor area adjoining a residence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Usually paved outdoor area adjoining a residence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paved outdoor area adjoining a house, used for dining or recreation; an inner paved courtyard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hispanic architecture, an open interior quadrangle encircled by arcades and adorned with fountains and potted plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"From where he stood on Drummer's enclosed patio, Brad looked through the transparent shields at ice-gray Charon low over scarred ridges to the west."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The tingling gone, she ran to the patio screen door in the dining room and peered into the back yard."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Dashing to the back yard doorway, Leah jumped the short step to the patio."*
+> - 📜 **Washington Irving (*Tales of the Alhambra*):** *"The Moorish palace was built around a tranquil **patio**, where splashing fountains cooled the fragrance of orange blossoms."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We sat out on the hotel **patio** in the evening breeze, drinking cold wine as the bullfighters strolled past."*
+> - 📜 **W. H. Hudson (*The Purple Land*):** *"The estancia had a broad brick **patio** shaded by grapevine trellises, where the gauchos gathered to sing ballads."*

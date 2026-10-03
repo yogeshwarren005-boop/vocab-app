@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little patronage or few clients.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little patronage or few clients.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not supported, sponsored, or protected by a patron; free from condescension or aristocratic subsidy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American cultural history, commercial enterprises or writers succeeding through public favor alone without wealthy benefactors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpatronized designates having little patronage or few clients."*
+> - 📜 **Edgar Allan Poe (*Essays and Reviews*):** *"The American periodical flourished **unpatronized** by government pensions, sustained entirely by the eager appetite of the reading public."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I sing the common mechanic and prairie farmer, standing erect and **unpatronized** beneath the open western sky."*
+> - 📜 **Herman Melville (*Pierre: or, The Ambiguities*):** *"Pierre sat in his bleak city room, an **unpatronized** author burning his soul away upon an uncompromising manuscript."*

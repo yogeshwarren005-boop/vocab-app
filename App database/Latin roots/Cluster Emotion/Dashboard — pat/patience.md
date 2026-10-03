@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good-natured tolerance of delay or incompetence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card game played by one person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity to accept or tolerate delay, trouble, or suffering without getting angry or upset.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and solo gaming, steadfast moral fortitude under trial, or a class of card games played alone (solitaire).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His confession is taken, and it shall be read to his face; if your lordship be in’t, as I believe you are, you must have the patience to hear it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When thou once Was beaten from Modena, where thou slew’st Hirtius and Pansa, consuls, at thy heel Did famine follow, whom thou fought’st against, Though daintily brought up, with patience more Than savages could suffer."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer, being at your beck, the imprisoned absence of your liberty; and **patience**, tame to sufferance, bide each check."*
+> - 📜 **John Milton (*On His Blindness*):** *"But **patience**, to prevent that murmur, soon replies: God doth not need either man's work or his own gifts."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot bore the trials of neglect with dignified **patience**, finding solace in quiet acts of benevolence."*

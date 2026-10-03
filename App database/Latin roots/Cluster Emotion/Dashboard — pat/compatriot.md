@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person from your own country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person from your own country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fellow citizen or national of a person's country; a person born in or belonging to the same land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In revolutionary history and international diplomacy, a comrade sharing national allegiance in exile or war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I am delighted to meet a compatriot."*
-> - 📜 **James Joyce (*Ulysses*):** *"Knife with which Voisin dismembered the wife of a compatriot and hid remains in a sheet in the cellar, the unfortunate female’s throat being cut from ear to ear."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"None but a compatriot," his Excellency declared, "could have performed that majestic dance in such a way." Then she figured in a waltz with Monsieur de Klingenspohr, the Prince of Peterwaradin's cousin and attache."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"You know a **compatriot** who has found a refuge there, sharing the bitter bread of French exile in Soho?"*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Every English **compatriot** rejoiced when Chatham's eloquent language stirred the senate to noble endeavors."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Toby and I rejoiced upon meeting an American **compatriot** whose arrival promised news from home."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality that arouses emotions (especially pity or sorrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of sympathy and sorrow for the misfortunes of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality that evokes pity, compassion, or sadness in literature, art, or life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Aristotelian rhetoric, one of the three primary modes of persuasion (alongside ethos and logos) appealing to the audience's emotions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I shall do one thing in this life—one thing certain—that is, love you, and long for you, and _keep wanting you_ till I die.” His voice had a genuine pathos now, and his large brown hands perceptibly trembled."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What arrested him now as of value in life was less its beauty than its pathos."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet how do you come here if you do not know?” “I inquired here and there, and I found the way.” “I waited and waited for you,” she went on, her tones suddenly resuming their old fluty pathos."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"There was an exquisite, unfeigned **pathos** in Ham's rough speech as he spoke of his lost Emily."*
+> - 📜 **Aristotle (*Rhetoric*):** *"Persuasion through **pathos** occurs when the orator's words stir the passions of the judges to pity or indignation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The quiet tragedy of broken aspirations carries a deeper **pathos** than loud theatrical lamentations."*

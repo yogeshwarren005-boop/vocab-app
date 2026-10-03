@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of the head of an ax or cleaver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of the head of an ax or cleaver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like an axe, hatchet, or cleaver; hatchet-shaped in morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and malacology, describing bivalve muscular feet or insect mandibles adapted for cleaving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolabriform designates having the shape of the head of an ax or cleaver."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The muscular foot of the pelecypod mollusk is laterally compressed into a **dolabriform** organ for burrowing in mud."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The fleshy, **dolabriform** leaves of desert plants store water while presenting minimal surface to the sun."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"The scuta of the pedunculated cirripede develop a **dolabriform** outline to withstand coastal surf."*

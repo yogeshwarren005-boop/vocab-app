@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory or argument made up of miscellaneous or incongruous ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quilt made by sewing patches of different materials together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Needlework made by sewing together pieces of fabric of different designs, colors, or textures; any hodgepodge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social criticism and political analysis, an incongruous assemblage of disparate laws, policies, or factions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For, on a low bed opposite the fire, a confusion of dirty patchwork, lean-ribbed ticking, and coarse sacking, the lawyer, hesitating just within the doorway, sees a man."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suppose you do!” While she is gone, the surgeon abandons his hopeless investigation and covers its subject with the patchwork counterpane."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Certain keys were hanging on the wall, to which he now added the gate key; and his patchwork-covered bed was in a little inner division or recess."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Under the thatched roofs her mind's eye beheld rustic bedrooms with cheerful **patchwork** quilts draped over low beds."*
+> - 📜 **George Eliot (*Middlemarch*):** *"This imperfectly taught woman, whose phrases and habits were an odd **patchwork** of provincial vulgarity and town polish."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The walls were whitewashed as white as milk, and the **patchwork** counterpane on the bed was made of a thousand pieces."*

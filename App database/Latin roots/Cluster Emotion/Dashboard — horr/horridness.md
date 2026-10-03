@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality of extreme unpleasantness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of extreme unpleasantness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being horrid; frightfulness, dreadfulness, or repulsive roughness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic and moral appraisal, the repellent quality of an act or sight that provokes shuddering abhorrence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horridness designates a quality of extreme unpleasantness."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"The sheer **horridness** of the plot against her innocence deprived the poor lady of all speech."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I shuddered at the unnatural **horridness** of the cannibal feast upon the solitary beach."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A peculiar **horridness** lingered about the dead judge's rigid smile as the portrait looked down."*

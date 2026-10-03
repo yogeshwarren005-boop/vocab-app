@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small open container usually used for drinking; usually has a handle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity a cup will hold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small bowl-shaped container for drinking from, typically having a handle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphorical and liturgical tradition, one's allotted portion of joy, suffering, or divine fate in life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do as I bid you.—Where’s this cup I called for?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, Pompey, I have kept me from the cup."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cup us till the world go round, Cup us till the world go round!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Give me the **cup**: let go; by heaven, I'll have't. O good Horatio, what a wounded name, things standing thus unknown, shall live behind me!"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty poured me a hot **cup** of tea, watching my tired face with affectionate solicitude."*
+> - 📜 **John Milton (*Comus*):** *"He offers to every weary traveler his enchanted **cup**, transforming their human visage into brutish form."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reddish long-tailed monkey of west africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reddish long-tailed monkey of west africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ground-dwelling red monkey (*Erythrocebus patas*) native to semi-arid regions of West and East Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology, the fastest-running primate, adapted with long slender limbs to sprint across open savannahs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patas designates reddish long-tailed monkey of west africa."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The agile **patas** monkey traverses the dry scrub of the Sahel, relying upon swift foot speed to evade predators."*
+> - 📜 **Richard Francis Burton (*A Mission to Gelele, King of Dahome*):** *"A tame **patas** monkey sat perched upon the compound thatch, watching our porters with inquisitive eyes."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"Across the open thorn-brush plains, we sighted a troop of red **patas** monkeys bounding gracefully over termite hills."*

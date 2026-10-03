@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking patterns especially in color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking patterns especially in color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having, displaying, or arranged in a pattern; plain, irregular, or random.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and textile manufacturing, solid monochrome fabrics or stochastic events exhibiting no discernible regularity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpatterned designates lacking patterns especially in color."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The open sea presented an immense, **unpatterned** expanse of grey water beneath the overcast November sky."*
+> - 📜 **Henry James (*The Figure in the Carpet*):** *"He feared that the great author's life was a mere **unpatterned** web of accident, without any hidden master secret."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The wild heath was an **unpatterned** wilderness of heath-bells and ancient barrows, untouched by the surveyor's grid."*

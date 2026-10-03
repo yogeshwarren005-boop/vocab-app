@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman's lover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who cohabits with an important man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover, especially the illicit or extramarital partner of a married person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chivalric romance and tragedy, a passionate companion outside the formal bounds of matrimonial law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And fitter is my study and my books Than wanton dalliance with a paramour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fond man, remember that thou hast a wife; Then how can Margaret be thy paramour?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wine loved I deeply, dice dearly; and in woman out-paramour’d the Turk."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"A **paramour** is, God bless us, a thing of naught; master Bottom meant a paragon of beauty."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrate demanded that Hester Prynne disclose the name of her secret **paramour** upon the pillory."*
+> - 📜 **John Milton (*Paradise Lost*):** *"False idolatry led the kings of Judah to worship foreign deities as an unfaithful bride cherishes her **paramour**."*

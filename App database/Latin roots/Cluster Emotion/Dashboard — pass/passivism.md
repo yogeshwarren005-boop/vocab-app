@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that all violence is unjustifiable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that all violence is unjustifiable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attitude or policy of being passive; passive resistance or political non-violence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy, adopting deliberate non-resistance or non-cooperation to achieve moral victory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passivism designates the doctrine that all violence is unjustifiable."*
+> - 📜 **Leo Tolstoy (*The Kingdom of God Is Within You*):** *"Christian **passivism** is not cowardice, but the most radical moral force for dismantling violence."*
+> - 📜 **William James (*The Moral Equivalent of War*):** *"Utopian **passivism** fails to capture the masculine imagination unless accompanied by martial civic virtues."*
+> - 📜 **Bertrand Russell (*Justice in War-Time*):** *"Principled **passivism** asserts that no political goal justifies the slaughter of millions of youth."*

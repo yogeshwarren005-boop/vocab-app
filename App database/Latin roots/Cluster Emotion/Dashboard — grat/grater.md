@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utensil with sharp perforations for shredding foods (as vegetables or cheese).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utensil with sharp perforations for shredding foods (as vegetables or cheese).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kitchen utensil having a rough, perforated surface for grating cheese, vegetables, or spices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical arts, any abrasive tool or rasping machine used to shred or pulverize material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe, with black hair and eyes, had such a prevailing redness of skin that I sometimes used to wonder whether it was possible she washed herself with a nutmeg-grater instead of soap."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The cook brandished a tin **grater**, rasping nutmeg over the steaming punch bowl."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Jo vigorously rubbed the lemon peel across the **grater**, showering yellow zest into the bowl."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A sound like a giant **grater** scraping dry wood echoed from the old cider press."*

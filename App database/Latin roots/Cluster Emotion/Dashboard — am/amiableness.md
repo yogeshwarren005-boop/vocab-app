@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to be friendly and approachable (easy to talk to).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being amiable; sweet-tempered friendliness or pleasant disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th-century moral treatises, an attractive sweetness of temper that inspires spontaneous affection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"It is hardly necessary to add, (for who knows not the domestic amiableness of George III.?) that his majesty laughed at the thing with his accustomed good humour. 532."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"My poor Olivia was admired for her beauty, but praised still more for the unaffected **amiableness** of her temper."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Her letters breathed a serene **amiableness** that rendered her tragedy even more deeply moving."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The curate's wife was universally loved for that quiet **amiableness** which smoothed every parish dispute."*

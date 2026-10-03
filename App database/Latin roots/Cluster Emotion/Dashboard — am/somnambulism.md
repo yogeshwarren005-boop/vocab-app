@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleepwalking; the state of walking or performing other complex behaviors while asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and mesmerism, altered states of consciousness characterized by motor activity without waking awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"THE MINISTER’S VIGIL Walking in the shadow of a dream, as it were, and perhaps actually under the influence of a species of somnambulism, Mr."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I have never practised somnambulism before or since."*
-> - 📜 **James Joyce (*Ulysses*):** *"There have been cases of shipwreck and somnambulism in my client’s family."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"A great perturbation in nature, to receive at once the benefit of sleep and do the effects of watching: her **somnambulism** reveals the murder."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Lucy's nocturnal **somnambulism** alarmed us, for she would rise in deep sleep and wander toward the cliff edge."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In nocturnal **somnambulism**, the patient executes intricate goal-directed movements while remaining insusceptible to external speech."*

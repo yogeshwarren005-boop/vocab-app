@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of determining the time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of determining the time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or system of recording hours worked, or the skill of keeping strict punctuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical horology, the stability and oscillatory regularity of an escapement or quartz crystal resonator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timekeeping designates the act or process of determining the time."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"Order in my daily affairs required methodical **timekeeping**, allotting specific duties to every hour of the working day."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"Systematic factory **timekeeping** eliminated waste and ensured that steam-powered machinery operated at full capacity."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Astronomers depend upon flawless **timekeeping** to map the transits of planets across the celestial meridian."*

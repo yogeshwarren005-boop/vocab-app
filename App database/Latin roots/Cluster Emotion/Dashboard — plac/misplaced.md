@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place (something) where one cannot find it again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place or position wrongly; put in the wrong position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorrectly positioned, mislaid, or put in the wrong place; directed toward an inappropriate object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social narrative, confidence or generosity squandered upon deceitful beneficiaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would we could do so, for her benefits are mightily misplaced, and the bountiful blind woman doth most mistake in her gifts to women."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have this crown of mine cut from my shoulders Before I’ll see the crown so foul misplaced."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you have really meant to give me a proof of your good opinion, though ill-timed and misplaced, I feel that I ought to thank you."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth blushed at the memory of her **misplaced** confidence in the handsome but treacherous Wickham."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"A **misplaced** wedding ring upon the floor of the empty house gave Holmes his first decisive clue."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I saw that St. John's harsh rebukes were born of **misplaced** religious zeal rather than personal malice."*

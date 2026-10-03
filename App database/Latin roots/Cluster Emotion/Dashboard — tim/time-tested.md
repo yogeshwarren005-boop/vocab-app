@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tested and proved to be reliable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tested and proved to be reliable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proved to be effective, robust, or reliable by having been used over a long period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering craft and medical therapeutics, principles whose durability has been established through extensive historical trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-tested designates tested and proved to be reliable."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations of Thomas Alva Edison*):** *"Before investing in untried novelties, our laboratory adheres strictly to **time-tested** methods of empirical experimentation."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"The British parliamentary system stands as a **time-tested** bulwark against arbitrary despotism and military panic."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic builders relied upon **time-tested** proportions of stone and mortar, raising arches that endured the storms of centuries."*

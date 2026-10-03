@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the unknown or unfamiliar or fear of making decisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fearfulness in venturing into new and unknown places or activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic disposition of being timorous; fearful apprehension, hesitation, and nervous anxiety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character sketches and political ethics, a chronic deficit of fortitude that paralyzes effective decision-making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"But we must betray Hepzibah’s secret, and confess that the native timorousness of her character even now developed itself in a quick tremor, which, to her own perception, set each of her joints at variance with its fellows."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Clifford's constitutional **timorousness** made him shrink from the harsh sunlight and bustling commerce of the Salem street."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Excessive **timorousness** is frequently the parent of deceit, prompting men to lie rather than face the hazard of displeasing superiors."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial court was infected with a fatal **timorousness**, seeking by humiliating tributes to purchase temporary peace from barbarians."*

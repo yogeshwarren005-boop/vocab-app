@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being a father.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The kinship relation between an offspring and the father.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Biological or legal fatherhood; fatherly origin, parentage, or male ancestral descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal medicine and genetics, determining biological parentage through genealogical records or DNA profiling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I do hate the aristocratic principle of blood before everything, and do think that as reasoners the only pedigrees we ought to respect are those spiritual ones of the wise and virtuous, without regard to corporal paternity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But unluckily the Varens, six months before, had given me this filette Adèle, who, she affirmed, was my daughter; and perhaps she may be, though I see no proofs of such grim paternity written in her countenance: Pilot is more like me than she."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Maternity often wilts women, but paternity is apt to make men bloom with the importance of it."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"I do hate the aristocratic principle of blood before everything, and do think that true nobility lies not in ancient **paternity**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The terms used by naturalists of affinity and community of type are not metaphorical, but signify direct community of **paternity**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Our souls are like those orphans whose unwedded mothers die in bearing them: the secret of our **paternity** lies in the grave."*

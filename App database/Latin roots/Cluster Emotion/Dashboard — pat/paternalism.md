@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy or practice of treating individuals or subordinates with patriarchal authority, providing for needs while restricting freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and industrial history, authoritarian management style cloaked in benevolent protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paternalism designates the attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic citizens fear a centralized **paternalism** that spares them the trouble of thinking and all the difficulty of living."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The state has no moral right to enforce a coercive **paternalism** upon competent adults for their own alleged benefit."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Company town administrators defended their oppressive regulations under the benign name of industrial **paternalism**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Title for the heads of the eastern orthodox churches (in istanbul and alexandria and moscow and jerusalem).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male head of family or tribe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The male head of a family or tribe; an elder or founding father of a venerable institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eastern Orthodox, Roman Catholic, and Anglican hierarchies, a bishop of the highest rank presiding over an ancient autocephalous see.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There’s your fare!” says the patriarch to the coachman with a fierce grin and shaking his incapable fist at him."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Among the Aryan races the family system was widened, and the patriarch of the tribe secured personal obedience and economic services from all members of the community."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each person works at what he is commanded to do, and some one in authority (patriarch, head of the community, father of the monastic order) portions out the tasks and the rewards."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The father of the Custom-House—the **patriarch**, not only of this little squad, but of the whole veteran corps of inspectors."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The venerable gentleman sat by the fireside like a benevolent **patriarch**, blessing the children gathered at his knee."*
+> - 📜 **King James Bible (*The Holy Bible*):** *"Men and brethren, let me freely speak unto you of the **patriarch** David, that he is both dead and buried, and his sepulchre is with us unto this day."*

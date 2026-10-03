@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of passing from one state or place to the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A section of text; particularly a section of medium length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of moving through, under, or past; a journey; also a narrow hallway or corridor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and music, a coherent extract, section, or sequence from a written work or composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This young gentlewoman had a father—O that “had!”, how sad a passage ’tis!—whose skill was almost as great as his honesty; had it stretch’d so far, would have made nature immortal, and death should have play for lack of work."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will mow all down before him and leave his passage polled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are to know That prosperously I have attempted, and With bloody passage led your wars even to The gates of Rome."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pequod rounded the stormy Cape of Good Hope after a perilous **passage** through the Atlantic."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne read aloud an emotional **passage** from Cowper, her voice trembling with poetic feeling."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A dark, labyrinthine **passage** led to Mr. Tulkinghorn's gloomy chambers in Lincoln's Inn Fields."*

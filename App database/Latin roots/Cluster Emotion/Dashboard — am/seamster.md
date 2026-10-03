@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is making and altering garments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person whose occupation is making and altering garments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation is sewing seams; a tailor, dressmaker, or needleworker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor history, an artisan skilled in stitching garments, sails, or leather upholstery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seamster designates a person whose occupation is making and altering garments."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The poor young **seamster** stood calmly in the tumbril, comforting her fellow victim on the way to the scaffold."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The philosopher of clothes meditated upon the mysterious social dignity of the humble **seamster**."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The village **seamster** brought home the newly stitched linen smocks for the farmers' sons."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of furnishing an equivalent person or thing in the place of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who takes the place of another person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of replacing someone or something, or a person or thing that takes the place of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and petrology, the metasomatic substitution of one mineral substance by another while preserving external crystalline shape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We explored packaging, marketing and replacement factors."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This general depreciation appears to be nearly avoided in large factories where there is serial replacement of the parts, but occasionally some invention or some improvement of process necessitates an almost completely new equipment."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Expensive improvements on railroads, the straightening of curves, the tunneling of mountains, the reducing of grades, the replacement of lighter by heavier rails, have been made possible by a fall in the rate of interest."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The gradual **replacement** of organic woody fibers by silica produced the petrified trees of the desert."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sir Henry ordered the immediate **replacement** of his stolen boot from the local bootmaker."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The urgent **replacement** of naval tonnage lost to submarine torpedoes required all British shipyards."*

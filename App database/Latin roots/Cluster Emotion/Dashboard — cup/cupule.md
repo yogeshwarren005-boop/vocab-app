@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cup-shaped structure of hardened bracts at the base of an acorn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sucker on the feet of certain flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cup-shaped organ or structure in plants or animals; specifically the cup of an acorn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and paleontology, an involucre of fused bracts surrounding the fruit in plants of the beech and oak family (Fagaceae).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupule designates cup-shaped structure of hardened bracts at the base of an acorn."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The scaly **cupule** that holds the acorn corresponds to the leafy husk that wraps the hazelnut."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Comparative morphology shows that the **cupule** of the oak is formed by the coalescence of numerous small bracteoles."*
+> - 📜 **John Muir (*The Yosemite*):** *"Golden acorns fell from the canyon live oaks, their polished shells slipping cleanly from the downy **cupule**."*

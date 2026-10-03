@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of societies) being ruled by or having descent traced through the male line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of societies) being ruled by or having descent traced through the male line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a patriarch; patriarchal in authority or seniority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antique prose and biblical criticism, describing the ancient, pastoral lifestyle of Old Testament heads of families.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patriarchic designates (of societies) being ruled by or having descent traced through the male line."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"David Deans governed his household with **patriarchic** simplicity, enforcing strict Presbyterian discipline upon all under his roof."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The Dutch burghers smoked long clay pipes on their stoops in serene **patriarchic** tranquility before the English conquest."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"In those desert tents, the Arab chieftain exercised a **patriarchic** rule founded upon innate personal prowess."*

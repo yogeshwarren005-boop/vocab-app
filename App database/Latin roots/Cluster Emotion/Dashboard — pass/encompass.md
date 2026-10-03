@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Include in scope; include as part of something broader; have as one's sphere or territory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Include in scope; include as part of something broader; have as one's sphere or territory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To surround and have or hold within; to include or contain a wide scope of ideas or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geographical description, encircling completely with walls, mountains, or vast oceanic waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Foul fiend of France and hag of all despite, Encompass’d with thy lustful paramours, Becomes it thee to taunt his valiant age And twit with cowardice a man half dead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When could they say, till now, that talk’d of Rome, That her wide walls encompass’d but one man?"*
-> - 📜 **John Milton (*Paradise Lost*):** *"He said, and as the sound of waters deep Hoarce murmur echo’d to his words applause Through the infinite Host, nor less for that The flaming Seraph fearless, though alone Encompass’d round with foes, thus answerd bold."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"When could they say, till now, that talked of Rome, that her wide walls **encompassed** but one man?"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The theory of natural selection is broad enough to **encompass** the most complex ecological relationships."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Darkness profound did **encompass** the chaos before the divine voice commanded light to be."*

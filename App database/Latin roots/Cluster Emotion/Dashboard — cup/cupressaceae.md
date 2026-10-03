@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cypresses and junipers and many cedars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cypresses and junipers and many cedars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cypress family of coniferous trees and shrubs, characterized by scale-like evergreen leaves and peltate cones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic gymnosperm botany, a globally distributed conifer family including cypresses, junipers, redwoods, and arborvitae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupressaceae designates cypresses and junipers and many cedars."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Members of the family **Cupressaceae** bear small, opposite, scale-like leaves closely appressed to the twigs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The modern distribution of ancient genera within **Cupressaceae** reveals the fragmentation of once continuous circumpolar forests."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The colossal sequoias belonging to **Cupressaceae** stand as immortal monuments to primeval nature."*

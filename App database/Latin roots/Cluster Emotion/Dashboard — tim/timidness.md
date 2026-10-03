@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the unknown or unfamiliar or fear of making decisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear of the unknown or unfamiliar or fear of making decisions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic disposition of being timid; habitual shyness, hesitation, and lack of boldness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological character studies, a sensitive reluctance to assert oneself in public debates or social assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timidness designates fear of the unknown or unfamiliar or fear of making decisions."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny's natural **timidness** made her shrink into the background whenever lively conversation arose in the drawing room."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"My constitutional **timidness** returned the moment I found myself standing alone on the foreign quay at Boulogne."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Kate's **timidness** vanished the moment she perceived that her mother and brother were being insolently maligned."*

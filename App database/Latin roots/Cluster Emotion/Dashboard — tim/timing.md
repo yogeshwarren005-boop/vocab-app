@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The time when something happens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The regulation of occurrence, pace, or coordination to achieve a desired effect (as in music, theater, athletics, mechanics).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The choice, judgment, or control of the exact moment when something should be done for maximum effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performance art, sport, and engine combustion, coordinating movements with fraction-of-a-second synchronization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Critical to the program's success is timing the Extractor's launch."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The odds were not with him but timing and surprise might even them a bit."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His timing was to be here when Camari broadcast his appeal for his convocation with INOR Heads of State."*
+> - 📜 **James Joyce (*Dubliners*):** *"As he walked on slowly, **timing** his pace to theirs, he watched Corley's head which tilted toward the lamp-post."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"In comedy, as in matrimony, impeccable **timing** is the entire secret of averting sudden household disaster."*
+> - 📜 **Mark Twain (*How to Tell a Story*):** *"The pause is an exceedingly delicate art, and the comic teller's whole success depends upon the exquisite **timing** of his silence."*

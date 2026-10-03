@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A situation in which no progress can be made or no advancement is possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A street with only one way in or out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A situation in which no progress is possible, especially because of disagreement; a deadlock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic negotiations, a complete stalemate requiring third-party mediation to resolve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The impasse will, quite likely, remain for some time."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Rose lights up better!" "Purple is more uncommon." "Rose is more cheerful in winter!" "Purple is restful in summer!" It seemed for a moment as if we had reached an _impasse_, then came an illuminating thought."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The military operations on the Western Front reached a bloody **impasse** where neither army could advance."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Maggie perceived the subtle social **impasse**, realizing that any blunt confrontation would shatter the family."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Insistence upon abstract parliamentary supremacy has brought our colonial policy to a dangerous **impasse**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of homeopathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of homeopathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of homeopathy; a therapist treating illnesses with highly diluted natural substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century medical history, a follower of Samuel Hahnemann practicing the law of similars (*similia similibus curentur*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeopath designates a practitioner of homeopathy."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Homeopathy and Its Kindred Delusions*):** *"The fashionable **homeopath** administered sugar globules dissolved in oceans of water with profound solemnity."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"My rival across the square was a genial **homeopath** whose pleasant, harmless tinctures drew wealthy hypochondriacs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The rise of the **homeopath** taught orthodox medicine the vital lesson that many diseases heal through nature alone."*

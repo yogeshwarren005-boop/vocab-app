@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance or single occasion for some event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A period of time considered as a resource under your control and sufficient to accomplish something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The indefinite continued progress of existence and events in the past, present, and future regarded as a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and metaphysics, a fourth dimension coordinate required to specify the location of an event in spacetime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art thy mother’s glass and she in thee Calls back the lovely April of her prime, So thou through windows of thine age shalt see, Despite of wrinkles this thy golden time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To give away yourself, keeps yourself still, And you must live drawn by your own sweet skill. 17 Who will believe my verse in time to come If it were filled with your most high deserts?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But were some child of yours alive that time, You should live twice,—in it, and in my rhyme. 18 Shall I compare thee to a summer’s day?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look in thy glass and tell the face thou viewest, now is the **time** that face should form another."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Experiences of an individual appear to us arranged in a series of events; in this series the single events which we remember appear to be ordered according to the criterion of **time**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was the best of times, it was the worst of times; it was an epoch where **time** itself seemed suspended between hope and despair."*

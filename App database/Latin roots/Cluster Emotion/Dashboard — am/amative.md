@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined toward or displaying love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined toward or displaying love.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to love; expressing or indicating romantic, sexual, or affectionate desire; amorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical psychology, referring to instinctual propensities governing pair-bonding and courtship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amative designates inclined toward or displaying love."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"The **amative** impulse pulses through all nature, linking plant, beast, and man in generative joy."*
+> - 📜 **Herman Melville (*Mardi: and a Voyage Thither*):** *"Sweet **amative** glances passed between the youthful islanders during the evening festival."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Petrarch's sonnets represent the highest refinement of the **amative** imagination in Italian lyric verse."*

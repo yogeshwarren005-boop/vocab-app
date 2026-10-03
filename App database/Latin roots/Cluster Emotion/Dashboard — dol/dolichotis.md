@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Maras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maras.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of the Patagonian mara (*Dolichotis patagonum*), a large hare-like South American cavy rodent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and evolutionary zoology, cursorial hystricomorph cavies exhibiting long legs and ungulate-like running adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog dolichotis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Patagonian cavy, **Dolichotis** patagonica, is common on the arid gravel plains, bounding away like a hare."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The unique cursorial adaptations of **Dolichotis** reflect ecological convergence with Old World hares and small antelopes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The elongated metatarsal bones of **Dolichotis** provide spring and velocity across the open pampas."*

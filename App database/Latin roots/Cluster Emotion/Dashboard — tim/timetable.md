@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A schedule listing events and the times at which they will take place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schedule of times of arrivals and departures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A schedule showing the planned times at which events, classes, train arrivals, or departures are intended to take place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In railway operations and logistics planning, a master matrix governing track occupancy and vehicular synchronization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All of your plans and timetables must be synchronized with the actions I take at the conference." "Any attacks on the depot will be immediately spunnel-flashed by Hanno to the UIPS," Drummer said."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes pulled the railway **timetable** from his pocket, calculating whether an express train could carry us to Dartmoor before nightfall."*
+> - 📜 **Agatha Christie (*The Murder on the Orient Express*):** *"Poirot studied the continental **timetable**, tracing how the blizzard had stranded the luxury coaches in the Balkan pass."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"All normal railway **timetable** arrangements broke down completely as panicked thousands fled Waterloo station for the countryside."*

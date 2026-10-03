@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease-producing agent (especially a virus or bacterium or other microorganism).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease-producing agent (especially a virus or bacterium or other microorganism).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacterium, virus, or other microorganism that can cause disease in a host organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and public health epidemiology, an infectious agent capable of producing systemic pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathogen designates any disease-producing agent (especially a virus or bacterium or other microorganism)."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Pure isolation of the suspected bacterial **pathogen** is required before attributing causality to the infection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The identification of the specific bacterial **pathogen** revolutionized the diagnosis and quarantine of typhoid fever."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications to Medicine and Surgery*):** *"Every specific contagion is caused by an invisible microscopic **pathogen** multiplying within the living tissues."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One related on the father's side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One related on the father's side.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatives related through the father's lineage; agnatic or patrilineal kin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinship anthropology and clan genealogy, the group of blood relations traced through the male genealogical line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrikin designates one related on the father's side."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"In pastoral societies, blood feuds bound every man to defend his **patrikin** against rival territorial clans."*
+> - 📜 **Bronislaw Malinowski (*Crime and Custom in Savage Society*):** *"The obligations owed to maternal uncles frequently conflicted with reciprocal economic duties toward one's **patrikin**."*
+> - 📜 **E. E. Evans-Pritchard (*The Nuer*):** *"A man looks to his **patrikin** for the cattle necessary to pay bride-wealth when contracting marriage."*

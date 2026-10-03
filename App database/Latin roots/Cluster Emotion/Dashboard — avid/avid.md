@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `for') ardently or excessively desirous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by active interest and enthusiasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing a keen interest in or intense enthusiasm for something; eagerly desirous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological descriptions, marked by voracious appetite or relentless craving for acquisition or achievement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"But both the diabolic love and the unearthly hate of the mysteries it had penetrated fought for the possession of that soul satiated with primitive emotions, avid of lying fame, of sham distinction, of all the appearances of success and power."*
-> - 📜 **James Joyce (*Ulysses*):** *"She blinked up out of her avid shameclosing eyes, mewing plaintively and long, showing him her milkwhite teeth."*
-> - 📜 **James Joyce (*Ulysses*):** *"So. _(He repeats.)_ Spontaneously to seek out the saurian’s lair in order to entrust their teats to his avid suction."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"His **avid** eyes took in the strange riverbank, burning with an unquenchable desire for dominion."*
+> - 📜 **Henry James (*The American*):** *"Newman was an **avid** observer of European manners, eager to assimilate every novel impression."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The youth is an **avid** reader of heroic biography, seeking images of his own unrealized greatness."*

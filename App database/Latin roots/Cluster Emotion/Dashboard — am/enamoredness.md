@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of love or fondness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of love or fondness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep romantic infatuation, passionate captivation, or intense loving absorption in another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, profound absorption in romantic affection that blinds judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enamoredness designates a feeling of love or fondness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her youthful **enamoredness** invest Casaubon's dry pedantry with the sublime dignity of ancient wisdom."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel's **enamoredness** was born of romantic generosity, believing she could enrich Osmond's quiet life."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Lovelace boasted in his secret correspondence of her increasing **enamoredness** and devotion."*

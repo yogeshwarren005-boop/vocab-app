@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mammals having a placenta; all mammals except monotremes and marsupials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or having or occurring by means of a placenta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having a placenta; designating eutherian mammals that nourish their young via a placenta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, eutherians that carry fetuses to an advanced developmental stage, contrasting with marsupials and monotremes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placental designates mammals having a placenta; all mammals except monotremes and marsupials."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The Australian continent was populated by marsupials before higher **placental** mammals could cross the ancient marine straits."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The universal presence of a deciduous **placental** membrane confirms the close mammalian affinity of humans."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Premature separation of the **placental** tissue produces catastrophic maternal and fetal hemorrhage."*

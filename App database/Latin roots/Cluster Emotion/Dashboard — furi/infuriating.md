@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make furious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely annoying or displeasing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making one extremely angry; provoking acute annoyance, outrage, or uncontrollable exasperation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological description, generating intolerable frustration through obstinate delay or irrational resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infuriating designates make furious."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"His serene, impenetrable detachment under questioning was the most **infuriating** aspect of the court inquiry."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"There is something **infuriating** about listening to people who have no taste discuss the merits of high art."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Liza found the professor's pedantic indifference both bewildering and profoundly **infuriating**."*

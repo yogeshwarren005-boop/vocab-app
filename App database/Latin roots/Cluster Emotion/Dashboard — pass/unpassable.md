@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being passed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being passed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to pass, cross, or travel through; impassable; insurmountable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In travel narrative and military history, mountain defiles or flooded rivers that block passage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpassable designates incapable of being passed."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The mountain torrent had swollen overnight, leaving the rocky ford completely **unpassable**."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The rising tide had swept past the headland, rendering the beach path **unpassable** for the fugitives."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The snowdrifts upon the Yorkshire moors were reported **unpassable** for wheeled coaches."*

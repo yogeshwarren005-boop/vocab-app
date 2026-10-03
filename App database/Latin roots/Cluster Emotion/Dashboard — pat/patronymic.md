@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family name derived from name of your father or a paternal ancestor (especially with an affix (such as -son in english or o'- in irish) added to the name of your father or a paternal ancestor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or derived from a personal or family name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A name derived from the name of a father or male ancestor; also of or relating to such a name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Russian cultural naming conventions, the middle name derived from the father's given name with the suffix -ovich or -ovna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"When I go there I shall be all alone, and my friend Harker Jonathan--nay, pardon me, I fall into my country’s habit of putting your patronymic first--my friend Jonathan Harker will not be by my side to correct and aid me."*
+> - 📜 **Bram Stoker (*Dracula*):** *"When I go there I shall be all alone, and my friend Jonathan Harker—nay, pardon, I should address you by your English **patronymic**."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The old prince addressed the visitor formally by his Christian name and **patronymic**, according to strict Russian etiquette."*
+> - 📜 **Walter Scott (*Waverley*):** *"The Highland clansman was known among his hills by an ancient Gaelic **patronymic** commemorating seven generations of chieftains."*

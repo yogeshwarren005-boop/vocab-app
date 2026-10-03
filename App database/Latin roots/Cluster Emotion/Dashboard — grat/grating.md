@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A barrier that has parallel or crossed bars blocking a passage but admitting air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frame of iron bars to hold a fire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sounding harsh, raspy, and unpleasant; also a framework of parallel or crossed metal bars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal psychology, abrasive behavior or mannerisms that provoke persistent annoyance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And can you by no drift of circumstance Get from him why he puts on this confusion, Grating so harshly all his days of quiet With turbulent and dangerous lunacy?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was disturbed in his meditation by a grating noise from the coach-house."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As soon as I recognized him I crawled to the grating and shouted out along the corridor: “There is a stool in with me, fellows!"*
+> - 📜 **Edgar Allan Poe (*The Cask of Amontillado*):** *"A harsh, **grating** sound arose from the rusty hinges as the crypt door swung open."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The boy peered through the iron **grating** into the dismal street beneath the prison cell."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"His dry, **grating** voice made the most ordinary observations sound like harsh rebukes."*

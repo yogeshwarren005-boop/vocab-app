@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restless or short-tempered under delay or opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually followed by `to') full of eagerness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Quickly irritated or provoked by delay; restless and eagerly desirous of immediate action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, manifesting heightened physiological arousal when forced to endure procedural stalls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a wasp-stung and impatient fool Art thou to break into this woman’s mood, Tying thine ear to no tongue but thine own!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a penny, not a penny; you are too impatient to bear crosses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wherefore is Charles impatient with his friend?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, what a wasp-stung and **impatient** fool art thou to break into this woman's mood with such loud clamor!"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"There were signs that it was an exquisite relief to her to hear the **impatient** footstep of Angel Clare on the stair."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester grew **impatient** when the physician advised quiet, pacing the library rug like an uncaged lion."*

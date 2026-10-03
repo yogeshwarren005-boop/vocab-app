@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compassionate manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a compassionate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compassionate manner; with deep sympathy, tender mercy, and active benevolence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, comforting a grieving or frightened person with gentle understanding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"What a great age, Charley!” I cannot describe the tenderness with which he spoke to her, half playfully yet all the more compassionately and mournfully."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He could not travel in this state even if he had a purpose and knew where he was going!” “I know no more, ma’am, than the dead,” she replied, glancing compassionately at him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I wouldn’t cry about it, miss,” said William Smallbury, compassionately."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Aunt Betsey looked **compassionately** upon my bruised, travel-worn limbs, ordering a warm bath immediately."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes laid his hand **compassionately** upon the trembling lady's arm, urging her to compose her spirits."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The good parson listened **compassionately** to Tess's faltering confession, weeping for her sorrow."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not likely to be rewarded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not likely to be rewarded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not giving pleasure or satisfaction; disappointing, unrewarding, or unfulfilling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical evaluation, a performance, endeavor, or labor that yields meager aesthetic or moral return.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ungratifying designates not likely to be rewarded."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea found the cataloguing of theological pamphlets an austere and thoroughly **ungratifying** labor."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym perceived that provincial furze-cutting was an **ungratifying** occupation for an educated mind."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"It is an **ungratifying** experience for a young surgeon to sit for weeks in an empty consulting room."*

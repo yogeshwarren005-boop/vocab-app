@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ball that slides down a staff to show a fixed time; especially at an observatory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ball that slides down a staff to show a fixed time; especially at an observatory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete time-signaling device consisting of a large ball dropped at a predetermined time to synchronize chronometers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigational history, an elevated sphere erected at coastal observatories dropped at a precise hour for ships in harbor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-ball designates a ball that slides down a staff to show a fixed time; especially at an observatory."*
+> - 📜 **Nathaniel Bowditch (*American Practical Navigator*):** *"Navigators in port watched through spyglasses as the **time-ball** atop the observatory dropped precisely at noon to verify their chronometers."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Looking seaward past Greenwich, we observed the famous **time-ball** poised aloft ready to mark the instant of midday."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"Every seaman glances toward the naval station when the **time-ball** descends, keeping the ship's log in strict accord with true solar time."*

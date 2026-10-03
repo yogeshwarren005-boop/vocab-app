@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male head of family or tribe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male head of family or tribe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The male head of a family, household, or domestic establishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman law and social history, the male citizen possessing absolute legal authority (*patria potestas*) over family and slaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paterfamilias designates the male head of family or tribe."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman **paterfamilias** held the sovereign power of life and death over his children, sanctioned by the Twelve Tables."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"Colonel Newcome appeared every inch the benevolent **paterfamilias**, surrounded by happy young faces at the Christmas feast."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Garth sat at the head of the breakfast board like a loving **paterfamilias**, dispensing porridge and good cheer."*

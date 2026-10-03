@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to replace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to replace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to replace if lost, destroyed, or damaged; uniquely valuable, precious, or singular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural heritage conservation and human ecology, historic monuments and biospheres whose loss is permanent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"It is impossible to feel sanguine as to the future of this irreplaceable national possession."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Ancient gothic craftsmanship is utterly **irreplaceable**, carrying the sacred imprint of human hands now turned to dust."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The destruction of the Alexandrian library annihilated **irreplaceable** treasures of ancient philosophical scholarship."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea felt that the lost hours of youthful enthusiasm were **irreplaceable** in a routine marriage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of extreme joy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of extreme joy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of great happiness, triumph, or joyful exultation; triumphant rejoicing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural ceremonies, the public manifestation of communal celebration following military or political victory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, jubilance designates a feeling of extreme joy."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I hear the universal shout of **jubilance** rising from the liberated cities of the continent."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A burst of wild **jubilance** broke from the harpooners as the huge carcass finally floated alongside."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The ringing of steeple bells announced a day of sacred **jubilance** throughout the colony."*

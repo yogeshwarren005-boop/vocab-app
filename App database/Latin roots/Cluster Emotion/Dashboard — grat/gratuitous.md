@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without cause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Costing nothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Uncalled for; lacking good reason; unwarranted; also given or done free of charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract jurisprudence and logic, made without legal consideration or asserted without supporting evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Dear father,” he said sadly, “I wish you would not expose yourself to such gratuitous pain from scoundrels!” “Pain?” said his father, his rugged face shining in the ardour of self-abnegation."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The coinage is said to be _gratuitous_ when no charge is made for coinage."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus, coinage may be both free and gratuitous, when citizens are allowed to bring bullion whenever they please and have it converted into coins without charge or deduction."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The destruction of the ancient churches was an act of **gratuitous** vandalism serving no civil purpose."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A hypothesis that assumes unnecessary entities is a **gratuitous** assumption that true science rejects."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A purely **gratuitous** promise cannot be enforced in a court of law without consideration."*

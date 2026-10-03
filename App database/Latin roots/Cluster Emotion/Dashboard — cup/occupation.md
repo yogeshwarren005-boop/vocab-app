@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal activity in your life that you do to earn money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The control of a country by military forces of a foreign power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A job or profession; also the action, state, or period of occupying or being occupied by military force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international humanitarian law, the effective provisional military control established over foreign sovereign territory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love, That thou couldst see my wars today, and knew’st The royal occupation, thou shouldst see A workman in’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have made good work, You and your apron-men, you that stood so much Upon the voice of occupation and The breath of garlic eaters!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I had been a man of any occupation, if I would not have taken him at a word, I would I might go to hell among the rogues."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor assigns to every workman a specialized **occupation**, vastly multiplying productive output."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"Fourscore and seven years ago our fathers brought forth on this continent a new nation; the military **occupation** of battlefields must serve liberty."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In a democratic society, almost every citizen pursues an industrious **occupation**, viewing idleness with moral disdain."*

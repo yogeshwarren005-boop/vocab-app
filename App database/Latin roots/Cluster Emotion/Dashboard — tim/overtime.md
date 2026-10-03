@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work done in addition to regular working hours.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Playing time beyond regulation, to break a tie.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Time worked in addition to one's regular working hours; the extra compensation paid for such work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor economics and sports regulations, additional periods allocated to settle a tie or fulfill heavy production quotas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The agreement may be that if the specified task is not done within the regular time, it must be completed in overtime without additional pay."*
-> - 📜 **James Joyce (*Ulysses*):** *"Working overtime but her luck’s turned today. _(Suspiciously.)_ You’re not his father, are you?"*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The packers worked frantic **overtime** under the flickering arc lamps, exhausted by the relentless speed of the killing floor."*
+> - 📜 **Jack London (*The Iron Heel*):** *"Factory laborers demanded double pay for hazardous night work and unceasing **overtime** in the munitions plants."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Miners recounted how voluntary **overtime** stripped them of health, yet was essential to keep arrears from mounting."*

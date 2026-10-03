@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing gratitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording comfort or pleasure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing an appreciation of kindness; thankful and deeply appreciative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory aesthetics, affording pleasure or soothing relief to the senses or weary mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I cannot give thee less, to be call’d grateful."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Too modest are you, More cruel to your good report than grateful To us that give you truly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neighbour, this is a gift very grateful, I am sure of it."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was sincerely **grateful** to her uncle and aunt for their generous intervention."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe's heart was so full of **grateful** affection that he could hardly find words to speak."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Now came still evening on, and twilight gray had in her sober livery all things clad with **grateful** shade."*

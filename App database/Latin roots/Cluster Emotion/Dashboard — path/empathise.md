@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be understanding of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be understanding of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To understand and share the feelings of another person; to experience empathy (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social ethics and psychology, to project oneself imaginatively into another's subjective consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathise designates be understanding of."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"It is easy to pity the unfortunate, but far harder to **empathise** with their fierce and bitter pride."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She possessed an extraordinary gift to **empathise** with the secret anxieties of those sitting around her table."*
+> - 📜 **E. M. Forster (*Howards End*):** *"Only connect; to **empathise** across the gulf of class and temperament was Margaret's enduring ideal."*

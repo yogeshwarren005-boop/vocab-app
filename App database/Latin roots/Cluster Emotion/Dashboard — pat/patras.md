@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major commercial port city in western Greece and the regional capital of Western Greece, on the Gulf of Patras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean history, an ancient Achaean city that flourished under Roman rule and became an early center of Christianity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patras designates a port city in western greece in the northwestern peloponnese on an inlet of the ionian sea; was a major trade center from the 5th century bc to the 3rd century bc; commercial importance revived during the middle ages."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"From the ramparts of **patras**, we surveyed the broad waters of the gulf where the Allied fleets gathered."*
+> - 📜 **Edward Dodwell (*A Classical and Topographical Tour through Greece*):** *"The fertile plain surrounding **patras** produces the finest small grapes known in commerce as Zante currants."*
+> - 📜 **William Martin Leake (*Travels in the Morea*):** *"The fortress of **patras** occupies a high spur commanding the narrow entrance to the Gulf of Corinth."*

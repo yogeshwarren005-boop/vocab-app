@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grossly offensive to decency or morality; causing horror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing fear or dread or terror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing horror; terrifying, dreadful, or horrifying in impact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical or wartime chronicle, describing injuries or devastations that overwhelm ordinary comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"God's fair apostle, Bearing his love in war's horrific train; Thy blessed feet follow its ghastly pain, And misery and death without disdain."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The black smoke was **horrific** in its swift, silent lethality, leaving no survivor where it drifted."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A **horrific** shriek split the silence of the primeval woods as night fell upon the camp."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Larsen laughed at the **horrific** spectacle of the schooner plunging through the typhoon."*

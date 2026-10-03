@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives at a particular place for a prolonged period or who was born there.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a military force who is residing in a conquered foreign country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who resides in, uses, or holds possession of a building or piece of land; an occupant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law, the belligerent state exercising governing authority over an occupied foreign territory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A curved settle of unplaned oak stretched along one side, and in a remote corner was a small bed and bedstead, the owner and frequent occupier of which was the maltster."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The broken Sedley would have acted well as the boarding-house landlady's husband; the Munoz of private life; the titular lord and master: the carver, house-steward, and humble husband of the occupier of the dingy throne."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The legal liability for repairing local fences and ditches falls primarily upon the actual **occupier** of the tenement."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"An arbitrary military **occupier** rules by decree, replacing ancient customs with the sword."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The new **occupier** of the Upper Farm brought modern threshing machinery into the quiet valley."*

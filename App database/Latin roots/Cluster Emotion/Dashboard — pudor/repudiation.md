@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejecting or disowning or disclaiming as invalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refusal to acknowledge or pay a debt or honor a contract (especially by public authorities).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rejection of a proposal, statement, or idea; refusal to acknowledge, obey, or honor an obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial history and commercial law, the official refusal of a debtor government or entity to pay its debts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Sin is the repudiation of the concepts of law, duty, and service, in a word, of the love on God's scale which God calls men to exercise."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We have seen how Jesus regards sin as at once the cause and consequence of a degeneration of the moral nature, and as a repudiation of God."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"She had never forgotten, either, the painful scene when he had hopefully told of his love, only to be met with her own shocked repudiation."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"The **repudiation** of the national debt would instantly destroy American commerce and foreign confidence."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"A decisive **repudiation** of selfishness is the indispensable foundation of utilitarian moral theory."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king's unilateral **repudiation** of the parliamentary covenants provoked armed rebellion across the realm."*

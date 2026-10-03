@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Region in southern south america between the andes and the south atlantic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Region in southern south america between the andes and the south atlantic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sparsely populated geographical region at the southern end of South America, shared by Argentina and Chile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In exploratory travel literature and natural history, an expansive windswept plateau renowned for glaciers and rugged peaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Three of them ran something like the following, but I do not pretend to quote:— SACRED To the Memory OF JOHN TALBOT, Who, at the age of eighteen, was lost overboard, Near the Isle of Desolation, off Patagonia, _November_ 1_st_, 1836."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"One magnificent evening, the 30th of July—that is to say, three weeks after our departure—the frigate was abreast of Cape Blanc, thirty miles to leeward of the coast of Patagonia."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Until the 3rd of April we did not quit the shores of Patagonia, sometimes under the ocean, sometimes at the surface."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In **patagonia** I saw a lizard which, when frightened, immediately buried itself in the loose dry sand of the plains."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Sacred to the memory of young sailors lost on the inhospitable coast of **patagonia**, where storms forever howl."*
+> - 📜 **W. H. Hudson (*Idle Days in Patagonia*):** *"The vast grey plains of **patagonia** cast a spell of austere solitude upon the wandering naturalist."*

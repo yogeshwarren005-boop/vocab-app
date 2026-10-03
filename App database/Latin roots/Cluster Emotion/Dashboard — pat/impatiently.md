@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With impatience; in an impatient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With impatience; in an impatient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impatient manner; with restless eagerness, irritation, or intolerance of delay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive fiction, expressing agitated physical movements while anticipating an overdue arrival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Impatiently I burn with thy desire; My heart and hands thou hast at once subdued."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I urg’d you further; then you scratch’d your head, And too impatiently stamp’d with your foot; Yet I insisted, yet you answer’d not, But with an angry wafture of your hand Gave sign for me to leave you."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Don't do it that way," Mäzli called out impatiently."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"**Impatiently** I burn with thy desire; my heart and hands thou hast at once subdued with thy bright beauty."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now then,' said Gabriel, **impatiently**, 'what did you see, Cain, that makes you stare so wildly?'"*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Please come back and finish your story!' Alice called after it **impatiently**, but the mouse only shook its head."*

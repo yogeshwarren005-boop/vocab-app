@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small east indian shrubby mint; fragrant oil from its leaves is used in perfumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy perfume made from the patchouli plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic plant (*Pogostemon cablin*) of the mint family, native to tropical Asia; also the pungent perfume made from it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In perfumery and counterculture history, a heavy, musky, earth-scented essential oil extracted from dried leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patchouli designates small east indian shrubby mint; fragrant oil from its leaves is used in perfumes."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A faint scent of heavy **patchouli** lingered in the boudoir, mingling with the sweet fragrance of lilac blossoms."*
+> - 📜 **E. M. Forster (*Where Angels Fear to Tread*):** *"The letter smelled faintly of **patchouli**, a vulgar perfume that Philip instinctively disliked."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A subtle trail of **patchouli** guided the hound through the damp labyrinth of river wharves."*

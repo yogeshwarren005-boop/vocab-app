@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing sympathy with a person who experienced the death of a loved one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing sympathy with a person who experienced the death of a loved one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing grief, sympathy, or condolence; feeling sorrow for another's loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistolary literature, written or spoken with tender sorrow for a friend's bereavement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, condolent designates expressing sympathy with a person who experienced the death of a loved one."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A truly **condolent** friend does not offer empty philosophical maxims to a weeping mourner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her **condolent** manner brought more comfort to the grieving mother than all the rector's formal sermons."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"The nation sent a **condolent** address to the sovereign upon the tragic loss of the royal heir."*

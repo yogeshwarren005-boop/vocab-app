@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of patience; irritation with anything that causes delay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A restless desire for change and excitement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Restlessness, irritation, or eagerness caused by delay, opposition, or tedious waiting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic characterization, a passionate intolerance of obstacles that spurs rash decisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So much uncurbable, her garboils, Caesar, Made out of her impatience—which not wanted Shrewdness of policy too—I grieving grant Did you too much disquiet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But Mark Antony Put me to some impatience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s but naught; Patience is sottish, and impatience does Become a dog that’s mad."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So much uncurbable, her garboils, Caesar, made out of her **impatience**—which not wanted shrewdness of policy too."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No, no—it's no such thing!' he said, with **impatience**, turning his shoulder toward the flickering barn candle."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth waited with the greatest **impatience** for the arrival of the post, hoping for news of Jane's recovery."*

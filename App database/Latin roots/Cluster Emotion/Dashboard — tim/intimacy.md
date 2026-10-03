@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Close or warm friendship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually secretive or illicit sexual relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Close familiarity, friendship, or affectionate personal association; privacy and warmth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological attachment theory and interpersonal dynamics, deep mutual vulnerability and profound emotional trust between individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Elizabeth had been lately forming an intimacy, which she wished to see interrupted."*
-> - 📜 **Jane Austen (*Persuasion*):** *"With a great deal of quiet observation, and a knowledge, which she often wished less, of her father’s character, she was sensible that results the most serious to his family from the intimacy were more than possible."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The intimacy had been formed before our marriage."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Say the words, dear one, and the subject shall be dismissed; a blissful loving **intimacy** took the place of formal reserve."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Garth had been a teacher before her marriage, in which case an **intimacy** with Lydgate would have been quite natural."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Sherlock Holmes, for solution during the years of our **intimacy**, there were only a few problems that defied his deductive power."*

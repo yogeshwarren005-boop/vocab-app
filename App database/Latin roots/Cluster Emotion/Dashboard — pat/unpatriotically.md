@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unpatriotic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unpatriotic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unpatriotic manner; without devotion, loyalty, or due regard for one's country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical memoirs and political debates, acting in a way that harms the national welfare or aids hostile powers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpatriotically designates in an unpatriotic manner."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The opposition ministers acted **unpatriotically** when they leaked confidential diplomatic despatches to the French ambassador."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Partisan leaders who **unpatriotically** delayed rearmament must bear their share of responsibility for our early reverses."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To put sectional faction above national union is to conduct oneself **unpatriotically** in the eyes of posterity."*

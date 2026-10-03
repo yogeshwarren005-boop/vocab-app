@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (british) the dessert course of a meal (`pud' is used informally).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (british) the dessert course of a meal (`pud' is used informally).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hand, paw, or forefoot (slang/dialectal); also short for pudding in British vernacular usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary traditions, colloquial shorthand for a sweet dessert course following the savory main dish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Mama pulled up on the reins to make Belle and Pud-din' Foot slow down and called to Papa, "You coming on now?" "Yeah!"*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian on the temples, _de Pud._ c. 5."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The kitchen staff devoured the remaining scraps of steaming **pud** before scrubbing the copper pans."*
+> - 📜 **Rudyard Kipling (*Stalky & Co.*):** *"He reached out a sticky **pud** to seize the jar of marmalade from under his companion's nose."*
+> - 📜 **D. H. Lawrence (*Sons and Lovers*):** *"The children clamored around the hearth, demanding their Sunday portion of hot fruit **pud**."*

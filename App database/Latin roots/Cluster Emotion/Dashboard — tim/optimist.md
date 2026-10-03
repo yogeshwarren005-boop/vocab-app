@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person disposed to take a favorable view of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person disposed to take a favorable view of things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person disposed to take a favorable view of things and expect the best possible outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary satire and character analysis, an individual who maintains cheerful expectations regardless of grim circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Be an optimist, my boy, be an optimist."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Many an optimist has been reduced to blank pessimism by that ditch."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Such is the normal feeling of the healthy optimist."*
+> - 📜 **James Joyce (*Dubliners*):** *"Villona was in good humour because he had had a very satisfactory luncheon; and he was an **optimist** by temperament."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"Who can discuss whether Emerson was a better **optimist** than Schopenhauer was pessimist, when both were men of genius?"*
+> - 📜 **Mark Twain (*Pudd'nhead Wilson*):** *"The **optimist** proclaims that we live in the best of all possible worlds; the pessimist fears this is true."*

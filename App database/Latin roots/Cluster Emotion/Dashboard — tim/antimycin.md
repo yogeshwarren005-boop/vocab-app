@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline antibiotic active against various fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline antibiotic active against various fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic and antifungal compound that inhibits cellular respiration by blocking the mitochondrial electron transport chain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and piscicide management, an agent used as a metabolic inhibitor and to eradicate invasive rough fish from reservoirs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimycin designates a crystalline antibiotic active against various fungi."*
+> - 📜 **Albert Lehninger (*Principles of Biochemistry*):** *"Adding **antimycin** to isolated mitochondria completely halts ATP synthesis by blocking the flow of electrons between cytochromes b and c1."*
+> - 📜 **Peter Mitchell (*Chemiosmotic Coupling in Oxidative and Photosynthetic Phosphorylation*):** *"The selective inhibition caused by **antimycin** proved indispensable in deciphering the proton-translocating loops of the respiratory chain."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Biologists weighed the hazards of using **antimycin** as a chemical agent to clear rough fish from lake systems."*

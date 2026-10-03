@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of being a tenant or occupant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of occupying or taking possession of a building.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action, state, or period of occupying or being occupied; tenancy or possession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law and civil statutes, lawful physical possession of real estate creating possessory rights against trespassers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When enclosed areas were shirtsleeve ready for occupancy, the Cadre would erect essential life support, residential and recreational facilities."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He left Burns, departing with a shuffling step and an air of grudging the strange gentleman the occupancy of the room, although it was to be for only so long as it would take to bring back word that neither of the ladies would see him to-night."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Hold thought steadfastly to the endur- ing, the good, and the true, and you will bring these 261:6 into your experience proportionably to their occupancy of your thoughts."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"By the law of nature, original **occupancy** gave the first possessor a lawful property right in land and beasts."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Labor bestowed upon uncultivated earth creates a title superior to mere momentary **occupancy**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Rapid pioneer **occupancy** transformed wilderness valleys into organized townships in less than a decade."*

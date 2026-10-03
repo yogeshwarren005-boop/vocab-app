@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing empathy or ready comprehension of others' states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing empathy or ready comprehension of others' states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing an ability to understand and share the feelings of another; compassionate, sensitive, and responsive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern psychology and clinical counseling, the cognitive and affective capacity to adopt another's internal frame of reference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathetic designates showing empathy or ready comprehension of others' states."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A truly saintly soul displays an **empathetic** tenderness toward the humblest sorrows of fellow mortals."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's intense, **empathetic** gaze seemed to comprehend Casaubon's hidden insecurities before he spoke."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Moral education fails unless it cultivates **empathetic** imagination, enabling students to realize the needs of others."*

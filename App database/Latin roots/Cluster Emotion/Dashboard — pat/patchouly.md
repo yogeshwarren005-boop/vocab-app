@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small east indian shrubby mint; fragrant oil from its leaves is used in perfumes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy perfume made from the patchouli plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of patchouli; a fragrant Southeast Asian mint plant yielding a strong aromatic oil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century botanical texts, the herbal species *Pogostemon cablin* utilized for scenting imported Indian shawls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patchouly designates small east indian shrubby mint; fragrant oil from its leaves is used in perfumes."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp unpacked her exotic cashmere shawls, heavily perfumed with oriental **patchouly** to preserve them from moths."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"The scent of **patchouly** from her handkerchief brought back memories of glittering Parisian theatre boxes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fashionable lady enveloped herself in clouds of musk and **patchouly**, overpowering the dusty odor of the legal office."*

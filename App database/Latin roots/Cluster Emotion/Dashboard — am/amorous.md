@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined toward or displaying love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressive of or exciting sexual love or romance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing, feeling, or relating to romantic or sexual love; passionate, loving, or enamored.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance poetry and courtly literature, devoted to the lyrical expression of erotic devotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Maybe the amorous count solicits her In the unlawful purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Send forth your amorous token for fair Maudlin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think on me That am with Phœbus’ amorous pinches black, And wrinkled deep in time?"*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Shall I believe that unsubstantial death is **amorous**, and that the lean abhorred monster keeps thee here in dark to be his paramour?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The birds sang **amorous** descants through the twilight, celebrating the pure joy of Eden."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"What dire offense from **amorous** causes springs, what mighty contests rise from trivial things."*

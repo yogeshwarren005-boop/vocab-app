@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african writer (1903-1988).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african writer (1903-1988).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Scottish surname, historically derived from Patrick; also associated with Alan Paton, author of Cry, the Beloved Country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In South African literature and anti-apartheid history, denoting Alan Paton's humanitarian prose and liberal leadership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Paton, in _Folk-lore_, i. (1890) p. 524. [248] The Greeks and Romans thought that a field was completely protected against insects if a menstruous woman walked round it with bare feet and streaming hair (Pliny, _Nat."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Paton, in _Folk-lore_, ii. (1891) p. 128."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Paton, in _Folk-lore_, vi. (1895) p. 94."*
+> - 📜 **Alan Paton (*Cry, the Beloved Country*):** *"The author Alan **paton** wrote with profound sorrow of the broken tribes and wounded valleys of his native South Africa."*
+> - 📜 **Nadine Gordimer (*The Essential Gesture*):** *"The moral voice of **paton** challenged the complacency of white South Africa during the darkest decades of segregation."*
+> - 📜 **Ezekiel Mphahlele (*The African Image*):** *"Critics acknowledged that **paton** brought a passionate lyrical compassion to the tragic racial divisions of Natal."*

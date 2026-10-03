@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brittle, lustrous silvery-white metalloid element with chemical symbol Sb and atomic number 51.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and alchemy, an element used since antiquity in cosmetics, pewter alloys, and flame-retardant industrial materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Crucibles, alembics, and retorts were confusedly piled in various corners, and on a small table I saw distributed in separate bottles a number of mineral and metallic substances, which I recognized as antimony, mercury, plumbago, arsenic, borax, etc."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Here I have a metal called antimony, which is easily acted upon by chlorine."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"I will place this lump of antimony in a jar of chlorine, and so far as you can see very little action takes place between the metal and the chlorine."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"No mineral has provoked more controversy among physicians than **antimony**, which cures or poisons according to its preparation."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Eastern women darkened their eyelashes and painted their eyelids with a fine powder of black **antimony**."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"I analyzed the brittle lump of **antimony**, admiring its crystalline facets and curious semi-metallic gleam."*

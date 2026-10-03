@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move, usually with force or pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place of or have precedence over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take the place of; to remove someone or something from their usual or proper position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and fluid dynamics, to occupy a volume of liquid equal to the volume of the submerged object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be possible for you to displace it with your little finger, there is some hope the ladies of Rome, especially his mother, may prevail with him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I hadn’t thought of that.” But even the novelty and painfulness of his going to a Papistical land could not displace for long Mr and Mrs Clare’s natural interest in their son’s marriage."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"But the stream went along like soft air, like the flowing of a river, setting me aside from time to time, as the air will displace a straw, or the water a stone, but no more."*
+> - 📜 **Archimedes (*On Floating Bodies*):** *"Any solid lighter than a fluid will, if placed in the fluid, be so far immersed that the weight of the solid will be equal to the weight of the fluid it will **displace**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"New and improved varieties inevitably **displace** and exterminate their less adapted ancestral forms."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"You have **displaced** the mirth, broke the good meeting, with most admired disorder."*

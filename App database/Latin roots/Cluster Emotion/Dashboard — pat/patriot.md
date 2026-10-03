@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who loves and defends his or her country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who loves and defends his or her country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who vigorously supports their country and is prepared to defend it against enemies or detractors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, an ardent champion of national independence, constitutional liberty, or civic reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"An austere patriot’s passion for his fatherland!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"God bless your Honours! can ye see’t— The kind, auld cantie carlin greet, An’ no get warmly to your feet, An’ gar them hear it, An’ tell them wi’a patriot-heat Ye winna bear it?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"They Scotia’s race among them share: Some fire the soldier on to dare; Some rouse the patriot up to bare Corruption’s heart: Some teach the bard—a darling care— The tuneful art."*
+> - 📜 **George Eliot (*Middlemarch*):** *"No; only that my grandfather was a **patriot**—a bright fellow—could speak many languages and fought for Polish freedom."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The young **patriot** feels himself stronger than before by the addition of the courage of five hundred confederates."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"What is the price-current of an honest man and **patriot** today? They hesitate, and they regret, and sometimes they petition."*

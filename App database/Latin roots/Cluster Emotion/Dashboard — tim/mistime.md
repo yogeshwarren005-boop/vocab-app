@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Time incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Time incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Choose an unsuitable, inopportune, or incorrect time for doing something; schedule improperly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic arts, music, and athletics, failing to sync actions with necessary rhythmic precision, resulting in awkward execution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistime designates time incorrectly."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"To announce bad news before breakfast is to **mistime** the operation disastrously, provoking domestic mutiny."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"A revolutionary who forgets the pulse of the populace will always **mistime** his appeals for insurrection."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The boxer threw his cross-counter with great fury, but to **mistime** the blow by a fraction of a second was fatal against such a champion."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make furious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by extreme anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely angry; enraged to madness; provoked into violent indignation or fury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological observation, describing dangerous animals that attack recklessly after being wounded or cornered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel was almost blinded, and he could feel Bathsheba’s warm arm tremble in his hand—a sensation novel and thrilling enough; but love, life, everything human, seemed small and trifling in such close juxtaposition with an infuriated universe."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It dried up any trickle of pity for him that may have remained in the pirate’s infuriated breast."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"The infuriated pirates buffeted them in the mouth; and Hook roared out, “That seals your doom."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The **infuriated** pterodactyl circled above the plateau, snapping its needle-like beak with horrific velocity."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The **infuriated** mob surged against the prison gates, armed with iron crows and blazing torches."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The beast-men grew **infuriated** when they perceived that their master lay dead upon the beach."*

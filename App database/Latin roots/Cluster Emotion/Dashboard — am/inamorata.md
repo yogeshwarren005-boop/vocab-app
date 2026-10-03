@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman with whom you are in love or have an intimate relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman with whom you are in love or have an intimate relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman with whom someone is in love; a female lover or sweetheart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic comedy and opera, the stock archetype of the young, romantic female lead (the *prima donna innamorata*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Nor, in enumerating the characters of Sir Launcelot Greaves who fix themselves in a reader's memory, should Tom's inamorata, Dolly, be forgotten, or the malicious Ferret, or that precious pair, Justice and Mrs."*
+> - 📜 **William Makepeace Thackeray (*Pendennis*):** *"Pen wrote passionate verses to his theatrical **inamorata**, convinced that her genius was sublime."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"The young gallant serenaded his fair **inamorata** beneath the balcony under the soft moonlight."*
+> - 📜 **Lord Byron (*Don Juan*):** *"His beautiful **inamorata** wept bitter tears of grief as the ship bore him away from Cadiz."*

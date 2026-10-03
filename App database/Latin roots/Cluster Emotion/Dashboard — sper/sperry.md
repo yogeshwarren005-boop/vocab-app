@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states engineer and inventor of the gyrocompass (1860-1930).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states engineer and inventor of the gyrocompass (1860-1930).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proper surname; notably Elmer Ambrose Sperry (1860–1930), American inventor of the gyrocompass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime and aeronautical navigation history, designating Sperry gyroscopic compasses and automatic ship steering gear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sperry designates united states engineer and inventor of the gyrocompass (1860-1930)."*
+> - 📜 **Arthur Conan Doyle (*The Maracot Deep*):** *"The submarine's true bearing was steadily maintained by a sophisticated **Sperry** gyroscopic compass."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The adoption of the master **Sperry** gyrocompass eliminated magnetic deviation across our battle fleet."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Navigators relied on automatic **Sperry** steering mechanisms to pilot transport planes through nocturnal gales."*

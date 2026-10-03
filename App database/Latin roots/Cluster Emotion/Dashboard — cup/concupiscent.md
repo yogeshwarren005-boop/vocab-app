@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vigorously passionate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vigorously passionate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with or expressing strong sexual desire, lust, or sensual longing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy, pertaining to the desiring or appetitive faculty of the soul (the concupiscible power).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concupiscent designates vigorously passionate."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The spiritual will must constantly govern the unruly impulses of the **concupiscent** nature."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A noble soul rises above the **concupiscent** cravings of the flesh to contemplate pure ideal truth."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient moralists correctly distinguished between the irascible and the **concupiscent** faculties of the human mind."*

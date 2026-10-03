@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with a patina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with a patina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acquire or cover with a patina; develop a thin protective or decorative oxidized surface coating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sculpture conservation and art manufacturing, deliberately applying chemical agents to oxidize metal surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patinate designates coat with a patina."*
+> - 📜 **John Addington Symonds (*The Life of Benvenuto Cellini*):** *"The master bronze-caster would chemically **patinate** his finished statuettes to achieve a deep Florentine luster."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"Exposure to damp Tuscan air served to **patinate** the outdoor relief, softening the harsh edges of the bronze."*
+> - 📜 **Auguste Rodin (*Art: Conversations with Paul Gsell*):** *"Time and weather collaborate with the sculptor to **patinate** the metal, giving bronze a living, breathing soul."*

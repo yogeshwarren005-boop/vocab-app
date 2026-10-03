@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to support or be loyal to or to agree with an opinion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sharing the feelings of others (especially feelings of sorrow or anguish).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of pity and sorrow for someone else's misfortune; compassion or mutual affinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, the natural affective faculty that allows humans to enter into the sentiments and passions of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be what it is, The action of my life is like it, which I’ll keep, if but for sympathy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Thou hast given me in this beauteous face A world of earthly blessings to my soul, If sympathy of love unite our thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, then, there’s sympathy."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"How selfish soever man may be supposed, there are evidently some principles in his nature which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it except the pleasure of seeing it: this is **sympathy**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other, yet bound together by bonds of mutual **sympathy**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The growing capacity for loving **sympathy** was Dorothea's true shield against provincial narrowness."*

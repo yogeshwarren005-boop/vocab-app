@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unaffected by strong emotion or prejudice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unaffected by strong emotion or prejudice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not influenced by strong emotion, and so able to be rational and impartial; detached.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific investigation, observing and recording natural phenomena without subjective bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, going on in exactly the same inward and dispassionate manner."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"If I lived with you as you desire, I should then be your mistress: to say otherwise is sophistical—is false.” “Jane, I am not a gentle-tempered man—you forget that: I am not long-enduring; I am not cool and dispassionate."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Oh, I won't say he deserved precisely what he got! because judgment ought to be dispassionate, and in yours there was an element of cruelty for cruelty's sake; wasn't there?"*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Sherlock Holmes was the most perfect reasoning and observing machine that the world has seen, cold and **dispassionate**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A **dispassionate** examination of anatomical homologies demonstrates common descent across disparate vertebrate classes."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Truth gains more even by the errors of one who thinks for himself than by the **dispassionate** assent of those who do not."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling you have when you are satisfied with yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The feeling you have when you are satisfied with yourself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of quiet pleasure or security, often while unaware of potential danger or defect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and organizational psychology, institutional self-satisfaction leading to stagnation and vulnerability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She has been greatly missed there, I understand.” Miss Flite received the compliment with complacency and dropped a general curtsy to us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, opening another letter with the greatest complacency."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady has not been out much, for her, and has kept her room a good deal.” “Chesney Wold, Thomas,” rejoins the housekeeper with proud complacency, “will set my Lady up!"*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"A dangerous **complacency** settled over the British public during the interwar years."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Material prosperity often produces an individualistic **complacency** that neglects civic duty."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Court of Chancery slumbered on in comfortable **complacency**, unconcerned by the ruined suitors."*

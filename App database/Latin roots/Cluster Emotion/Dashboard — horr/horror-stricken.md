@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stricken with horror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stricken with horror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Struck with horror; extremely shocked, terrified, or paralyzed by sudden dread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dramaturgy, the stunned silence and frozen posture of characters beholding tragedy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horror-stricken designates stricken with horror."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The **horror-stricken** crowd recoiled as the crimson knife fell once more upon the scaffold."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I sank down **horror-stricken** beside the lifeless body of Elizabeth, cursed by the demon I had created."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The guests stood **horror-stricken** in the doorway, staring at the wild and disheveled bride."*

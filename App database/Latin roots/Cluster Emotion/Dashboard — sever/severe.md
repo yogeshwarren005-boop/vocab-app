@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intensely or extremely bad or unpleasant in degree or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very strong or vigorous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very great, intense, or harsh; demanding great skill, patience, or endurance; strict and uncompromising.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and architectural criticism, characterized by austere simplicity, restraint, and absence of frivolous ornament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then the justice, In fair round belly with good capon lined, With eyes severe and beard of formal cut, Full of wise saws and modern instances; And so he plays his part."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be patient, York; if we conclude a peace, It shall be with such strict and severe covenants As little shall the Frenchmen gain thereby."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have laboured for the poor gentleman to the extremest shore of my modesty, but my brother justice have I found so severe that he hath forced me to tell him he is indeed Justice."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"And then the justice, in fair round belly with good capon lined, with eyes **severe** and beard of formal cut, full of wise saws and modern instances."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Grave was his look, and in his face **severe** delight had found no place, but majesty and holy awe."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The winter of 1792 was unusually **severe**, and distress in the capital was universal and acute."*

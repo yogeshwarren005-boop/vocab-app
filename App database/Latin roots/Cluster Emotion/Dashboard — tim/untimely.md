@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Badly timed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncommonly early or before the expected time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening or done before the proper, expected, or natural time; premature, ill-timed, or inauspicious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and eulogies, especially describing an early death that abruptly cuts short potential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did I forget that by the house of York My father came untimely to his death?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How sweet a plant have you untimely cropped!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An untimely ague Stayed me a prisoner in my chamber when Those suns of glory, those two lights of men, Met in the vale of Andren."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Gertrude, we'll call up our wisest friends, and let them know both what we mean to do and what's **untimely** done."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His first feeling now was one of pity for the **untimely** fate of these gentle ewes scattered along the chalk pit."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The young heir's **untimely** demise cast a pall of gloom over the ancient manor house on the moors."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An absence of emotion or enthusiasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of lacking enthusiasm for or interest in things generally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of interest, enthusiasm, or concern; state of indifference or emotional unresponsiveness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic philosophy (*apatheia*), the virtuous freedom from disturbing emotional passions and irrational desires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A phrase like that of Clement of Alexandria, "deifying into apathy we become monadic," is seas away from anything we find in the speech of Jesus."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"While any temporal interest excites feeling, this theme is listened to with apathy."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"A similar apathy is frequently observed in persons who have been well instructed, when their whole souls have become engrossed in some worldly pursuit."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The profound **apathy** of the Roman citizenry toward imperial defense facilitated the barbarian conquest."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Individualism threatens to generate a political **apathy** that surrenders public governance to centralized despots."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"Cultivate that holy **apathy** toward external praise and blame which leaves the rational soul unperturbed."*

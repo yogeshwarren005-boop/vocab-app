@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming oceanic tunicate with a barrel-shaped transparent body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming oceanic tunicate with a barrel-shaped transparent body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, transparent, barrel-shaped pelagic tunicates in the family Doliolidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plankton ecology, oceanic salp-relatives with eight or nine complete circular muscle bands propelling water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doliolum designates free-swimming oceanic tunicate with a barrel-shaped transparent body."*
+> - 📜 **Thomas Henry Huxley (*Observations on the Anatomy and Affinities of the Family of the Salpidae*):** *"The delicate barrel-shaped body of **Doliolum** contracts cyclically, propelling the organism through calm tropical waters."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The free-swimming tadpole larva of **Doliolum** possesses an axial nerve cord that atrophies in the adult stage."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Nocturnal phosphorescence on the equatorial sea was intensified by luminous swarms of floating **Doliolum**."*

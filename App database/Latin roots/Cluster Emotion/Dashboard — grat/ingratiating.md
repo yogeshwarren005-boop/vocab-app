@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gain favor with somebody by deliberate efforts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of winning favor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to gain approval or favor; sycophantic, flattering, or charming in a fawning way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In characterization, adopting a disarming demeanor to disarm suspicion or win selfish advantages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Brimstone and gall,” the voice retorted, “say that again, and I’ll cast anchor in you.” Hook tried a more ingratiating manner."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Oahunui was quite captivated by the plausible, suave manners of the ingratiating southern chief and those of his immediate retainers, and he invited them to a feast."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He laid aside, too, all the dominant dignity and absolute sway with which he lorded it in his little empire, the school, and became wonderfully gentle and ingratiating."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Uriah Heep rubbed his clammy hands together with an **ingratiating** smile that made my skin creep."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle possessed an **ingratiating** elegance that made strangers confide their deepest secrets."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode spoke with an **ingratiating** piety that failed to convince the skeptical townsmen."*

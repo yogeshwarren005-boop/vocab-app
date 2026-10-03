@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destructive to spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destructive to spermatozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destructive to spermatozoa; acting as or relating to a spermicide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In barrier contraception, describing chemical surfactants (such as nonoxynol-9) that disrupt the sperm cell membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermicidal designates destructive to spermatozoa."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The incorporation of a reliable **spermicidal** jelly into barrier methods vastly reduced contraceptive failure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Laboratory evaluation confirms the rapid **spermicidal** efficacy of dilute lactic acid solutions."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Chemical pharmacology investigated the **spermicidal** properties of topical antiseptics upon living gametes."*

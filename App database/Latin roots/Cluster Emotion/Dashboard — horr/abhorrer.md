@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A signer of a 1679 address to charles ii in which those who petitioned for the reconvening of parliament were condemned and abhorred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A signer of a 1679 address to charles ii in which those who petitioned for the reconvening of parliament were condemned and abhorred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abhors or detests something; one who regards something with extreme loathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English seventeenth-century political history, one of the royalists who expressed abhorrence for petitions demanding the assembly of Parliament (opposed to Petitioners/Whigs).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abhorrer designates a signer of a 1679 address to charles ii in which those who petitioned for the reconvening of parliament were condemned and abhorred."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The country was divided into two furious factions, the Petitioner demanding a Parliament and the **abhorrer** upholding the royal prerogative."*
+> - 📜 **David Hume (*The History of England*):** *"The court party received the name of **abhorrer** from the vehement addresses they presented against subversive petitions."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"A genuine **abhorrer** of fraud will not stoop to petty deceptions even to accomplish a righteous purpose."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a joyous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a joyous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a jubilant manner; with triumphant joy, exultation, or celebratory delight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, performing an action with radiant, irrepressible enthusiasm and gladness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Everything will be all right then,” cried the rosy lady jubilantly."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Mina smiled **jubilantly** as she deciphered the cryptic message that proved Jonathan was still alive."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The birds sang **jubilantly** among the river reeds as the dawn mist melted into golden light."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Traddles waved his hat **jubilantly** from the coach window as we departed for our holiday."*

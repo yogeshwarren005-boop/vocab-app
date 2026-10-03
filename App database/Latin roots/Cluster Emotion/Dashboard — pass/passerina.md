@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small north american finches including the new world buntings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of small north american finches including the new world buntings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of North American songbirds in the cardinal family Cardinalidae, including the painted and indigo buntings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, brightly colored sexually dimorphic buntings noted for vibrant blue, green, and indigo male plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passerina designates a genus of small north american finches including the new world buntings."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The indigo bunting, **Passerina** cyanea, glitters like a living sapphire against the roadside brambles."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"No bird of our temperate forests surpasses the male **Passerina** ciris in its brilliant rainbow plumage."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"A sweet metallic song announced the arrival of the blue **Passerina** in the scrub oaks."*

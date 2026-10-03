@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a meson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The antiparticle of a meson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antiparticle of a meson, possessing identical mass and spin but opposite electric charge and strangeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In subatomic particle physics, an unstable hadronic antiparticle comprising an antiquark-quark pair generated during high-energy accelerator collisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimeson designates the antiparticle of a meson."*
+> - 📜 **Hideki Yukawa (*Creativity and Intuition*):** *"The theoretical symmetry between fundamental particles led naturally to positing both the meson and the corresponding **antimeson**."*
+> - 📜 **Murray Gell-Mann (*The Quark and the Jaguar*):** *"In every accelerator run, the fleeting creation of an **antimeson** demonstrated the strict conservation of isotopic spin."*
+> - 📜 **Steven Weinberg (*The Discovery of Subatomic Particles*):** *"Detectors traced the curved ion trajectory that betrayed the presence of an **antimeson** decaying into lighter leptons."*

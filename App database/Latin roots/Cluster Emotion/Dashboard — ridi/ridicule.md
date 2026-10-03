@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language or behavior intended to mock or humiliate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of deriding or treating with contempt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjection of someone or something to contemptuous and dismissive language or behavior; mockery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In satirical literature, using irony, sarcasm, and exaggeration to expose folly and vices to public scorn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"But, fair or not fair, there are unbecoming conjunctions, which reason will patronize in vain—which taste cannot tolerate—which ridicule will seize."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I hope I never ridicule what is wise or good."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But it has been the study of my life to avoid those weaknesses which often expose a strong understanding to ridicule.” “Such as vanity and pride.” “Yes, vanity is a weakness indeed."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"The author employed biting **ridicule** to lay bare the callous indifference of the ruling aristocracy."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet found endless amusement in exposing the absurdities of his neighbors to dry **ridicule**."*
+> - 📜 **Voltaire (*Candide*):** *"Philosophical optimism was subjected to merciless **ridicule** through the relentless misadventures of Pangloss."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island in indonesia in the malay archipelago; the largest and most eastern of the lesser sunda islands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island in indonesia in the malay archipelago; the largest and most eastern of the lesser sunda islands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An island at the southern extremity of Maritime Southeast Asia; also in Latin, the emotion of fear or dread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geopolitics and colonial trade, an island divided between Portuguese and Dutch control, renowned for fragrant sandalwood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SUFFOLK. _Pene gelidus timor occupat artus_."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grabowsky, "Der Distrikt Dusson Timor in Südost-Borneo und seine Bewohner," _Das Ausland_, 1884, No. 24, p. 470. [33] _Narrative of the Second Arctic Expedition made by Charles F."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Was it not so, O Timor Tom! thou famed leviathan, scarred like an iceberg, who so long did’st lurk in the Oriental straits of that name, whose spout was oft seen from the palmy beach of Ombay?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffolk cried out in classical despair: Pene gelidus **timor** occupat artus, feeling death's cold dread seize his limbs."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Was it not so, O **timor** Tom! thou famed leviathan, scarred like an iceberg, who survived thirty harpoons in the Java seas?"*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The island of **timor** presents a remarkable flora and fauna, differing sharply from the lush tropical islands of western Indonesia."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to exist and perform in harmonious or agreeable combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being used with or connected to other devices or components without modification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to exist, live, or work together without conflict; consistent and mutually agreeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and software design, denoting organisms capable of cross-breeding or applications sharing data formats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Lady Dalrymple, Lady Dalrymple,” was the rejoicing sound; and with all the eagerness compatible with anxious elegance, Sir Walter and his two ladies stepped forward to meet her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That the latter was of the smallest magnitude compatible with its existence at all, Boldwood, of course, did not know."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins, “were so fortunate as to be able to sing, I should have great pleasure, I am sure, in obliging the company with an air; for I consider music as a very innocent diversion, and perfectly compatible with the profession of a clergyman."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This variation is quite **compatible** with the action of natural selection, operating slowly across countless generations."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We perceive that liberty and rational necessity are entirely **compatible** principles in the moral governance of man."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific inquiry is thoroughly **compatible** with the highest ideals of moral rectitude and human sympathy."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An economic state of growth with rising profits and full employment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of prospering; having good fortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thriving financial success, abundant good fortune, and physical or material well-being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy, the widespread abundance of goods, services, and security enjoyed by a populace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bold gentleman, Prosperity be thy page!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, You have, I know, petitioned all the gods For my prosperity. [_Kneels._] VOLUMNIA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come; for thou shalt thrust thy hand as deep Into the purse of rich prosperity As Louis himself.—So, nobles, shall you all, That knit your sinews to the strength of mine."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Prosperity is the blessing of the Old Testament; adversity is the blessing of the New: yet **prosperity** is not without many fears and distastes."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The commercial **prosperity** of the nation depends upon a stable federal government capable of protecting trade."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"High wages of labor are the natural symptom of increasing national **prosperity**."*

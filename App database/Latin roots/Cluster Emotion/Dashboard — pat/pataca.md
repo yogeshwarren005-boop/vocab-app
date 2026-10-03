@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in macao.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in macao.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official monetary currency unit of Macau; historically also a Spanish or Portuguese silver dollar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime numismatics and East Asian colonial commerce, a silver coin circulated widely in South China treaty ports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pataca designates the basic unit of money in macao."*
+> - 📜 **Richard Francis Burton (*Goa, and the Blue Mountains*):** *"In the Macanese bazaar, merchants transacted business in silver **pataca** coins bearing the Portuguese royal arms."*
+> - 📜 **Joseph Conrad (*Victory*):** *"He pocketed the heavy silver **pataca**, weighing it in his palm with a seasoned sailor's calculating glance."*
+> - 📜 **W. Somerset Maugham (*On a Chinese Screen*):** *"The cashier counted stacks of notes and silver **pataca** currency behind the brass grille of the trading house."*

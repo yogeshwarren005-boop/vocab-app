@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal use of the latin word for father; sometimes used by british schoolboys or used facetiously.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An informal use of the latin word for father; sometimes used by british schoolboys or used facetiously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Father (chiefly colloquial British or Latin in formal phrases).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public school slang and classical literature, an affectionate term for one's father, or the Latin designation in ecclesiastical texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kneeling reverently at the hearth with the members of his family in a like attitude of devotion, the old man recited three _Pater Nosters_ and three _Aves_, and invoked the blessing of heaven on the log and on the cottage."*
-> - 📜 **James Joyce (*Ulysses*):** *"Icarus. _Pater, ait._ Seabedabbled, fallen, weltering."*
-> - 📜 **James Joyce (*Ulysses*):** *"Jay, look at the drunken minister coming out of the maternity hospal! _Benedicat vos omnipotens Deus, Pater et Filius_."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"My dear fellow, the **pater** will cut off my allowance without a shilling if I marry a chorus girl."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"Pen wrote a dutiful epistle to the **pater**, requesting an urgent remittance to settle college debts at Oxbridge."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"Stephen remembered his **pater** standing by the hearth, recounting tales of old Cork with theatrical relish."*

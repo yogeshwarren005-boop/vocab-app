@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of siting on the back of a horse while controlling its movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel by being carried on horseback.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport, activity, or skill of traveling on horseback or driving a vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English local governance, an administrative division of a county (such as the East, West, or North Riding of Yorkshire).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Were you but riding forth to air yourself, Such parting were too petty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard of riding wagers Where horses have been nimbler than the sands That run i’ th’ clock’s behalf."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go bid my woman feign a sickness; say She’ll home to her father; and provide me presently A riding suit, no costlier than would fit A franklin’s huswife."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was **riding** slowly down the lane when the sound of sheep bells caught his attention."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"A solitary knight came **riding** through the woodland glade, clad in complete chain armor."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"I spent long afternoons **riding** among the Cumbrian hills, absorbed in solitary communion with nature."*

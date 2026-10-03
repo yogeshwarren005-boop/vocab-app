@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Set or keep apart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut off from a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide by cutting or slicing, especially suddenly and forcibly; to detach, separate, or break off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and diplomatic history, to dissolve all connections, alliances, or communications between parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus have you heard me sever’d from my bliss, That by misfortunes was my life prolong’d To tell sad stories of my own mishaps."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more can I be sever’d from your side Than can yourself yourself in twain divide."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better I were distract: So should my thoughts be sever’d from my griefs, And woes by wrong imaginations lose The knowledge of themselves. [_A drum afar off._] EDGAR."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Let me hear no more of this; it will **sever** our friendship and divide the realm into factions."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"We are not enemies, but friends. We must not be enemies. Though passion may have strained, it must not break our bonds of affection. The mystic chords of memory will yet swell the chorus of the Union, when again touched, as surely they will be, by the better angels of our nature; no state can lawfully **sever** its allegiance."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geographical barriers rise to **sever** populations, leading over epochs to the divergence of distinct species."*

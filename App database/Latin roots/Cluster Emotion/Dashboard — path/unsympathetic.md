@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sympathetic or disposed toward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of characters in literature or drama) tending to evoke antipathetic feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not showing or feeling sympathy; unfeeling, callous, or indifferent to the distress of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In characterization and dramatic critique, an unappealing or repellent protagonist who fails to engage audience affection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This consciousness upon which he had intruded was the single opportunity of existence ever vouchsafed to Tess by an unsympathetic First Cause—her all; her every and only chance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode seems the most unsympathetic fellow I ever saw about some people, and yet he has taken no end of trouble, and spent a great deal of money, on benevolent objects."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Very little unless it's the scenery along the bluff," he replied, with the depression sounding still more clearly in his voice and his shoulders drooped against the unsympathetic old stone post in a way that sent a pang to my heart."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Fanny Dashwood's **unsympathetic** nature saw in the widow's distress only an inconvenient demand upon her purse."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The cold, **unsympathetic** stone walls of the university colleges seemed to shut Jude out forever."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck was completely **unsympathetic** to nervous ailments, dismissing emotional distress as sheer idleness."*

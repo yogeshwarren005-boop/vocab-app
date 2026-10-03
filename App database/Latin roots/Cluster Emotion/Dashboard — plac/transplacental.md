@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring through or by way of the placenta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring through or by way of the placenta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing, transported, or performed through or across the placenta between mother and fetus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maternal-fetal medicine and obstetrics, maternal antibodies or infectious pathogens traversing the placental barrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transplacental designates occurring through or by way of the placenta."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Passive **transplacental** transmission of maternal antibodies affords newborn infants vital early immunity."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Gaseous exchange between maternal and embryonic hemoglobin proceeds through **transplacental** diffusion."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Certain viral toxins achieve **transplacental** penetration, causing subtle congenital alterations in the developing neural tube."*

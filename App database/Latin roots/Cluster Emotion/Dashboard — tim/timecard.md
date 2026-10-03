@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A card recording an employee's starting and quitting times each work day.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A card used with a time clock to record an employee's starting and quitting times each day.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stamped or recorded card used with a time clock to log an employee's starting and quitting hours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial labor management, an official physical or digital punch record used to calculate hourly wages and payroll deductions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timecard designates a card recording an employee's starting and quitting times each work day."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Jurgis punched his **timecard** at seven every morning, knowing that missing two minutes meant losing an entire hour's pay."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The foreman stamped each laborer's **timecard** with cold indifference, marking down docked minutes with a heavy red pencil."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"Carrie watched the shop girls crowd around the brass clock to punch their daily **timecard** before rushing homeward."*

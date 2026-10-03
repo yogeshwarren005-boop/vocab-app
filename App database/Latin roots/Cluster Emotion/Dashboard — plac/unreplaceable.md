@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to replace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to replace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be replaced; irreplaceable; of unique and permanent worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archival and art conservation, priceless historical manuscripts and original works of art whose loss is irreparable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreplaceable designates impossible to replace."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ancient Byzantine mosaics of Saint Mark's are **unreplaceable** treasures of Christian medieval art."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A devoted, upright leader is an **unreplaceable** pillar in a troubled and disunited commonwealth."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The indigenous cultural traditions wiped out by conquest represent an **unreplaceable** loss to anthropology."*

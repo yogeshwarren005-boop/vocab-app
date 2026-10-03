@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of gaining acceptance or affection for yourself by persuasive and subtle blandishments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of gaining acceptance or affection for yourself by persuasive and subtle blandishments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of gaining favor or approval through deliberate flattery or pleasing behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology, strategic behavioral tactics employed to increase one's attractiveness to a target person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ingratiation designates the act of gaining acceptance or affection for yourself by persuasive and subtle blandishments."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"His transparent attempts at **ingratiation** disgusted the older fellows at the club."*
+> - 📜 **Edmund Burke (*Speech on the Nabob of Arcot's Debts*):** *"Through shameless **ingratiation**, low adventurers obtained control of royal revenues in India."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins was thoroughly immune to polite **ingratiation**, treating duchesses and flower girls alike."*

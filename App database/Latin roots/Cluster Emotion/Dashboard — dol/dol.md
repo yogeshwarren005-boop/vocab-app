@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of pain intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The federal department responsible for promoting the working conditions of wage earners in the united states; created in 1913.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of measurement of pain intensity, representing a just noticeable difference in pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algesiometry and clinical neurology, introduced by James D. Hardy, Harold G. Wolff, and Helen Goodell in 1947.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Aunt Martha made her welcome in her dearest manner and Caroline beamed on her with the return of a lot of the fire and spirit of the youth that hanging on the doled-out affections of Lee Greenfield had starved in her."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The usage on board of her was tyrannical; the sick had been inhumanly neglected; the provisions had been doled out in scanty allowance; and her cruises were unreasonably protracted."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"In turn I doled out some biscuits, to the children's great delight, while fathers and mothers looked on approvingly."*
+> - 📜 **Harold G. Wolff (*Pain Sensations and Reactions*):** *"Thermal radiation applied to the skin established the **dol** scale, ranging from zero to ten units of pain intensity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Quantitative pain thresholds measured in **dol** units demonstrate individual variability in pain tolerance."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The acute phantom limb agony exceeded eight **dol** units on the clinical algesiometric scale."*

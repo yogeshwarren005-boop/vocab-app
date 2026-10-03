@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceedingly bad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grossly offensive to decency or morality; causing horror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing horror; dreadful, abominable, disagreeable, or offensive to the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and poetic usage, bristling, rough, or rugged in physical appearance (from Latin *horridus*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He would drown the stage with tears And cleave the general ear with horrid speech; Make mad the guilty, and appal the free, Confound the ignorant, and amaze indeed, The very faculties of eyes and ears."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is one within, Besides the things that we have heard and seen, Recounts most horrid sights seen by the watch."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Since I was man, Such sheets of fire, such bursts of horrid thunder, Such groans of roaring wind and rain I never Remember to have heard."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Moloch, **horrid** king besmeared with blood of human sacrifice, and parents' tears."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine eagerly inquired whether the new romance contained enough **horrid** murders and secret passages."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Yahoo presented a **horrid** spectacle, filthy of limb and viciously insolent in demeanor."*

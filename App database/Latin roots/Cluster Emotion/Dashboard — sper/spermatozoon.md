@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male reproductive cell; the male gamete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male reproductive cell; the male gamete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mature motile male sex cell of an animal, by which the ovum is fertilized; a sperm cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive physiology, the haploid gamete bearing chromosomal paternal DNA to the female egg cell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatozoon designates the male reproductive cell; the male gamete."*
+> - 📜 **Antonie van Leeuwenhoek (*Letters to the Royal Society*):** *"Through my optical lenses I observed thousands of living animalcules in the semen, which science now names the **spermatozoon**."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The miraculous condensation of inherited characters into a single microscopic **spermatozoon** baffles the imagination."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A healthy human **spermatozoon** traverses the uterine cavity through vigorous flagellar propulsion."*

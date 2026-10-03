@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of dolomite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of dolomite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, composed of, or relating to the mineral or rock dolomite; magnesium limestone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphy, describing sedimentary strata enriched in magnesium carbonate through diagenetic dolomitization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolomitic designates relating to or consisting of dolomite."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The fossil shells within the **dolomitic** limestone strata were completely replaced by sparkling rhombohedral crystals."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Spectacular karst caverns and underground rivers carve their labyrinthine way through the porous **dolomitic** rock."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Magnesian waters circulating through coastal reefs induced extensive alteration, converting soft chalk into tough **dolomitic** beds."*

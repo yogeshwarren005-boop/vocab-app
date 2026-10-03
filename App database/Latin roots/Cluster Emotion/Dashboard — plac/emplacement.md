@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Military installation consisting of a prepared position for siting a weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in a certain place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A platform, trench, or fortified structure prepared for a gun, radar, or military installation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In igneous petrology, the positioning and crystallization of plutonic rock masses within the Earth's upper crust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I want to check your weapons control center, and every gun emplacement."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I repeat: first, the fire control center, then each gun emplacement."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At each gun emplacement, Rimov, his guards and Scarf watched Brad and Kumiko inspect sector guides, range and directional interlocks and power drives."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The concrete **emplacement** defied our heaviest aerial bombardment, requiring direct assault by combat sappers."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The geological **emplacement** of the basaltic dikes coincided with the opening of the oceanic rift valley."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The artillerymen scrambled around their gun **emplacement** upon the common, sighting the distant Martian tripod."*

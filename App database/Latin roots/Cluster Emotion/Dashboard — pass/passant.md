@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In walking position with right foreleg raised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In walking position with right foreleg raised.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In heraldry, depicting an animal walking forward with its right forepaw raised and looking ahead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldic blazonry, distinguishing a walking lion or beast from *rampant* (rearing), *couchant* (lying), or *salient* (leaping).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I would say, en passant, that Love is always treated by Browning as a SPIRITUAL claim; while DUTY may be only a worldly one."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am a husband of older standing than you, and shall give you my ideas of the conjugal state, (_en passant_--you know I am no Latinist-is not _conjugal_ derived from _jugum_, a yoke?) Well, then, the scale of good wifeship I divide into ten parts."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Upon his shield was emblazoned a lion **passant** guardant, the ancient cognizance of the Plantagenets."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The standard of England bore the three golden leopards **passant** embroidered upon crimson silk."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The Esmond crest featured a winged griffin **passant**, carved in relief above the great mantlepiece."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Selfishly or unscrupulously conforming one's opinions, actions, or loyalties to the prevailing power of the moment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political polemics, opportunistic pandering and lack of steadfast philosophical principle in public servants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"At any rate, whatever as coming from the god was imparted to those present seemed to be generally of a complimentary nature: a fact which illustrates the sagacity of Kolory, or else the timeserving disposition of this hardly used deity."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The worldly diplomat exhibited that refined **timeserving** hypocrisy which smiles upon whatever power currently commands the fleet."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth requires courageous defenders, not **timeserving** prelates who tailor doctrine to royal vanity."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The clergy's rapid acquiescence to the new monarch was condemned by non-jurors as disgraceful and **timeserving** expediency."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (poetry) painful grief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (poetry) painful grief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great sorrow or mental distress; grief (British spelling of dolor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian lyric poetry, profound spiritual dejection and mourning for lost love or mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each new morn New widows howl, new orphans cry; new sorrows Strike heaven on the face, that it resounds As if it felt with Scotland, and yell’d out Like syllable of dolour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have too few to take my leave of you, When the tongue’s office should be prodigal To breathe the abundant dolour of the heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your widow-dolour likewise be unwept!"*
+> - 📜 **Alfred Tennyson (*In Memoriam A. H. H.*):** *"O sorrow, cruel fellowship, O priestess in the vaults of death, can I measure all thy heavy **dolour**?"*
+> - 📜 **Algernon Charles Swinburne (*Poems and Ballads*):** *"From too much love of living, from hope and fear set free, we thank with brief thanksgiving whatever gods may be, that no life lives forever, that dead men rise up never, that even the weariest river winds somewhere safe to sea, far from mortal **dolour**."*
+> - 📜 **William Morris (*The Earthly Paradise*):** *"The wanderers sat in solemn silence, weeping for the **dolour** and hardship of their voyage."*

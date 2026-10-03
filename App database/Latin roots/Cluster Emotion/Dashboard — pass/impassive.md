@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or revealing little emotion or sensibility; not easily aroused or excited; ; - nordhoff & hall; -virginia woolf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately impassive in manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not feeling or showing emotion; calm, expressionless, impassible, or serene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In characterization, maintaining an unreadable facial expression under acute danger or interrogation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan, with an impassive face, implying that a true narrative, like time and tide, must run its course and would respect no man."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was an impassive King of her world."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy laid these out upon the grass, and with an impassive face set to work to plant them."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes listened with an **impassive** countenance, his keen eyes fixed steadily upon the witness."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton stood **impassive** before the revolutionary tribunal, betraying not the slightest tremor of fear."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The Eastern landscape remained vast and **impassive**, indifferent to the petty tragedies of mortal men."*

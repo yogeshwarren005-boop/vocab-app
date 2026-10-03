@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fanatically patriotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fanatically patriotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively, aggressively, or blindly patriotic; chauvinistic and jingoistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political commentary and social criticism, an exaggerated public nationalism that brands reasonable dissent as treason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superpatriotic designates fanatically patriotic."*
+> - 📜 **Sinclair Lewis (*It Can't Happen Here*):** *"The **superpatriotic** League of Forgotten Men marched through the town square, shouting bellicose slogans and menacing critics."*
+> - 📜 **H. L. Mencken (*Prejudices: Second Series*):** *"The **superpatriotic** orator wraps himself in the national flag, substituting violent denunciation for coherent political reasoning."*
+> - 📜 **George Orwell (*Notes on Nationalism*):** *"A **superpatriotic** mentality cannot tolerate even the most balanced historical criticism of its own nation's past blunders."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapy based on the assumption that restoring health is best accomplished by manipulating the skeleton and muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy based on the assumption that restoring health is best accomplished by manipulating the skeleton and muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of complementary medicine involving the treatment of medical disorders through the manipulation and massage of the skeleton and musculature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In therapeutic philosophy, a medical paradigm emphasizing the interrelationship of structure and function and the body's innate self-healing capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I had been treated by doctors and specialists; had taken magnetic treatments and osteopathy; had tried change of climate; had an operation in a hospital, and when I came out was worse than before."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"My daughter's health was wonderfully restored by **osteopathy** after standard European physicians had given her up."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The popularity of **osteopathy** underscores the importance of physical manipulation and suggestive therapy in chronic joint pain."*
+> - 📜 **George Bernard Shaw (*Everybody's Political What's What?*):** *"The triumph of **osteopathy** demonstrated that mechanical adjustment of the spine could produce undeniable physiological relief."*

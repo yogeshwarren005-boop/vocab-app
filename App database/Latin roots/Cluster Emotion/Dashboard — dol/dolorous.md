@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing sorrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing sorrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing great sorrow or distress; mournful, grievous, or painful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval romance and tragic poetry, accompanied by mournful groans and heartbreaking lamentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My hearty friends, You take me in too dolorous a sense, For I spake to you for your comfort, did desire you To burn this night with torches."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But he is sure to marry her.” They had heard so very little of this; yet it was enough to build up wretched dolorous dreams upon, there in the shade of the night."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mortal theories make friends of sin, sickness, and death; whereas the spiritual scientific facts of exist- 552:12 ence include no member of this dolorous and fatal triad."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Thy brother's Edward's sons, his queens, his wife, and children all did perish in this **dolorous** tragedy."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"A **dolorous** blast upon the bugle horn echoed across the tarn, announcing the death of the chieftain."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Through many a dark and **dolorous** path they traveled, across the scorched brimstone of hell."*

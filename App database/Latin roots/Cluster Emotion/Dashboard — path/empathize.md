@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be understanding of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be understanding of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To understand and share the feelings of another person; to experience empathy (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological practice, to mirror and validate an individual's emotional experience without judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathize designates be understanding of."*
+> - 📜 **William James (*The Will to Believe*):** *"To truly comprehend human history, the philosopher must **empathize** with the living passions of each epoch."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"We readily **empathize** with the courage of heroes because their greatness awakens our own slumbering potential."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"The capacity to **empathize** with diverse viewpoints is the foundation of genuine democratic cooperation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of sympathetic understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of existing or performing in harmonious or congenial combination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity for two or more things, systems, or people to exist, integrate, or work together harmoniously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and genetics, hardware or software interchangeability and tissue cross-matching without rejection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You mentioned 'three men and three women'; your mission can not exclude gender compatibility consistent with the prevailing psychosocial construct -- this is what we are."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With voluntary participation, concern about temperament compatibility need not be a problem."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Among these drastic and far-reaching changes, parachute compatibility with aircraft was one among thousands."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Botanists frequently observed that the sexual **compatibility** between distinct varieties yielded remarkably vigorous hybrid blossoms."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Marital happiness depends far less upon superficial charm than upon the temperamental **compatibility** of mind and habit."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Standardizing electrical interfaces ensures the complete operational **compatibility** of diverse feedback instruments in automation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of prosperous people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of prosperous people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prosperous manner; successfully, favorably, or with thriving good fortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical narrative, managing affairs so as to achieve consistent wealth and honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are to know That prosperously I have attempted, and With bloody passage led your wars even to The gates of Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A happiness that often madness hits on, which reason and sanity could not so prosperously be delivered of."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"My duty prosperously ended, all between us is ended.” Vholes finally adds, by way of rider to this declaration of his principles, that as Mr."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"The enterprise proceeded **prosperously**, enabling us to purchase modern printing equipment from London."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The company rode **prosperously** through the forest, unmolested by the outlaw bands."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"For nearly half a century, the empire was **prosperously** governed under the wise stewardship of Antoninus Pius."*

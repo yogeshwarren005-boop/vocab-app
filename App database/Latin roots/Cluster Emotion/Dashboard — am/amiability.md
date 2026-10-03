@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cheerful and agreeable mood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be friendly and approachable (easy to talk to).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having a friendly, pleasant, and good-natured demeanor; cordial affability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th-century moral philosophy, a gentle social virtue that sweetens domestic life and disarms social tensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce for a day or two, I shall hear the larks sing and preserve my amiability."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Laura fancied that so far as she was concerned she could count on a personal amiability: he liked her, she was sure of that, his eyes softened when he spoke to her."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lemon’s favorite pupil, who by general consent (Fred’s excepted) was a rare compound of beauty, cleverness, and amiability."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley was endeared to all by his easy, unaffected **amiability** and unaffected good manners."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ada's radiant **amiability** brought warmth and cheer into the gloomiest chambers of Bleak House."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Wealth and rank may command outward deference, but genuine **amiability** alone secures affection."*

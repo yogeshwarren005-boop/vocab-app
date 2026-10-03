@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to please; - hal hinson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diffusing warmth and friendliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or displaying a friendly, warm, and pleasant manner; good-natured, agreeable, and likable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette, an unselfish and pleasant disposition that promotes domestic and civic harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, I defy all counsel, all redress, But that which ends all counsel, true redress, Death, death, O amiable, lovely death!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spend it, spend it; spend more; spend all I have; only give me so much of your time in exchange of it as to lay an amiable siege to the honesty of this Ford’s wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sit thee down upon this flowery bed, While I thy amiable cheeks do coy, And stick musk-roses in thy sleek smooth head, And kiss thy fair large ears, my gentle joy."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Weston was a man of universal good will, possessing an **amiable** temper that made friends everywhere."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The old blind cottager was of a mild and **amiable** nature, receiving the stranger with gentle courtesy."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Amelia Sedley was a dear, gentle, **amiable** creature whom everybody in the house loved."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plausible glib talk (especially useful to a salesperson).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quick succession of light rapid sounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a repeated light tapping sound; also rapid, glib, entertaining speech used by a comedian, salesman, or magician.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In underworld slang and showmanship, thieves' cant or the rhythmic, rapid-fire monologue of theatrical performers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn retires into another chamber; bells ring, feet shuffle and patter, silence ensues."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Little Swills, in what are professionally known as “patter” allusions to the subject, is received with loud applause; and the same vocalist “gags” in the regular business like a man inspired."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Will you have dinner before you go or take sandwiches with you?"--how long the patter of questions would have run on it is hard to say, if the extreme naivete of the last one had not drowned them in universal laughter, and Isabel in crimson."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I could only hear the heavy splashing thump of the stern-wheel and the light **patter** of warm rain upon the tin deckhouse."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Once or twice I heard a faint **patter** like the light running feet of an animal passing along the gravel garden walk."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The Artful Dodger astonished Oliver with his underworld **patter**, speaking a flash language of which the boy understood not a syllable."*

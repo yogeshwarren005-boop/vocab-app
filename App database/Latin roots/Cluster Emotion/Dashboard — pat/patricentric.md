@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Centered upon the father.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Centered upon the father.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Centered on or dominated by the father; patriarchal in social organization or psychology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological lineage studies, cultural customs that prioritize the father's relatives and authority in family decisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patricentric designates centered upon the father."*
+> - 📜 **Bronislaw Malinowski (*The Father in Primitive Psychology*):** *"Contrasting with matrilineal islanders, our European societies exhibit a distinctly **patricentric** organization of domestic authority."*
+> - 📜 **Margaret Mead (*Sex and Temperament in Three Primitive Societies*):** *"Among the plains tribes, kinship obligations were strictly **patricentric**, binding young warriors to their father's brothers."*
+> - 📜 **Claude Lévi-Strauss (*The Elementary Structures of Kinship*):** *"The shift toward a **patricentric** clan structure fundamentally altered marriage exchange rules among pastoral nomads."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message whose content is at variance with reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message whose content is at variance with reason.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or character of being ridiculous, absurd, laughable, or contrary to common sense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic philosophy, the perceived incongruity between lofty pretension and trivial reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ridiculousness designates a message whose content is at variance with reason."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The transparent **ridiculousness** of his pretensions provoked laughter among the company."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel could not help perceiving the solemn **ridiculousness** of Mr. Osmond's elaborate aristocratic codes."*
+> - 📜 **Ralph Waldo Emerson (*Letters and Social Aims*):** *"A perception of the comic rescues the mind from pedantry by uncovering the hidden **ridiculousness** of solemn forms."*

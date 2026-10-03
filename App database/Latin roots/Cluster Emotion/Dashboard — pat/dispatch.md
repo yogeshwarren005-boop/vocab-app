@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official report (usually sent in haste).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sending off something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Send off to a destination or for a purpose; deal with a task quickly and efficiently; an official report.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics and journalism, rapid transmission of urgent intelligence from the front lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch the most convenient messenger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, ere we put ourselves in arms, dispatch we The business we have talked of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch.—Enobarbus! [_Exeunt._] SCENE VI."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must **dispatch** the most convenient messenger immediately to forestall the enemy's advance."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes finished his breakfast with businesslike **dispatch**, eager to catch the morning express for Dartmoor."*
+> - 📜 **Winston Churchill (*The River War*):** *"Kitchener drafted his urgent **dispatch** under canvas as the sun rose over the battlefield of Omdurman."*

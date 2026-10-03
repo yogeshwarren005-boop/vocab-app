@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in veneto.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in veneto.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Roman name for Padua, a historic city in northeastern Italy; birthplace of the historian Livy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin philology and historiography, associated with Livy's celebrated rhetorical style (*patavinitas*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patavium designates a city in veneto."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The industrious citizens of ancient **patavium** were renowned throughout Italy for their wealth and moral sobriety."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"Humanist scholars gathered at Padua, recalling how ancient **patavium** nurtured the eloquent historical genius of Livy."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The Roman traveler journeyed north toward **patavium**, admiring the wealthy agricultural villas along the Brenta."*

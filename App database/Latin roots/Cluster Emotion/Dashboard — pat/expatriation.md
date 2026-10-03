@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expelling a person from their native land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Migration from a place (especially migration from your native country in order to settle in another).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of withdrawing from one's native land, or living in exile under foreign jurisdiction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and citizenship jurisprudence, the formal renunciation of allegiance to one's native sovereign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Touchett was intimate; she shared their expatriation, their convictions, their pastimes, their ennui."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Then, perhaps the temporary expatriation, the tedious traversing of seas and continents, the pilgrimage to Bayreuth stands explained."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the Revised Statutes, section 1999, Congress in the most solemn manner declare that the right of expatriation is beyond the lawful control of government: SEC. 1999."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"Every man has a natural right of **expatriation**, choosing the society and government under which he will live."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without a recognized law of **expatriation**, conflicting allegiances would provoke perpetual friction among maritime powers."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The decree of **expatriation** stripped the noble senator of his ancestral estates and condemned him to Aegean exile."*

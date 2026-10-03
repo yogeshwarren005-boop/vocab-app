@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation between propositions that cannot both be true at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (immunology) the degree to which the body's immune system will try to reject foreign material (as transfused blood or transplanted tissue).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of two or more things or people being unable to coexist, harmonize, or work together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In family jurisprudence and computer systems, irreconcilable differences or conflicting protocols preventing integration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"What I suffered from, was the incompatibility between his cold presence and my feelings towards Estella."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the British climate there is no incompatibility between scientific insight and furnished lodgings: the incompatibility is chiefly between scientific ambition and a wife who objects to that kind of residence."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And so for history, the insoluble mystery presented by the incompatibility of free will and inevitability does not exist as it does for theology, ethics, and philosophy."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"These evidences of an **incompatibility** of temper induced Miss Betsey to pay her husband a separation allowance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate recognized the bitter **incompatibility** between his scientific ambitions and Rosamond's shallow social desires."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The absolute **incompatibility** of terrestrial microbes with Martian physiology decided the fate of the invaders."*

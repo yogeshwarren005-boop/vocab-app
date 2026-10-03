@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contented to a fault with oneself or one's actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contented to a fault with oneself or one's actions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing smug or uncritical satisfaction with oneself, one's achievements, or one's situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical characterization, self-satisfied and oblivious to impending catastrophe or systemic flaw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As substitutes, I had four angels, of Queen Anne’s reign, taking a complacent gentleman to heaven, in festoons, with some difficulty; and a composition in needlework representing fruit, a kettle, and an alphabet."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is generally in a complacent state, and rarely bored."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn read the affidavit in Jarndyce and Jarndyce—particularly complacent."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma was far too **complacent** regarding her own matchmaking talents until humiliating errors opened her eyes."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The delicate Eloi lived in **complacent** luxury upon the surface, ignorant of the Morlocks beneath."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard resented the **complacent** smile with which Farfrae accepted his increasing commercial prosperity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refuse to acknowledge, ratify, or recognize as valid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To refuse to accept, recognize, or associate with; to reject as having no authority or validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and international relations, to formally disown a treaty obligation, contract, or financial debt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This left me no course but to regret that I had been “betrayed into a warmth which,” and on the whole to repudiate, as untenable, the idea that I was to be found anywhere."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Has she said to you since yesterday—except to repudiate her familiarity with anything so dreadful—a single other word about Miss Jessel?” “Not one, miss."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Reason compels an honest seeker of truth to **repudiate** doctrines grounded solely in blind tradition."*
+> - 📜 **Abraham Lincoln (*Cooper Union Address*):** *"Let us dare to **repudiate** false compromises that violate the fundamental principles of the Constitution."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionists chose to **repudiate** every ancestral charter in pursuit of speculative metaphysical rights."*

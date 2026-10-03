@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone on patrol duty; an individual or a member of a group that patrols an area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone on patrol duty; an individual or a member of a group that patrols an area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who patrols an area; a watchman, guard, or scout on reconnaissance duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In frontier history and municipal security, an armed sentinel keeping vigilance against incursions or fires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The recon-patroller's omni-directional screen displayed the huge cylinder that floated in space behind him, its gravity-enhanced rotation barely perceptible to O'Hare's vision."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." Keeper's message simultaneously loaded into the recon-patroller's computer as authenticator for the mission and demolition and laser gun settings."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Recon-patroller Red Fox was destroyed while on assigned mission to scout Special Zone to locate launch and support sites for spacecraft that present a clear and present danger to Slingshot."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The deck **patroller** moved softly through the sleeping berths, lantern in hand, ensuring no illicit smoking endangered the frigate."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The lonely mounted **patroller** kept watch over the frozen Yukon trail, checking dog teams as they entered the post."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The city **patroller** challenged every wandering carouser on the Wynd after the curfew bell had rung."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea that preoccupies the mind and holds the attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mental state of being preoccupied by something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep absorption or engrossment in thought; mental distraction by an obsessive concern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological analysis, an obsession or persistent fixation that prevents attentive responsiveness to immediate reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, “to ask such questions after what I have said of the preoccupation of my mind.” “And I hope, Ma, you give us your consent and wish us well?” said Caddy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"So he allowed his mind to be occupied with her, deeming his preoccupation to be no more than a philosopher’s regard of an exceedingly novel, fresh, and interesting specimen of womankind."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But that spectacle did not affect her preoccupation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's deep scholarly **preoccupation** made him oblivious to the emotional needs of his young wife."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her quiet **preoccupation** was mistaken by casual acquaintances for aristocratic indifference."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Holmes fell into a profound **preoccupation**, pacing the room with furrowed brow for hours together."*

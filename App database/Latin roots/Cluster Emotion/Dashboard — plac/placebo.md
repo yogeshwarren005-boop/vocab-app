@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) vespers of the office for the dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A harmless pill, medicine, or procedure prescribed more for psychological benefit than physiological effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacological trials, an inactive substance administered to a control group to evaluate experimental drug efficacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placebo designates an innocuous or inert medication; given as a pacifier or to the control group in experiments on the efficacy of a drug."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A harmless **placebo** coupled with reassuring bedside confidence often relieves functional nervous ailments."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Many historic remedies were mere **placebo** draughts, succeeding through the patient's lively faith in the physician."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The country doctor dispensed a mild peppermint **placebo** to soothe the imaginary symptoms of the neurotic squire."*

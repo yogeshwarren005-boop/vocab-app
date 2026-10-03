@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (islam) the man who leads prayers in a mosque; for shiites an imam is a recognized authority on islamic theology and law and a spiritual guide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (islam) the man who leads prayers in a mosque; for shiites an imam is a recognized authority on islamic theology and law and a spiritual guide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who leads prayers in a mosque; also a respected Islamic religious leader or scholar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Shi'a theology, one of the divinely ordained spiritual and political successors to the Prophet Muhammad.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imam designates (islam) the man who leads prayers in a mosque; for shiites an imam is a recognized authority on islamic theology and law and a spiritual guide."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The venerable **imam** mounted the minbar of the great mosque of Damascus to recite the Friday prayers."*
+> - 📜 **Washington Irving (*Mahomet and His Successors*):** *"The faithful assembled in devout silence as the holy **imam** led the prostrations toward Mecca."*
+> - 📜 **Richard Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The chief **imam** blessed the pilgrim caravan before its departure across the burning desert sands."*

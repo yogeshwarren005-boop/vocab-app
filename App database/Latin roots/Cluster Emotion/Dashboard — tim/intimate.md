@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom private matters are confided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give to understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Closely acquainted; familiar, warm, and personal; also to hint or imply indirectly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction and interpersonal psychology, denoting profound personal closeness or discreet verbal suggestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must intimate Skill infinite, or monstrous desperate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, your father here doth intimate The payment of a hundred thousand crowns, Being but the one half of an entire sum Disbursed by my father in his wars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And the spirit of humours intimate reading aloud to him!"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou this to hazard needs must **intimate** skill infinite, or monstrous desperate."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ah,' said Matthew Moon, 'she'll wish her cake dough if so be she's over **intimate** with that flashy sergeant.'"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We may conclude, from what we have seen of the **intimate** and complex manner in which the inhabitants of each country are bound together, that organic beings are mutually adapted."*

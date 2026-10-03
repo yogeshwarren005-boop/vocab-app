@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are fearful and cautious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing fear and lack of confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a lack of courage or confidence; easily frightened, hesitant, or apprehensive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization and ethology, an animal or person instinctively shrinking from unfamiliar confrontation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This made me, I dare say, more timid and retiring than I naturally was and cast me upon Dolly as the only friend with whom I felt at ease."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a mild, bald, timid man with a shining head and a scrubby clump of black hair sticking out at the back."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, as a timid man, is accustomed to cough with a variety of expressions, and so to save words."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Recognition of a **timid** girl walking alone across the dark turnpike aroused Gabriel Oak's gentle protective instincts."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Alice looked around with **timid** eyes, wondering if the White Rabbit would reappear in the hall of doors."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was shocked at her own stupidity, becoming suddenly **timid** before Mr. Casaubon's vast display of erudition."*

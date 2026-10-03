@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no seams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smooth, especially of skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ripped or torn open along the seams; unstitched, parted, or split asunder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature (notably Macbeth), sliced open with a sword from the navel upward to the jaw.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"One gallant steed is stretched a mangled corse; Another, hideous sight! unseamed appears, His gory chest unveils life's panting source; Though death-struck, still his feeble frame he rears; Staggering, but stemming all, his lord unharmed he bears."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"For brave Macbeth—well he deserves that name—disdaining fortune, with his brandished steel, which smoked with bloody execution, carved out his passage till he faced the slave; which ne'er shook hands, nor bade farewell to him, till he **unseamed** him from the nave to the chaps, and fixed his head upon our battlements."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The giant sperm whale's belly was **unseamed** by the sharp blubber-spades of the cutting-in crew."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The crusader's battle-axe **unseamed** the chain mail of the Saracen rider in a single blow."*

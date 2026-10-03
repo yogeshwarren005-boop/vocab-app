@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a severe or serious degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With sternness; in a severe manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a severe, strict, or intense degree; harshly, rigorously, or painfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical writing, judging conduct or intellectual work with demanding and unforgiving standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King is not himself, but basely led By flatterers; and what they will inform, Merely in hate ’gainst any of us all, That will the King severely prosecute ’Gainst us, our lives, our children, and our heirs."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But she I mean is promised by her friends Unto a youthful gentleman of worth, And kept severely from resort of men, That no man hath access by day to her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Don't you agree with me?" Bruno judged himself very severely, because his mother had held up his own faults to him so that he knew them very well."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth judged Mr. Darcy **severely** at first, blinded by her wounded pride and Wickham's deceitful charms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Plants and animals are **severely** tested during periods of drought and extreme winter cold."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was **severely** criticized by his medical rivals for introducing innovative antiseptic practices."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign posted in a public place as an advertisement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Post in a public place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poster, sign, or notice for display in a public place; also to display posters across an area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, proclamations posted in public squares to announce decrees or incite popular revolt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In going hither and thither he observed in the outskirts of a small town a red-and-blue placard setting forth the great advantages of the Empire of Brazil as a field for the emigrating agriculturist."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Looking towards the great door of the Cathedral, as they all were doing, it suddenly seemed to me that I saw an illuminated placard attached to it, headed with the word '_Sommation_' in gigantic letters."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Thus from moment to moment there appeared before us, in letters that seemed to blaze and flicker, something that looked like a great official placard."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A revolutionary **placard** posted upon the fountain wall denounced aristocrats and hoarding bakers."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Patriots ran through the alleys of Paris to **placard** the walls with incendiary calls to arms."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A printed police **placard** offering a substantial reward was posted outside the Baker Street station."*

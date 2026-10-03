@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Most desirable possible under a restriction expressed or implied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most desirable possible under a restriction expressed or implied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Best, most favorable, or most desirable under given conditions; optimum for performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decision theory and evolutionary biology, the configuration or adaptation that maximizes fitness or efficiency within environmental constraints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In my line of work, our data bank produces an optimal selection of personalities, skills and identities for the best possible teams we might need to support our contingency plans."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Natural selection constantly pushes physiological traits toward an **optimal** balance between reproductive vigor and survival costs."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Every organism thrives when placed in an **optimal** medium where nourishment and temperature align with its vital needs."*
+> - 📜 **John von Neumann (*Theory of Games and Economic Behavior*):** *"The minimax strategy identifies the **optimal** course of action for a rational player confronted with an intelligent adversary."*

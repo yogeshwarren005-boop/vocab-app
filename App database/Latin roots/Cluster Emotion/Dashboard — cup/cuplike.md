@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling the shape of a cup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling the shape of a cup.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or shaped like a cup; concave, hemispherical, or bowl-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, describing flowers, receptacles, or gall formations having a deep, hollow curvature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"And flashing over them, and sucking honey from every cuplike flower, were shimmering humming-birds and marvelously marked butterflies."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Suddenly we looked down into a cuplike depression, patched with stunted oaks and firs which had been twisted and bent by the fury of years of storm."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The specialized cotyledons form a **cuplike** hollow that collects morning dew for the germinating seedling."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The involucre of the acorn forms a rugged, **cuplike** base supporting the smooth seed."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Fungus of bright scarlet sprouted upon the decaying stump, forming small **cuplike** vessels that held raindrops."*

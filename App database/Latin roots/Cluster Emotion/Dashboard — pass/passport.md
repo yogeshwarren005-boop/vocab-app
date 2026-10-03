@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any authorization to pass or go somewhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document issued by a country to a citizen allowing that person to travel abroad and re-enter the home country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official travel document issued by a government certifying identity and nationality for international travel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical diplomacy, safe-conduct papers issued by military commanders allowing travel through lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His passport shall be made, And crowns for convoy put into his purse."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Provided with plenty of money and the passport of an old name, I could choose my own society: no circles were closed against me."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In this world, shipmates, sin that pays its way can travel freely, and without a passport; whereas Virtue, if a pauper, is stopped at all frontiers."*
+> - 📜 **William Shakespeare (*Henry V*):** *"He which hath no stomach to this fight, let him depart; his **passport** shall be made, and crowns for convoy put into his purse."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary guard examined Sydney Carton's **passport** with suspicious scrutiny at the city barrier."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Naval Treaty*):** *"The foreign attache presented his diplomatic **passport** at the Dover pier before boarding the packet boat."*

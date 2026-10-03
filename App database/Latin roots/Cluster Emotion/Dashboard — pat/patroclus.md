@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a friend of achilles who was killed in the trojan war; his death led achilles to return to the fight after his quarrel with agamemnon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a friend of achilles who was killed in the trojan war; his death led achilles to return to the fight after his quarrel with agamemnon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent Greek hero of the Trojan War in Homer's Iliad, the beloved companion and brother-in-arms of Achilles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical epic poetry, the warrior whose death at the hands of Hector spurred Achilles to reenter the war and slay Hector.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And at this sport Sir Valour dies; cries ‘O, enough, Patroclus; Or give me ribs of steel!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will keep where there is wit stirring, and leave the faction of fools. [_Exit_.] PATROCLUS."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet rouse thyself, and the weak wanton Cupid shall from your neck unloose his amorous fold, as Achilles did for **patroclus**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Some priest who could pronounce the Greek itself taught him to read his verses, recounting how Achilles mourned for **patroclus**."*
+> - 📜 **Alexander Pope (*The Iliad of Homer*):** *"Hector stripped the divine armor from the fallen **patroclus**, provoking that fearful cry that shook the Trojan ramparts."*

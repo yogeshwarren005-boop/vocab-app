@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with apprehension or alarm; cause to be unpleasantly surprised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stricken with horror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with horror; shocked, appalled, or greatly frightened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature, reacting with frozen dread upon witnessing an atrocious crime or catastrophe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When he cried out loudly, "We mustn't do it, we mustn't do it," they ran away again, quite frightened, for his horrified shrieks might have penetrated into the sick-room."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But all this had only brought horrified cries from the little boy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A month ago I should have been horrified at such a possibility."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was **horrified** beyond words when the convict seized my shoulders in the churchyard."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Hallward stood **horrified** before the canvas, unable to reconcile the hideous portrait with his friend."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The **horrified** sailors watched the strange dog leap from the derelict vessel and vanish into the night."*

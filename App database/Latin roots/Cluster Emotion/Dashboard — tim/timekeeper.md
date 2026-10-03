@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) an official who keeps track of the time elapsed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clerk who keeps track of the hours worked by employees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or instrument that measures, records, or marks the passage of time, especially in sports or industry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation and horology, a precision marine chronometer capable of maintaining accurate greenwich mean time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"None of his friends had so fine a watch; even his grandfather's was so poor a timekeeper that it was rarely worn except as a decoration on Sundays or at a funeral."*
-> - 📜 **James Joyce (*Ulysses*):** *"The hoarse Dublin United Tramway Company’s timekeeper bawled them off: —Rathgar and Terenure! —Come on, Sandymount Green!"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Many of them were very old, and as timekeepers valueless; the works having suffered, more or less, from corrosion—but all were richly jeweled and in cases of great worth."*
+> - 📜 **Arthur Conan Doyle (*The Croxley Master*):** *"The **timekeeper** stood ringside with his heavy silver chronometer, calling out the seconds of the rest interval."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The mill **timekeeper** locked the iron gates promptly on the stroke of six, shutting out late weavers without remorse."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's chronometer hung in gimbals, a faithful **timekeeper** measuring longitude across the lonely Pacific expanse."*

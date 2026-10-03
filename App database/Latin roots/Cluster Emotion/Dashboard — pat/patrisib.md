@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One related on the father's side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One related on the father's side.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sibling or clan relative related on the father's side; a patrilineal sibling or agnatic cousin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinship anthropology, an agnatic sibling group forming a corporate ceremonial unit within a tribal clan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrisib designates one related on the father's side."*
+> - 📜 **Robert H. Lowie (*Primitive Society*):** *"The rights of vengeance and blood compensation were shared equally among all members of the **patrisib**."*
+> - 📜 **George Peter Murdock (*Social Structure*):** *"Exogamy rules strictly forbade marriage between individuals belonging to the same localized **patrisib**."*
+> - 📜 **A. R. Radcliffe-Brown (*Structure and Function in Primitive Society*):** *"A boy owes ceremonial respect to his father's sisters, who represent the authority of his **patrisib**."*

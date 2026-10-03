@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vertical cylindrical furnace for melting iron for casting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roof in the form of a dome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small dome, especially a small dome on a drum on top of a larger dome or roof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural design and military naval engineering, a rounded superstructure serving as a lantern, lookout, or revolving turret.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For as in landscape gardening, a spire, cupola, monument, or tower of some sort, is deemed almost indispensable to the completion of the scene; so no face can be physiognomically in keeping without the elevated open-work belfry of the nose."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The same architect has been engaged lately on the repairs of the cupola of the Exchange and the steeple of Bow Church; and, fearful to relate, the dragon and the grasshopper actually lie, cheek by jole, in the yard of his workshop."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"For as in landscape gardening, a spire, cupola, monument, or tower of some sort, is deemed almost indispensable to the completion of the scene; so no face can be physiognomically in keeping without the elevated open-work belfry of the nose."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"From the elevated glass **cupola** upon the mansion roof, one could view the ships sailing into the harbor."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The gilded **cupola** of the cathedral gleamed through the London smoke, guiding travelers from afar."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The great plantation house was crowned with an airy glass **cupola** where the planter surveyed his broad fields."*

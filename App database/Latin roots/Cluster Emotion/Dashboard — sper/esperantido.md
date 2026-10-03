@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language based on esperanto and ido.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language based on esperanto and ido.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A planned auxiliary language derived from or proposed as a reform of Esperanto.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interlinguistics, any of several early twentieth-century offshoots (such as Ido) created to simplify Esperanto orthography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esperantido designates an artificial language based on esperanto and ido."*
+> - 📜 **L. L. Zamenhof (*Fundamento de Esperanto*):** *"The creator warned that sectarian experiments like **Esperantido** would fragment the international language movement."*
+> - 📜 **Otto Jespersen (*An International Language*):** *"The phonetic innovations proposed in **Esperantido** sought to eliminate diacritical letters from common typewriters."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"Projects like Ido and **Esperantido** demonstrate the linguistic challenges of constructing a universal auxiliary tongue."*

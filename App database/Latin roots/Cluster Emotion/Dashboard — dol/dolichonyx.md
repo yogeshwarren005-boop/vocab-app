@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bobolinks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bobolinks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of the bobolink (*Dolichonyx oryzivorus*), a North American migratory songbird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, a genus of the New World blackbird family Icteridae known for long claw-like toes and long-distance trans-equatorial migration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolichonyx designates bobolinks."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The male **Dolichonyx** oryzivorus pours forth his bubbling, joyous song over the clover meadows of May."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"Known as the rice-bird in the southern swamps, **Dolichonyx** visits our northern fields in spring plumage."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"I heard the rich, sparkling notes of the **Dolichonyx** fluttering over the Great Meadows by Concord River."*

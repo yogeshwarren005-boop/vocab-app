@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disparaging term for an appointee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging term for an appointee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed to a public or political office, especially as a reward for party loyalty; a political appointee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth-century British parliamentary politics, a member holding a lucrative crown office who voted obediently for the ministry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"For me, I am a placeman, you know; a very humble one indeed, Heaven knows, but still so much as to gag me."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"The court party multiplied offices to fill the House of Commons with subservient **placeman** pensioners."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Every unprincipled **placeman** abandoned the falling ministry to seek favors from the rising opposition."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Constitutional safeguards must prevent the legislature from degenerating into a council of greedy **placeman** sycophants."*

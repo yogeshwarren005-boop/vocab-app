@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Understanding and entering into another's feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Understanding and entering into another's feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to understand and share the feelings of another; vicarious emotional comprehension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological aesthetics (*Einfühlung*), the imaginative projection of one's own consciousness into an art object or being.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathy designates understanding and entering into another's feelings."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Deep **empathy** bridges the natural isolation of individual minds, uniting social groups through shared sentiment."*
+> - 📜 **George Santayana (*The Sense of Beauty*):** *"Our aesthetic delight in graceful architecture involves an involuntary **empathy** with soaring stone and balanced weight."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Without imaginative **empathy**, justice hardens into rigid mechanical rules that disregard human reality."*

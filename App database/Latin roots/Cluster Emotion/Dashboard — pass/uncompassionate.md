@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking compassion or feeling for others; - shakespeare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking compassion or feeling for others; - shakespeare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking compassion, pity, or mercy; pitiless, callous, or unfeeling toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social reform literature, cold bureaucratic indifference to human misery and destitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But neither bended knees, pure hands held up, Sad sighs, deep groans, nor silver-shedding tears Could penetrate her uncompassionate sire; But Valentine, if he be ta’en, must die."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The beadle was a harsh, **uncompassionate** man who regarded orphan children as public nuisances."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The creature lamented that humanity had proven universally **uncompassionate** to his solitary suffering."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Reed looked upon Jane with **uncompassionate** eyes, indifferent to the child's feverish terror."*

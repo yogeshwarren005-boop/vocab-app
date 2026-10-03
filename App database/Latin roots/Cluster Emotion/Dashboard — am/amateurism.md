@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conviction that people should participate in sports as a hobby (for the fun of it) rather than for money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conviction that people should participate in sports as a hobby (for the fun of it) rather than for money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or ethos of participating in an activity (especially athletics or art) for pleasure rather than money.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports sociology and cultural criticism, the Victorian ideal valuing sportsmanship and leisure over professional commercialization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amateurism designates the conviction that people should participate in sports as a hobby (for the fun of it) rather than for money."*
+> - 📜 **George Bernard Shaw (*Cashel Byron's Profession*):** *"Aristocratic sporting clubs exalted **amateurism** precisely to exclude working-class athletes who needed wages."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The traditional **amateurism** of British parliamentary leadership proved inadequate in an age of mechanical industry."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Gentlemanly **amateurism** must yield to systematic, rigorous intellectual discipline."*

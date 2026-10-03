@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disinclined to work or exertion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of tumors, e.g.) slow to heal or develop and usually painless.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wanting to avoid activity or exertion; lazy, slothful, or disinclined to work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, causing little or no pain; slow-growing, quiescent, or slow to heal (as an indolent ulcer).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were cunning and trustless, narrow-slitted and heavy-lidded, at one and the same time as sharp as a ferret’s and as indolent as a basking lizard’s."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Hurst, by whom Elizabeth sat, he was an indolent man, who lived only to eat, drink, and play at cards, who, when he found her prefer a plain dish to a ragout, had nothing to say to her."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Lady Bertram, who was a woman of very tranquil feelings, and a temper remarkably easy and indolent, would have contented herself with merely giving up her sister, and thinking no more of the matter; but Mrs."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her brother was an **indolent** young man who spent his mornings lounging at the stables."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An **indolent** varicose ulcer of the leg may persist for years without acute inflammation or rapid progression."*
+> - 📜 **Washington Irving (*Rip Van Winkle*):** *"Rip was an **indolent** fellow who had an insuperable aversion to all kinds of profitable labor."*

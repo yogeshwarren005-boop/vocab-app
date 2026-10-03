@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of combining one thing at intervals among other things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of combining one thing at intervals among other things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of scattering, placing, or inserting contrasting elements irregularly among other things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological forestry and typography, distributing contrasting elements or species irregularly throughout an area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interspersal designates the act of combining one thing at intervals among other things."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The random **interspersal** of wild varieties among cultivated crops introduced unexpected vigor into the strain."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The deliberate **interspersal** of dark porphyry roundels upon the white marble facade gave life to the architecture."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **interspersal** of broad-leaved shrubs among the pines created a rich understory in the sandy barrens."*

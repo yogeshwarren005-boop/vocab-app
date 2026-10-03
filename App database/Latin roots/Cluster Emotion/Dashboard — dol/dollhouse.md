@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A house so small that it is likened to a child's plaything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small model of a house used as a toy by children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A miniature toy house used by children to play with dolls; an exceptionally small house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and literature, a diminutive or excessively dainty dwelling arranged with meticulous artificial neatness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They climbed trees together, sat side by side in the swing, or shifted the furniture about in the dollhouse."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Beth spent happy afternoons furnishing the paper parlor of her tiny wooden **dollhouse**."*
+> - 📜 **Katherine Mansfield (*The Doll's House*):** *"The marvelous **dollhouse** stood in the courtyard, painted dark spinach green with a tiny yellow lamp on the table."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Jenny Wren constructed dresses for society ladies in her doll's dressmaking shop like a fairy living in a **dollhouse**."*

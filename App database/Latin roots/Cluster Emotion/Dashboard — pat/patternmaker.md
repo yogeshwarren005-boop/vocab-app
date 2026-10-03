@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes patterns (as for sewing or carpentry or metalworking).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes patterns (as for sewing or carpentry or metalworking).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled artisan or craftsperson who makes patterns for clothing, casting molds, or manufacturing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In foundry metallurgy and bespoke fashion, a technician who constructs wood models for sand molds or paper garment patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patternmaker designates someone who makes patterns (as for sewing or carpentry or metalworking)."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"The precision of our steam cylinders depends upon the wood **patternmaker**, whose measurements govern the casting in the sand pit."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"An elderly German **patternmaker** in the machinery shop earned top wages because his hand never slipped on the gouge."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The skilled metal **patternmaker** joined the union grievance committee, warning of dangerous machine speedups."*

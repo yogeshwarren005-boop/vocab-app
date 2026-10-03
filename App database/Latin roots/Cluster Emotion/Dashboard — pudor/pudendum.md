@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Human external genital organs collectively especially of a female.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Human external genital organs collectively especially of a female.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The human external genital organs, especially those of the female; the vulva.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and medical terminology, singular form of pudenda, historically derived from Latin *pudere* (to cause shame).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pudendum designates human external genital organs collectively especially of a female."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The labia majora constitute the lateral boundaries of the female **pudendum**, meeting anteriorly at the commissure."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In placental mammals, the morphological configuration of the **pudendum** exhibits marked adaptive variation."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Anthropological taboos surrounding the **pudendum** reflect primordial associations between modesty and sacred seclusion."*

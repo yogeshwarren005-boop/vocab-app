@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a passive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a passive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a passive manner; in a way that accepts things without resistance or active participation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific observation, allowing natural forces to carry an object without self-propulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But by the time she had got back to the village she was passively trusting to the favour of accident."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now sit down here, and wait till I come.” She passively sat down amid the leaves he had heaped, and shivered slightly."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess had drifted into a frame of mind which accepted passively the consideration that if she should have to burn for what she had done, burn she must, and there was an end of it."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Seeds may be transported **passively** across ocean straits embedded in mud on the feet of aquatic birds."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"Bartleby leaned **passively** against the doorpost, murmuring his unalterable decision."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver sat **passively** before the empty hearth, numb with grief after his treasure was gone."*

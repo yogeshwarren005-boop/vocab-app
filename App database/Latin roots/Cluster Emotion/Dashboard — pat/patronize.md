@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume sponsorship of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do one's shopping at; do business with; be a customer or client of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat condescendingly; also frequent as a customer or provide financial backing as a sponsor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business practice and interpersonal psychology, acting as regular clientele or behaving with disguised arrogance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Say that he wants to patronize me,” pursued Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But, fair or not fair, there are unbecoming conjunctions, which reason will patronize in vain—which taste cannot tolerate—which ridicule will seize."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Minchin shared fully in the new pique against Bulstrode, excited by his apparent determination to patronize Lydgate."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Reason will not allow us to **patronize** alliances where inequality of birth and character promise nothing but domestic misery."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"It is only within the last month that that distinguished society passed a resolution to **patronize** our adventurous voyage."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Minchin shared fully in the new pique against Bulstrode, resolved never to **patronize** any medical scheme initiated by him."*

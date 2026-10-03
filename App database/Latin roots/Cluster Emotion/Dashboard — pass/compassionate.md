@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the suffering of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or having compassion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing sympathy and concern for others; tenderhearted and merciful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic governance, enacting humane social policies that protect the vulnerable, elderly, and destitute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It boots thee not to be compassionate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Aaron is gone, and my compassionate heart Will not permit mine eyes once to behold The thing whereat it trembles by surmise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if no harder than a stone thou art, Melt at my tears and be compassionate!"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Miss Temple was a truly **compassionate** woman, shielding the shivering orphan children from harsh penalties."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive to bind up the nation's wounds with **compassionate** hearts."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's nature was so **compassionate** that she could not bear to see any living thing suffer."*

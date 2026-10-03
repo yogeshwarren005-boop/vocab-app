@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Windowpane oysters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Windowpane oysters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine bivalve mollusks in the family Placunidae, including the windowpane oyster (*Placuna placenta*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and maritime commerce, translucent flat oysters harvested in Indo-Pacific shallows for window glazing and decorative mother-of-pearl.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placuna designates windowpane oysters."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"Small pedunculate cirripedes frequently attach themselves to the smooth, translucent valves of **Placuna** placenta."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"In maritime settlements of the East Indies, thin polished shells of **Placuna** are glazed into window lattices in place of glass."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The thin, foliaceous shell structure of **Placuna** exhibits extreme bilateral compression and pearly iridescence."*

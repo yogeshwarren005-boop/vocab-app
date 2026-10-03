@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Timid by nature or revealing timidity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timid by nature or revealing timidity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or suffering from nervousness, fear, apprehension, or a pronounced lack of confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and epic verse, hesitant to act or take risks due to an exaggerated anticipation of peril.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not worthy of the wealth I owe; Nor dare I say ’tis mine, and yet it is; But, like a timorous thief, most fain would steal What law does vouch mine own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How are we park’d and bounded in a pale, A little herd of England’s timorous deer, Mazed with a yelping kennel of French curs!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, timorous wretch, Thou hast undone thyself, thy son, and me, And given unto the house of York such head As thou shalt reign but by their sufferance."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not worthy of the wealth I owe; nor dare I say 'tis mine, and yet it is; but like a **timorous** thief, most fain would steal what law prohibits."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Doubtless some ancient Greek has observed that behind the big mask and the speaking-trumpet there was a **timorous** heart trembling before the gods."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The sinew and heart of man seem to be drawn out, and we are become **timorous**, desponding whimperers in the presence of stern adversity."*

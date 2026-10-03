@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being at the right time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timely convenience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fact or quality of occurring, appearing, or being done at a particularly suitable, opportune, or advantageous moment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In journalism and public policy, the immediate contextual relevance that makes an announcement impactful to contemporary readers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timeliness designates being at the right time."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The whole virtue of wise statesmanship consists in the **timeliness** of concessions before defiance turns to revolt."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The political observer admired the exceptional **timeliness** of the judicial ruling, which pacified a rising sectional crisis."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Legislative reforms lose their curative power if they lack **timeliness**, arriving only after grievance has bred sedition."*

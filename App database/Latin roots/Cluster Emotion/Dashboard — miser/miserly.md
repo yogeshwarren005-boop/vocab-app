@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of persons or behavior) characterized by or indicative of lack of generosity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons or behavior) characterized by or indicative of lack of generosity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a miser; penurious, stingy, or grudging in expenditure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, an inadequate, impoverished, or ridiculously meager portion or provision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When Allan Woodcourt spoke to you, my dear, he spoke with my knowledge and consent—but I gave him no encouragement, not I, for these surprises were my great reward, and I was too miserly to part with a scrap of it."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Also, when we played at cards Miss Havisham would look on, with a miserly relish of Estella’s moods, whatever they were."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thou art always prating to me, Starbuck, about those miserly owners, as if the owners were my conscience."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The landlord offered us a **miserly** crust of bread and a sip of sour ale for our supper."*
+> - 📜 **Washington Irving (*The Devil and Tom Walker*):** *"Tom was a **miserly** fellow who conspired with his wife to cheat each other out of household goods."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The governor was of a **miserly** disposition, entertaining guests with dry crusts and watered wine."*

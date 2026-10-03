@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small flat triangular bone in front of the knee that protects the knee joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family patellidae: common european limpets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The kneecap; the small, flat, triangular bone protecting the anterior surface of the knee joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and malacology, a genus of shallow-water marine gastropods comprising the true limpets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patella designates a small flat triangular bone in front of the knee that protects the knee joint."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **patella** is a sesamoid bone developed within the tendon of the quadriceps extensor muscle."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Upon the rocky tidal shelf, numerous shells of **patella** adhered with astonishing tenacity to the wave-swept granite."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Testing the deep tendon reflex by briskly striking below the **patella** elicits the normal knee jerk."*

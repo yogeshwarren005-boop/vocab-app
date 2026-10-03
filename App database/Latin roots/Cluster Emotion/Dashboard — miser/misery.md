@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of ill-being due to affliction or misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of intense unhappiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or feeling of great physical or mental distress or discomfort; extreme unhappiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socioeconomic narrative, chronic destitution, deprivation, and suffering caused by poverty or war.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But when we in our viciousness grow hard— O misery on’t!—the wise gods seal our eyes, In our own filth drop our clear judgments, make us Adore our errors, laugh at’s while we strut To our confusion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And we two will rail against our mistress the world and all our misery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But seven years since, in Syracusa, boy, Thou know’st we parted; but perhaps, my son, Thou sham’st to acknowledge me in misery."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"**Misery** acquaints a man with strange bedfellows; I will here shroud till the dregs of the storm be past."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"So long as there shall exist, by reason of law and custom, a social condemnation creating artificial hells, so long shall **misery** endure."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The wretched boy endured untold **misery** in the workhouse undertaker's shop, sleeping among coffins."*

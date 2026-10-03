@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A more or less definite period of time now or previously present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arithmetic operation that is the inverse of division; the product of two numbers is computed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occasions, eras, multiplicative mathematical operations, or prevailing historical conditions and circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural commentary, the moral, political, and philosophical climate characteristic of a historical generation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or call it winter, which being full of care, Makes summer’s welcome, thrice more wished, more rare. 57 Being your slave what should I do but tend, Upon the hours, and times of your desire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet to times in hope, my verse shall stand Praising thy worth, despite his cruel hand. 61 Is it thy will, thy image should keep open My heavy eyelids to the weary night?"*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten **times** more in worth than those old nine which rhymers invocate."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was the best of **times**, it was the worst of **times**, it was the age of wisdom, it was the age of foolishness."*
+> - 📜 **Thomas Paine (*The American Crisis*):** *"These are the **times** that try men's souls; the summer soldier and the sunshine patriot will shrink from service."*

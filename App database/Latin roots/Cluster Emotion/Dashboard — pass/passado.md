@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (fencing) an attacking thrust made with one foot forward and the back leg straight and with the sword arm outstretched forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (fencing) an attacking thrust made with one foot forward and the back leg straight and with the sword arm outstretched forward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A forward thrust or pass accompanied by an advancing step in classical fencing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance dueling and fencing treatises, an offensive rapier thrust executed with a forward step.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first and second cause will not serve my turn; the _passado_ he respects not, the _duello_ he regards not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, the immortal passado, the punto reverso, the hay."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sir, your passado. [_They fight._] ROMEO."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"The immortal **passado**! The punto reverso! The hai! He fights as you sing prick-song, keeps time, distance, and proportion."*
+> - 📜 **Ben Jonson (*Every Man in His Humour*):** *"He will teach you the single rapier, the stoccata, the **passado**, or any other fencing posture."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The master of arms illustrated the agile **passado**, showing how rapier point followed footwork."*

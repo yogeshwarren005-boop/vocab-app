@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the intima.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the intima.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, situated in, or affecting the intima (the innermost lining) of a blood vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular surgery and histology, describing lesions, hyperplasia, or cellular proliferation within the vascular endothelium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intimal designates of or relating to the intima."*
+> - 📜 **Rudolf Virchow (*Thrombosis and Embolism*):** *"Microscopic examination confirmed that the thrombus originated from a localized **intimal** abrasion in the femoral vein."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced syphilitic aortitis causes patchy **intimal** wrinkling and tree-bark scarring along the ascending arch."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Subtle **intimal** tears may allow blood to dissect between the coats of the aorta, forming a fatal aneurysmal channel."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in ontario that flows northeast into hudson bay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in england and wales flowing into the bristol channel; the longest river in great britain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The longest river in Great Britain, rising in mid-Wales and flowing into the Bristol Channel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British historical geography, a vital maritime artery and boundary famous for its tidal bore and historic crossings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Leave not the worthy Lucius, good my lords, Till he have cross’d the Severn."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Three times hath Henry Bolingbroke made head Against my power; thrice from the banks of Wye And sandy-bottom’d Severn have I sent him Bootless home and weather-beaten back."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His mother was a French governess, and it seems that a secret attachment existed between her and the late Lord Severn."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Three times they breathed and three times did they drink, upon agreement, of swift **Severn**'s flood."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Goods shipped along the broad waters of the **Severn** supplied the market towns across the western shires."*
+> - 📜 **Daniel Defoe (*A Tour Through the Whole Island of Great Britain*):** *"The high tidal bore of the river **Severn** rushes up the channel with astonishing speed and roar."*

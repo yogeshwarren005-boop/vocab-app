@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not passionate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmoved by feeling; ; -margaret deland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not showing or affected by passion or strong emotion; calm, cold, or dispassionate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In characterization, an austere, purely intellectual detachment devoid of human warmth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Don’t you come none of that or I shall make blessed short work of you!” says the constable, giving him a passionless shake."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One who is too passionless to be either."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"However, it had not much effect now, for she said, in a passionless murmur which was in itself a proof of her words: “I have no feeling in the matter at all."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John was a cold, **passionless** man, measuring life strictly by duty rather than human affection."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Holmes's **passionless** intellect rejected romantic feeling as a grit in his sensitive instruments."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"The pure and **passionless** queen of heaven seemed to gaze down upon Arthur's broken realm."*

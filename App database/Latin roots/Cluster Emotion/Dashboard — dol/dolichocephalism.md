@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dolichocephalic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dolichocephalic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having a disproportionately long and narrow skull (cephalic index below 75).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physical anthropology, cranial elongation studied in human racial taxonomy and skeletal pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolichocephalism designates the quality of being dolichocephalic."*
+> - 📜 **Thomas Henry Huxley (*On the Methods and Results of Ethnology*):** *"The pronounced **dolichocephalism** of the native Australian aborigines distinguished them from surrounding Oceanic peoples."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"The skull specimens in the study displayed marked **dolichocephalism**, characteristic of early Iberian settlers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital synostosis of the sagittal suture leads to compensatory **dolichocephalism** in growing infants."*

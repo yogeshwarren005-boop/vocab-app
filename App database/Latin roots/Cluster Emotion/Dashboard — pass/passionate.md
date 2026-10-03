@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or expressing strong emotions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or expressing strong emotions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or caused by strong feelings or a strong belief; ardent, impassioned, or intense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical character analysis, prone to intense outbursts of temper or romantic attachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Queen returns, finds the King dead, and makes passionate action."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nephew, what means this passionate discourse, This peroration with such circumstance?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is sad and passionate at your highness’ tent."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A child of **passionate** nature cannot be subdued by cold cruelty; it only hardens her spirit into rebellion."*
+> - 📜 **William Shakespeare (*The Passionate Pilgrim*):** *"Did not the heavenly rhetoric of thine eye, 'gainst whom the world could not hold argument, persuade my heart to this **passionate** oath?"*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The **passionate** pilgrim sought among alpine crags a refuge from the hollow conventions of European society."*

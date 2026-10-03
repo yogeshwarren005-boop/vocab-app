@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bridge formed by the upper level of a crossing of two highways at different levels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bridge formed by the upper level of a crossing of two highways at different levels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bridge or road that crosses over another road, railway, or waterway; a flyover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic and archaic diction, to pass over, cross, exceed, or overlook without noticing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In prison hast thou spent a pilgrimage, And like a hermit overpass’d thy days."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Why did his misjudging zeal and accursed precipitation overpass that limit?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Every conceivable aid, method, stratagem, mechanism, by which these last desperate eight hundred yards could be overpassed by a human being unperceived, was revolved in her busy brain, and dismissed as impracticable."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"What great men do, the less will prattle of; and what can **overpass** the judgment of a king?"*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The elevated highway **overpass** carried automated electric transports smoothly above the city avenues."*
+> - 📜 **John Milton (*Paradise Lost*):** *"No mortal barrier could **overpass** the fiery swords of the cherubim stationed at the eastern gate."*

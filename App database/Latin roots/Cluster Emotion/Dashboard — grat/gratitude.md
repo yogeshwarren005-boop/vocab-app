@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of thankfulness and appreciation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of thankfulness and appreciation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of being thankful; readiness to show appreciation for and to return kindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, a foundational social virtue binding individuals into cooperative civil communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time was I did him a desired office, Dear almost as his life; which gratitude Through flinty Tartar’s bosom would peep forth, And answer thanks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the good gods forbid That our renowned Rome, whose gratitude Towards her deserved children is enrolled In Jove’s own book, like an unnatural dam Should now eat up her own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For since patiently and constantly thou hast stuck to the bare fortune of that beggar Posthumus, thou canst not, in the course of gratitude, but be a diligent follower of mine."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"With tears of genuine **gratitude**, Magwitch pressed my hands to his scarred lips upon the boat."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her heart whispered that he had done it for her, and **gratitude** soon ripened into genuine affection."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The sentiment of **gratitude** prompts us immediately to reward our benefactor with love and service."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make timid or fearful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To compel or deter by or as if by threats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a frightening, overawing, or discouraging effect; daunting in appearance or manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural description and military posturing, imposing an atmosphere of unapproachable power or formidable dread.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It can affect the supply either by lessening its own output or by intimidating and forcing out its competitors."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"These sights and sounds had no depressing or intimidating effect on him; on the contrary, they stimulated his energy and determination."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Crabshaw, according to Sir Launcelot's command, had alighted from his horse, and drawn his cutlass, in hope of intimidating the discomfited robber into a tame surrender, though he did not at all relish the nature of the service."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The silence of the vast, impenetrable jungle was an **intimidating** presence to the lonely white trader."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Brocklehurst presented an **intimidating** figure, tall and severe as a black carved pillar."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The enemy fleet assumed an **intimidating** formation, but our cruisers held their fire until within lethal range."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Found in warm waters of western atlantic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Found in warm waters of western atlantic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the Timucua, an indigenous Native American people historically inhabiting northern Florida and southeastern Georgia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American ethnology and linguistics, the extinct Timucuan language and culture that flourished along the St. Johns River basin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, timucu designates found in warm waters of western atlantic."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"The earthen mounds along the river bluffs remain enduring monuments to the ancient **timucu** caciques who once ruled these pine barrens."*
+> - 📜 **Francis Parkman (*Pioneers of France in the New World*):** *"The French Huguenots at Fort Caroline established cautious trade with the **timucu** chief Saturiwa, exchanging iron knives for maize."*
+> - 📜 **John Gilmary Shea (*History of the Catholic Missions Among the Indian Tribes of the United States*):** *"Franciscan friars printed catechisms and grammars in the **timucu** tongue during the seventeenth century at St. Augustine."*

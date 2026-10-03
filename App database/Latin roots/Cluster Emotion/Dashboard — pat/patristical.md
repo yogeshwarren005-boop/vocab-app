@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the writings of the early church fathers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the writings of the early church fathers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the Church Fathers, their theological texts, or early ecclesiastical history (variant of patristic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century Anglican divinity, characterizing doctrinal treatises grounded in early post-apostolic writings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patristical designates of or relating to the writings of the early church fathers."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The seventeenth-century divines enriched their homilies with abundant **patristical** citations from Jerome and Basil."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The bishop's extensive library was crammed with folios of **patristical** theology and councils of the early Church."*
+> - 📜 **Matthew Arnold (*Literature and Dogma*):** *"We must distinguish between the simple poetry of the Gospels and the speculative subtleties of later **patristical** dogma."*

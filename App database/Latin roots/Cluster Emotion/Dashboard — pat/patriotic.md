@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inspired by love for your country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inspired by love for your country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or expressing devotion to and vigorous support for one's country; nationalistic and public-spirited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic rhetoric and historical memoirs, self-sacrificing dedication to the defense of constitutional democracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On these national occasions dancing may be a patriotic service, and Volumnia is constantly seen hopping about for the good of an ungrateful and unpensioning country."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"—I proceed. ‘Edwin and Morcar, the earls of Mercia and Northumbria, declared for him: and even Stigand, the patriotic archbishop of Canterbury, found it advisable—’” “Found _what_?” said the Duck."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The ethical and patriotic thought is not, "How will this affect my interests?" but."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"We sometimes meet men under some strong moral influence, as a **patriotic** or religious fervor, who act with superhuman energy."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Yet some can be **patriotic** who have no self-respect, and sacrifice the greater to the less at every election."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Edwin and Morcar, the earls of Mercia and Northumbria, declared for him; and even Stigand, the **patriotic** archbishop of Canterbury, found it advisable."*

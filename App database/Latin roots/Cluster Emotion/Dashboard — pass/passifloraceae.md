@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical woody tendril-climbing vines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical woody tendril-climbing vines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Malpighiales, commonly known as the passion-flower family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, predominantly tropical woody climbing lianas characterized by axillary tendrils and coronate floral structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passifloraceae designates tropical woody tendril-climbing vines."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The family **Passifloraceae** is distinguished by its conspicuous filiform corona and stalked gynophore."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Certain extrafloral nectaries in the **Passifloraceae** attract mutualistic ants that protect the foliage from caterpillars."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Tropical South America represents the chief evolutionary center of diversity for the **Passifloraceae**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put together with a seam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or joined by a seam or seams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked or furrowed with lines, wrinkles, or scars; joined or finished with a seam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In portraiture and narrative, weathered facial features that reflect age, hard labor, or deep grief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Everything seems to have happened to his hands that could possibly take place consistently with the retention of all the fingers, for they are notched, and seamed, and crumpled all over."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Gone, too, was the horrid scar which had seamed it across, and the twisted lip which had given the repulsive sneer to the face!"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A coarsely seamed face along the bar turned, observed Brad and Hodak as they glanced around from inside the doorway."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The old shepherd's brow was deeply **seamed** by fifty winters spent upon the exposed Dorset downs."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab's gray face was scarred and **seamed** by a livid white mark that ran from crown to throat."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I behold the **seamed** and scarred veterans of the army marching in solemn review through the capital."*

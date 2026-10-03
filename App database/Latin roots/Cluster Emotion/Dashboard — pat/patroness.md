@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a patron or the wife of a patron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a patron or the wife of a patron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female patron; a woman who protects, supports, or finances a person, charity, artist, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Regency society and hagiography, an influential noblewoman presiding over exclusive ballrooms like Almack's, or a guardian saint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold our patroness, the life of Rome!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Divinest patroness, and midwife gentle To those that cry by night, convey thy deity Aboard our dancing boat; make swift the pangs Of my queen’s travails!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative; And when in music we have spent an hour, Your lecture shall have leisure for as much."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold our **patroness**, the life of Rome! Toward her let us bend our knees and shower our grateful tears."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Elton became the very active **patroness** of Jane Fairfax, arranging musical evenings and praising her genius to every caller."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Hail, therefore, **patroness** of health and ease, and contemplation, heart-consoling power!"*

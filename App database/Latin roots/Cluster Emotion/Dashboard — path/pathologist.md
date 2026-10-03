@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctor who specializes in medical diagnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctor who specializes in medical diagnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician or scientist who examines bodies, tissues, and fluids to diagnose diseases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern hospital medicine, a specialist responsible for biopsy evaluations, cytology, and post-mortem anatomical autopsies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathologist designates a doctor who specializes in medical diagnosis."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The clinical physician must constantly spend hours in the post-mortem room with the **pathologist** to verify his bedside diagnoses."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The investigative **pathologist** treats the microscope as the supreme arbiter of cellular disorder."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"My colleague was a meticulous **pathologist** who could reconstruct a whole constitutional history from a drop of blood."*

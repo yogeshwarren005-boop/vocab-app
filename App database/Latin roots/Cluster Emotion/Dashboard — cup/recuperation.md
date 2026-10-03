@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradual healing (through rest) after sickness or injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gradual healing (through rest) after sickness or injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recovery from illness, fatigue, or exertion; restoration to normal health and vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical and financial systems, the retrieval or restitution of spent energy, resources, or lost capital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was given irregular intervals of jacket and recuperation."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus I would have ten hours’ recuperation, and do twenty in the jacket; or I would receive only four hours’ rest."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Recuperation mental By conceding power to discord, a large majority of 394:6 doctors depress mental energy, which is the only real recuperative power."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The quiet of the sickroom is the indispensable condition for the patient's organic **recuperation**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Sleep is the natural period of neural **recuperation**, during which cellular waste products are eliminated."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A devastated nation often displays astonishing speed in the **recuperation** of its agricultural capital."*

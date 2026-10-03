@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make happy or satisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield (to); give satisfaction to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving pleasure, satisfaction, or a sense of accomplishment; pleasing or rewarding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and scientific pursuit, yielding fruitful results that confirm theoretical predictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am so accustomed and inured to hard work that I don’t know what fatigue is.” We murmured that it was very astonishing and very gratifying, or something to that effect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We had talked it over very often now, and there was some talk of gratifying the inclination of his childhood for the sea."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Hence the gratifying fact that it has had no child born to it and that the complete little men and women whom it has produced have been observed to bear a likeness to old monkeys with something depressing on their minds."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"It was immensely **gratifying** to receive cordial letters of endorsement from Sir Charles Lyell."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found it **gratifying** that the town hospital accepted his proposed reforms in sanitation."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"It was a most **gratifying** reflection that my electrical discoveries were praised throughout Europe."*

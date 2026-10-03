@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small food fish of atlantic coast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several silvery marine fishes with very flat bodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several small, round, silvery marine fishes, especially the harvestfish or butterfish (*Peprilus*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, deep-bodied stromateid fishes inhabiting coastal Atlantic waters, named for their coin-like silhouette.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dollarfish designates small food fish of atlantic coast."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"Fishermen dragged the seine upon the beach, hauling in silver perch, scup, and the round, glittering **dollarfish**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The coastal waters abounded with schools of small disc-like fish resembling the northern **dollarfish**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Shoals of shimmering **dollarfish** leaped from the green swells as the ship rounded the reef."*

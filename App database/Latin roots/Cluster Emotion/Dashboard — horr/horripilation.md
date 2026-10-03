@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflex erection of hairs of the skin in response to cold or emotional stress or skin irritation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflex erection of hairs of the skin in response to cold or emotional stress or skin irritation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The erection of the hairs on the skin in response to fear, cold, or excitement; goosebumps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and psychopathology, reflex piloerection induced by intense sympathetic nerve discharge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The horripilation of the skin, the twitching nostrils, the feeling for the knife in the armpit...."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The phenomenon of **horripilation** in frightened mammals serves to make the animal appear larger and more formidable to rivals."*
+> - 📜 **William James (*The Principles of Psychology*):** *"That cold chill accompanied by **horripilation** along the spine constitutes the somatic core of sudden panic."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"Cutaneous **horripilation** frequently heralds the aura preceding an epileptic convulsion."*

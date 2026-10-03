@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uncalled-for manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uncalled-for manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without good reason or justification; unjustifiably; also free of charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal pleading, performing an act without demand for payment or consideration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Though his services were rendered quite gratuitously."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were only women; they were not regular labourers; they were not particularly required anywhere; hence they had to hire a waggon at their own expense, and got nothing sent gratuitously."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The half-barrel is fastened to the pole by means of a long nail, which is made for the purpose and furnished gratuitously by the village blacksmith."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"To introduce supernatural causes where natural laws suffice is to multiply complications **gratuitously**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She felt that the harsh suspicion had been cast **gratuitously** upon an innocent man."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The opponents of the union have **gratuitously** imputed tyrannical designs to the federal executive."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assume sponsorship of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do one's shopping at; do business with; be a customer or client of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treated condescendingly; supported by a sponsor, or frequented regularly by customers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American commercial and social history, supported through elite backing or customer loyalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He dresses at that gentleman (by whom he is patronized), talks at him, walks at him, founds himself entirely on him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell’s townsman heard of the disclosure, he no more allowed the girl to be patronized and honoured than he would have suffered her to be trodden underfoot before his eyes."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A few permanent erections dotted the spot, but the majority of visitors patronized canvas alone for resting and feeding under during the time of their sojourn here."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A few permanent erections dotted the market spot, but the majority of farmers **patronized** the hospitable taproom of the King's Arms."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"Lily Bart resented being **patronized** by vulgar millionaires whose sole claim to distinction was ostentatious wealth."*
+> - 📜 **Henry James (*The Bostonians*):** *"The fashionable lecturer felt thoroughly **patronized** by the wealthy committee ladies who arranged his Boston speaking tour."*

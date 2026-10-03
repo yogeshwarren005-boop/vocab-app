@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with sperm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled with sperm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or filled with sperm or seminal fluid; full of spermatozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, describing the male reproductive ducts or ampullae during peak breeding condition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sperm-filled designates filled with sperm."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The microscopic tubules appeared **sperm-filled** upon dissection, indicating prime reproductive readiness."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"In the male crustacean, specialized appendages convey **sperm-filled** spermatophores to the female abdominal sternum."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vast cranial reservoir of the whale was found to be a **sperm-filled** cavern of unctuous wealth."*

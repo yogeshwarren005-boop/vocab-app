@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with a patina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with a patina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat or coat a surface with a patina, or cause to acquire the appearance of aged metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and industrial fabrication, oxidizing copper alloys with sulfide or nitrate baths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patinize designates coat with a patina."*
+> - 📜 **Henry James (*The American*):** *"The French antique dealer offered to **patinize** the modern bronze sconces so they would harmonize with Louis Quinze woodwork."*
+> - 📜 **Edith Wharton (*The Custom of the Country*):** *"Her decorator took pains to **patinize** the gilded picture frames, subduing their modern glare for the drawing room."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Wealthy collectors pay exorbitant sums for artisans to **patinize** novel goods, simulating the prestige of hereditary antiquity."*

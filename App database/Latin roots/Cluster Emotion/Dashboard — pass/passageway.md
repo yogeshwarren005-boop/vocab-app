@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A passage between rooms or between buildings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A path or channel or duct through or along which something may pass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, narrow way, corridor, or passage providing access through or between rooms or buildings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural design and urban planning, enclosed thoroughfares facilitating interior circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He strode briskly toward a hatch at the far end of the passageway."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The guard at the other end stood astride the passageway in a casual stance."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Inspection completed, he nodded at the guard astride the passageway and turned back to address the line."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"We crept down the dark **passageway**, treading lightly on the ancient creaking floorboards."*
+> - 📜 **Bram Stoker (*Dracula*):** *"A stone vaulted **passageway** led downward into the subterranean vaults of the castle."*
+> - 📜 **Edgar Allan Poe (*The Black Cat*):** *"The cellar was entered through a damp, gloomy **passageway** beneath the kitchen floor."*

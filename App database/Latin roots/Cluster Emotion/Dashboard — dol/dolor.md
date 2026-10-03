@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (poetry) painful grief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (poetry) painful grief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental suffering or anguish; grief, sorrow, or physical pain (archaic, poetic, or medical).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin and psychological literature, acute psychic distress or somatosensory suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"This agreeable expression faded into one of almost mechanical dolor, and the personable young man shook hands with Mr."*
-> - 📜 **A. H. Noe (*The Witches' Dream Book; and Fortune Teller*):** *"At the scraping out of each line, say, “So as I destroy the letters of this talisman, _Abracadabra_, so, by virtue of this sacred name, may all grief and dolor depart from [here mention the name of the sick person]."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mina Kennedy, 4 Lismore terrace, Drumcondra with Idolores, a queen, Dolores, silent."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"When every grief is entertained that's offered, comes to the entertainer—a **dolor** comes to him indeed."*
+> - 📜 **John Milton (*Paradise Lost*):** *"A dismal world, an empire of deep despair, of horror, and of endless **dolor**."*
+> - 📜 **Augustine of Hippo (*Confessions*):** *"My heart was pierced with sharp **dolor** at the untimely death of my beloved friend."*

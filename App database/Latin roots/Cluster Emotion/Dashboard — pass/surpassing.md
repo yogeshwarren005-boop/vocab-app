@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguish oneself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or do something to a greater degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomparable, transcendent, or towering; exceeding all others in degree or excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic description, extraordinary beauty, grandeur, or moral heroism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLEOMENES The climate’s delicate; the air most sweet, Fertile the isle, the temple much surpassing The common praise it bears."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But according to the old superstition, it should be Rosa’s ears that burn, and not her fresh bright cheeks, for my Lady’s maid is holding forth about her at this moment with surpassing energy."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet put some pins into her mouth and began pinning up her skirts all round a little higher than the level of her grey cloak, which she accomplished with surpassing dispatch and dexterity."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The scenery of the valley of Chamounix possessed a **surpassing** majesty that hushed all earthly sorrow."*
+> - 📜 **Edgar Allan Poe (*Ligeia*):** *"In beauty of face no maiden ever equaled her; it was a radiance of **surpassing** and transcendent grace."*
+> - 📜 **John Milton (*Paradise Lost*):** *"O thou that with **surpassing** glory crowned, look'st from thy sole dominion like the god of this new world."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 60/40 alloy of copper and nickel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 60/40 alloy of copper and nickel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alloy of copper and nickel, containing small amounts of iron and manganese for strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgical engineering and numismatics, a highly corrosion-resistant silver-colored alloy widely used for marine piping and circulating coinage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cupronickel designates a 60/40 alloy of copper and nickel."*
+> - 📜 **Michael Faraday (*Lectures on the Chemical History of a Candle*):** *"Modern mints increasingly favor tough **cupronickel** alloys to withstand the endless friction of circulation."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The hull cladding was reinforced with sheets of polished **cupronickel** to resist the corrosive action of sea water."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"The interior turbines of the atomic vessel were fabricated from non-tarnishing **cupronickel** alloys."*

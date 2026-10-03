@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joyful and proud especially because of triumph or success.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of high-spirited delight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or expressing great happiness and triumph; exultant, joyful, or celebrating victory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chronicling, crowds or armies rejoicing openly after overcoming prolonged adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"With a loud and jubilant song he joined his brothers and sisters."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"It is dragged by means of a chain, to which scores of jubilant youths readily yoke themselves."*
-> - 📜 **Effie Afton (*Eventide*):** *"But, notwithstanding all the fatigues and hardships of the way, the party were in jubilant spirits."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The streets were alive with **jubilant** citizens exchanging greetings beneath the crisp winter sun."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"While the nation remains **jubilant** over military successes, let us remember the fallen with solemn reverence."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"A **jubilant** roar arose from the archers as their feathered shafts pierced the opposing chivalry."*

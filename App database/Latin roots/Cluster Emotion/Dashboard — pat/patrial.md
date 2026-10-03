@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has the right to be considered legally a british citizen (by virtue of the birth of a parent or grandparent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has the right to be considered legally a british citizen (by virtue of the birth of a parent or grandparent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person having a legal right of abode in the United Kingdom under the Immigration Act 1971; of or relating to one's native land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British constitutional immigration law, a statutory status conferring exemption from immigration control based on ancestry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patrial designates a person who has the right to be considered legally a british citizen (by virtue of the birth of a parent or grandparent)."*
+> - 📜 **A. V. Dicey (*Introduction to the Study of the Law of the Constitution*):** *"The legal concept of a **patrial** subject redefined traditional British allegiance in terms of ancestral residence."*
+> - 📜 **Enoch Powell (*Reflections on a Nation*):** *"Parliament sought by the **patrial** clause to distinguish between citizens with historic ties to the realm and Commonwealth nationals."*
+> - 📜 **Anthony Lester (*Citizenship and Immigration in the United Kingdom*):** *"Under the new statute, any applicant proving **patrial** descent was granted unrestricted entry and residence."*

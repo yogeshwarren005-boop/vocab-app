@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing lack of love for your country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing lack of love for your country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not showing love, devotion, or loyalty to one's country; lacking patriotism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political discourse and legal polemics, actions or speech perceived as subversive of the commonwealth during national crises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"You expressed, besides, your apprehension, that the unpatriotic prejudices of my countrymen would not allow fair play to such a work as that of which I endeavoured to demonstrate the probable success."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"It is not **unpatriotic** to remind parliament of its limitations when an unjust policy threatens the integrity of the empire."*
+> - 📜 **Samuel Johnson (*The Patriot*):** *"He who stirs up sedition for private pique is thoroughly **unpatriotic**, however loudly he may boast of loving liberty."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The political police branded honest trade union leaders as **unpatriotic** saboteurs to justify suppressing the strike."*

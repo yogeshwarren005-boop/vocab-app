@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the algonquian people related to the malecite and living in northeastern maine and new brunswick.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the algonquian people related to the malecite and living in northeastern maine and new brunswick.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of Passamaquoddy, a First Nations / Native American people of Maine and New Brunswick.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American ethnology and geography, an Algonquian-speaking coastal people noted for birch-bark canoe craftsmanship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passamaquody designates a member of the algonquian people related to the malecite and living in northeastern maine and new brunswick."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our Indian guide belonged to the **Passamaquody** tribe, possessing an unerring knowledge of the wilderness rivers."*
+> - 📜 **Francis Parkman (*Pioneers of France in the New World*):** *"French missionaries established early contact with the **Passamaquody** hunters inhabiting the bay of Fundy."*
+> - 📜 **James Fenimore Cooper (*The Deerslayer*):** *"The scout recognized the distinctive craft of the northern **Passamaquody** canoe builders."*

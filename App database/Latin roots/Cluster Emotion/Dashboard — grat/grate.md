@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A frame of iron bars to hold a fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A harsh rasping sound made by scraping something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce food to small shreds by rubbing it on a serrated surface; also a metal framework of bars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emotional description, to irritate or have an unpleasant, raspy effect upon one's feelings or ears.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, through this grate, I count each one And view the Frenchmen how they fortify."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been content, sir, you should lay my countenance to pawn; I have grated upon my good friends for three reprieves for you and your coach-fellow Nym, or else you had looked through the grate like a gemini of baboons."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The rusty iron **grate** held a dismal little fire that scarcely warmed the cold office."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I have that within which passeth show; these but the trappings and the suits of woe; yet his questions **grate** upon my soul."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The harsh sound of the turning key seemed to **grate** against the silence of the corridor."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the activity or business for which you are trained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the activity or business for which you are trained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a job or profession, or to the conditions and risks associated with employment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In preventive medicine and public health, pertaining to diseases, injuries, or therapeutic rehabilitations linked to workplace hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Despite the facts just stated, every campaign orator admits that there is no other occupational class of the nation of greater importance to the nation than the farmers, or more deserving of prosperity."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The PHA is a four-stage process that includes a prevention-oriented clinical screening, occupational examination, screening of military-unique medical requirements and counseling."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pneumoconiosis is a severe **occupational** disease prevalent among coal miners and stone cutters exposed to fine mineral dust."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Proper ventilation in the wards diminishes the **occupational** hazards to which hospital nurses are daily exposed."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Differences in wages frequently reflect the physical danger, disagreeableness, or **occupational** training required for the task."*

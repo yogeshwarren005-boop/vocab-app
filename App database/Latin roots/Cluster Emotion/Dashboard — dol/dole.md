@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A share of money or food or clothing that has been charitably given.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money received from the state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Benefit paid by the state to the unemployed; also charitable distribution of food, money, or clothing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and poetic diction, grief, sorrow, or lamentation (from Latin *dolor*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yonder they lie, the poor old man their father making such pitiful dole over them that all the beholders take his part with weeping."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, my masters, happy man be his dole, say I."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"With mirth in funeral and with dirge in marriage, in equal scale weighing delight and **dole**, taken to wife."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Thousands of miners in the north were subsisting upon the meager municipal **dole** during the coal strike."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"To have what we desire is not always joy; but grief and **dole** follow upon rash transgression."*

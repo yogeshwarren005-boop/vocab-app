@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtain a patent for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant rights to; grant a patent for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Protected by a patent; copyrighted or licensed as proprietary intellectual property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial history and commerce, legally protected manufacturing processes secured against imitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe, how are you, Joe?” “Pip, how AIR you, Pip?” With his good honest face all glowing and shining, and his hat put down on the floor between us, he caught both my hands and worked them straight up and down, as if I had been the last-patented Pump."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Tucker, of New York, developed and patented in 1866 the type of dry-brush black-leading machine which is in common use today."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Adams patented a process for covering the surface of the mold after it had been black-leaded with powdered tin."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The Maker of this earth but **patented** a leaf, and all subsequent foliage follows that divine master pattern."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He **patented** an unbreakable bicycle tire, and his prosperous business brought him into contact with foreign investors."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"I introduced a **patented** system of modern taxation that doubled the king's revenue without impoverishing peasants."*

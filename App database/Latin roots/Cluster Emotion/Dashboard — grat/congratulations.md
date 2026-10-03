@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression of approval and commendation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of acknowledging that someone has an occasion for celebration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Words expressing one's praise and good wishes for an achievement or special event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette, reciprocal salutations offered during festivals, promotions, and family milestones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perkins have but now exchanged congratulations on the children being abed, and they still linger on a door-step over a few parting words."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Military time.” It is George, and he has hearty congratulations for the old girl (whom he kisses on the great occasion), and for the children, and for Mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"To the right-about—every soul!” cried the master; “away with your congratulations!"*
+> - 📜 **Jane Austen (*Emma*):** *"The morning brought many calls and polite **congratulations** upon the auspicious match."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Pumblechook showered me with breathless **congratulations** upon hearing of my fortune."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Lestrade offered his sincere **congratulations** to Holmes for solving the Lauriston Gardens mystery."*

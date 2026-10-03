@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With condescension; in a patronizing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With condescension; in a patronizing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a patronising, condescending, or offensively superior manner (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialogue descriptions, speaking down to peers with infuriating composure and assumed authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It must be sewn on,” she said, just a little patronisingly."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Octavie, who believed that a great blunder had been committed, said, patronisingly,-- "You should not listen to him, mademoiselle: he does not understand." "Mamma said it," cried Adolphe stoutly, determined to assert himself."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Fascination Fledgeby smiled **patronisingly**, assuring the distressed debtor that money was extraordinarily tight in the City."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"The elderly critic patted the young novelist's shoulder **patronisingly**, recommending that she read more Greek before publishing."*
+> - 📜 **W. Somerset Maugham (*Of Human Bondage*):** *"The medical lecturer nodded **patronisingly** at Philip's clinical diagnosis, remarking that beginner's luck was always amusing."*

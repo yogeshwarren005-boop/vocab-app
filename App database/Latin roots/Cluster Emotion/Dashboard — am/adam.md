@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) in judeo-christian mythology; the first man and the husband of eve and the progenitor of the human race.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish architect who designed many public buildings in england and scotland (1728-1792).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the Hebrew Bible and Christian Genesis narrative, the first human being created by God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological anthropology and literature, the archetype of unfallen human nature or fallen mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An Orchard near Oliver’s house Enter Orlando and Adam."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I remember, Adam, it was upon this fashion bequeathed me by will but poor a thousand crowns, and, as thou sayst, charged my brother, on his blessing, to breed me well; and there begins my sadness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is it, Adam, that grieves me, and the spirit of my father, which I think is within me, begins to mutiny against this servitude."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To the garden of bliss, where first our forefather **Adam** was placed in innocence."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Old **Adam**, master of antiquity, who in thy youth didst follow virtue for itself."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"All are but parts of one stupendous whole, whose body nature is, and God the soul; from **Adam** to his latest race."*

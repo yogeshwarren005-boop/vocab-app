@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not compatible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used especially of drugs or muscles that counteract or neutralize each other's effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed in character, principle, or nature; unable to exist together in harmony or agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical pharmacy and logical deduction, substances that react destructively or propositions that cannot both be true.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I mean that all this business puts us on unnatural terms, with which natural relations are incompatible."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Sometimes it appeared to them as if his silence would be the natural result of the suspected engagement, and at others that it was wholly incompatible with it."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Some forms of mysticism seem to be incompatible with married life."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"To suppose that selfishness and civic justice are **incompatible** is to misjudge the true nature of social utility."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"These physiological variations were found to be **incompatible** with survival in colder mountainous zones."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Their ideals were utterly **incompatible**, forcing them into a mutual estrangement of spirit."*

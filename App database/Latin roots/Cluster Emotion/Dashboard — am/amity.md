@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cordial disposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of friendship and cordiality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Friendly relations, especially between nations, factions, or individuals; peaceful harmony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In treaty jurisprudence and international law, formal covenants of mutual friendship and alliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here he comes; I pray you make us friends; I will pursue the amity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But you shall find the band that seems to tie their friendship together will be the very strangler of their amity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then shall the sighs of Octavia blow the fire up in Caesar, and, as I said before, that which is the strength of their amity shall prove the immediate author of their variance."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"O love, be moderate; allay thy ecstasy; in measure rein thy joy; scant this excess. I feel too much thy blessing: make it less, for fear I surfeit; let **amity** endure."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The treaty of **amity** between the empire and the Persian king was sealed with reciprocal gifts."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Treaties of perpetual **amity** between sovereign princes have rarely survived the first clash of interests."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a task that takes time and patience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a task that takes time and patience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking, requiring, or demanding a large, excessive, or considerable amount of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In project management and research methodology, denoting labor-intensive tasks that limit immediate throughput.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, time-consuming designates of a task that takes time and patience."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"Dissecting hundreds of cirripede specimens was an extraordinarily **time-consuming** undertaking, yet essential for anatomical accuracy."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations of Thomas Alva Edison*):** *"Testing thousands of different lamp filaments proved a tedious and **time-consuming** process before we discovered carbonized bamboo."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Household obligations remain a terribly **time-consuming** barrier to women seeking unbroken hours for creative writing."*

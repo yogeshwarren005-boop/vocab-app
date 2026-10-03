@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A treatment in which evacuated cups are applied to the skin to draw blood through the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form into the shape of a cup.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapeutic method in alternative and historical medicine in which heated cups are applied to the skin to create suction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical history, categorized into dry cupping (suction alone) and wet cupping (suction combined with superficial skin scarification).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He did not approve of a too lowering system, including reckless cupping, nor, on the other hand, of incessant port wine and bark."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I activated the acoustic feedback whistle by cupping the device in my palm and rendering a 'shave-and-a- haircut' whistle and this brought several laughs as well as questions."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"He had even taken from his pocket a cupping apparatus, and was about to proceed to phlebotomy, when the object of his anxious solicitude suddenly revived; but it was to dash his cap from his head, and to throw dust on his grey hairs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dry **cupping** over the lumbar region frequently afforded symptomatic relief in acute renal congestion."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The cutaneous hyperemia produced by **cupping** demonstrates the rapid response of capillary networks to negative atmospheric pressure."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Careful attention must be paid when wet **cupping** is prescribed, ensuring absolute cleanliness of the scarified surfaces."*

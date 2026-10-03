@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who murders their father.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The murder of your father.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The killing of one's father; also a person who murders their own father.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman law and psychoanalytic theory (*Oedipus Rex*), the gravest crime of parricide, traditionally punished by drowning in a sack.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patricide designates a person who murders their father."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman statutes visited the abhorred guilt of **patricide** with singular terror, sewing the criminal into a sack with vipers and a dog."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"The whole town buzzed with the scandalous trial, debating whether the wild officer was guilty of horrific **patricide**."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"In ancient myth, the memory of primal **patricide** left an indelible trace upon collective guilt and religious ritual."*

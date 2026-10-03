@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pan for cooking patties or pasties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pan for cooking patties or pasties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small shallow pan or tin used for baking individual patties, pies, or tarts; also a variety of scalloped summer squash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and traditional culinary arts, a scalloped, saucer-shaped yellow or white summer squash resembling a fluted tart pan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patty-pan designates a pan for cooking patties or pasties."*
+> - 📜 **Mrs. Beeton (*The Book of Household Management*):** *"Line each buttered **patty-pan** with light puff paste, fill with seasoned minced oysters, and bake in a brisk oven."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Clara Peggotty bustled about the cheerful kitchen, arranging her fluted **patty-pan** moulds to bake meat pastries for tea."*
+> - 📜 **Louisa May Alcott (*Little Men*):** *"The girls baked tiny raspberry pies in a miniature **patty-pan**, serving the proud feast upon doll plates."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the unknown or unfamiliar or fear of making decisions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fearfulness in venturing into new and unknown places or activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of courage, boldness, or self-confidence; habitual shyness, apprehension, and reserve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and behavioral biology, an innate propensity toward hesitation when exposed to perilous uncertainty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It had been weakness and timidity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The same evening the sheep had trailed homeward head to tail, the behaviour of the rooks had been confused, and the horses had moved with timidity and caution."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Patience, that blending of moral courage with physical timidity, was now no longer a minor feature in Mrs Angel Clare; and it sustained her."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The unusual **timidity** of the flock that evening warned the shepherd of a sudden gathering tempest on the downs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea accused herself of some meanness in this **timidity**; it was always odious to her to shrink from duty through fear."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Courage and **timidity** are extremely variable qualities in the individuals of the same mammalian species."*

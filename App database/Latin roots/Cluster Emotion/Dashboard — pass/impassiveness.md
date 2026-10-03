@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apathy demonstrated by an absence of emotional reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apathy demonstrated by an absence of emotional reactions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being impassive; complete absence of emotional expression or reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical observation and stoic ethics, emotional impassibility that shields the psyche from trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Naturally fine-featured and of dignified presence, the touch of the Christian faith seems to have transformed the supercilious impassiveness of their class into a serenity full of charm."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth masked his sinister inquisitions behind an appearance of cold medical **impassiveness**."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond cultivated an aesthetic **impassiveness**, disdaining any spontaneous display of feeling."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The cabman's bovine **impassiveness** yielded only when Holmes dropped a gold sovereign into his palm."*

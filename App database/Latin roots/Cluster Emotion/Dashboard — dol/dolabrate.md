@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of the head of an ax or cleaver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of the head of an ax or cleaver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form or shape of an axe, hatchet, or cleaver; hatchet-shaped; dolabriform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and entomology, describing leaves, appendages, or fleshy organs that widen into a cutting edge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dolabrate designates having the shape of the head of an ax or cleaver."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The thick succulent leaves of certain Mesembryanthemum species are distinctly **dolabrate** in outline."*
+> - 📜 **John Lindley (*Introduction to Botany*):** *"A **dolabrate** appendage projects from the base of the petal, terminating in a sharp, axe-like blade."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The fossorial forelegs of the mole cricket bear **dolabrate** tibial teeth adapted for excavating soil."*

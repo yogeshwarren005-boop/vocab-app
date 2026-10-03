@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Costing nothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without payment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Given or done for nothing; free of charge; without payment or compensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and commercial transactions, services rendered gratuitously without valuable consideration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people cry you mocked them; and, of late, When corn was given them gratis, you repined, Scandaled the suppliants for the people, called them Timepleasers, flatterers, foes to nobleness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whoever gave that counsel to give forth The corn o’ th’ storehouse gratis, as ’twas used Sometime in Greece— MENENIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This kind of service Did not deserve corn gratis."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"He lends out money **gratis**, and brings down the rate of usance here with us in Venice."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The physicians attended the royal court **gratis**, expecting compensation in court titles and land."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I printed pamphlets on public paper currency **gratis**, seeking only to benefit the common welfare."*

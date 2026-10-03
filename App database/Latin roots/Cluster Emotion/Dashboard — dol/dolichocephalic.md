@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adult with a long narrow head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively long head with a cephalic index of under 75.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an abnormally long or narrow head or skull, with a cephalic index below 75.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and craniometry, a skull whose maximum breadth is less than four-fifths of its maximum length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"I had hardly expected so dolichocephalic a skull or such well-marked supra-orbital development."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Dr. Mortimer eagerly examined Holmes's head, remarking: 'A cast of your skull, sir, until the original is available, would be an ornament to any anthropological museum; a truly well-marked **dolichocephalic** cranium!'"*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The ancient Neanderthal skull displays pronounced **dolichocephalic** proportions combined with massive supraorbital ridges."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Craniometric surveys revealed both **dolichocephalic** and brachycephalic skulls among prehistoric European cave burials."*

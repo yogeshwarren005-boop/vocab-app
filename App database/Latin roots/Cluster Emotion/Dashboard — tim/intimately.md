@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a close manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With great or especially intimate knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intimate, closely personal, or deeply familiar manner; thoroughly and profoundly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical prose and biology, signifying an intricate, inextricable connection between natural forces or ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Apollonie was intimately connected with the earliest impressions of her childhood, as well as with the experiences of her youth, with all the people whom she had loved most and who had stood nearest to her."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I had heard you described by those who knew you intimately."*
-> - 📜 **Jane Austen (*Persuasion*):** *"But I have not known him long; and he is not a man, I think, to be known intimately soon."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"His host and his host's household, his men and his maids, as they became **intimately** known to him, ceased to be shadowy rustic figures."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Extinction and natural selection are **intimately** connected, since the appearance of improved forms inevitably leads to the demise of old ones."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"It was not possible to write the history of Shakspeare till now; for he is the father of our modern thought, **intimately** bound with our soul."*

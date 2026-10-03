@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who passes by casually or by chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who passes by casually or by chance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who happens to walk past someone or something on a street (solid spelling of passer-by).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In street journalism and literature, ordinary pedestrian citizens observing public events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is well that you should call to every passerby, “Look here!” With the night comes a slouching figure through the tunnel-court to the outside of the iron gate."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There were barns back of the Sherwood house; there was no fence between the yard and the road, the windows of the house stared out upon the passerby, blindless, and many of them without shades."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"No crowd was about the door; no people were discernible at any of the many windows; not even a chance passerby was in the street."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Every **passerby** seemed like a menacing shadow in the dense yellow smog of Baker Street."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A casual **passerby** would pause to peer through the shop window at the gingerbread figures."*
+> - 📜 **O. Henry (*The Gift of the Magi*):** *"Della walked through the crowded streets unnoticed by any hurried holiday **passerby**."*

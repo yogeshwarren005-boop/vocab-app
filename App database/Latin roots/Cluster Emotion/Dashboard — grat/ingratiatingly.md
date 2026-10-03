@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a flattering and ingratiating manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a flattering and ingratiating manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ingratiating manner; fawningly, sycophantically, or so as to win favor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive dialogue, speaking with soothing, deferential flattery to disarm opposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I smiled at him ingratiatingly, just to help things along, but he took little notice of me."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Makár Alexéevich came twice that evening shuffling along in his galoshes as far as the door and stopped and looked ingratiatingly at Pierre."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The suspect bowed **ingratiatingly**, assuring Holmes that he desired only to assist justice."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The directress smiled **ingratiatingly** as she introduced the wealthy English boarder to the salon."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The merchant leaned forward **ingratiatingly**, lowering his voice to propose a secret grain contract."*

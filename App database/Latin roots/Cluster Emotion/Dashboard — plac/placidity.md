@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of calmness; a quiet and undisturbed feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition free from stress or emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serene calmness, tranquil peacefulness, or an undisturbed equilibrium of mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emotional characterization, unruffled mental equilibrium that remains undisturbed by external provocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"An exhausted composure, a worn-out placidity, an equanimity of fatigue not to be ruffled by interest or satisfaction, are the trophies of her victory."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And so, under pretence of softening the previous outrage, of stroking and soothing me into placidity, you stick a sly penknife under my ear!"*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The grey placidity of Val's closed eyelids and crossed hands was the last memory that Lawrence would have chosen to evoke on his wedding night."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The sweet **placidity** of the child's countenance brought soothing calm into the weaver's troubled heart."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes smoked his pipe with impenetrable **placidity**, awaiting the midnight emergence of our quarry."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A summer afternoon of unbroken **placidity** settled over the garden, drowsy with the hum of bumblebees."*

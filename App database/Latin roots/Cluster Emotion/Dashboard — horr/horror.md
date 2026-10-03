@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense and profound fear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that inspires dislike; something horrible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intense feeling of fear, shock, or disgust; dread, terror, or loathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and Gothic fiction, the profound shuddering revulsion that follows the realization of a terrible truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do extend These thoughts of horror further than you shall Find cause in Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With horror, madly dying, like her life; Which, being cruel to the world, concluded Most cruel to herself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be stirring as the time; be fire with fire; Threaten the threat’ner, and outface the brow Of bragging horror."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He cried in a whisper at some image, at some vision—he cried out twice, a cry that was no more than a breath: 'The **horror**! The **horror**!'"*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"No mortal could support the **horror** of that countenance; a mummy again endued with animation could not be so hideous."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"O **horror**, **horror**, **horror**! Tongue nor heart cannot conceive nor name thee!"*

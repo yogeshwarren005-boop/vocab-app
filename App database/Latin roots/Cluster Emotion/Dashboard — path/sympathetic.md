@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sympathetic nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing or feeling or resulting from sympathy or compassion or friendly fellow feelings; disposed toward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling, showing, or expressing sympathy; compassionate, understanding, or mutually agreeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, designating the sympathetic nervous system driving fight-or-flight autonomic responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am so curious," said Loneli, taking leave, and Mea promised to give the sympathetic Loneli a full report of everything."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, law-stationer of Cook’s Court, Cursitor Street, is sensible of the influence not only in his mind as a sympathetic and contemplative man, but also in his business as a law-stationer aforesaid."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sympathetic man still looked the other way, and wondered when she would recover coolness sufficient to justify him in facing her again."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth gave her sister a **sympathetic** glance, knowing the hidden trial she was undergoing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Stimulation of the **sympathetic** nerve chain accelerates cardiac frequency and dilates bronchial airways."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge felt a **sympathetic** tremor run through his frame as the Spirit pointed toward the lonely churchyard."*

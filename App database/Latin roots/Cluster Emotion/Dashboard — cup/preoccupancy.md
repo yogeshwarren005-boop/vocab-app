@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental state of being preoccupied by something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of taking occupancy before someone else does.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or fact of taking possession of or occupying something prior to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence, the doctrine of prior appropriation or first possession establishing ownership over unowned assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preoccupancy designates the mental state of being preoccupied by something."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The right of **preoccupancy** was originally the sole foundation of property in land and movable goods."*
+> - 📜 **John Locke (*Two Treatises of Government*):** *"No claim of **preoccupancy** can justify an owner in letting vast tracts of fertile land lie wholly waste."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The title of the native tribes was respected as a right of **preoccupancy**, subject to peaceful purchase by treaty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from antimony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or derived from antimony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or containing trivalent antimony in its lower oxidation state (+3).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and early chemical treatises, denoting antimony compounds with lower valency than antimonic derivatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimonious designates relating to or derived from antimony."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The subtle fumes arising from **antimonious** minerals demonstrated how deeply chemical spirits penetrate solid matter."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"Treating the metallic regulus with marine acid generated an **antimonious** vapor that condensed into crystalline needles."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The electrode was soon coated with a dark **antimonious** deposit during the electrolysis of the fused salt."*

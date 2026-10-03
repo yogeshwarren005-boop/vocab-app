@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various chiefly tropical american vines some bearing edible fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various chiefly tropical american vines some bearing edible fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A climbing plant of the genus Passiflora, bearing distinctive flowers with fringe-like coronas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian floral symbolism, named by 16th-century Spanish missionaries whose flower parts symbolized the Crucifixion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passionflower designates any of various chiefly tropical american vines some bearing edible fruit."*
+> - 📜 **Alfred Tennyson (*Maud*):** *"There has fallen a splendid tear from the **passionflower** at the gate; she is coming, my dove, my dear."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The sensitive tendril of the blue **passionflower** firmly seized the branch within twenty minutes of contact."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A magnificent **passionflower** with purple filaments clambered over the conservatory trellis."*

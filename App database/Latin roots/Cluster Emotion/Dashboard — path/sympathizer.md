@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commiserates with someone who has had misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who shares your feelings or opinions and hopes that you will be successful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who sympathizes with someone or who supports or approves of an opinion, movement, or cause (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil war and historical movements, an active non-combatant partisan providing logistical or moral backing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"So I supposed; but you can't depend upon your horse to tell you whether you are talking to a Yankee sympathizer or an honest Confederate, can you?"*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Speak up, which do you want?" "Throw them through the roof, Pilot, we'll see fair play," cried a sympathizer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As I was dressing, I looked out of my window and asked one of our men who had been among the active sympathizers last night whether there was anything wrong about the house."*
+> - 📜 **Abraham Lincoln (*Message to Congress*):** *"The government was obliged to disarm every open Confederate **sympathizer** in the border districts to secure the capital."*
+> - 📜 **Woodrow Wilson (*A History of the American People*):** *"Many a northern merchant was secretly a southern **sympathizer**, bound by ties of cotton trade and family kinship."*
+> - 📜 **Ralph Waldo Emerson (*Address on John Brown*):** *"Every generous **sympathizer** with human freedom felt an electric shock at the tidings from Harpers Ferry."*

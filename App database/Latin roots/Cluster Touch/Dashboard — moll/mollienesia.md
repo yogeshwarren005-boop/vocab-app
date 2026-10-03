@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mollies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mollies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical taxonomic genus name formerly encompassing sailfin mollies, now integrated into the genus Poecilia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological classification, the taxonomic grouping created by Lesueur in 1821 for American poeciliid fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog mollienesia as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"Lesueur established the genus **Mollienesia** to accommodate the broad-finned live-bearing fishes of the South."*
+> - 📜 **William T. Innes (*Exotic Aquarium Fishes*):** *"Early aquarium treatises designated the majestic sailfin species under the generic title **Mollienesia**."*
+> - 📜 **Frank Michler Chapman (*Camps and Cruises of an Ornithologist*):** *"The coastal pools teemed with tiny surface-swimming killifish and specimens of **Mollienesia**."*

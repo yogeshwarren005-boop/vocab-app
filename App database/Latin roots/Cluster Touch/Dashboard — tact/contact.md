@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Close interaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of touching physically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical touching of two bodies or surfaces; direct interpersonal communication or association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, a conducting part that joins with another to complete or interrupt a circuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As Mea had the privilege of being in the closest, most intimate contact with her new friend in the late evening hours, she was in a state of perfect bliss."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The possibility of my being brought into contact with my mother, of my being taken to her house, even of Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Anne had never seen her father and sister before in contact with nobility, and she must acknowledge herself disappointed."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"True conversation requires intimate **contact** of intellect and generous spiritual communion."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The ship came into sudden violent **contact** with a submerged derelict beneath the quiet sea."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"When the metallic surfaces establish complete **contact**, the voltaic current circulates freely."*

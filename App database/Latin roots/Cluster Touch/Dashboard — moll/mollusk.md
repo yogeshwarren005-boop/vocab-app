@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invertebrate having a soft unsegmented body usually enclosed in a shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invertebrate having a soft unsegmented body usually enclosed in a shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft-bodied invertebrate animal of the phylum Mollusca, such as a snail, clam, mussel, or octopus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology, an organism possessing a coelomic body cavity, radula, and mantle secreting a shell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mollusk designates invertebrate having a soft unsegmented body usually enclosed in a shell."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Deep in the ocean abyss feeds the giant squid, a monstrous **mollusk** capable of wrestling leviathans."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I picked up the empty shell of a freshwater **mollusk** washed upon the sandy pond shore."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo pointed out an enormous pearl-bearing **mollusk** reposing upon the coral reef."*

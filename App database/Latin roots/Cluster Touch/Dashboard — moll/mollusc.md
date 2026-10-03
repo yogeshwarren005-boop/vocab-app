@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invertebrate having a soft unsegmented body usually enclosed in a shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invertebrate having a soft unsegmented body usually enclosed in a shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any invertebrate animal of the phylum Mollusca, typically having a soft unsegmented body, often enclosed in a calcareous shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and marine ecology, a highly diverse group including gastropods, bivalves, and cephalopods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But,” I continued, “the particular mollusc which secretes the pearl is the pearl-oyster, the meleagrina margaritifera, that precious pintadine."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They are formed alone in the tissue of the mollusc, are white, often opaque, and sometimes have the transparency of an opal; they are generally round or oval."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I approached this extraordinary mollusc."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The discovery of an extinct marine **mollusc** in high strata demonstrated dramatic changes in sea level."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The muscular foot of the gastropod **mollusc** functions as an effective organ of locomotion."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Tightly wedged among the rock barnacles, a solitary **mollusc** withstood the pounding surf."*

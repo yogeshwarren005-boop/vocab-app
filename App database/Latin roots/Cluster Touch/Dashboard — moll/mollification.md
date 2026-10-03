@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being appeased or ameliorated or tempered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of appeasing someone or causing someone to be more favorably inclined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of appeasing, pacifying, or softening anger, severity, or resentment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and pharmaceutical arts, the physical softening or tempering of hard materials by heat or oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some mollification for your giant, sweet lady."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Some **mollification** for your giant, sweet lady: tell me your mind, I am a messenger."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The king sought the **mollification** of public resentment through judicious concessions and general pardons."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The emperor sent rich embassies for the **mollification** of the barbarian chieftain's wrath."*

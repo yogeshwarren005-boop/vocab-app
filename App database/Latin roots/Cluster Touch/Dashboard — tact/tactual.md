@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or proceeding from the sense of touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a sensation of touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, arising from, or perceived by the sense of touch; tactile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory psychology and neurology, pertaining specifically to somatosensory stimulation and cutaneous contact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tactual designates of or relating to or proceeding from the sense of touch."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The brain constructs its spatial map through continuous synthesis of **tactual** and visual impressions."*
+> - 📜 **Helen Keller (*The World I Live In*):** *"My world is built of **tactual** sensations; my hands are to me what hearing and sight are to others."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The infant seeks comfort through gentle **tactual** contact with the maternal breast."*

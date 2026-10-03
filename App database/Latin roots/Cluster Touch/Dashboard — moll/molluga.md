@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carpetweeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carpetweeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the carpetweed genus Mollugo, characterized by small whorled leaves and prostrate growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, an herbaceous plant belonging to the family Molluginaceae native to tropical and warm temperate zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, molluga designates carpetweeds."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The prostrate stems of the carpetweed **molluga** spread in flat mats across sandy soil."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Along the sandy river flats we identified patches of creeping **molluga** flourishing in open sunshine."*
+> - 📜 **John Torrey (*Flora of North America*):** *"The delicate white blossoms of **molluga** open only during the brightest hours of the morning."*

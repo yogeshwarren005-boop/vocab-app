@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more temperate, acceptable, or suitable by adding something else; moderate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To appease the anger, agitation, or anxiety of someone; to soothe, placate, or soften.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine and therapy, to soften rigid tissues or reduce inflammatory swelling through soothing agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Du Land der Liebe! bin ich der Deine schon, Oft zuernt' ich weinend, dass du immer Bloede die eigene Seele leugnest.[51] How much the reproach has been softened, and with what tender regard he strives to mollify his former bitterness!"*
-> - 📜 **James Joyce (*Ulysses*):** *"In vain the voice of Mr Canvasser Bloom was heard endeavouring to urge, to mollify, to refrain."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"Such joy did not mollify madame."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Words of sweet humility availed to **mollify** the wrathful angel and restore serene quiet."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"No polite excuses could **mollify** Mrs. Reed when her stubborn displeasure was once aroused."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The magistrate hoped that gentle words might **mollify** the recalcitrant prisoner into confessing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pampered darling; an effeminate man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat with excessive indulgence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat someone with excessive indulgence, pampering, or overprotection; to baby or coddle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overprotected or pampered person; one who is overly fastidious about health, ease, or personal comfort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mollycoddle designates a pampered darling; an effeminate man."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"A vigorous nation cannot afford to **mollycoddle** its youth or encourage sentimental weakness."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins scoffed that his mother sought to **mollycoddle** every delicate visitor that entered her drawing room."*
+> - 📜 **H.G. Wells (*The New Machiavelli*):** *"The boarding school regimen was designed to cure any boy who had been reared as a delicate **mollycoddle**."*

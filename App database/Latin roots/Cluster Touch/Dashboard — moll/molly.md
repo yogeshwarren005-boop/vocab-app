@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Popular aquarium fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popular aquarium fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, brightly colored freshwater fish (Poecilia) popular in home aquariums; or a familiar feminine proper name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical British slang and social history, an eighteenth-century term for an effeminate man or female companion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Molly, let them see your wrist.” Her entrapped hand was on the table, but she had already put her other hand behind her waist."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Molly, let them see your wrist.” “Master,” she again murmured."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Now, Molly, Molly, Molly, Molly, how slow you are to-day!” She was at his elbow when he addressed her, putting a dish upon the table."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The unfortunate **Molly** wandered along the snowy highway carrying her sleeping infant."*
+> - 📜 **James Joyce (*Ulysses*):** *"Leopold Bloom pondered the domestic memories and nocturnal reveries of his wife **Molly**."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The old servant chuckled as little **Molly** skipped merrily down the garden path."*

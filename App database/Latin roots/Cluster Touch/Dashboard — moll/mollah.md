@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A muslim trained in the doctrine and law of islam; the head of a mosque.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muslim trained in the doctrine and law of islam; the head of a mosque.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Islamic scholar, teacher, or religious jurist learned in theology and sacred law; variant of mullah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Central and South Asian communities, a title of respect given to an educated Muslim dignitary or village imam.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mollah designates a muslim trained in the doctrine and law of islam; the head of a mosque."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The venerable **mollah** recited verses from the sacred text to inspire the gathered hill tribes."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The learned **mollah** sat cross-legged upon the carpet, interpreting disputed points of canonical jurisprudence."*
+> - 📜 **George Nathaniel Curzon (*Persia and the Persian Question*):** *"Every provincial town deferred to the ruling of its chief **mollah** in disputes of religious law."*

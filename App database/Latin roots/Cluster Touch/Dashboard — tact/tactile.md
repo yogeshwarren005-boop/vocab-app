@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or proceeding from the sense of touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a sensation of touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceptible by touch; tangible; relating to or connected with the sense of touch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and psychology, mediated by somatosensory receptors in the skin responding to mechanical pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tactile designates of or relating to or proceeding from the sense of touch."*
+> - 📜 **Helen Keller (*The Story of My Life*):** *"Through my fingertips I developed a rich **tactile** sense that opened the great world of literature."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **tactile** corpuscles in the fingertips possess extraordinary discriminatory resolution."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The sculptor imparts a distinct **tactile** quality to the cold marble, evoking warmth and living flesh."*

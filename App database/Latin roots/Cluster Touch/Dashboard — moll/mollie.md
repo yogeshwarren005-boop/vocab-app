@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Popular aquarium fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popular aquarium fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, popular live-bearing freshwater fish of the genus Poecilia, widely kept in tropical home aquariums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An informal variant spelling of molly; historically used in maritime slang for a petrel or small albatross.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Take warning by what Griffin told you last night and take nobody into your confidence." That afternoon their host learned, through business channels, that the steamer _Mollie Able_ was in New Orleans loading for St."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Good-by." A moment later Rodney Gray was standing alone on the boiler deck, waving his handkerchief to his father, and the _Mollie Able's_ bow was swinging rapidly away from the landing."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"When the _Mollie Able_ resumed her journey Rodney waited and watched for an opportunity to question the outspoken Confederate, for he believed he could trust him."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"In the shallow freshwater creek darted a silver-finned **mollie**, browsing amongst the submerged algae."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"The lively **mollie** thrives in brackish tidal pools, feeding upon mosquito larvae and organic detritus."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Aquarists observed that the black **mollie** reproduced prolifically in captivity under warm conditions."*

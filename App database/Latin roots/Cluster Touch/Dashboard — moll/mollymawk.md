@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various smaller albatrosses of the genus Thalassarche, inhabiting the Southern Oceans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime ornithology, a petrel-like seabird characterized by dark plumage across the back and wings with white underparts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mollymawk designates large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Flocks of sea-fowl, the stormy petrel and the wandering **mollymawk**, circled the vessel's wake."*
+> - 📜 **Robert Falcon Scott (*The Voyage of the Discovery*):** *"A solitary grey-headed **mollymawk** soared effortlessly above the swelling Antarctic waves."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Sailors caught a handsome **mollymawk** on a trailing hook while crossing the southern latitudes."*

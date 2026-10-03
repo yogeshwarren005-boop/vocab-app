@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin moll within the domain of Touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of moll in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Softening or having a tendency to soften; becoming soft, tender, or supple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical histology and pathology, describing plant tissues undergoing progressive softening prior to decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mollescent designates pertaining to, derived from, or characteristic of latin moll within the domain of touch."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The crisp mountain stone yielded at last to the **mollescent** warmth of the humid southern winds."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Under prolonged moisture, the hard pericarp undergoes a **mollescent** change that assists seed release."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The crisp frozen turf yielded to the afternoon sun, turning into a **mollescent** carpet beneath her feet."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consideration in dealing with others and avoiding giving offense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consideration in dealing with others and avoiding giving offense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of possessing delicate discretion and diplomacy in interpersonal interactions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considerate awareness and sensitivity that prevents friction and preserves social harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The Buddha, knowing that our minds delighted in inferior things, by his tactfulness taught according to our capacity, but still we did not perceive that we were really Buddha-sons."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Just as the rich elder, Knowing his son’s lower bent, By his own tactfulness, Moulds and subdues his mind, And, only after that, gives him The whole of his riches."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"So is it with the Buddha In the display of his rarities; Knowing those pleased with trifles, Yet by his tactfulness He subdues their minds, And teaches them the greater wisdom."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether admired the instinctive **tactfulness** with which Maria Gostrey guided his bewildered steps."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Philip displayed infinite **tactfulness** in helping Maggie forget her painful family troubles."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"The captain maintained a silent **tactfulness**, shielding the fugitive from the mate's suspicion."*

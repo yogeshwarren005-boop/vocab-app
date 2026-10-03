@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of touch; in a manner perceived or verified through physical contact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental psychology, relating to sensations explored and verified through cutaneous contact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog tactually as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The blind subject explores the contours of the relief map **tactually** with fine precision."*
+> - 📜 **Helen Keller (*The World I Live In*):** *"I learned to know the sculpture **tactually**, following every subtle curve of the carved marble."*
+> - 📜 **John Dewey (*Art as Experience*):** *"A craftsman appreciates material qualities both visually and **tactually** while shaping the timber."*

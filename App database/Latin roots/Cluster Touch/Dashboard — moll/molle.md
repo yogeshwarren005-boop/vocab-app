@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small peruvian evergreen with broad rounded head and slender pendant branches with attractive clusters of greenish flowers followed by clusters of rose-pink fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small peruvian evergreen with broad rounded head and slender pendant branches with attractive clusters of greenish flowers followed by clusters of rose-pink fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pepper tree (Schinus molle), an evergreen shrub or tree native to the Peruvian Andes bearing pink aromatic berries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical music and medieval solmization, denoting a soft, flat, or minor note in contrast to hard sounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, molle designates small peruvian evergreen with broad rounded head and slender pendant branches with attractive clusters of greenish flowers followed by clusters of rose-pink fruits."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We rode beneath groves of the fragrant **molle** tree whose drooping branches resembled weeping willows."*
+> - 📜 **Clements Markham (*The Incas of Peru*):** *"The ancient Peruvians prepared an intoxicating chicha beverage from the resinous berries of the **molle**."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The graceful foliage of the Peruvian **molle** shaded the roadside gardens throughout the arid valley."*

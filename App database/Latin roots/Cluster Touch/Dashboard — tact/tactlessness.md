@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking tact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking tact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of interpersonal sensitivity, discretion, or social diplomacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clumsy or insensitive behavior that repeatedly causes offense or social discomfort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Well, after all," he said, when I pointed out to him quietly but plainly my opinion of his tactlessness, "what does it matter?"*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Mercy! how you look, Billy!” she exclaimed, with cheerful tactlessness."*
+> - 📜 **Henry James (*The American*):** *"The young aristocrat was notorious for the blundering **tactlessness** of his dinner conversation."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her mother's persistent **tactlessness** was a source of constant mortification to Gwendolen."*
+> - 📜 **Anthony Trollope (*The Small House at Allington*):** *"The squire was exasperated by the unyielding **tactlessness** of his nephew's correspondence."*

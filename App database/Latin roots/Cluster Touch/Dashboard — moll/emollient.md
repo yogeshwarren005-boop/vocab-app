@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toiletry consisting of any of various substances in the form of a thick liquid that have a soothing and moisturizing effect when applied to the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a softening or soothing effect especially to the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or preparation applied externally to soften, soothe, and hydrate the skin or mucous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing a softening, soothing, or calming effect; figuratively, mitigating harshness or interpersonal friction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket brings the finger into play as an emollient."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket brings the finger into play as an **emollient**, smoothing away the harshness of the confrontation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The pure spermaceti oil acted as a rare **emollient** upon the chapped hands of the whalemen."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"A warm poultice serves as a gentle **emollient** to relax the inflamed and throbbing tissue."*

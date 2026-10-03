@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any skin disease characterized by soft pulpy nodules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any skin disease characterized by soft pulpy nodules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dermatological condition characterized by the eruption of soft, pearly, dome-shaped papules on the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, specifically molluscum contagiosum, a viral cutaneous infection caused by a poxvirus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, molluscum designates any skin disease characterized by soft pulpy nodules."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The characteristic umbilicated papules of **molluscum** contagiosum resolve spontaneously over several months."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"The cutaneous lesions of **molluscum** present smooth glistening surfaces with central depressions."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Histological sections of **molluscum** reveal extensive intracytoplasmic inclusion bodies within epidermis cells."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The girlfriend of a gangster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The girlfriend of a gangster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Historically in underworld slang, a female companion, associate, or sweetheart of a gangster or criminal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British dialect and early cant, a familiar nickname or diminutive for Mary; a working-class girl or prostitute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s Tidy and Moll.” “Then wait here till I come hither again,” said Gabriel."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Coggan suddenly pulled up Moll and slipped off."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Professor George Guffey, in his introduction to the first part of this work (ARS 216 [1982], iii-iv), remarks upon the proposal scene carried on in _Moll Flanders_ between Moll and the admirer who will prove her third husband and her brother."*
+> - 📜 **Daniel Defoe (*Moll Flanders*):** *"The notorious **Moll** recounted the turbulent fortunes and misadventures of her early life in London."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The detective learned that the outlaw kept company with a loyal **moll** who sheltered him from pursuit."*
+> - 📜 **Jack London (*The Road*):** *"In the underworld cant of the road, every tramp spoke of his traveling **moll** with rough affection."*

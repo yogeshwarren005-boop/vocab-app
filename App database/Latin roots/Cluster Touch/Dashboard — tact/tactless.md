@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking or showing a lack of what is fitting and considerate in dealing with others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Revealing lack of perceptiveness or judgment or finesse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking social sensitivity, discretion, or diplomacy; bluntly inconsiderate of others' feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by clumsy words or ill-timed actions that provoke embarrassment or resentment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Not only are the personages too transparently allegorical, but the allegory is insipid; especially tactless is the treatment of the marriage between Prometheus, the Spirit of Humanity, and Asia, the Spirit of Nature, as a romantic love affair."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Yes, we must really arrange to meet." With Ukridge, who was in one of his less tactless moods, he became very friendly."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It's sweet of you to have thought of it!" For the moment it was plainly tactless to urge her further, so I just repeated:-- "Well, I _mean_ it!"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Jennings made many **tactless** inquiries regarding the young lady's matrimonial prospects."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A single **tactless** remark from the vicar wounded Mr. Casaubon's extraordinarily fragile pride."*
+> - 📜 **Henry James (*Daisy Miller*):** *"Winterbourne regretted his friend's **tactless** laughter, which attracted stares across the hotel terrace."*

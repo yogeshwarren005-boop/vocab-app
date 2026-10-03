@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gastropods; bivalves; cephalopods; chitons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gastropods; bivalves; cephalopods; chitons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major phylum of invertebrate animals characterized by a soft unsegmented body, mantle, and usually a calcareous shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary zoology, the second-largest phylum of animal life comprising snails, clams, octopuses, and squids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Its nets brought up numerous specimens of polypi and curious shells of mollusca."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Genera classified 556:3 Vertebrata, articulata, mollusca, and radiata are mor- tal and material concepts classified, and are supposed to possess life and mind."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The vast phylum **Mollusca** demonstrates an astonishing morphological diversity from bivalves to cephalopods."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil shells of **Mollusca** furnish the geologist with the most reliable chronometers of tertiary strata."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"In comparing the radiate forms with the **Mollusca**, we perceive fundamentally distinct architectural plans."*

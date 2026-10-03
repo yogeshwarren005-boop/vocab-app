@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to cognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to cognition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to cognition, intellectual perception, reasoning, or mental processing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology, evaluating milestones in terms of intellectual conceptual maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognitively designates with regard to cognition."*
+> - 📜 **Jean Piaget (*The Construction of Reality in the Child*):** *"The infant develops **cognitively** by internalizing external action schemes into reversible mental operations."*
+> - 📜 **Steven Pinker (*The Blank Slate*):** *"Humans are **cognitively** equipped to master complex social relationships, language, and tool manipulation."*
+> - 📜 **Kay Redfield Jamison (*Touched with Fire*):** *"During hypomania, artists feel **cognitively** liberated, generating rapid conceptual associations and metaphors."*

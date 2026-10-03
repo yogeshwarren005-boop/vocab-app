@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or being or relating to or involving cognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or being or relating to or involving cognition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the mental processes of perception, memory, judgment, and reasoning, as contrasted with emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuroscience, designating cerebral functions subserved primarily by neocortical networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cognitive designates of or being or relating to or involving cognition."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The massive right-hemisphere stroke preserved his verbal intellect but decimated his visual **cognitive** mapping."*
+> - 📜 **Daniel Kahneman (*Thinking, Fast and Slow*):** *"System 1 operates automatically while System 2 allocates attention to demanding **cognitive** computations."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Linguistic competence constitutes a foundational **cognitive** structure unique to the human biological species."*

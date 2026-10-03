@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being not easily noticed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being not easily noticed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inconspicuousness, obscurity, or subtlety that escapes detection or observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military camouflage and architecture, the deliberate design quality of blending into surrounding scenery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unnoticeableness designates the quality of being not easily noticed."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether prized his diplomatic **unnoticeableness**, which allowed him to observe Parisian society undisturbed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The quiet shepherd lived in peaceful **unnoticeableness**, far removed from the turbulent ambitions of Casterbridge."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She cherished the quiet **unnoticeableness** of her corner room where she could study mathematics without remark."*

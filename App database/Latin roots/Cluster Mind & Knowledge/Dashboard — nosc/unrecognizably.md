@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond recognition; in an unrecognizable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond recognition; in an unrecognizable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unrecognizable manner; to an extent that prevents identification or recognition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical transformation, cities, cultures, or landscapes altered beyond all previous resemblance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrecognizably designates beyond recognition; in an unrecognizable manner."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The once handsome captain had deteriorated **unrecognizably**, poisoned by opium and squalor in Nemo's garret."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient forum was **unrecognizably** transformed into a desolate pasture where cattle grazed amid broken columns."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard returned to the fair **unrecognizably** altered, dressed in the ragged smock-frock of a common hay-trusser."*

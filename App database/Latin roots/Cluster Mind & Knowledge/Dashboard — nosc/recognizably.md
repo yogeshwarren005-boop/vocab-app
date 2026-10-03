@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a recognizable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a recognizable degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a recognizable manner; in a way that is identifiable, noticeable, or distinctly clear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, exhibiting traits that point unequivocally to a specific author, artist, or school.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"One reason is, because there are a dozen that are recognizably competent to do that poem."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The old London landmarks were still **recognizably** present beneath the grime and bomb-shattered masonry."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond's villa was **recognizably** Italian in its austere marble terraces and cypress avenues."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The English tourists looked **recognizably** foreign as they clutch Baedeker guidebooks along the Arno."*

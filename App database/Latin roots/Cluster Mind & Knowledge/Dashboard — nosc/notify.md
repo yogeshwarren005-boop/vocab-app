@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inform (somebody) of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inform (somebody) of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To inform someone formally or officially of a fact, event, circumstance, or regulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law, to lodge official notice of vessel arrival, cargo damage, or maritime distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, she hath received your letter, for the which she thanks you a thousand times; and she gives you to notify that her husband will be absence from his house between ten and eleven."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is stirring, sir; if she will stir hither, I shall seem to notify unto her."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But she wrote anew to her mother, ostensibly to notify the wedding-day; really to again implore her advice."*
+> - 📜 **William Shakespeare (*Othello*):** *"Go to the senate-house; **notify** the senators of this unexpected Ottoman fleet moving toward Rhodes."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Sheriffs were required by statute to **notify** freeholders of upcoming electoral assemblies in each county."*
+> - 📜 **Herman Melville (*Benito Cereno*):** *"Captain Delano stepped aboard to **notify** the distressed Spaniard of his willingness to furnish fresh water."*

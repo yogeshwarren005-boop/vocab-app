@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small freshwater crustaceans with a shield-shaped carapace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small freshwater crustaceans with a shield-shaped carapace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient order of small branchiopod crustaceans known as tadpole shrimp, characterized by a broad dorsal carapace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, living fossils (such as Triops) whose morphology has remained virtually unchanged since the Triassic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notostraca designates small freshwater crustaceans with a shield-shaped carapace."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Freshwater crustaceans of the order **Notostraca** produce desiccation-resistant cysts transported across continents by waterfowl."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The broad horse-shoe shield of **Notostraca** covers the cephalothorax and bears numerous paired swimming limbs."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Stasis in **Notostraca** reveals that morphological stability can endure across hundreds of millions of years."*

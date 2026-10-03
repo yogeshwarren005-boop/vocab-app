@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shiners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shiners.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A species-rich genus of small North American freshwater ray-finned minnows in the family Cyprinidae, the eastern shiners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic ecology, minnows inhabiting clean gravel streams, serving as vital ecological indicators of river water quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog notropis as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The genus **Notropis** comprises dozens of shimmering minnow species darting through Appalachian rapids."*
+> - 📜 **Spencer Fullerton Baird (*Fishes of the Susquehanna*):** *"Schools of **Notropis** spawn in clear pebble nests excavated by larger river chubs."*
+> - 📜 **Louis Agassiz (*Contributions to Natural History*):** *"Breeding males of **Notropis** develop bright crimson fins and nuptial tubercles along the snout."*

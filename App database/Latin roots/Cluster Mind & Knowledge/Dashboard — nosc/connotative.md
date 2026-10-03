@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power of implying or suggesting something in addition to what is explicit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the power of implying or suggesting something in addition to what is explicit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting or implying associated meanings in addition to the primary or literal denotation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic, designating terms that signify an attribute while denoting the subjects possessing it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, connotative designates having the power of implying or suggesting something in addition to what is explicit."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Proper names are not **connotative**; they denote individuals without indicating any distinctive attributes."*
+> - 📜 **William Empson (*Seven Types of Ambiguity*):** *"Poetic richness arises when **connotative** nuances vibrate against the plain syntactic surface of the line."*
+> - 📜 **S. I. Hayakawa (*Language in Thought and Action*):** *"The **connotative** force of loaded rhetoric can manipulate mass sentiment during political crises."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a noticeable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a noticeable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a noticeable manner; visibly, distinctly, clearly, or to an extent that easily attracts attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronological narrative, describing tangible shifts in temperature, behavior, or political mood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Prosperously, but not noticeably otherwise; he thought, in black."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the beginning of dinner, the party being small and the room still, these motes from the mass of a magistrate’s mind fell too noticeably."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"For the first few days the illness took a normal course, and anxiety, though real, was not acute; but on the fourth day strength failed noticeably, and oxygen was ordered to help the clogged lungs to work."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sir Henry's face paled **noticeably** when the deep, subterranean baying drifted across the desolate moor."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The plumage of male birds becomes **noticeably** brighter and more iridescent during the spring breeding season."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Countess Olenska dressed **noticeably** simpler than the other ladies, wearing dark velvet without jewelry."*

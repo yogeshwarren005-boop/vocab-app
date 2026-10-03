@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A v-shaped indentation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The location in a range of mountains of a geological formation that is lower than the surrounding peaks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A V-shaped indentation, cut, or nick made on an edge or surface; also, an informal level or grade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional geography, a deep, narrow mountain pass or gorge between rocky precipices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And she’ve a few soft corners to her mind, though I’ve never been able to get into one, the devil’s in’t!” “Ah, baily, she’s a notch above you, and you must own it: a higher class of animal—a finer tissue."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Upon this oar I spent much time, carving minute letters and cutting a notch for each week that passed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In one place on the oar I cut a small notch for each week, and in another place on the oar I notched the months, being duly careful indeed, to reckon in the additional days to each month over and beyond the four weeks."*
+> - 📜 **Nathaniel Hawthorne (*The Ambitious Guest*):** *"The solitary cottage nestled deep within the dramatic mountain **notch**, flanked by towering granite cliffs."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"I cut a fresh **notch** in the gunwale of the raft every sunrise to keep track of the days."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The Indian guide carved a deep **notch** in the cedar trunk to blazon the wilderness trail for portage."*

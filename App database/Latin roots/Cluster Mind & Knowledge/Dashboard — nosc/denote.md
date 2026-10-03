@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a sign or indication of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have as a meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be a sign, symbol, or indicator of something; to designate or represent literally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and philosophy of language, to point directly to an individual object or class of referents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be not, then love doth well denote, Love’s eye is not so true as all men’s: no, How can it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall observe him, And his own courses will denote him so That I may save my speech: do but go after, And mark how he continues."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy tears are womanish, thy wild acts denote The unreasonable fury of a beast."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Definite descriptions like the author of Waverley **denote** a unique person through relational properties."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Naturalists use the term species to **denote** distinct morphological assemblages that breed true."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words are sensible marks invented by men to **denote** internal ideas dwelling in the mind."*

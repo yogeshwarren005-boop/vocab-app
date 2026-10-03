@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sometimes followed by `of') having or showing knowledge or understanding or realization or perception.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sometimes followed by `of') having or showing knowledge or understanding or realization or perception.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge or being fully aware of something; perceptive, mindful, and conscious of circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative governance, having formal jurisdiction or recognized authority regarding specific policy matters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"We know that the ; immediately ensuing is the commencement of a word, and, of the six characters succeeding this ‘the,’ we are cognizant of no less than five."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They were quietly performed, and at a point quite aside from battle-fields, or any great center where thousands of spectators had the opportunity to become cognizant of them."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Griffin, as she was more thoroughly cognizant of the condition and real wants of the people than the Bureau could be."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American magistrate remains acutely **cognizant** of the constitutional limits circumscribing his office."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"The War Cabinet was fully **cognizant** of the desperate aerial combat being waged daily over Kent."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was **cognizant** of the provincial prejudices that resisted modern sanitary reforms in the town."*

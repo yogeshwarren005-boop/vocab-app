@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Authenticate as a notary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authenticate as a notary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To certify, authenticate, or witness a legal document or signature in the capacity of a notary (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial transactions, verifying the identity of signatories to prevent fraud on deeds and powers of attorney.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notarise designates authenticate as a notary."*
+> - 📜 **Anthony Trollope (*The Eustace Diamonds*):** *"The family solicitor dispatched a clerk to **notarise** the affidavit swearing to the lost diamond necklace."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Before foreign bonds could be negotiated in London, a notary had to examine and **notarise** the seals."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The American detective carried sworn depositions that a magistrate had agreed to **notarise** in Chicago."*

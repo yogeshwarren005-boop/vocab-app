@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge of an event before it occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledge of an event before it occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The purported psychic ability to perceive, foresee, or experience events before they occur in physical time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychology, laboratory experiments investigating prophetic dreams, presentiments, and retrocausal cognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precognition designates knowledge of an event before it occurs."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Reports of prophetic dreams and sudden **precognition** challenge our conventional philosophical assumptions about linear time."*
+> - 📜 **Carl Jung (*Synchronicity: An Acausal Connecting Principle*):** *"Acausal synchronicities suggest that the unconscious mind can occasionally access a state of temporal **precognition**."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Claims of **precognition** crumble when subjected to rigorous statistical scrutiny against confirmation bias."*

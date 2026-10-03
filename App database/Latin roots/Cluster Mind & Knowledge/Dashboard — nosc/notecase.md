@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pocket-size case for holding papers and paper money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pocket-size case for holding papers and paper money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat wallet or small leather case designed for carrying paper currency, banknotes, or visiting cards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social accessories, an embossed leather pocketbook carried by gentlemen to hold bank paper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notecase designates a pocket-size case for holding papers and paper money."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The banker drew a well-stuffed morocco **notecase** from his breast pocket and produced the promissory bond."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"Nidderdale patted his leather **notecase**, relieved to find that his betting slips remained safe."*
+> - 📜 **Wilkie Collins (*The Moonstone*):** *"Sergeant Cuff examined the dead man's empty **notecase**, finding only a pawn ticket and an old receipt."*

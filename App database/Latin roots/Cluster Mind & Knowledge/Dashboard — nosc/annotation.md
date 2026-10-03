@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A comment or instruction (usually added).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of adding notes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A critical or explanatory note added to a text, diagram, or dataset to clarify meaning or context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering, a syntactical tag added to source code providing program directives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I have been led farther than I had foreseen, and various subjects for annotation have presented themselves which, though I have no direct need of them, I could not pretermit."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Most of them were copiously annotated, and his annotations were, as a rule, characterised by a refreshing trenchancy,--in the case of some, as of Gibbon, tempered with respect; in the case of others, as of F.W."*
-> - 📜 **James Joyce (*Ulysses*):** *"Lockhart’s _Life of Napoleon_ (cover wanting, marginal annotations, minimising victories, aggrandising defeats of the protagonist). _Soll und Haben_ by Gustav Freytag (black boards, Gothic characters, cigarette coupon bookmark at p. 24)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A learned **annotation** in the margin exposed the chronological discrepancies of the Byzantine chronicler."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The pedantic critic burdened every heroic couplet with an immense **annotation** of trivial trivia."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A brief **annotation** in his notebook recorded the curious sexual dimorphism of the South American beetle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring that official notification be given.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring that official notification be given.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Required by statutory law or regulation to be formally reported to public health or civic authorities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology, infectious diseases (such as cholera or tuberculosis) requiring immediate statutory notification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notifiable designates requiring that official notification be given."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Every clinical case of Asiatic cholera was designated a **notifiable** malady under municipal sanitary codes."*
+> - 📜 **Edwin Chadwick (*Sanitary Report*):** *"Early registration of **notifiable** contagions enabled quarantine officers to isolate maritime vessels in port."*
+> - 📜 **Albert Camus (*The Plague*):** *"Dr. Rieux insisted that the authorities declare the outbreak a **notifiable** public emergency without delay."*

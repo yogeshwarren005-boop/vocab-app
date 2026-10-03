@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Notice or perceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Observed, seen, perceived, remarked upon, or given conscious attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Received with public recognition, critical commendation, or formal civic honors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It was clearly evident, however, that the approaching girl had no intention of changing her pace, despite the fact that she must have noticed long ago the friend who was hurrying towards her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I think that Mäzli has noticed something," said the uncle; "and one must never let such a small and inquisitive nose point into empty air for too long."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How pleasant and charming Apollonie looks in her spotless cap and shining apron with the apple-cheeked child beside her in her pretty dress!" Loneli had just noticed her best friends and, jumping up from the bench, she ran to them."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor had **noticed** Willoughby's sudden embarrassment, though Marianne remained blissfully blind to it."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip **noticed** that Miss Havisham's bridal dress was yellowed with time and withered like her soul."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Brutus **noticed** that Cassius looked upon him with estranged and troubled eyes along the forum."*

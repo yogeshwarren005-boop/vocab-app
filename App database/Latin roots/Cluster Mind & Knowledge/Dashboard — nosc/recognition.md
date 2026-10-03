@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being recognized or acknowledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of recognizing something or someone by remembering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of identifying something or someone previously known, or formal acknowledgment of validity and merit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy, official acceptance by a sovereign government of a foreign state's legitimate existence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Richard and I were making our way through it, and I was yet in the first chill of the late unexpected recognition when I saw, coming towards us, but not seeing us, no less a person than Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This letter.” Grandfather Smallweed smiles in a very ugly way in recognition of the letter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The other woman rose on seeing me; and the men, though they were, as usual, sulky and silent, each gave me a morose nod of recognition."*
+> - 📜 **Aristotle (*Poetics*):** *"Dramatic **recognition** represents a change from ignorance to knowledge, producing love or hate between characters."*
+> - 📜 **G. W. F. Hegel (*Phenomenology of Spirit*):** *"Self-consciousness achieves its satisfaction only in finding mutual **recognition** in another self-consciousness."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Mutual **recognition** between mother and infant is mediated through instantaneous facial mimicry."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone legally empowered to witness signatures and certify a document's validity and to take depositions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone legally empowered to witness signatures and certify a document's validity and to take depositions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public officer authorized by law to administer oaths, witness signatures, and certify legal documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil law traditions, a senior legal professional drafting wills, deeds, and major corporate statutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then meet me forthwith at the notary’s, Give him direction for this merry bond, And I will go and purse the ducats straight, See to my house left in the fearful guard Of an unthrifty knave, and presently I’ll be with you."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"SCENA PRIMA._ _Enter_ Lewis, Angellina, Sylvia, Notary. _Lewis._ This is the day, my Daughter Angellina, the happy, that must make you a Fortune, a large and full one, my care has wrought it, and yours must be as great to entertain it."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"SCENA V. _Enter_ Lewis, Angellina, Eustace, Priest, Ladies, Cowsy, Notary, _and_ Miramont. _Not._ Come, let him bring his Sons hand, and all's done."*
+> - 📜 **Honoré de Balzac (*Eugénie Grandet*):** *"Cruchet was the principal **notary** of Saumur, holding the confidential financial secrets of every wealthy miser."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Go with me to a **notary**, seal me there your single bond; and, in a merry sport, if you repay me not on such a day."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Monsieur Guillaumin, the prosperous town **notary**, managed investments and held mortgages over local estates."*

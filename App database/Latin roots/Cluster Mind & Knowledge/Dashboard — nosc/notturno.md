@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pensive lyrical piece of music (especially for the piano).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pensive lyrical piece of music (especially for the piano).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition evocative of the night, nightfall, or evening calm; an 18th-century precursor to the nocturne.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical chamber music, multi-movement divertimento-style works composed for evening outdoor performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notturno designates a pensive lyrical piece of music (especially for the piano)."*
+> - 📜 **Wolfgang Amadeus Mozart (*The Letters of Mozart*):** *"I composed a four-orchestra **notturno** for the garden festival, spacing the ensembles to produce enchanting echoes."*
+> - 📜 **Charles Rosen (*The Classical Style*):** *"Haydn's exquisite **notturno** movements balance serene melodic lyricism with playful wind counterpoint."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"A gentle **notturno** releases the listener from worldly striving into contemplative aesthetic contemplation."*

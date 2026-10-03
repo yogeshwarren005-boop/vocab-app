@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being perceived or known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being perceived or known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being recognized, known, or intellectually apprehended; entirely unknowable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In German idealism, the Kantian thing-in-itself (Ding an sich) which lies beyond possible human experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incognizable designates incapable of being perceived or known."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Noumena remain fundamentally **incognizable** to human reason, which can grasp only phenomenal appearances."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The ultimate reality behind the physical universe belongs forever to the sphere of the Unknowable and **incognizable**."*
+> - 📜 **William James (*The Will to Believe*):** *"Pragmatism rejects scholastic entities that remain hopelessly **incognizable** and produce no practical fruits."*

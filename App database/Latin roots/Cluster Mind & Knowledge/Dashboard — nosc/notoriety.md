@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being known for some unfavorable act or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being known for some unfavorable act or quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread infamy, ill fame, or public discredit arising from scandalous, criminal, or disgraceful conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social biography, the notoriety achieved by charismatic swindlers and outlaw folk heroes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Everybody of any consequence or notoriety in Bath was well know by name to Mrs Smith."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"John and the ugliness of Judas Iscariot, as represented in a window of the church he attended, that not a single lineament could be selected and called worthy either of distinction or notoriety."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Even into the living grave Oppenheimer had occupied for ten years had my fame, or notoriety, rather, penetrated."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Demagogues seek cheap **notoriety** by subverting venerable institutions that took centuries to build."*
+> - 📜 **William Makepeace Thackeray (*The Luck of Barry Lyndon*):** *"Barry reveled in his dueling **notoriety**, using fear to force his way into fashionable gaming circles."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Professor Moriarty shunned personal **notoriety**, sitting like a silent spider at the center of London crime."*

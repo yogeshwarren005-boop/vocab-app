@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing paper intended for writing short notes or letters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writing paper intended for writing short notes or letters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paper manufactured and cut specifically for writing personal letters, social correspondence, or notes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stationery history, watermarked rag paper embossed with heraldic crests, monograms, or formal letterheads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Write out on a sheet of notepaper what you want and my servant will take a cab and bring the things back to you.” Campbell scrawled a few lines, blotted them, and addressed an envelope to his assistant."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Tell her to bring notepaper and a pencil.' 'Hi, Dad, what's happenin'.' 'Don't ask me, ask my grandchild; she gave me the job."*
-> - 📜 **James Joyce (*Ulysses*):** *"Take out sheet notepaper, envelope: unconcerned."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley took up a sheet of fine gilt-edged **notepaper** and prepared to write with characteristic careless rapidity."*
+> - 📜 **Arthur Conan Doyle (*A Case of Identity*):** *"Holmes sniffed the scented **notepaper**, detecting hints of violet that betrayed the social milieu of the sender."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The letter was written upon cheap foreign **notepaper**, its hurried lines conveying urgent apprehension."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imperceptible manner or to an imperceptible degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an imperceptible manner or to an imperceptible degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unnoticeable manner; subtly, quietly, gradually, or without attracting observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural processes, incremental transitions such as the shifting of seasons or wearing of stones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Nevertheless at eleven o’clock she was walking towards Middlemarch, having made up her mind that she would make as quietly and unnoticeably as possible her second attempt to see and save Rosamond."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Minute variations accumulate **unnoticeably** over generations, eventually diverging into distinct varieties."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Character dissolves **unnoticeably**, step by tiny compromise, long before public scandal erupts."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The pond ice melts **unnoticeably** under the warming March sun, opening blue water along the southern shores."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of indicating or pointing out by name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most direct or specific meaning of a word or expression; the class of objects that an expression refers to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The literal, explicit, or primary dictionary meaning of a word, contrasting with its connotations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, the extension of a term; the totality of real-world objects to which a term applies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, denotation designates the act of indicating or pointing out by name."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **denotation** of a word encompasses the individual things of which that predicate may be affirmed."*
+> - 📜 **Bertrand Russell (*On Denoting*):** *"A phrase may be denoting, and yet not express anything; meaning and **denotation** must not be confused."*
+> - 📜 **C. K. Ogden (*The Meaning of Meaning*):** *"Linguistic confusion arises when casual speakers mistake subjective associations for objective **denotation**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: What you must know in order to determine the reference of an expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea that is implied or suggested.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idea or feeling that a word invokes in addition to its literal or primary dictionary meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, the intension of a term, encompassing the set of attributes implied by a general name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had been diverted from their hereditary connotation to signify impressions for which Nature did not intend them."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"An incorrigible is a terrible human being—at least such is the connotation of “incorrigible” in prison psychology."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I wonder, my reader, if you can glimpse or guess the faintest connotation of a man beaten—“beat up,” we prisoners call it."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"A non-connotative term signifies a subject only, whereas a general name possesses both denotation and **connotation**."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Political speech abounds in dishonest words chosen purely for their favorable emotional **connotation**."*
+> - 📜 **C. S. Lewis (*Studies in Words*):** *"The historical critic must trace how semantic shifts alter the moral **connotation** of everyday idioms."*

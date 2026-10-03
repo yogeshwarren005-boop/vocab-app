@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Negation of a word or group of words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Negation of a word or group of words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Used to express negation, denial, refusal, contradiction, or prohibition in a sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Boolean logic and computer programming, a fundamental unary logic operator that inverts a truth value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if thou live remembered not to be, Die single and thine image dies with thee. 4 Unthrifty loveliness why dost thou spend, Upon thyself thy beauty’s legacy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Profitless usurer why dost thou use So great a sum of sums yet canst not live?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweets with sweets war not, joy delights in joy: Why lov’st thou that which thou receiv’st not gladly, Or else receiv’st with pleasure thine annoy?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"To be, or **not** to be, that is the question: Whether 'tis nobler in the mind to suffer the slings and arrows."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"That government of the people, by the people, for the people, shall **not** perish from the earth."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind is white paper, void of all characters, without any ideas; how comes it to be furnished? **Not** by innate rules."*

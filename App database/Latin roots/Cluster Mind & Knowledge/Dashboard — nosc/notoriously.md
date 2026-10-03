@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a notorious degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a notorious degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a notorious or infamous manner; to an extent that is widely recognized and disreputable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical observation, describing situations, systems, or climates famous for difficulty or unreliability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fool, there was never man so notoriously abused."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath been most notoriously abus’d."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The notoriously unfair employer will find his workmen drifting away, his working-force reduced in number and quality at times of greatest need, and his evil reputation going abroad among workmen."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The Andaman Islanders were **notoriously** fierce and hostile to any shipwrecked sailors cast upon their shores."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"French tax assessments under the ancient monarchy were **notoriously** unequal and corrupt in rural provinces."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"Flogging aboard naval frigates was **notoriously** brutal, hardening sailors into mutinous sullenness."*

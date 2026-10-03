@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not recognized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a secure reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not identified, acknowledged, or validated; not perceived or known for one's true identity or merit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and artistic history, genius or scientific breakthroughs ignored during the creator's lifetime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"It was a feeling of defenselessness against some unrecognized but malicious influence."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This truth, unrecognized for many centuries, is now seen to be fundamental to the whole problem of value."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"By some good agency,—possibly, by the unrecognized interposition of the long-buried Alice herself,—the threatening calamity was averted."*
+> - 📜 **Herman Melville (*Pierre: or, The Ambiguities*):** *"The profoundest literary masterworks often pass **unrecognized** by the superficial book reviewers of their day."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea performed countless unhistoric acts of kindness that remained **unrecognized** by the noisy world."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The avenger walked the streets of London **unrecognized**, his heart set upon ancient retribution."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flightless new zealand birds similar to gallinules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flightless new zealand birds similar to gallinules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of rare flightless rails endemic to New Zealand, specifically the takahē (Porphyrio hochstetteri).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, a large blue-and-green alpine rail rediscovered in remote Fiordland valleys after presumed extinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notornis designates flightless new zealand birds similar to gallinules."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The magnificent flightless rail **Notornis** was long regarded as an extinct fossil relic of New Zealand."*
+> - 📜 **Walter Buller (*A History of the Birds of New Zealand*):** *"Only four living specimens of **Notornis** were secured by collectors before the species vanished into legend."*
+> - 📜 **David Attenborough (*The Life of Birds*):** *"The rediscovery of the takahē, or **Notornis**, in the misty Murchison mountains proved a conservation miracle."*

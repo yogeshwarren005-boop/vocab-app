@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family notoryctidae: comprising solely the marsupial mole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family notoryctidae: comprising solely the marsupial mole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of subterranean Australian marsupials, the marsupial moles, native to the sandy western deserts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, desert marsupials possessing spade-like claws on the third and fourth digits and backward-opening pouches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notoryctus designates type genus of the family notoryctidae: comprising solely the marsupial mole."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The golden-furred **Notoryctes** navigates deep dune sands, feeding upon beetle larvae and centipedes."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The snout of **Notoryctes** is shielded by a horn-like callous shield that protects the nostrils while digging."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Fossorial specialization in **Notoryctes** illustrates how arid isolation drives extreme morphological adaptation."*

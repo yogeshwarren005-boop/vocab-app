@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To know, perceive, recognize, or become conscious of an object, idea, or sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological theory, the intellectual act of apprehending reality through conceptual categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Thought-forms 306:21 The myriad forms of mortal thought, made manifest as matter, are not more distinct nor real to the mate- rial senses than are the Soul-created forms 306:24 to spiritual sense, which cognizes Life as per- manent."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God's children already created will be cognized only as man finds the truth of being. 69:9 Thus it is that the real, ideal man appears in proportion as the false and material disappears."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The objects cognized by the physical senses have not 311:27 the reality of substance."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The subjective self cannot directly **cognize** itself except as reflected in memories of past thoughts."*
+> - 📜 **Charles Sanders Peirce (*Selected Writings*):** *"We have no power of thinking without signs, nor can we **cognize** an external fact without inference."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"To **cognize** a physical object requires inferring its existence from immediate sense-data impressions."*

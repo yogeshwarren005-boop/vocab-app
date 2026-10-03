@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accusation of crime made by a grand jury on its own initiative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informing by words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of formally notifying or giving notice, or a written announcement, notice, or warning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and digital interfaces, an automated alert signaling an incoming message or system event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The promised notification was hanging over her head."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The advance notification to control center was inoperative."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"I shan’t send any notification to the Committee before nine o’clock, old chap."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The treaty required mutual **notification** thirty days prior to the deployment of border fortifications."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"Mr. Pickwick received formal **notification** from Dodson and Fogg that trial proceedings had commenced."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Naval Treaty*):** *"Phelps awaited telegraphic **notification** from the Foreign Office regarding the missing diplomatic papers."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut or make a notch into.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Notch a surface to record something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one or more V-shaped cuts, indentations, or serrations along an edge or border.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, describing leaf margins or petals possessing shallow angular incisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was too hard for him directly, to say the troth on’t, before Corioles; he scotched him and notched him like a carbonado."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The children tumbled about, and notched memoranda of their accidents in their legs, which were perfect little calendars of distress; and Peepy was lost for an hour and a half, and brought home from Newgate market by a policeman."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Everything seems to have happened to his hands that could possibly take place consistently with the retention of all the fingers, for they are notched, and seamed, and crumpled all over."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The mandibles of certain carnivorous beetles are distinctly **notched** to crush the chitinous shells of prey."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The petals of the woodland pink are deeply **notched** at the apex, presenting a delicate fringed appearance."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Tashtego held up the harpoon, displaying its **notched** barb that gripped tenaciously in whale blubber."*

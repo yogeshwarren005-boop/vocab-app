@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Newts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Newts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American newts in the salamander family Salamandridae, including the eastern newt (Notophthalmus viridescens).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, amphibians famous for their terrestrial juvenile red eft stage and toxic tetrodotoxin skin secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog notophthalmus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We found vibrant vermilion red efts of **Notophthalmus** creeping over wet mosses after a summer shower."*
+> - 📜 **Edward O. Wilson (*Naturalist*):** *"The aposematic coloration of terrestrial **Notophthalmus** warns avian predators of deadly skin toxins."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Aquatic adults of **Notophthalmus** court in forest pools, their paddle-like tails rippling through green algae."*

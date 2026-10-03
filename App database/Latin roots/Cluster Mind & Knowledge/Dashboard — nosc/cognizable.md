@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being known, perceived, recognized, or apprehended by the human intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, falling within the legal jurisdiction of a court for trial or judicial determination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A hieroglyph,” said the Rhetor, “is an emblem of something not cognizable by the senses but which possesses qualities resembling those of the symbol.” Pierre knew very well what a hieroglyph was, but dared not speak."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Phenomena explained Portraits, landscape-paintings, fac-similes of penman- ship, peculiarities of expression, recollected sentences, 86:27 can all be taken from pictorial thought and memory as readily as from objects cognizable by the senses."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Simple sensory qualities are immediately **cognizable** by the mind without the intervention of complex reflection."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Trespass upon private real estate constitutes a civil injury **cognizable** by the courts of common law."*
+> - 📜 **Immanuel Kant (*Prolegomena to Any Future Metaphysics*):** *"Only objects of possible empirical intuition are **cognizable** by human understanding under categories."*

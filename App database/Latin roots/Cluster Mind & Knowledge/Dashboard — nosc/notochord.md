@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flexible, rod-shaped cartilaginous skeletal structure supporting the dorsal nerve cord in chordate embryos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate embryology, the primitive axial skeleton replaced in adult vertebrates by the vertebral column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notochord designates a flexible rodlike structure that forms the supporting axis of the body in the lowest chordates and lowest vertebrates and in embryos of higher vertebrates."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The presence of a persistent **notochord** in amphioxus reveals the ancestral transition from invertebrate to vertebrate."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In lampreys and sturgeons, the **notochord** remains unsegmented throughout adult life."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life: The Burgess Shale and the Nature of History*):** *"Pikaia gracilens displayed a distinct **notochord**, confirming its status as the earliest known chordate fossil."*

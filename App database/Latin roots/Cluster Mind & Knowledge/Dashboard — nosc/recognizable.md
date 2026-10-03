@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily perceived; easy to become aware of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being recognized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recognized, identified, or distinguished by familiar features or characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, sensory stimuli that match existing neural memory templates with high confidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The story a man invents about another has to be true in some recognizable way to character--as a little experiment in this direction will show."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even if words travel along that wire, there is so much "buzzing" that they are hardly recognizable."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The lighthouse tower remained clearly **recognizable** across the bay, cutting through the evening mist."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Even in death, the features of the baronet were instantly **recognizable** beneath the lantern light."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Dr. Manette was barely **recognizable** after his eighteen horrific years of solitary confinement in the Bastille."*

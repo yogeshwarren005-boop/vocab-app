@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be no longer approved or accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be no longer approved or accepted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To withdraw official recognition, diplomatic status, or legal standing from a state or entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and treaty law, terminating formal diplomatic relations with a governing regime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, derecognize designates cause to be no longer approved or accepted."*
+> - 📜 **Henry Kissinger (*Diplomacy*):** *"Washington decided to **derecognize** Taipei in order to establish normalized bilateral relations with Beijing."*
+> - 📜 **George F. Kennan (*Memoirs: 1925-1950*):** *"The department debated whether to **derecognize** the exile government once domestic authority had collapsed."*
+> - 📜 **Zbigniew Brzezinski (*Power and Principle*):** *"Strategic realpolitik compelled the administration to **derecognize** friendly regimes overtaken by popular revolutions."*

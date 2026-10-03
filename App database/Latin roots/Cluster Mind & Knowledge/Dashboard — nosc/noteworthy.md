@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of notice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of notice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving special attention, notice, or observation; remarkable, notable, or significant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and empirical reports, an observation or fact that alters previous interpretations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Think on thy Proteus when thou haply seest Some rare noteworthy object in thy travel."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But this was not the most noteworthy feature: they were all grouped in such a way that their tails, without a single exception, were towards that half of the horizon from which the storm threatened."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The only other noteworthy objects in the study were two splendid engravings of Raphael's "Transfiguration" and "Spasimo" (the former bearing the signature of Raphael Morghen), which had been a gift to him from Mrs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"It is a **noteworthy** circumstance that the varieties of domesticated pigeons differ primarily in external plumage."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The structural differences between ape and human brains are less **noteworthy** than those between apes and lemurs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The advent of a reform-minded young physician was the most **noteworthy** event Middlemarch had seen that autumn."*

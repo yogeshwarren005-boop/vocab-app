@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic carnivorous insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic carnivorous insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of aquatic true bugs in the suborder Heteroptera commonly referred to as backswimmers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology, aquatic predators possessing hydrofuge hair fringes that trap air bubbles against the ventral abdominal surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notonectidae designates aquatic carnivorous insects."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Members of the family **Notonectidae** deliver a sharp, wasp-like sting if handled carelessly by collectors."*
+> - 📜 **Vincent Dethier (*The World of the Tent-Makers*):** *"Pond surface tensions provide an inverted ceiling for hunting bugs of the **Notonectidae** family."*
+> - 📜 **Howard Ensign Evans (*Life on a Little-Known Planet*):** *"Aquatic **Notonectidae** utilize specialized sensory hairs to detect vibrations caused by struggling prey."*

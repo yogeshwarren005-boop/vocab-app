@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having knowledge of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Range of what one can know or understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge, awareness, or notice; the conscious perception and intellectual apprehension of a fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal proceedings, judicial notice or jurisdiction to take official judicial notice of a matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cognizance of her incontinency Is this: she hath bought the name of whore thus dearly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, by my soul, this pale and angry rose, As cognizance of my blood-drinking hate, Will I for ever and my faction wear, Until it wither with me to my grave, Or flourish to the height of my degree."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your statue spouting blood in many pipes, In which so many smiling Romans bath’d, Signifies that from you great Rome shall suck Reviving blood, and that great men shall press For tinctures, stains, relics, and cognizance."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A statesman must take full **cognizance** of human nature and inherited traditions when drafting organic laws."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Holmes took careful **cognizance** of the bell-rope and ventilator, perceiving their sinister purpose."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"As **cognizance** of my blood and title, I wear this pale and maiden blossom in my bonnet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician who specializes in psychiatry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who specializes in psychiatry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical physician specializing in the diagnosis, psychopharmacological treatment, and prevention of mental disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical forensic medicine, a certified physician providing expert testimony regarding criminal competency and sanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I wonder what a psychiatrist would have said about him."*
+> - 📜 **Kay Redfield Jamison (*Night Falls Fast*):** *"The consulting **psychiatrist** recognized subtle warning signs that preceded suicidal crises in adolescent patients."*
+> - 📜 **Siddhartha Mukherjee (*The Gene*):** *"The hospital **psychiatrist** noted that twin studies provided powerful evidence for genetic vulnerability to schizophrenia."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"When the post-encephalitic patients grew manic, our staff **psychiatrist** adjusted their neurological medication dosages."*

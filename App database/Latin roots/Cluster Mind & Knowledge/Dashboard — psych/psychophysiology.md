@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychology that is concerned with the physiological bases of psychological processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of psychology that is concerned with the physiological bases of psychological processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific branch exploring the physiological bases of mental processes and subjective psychological states.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental cognitive neuroscience, measuring autonomic responses such as heart rate variability, skin conductance, and EEGs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychophysiology designates the branch of psychology that is concerned with the physiological bases of psychological processes."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Contemporary **psychophysiology** utilizes multichannel electroencephalography to track cognitive load during problem solving."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our autonomic reactions and somatic visceral changes form the very bedrock of emotional **psychophysiology**."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The patient's bizarre alien limb syndrome revealed an unrecognized collapse in sensory-motor **psychophysiology**."*

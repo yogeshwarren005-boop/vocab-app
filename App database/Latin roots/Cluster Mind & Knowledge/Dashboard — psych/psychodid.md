@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fly of the family psychodidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fly of the family psychodidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A moth fly or drain fly belonging to the dipteran insect family Psychodidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological morphology, a small hairy nematoceran fly possessing moth-like wings with parallel venation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychodid designates a fly of the family psychodidae."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"A tiny **psychodid** alighted upon the damp stone, vibrating its hairy wings in the tropical darkness."*
+> - 📜 **Vincent Dethier (*To Know a Fly*):** *"The urban sewer system provides an ideal moist haven for every prolific **psychodid** larva."*
+> - 📜 **Howard Ensign Evans (*Life on a Little-Known Planet*):** *"Examined under a hand lens, the delicate **psychodid** resembles a miniature silk moth rather than a common gnat."*

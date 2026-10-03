@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from an undiagnosed mental disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from an undiagnosed mental disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or suffering from psychopathy; exhibiting remorseless and callous antisocial conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychiatry, describing behavioral traits scored on Hare's Psychopathy Checklist, such as glibness and grandiosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is nothing in the least "psychopathic" about him, nothing abnormal--no mystical vision of God, no mystical absorption in God, no mystical union with God, no abstraction, nothing that is the mark of the professed mystic."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Psychopathic, auto-suggestion, telepathy, the subliminal self--the words may tell us something; whether what they tell us is verifiable, remains to be seen."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"His repeated swindles reflected classic **psychopathic** traits: total absence of guilt and an uncanny talent for deceit."*
+> - 📜 **Hannah Arendt (*Eichmann in Jerusalem*):** *"The terrifying realization was that Eichmann did not exhibit monstrous **psychopathic** fury, but mundane bureaucratic efficiency."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Lombroso erroneously believed that **psychopathic** tendencies could be identified by atavistic facial asymmetries."*

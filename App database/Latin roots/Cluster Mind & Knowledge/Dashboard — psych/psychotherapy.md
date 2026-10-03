@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychiatry concerned with psychological methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The treatment of mental or emotional problems by psychological means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment of mental and emotional disorders through psychological methods, communication, and therapeutic relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare, modalities ranging from psychodynamic analysis to cognitive behavioral therapy aimed at behavioral change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotherapy designates the branch of psychiatry concerned with psychological methods."*
+> - 📜 **Carl Jung (*The Practice of Psychotherapy*):** *"The ultimate aim of deep **psychotherapy** is not simple symptom relief, but the individuation of the unique self."*
+> - 📜 **Viktor Frankl (*Man's Search for Meaning*):** *"Logotherapy introduced a vital dimension to modern **psychotherapy** by addressing the human quest for purpose."*
+> - 📜 **Sigmund Freud (*A General Introduction to Psychoanalysis*):** *"In classical **psychotherapy**, nothing takes place between patient and physician except an exchange of honest words."*

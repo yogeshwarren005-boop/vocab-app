@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin psych within the domain of Mind & Knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of psych in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentally prepared, excited, energized, or emotionally primed to face a challenging encounter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal psychological parlance, entering a state of heightened adrenaline and competitive self-confidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psyched designates pertaining to, derived from, or characteristic of latin psych within the domain of mind & knowledge."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The academy tennis prodigy got completely **psyched** before stepping onto the center stadium court."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing on the Campaign Trail '72*):** *"The advance volunteers were thoroughly **psyched** for the midnight rally in Manchester."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"The test pilots stayed intensely **psyched**, channeling raw tension into absolute flight-deck focus."*

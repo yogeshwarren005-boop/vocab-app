@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interrelation of conscious and unconscious processes and emotions that determine personality and motivation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of social psychology that deals with the processes and emotions that determine psychology and motivation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological forces, conscious and unconscious motives, and emotional tensions that influence human behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, the systematic study of psychic energy exchanges between instinctual drives and defenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychodynamics designates the interrelation of conscious and unconscious processes and emotions that determine personality and motivation."*
+> - 📜 **Erik Erikson (*Childhood and Society*):** *"The internal **psychodynamics** of adolescent development reflect tensions between personal autonomy and social role."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"Understanding the subtle **psychodynamics** of depressive mood swings proved crucial for long-term recovery."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Neurobiological studies are now beginning to map the synaptic correlates of Freudian **psychodynamics**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to psychometrics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to psychometrics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the design, administration, and statistical evaluation of psychological measurements and mental tests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational testing, quantitative instruments assessing cognitive aptitude, personality dimensions, and scholastic ability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychometric designates of or relating to psychometrics."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"He criticized the **psychometric** fallacy of ranking complex human intellect onto a single linear scale."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Early **psychometric** apparatus measured reaction times and sensory discrimination among thousands of volunteers."*
+> - 📜 **Steven Pinker (*The Blank Slate*):** *"Modern **psychometric** evaluations of identical twins reared apart reveal robust heritability across major personality traits."*

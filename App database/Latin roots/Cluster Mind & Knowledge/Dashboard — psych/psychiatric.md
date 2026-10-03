@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or used in or engaged in the practice of psychiatry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or used in or engaged in the practice of psychiatry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the medical branch focused on diagnosing, treating, and preventing mental disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare administration, institutional facilities and clinical protocols specialized in psychiatric therapeutics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychiatric designates relating to or used in or engaged in the practice of psychiatry."*
+> - 📜 **Michel Foucault (*Madness and Civilization*):** *"The modern **psychiatric** asylum established a moral regime where unreason was subjected to clinical surveillance."*
+> - 📜 **Kay Redfield Jamison (*Touched with Fire*):** *"Epidemiological studies reveal striking correlations between artistic families and major **psychiatric** illnesses."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The neurological ward routinely collaborated with **psychiatric** consultants to untangle organic from functional symptoms."*

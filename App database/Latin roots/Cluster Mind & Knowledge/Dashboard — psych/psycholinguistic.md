@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the psychology of language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the psychology of language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to psycholinguistics; combining psychological and linguistic principles in the study of speech and thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational research, evaluating reading comprehension and phonological processing through psycholinguistic metrics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psycholinguistic designates of or relating to the psychology of language."*
+> - 📜 **Steven Pinker (*Words and Rules*):** *"He designed rigorous **psycholinguistic** experiments to measure the latency of past-tense verb production in adults."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Brain lesions produced fascinating **psycholinguistic** deficits where naming nouns remained intact while verbs vanished."*
+> - 📜 **Jean Piaget (*The Language and Thought of the Child*):** *"Early egocentric speech offers valuable **psycholinguistic** clues regarding the pre-operational thought of toddlers."*

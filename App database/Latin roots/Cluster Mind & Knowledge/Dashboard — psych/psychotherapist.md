@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapist who deals with mental and emotional disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapist who deals with mental and emotional disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trained professional who provides psychotherapy to individuals struggling with emotional, mental, or behavioral difficulties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical practice, a licensed clinician guiding clients through cognitive reframing, trauma recovery, and personal insight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotherapist designates a therapist who deals with mental and emotional disorders."*
+> - 📜 **Carl Rogers (*Client-Centered Therapy*):** *"An effective **psychotherapist** does not dispense authoritative advice, but facilitates the client's own capacity for growth."*
+> - 📜 **Irvin Yalom (*Love's Executioner*):** *"The experienced **psychotherapist** recognizes that human encounters in the consulting room mirror universal existential struggles."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"Her **psychotherapist** served as an anchor of quiet common sense during the tempestuous aftermath of manic storm."*

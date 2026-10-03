@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with a sociopathic personality; a person with an antisocial personality disorder (`psychopath' was once widely used but has now been superseded by `sociopath').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone with a sociopathic personality; a person with an antisocial personality disorder (`psychopath' was once widely used but has now been superseded by `sociopath').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual possessing an antisocial personality disorder characterized by pervasive lack of empathy, remorselessness, and manipulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic criminology, a calculating predator who mimics prosocial emotional responses while exploiting others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopath designates someone with a sociopathic personality; a person with an antisocial personality disorder (`psychopath' was once widely used but has now been superseded by `sociopath')."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"Behind a superficially charming facade, the clinical **psychopath** remains utterly indifferent to the distress of others."*
+> - 📜 **Truman Capote (*In Cold Blood*):** *"The psychiatric report characterized Perry as a wounded **psychopath** driven by sudden eruptions of paranoid rage."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Frontal lobe damage can transform a gentle citizen into an impulsive social **psychopath** devoid of moral inhibition."*

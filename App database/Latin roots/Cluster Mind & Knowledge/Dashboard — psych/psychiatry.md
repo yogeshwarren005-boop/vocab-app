@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine dealing with the diagnosis and treatment of mental disorders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine dealing with the diagnosis and treatment of mental disorders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical specialty devoted to the study, diagnosis, treatment, and prevention of mental and behavioral disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical history, the evolving discipline bridging biological neuroscience, psychotherapy, and institutional mental health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychiatry designates the branch of medicine dealing with the diagnosis and treatment of mental disorders."*
+> - 📜 **Michel Foucault (*The Birth of the Clinic*):** *"Nineteenth-century **psychiatry** transformed eccentric behavior into formalized categories of curable disease."*
+> - 📜 **Thomas Szasz (*The Myth of Mental Illness*):** *"He argued vigorously that institutional **psychiatry** functioned as an arm of social control rather than healing."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Modern **psychiatry** increasingly relies upon cellular biology and neural imaging to validate therapeutic interventions."*

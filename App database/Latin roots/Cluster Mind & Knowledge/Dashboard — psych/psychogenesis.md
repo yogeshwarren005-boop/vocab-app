@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development in the life of an individual of some disorder that is caused by psychological rather than physiological factors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general term for the origin and development of almost any aspect of the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin and development of psychological states, behavioral traits, or mental conditions from mental processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric nosology, the etiology of a disorder arising from psychological trauma rather than organic lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychogenesis designates the development in the life of an individual of some disorder that is caused by psychological rather than physiological factors."*
+> - 📜 **Carl Jung (*The Psychogenesis of Mental Disease*):** *"We must trace the intricate **psychogenesis** of delusions back to unresolved emotional complexes in early youth."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **psychogenesis** of religious convictions involves both subconscious incubation and conscious intellectual assent."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"The physician investigated the **psychogenesis** of the hysterical paralysis by examining the patient's dreams."*

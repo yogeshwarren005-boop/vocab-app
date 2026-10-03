@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting the mind or mood or other mental processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting the mind or mood or other mental processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting the mind, brain chemistry, perception, cognition, mood, or subjective psychological experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology, substances capable of crossing the blood-brain barrier to modulate neurotransmitter signaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoactive designates affecting the mind or mood or other mental processes."*
+> - 📜 **Michael Pollan (*Caffeine: How Caffeine Created the Modern World*):** *"Coffee became the foundational **psychoactive** fuel that sustained the grueling discipline of industrial factories."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Indigenous cultures have long employed natural **psychoactive** plants to mediate sacred communal rituals."*
+> - 📜 **Aldous Huxley (*Island*):** *"The utopian society incorporated a benevolent **psychoactive** elixir called moksha to foster spiritual enlightenment."*

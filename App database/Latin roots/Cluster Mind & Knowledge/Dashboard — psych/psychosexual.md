@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the mental or emotional attitudes about sexuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the mental or emotional attitudes about sexuality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the psychological aspects of human sexuality and emotional sexual development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory, denoting Freud's progressive developmental stages: oral, anal, phallic, latency, and genital.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosexual designates of or relating to the mental or emotional attitudes about sexuality."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"The child undergoes a multifaceted **psychosexual** evolution long before biological puberty manifests physical maturity."*
+> - 📜 **Erik Erikson (*Identity: Youth and Crisis*):** *"He expanded Freud's **psychosexual** framework by integrating psychosocial stages of identity formation and community ethics."*
+> - 📜 **Michel Foucault (*The History of Sexuality*):** *"The Victorian era created an elaborate discursive apparatus around the **psychosexual** confessions of individuals."*

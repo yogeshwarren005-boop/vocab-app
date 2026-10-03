@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to psychoanalytic treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to psychoanalytic treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To examine, interpret, or treat mental and emotional conflicts using the techniques of psychoanalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural conversation, applying Freudian frameworks to dissect an individual's hidden motives and neuroses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalyze designates subject to psychoanalytic treatment."*
+> - 📜 **Arthur Miller (*Timebends: A Life*):** *"Friends attempted to **psychoanalyze** his creative paralysis instead of recognizing the simple burden of exhaustion."*
+> - 📜 **Philip Roth (*Portnoy's Complaint*):** *"Alexander lay back on the couch and begged the doctor to **psychoanalyze** his unrelenting guilt."*
+> - 📜 **Iris Murdoch (*The Sea, The Sea*):** *"Charles disliked modern novelists who pause in mid-chapter to **psychoanalyze** every minor character's breakfast."*

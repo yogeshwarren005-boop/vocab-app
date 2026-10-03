@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From a psychic point of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From a psychic point of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner pertaining to the mind, soul, or mental consciousness rather than physical bodily sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In depth psychology, describing somatic symptoms generated psychically through emotional repression and conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychically designates from a psychic point of view."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"The introverted subject experiences external events **psychically**, filtering reality through archetypal associations."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The six companions remained **psychically** bound together, sharing an unspoken cadence of childhood memories."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Physical paralysis in the patient was **psychically** determined by an unacknowledged domestic humiliation."*

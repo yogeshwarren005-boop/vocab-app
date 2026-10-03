@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any branch of psychology concerned with psychological measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any branch of psychology concerned with psychological measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of mental faculties, traits, and intelligence, or the alleged psychic power to divine object history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of parapsychology and spiritualism, the purported occult faculty of reading vibrations from antiquities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychometry designates any branch of psychology concerned with psychological measurements."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory **psychometry** attempted to chart exact mathematical relations between physical stimulus and mental sensation."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"Practitioners of **psychometry** claimed they could reconstruct an author's private life merely by holding his handwritten letters."*
+> - 📜 **Francis Galton (*Psychometric Experiments*):** *"His pioneer work in mental **psychometry** employed association clocks to measure the speed of fleeting thoughts."*

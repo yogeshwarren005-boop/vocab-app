@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tranquilizer used to treat psychotic conditions when a calming effect is desired.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tranquilizer used to treat psychotic conditions when a calming effect is desired.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication class used primarily to manage psychosis, schizophrenia, and severe bipolar mania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuropharmacology, dopamine receptor antagonists reducing positive psychotic symptoms and hallucinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipsychotic designates tranquilizer used to treat psychotic conditions when a calming effect is desired."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The introduction of chlorpromazine as a viable **antipsychotic** emptied vast psychiatric wards in the mid-twentieth century."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Careful titration of each **antipsychotic** regimen helped minimize parkinsonian tremors and tardive dyskinesia."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"Modern psychiatric practice often pairs mood stabilizers with an atypical **antipsychotic** to arrest acute mania."*

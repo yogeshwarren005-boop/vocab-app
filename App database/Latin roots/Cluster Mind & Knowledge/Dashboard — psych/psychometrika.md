@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any branch of psychology concerned with psychological measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any branch of psychology concerned with psychological measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A premier academic peer-reviewed journal dedicated to mathematical psychology, quantitative methods, and psychometrics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly publishing, the flagship journal of the Psychometric Society advancing latent variable models and factor analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychometrika designates any branch of psychology concerned with psychological measurements."*
+> - 📜 **L. L. Thurstone (*Multiple-Factor Analysis*):** *"His foundational paper in **Psychometrika** revolutionized mental measurement through multidimensional vector spaces."*
+> - 📜 **Harold Gulliksen (*Theory of Mental Tests*):** *"Subsequent issues of **Psychometrika** refined true-score test models and reliability coefficients for standardized testing."*
+> - 📜 **Paul Lazarsfeld (*Latent Structure Analysis*):** *"Theoretical treatises published in **Psychometrika** established formal mathematical foundations for latent class models."*

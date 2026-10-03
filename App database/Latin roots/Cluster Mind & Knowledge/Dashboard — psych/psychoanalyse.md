@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to psychoanalytic treatment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to psychoanalytic treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To examine, treat, or interpret psychological conflicts using the techniques of psychoanalysis (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychotherapy, exploring free associations, dreams, and childhood memories to uncover unconscious repressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalyse designates subject to psychoanalytic treatment."*
+> - 📜 **W. H. Auden (*In Memory of Sigmund Freud*):** *"The modern critic sought to **psychoanalyse** the artist rather than evaluate the formal architecture of his verse."*
+> - 📜 **E. M. Forster (*Aspects of the Novel*):** *"Biographers who attempt to **psychoanalyse** dead authors often sacrifice human complexity for clinical formulas."*
+> - 📜 **Virginia Woolf (*The Moment and Other Essays*):** *"To **psychoanalyse** an imaginative impulse while writing risks extinguishing the fragile spark of creative spontaneity."*

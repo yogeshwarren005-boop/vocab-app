@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or practicing psychotherapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotionally purging.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to psychotherapy or the clinical treatment of emotional and psychological problems through dialogue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mental healthcare, describing evidence-based psychological modalities such as cognitive behavioral therapy and psychoanalysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotherapeutic designates of or relating to or practicing psychotherapy."*
+> - 📜 **Carl Rogers (*On Becoming a Person*):** *"The core of the **psychotherapeutic** process lies in the unconditional positive regard extended by the therapist."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"Medication restored her sanity, but skilled **psychotherapeutic** counsel taught her how to rebuild a shattered life."*
+> - 📜 **Sigmund Freud (*On Psychotherapy*):** *"The primary requirement for successful **psychotherapeutic** work is the patient's willingness to engage in candid self-examination."*

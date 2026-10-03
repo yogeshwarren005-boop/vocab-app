@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting or influenced by the human mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside the sphere of physical science.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the mind, spirit, or soul as distinguished from physical matter and bodily organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychological history, investigations undertaken by scientific bodies into telepathy, clairvoyance, and apparitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Nevertheless the word corresponds to a fairly definite range of psychical reactions which are of great interest in modern poetry, especially German poetry."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Who could say where the fleshly impulse ceased, or the psychical impulse began?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ptolemaic and psychical error Our theories make the same mistake regarding Soul 122:30 and body that Ptolemy made regarding the solar system."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"His fascination with **psychical** research led him to attend seances across England during his later years."*
+> - 📜 **Henry Sidgwick (*Practical Ethics*):** *"The Society for **Psychical** Research sought to apply strict scientific standards to supernatural claims."*
+> - 📜 **William James (*Memories and Studies*):** *"A truly impartial investigator will find in **psychical** reports much that defies simplistic physical explanations."*

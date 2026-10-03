@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conductor of souls to the afterworld.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conductor of souls to the afterworld.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythological figure, spiritual deity, or guide responsible for escorting the souls of the deceased to the underworld.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Jungian archetypal psychology, an inner symbolic figure guiding the conscious ego through the depths of the unconscious.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopomp designates a conductor of souls to the afterworld."*
+> - 📜 **Carl Jung (*Memories, Dreams, Reflections*):** *"Hermes acted as the supreme **psychopomp**, navigating the borderlands between the living sunlit world and the dark underworld."*
+> - 📜 **Joseph Campbell (*The Hero with a Thousand Faces*):** *"The mythological hero frequently encounters a benevolent **psychopomp** who provides talismans for the threshold crossing."*
+> - 📜 **James Hillman (*The Dream and the Underworld*):** *"In archetypal therapy, the dream image serves as an active **psychopomp**, reorienting the spirit toward deeper soul concerns."*

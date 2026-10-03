@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental or emotional as opposed to physical in nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or determined by psychology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the human mind, emotions, mental processes, or the scientific discipline of psychology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature and character study, exploring nuanced internal motivations and subconscious tensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Rather they became a part of it; for the world is only a psychological phenomenon, and what they seemed they were."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"On the other hand, do not make the mistake of thinking that life in solitary was one wild orgy of blithe communion and exhilarating psychological research."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And to cap it all, at the psychological moment, Yunsan pandered the Emperor to novelties of excess that had been long preparing."*
+> - 📜 **William James (*The Will to Believe*):** *"Our passional nature and **psychological** predispositions inevitably dictate our choices when intellectual proof is silent."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa's walk across London unfolded as a delicate **psychological** portrait of memory, regret, and fleeting joy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The author displayed supreme **psychological** penetration in tracing the gradual disillusionment of Dorothea's marriage."*

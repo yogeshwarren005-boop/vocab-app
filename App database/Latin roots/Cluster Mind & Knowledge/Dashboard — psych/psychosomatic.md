@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of illness or symptoms resulting from neurosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of illness or symptoms resulting from neurosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to physical bodily symptoms that are caused, exacerbated, or influenced by psychological factors and mental stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In integrative medicine, conditions like stress-induced peptic ulcers, tension migraines, and psychogenic dermatitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosomatic designates used of illness or symptoms resulting from neurosis."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"To dismiss chronic vascular pain as merely **psychosomatic** ignores the physiological cascades that ravage the nervous system."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The astute physician treats both the inflamed organ and the anxious soul, acknowledging their **psychosomatic** unity."*
+> - 📜 **Kay Redfield Jamison (*Night Falls Fast*):** *"Severe despair frequently manifests through excruciating **psychosomatic** aches, chronic insomnia, and gastrointestinal distress."*

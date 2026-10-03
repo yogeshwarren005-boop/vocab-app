@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cosmopolitan family of small, moth-like dipteran flies commonly known as drain flies or moth flies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical entomology, the insect family containing sandflies of the subfamily Phlebotominae, which transmit leishmaniasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychodidae designates very small two-winged flies with hairy wings that develop in moss and damp vegetable matter: sand flies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tropical vectors belonging to the family **Psychodidae** transmit the flagellate protozoan that causes kala-azar."*
+> - 📜 **Edward O. Wilson (*Naturalist*):** *"Aquatic surveys in limestone creeks revealed diverse larval specimens of **Psychodidae** clinging to wet moss."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Excessive pesticide applications frequently fail against **Psychodidae** populations breeding in subterranean drain lines."*

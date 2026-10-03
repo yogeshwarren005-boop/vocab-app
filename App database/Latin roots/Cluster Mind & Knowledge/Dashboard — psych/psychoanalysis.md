@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of sigmund freud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of sigmund freud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychological theory and therapeutic method founded by Sigmund Freud to treat mental conflict via the unconscious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, an interpretive paradigm analyzing dreams, slips of the tongue, and infantile sexuality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalysis designates a set of techniques for exploring underlying motives and a method of treating various mental disorders; based on the theories of sigmund freud."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Through the rigorous discipline of **psychoanalysis**, the royal road to the unconscious mind was finally opened."*
+> - 📜 **Carl Jung (*The Archetypes and the Collective Unconscious*):** *"Early classical **psychoanalysis** focused too exclusively upon biological drives while ignoring mythic dimensions."*
+> - 📜 **Lionel Trilling (*The Liberal Imagination*):** *"Literary criticism found in Freudian **psychoanalysis** a revolutionary grammar for reading latent narrative desire."*

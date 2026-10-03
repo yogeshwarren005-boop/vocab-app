@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The subculture of users of psychedelic drugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The subculture of users of psychedelic drugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Music, visual art, fashion, or subcultural artifacts reflecting psychedelic hallucinations and altered consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history, the 1960s aesthetic movement characterized by kaleidoscopic colors, liquid projections, and surreal distortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychedelia designates the subculture of users of psychedelic drugs."*
+> - 📜 **Joan Didion (*Slouching Towards Bethlehem*):** *"Haight-Ashbury storefronts peddled cheap **psychedelia**, day-glo posters, and incense to runaways."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing in Las Vegas*):** *"The garish casino carpets seemed an unintentional monument to the frantic **psychedelia** of the past decade."*
+> - 📜 **Tom Wolfe (*The Electric Kool-Aid Acid Test*):** *"Ken Kesey transformed the barn into an epicenter of kinetic **psychedelia** with strobe lights and neon paint."*

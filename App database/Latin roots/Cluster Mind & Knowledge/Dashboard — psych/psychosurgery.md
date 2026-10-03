@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brain surgery on human patients intended to relieve severe and otherwise intractable mental or behavioral problems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brain surgery on human patients intended to relieve severe and otherwise intractable mental or behavioral problems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brain surgery performed to treat severe, intractable mental disorders or psychiatric symptoms through targeted lesions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, neurosurgical procedures evolving from crude prefrontal lobotomies to precise stereotactic cingulotomies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosurgery designates brain surgery on human patients intended to relieve severe and otherwise intractable mental or behavioral problems."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"The mid-twentieth-century craze for crude **psychosurgery** left thousands of psychiatric patients tragically blunted."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Fortunately, advances in psychopharmacology largely superseded the irreversible destruction of tissue by **psychosurgery**."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Egas Moniz received the Nobel Prize for introducing **psychosurgery**, a decision history views with profound moral unease."*

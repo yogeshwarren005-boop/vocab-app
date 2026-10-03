@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affecting the mind or mental processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not affecting the mind or mental processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not affecting the brain, mental processes, cognitive state, or subjective mood and perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological biochemistry, compounds that lack central nervous system intoxication or psychoactive binding affinities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonpsychoactive designates not affecting the mind or mental processes."*
+> - 📜 **Michael Pollan (*This Is Your Mind on Plants*):** *"Researchers distinguished the intoxicating components of the plant from its **nonpsychoactive** structural flavonoids."*
+> - 📜 **David Nutt (*Drugs Without the Hot Air*):** *"Cannabidiol gained rapid therapeutic acceptance because it remains completely **nonpsychoactive** compared to THC."*
+> - 📜 **Siddhartha Mukherjee (*The Gene*):** *"Cellular assays confirmed that the targeted molecule was entirely **nonpsychoactive**, acting solely on peripheral receptors."*

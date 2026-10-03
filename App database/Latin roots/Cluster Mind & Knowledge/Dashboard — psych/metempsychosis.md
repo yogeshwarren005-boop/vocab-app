@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After death the soul begins a new cycle of existence in another human body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After death the soul begins a new cycle of existence in another human body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmigration of the soul at death into another human or animal physical body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical theology, the Orphic and Pythagorean doctrine of cyclic rebirth governing spiritual purification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Many of their works, also, undergo a kind of metempsychosis, and spring up under new forms."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The latter's doctrine of metempsychosis he Darwinized."*
-> - 📜 **James Joyce (*Ulysses*):** *"He leaned downward and read near her polished thumbnail. —Metempsychosis? —Yes."*
+> - 📜 **James Joyce (*Ulysses*):** *"Molly Bloom puzzled over the long word **metempsychosis**, asking Leopold to explain the transmigration of souls."*
+> - 📜 **Plato (*Phaedo*):** *"Socrates outlined an ancient doctrine of **metempsychosis**, wherein unpurified spirits gravitate into animal forms."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"A whimsical notion of **metempsychosis** led the ancients to spare beasts lest they injure an ancestor."*

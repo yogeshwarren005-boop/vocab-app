@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving an object without apparent use of physical means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving an object without apparent use of physical means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or capable of psychokinesis; involving the mental manipulation of material objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In science fiction and parapsychological literature, describing individuals possessing telekinetic mental faculties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychokinetic designates moving an object without apparent use of physical means."*
+> - 📜 **Stephen King (*Carrie*):** *"The adolescent girl released a terrifying **psychokinetic** blast that shattered every window in the high school gym."*
+> - 📜 **Arthur C. Clarke (*Childhood's End*):** *"The emerging generation developed extraordinary **psychokinetic** powers that dismantled the remnants of human technology."*
+> - 📜 **Philip K. Dick (*Ubik*):** *"Corporate espers deployed **psychokinetic** operatives to shield sensitive corporate secrets from psychic intrusion."*

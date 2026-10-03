@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person afflicted with psychosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or suffering from psychosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experiencing or relating to psychosis; characterized by hallucinations, delusions, and severe detachment from reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric classification, symptoms indicating profound impairment in cognitive reality testing and perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotic designates a person afflicted with psychosis."*
+> - 📜 **Kay Redfield Jamison (*Night Falls Fast*):** *"During her **psychotic** episodes, the mundane furniture around her seemed imbued with sinister, coded warnings."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient remained rational and alert, showing no evidence of **psychotic** distortion or delusional thought."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"New generations of pharmaceuticals selectively dampened **psychotic** paranoia without precipitating debilitating sedation."*

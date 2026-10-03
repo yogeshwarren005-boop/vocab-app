@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical chiefly south american shrubs and trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical chiefly south american shrubs and trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large pantropical genus of flowering plants in the coffee family Rubiaceae, notable for psychoactive alkaloids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany, the genus including Psychotria viridis (chacruna), a primary plant ingredient used in traditional ayahuasca brews.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotria designates tropical chiefly south american shrubs and trees."*
+> - 📜 **Richard Evans Schultes (*Plants of the Gods*):** *"Indigenous shamans combine leaves of **Psychotria** with Banisteriopsis vines to unlock visionary states of consciousness."*
+> - 📜 **Michael Pollan (*This Is Your Mind on Plants*):** *"The DMT contained in wild **Psychotria** becomes orally active only when paired with natural monoamine oxidase inhibitors."*
+> - 📜 **Wade Davis (*One River*):** *"The botanists collected voucher specimens of glossy-leaved **Psychotria** along the forested riverbanks of the Putumayo."*

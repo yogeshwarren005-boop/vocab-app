@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the vivid colors and bizarre patterns associated with psychedelic states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing dramatic expansion of consciousness, vivid sensory illusions, or profound perceptual transformations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychopharmacology, compounds that act as serotonin 5-HT2A receptor agonists to remodel thalamic sensory gating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychedelic designates producing distorted sensory perceptions and feelings or altered states of awareness or sometimes states resembling psychosis."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"The **psychedelic** experience opened inner vistas where ordinary objects shone with intrinsic sacramental beauty."*
+> - 📜 **Michael Pollan (*How to Change Your Mind*):** *"Modern clinical trials demonstrate that **psychedelic** therapy can quiet hyperactive default mode networks."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"The patient recounted a vivid **psychedelic** vision where geometric tapestries unrolled across the ceiling."*

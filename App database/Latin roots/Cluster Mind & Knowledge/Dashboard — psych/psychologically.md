@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to psychology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of psychology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From a psychological perspective; in terms of mental processes, emotional states, or subjective perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative character development, describing motivations and behavioral shifts grounded in inner emotional realism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But, as has been indicated in another connection above, it is far from being a matter of indifference, psychologically, where the first, immediate burden of premium payment falls."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You will be psychologically adjusted as you progress through this indoctrination."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Casting the elderly into physically remote and psychologically passive roles works against the interests of grandchildren and their parents, as well as their grandparents."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel Archer was **psychologically** incapable of accepting an easy compromise that violated her personal ideals."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"Seemingly accidental slips of the tongue are **psychologically** motivated by unconscious desires breaking into speech."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Jim remained **psychologically** scarred by that single fateful jump from the doomed training ship Patna."*

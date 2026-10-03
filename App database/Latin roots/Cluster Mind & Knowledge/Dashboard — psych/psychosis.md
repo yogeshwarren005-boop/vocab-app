@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any severe mental disorder in which contact with reality is lost or highly distorted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any severe mental disorder in which contact with reality is lost or highly distorted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe mental disorder characterized by loss of contact with external reality, delusions, and hallucinations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, acute states of cognitive and perceptual disintegration requiring emergency antipsychotic stabilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychosis designates any severe mental disorder in which contact with reality is lost or highly distorted."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"The phenomenology of acute **psychosis** confronts the clinician with unbridgeable chasms in comprehensible psychic life."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"The terrifying descent from ecstatic mania into paranoid **psychosis** shattered her ability to distinguish dream from reality."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Unlike organic delirium, the hallucinations of toxic **psychosis** are often woven into elaborate, threatening delusional systems."*

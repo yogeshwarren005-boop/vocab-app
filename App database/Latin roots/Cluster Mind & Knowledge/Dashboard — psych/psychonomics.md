@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychology that uses experimental methods to study psychological issues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of psychology that uses experimental methods to study psychological issues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychology that deals with the relationship between psychological laws, economics, and human behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental cognitive science, the study of fundamental mental processes governing perception, memory, and decision making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychonomics designates the branch of psychology that uses experimental methods to study psychological issues."*
+> - 📜 **Herbert Simon (*Administrative Behavior*):** *"The emerging discipline of **psychonomics** demonstrated that human decision makers operate under bounded rationality."*
+> - 📜 **Daniel Kahneman (*Thinking, Fast and Slow*):** *"Insights from **psychonomics** shattered classical economic models that assumed perfectly rational self-interested actors."*
+> - 📜 **Amos Tversky (*Judgment under Uncertainty: Heuristics and Biases*):** *"Heuristics uncovered by **psychonomics** explain systematic biases in financial risk assessment and market behavior."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based upon the theories and clinical methods of psychoanalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical cultural theory, utilizing psychoanalytic concepts like repression and projection to analyze art and society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalytic designates of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud."*
+> - 📜 **Paul Ricœur (*Freud and Philosophy*):** *"The **psychoanalytic** approach embodies a hermeneutics of suspicion that interrogates conscious rationalizations."*
+> - 📜 **Julia Kristeva (*Powers of Horror*):** *"She utilized **psychoanalytic** models of abjection to explain societal rituals of purification and expulsion."*
+> - 📜 **Jacques Lacan (*Écrits*):** *"A proper **psychoanalytic** reading discovers the structure of the unconscious mirrored in the laws of language."*

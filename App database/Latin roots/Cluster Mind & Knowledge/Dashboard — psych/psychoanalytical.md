@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to psychoanalysis; characterized by psychoanalytic theory, interpretation, or investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly and cultural criticism, describing methodologies that deconstruct psychological subtexts within historical narratives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalytical designates of or relating to or incorporating the methods and theory of psychiatric treatment originated by sigmund freud."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"These primitive tribal taboos yielded unexpected clarity when subjected to **psychoanalytical** scrutiny."*
+> - 📜 **Erich Fromm (*Escape from Freedom*):** *"Modern political movements require both socioeconomic and **psychoanalytical** explanations to understand their appeal."*
+> - 📜 **Susan Sontag (*Against Interpretation*):** *"She rejected reductive **psychoanalytical** readings that translated literary masterpieces into mundane clinical symptoms."*

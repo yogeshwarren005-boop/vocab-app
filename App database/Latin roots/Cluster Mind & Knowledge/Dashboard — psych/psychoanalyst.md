@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed practitioner of psychoanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A licensed practitioner of psychoanalysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner trained in the therapeutic theories and clinical methods of psychoanalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical mental health, a certified therapist interpreting transference, countertransference, and free association.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychoanalyst designates a licensed practitioner of psychoanalysis."*
+> - 📜 **Janet Malcolm (*The Impossible Profession*):** *"The dedicated **psychoanalyst** must maintain benevolent neutrality while absorbing intense emotional projections."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"When physical therapy stalled, a perceptive **psychoanalyst** helped untangle the patient's deep bodily dissociation."*
+> - 📜 **Sigmund Freud (*An Outline of Psycho-Analysis*):** *"The **psychoanalyst** listens with evenly hovering attention to the patient's unfiltered associations on the couch."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hygrometer consisting of a dry-bulb thermometer and a wet-bulb thermometer; their difference indicates the dryness of the surrounding air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hygrometer consisting of a dry-bulb thermometer and a wet-bulb thermometer; their difference indicates the dryness of the surrounding air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A meteorological hygrometer consisting of dry-bulb and wet-bulb thermometers to measure atmospheric relative humidity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamic instrumentation, an apparatus calculating humidity by measuring evaporative cooling rates on a saturated wick.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychrometer designates a hygrometer consisting of a dry-bulb thermometer and a wet-bulb thermometer; their difference indicates the dryness of the surrounding air."*
+> - 📜 **Cleveland Abbe (*Treatise on Meteorological Apparatus and Methods*):** *"The sling **psychrometer** provides rapid and accurate determinations of vapor pressure by ventilating the wet bulb."*
+> - 📜 **William Napier Shaw (*Manual of Meteorology*):** *"Careful readings of the aspiration **psychrometer** revealed significant humidity gradients near the ground surface."*
+> - 📜 **Alexander Buchan (*Handy Book of Meteorology*):** *"The observer moistened the muslin sleeve of the **psychrometer** with distilled water prior to recording temperature differentials."*

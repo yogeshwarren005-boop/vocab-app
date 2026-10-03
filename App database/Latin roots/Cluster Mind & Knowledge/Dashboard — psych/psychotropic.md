@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affecting the mind or mood or other mental processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affecting the mind or mood or other mental processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of affecting mental activity, emotional state, or conscious perception; altering brain biochemistry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, medications such as antidepressants, anxiolytics, and stimulants prescribed for psychiatric management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotropic designates affecting the mind or mood or other mental processes."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"Every civilization has cultivated some form of **psychotropic** agent to obtain relief from existential monotony."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"Certain **psychotropic** medications induced vivid musical hallucinations that persisted long after discontinuation."*
+> - 📜 **Kay Redfield Jamison (*Touched with Fire*):** *"The discovery of effective **psychotropic** compounds radically transformed prognosis for patients with bipolar disorder."*

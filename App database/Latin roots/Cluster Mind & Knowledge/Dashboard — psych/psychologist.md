@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist trained in psychology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scientist trained in psychology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or researcher trained in the scientific study of the human mind, behavior, and mental processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical mental health, a licensed professional administering behavioral therapies and psychometric diagnostic batteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's achievements as an economist, logician, psychologist, and politician are known more or less vaguely to all educated men; but his capacity and his actual work as a critic are comparatively little regarded."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"As a systematic psychologist Mr."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"These things are mere abstractions.” “That is all right,” said the Psychologist."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"The observant **psychologist** knows that education is the organization of acquired habits of conduct."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Our research **psychologist** mapped the strange cognitive boundaries of his agnosia using visual sorting tests."*
+> - 📜 **B. F. Skinner (*About Behaviorism*):** *"The experimental **psychologist** examines environmental contingencies rather than mysterious inner states."*

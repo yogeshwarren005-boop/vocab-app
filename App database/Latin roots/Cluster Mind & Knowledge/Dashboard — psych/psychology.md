@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of mental life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of mental life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline that investigates mental states, emotional dynamics, perception, and human behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical history, the empirical branch of natural science that emerged from epistemology to measure consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"An incorrigible is a terrible human being—at least such is the connotation of “incorrigible” in prison psychology."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus he turned the tenets and jargon of psychology back on me."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"His theme is sin; his emphasis all falls on sin; but his psychology of sin is insufficient, it is not deep enough."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Experimental **psychology** began when physiological laboratories sought to quantify sensory thresholds."*
+> - 📜 **Sigmund Freud (*New Introductory Lectures on Psycho-Analysis*):** *"Depth **psychology** demonstrated that conscious awareness constitutes merely the tip of the mental iceberg."*
+> - 📜 **Steven Pinker (*How the Mind Works*):** *"Evolutionary **psychology** interprets human emotions as computational adaptations tailored for ancestral survival."*

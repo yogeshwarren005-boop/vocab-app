@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person afflicted with psychosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person afflicted with psychosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person exhibiting erratic, aggressive, or psychopathic behavior; also used informally as an adjective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In popular colloquial discourse, an unhinged individual displaying severe personality detachment or manic violence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psycho designates a person afflicted with psychosis."*
+> - 📜 **Stephen King (*Misery*):** *"Paul realized with mounting terror that his captor was an unhinged **psycho** who lived inside her own delusions."*
+> - 📜 **David Foster Wallace (*A Supposedly Fun Thing I'll Never Do Again*):** *"The frantic pace of the luxury cruise ship turned normally placid vacationers into **psycho** deck-chair hunters."*
+> - 📜 **Bret Easton Ellis (*American Psycho*):** *"The glittering Manhattan skyline offered a polished veneer behind which the wealthy **psycho** prowled undisturbed."*

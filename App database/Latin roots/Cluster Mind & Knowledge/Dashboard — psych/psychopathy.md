@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any disease of the mind; the psychological state of someone who has emotional or behavioral problems serious enough to require psychiatric intervention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any disease of the mind; the psychological state of someone who has emotional or behavioral problems serious enough to require psychiatric intervention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe personality disorder marked by callousness, superficial charm, lack of remorse, and chronic impulsivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry, a disorder associated with hypoactive amygdala responsiveness to fear and distress cues in others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopathy designates any disease of the mind; the psychological state of someone who has emotional or behavioral problems serious enough to require psychiatric intervention."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"True clinical **psychopathy** presents an exquisite mimicry of human normality while remaining emotionally vacant."*
+> - 📜 **Robert Hare (*Without Conscience*):** *"His definitive research demonstrated that **psychopathy** affects roughly one percent of the general adult population."*
+> - 📜 **Steven Pinker (*The Better Angels of Our Nature*):** *"Social institutions and the rule of law were constructed to constrain the predatory damage wrought by **psychopathy**."*

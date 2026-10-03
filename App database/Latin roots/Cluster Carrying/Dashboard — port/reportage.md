@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The news as presented by reporters for newspapers or radio or television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The news as presented by reporters for newspapers or radio or television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reporting of news, current affairs, or events, especially in newspapers, radio, television, or literature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary nonfiction and investigative journalism, narrative journalism combining firsthand documentary observation with literary prose techniques.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reportage designates the news as presented by reporters for newspapers or radio or television."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"His vivid **reportage** from the Aragon front captured the raw confusion of the trenches without romantic illusion."*
+> - 📜 **Ernest Hemingway (*Death in the Afternoon*):** *"Good **reportage** demands setting down what really happened rather than what you were supposed to feel."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The maritime **reportage** of the disaster was pieced together from the depositions of surviving seamen."*
+

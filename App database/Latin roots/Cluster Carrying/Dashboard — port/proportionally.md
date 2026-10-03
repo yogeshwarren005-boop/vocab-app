@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a proportionate degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a proportionate degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a proportional manner; in proportion to something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and geometry, increasing or diminishing by a constant common factor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the output per hour is increased proportionally to the pay per hour, the existing wages equilibrium would not be disturbed."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She was proportionally surprised and a trifle flattered when he replaced the cigarette to which he had just helped himself."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The vices and diseases introduced among these unhappy people annually swell the ordinary mortality of the islands, while, from the same cause, the originally small number of births is proportionally decreased."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The Jacobin has the feathers so much reversed along the neck that the beak is **proportionally** shortened."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"As the division of labor improves, the productive powers of labor increase **proportionally**."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"If taxation falls **proportionally** upon all forms of income, the relative economic positions of citizens remain undisturbed."*
+

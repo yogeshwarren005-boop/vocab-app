@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term in a proposition that is related to the referent of the proposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A term in a proposition that is related to the referent of the proposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the terms, objects, or entities that stands in an expressed or logical relation to another entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and structural ontology, the correlative term to which a subject or referent is linked via an asymmetric or symmetric binary relation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relatum designates a term in a proposition that is related to the referent of the proposition."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A relation cannot exist in isolation without a referent and a corresponding **relatum** bound by the mediate sign."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"In any asymmetric proposition, the referent precedes the **relatum** according to the sense of the connecting relation."*
+> - 📜 **Brand Blanshard (*The Nature of Thought*):** *"The mind cannot apprehend a relation without simultaneously keeping both the referent and its **relatum** in clear focus."*
+

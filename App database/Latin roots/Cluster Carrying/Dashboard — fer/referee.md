@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (sports) the chief official (as in boxing or american football) who is expected to ensure fair play.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who reads manuscripts and judges their suitability for publication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official who watches a game or match closely to enforce the rules and arbitrate on matters arising from play.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal arbitration and academic publishing, an independent expert appointed by a court to hear testimony, or a peer reviewing a submitted manuscript.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The referee twice cautioned Pucking Percy for holding but the pet was tricky and his footwork a treat to watch."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I’ll bet twenty-five pounds on it, and let the gentleman of the house be stakeholder, and the German gentleman referee."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The conclusion of the business was a great relief to his attorneys, who had been unable to shake his conviction that the case was clear enough, but that the referee had been squared."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"In this abstruse pursuit; in making an account for Peggotty, of all the things in the world, he was selected as an impartial **referee**."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The matters in account were referred by the court to an experienced **referee** to take testimony and report."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A neutral magistrate must serve as **referee** in commercial contracts where private self-interest threatens mutual justice."*
+

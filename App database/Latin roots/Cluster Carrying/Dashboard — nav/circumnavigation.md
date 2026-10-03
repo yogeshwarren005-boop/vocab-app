@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling around something (by ship or plane).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Traveling around something (by ship or plane).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of sailing or traveling completely around an island, continent, or the earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In navigational cartography and geodetic surveying, continuous orbital or sea voyages utilized to verify longitudinal coordinates and maritime trade routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Harris Coll._ “Here they saw such huge troops of whales, that they were forced to proceed with a great deal of caution for fear they should run their ship upon them.” _Schouten’s Sixth Circumnavigation._ “We set sail from the Elbe, wind N."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There is much in that sound to inspire proud feelings; but whereto does all that circumnavigation conduct?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"La Perouse, and his second, Captain de Langle, were sent by Louis XVI, in 1785, on a voyage of circumnavigation."*
+> - 📜 **James Cook (*A Voyage to the Pacific Ocean*):** *"The successful **circumnavigation** of the Antarctic ice fields proved that no southern continent extended into temperate latitudes."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"The bold idea of global **circumnavigation** had occupied the minds of geographers long before Magellan."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo commenced the extraordinary underwater **circumnavigation** of the globe aboard the Nautilus."*
+

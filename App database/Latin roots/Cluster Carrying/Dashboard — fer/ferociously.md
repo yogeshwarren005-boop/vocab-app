@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a physically fierce manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a physically fierce manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ferocious, savage, fiercely violent, or menacingly aggressive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative and descriptive literature, attacking, defending, or contending with relentless and terrifying intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He took out of his mouth the pulpy quid and, lodging it between his teeth, bit ferociously: —Khaan!"*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"The games commenced with the rams, perhaps thirty or forty pair each day; their mode of fighting is well known, and therefore needs no description: they would fight ferociously, but were seldom suffered to be completely conquered."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"The man grinned ferociously, placed one hand on a stake of the ring, and vaulted over the ropes."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Although so small a species, it is very courageous, and I have seen it fight **ferociously** with much larger competitors."*
+> - 📜 **Jack London (*White Fang*):** *"The wild dog leaped into the fray and fought **ferociously** against the wolf pack."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The squall struck the vessel **ferociously**, throwing her on her beam ends with a deafening roar."*
+

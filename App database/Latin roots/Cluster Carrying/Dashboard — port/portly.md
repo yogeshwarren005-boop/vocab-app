@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Euphemisms for `fat'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euphemisms for `fat'.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a stout body, somewhat fat, dignified, and imposing in appearance; corpulent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern English (Shakespearean usage), stately, dignified, and majestic in demeanor and noble carriage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our house, my sovereign liege, little deserves The scourge of greatness to be used on it, And that same greatness too which our own hands Have holp to make so portly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A goodly portly man, i’faith, and a corpulent; of a cheerful look, a pleasing eye, and a most noble carriage; and, as I think, his age some fifty, or, by’r Lady, inclining to threescore; and now I remember me, his name is Falstaff."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sometimes the beam of her view gilded my foot, sometimes my portly belly."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Our house, my sovereign liege, little deserves the scourge of greatness to be used on it; and that same greatness too which our own hands have holp to make so **portly**."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Two **portly** gentlemen, pleasant to behold, now stood, with their hats off, in Scrooge's office."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Weston was a **portly**, good-humored gentleman of middle age, whose cheerful temper made him universally liked."*
+

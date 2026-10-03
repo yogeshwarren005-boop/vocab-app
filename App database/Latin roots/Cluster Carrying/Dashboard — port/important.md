@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of great significance or value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Important in effect or meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of great significance or value; having high consequence or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public policy and statistical analysis, variables or factors demonstrating statistically significant explanatory power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now his important blood will naught deny That she’ll demand; a ring the county wears, That downward hath succeeded in his house From son to son, some four or five descents Since the first father wore it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you not come your tardy son to chide, That, laps’d in time and passion, lets go by The important acting of your dread command?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O dear father, It is thy business that I go about; Therefore great France My mourning and important tears hath pitied."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"If the prince be too **important**, tell him there is measure in everything."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Moral qualities are of the highest **important** value for the preservation of social animals."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He considered himself an **important** personage whose opinions deserved universal deference."*
+

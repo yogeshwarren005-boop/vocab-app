@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of living together in tribes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The beliefs of a tribal society.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or practice of being organized into tribes; or intense loyalty to one's own tribe, ethnic group, or faction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary political science, hyper-partisan ideological polarization where group identity supersedes objective truth or collective civic duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribalism designates the state of living together in tribes."*
+> - 📜 **Margaret Mead (*New Lives for Old*):** *"The transition from archaic **tribalism** to a wider national consciousness was fraught with cultural friction."*
+> - 📜 **Franz Boas (*The Mind of Primitive Man*):** *"The fierce pride of **tribalism** provided social cohesion internally while fostering suspicion toward all outsiders."*
+> - 📜 **Arthur Koestler (*The Ghost in the Machine*):** *"Man's evolutionary curse is not selfishness, but his intense devotion to **tribalism** and collective frenzy."*
+

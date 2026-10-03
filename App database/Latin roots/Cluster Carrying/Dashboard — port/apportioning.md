@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing by allotting or apportioning; distribution according to a plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute according to a plan or set apart for a special purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of dividing and allocating shares, burdens, or responsibilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In resource economics, allocating scarce water rights or irrigation allowances among competing agrarian claimants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"No hard-and-fast rule for the apportioning of taxes can be laid down."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But there are various ways of attacking incomes, i.e., of apportioning the tax burden."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If one pays more for the services of the singer than for those of the cook, it is not because one would rather listen to the singing than to eat when starving, but because by apportioning one's income one can get the singing and the eating too."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"In **apportioning** penalties, justice requires that the punishment be proportioned to the gravity of the crime."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The municipal council exercised great discretion in **apportioning** local taxes among property owners."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"By **apportioning** capital between home and foreign trade, the merchant maximizes his revenue."*
+

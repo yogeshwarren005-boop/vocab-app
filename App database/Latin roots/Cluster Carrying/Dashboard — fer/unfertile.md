@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of reproducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of reproducing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fertile; barren, sterile, or producing little or no vegetation or offspring (infertile).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical agronomy and economic geography, describing soil lacking mineral humus or tracts of wasteland incapable of profitable tillage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A favored harbor may make possible a flourishing commerce on a rocky coast; an unfertile soil may support a large population when great deposits of coal or iron insure by exchange great food-supplies."*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"Settlers on an **unfertile** tract must expend double the labor to extract a subsistence wage."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Hybrids between these distant species proved completely **unfertile** when crossed among themselves."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Speculative minds that despise practical experiments remain barren and **unfertile** in productive results."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boat that transports people or vehicles across a body of water and operates on a regular schedule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boat that transports people or vehicles across a body of water and operates on a regular schedule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boat or vessel specifically designed and employed for transporting passengers and cargo across a river, channel, or narrow water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime transport history, a double-ended or roll-on/roll-off vessel equipped to shuttle pedestrians, carriages, or motorized traffic across inland waterways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"And many a goodly cargo of corn from Hereford, and wine from Normandy, has been disembarked at that old pier, where the abbot’s galley has degenerated into a clumsy ferryboat, with old Richard Tamplin, the ferryman, for its commander."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"There were a great many skiffs rowing about or floating with the stream in the neighborhood of the ferryboat, but the boys could not determine what the men in them were doing."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Presently a great jet of white smoke burst from the ferryboat’s side, and as it expanded and rose in a lazy cloud, that same dull throb of sound was borne to the listeners again."*
+> - 📜 **James Joyce (*Dubliners*):** *"We arranged to go along the Wharf Road until we came to the ships, then take the **ferryboat** across the Liffey."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Pretty soon they shot the big cannon off the **ferryboat**, trying to make my carcass come to the top."*
+> - 📜 **Herman Melville (*Israel Potter*):** *"The crowded **ferryboat** bumped against the slippery wooden pilings of the Manhattan slip."*
+

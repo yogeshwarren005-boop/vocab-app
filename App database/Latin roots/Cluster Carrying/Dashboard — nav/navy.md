@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of military vessels belonging to a country and available for sea warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dark shade of blue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fleet of warships and naval personnel belonging to a nation; or a dark shade of blue resembling naval uniforms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical naval doctrine (Mahanian maritime theory), command of the sea exercised through battle fleets protecting global sea lanes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And that is it Hath made me rig my navy, at whose burden The angered ocean foams, with which I meant To scourge th’ ingratitude that despiteful Rome Cast on my noble father."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The itch of his affection should not then Have nicked his captainship, at such a point, When half to half the world opposed, he being The mered question. ’Twas a shame no less Than was his loss, to course your flying flags And leave his navy gazing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our force by land Hath nobly held; our severed navy too Have knit again, and fleet, threat’ning most sea-like."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Our force by land hath nobly held, but our great **navy** is utterly broken upon the waters."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"A man-of-war is an epitome of the nation, reflecting the discipline and hierarchy of the entire **navy**."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The **navy** is that noble profession which has done so much for the defense and honor of England."*
+

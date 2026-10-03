@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a superlative degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a superlative degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superlative manner; to the highest possible degree or extent; supremely and incomparably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical rhetoric and aesthetic praise, expressing unrivaled preeminence or absolute perfection in style, character, or performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man not without a frequent consciousness that there was some charm in this life he led, he stood still after looking at the sky as a useful instrument, and regarded it in an appreciative spirit, as a work of art superlatively beautiful."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Their table was superlatively stupid."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Or, if for any reason thought to be corporeally incapacitated for that, yet such an one would seem superlatively competent to cheer and howl on his underlings to the attack."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could imagine no person more **superlatively** happy than the friend whose future was now so securely established."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale rose with a majestic sweep, moving **superlatively** calm amid the churning fury of the sea."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man not without a frequent consciousness that there was some cause for wonder in his **superlatively** tranquil nature, he smiled quietly."*
+

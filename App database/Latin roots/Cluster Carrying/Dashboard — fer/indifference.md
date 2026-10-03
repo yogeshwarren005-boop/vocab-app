@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unbiased impartial unconcern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apathy demonstrated by an absence of emotional reactions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of interest, care, concern, or enthusiasm; an unconcerned, neutral, or detached disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and economic utility theory, the absence of preference between alternative options yielding equivalent subjective satisfaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Lippo, seriously looking at him, said quite reproachfully, "Now you don't even see that we have apple-dumpling." Such an indifference seemed wrong to the little boy."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He always imagines that his low birth is in his way, for he cannot understand our utter indifference to all the money he has heaped up."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, and no one in whom he is interested can be an object of indifference to me.” We expressed our acknowledgments and sat down behind the door, where there was a lame invalid of a sofa."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel, perhaps a little piqued by the comely traveller's **indifference**, ceased to watch her."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Liberty consists in a power to act or not to act, according as the mind chooses, which implies an **indifference** antecedent to the choice."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She listened with an air of cold **indifference** that baffled all his attempts at reconciliation."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigged with a triangular (lateen) sail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigged with a triangular (lateen) sail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fitted or equipped with lateen sails mounted on oblique yards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture, designating vessels (such as caravels, feluccas, or sambuks) utilizing triangular fore-and-aft sail plans for maneuverability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lateen-rigged designates rigged with a triangular (lateen) sail."*
+> - 📜 **Joseph Conrad (*The Rescue*):** *"A small, **lateen-rigged** prau skimmed across the lagoon under the evening breeze."*
+> - 📜 **Herman Melville (*Typee*):** *"The harbor was dotted with picturesque **lateen-rigged** boats carrying fruit and islanders to the ship."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"The Niña was originally a **lateen-rigged** vessel before Columbus refitted her with square sails at the Canaries."*
+

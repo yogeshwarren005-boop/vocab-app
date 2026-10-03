@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being in due proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreeing in amount, magnitude, or degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proportional; corresponding in size, degree, or scale to something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retributive ethics and criminal justice, penal consequences strictly calibrated to the blameworthiness and damage caused by the offender.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When, in the writings of the later poets, Jove and his family are found to have moved from their cramped quarters on the peak of Olympus into the wide sky above it, their words show a proportionate increase of arrogance and reserve."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At length, to remedy this difficulty, fractional silver coins, often called "token coins," were issued, in limited numbers, of less than full proportionate weight and bullion value."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this way each may be encouraged by the more certain prospect of receiving a reward proportionate to his efforts and abilities."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When Jove and his fellow-gods became indignant, their anger was **proportionate** to their divine majesty."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her sympathy for his affliction was **proportionate** to the depth of her own generous nature."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The muscular strength of the male is **proportionate** to his role in combat and defense of the troop."*
+

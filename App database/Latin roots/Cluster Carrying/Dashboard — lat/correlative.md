@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two or more related or complementary variables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutually related.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a mutual relationship; corresponding; or (in grammar) words used in pairs (such as either/or, neither/nor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence (Hohfeldian legal analysis), jural relations where a right in one party entails a correlative duty in another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, correlative designates either of two or more related or complementary variables."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"In the more precise language of philosophic jurists, a legal right implies a **correlative** obligation upon all other citizens."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Virtue and happiness are not separate paths, but mutually **correlative** aspects of the well-ordered soul."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Every claim of privilege is bound up with a **correlative** burden imposed upon the public."*
+

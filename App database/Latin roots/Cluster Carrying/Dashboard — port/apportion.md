@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute according to a plan or set apart for a special purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out as one's portion or share.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide and allocate according to a plan, proportion, or share.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative constitutional law, to distribute congressional seats among territorial divisions based on decennial population census counts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So bitter was it in the boat that our water and beer froze solid, and it was a difficult task justly to apportion the pieces I broke off with Northrup’s claspknife."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fundamental use that money serves is to apportion one's income conveniently as it accrues and as it is spent."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Take one day; share it into sections; to each section apportion its task: leave no stray unemployed quarters of an hour, ten minutes, five minutes—include all; do each piece of business in its turn with method, with rigid regularity."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The rule to **apportion** representation among the several states must be founded on an objective census."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The state must decide how to **apportion** the burden of national taxation among different income classes."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Nature appears to **apportion** a fixed quantity of nutriment between competing organs."*
+

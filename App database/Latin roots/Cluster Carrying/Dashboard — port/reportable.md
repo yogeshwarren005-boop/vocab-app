@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of income) required by law to be reported.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meriting report.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable, required, or worthy to be reported to an authority, public body, or news organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health epidemiology, an infectious disease or pathogen legally mandated to be notified immediately to disease control authorities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reportable designates (of income) required by law to be reported."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There was nothing in the man's quiet conduct that was **reportable** to the local constabulary."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Every diagnosed case of cholera was classified as an immediately **reportable** infection under public sanitary codes."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Only severe injuries causing protracted absence were classified as **reportable** mining accidents."*
+

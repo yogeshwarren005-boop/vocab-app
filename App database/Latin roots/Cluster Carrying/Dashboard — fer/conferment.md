@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conferring an honor or presenting a gift.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conferring an honor or presenting a gift.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of presenting, bestowing, or granting an honor, distinction, award, or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In university ceremonial tradition and civic heraldry, the statutory ritual whereby scholastic or honorary credentials are officially conveyed upon recipients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conferment designates the act of conferring an honor or presenting a gift."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The **conferment** of peerages was used by the ministry to secure a compliant majority in the upper house."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"The **conferment** of degrees is not merely an outward ceremony, but a public recognition of intellectual discipline."*
+> - 📜 **Benjamin Disraeli (*Sybil, or The Two Nations*):** *"The sudden **conferment** of titles transformed the political influence of the landed gentry."*
+

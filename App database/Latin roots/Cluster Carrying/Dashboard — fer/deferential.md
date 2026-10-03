@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing deference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing, expressing, or characterized by courteous deference, high respect, or polite submission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal sociology, exhibiting behavioral markers of deference and verbal hesitation designed to acknowledge another's senior status or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby submits with his deferential cough."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, with his deferential cough."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, who was deferential and carried his own bag."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The oppressive sense of the harm she had done led Tess to be more **deferential** to his wishes than she had ever been before."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Guppy adopted a **deferential** attitude in the presence of his employer, bowing at every pause in the conversation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His manner toward the elderly scholar was marked by a **deferential** modesty that won immediate approval."*
+

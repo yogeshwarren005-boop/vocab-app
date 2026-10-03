@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of a tribe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of a tribe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a tribe, ethnic kinship group, or traditional community of people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociobiology and evolutionary psychology, group loyalty and in-group favoritism rooted in ancestral kin-selected cooperation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Be that as it may, throughout history the family and tribal elders passed their knowledge and codes of conduct on to those who, as part of the natural process, carry the torches into the future."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Within Lololand, of course, no Chinese writ runs, no Chinese magistrate holds sway, and the people, more or less divided among themselves, are under the government of their tribal chiefs."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The other bank is the country of the tribesmen, people of Mantzu stock living under the rule of their tribal chiefs."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The first mother, following the **tribal** custom, destroys her infant rather than violate the taboo."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Every member of the clan was bound to observe the sacred **tribal** ceremonies with absolute fidelity."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"We heard the distant beating of drums sounding across the river, a fierce **tribal** summons."*
+

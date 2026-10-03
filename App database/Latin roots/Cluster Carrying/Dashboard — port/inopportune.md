@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not opportune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not opportune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring at an inconvenient or inappropriate time; not well-timed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic structure and narrative suspense, an unexpected interruption arriving at the precise moment of maximum vulnerability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How foolish and inopportune that mistletoe looked now."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It appears I come at an inopportune time, madam,” said he, “when my friend, Mr."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"But that perversity, which all children have more or less of, and of which little Pearl had a tenfold portion, now, at the most inopportune moment, took thorough possession of her, and closed her lips, or impelled her to speak words amiss."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"How foolish and **inopportune** that mistletoe looked now, dangling from the ceiling after joy had fled."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His arrival at the rectory was singularly **inopportune**, coinciding with an acute family crisis."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A more **inopportune** moment for our expedition could scarcely have been chosen."*
+

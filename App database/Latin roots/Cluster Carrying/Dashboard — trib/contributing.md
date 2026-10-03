@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bestow a quality on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contribute to some cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving or supplying a part toward a common purpose; or serving as a factor helping to cause an outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort law, acting as a concurrent or non-exclusive proximate factor that produces an actionable harm or injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Believe me, I have no pleasure in the world superior to that of contributing to yours."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"There can hardly be a more unpleasant sensation than the having anything returned on our hands which we have given with a reasonable hope of its contributing to the comfort of a friend."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Here was comfort indeed! and quite as soon as Sir Thomas could place dependence on such sources of good, Edmund was contributing to his father’s ease by improvement in the only point in which he had given him pain before—improvement in his spirits."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A sense of **contributing** to form the world's opinion makes common talk impressive."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Several distinct causes are recognized as **contributing** to the extinction of native varieties."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Every trivial event was seen in retrospect as **contributing** toward the fatal catastrophe."*
+

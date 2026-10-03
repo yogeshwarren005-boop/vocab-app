@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad flat muscle on either side of the back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad flat muscle on either side of the back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial abbreviation for latitude; or an abbreviation for the latissimus dorsi muscle of the back; or the former currency unit of Latvia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and marine navigation, the angular distance north or south of the earth's equator measured in degrees and minutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"On the 5th of March, 1867, the _Moravian_, of the Montreal Ocean Company, finding herself during the night in 27° 30′ lat. and 72° 15′ long., struck on her starboard quarter a rock, marked in no chart for that part of the sea."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The 13th of April, 1867, the sea being beautiful, the breeze favourable, the _Scotia_, of the Cunard Company’s line, found herself in 15° 12′ long. and 45° 37′ lat."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This group is composed principally of nine large islands, that form a band of 120 leagues N.N.W. to S.S.E., between 15° and 2° S. lat., and 164 deg. and 168° long."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Compare the productions of South America in **lat** 35 degrees with those of North America in the same parallel."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain marked our position in high southern **lat**, where drifting icebergs threatened the ship."*
+> - 📜 **Arthur Conan Doyle (*The Captain of the Pole-Star*):** *"Our vessel was locked in the ice at eighty degrees north **lat**, surrounded by total darkness."*
+

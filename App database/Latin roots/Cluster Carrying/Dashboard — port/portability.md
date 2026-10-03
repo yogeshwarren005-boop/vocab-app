@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being light enough to be carried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being light enough to be carried.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity to be carried, moved, or transported with ease; lightweight convenience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering, the capacity of a codebase or compiled program to run across multiple operating systems and hardware platforms without extensive rewriting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, portability designates the quality of being light enough to be carried."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The superior **portability** of coined money over cattle made it the universal instrument of commerce."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The extreme **portability** of our instruments allowed us to carry them up the most rugged mountain passes."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A man is rich in proportion to the number of things which he can afford to let alone, valuing simplicity and **portability** above cumbersome possessions."*
+

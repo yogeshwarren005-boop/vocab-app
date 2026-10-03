@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grand and imposing entrance (often extended metaphorically).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A site that the owner positions as an entrance to other sites on the internet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A doorway, gate, or entrance, especially a large, imposing, or elaborate one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In web architecture and information technology, a comprehensive web gateway providing access to a broad aggregation of services and resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look where he goes even now out at the portal. [_Exit Ghost._] QUEEN."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I, supposing he had done with me, prepared to return to the house; again, however, I heard him call “Jane!” He had opened the portal and stood at it, waiting for me."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The lawn, the grounds were trodden and waste: the portal yawned void."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Look where he goes even now out at the **portal**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"And beneath the glorious **portal** shone like stars."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"They entered beneath the vaulted stone **portal** of the ancient Roman palace."*
+

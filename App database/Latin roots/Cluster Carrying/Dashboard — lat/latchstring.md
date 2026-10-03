@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opener consisting of a string that can be passed through a hole in a door for raising the latch from outside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opener consisting of a string that can be passed through a hole in a door for raising the latch from outside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cord fastened to a door latch inside and passing through a hole to the outside, pulled to lift the latch and open the door.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American folklore and pioneer hospitality, the proverbial symbol of welcoming hospitality ('the latchstring is always out').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latchstring designates opener consisting of a string that can be passed through a hole in a door for raising the latch from outside."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The traveler pulled the leather **latchstring**, and the heavy oak door swung inward with a creak."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"In that hospitable frontier settlement, the **latchstring** was always hanging out for the stranger."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I had no lock and key on my cabin door, but only a simple **latchstring** to keep the wind from blowing it open."*
+

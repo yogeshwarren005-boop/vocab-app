@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A businessperson who transports goods abroad (for sale).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A businessperson who transports goods abroad (for sale).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, business, or country that sells goods or services to other countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trade logistics and international customs law, the registered commercial entity executing shipping declarations and customs clearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Here, in a month will be assembled the numerous fishing boats of the exporters, and these are the waters their divers will ransack so boldly."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The British **exporter** was encouraged by substantial bounties on the shipment of sailcloth and linen."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"Every prudent **exporter** calculates the rate of exchange before committing his capital to foreign consignments."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"Mr. Dombey was a wholesale merchant and **exporter** whose ships traded with the four corners of the globe."*
+

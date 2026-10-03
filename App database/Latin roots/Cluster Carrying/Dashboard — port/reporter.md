@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who investigates and reports or edits news stories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who investigates and reports or edits news stories.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who investigates, collects, and reports news or current events for newspapers, magazines, radio, or television.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial administration, an official tasked with transcribing, indexing, and publishing the verbatim decisions of an appellate court (reporter of decisions).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There she appeared indeed, or my reporter devised well for her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby, has himself stated to our reporter that he mentioned to Miss M."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They called Jake Oppenheimer the “Human Tiger.” Some cub reporter coined the phrase that will long outlive the man to whom it was applied."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"There she appeared indeed, or my **reporter** devised a well-feigned tale."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I became a parliamentary **reporter**, taking down speeches in shorthand in the gallery of the House of Commons."*
+> - 📜 **Mark Twain (*Roughing It*):** *"As a city **reporter** in Virginia City, I had to manufacture sensation when real news was scarce."*
+

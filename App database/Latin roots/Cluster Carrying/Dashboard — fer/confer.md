@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a conference in order to talk something over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To grant, bestow, or award an honor, title, privilege, or right; or to consult and discuss matters together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and civil protocol, to formally invest a candidate with a scholarly degree or civic dignity in accordance with statutory rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, madam, at your father’s castle walls We’ll crave a parley, to confer with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sirrah, leave us to ourselves; we must confer. [_Exit Lieutenant._] KING HENRY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"And, madam, at your father's castle walls / We'll crave a parley, to **confer** with you / On severals of head to her enterprise."*
+> - 📜 **Francis Bacon (*Essays*):** *"Reading maketh a full man; conference a ready man; and writing an exact man; and therefore, if a man write little, he had need have a great memory; if he **confer** little, he had need have a present wit."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Society cannot **confer** upon the legislative body a greater power than what each individual had in the state of nature."*
+

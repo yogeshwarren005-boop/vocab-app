@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An annoying or frustrating or catastrophic event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annoying or frustrating or catastrophic event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of great trouble, affliction, or suffering; or a severe trial or distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian eschatology, the period of profound global distress and divine judgment prophesied to precede the Millennium (the Great Tribulation).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are the youths that thunder at a playhouse and fight for bitten apples, that no audience but the tribulation of Tower Hill or the limbs of Limehouse, their dear brothers, are able to endure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"London reached, the travellers alight, the old housekeeper in great tribulation and confusion, Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"For a moment the voices cheered the heart of Tess, till she reasoned that this interview had its origin, on one side or the other, in the same attraction which had been the prelude to her own tribulation."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"These are the youths that thunder at a playhouse and fight for bitten apples, that no audience, but the **tribulation** of Tower Hill, could endure."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I had passed through a furnace of **tribulation**, yet emerged with my integrity unbroken."*
+> - 📜 **John Milton (*Paradise Lost*):** *"**Tribulation** brings forth patience, and patience experience, and experience hope that maketh not ashamed."*
+

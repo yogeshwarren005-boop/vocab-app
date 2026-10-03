@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make reference to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be relevant to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To direct the attention of someone to something for information, verification, or decision; or to make reference or allusion to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial arbitration and library research, to submit a contested case to an arbitrator, or to direct an inquirer to an authority or index.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only refer yourself to this advantage: first, that your stay with him may not be long; that the time may have all shadow and silence in it; and the place answer to convenience."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your honours all, I do refer me to the oracle: Apollo be my judge!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wonder the very paving-stones opposite our house can have the patience to stay there and be a witness of such inconsistencies and contradictions as all that sounding nonsense, and Ma’s management!” I could not but understand her to refer to Mr."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Only **refer** yourself to this advantage: first, that your stay with him may not be long; that the place may be dignified by the reason of it."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When we seek to clarify our thoughts, we must **refer** our ideas back to the simple sensations from which they originated."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Authors frequently **refer** to the applause of posterity when neglected by their own generation."*
+

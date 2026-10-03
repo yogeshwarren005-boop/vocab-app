@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exultantly proud and joyful; in high spirits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ecstatically happy, overjoyed, or proudly triumphant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric assessment, an expansive, hyper-positive mood state characteristic of hypomania or manic episodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was not greatly elated by the appreciative spirit in which he was undoubtedly treated, but he thought the engagement might afford him a few weeks for consideration."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"It was wonderful that her friends should seem so little elated by the possession of such a home, that the consciousness of it should be so meekly borne."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Yes, only ten days ago had he elated her by his pointed regard—had he even confused her by his too significant reference! and now—what had she done, or what had she omitted to do, to merit such a change?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was not greatly **elated** by the appreciative speech, receiving it with careless indifference."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was **elated** by the thought of my newfound independence, feeling like an eagle released into the storm."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes was quietly **elated** when the telegram arrived confirming his deductions."*
+

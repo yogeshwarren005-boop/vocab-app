@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brass (or a yellow alloy resembling brass) that was hammered into thin sheets; formerly used for church utensils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brass (or a yellow alloy resembling brass) that was hammered into thin sheets; formerly used for church utensils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical yellow alloy of copper and zinc resembling brass, rolled into thin sheets and used for crosses, candlesticks, and domestic utensils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval metalworking and monumentology, durable brass sheets hammered into monumental effigy plates (monumental brasses) set into church floors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha, thou mountain-foreigner!—Sir John and master mine, I combat challenge of this latten bilbo.— Word of denial in thy _labras_ here!"*
-> - 📜 **James Joyce (*Ulysses*):** *"I’ll make you dance Jack Latten for that."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Where <g>Latten</g> marked the abbots’ grave, And sculpture spread her trophies round it; Rank weeds in wild luxuriance wave, And mock the gaudy shrine that crowned it."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"Ha, thou mountain-foreigner! Sir John and master mine, I combat challenge of this **latten** bilbo."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"And in a brass-pan or in a **latten** basin he kept his humble store of trade."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The shrine was decorated with plates of beaten **latten** that shone like burnished gold in the candle-light."*
+

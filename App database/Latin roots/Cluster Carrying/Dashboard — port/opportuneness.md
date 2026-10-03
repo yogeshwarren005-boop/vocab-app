@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Timely convenience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timely convenience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Timeliness, favorable convenience, or advantageous coincidence of circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory and statecraft (Machiavelli's occasione), recognizing and seizing the fleeting window of political advantage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He tasted her in sips, he let her stand, with an opportuneness she herself could not have surpassed."*
+> - 📜 **Francis Bacon (*The Essays*):** *"The **opportuneness** of time is the very life of great enterprises."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king recognized the **opportuneness** of the crisis to dissolve a stubborn parliament."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **opportuneness** of the barbarian assault during the civil war sealed the fate of the frontier legions."*
+

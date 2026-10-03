@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Portray in words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a portrait of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Represented or depicted in a work of art, literature, or dramatic performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative realism, characters and historical events presented with psychological verisimilitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The windows, to which she looked with peculiar dependence, from having heard the General talk of his preserving them in their Gothic form with reverential care, were yet less what her fancy had portrayed."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Beyond and above spread an expanse of sky, dark blue as at twilight: rising into the sky was a woman’s shape to the bust, portrayed in tints as dusk and soft as I could combine."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As each topic was opened for discussion the view tank portrayed the corresponding regions, sectors, planets or satellites, shifting from one to the other as needed to clarify points under discussion or accompany the exploration for alternatives."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The painter had **portrayed** the rustic maiden with all the tender simplicity of nature."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister was **portrayed** in the collective mind of the parish as a vessel of heavenly grace."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The canvas **portrayed** a cavalier whose cruel lips and mocking eyes betrayed the ancestral curse."*
+

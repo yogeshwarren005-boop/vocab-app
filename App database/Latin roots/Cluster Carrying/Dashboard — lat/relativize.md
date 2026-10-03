@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or treat as relative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider or treat as relative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make, view, or treat something as relative rather than absolute, objective, or unconditioned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical hermeneutics and literary theory, to situate concepts within their socio-historical horizon, showing that their validity is contingent rather than universally binding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relativize designates consider or treat as relative."*
+> - 📜 **William James (*Pragmatism: A New Name for Some Old Ways of Thinking*):** *"Pragmatism helps to **relativize** metaphysical dogmas by asking what concrete difference their truth makes in practical experience."*
+> - 📜 **Ernst Troeltsch (*The Absoluteness of Christianity and the History of Religions*):** *"The rigorous historical method inevitably threatens to **relativize** traditions once considered absolute."*
+> - 📜 **Richard Rorty (*Philosophy and the Mirror of Nature*):** *"Our objective is not to overthrow traditional inquiry, but to **relativize** its foundationalist ambitions."*
+

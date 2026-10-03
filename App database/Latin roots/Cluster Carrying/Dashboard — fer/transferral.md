@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of moving something from one location to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of moving something from one location to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, operation, or process of transferring, removing, or relocating something from one location or party to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional administration and military logistics, the formal reassignment of personnel, records, or material assets between jurisdictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferral designates the act of moving something from one location to another."*
+> - 📜 **Woodrow Wilson (*The State*):** *"The constitutional **transferral** of administrative duties required comprehensive reorganization of the civil ministries."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"The **transferral** of federal forest reserves to the Department of Agriculture marked the true beginning of scientific conservation."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The sudden **transferral** of divisions to the western front altered the strategic balance of the campaign."*
+

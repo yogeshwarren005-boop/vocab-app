@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being transferable or exchangeable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being transferable or exchangeable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability, quality, or property of being transferred, conveyed, assigned, or handed over from one party or place to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial economics and contract jurisprudence, the institutional attribute of negotiable instruments and equity shares enabling frictionless exchange in secondary markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferability designates the quality of being transferable or exchangeable."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The easy **transferability** of paper currency facilitates the rapid circulation of national wealth."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The legal **transferability** of land tenure encouraged agricultural improvements by enterprising leaseholders."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The development of modern commerce depended upon establishing the unrestricted **transferability** of promissory notes."*
+

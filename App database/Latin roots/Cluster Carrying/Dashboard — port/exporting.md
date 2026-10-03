@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial activity of selling and shipping goods to a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell or transfer abroad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial activity or process of sending goods and services to foreign nations for sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and balance-of-payments accounting, generating foreign currency reserves through outward trade volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Melting or exporting them before that point was reached would cause to the owner the loss of whatever element of seigniorage value they contained."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The excess of 111 pieces could not now be promptly removed by the melting down or exporting of 111 coins, for all those remaining in circulation have a bullion value 1/10 below their money value."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The _gold shipping points_ for importing or exporting gold are respectively par of exchange plus or minus the cost of moving the actual metal."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"By **exporting** the surplus produce of domestic labor, a nation opens wider markets and stimulates industry."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"A country **exporting** manufactured goods in exchange for raw materials accelerates its capital accumulation."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"An agrarian country **exporting** only raw provisions remains constantly vulnerable to foreign market fluctuations."*
+

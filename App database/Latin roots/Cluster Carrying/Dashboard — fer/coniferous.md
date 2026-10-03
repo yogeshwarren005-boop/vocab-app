@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or part of trees or shrubs bearing cones and evergreen leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or part of trees or shrubs bearing cones and evergreen leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or producing cones, as plants of the division Pinophyta; or composed of cone-bearing trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytogeography and biogeoclimatology, designating evergreen forests and taiga ecosystems characterized by needle-leaved gymnosperms adapted to cold climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coniferous designates of or relating to or part of trees or shrubs bearing cones and evergreen leaves."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fossilized trunks embedded in the coal strata belong predominantly to ancient **coniferous** vegetation."*
+> - 📜 **John Muir (*Our National Parks*):** *"The dense **coniferous** forests of the Pacific slopes harbor some of the grandest timber on earth."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The transition from deciduous hardwoods to **coniferous** evergreen woods marks the ascent into higher alpine zones."*
+

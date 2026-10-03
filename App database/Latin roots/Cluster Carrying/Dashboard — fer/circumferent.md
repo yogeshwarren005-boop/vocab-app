@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Closely encircling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Closely encircling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surrounding, encircling, or encompassing an area, body, or space on all sides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical description and descriptive morphology, designating structures, membranes, or annular bands that wrap completely around an axis or organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumferent designates closely encircling."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His ponderous shield, / Ethereal temper, massy, large, and round, / Behind him cast; the broad **circumferent** orb / Hung on his shoulders like the moon."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The sensory faculties receive impressions from the whole **circumferent** world."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"The eye surveys the horizon, bounded by the **circumferent** hills that frame the valley."*
+

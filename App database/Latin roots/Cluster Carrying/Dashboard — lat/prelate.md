@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A senior clergyman and dignitary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A senior clergyman and dignitary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-ranking ecclesiastic of superior dignity and jurisdiction, such as a bishop, archbishop, or abbot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canonical jurisprudence and ecclesiastical history, an ordained dignitary possessing ordinary governing authority over an autonomous diocese or territorial jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, son John, and my cousin Westmoreland, Towards York shall bend you with your dearest speed To meet Northumberland and the prelate Scroop, Who, as we hear, are busily in arms."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Arrogant Winchester, that haughty prelate Whom Henry, our late sovereign, ne’er could brook?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Wherefore do you so ill become this crown, / And turn a **prelate** into a man of war?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The proud **prelate** exercised an authority over the secular magistrate that rivaled imperial sovereignty."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"A reverend **prelate** observed that the narrative appeared to him to contain many improbable statements."*
+

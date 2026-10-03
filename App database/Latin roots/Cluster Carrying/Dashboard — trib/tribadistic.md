@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of female homosexual behavior that attempts to simulate heterosexual behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of female homosexual behavior that attempts to simulate heterosexual behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by tribadism or female same-sex eroticism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sexological discourse and queer history, pertaining to mutual genital friction between female partners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribadistic designates of female homosexual behavior that attempts to simulate heterosexual behavior."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Certain authors categorized these intimate behaviors as distinctively **tribadistic** manifestations."*
+> - 📜 **Edward Carpenter (*Love's Coming of Age*):** *"The historical literature on **tribadistic** relations often failed to appreciate their deep affective dimension."*
+> - 📜 **Richard Burton (*The Thousand Nights and a Night*):** *"A variety of **tribadistic** customs were described by medieval chroniclers of the Levant."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public toilet in a military area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public toilet in a military area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toilet or outhouse, especially a communal trench or pit used in a military camp, barracks, or outdoor bivouac.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military field hygiene and public sanitation engineering, properly sited, covered trench latrines preventing fecal contamination of water supplies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Inside the corral, south of the graves, we constructed a latrine, and, north of the rifle pit in the centre, a couple of men were told off by father to dig a well for water."*
-> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"Each narrow cell in which we dwell Is a foul and dark latrine, And the fetid breath of living Death Chokes up each grated screen, And all, but Lust, is turned to dust In Humanity's machine."*
-> - 📜 **Oscar Wilde (*The Ballad of Reading Gaol*):** *"Each narrow cell in which we dwell Is a foul and dark latrine, And the fetid breath of living Death Chokes up each grated screen, And all, but Lust, is turned to dust In Humanity's machine."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The stench of the camp **latrine** drifted across the trench whenever the wind shifted from the valley."*
+> - 📜 **Rudyard Kipling (*The Man Who Would Be King*):** *"The soldiers dug a deep **latrine** outside the redoubt in strict obedience to the army regulations."*
+> - 📜 **Erich Maria Remarque (*All Quiet on the Western Front*):** *"The communal **latrine** in the rear was the great gossip center where soldiers exchanged trench rumors."*
+

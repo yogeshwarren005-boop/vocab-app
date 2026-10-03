@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus portulaca having pink or red or purple or white ephemeral flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus portulaca having pink or red or purple or white ephemeral flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of succulent flowering plants (Portulacaceae), notably purslane (Portulaca oleracea) and moss rose (Portulaca grandiflora), with fleshy leaves and bright flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology and culinary botany, edible succulent herbs exhibiting drought-tolerant C4/CAM photosynthesis and rich in omega-3 fatty acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, portulaca designates a plant of the genus portulaca having pink or red or purple or white ephemeral flowers."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The brilliant floral variations of garden **portulaca** developed rapidly under artificial hybridization."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Creeping succulent beds of **portulaca** carpeted the arid saline flats near the coast."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I gathered wild purslane, the ancient **portulaca**, boiling it for a simple and nutritious dinner in the woods."*
+

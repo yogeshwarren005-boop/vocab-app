@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild and menacing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild and menacing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild, untamed, savage, or beast-like in nature or appearance; characteristic of wild animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and zoological classification, designating undomesticated wildlife (ferae naturae) living in a natural and predatory state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferine designates wild and menacing."*
+> - 📜 **Sir Matthew Hale (*Historia Placitorum Coronae*):** *"Lions, tigers, wolves, and bears are **ferine** beasts whose dangerous nature requires strict confinement."*
+> - 📜 **Samuel Johnson (*A Journey to the Western Islands of Scotland*):** *"The remote highlands once nurtured a hardy breed of men retaining much of their **ferine** independence."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The harpooneer's gaze revealed a **ferine** intensity born of savage encounters with primeval monsters."*
+

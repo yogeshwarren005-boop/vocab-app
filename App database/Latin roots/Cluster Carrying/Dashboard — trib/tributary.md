@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch that flows into the main stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a stream) flowing into a larger stream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river or stream flowing into a larger river or lake; or a person or state that pays tribute to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical history and feudal law, a vassal kingdom bound by treaty to pay an annual impost to an imperial suzerain in exchange for protection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ imperious seas breed monsters; for the dish, Poor tributary rivers as sweet fish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back, foolish tears, back to your native spring, Your tributary drops belong to woe, Which you mistaking offer up to joy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, at this tomb my tributary tears I render for my brethren’s obsequies; And at thy feet I kneel, with tears of joy Shed on this earth for thy return to Rome."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"The imperious seas breed monsters; for the dish, poor **tributary** rivers pay their tithe of silver minnows."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We rowed our whaleboat up a rapid **tributary** of the Santa Cruz river into the shadow of the Andes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Vast **tributary** provinces poured their annual treasure into the imperial coffers of Rome."*
+

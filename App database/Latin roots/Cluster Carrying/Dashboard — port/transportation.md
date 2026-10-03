@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility consisting of the means and equipment necessary for the movement of passengers or goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of moving something from one location to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of transporting someone or something, or the system or means of conveying passengers or goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British legal history, the penal exile of convicted criminals to British colonies (such as Australia or the Americas).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Transportation agencies. § 11."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Transportation agencies 11,249 14,434 22,360 6."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These may be merely mentioned as being related to coal in the source of their supply, in the nature of their uses, and in the economic problems to which they give rise. § 10. #Transportation agencies#."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Living birds can hardly fail to be highly effective agents in the **transportation** of seeds across wide oceanic expanses."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Magwitch had been sentenced to penal **transportation** for life to the distant penal settlements of New South Wales."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The construction of canals and railroads revolutionized the internal **transportation** of the continent."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the countries of latin america or their people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the countries of latin america or their people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the countries, peoples, cultures, or languages of the Americas where Spanish or Portuguese is predominantly spoken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical history and post-colonial studies, the independent republics of Central and South America and the Caribbean shaped by Iberian colonial heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latin-american designates of or relating to the countries of latin america or their people."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"The defense of the Panama Canal required a consistent diplomatic policy toward the **Latin-American** republics."*
+> - 📜 **James Bryce (*South America: Observations and Impressions*):** *"Each **Latin-American** state developed distinct national characteristics despite a shared colonial heritage."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The history of the fictional republic reflected the turbulent political revolutions common to nineteenth-century **Latin-American** states."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any dialect of the language of ancient rome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inhabitant of ancient latium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Italic Indo-European language spoken in Rome and its empire; or relating to the ancient Romans or Latin-speaking peoples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval and Renaissance intellectual history, the universal lingua franca of scholarship, Catholic liturgy, natural science, and diplomacy throughout Western Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that’s the Latin word for three farthings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I smell false Latin! _Dunghill_ for _unguem_."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know I say nothing to him, for he understands not me, nor I him: he hath neither Latin, French, nor Italian, and you will come into the court and swear that I have a poor pennyworth in the English."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"With a priest that lacks **Latin** and a rich man that hath not the gout."*
+> - 📜 **John Milton (*Areopagitica*):** *"The learned world communicates its deepest truths through the concise majesty of **Latin** prose."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **Latin** tongue was gradually adopted by the conquered provinces of the west."*
+

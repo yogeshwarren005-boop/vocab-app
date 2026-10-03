@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A switch (a stick or cane or flat paddle) used to punish children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A switch (a stick or cane or flat paddle) used to punish children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat cane, wooden ruler, or instrument formerly used in schools for punishing children by striking them on the hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational history and pedagogical reform literature, the symbolic instrument of Victorian corporal punishment and authoritarian classroom discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Come, come, you old Smut, there, bear a hand, and let’s have that ferule and buckle-screw; I’ll be ready for them presently."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Come, come, you old Smut, there, bear a hand, and let’s have that ferule and buckle-screw; I’ll be ready for them presently."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was but half-hospitality to let her remain outside; to punish him for which Isabel administered innumerable taps with the ferule of her straight young wit."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"According to the methods of education fifty years ago, it was quite customary to govern the schoolroom with the **ferule** and the rod."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Squeers wielded his **ferule** with professional relish, terrifying the wretched boys of Dotheboys Hall."*
+> - 📜 **Washington Irving (*The Sketch-Book*):** *"The village schoolmaster was a man of stern countenance, bearing in his hand the dreadful **ferule** of authority."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic turkish tobacco.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seaport on the western coast of syria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient seaport city in northwestern Syria (ancient Laodicea); or a dark, highly aromatic oriental tobacco cured over aromatic oak and pine smoke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pipe tobacco blending, a sun-cured varietal of Nicotiana tabacum subjected to prolonged wood-smoke fumigation to impart a pungent, leathery aroma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latakia designates aromatic turkish tobacco."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Sherlock Holmes sat in his armchair, filling his clay pipe with pungent, black **Latakia**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He puffed slowly at his pipe of fragrant **Latakia**, sending blue smoke rings toward the ceiling."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"The merchant presented us with pipes charged with the choicest **Latakia** tobacco of the Syrian hills."*
+

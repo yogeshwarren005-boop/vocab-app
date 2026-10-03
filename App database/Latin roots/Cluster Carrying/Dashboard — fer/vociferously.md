@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vociferous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vociferous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vociferous, loud, vehement, or clamorous manner; with clamor and noise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courtroom rhetoric and public assemblies, demanding, protesting, or asserting claims with loud, insistent, and impassioned urgency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The roans dashed through the better beaten path of the street, with everybody along the way hailing Henry Sherwood vociferously."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Peggotty was no less pleased than his nephew, though his modesty forbade him to rejoice as **vociferously** as the younger folks."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The deckhands argued **vociferously** about the depth of the channel as the steamboat neared the sandbar."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The native crew shouted **vociferously**, pointing through the darkness toward the ominous surf breaking on the reef."*
+

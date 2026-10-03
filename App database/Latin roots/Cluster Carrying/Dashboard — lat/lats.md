@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in latvia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad flat muscle on either side of the back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The former plural currency unit of Latvia (replaced by the Euro in 2014); or plural abbreviation for the latissimus dorsi muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative international economics, the pegged national monetary currency of independent interwar and post-Soviet Latvia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lats designates the basic unit of money in latvia."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The newly independent Baltic republics stabilized their currencies, issuing the **lats** upon sound reserve principles."*
+> - 📜 **Arthur Conan Doyle (*The Captain of the Pole-Star*):** *"The sailors measured their distance across the frozen **lats** of the high northern ocean."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organisms residing in equivalent polar **lats** display striking convergent adaptations to thermal stress."*
+

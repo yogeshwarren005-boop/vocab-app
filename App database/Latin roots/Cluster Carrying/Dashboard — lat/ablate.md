@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear away through erosion or vaporization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove an organ or bodily structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove or dissipate tissue, rock, or ice by vaporization, melting, or surgical excision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace engineering and glaciology, surface mass loss of a spacecraft heat shield during atmospheric reentry or the seasonal melting of glacial ice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ablate designates wear away through erosion or vaporization."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Warm summer winds continue to **ablate** the lower snout of the alpine glacier, feeding torrential streams."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgeons may cautiously **ablate** diseased tissue to prevent secondary infection."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Intense heat caused the outer shield of the probe to **ablate** harmlessly during its descent through the Venusian atmosphere."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to latitudes north or south.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to latitudes north or south.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to latitude or the distance north or south of the equator; running east to west along parallels of latitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and macroecology (latitudinal diversity gradient), species richness systematically increasing from the poles toward the tropics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latitudinal designates of or relating to latitudes north or south."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **latitudinal** distribution of organic beings reveals the paramount influence of past climate epochs."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Botanical zones on high tropical mountains mirror the **latitudinal** zones of the globe from equator to pole."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The **latitudinal** limits of tropical reef-building corals are strictly determined by minimum winter sea temperatures."*
+

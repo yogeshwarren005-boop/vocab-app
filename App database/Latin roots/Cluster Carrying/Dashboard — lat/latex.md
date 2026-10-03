@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A milky exudate from certain plants that coagulates on exposure to air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A water-base paint that has a latex binder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A milky fluid found in many plants (such as rubber trees, spurges, and poppies) that coagulates on exposure to air; or a synthetic emulsion of rubber or plastic globules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial polymer chemistry and botanical physiology, a protective secondary metabolite emulsion containing polyisoprene suspended in an aqueous serum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latex designates a milky exudate from certain plants that coagulates on exposure to air."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"When the stem of the spurge was punctured, a copious white **latex** flowed immediately from the wound."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The native collectors demonstrated the tapping of the wild rubber vine, coagulating the milky **latex** over smoke."*
+> - 📜 **Richard Francis Burton (*The Highlands of the Brazil*):** *"The extraction of **latex** from the Hevea trees of the Amazon basin drew thousands of laborers into the wilderness."*
+

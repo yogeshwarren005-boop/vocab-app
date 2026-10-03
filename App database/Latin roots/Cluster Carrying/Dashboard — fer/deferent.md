@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing deference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing deference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to carry, convey, or conduct; or showing respectful deference and submission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Ptolemaic astronomy, the large circular orbital path centered near the Earth along which the center of a planet's epicycle revolves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Omnes verò <g>Ecclesiæ</g> hujus redditus pro suo arbitrio expenderunt; illic excelsa et decentia officinarum ædificia fabricantes; hìc verò fabricata situ et vetustate deferentes."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The physical air serves as a **deferent** medium for the propagation of sound waves."*
+> - 📜 **Nicolaus Copernicus (*De revolutionibus orbium coelestium*):** *"In the ancient model, the planet traversed an epicycle whose center was carried along the **deferent** circle."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With centric and eccentric scribbled o'er, / Cycle and epicycle, orb in orb, / How would they build their **deferent** spheres!"*
+

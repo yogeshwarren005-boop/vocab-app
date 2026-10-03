@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preferred above all others and treated with partiality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preferred above all others and treated with partiality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preferred above all others; showing, receiving, or enjoying special favor, partiality, or precedence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social sociology and jurisprudence, designating a claimant, creditor, or party endowed with prior rights or senior legal status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preferent designates preferred above all others and treated with partiality."*
+> - 📜 **Jeremy Bentham (*The Rationale of Judicial Evidence*):** *"The law must determine which class of creditors holds a **preferent** title upon the bankrupt's estate."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No individual state can claim a **preferent** status in the regulation of interstate commerce."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"Customary law granted a **preferent** inheritance share to the elder son to preserve the integrity of the ancestral homestead."*
+

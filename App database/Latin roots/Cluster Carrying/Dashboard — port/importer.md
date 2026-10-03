@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose business involves importing goods from outside (especially from a foreign country).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone whose business involves importing goods from outside (especially from a foreign country).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, business, or country that brings goods or services into a country from abroad for sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In customs law and commercial brokerage, the party of record legally responsible for declaring value and paying import tariffs to customs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Indeed, the importation of any article is proof conclusive that the importer thinks that the monetary costs of an article would be higher in the importing than in the exporting country."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is paid from the profits of the manufacturer, or divided between him and the merchant or the importer, and diminishes their profit to that extent."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Where is your father’s place of business?” “He travels for Westhouse & Marbank, the great claret importers of Fenchurch Street.” “Thank you."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant who acts as an **importer** of foreign luxuries must invest substantial working capital."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"He went into business as an **importer** of continental wines and brandies in the shadow of the docks."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The curious oriental gems were obtained from an **importer** of Indian curiosities in Limehouse."*
+

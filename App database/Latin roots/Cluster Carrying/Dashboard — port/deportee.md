@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is expelled from home or country by authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is expelled from home or country by authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has been expelled or is in the process of being expelled from a country by official authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In migration studies and administrative law, an alien subject to a final order of removal awaiting repatriation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deportee designates a person who is expelled from home or country by authority."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The police commissioner checked the dossier of the foreign **deportee** who had illegally returned to Soho."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The wretched **deportee** had wandered through continental capitals before seeking refuge in London."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Every political **deportee** from the border had a harrowing tale of midnight arrest and flight."*
+

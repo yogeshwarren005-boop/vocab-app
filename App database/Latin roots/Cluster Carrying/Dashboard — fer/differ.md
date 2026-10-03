@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be of different opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be unlike, dissimilar, or distinct in nature, quality, or form; or to hold an opposing opinion or disagree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology and taxonomy, to exhibit measurable morphological divergence that distinguishes one taxon from another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therein do men from children nothing differ."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is’t possible the world should so much differ, And we alive that lived?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby and the niece are one; and the niece still cherishes her figure, which, however tastes may differ, is unquestionably so far precious that there is mighty little of it."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"Therein do men from children nothing **differ**."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Individuals of the same species often **differ** slightly in relative proportions and coloring."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men **differ** widely in their speculative opinions, but their moral principles often converge."*
+

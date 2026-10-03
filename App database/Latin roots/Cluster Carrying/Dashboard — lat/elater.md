@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various widely distributed beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various widely distributed beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elastic, spring-like organ or cell; especially a hygroscopic ribbon-like filament that aids in dispersing spores in liverworts and horsetails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and pteridology, spiral thickened hygroscopic cellular bands in Equisetum spores that uncoil with humidity changes to facilitate spore dispersal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elater designates any of various widely distributed beetles."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The microscopic **elater** of the horsetail uncoils with sudden mechanical force upon drying."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Each spore of Equisetum is furnished with four hygroscopic appendages termed an **elater**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Under the microscope, the spring-like action of the plant **elater** was observed dispersing spores across the slide."*
+

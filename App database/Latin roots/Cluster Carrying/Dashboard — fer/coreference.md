@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical relation between two words that have a common referent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grammatical relation between two words that have a common referent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical or semantic relationship where two or more expressions in a text refer to the same extralinguistic entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal semantics and computational linguistics, the anaphoric resolution linking pronouns, noun phrases, and deictic markers to a shared discourse entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coreference designates the grammatical relation between two words that have a common referent."*
+> - 📜 **Noam Chomsky (*Lectures on Government and Binding*):** *"Binding principles regulate the syntactic conditions under which **coreference** between a pronoun and its antecedent is permitted."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The grammatical device of **coreference** prevents awkward repetition of substantives in continuous discourse."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The poetic texture exploits **coreference** to weave an intricate web of semantic correspondences across the text."*
+

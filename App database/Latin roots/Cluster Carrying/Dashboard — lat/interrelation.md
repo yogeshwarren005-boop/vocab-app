@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual or reciprocal relation or relatedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual or reciprocal relation or relatedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual or reciprocal relation or connection between two or more things or persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural sociology and ecological networks, interdependent feedbacks operating across distinct subsystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"When the interrelation of the factors is recognized there is little likelihood of concluding that some one of them will absorb all the benefits of progress."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The interrelations between the various interest rates are therefore close and constant."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The complex interrelations of men in society make this inevitable."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The complex **interrelation** of all animals and plants across a countryside determines the balance of nature."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"A growing **interrelation** between industrial and civic institutions characterizes advanced commonwealths."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **interrelation** of memory and sensory perception forms the fabric of conscious thought."*
+

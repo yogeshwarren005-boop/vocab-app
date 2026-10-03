@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark as different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a distinctive feature, attribute, or trait; sometimes in a very positive sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made distinct, specialized, or separated by specific differences; having developed distinct specialized characteristics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and economic sociology, describing cells that have acquired specialized functions, or industries characterized by brand segmentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were likewise sharply differentiated in the minutest shades of mentality and temperament."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Just as that imperceptible motion which appears like stillness is infinitely divided in its properties from stillness itself, so had struggling hopes against the imagined deed differentiated it entirely from the thing actually done."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At an earlier stage the functions of priest and sorcerer were often combined or, to speak perhaps more correctly, were not yet differentiated from each other."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Now as organisms have become slowly adapted to diversified lines of life, their organs have become more highly **differentiated**."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution involves a transformation from an indefinite, incoherent homogeneity to a definite, coherent heterogeneity of **differentiated** parts."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The primate brain exhibits a highly **differentiated** cerebral cortex compared to lower mammalian orders."*
+

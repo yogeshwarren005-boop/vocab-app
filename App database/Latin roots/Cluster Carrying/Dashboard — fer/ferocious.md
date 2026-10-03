@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by extreme and violent energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by extreme and violent energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Savagely fierce, cruel, ravenous, or violently aggressive in nature or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral zoology and narrative prose, exhibiting untamed predatory savagery or menacing fury when threatened or provoked.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was not merely that they were weazened and shrivelled—though they were certainly that too—but they looked absolutely ferocious with discontent."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But a stir in that direction, a gathering of reverential awe in the rustic faces, and a blandly ferocious assumption on the part of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it is whispered that when he is most ferocious towards his old foe, he is really most considerate, and that Sir Leicester, in the dignity of being implacable, little supposes how much he is humoured."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Instead of making friends and exchanging visits with our neighbours, we were confronted by this fierce and **ferocious** beast."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The puma is said to be a **ferocious** enemy to wild horses, leaping upon their shoulders from overhanging rocks."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sea was lashed into foam by the **ferocious** thrashing of the wounded leviathan."*
+

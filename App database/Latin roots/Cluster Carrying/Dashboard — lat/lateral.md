@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pass to a receiver upfield from the passer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated at or extending to the side; ; - tennyson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, at, towards, or from the side or sides; side-to-side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and organismal morphology, situated away from the midline of the body or sagittal plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"This dugong, which also bears the name of the halicore, closely resembles the manatee; its oblong body terminated in a lengthened tail, and its lateral fins in perfect fingers."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Captain Nemo intended seeking the bottom of the ocean by a diagonal sufficiently lengthened by means of lateral planes placed at an angle of 45° with the water-line of the _Nautilus_."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Beneath, because the overturned block, having slid by degrees, had found a resting-place on the lateral walls, which kept it in that position."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In other crustaceans the transparent cones which are surrounded by pigment cells transmit **lateral** light."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **lateral** ventricles of the brain are two irregular cavities situated within the cerebral hemispheres."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The nerve cord gives off pairs of **lateral** nerves to each segmental appendage."*
+

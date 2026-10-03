@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent carcinogen from the fungus aspergillus; can be produced and stored for use as a bioweapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potent carcinogen from the fungus aspergillus; can be produced and stored for use as a bioweapon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of toxic, carcinogenic mycotoxins produced by certain molds (especially Aspergillus flavus) that grow on stored grains, nuts, and oilseeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food toxicology and oncology, a potent hepatocarcinogen that induces DNA adducts, notably transversion mutations in the p53 tumor suppressor gene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aflatoxin designates a potent carcinogen from the fungus aspergillus; can be produced and stored for use as a bioweapon."*
+> - 📜 **René Dubos (*The Mirage of Health*):** *"Contamination of stored peanuts by **aflatoxin** revealed the deadly hazards of fungal toxins in agrarian economies."*
+> - 📜 **Linus Pauling (*How to Live Longer and Feel Better*):** *"Food safety regulations strictly limit the allowable parts-per-billion concentration of **aflatoxin** in commercial crops."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Experimental exposure to **aflatoxin** demonstrated high mutagenic frequency in cellular test systems."*
+

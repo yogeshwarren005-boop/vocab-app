@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prelates collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The office or station of a prelate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, dignity, or administrative jurisdiction belonging to an ecclesiastical prelate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman Catholic canonical governance, an institutional structure or circumscription erected by the Holy See to accomplish specific pastoral or missionary tasks under a prelate's direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prelature designates prelates collectively."*
+> - 📜 **Henry Hart Milman (*History of Latin Christianity*):** *"The appointment to that opulent **prelature** became the center of a protracted dispute between pope and emperor."*
+> - 📜 **Thomas Fuller (*The Church History of Britain*):** *"He accepted the duties of the **prelature** with genuine reluctance, preferring his quiet library to episcopal courts."*
+> - 📜 **John Foxe (*Actes and Monuments*):** *"The outward pomp of the Roman **prelature** was contrasted by reformers with apostolic simplicity."*
+

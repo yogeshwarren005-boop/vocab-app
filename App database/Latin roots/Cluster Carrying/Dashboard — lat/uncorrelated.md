@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not varying together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not varying together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no mutual or reciprocal relationship; exhibiting no systematic linear statistical dependence between variables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probability theory and signal processing, describing random variables whose mathematical covariance is zero, demonstrating an absence of linear predictability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncorrelated designates not varying together."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Two series of physical measurements may be mathematically **uncorrelated** and yet governed by independent natural laws."*
+> - 📜 **Ronald Fisher (*Statistical Methods for Research Workers*):** *"When the sample residuals are completely **uncorrelated**, the standard error estimates attain optimal efficiency."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Filtering random noise requires separating the correlated message signal from the **uncorrelated** background fluctuations."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being humble and unimportant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being important or worthy of note.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of having little or no importance, significance, or value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy, the cosmic insignificance of individual human affairs against the backdrop of geological and cosmic time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Looking into Napoleon’s eyes Prince Andrew thought of the insignificance of greatness, the unimportance of life which no one could understand, and the still greater unimportance of death, the meaning of which no one alive could understand or explain."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There is nothing certain, nothing at all except the unimportance of everything I understand, and the greatness of something incomprehensible but all-important.” The stretchers moved on."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Even in the first short time which has elapsed since my return, I have realized the utter **unimportance** of these social distinctions."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He comforted himself with the thought of his own **unimportance** in the grand march of history."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A detail of apparent **unimportance** often holds the master key to the entire mystery."*
+

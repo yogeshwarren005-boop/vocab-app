@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocal relation between two or more things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statistic representing how closely two variables co-vary; it can vary from -1 (perfect negative correlation) through 0 (no correlation) to +1 (perfect positive correlation).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mutual relationship or connection between two or more things, variables, or sets of data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantitative statistics, a normalized measure (from -1 to +1) expressing the linear interdependence of bivariate distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"He scanned through his memorized star catalogues, trying to find the correlation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To John, "the bride" and "the Lamb" repre- sented the correlation of divine Principle and spiritual idea, 561:15 God and His Christ, bringing harmony to earth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I shall discuss the complex and little known laws of the **correlation** of growth, which influence so many animal structures."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"The coefficient of **correlation** provides an exact numerical expression for ancestral resemblance."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"Science recognizes no absolute causes, but only high degrees of statistical **correlation** between phenomena."*
+

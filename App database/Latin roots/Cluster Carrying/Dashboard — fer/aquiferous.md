@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an aquifer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an aquifer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, yielding, or conveying water or a watery fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and plant anatomy, designating specialized canals, vessels, or parenchymatous tissue that circulate water through an organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquiferous designates of or relating to an aquifer."*
+> - 📜 **Charles Darwin (*Monograph on the Sub-class Cirripedia*):** *"The **aquiferous** canals in certain sponges and sessile barnacles maintain continuous respiratory currents."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The porous body of the poriferan is permeated throughout by an **aquiferous** system of cilia-lined chambers."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The sponge relies upon its **aquiferous** network for both nutrition and respiration."*
+

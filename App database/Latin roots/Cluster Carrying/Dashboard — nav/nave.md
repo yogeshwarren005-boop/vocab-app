@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central area of a church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central area of a church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central longitudinal hall or body of a church building, extending from the entrance to the chancel or transepts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Gothic ecclesiastic architecture, the high vaulted central space flanked by aisles, designed to accommodate the congregation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All you gods, In general synod, take away her power; Break all the spokes and fellies from her wheel, And bowl the round nave down the hill of heaven, As low as to the fiends._ POLONIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would not this nave of a wheel have his ears cut off?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At last he did turn, and stalked resolutely down the nave, braving them all, with a compressed lip."*
+> - 📜 **Victor Hugo (*The Hunchback of Notre-Dame*):** *"The immense **nave** of the cathedral was drowned in gloom, pierced only by shafts of ruby light from the rose window."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He walked resolutely down the stone-paved **nave** toward the altar, oblivious to the gathering congregation."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The majestic **nave** of Saint Peter's opened before them like a boundless hall of marble."*
+

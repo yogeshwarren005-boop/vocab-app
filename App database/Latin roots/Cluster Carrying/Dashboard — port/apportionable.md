@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being distributed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being distributed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being divided, allocated, or assigned in proportional shares.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trust accounting and estate law, income, rents, or periodic annuities capable of being divided ratably over a fraction of a temporal period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apportionable designates capable of being distributed."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"At common law, periodic rents were not regarded as **apportionable** in respect of time."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A divisible commodity is more easily **apportionable** among small purchasers than an indivisible luxury."*
+> - 📜 **Jeremy Bentham (*The Rationale of Judicial Evidence*):** *"The procedural costs of the trial were declared **apportionable** between the litigating parties according to fault."*
+

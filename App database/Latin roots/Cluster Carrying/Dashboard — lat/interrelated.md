@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in a relationship with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place into a mutual relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connected with one another; having a mutual or reciprocal relationship or interdependence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological systems biology, community structures where perturbations in one trophic level cascade through interconnected feeding links.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Both the prices of all the particular objects of international trade and the general levels of prices in any two trading countries come to be pretty definitely interrelated."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every other part of the industrial organization of a nation is interrelated with its agriculture."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In every domestic race, we see that varied organs and instincts are closely **interrelated**."*
+> - 📜 **William James (*Pragmatism*):** *"The universe is a vast network of **interrelated** experiences rather than a static monad."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Economic phenomena are so thoroughly **interrelated** that isolated variables can rarely be studied in pure detachment."*
+

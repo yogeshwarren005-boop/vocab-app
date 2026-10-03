@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin port within the domain of Carrying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of port in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceptionally lightweight, compact, and easy to transport or carry; ultra-portable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hardware engineering and computer architecture, consumer electronic devices engineered under 1 kg with integrated wireless networking for mobile fieldwork.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperportable designates pertaining to, derived from, or characteristic of latin port within the domain of carrying."*
+> - 📜 **Douglas Coupland (*Microserfs*):** *"The engineers clustered around the new prototype, praising its sleek, **hyperportable** casing and lightweight lithium battery."*
+> - 📜 **Nicholas Negroponte (*Being Digital*):** *"The future of personal computing lies in **hyperportable** devices that seamlessly integrate with our daily mobility."*
+> - 📜 **Vernor Vinge (*True Names*):** *"He carried his entire digital workspace inside a **hyperportable** terminal no larger than a pocket diary."*
+

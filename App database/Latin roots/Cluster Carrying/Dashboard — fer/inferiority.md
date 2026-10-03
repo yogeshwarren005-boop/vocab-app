@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being inferior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inferior quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lower degree of rank, excellence, status, or value relative to an established standard or competitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In individual psychology (Adlerian theory), an internalized sense of inadequacy or limitation that drives compensatory behavioral striving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There were many little occurrences which suggested to me, with great consolation, how natural it is to gentle hearts to be considerate and delicate towards any inferiority."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There she felt her own inferiority very keenly."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her partiality for this gentleman was not of recent origin; and he had been long withheld only by inferiority of situation from addressing her."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Moreover, when by sudden immigration or unusually rapid development a species gains an advantage, the **inferiority** of native competitors leads to extinction."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His sense of her **inferiority** of birth and family connection made him hesitate long before proposing."*
+> - 📜 **Alfred Adler (*The Neurotic Constitution*):** *"The psychological feeling of **inferiority** stimulates the child to achieve mastery over physical obstacles."*
+

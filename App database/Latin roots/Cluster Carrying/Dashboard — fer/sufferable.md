@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne though unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being borne though unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being suffered, endured, tolerated, or borne; tolerable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stoic moral philosophy, describing pains or hardships that remain within the threshold of human psychological fortitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still, looking round me again, and seeing no possible chance of spending a sufferable night unless in some other person’s bed, I began to think that after all I might be cherishing unwarrantable prejudices against this unknown harpooneer."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Still, looking round me again, and seeing no possible chance of spending a sufferable night unless in some other person’s bed, I began to think that after all I might be cherishing unwarrantable prejudices against this unknown harpooneer."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Still, looking round me again, and seeing no possible chance of spending a **sufferable** night elsewhere, I resolved to endure the companion."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Ye must be **sufferable** and patient in the tribulations of this mortal pilgrimage."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Physical pain is generally **sufferable** if not aggravated by the dread of imaginary evils."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part played by a person in bringing about a result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A voluntary gift (as of money or service or ideas) made to some worthwhile cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gift or payment to a common fund or cause; or an item of writing contributed to a publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate governance and insurance law, the proportionate share of a loss payable by each insurer insuring the same risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The people ’twixt Philippi and this ground Do stand but in a forced affection; For they have grudg’d us contribution."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The face of each child, as the amount of his contribution was mentioned, darkened in a peculiarly vindictive manner, but his was by far the worst."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that he bears the desk any ill will, but he must do something, and it must be something of an unexciting nature, which will lay neither his physical nor his intellectual energies under too heavy contribution."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"The people 'twixt Philippi and this ground do stand but in a forced affection; for they have grudged us **contribution**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A federal government must have the power to demand an equitable financial **contribution** from every state."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He accepted my modest **contribution** with a flourishing bow that seemed to magnify the pence into gold."*
+

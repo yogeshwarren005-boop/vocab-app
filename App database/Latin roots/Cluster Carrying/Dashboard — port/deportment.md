@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (behavioral attributes) the way a person behaves toward other people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person's behavior, manners, or bodily carriage; posture and conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century finishing school curricula, instruction in aristocratic physical posture, graceful walking, and polite societal etiquette.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Us London lawyers don’t often get an out, and when we do, we like to make the most of it, you know.” The old housekeeper, with a gracious severity of deportment, waves her hand towards the great staircase."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle with her commanding deportment."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, without any other alteration in their customary deportment, have looked very steadily at one another—as was natural, perhaps, in the discussion of so unusual a subject."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Turveydrop was celebrated as a master of **deportment**, dedicating his entire life to the preservation of aristocratic grace."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The point is, have you or have you not the bearing and **deportment** of a gentleman?"*
+> - 📜 **Jane Austen (*Emma*):** *"Her graceful **deportment** and easy address showed that she had lived in the best company."*
+

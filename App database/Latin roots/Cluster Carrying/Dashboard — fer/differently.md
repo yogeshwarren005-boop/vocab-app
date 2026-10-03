@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In another and different manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In another and different manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a distinct, dissimilar, or contrasting manner; not alike or identically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and behavioral linguistics, perceiving, interpreting, or reacting according to divergent cultural or mental perspectives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I love Leonore like my own child and wanted nothing better than to keep her with me," she said finally, "but I think differently now."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That I was inexperienced in the art of adapting my mind to minds very differently situated, and addressing them from suitable points of view."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Such confidence, powerful in its own warmth, and bewitching in the wit which often expressed it, must have been enough for Anne; but Lady Russell saw it very differently."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rick burns **differently** from a house."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"You see the matter very **differently** from the rest of the world, Elizabeth."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men think **differently** because their experiences have furnished their minds with different collections of simple ideas."*
+

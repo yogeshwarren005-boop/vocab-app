@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne though unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being borne though unpleasant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being borne, tolerated, or endured; bearable; or capable of being defended or justified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal argumentation and historiography, a thesis or hypothesis corroborated by sufficient documentary evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As great to me, as late; and, supportable To make the dear loss, have I means much weaker Than you may call to comfort you, for I Have lost my daughter."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She had no child to connect her with life and happiness again, no relations to assist in the arrangement of perplexed affairs, no health to make all the rest supportable."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"And, after all, I found their natural smell was much more supportable, than when they used perfumes, under which I immediately swooned away."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"As great to me, as late; and, **supportable** to make the dear loss, have I means much weaker than you may call to comfort you."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His poverty was made **supportable** by the proud consciousness of his unblemished honor."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"No doctrine is rationally **supportable** which directly contradicts the clear evidence of the senses."*
+

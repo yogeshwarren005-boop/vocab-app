@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intravenous anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intravenous anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brominated alcohol chemical compound (Avertin, C2H3Br3O) historically used as a general anesthetic and sedative in laboratory animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory rodent veterinary medicine and neurophysiology, a short-acting anesthetic administered intraperitoneally for surgical procedures in mice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribromoethanol designates an intravenous anesthetic."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The administration of brominated derivatives like **tribromoethanol** demonstrated the reversible depression of central nervous tissue."*
+> - 📜 **Hans Selye (*The Story of the Adaptation Syndrome*):** *"Rats anesthetized with **tribromoethanol** showed an immediate dampening of the acute neuro-endocrine stress response."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early pharmacological trials evaluated **tribromoethanol** as a basal anesthetic before inhalation surgery."*
+

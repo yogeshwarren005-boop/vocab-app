@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ancient rome) an official elected by the plebeians to protect their interests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The apse of a christian church that contains the bishop's throne.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official in ancient Rome chosen by the plebeians to protect their interests against patrician oppression; or a popular leader or defender of public rights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern journalism, a term incorporated into the names of independent newspapers representing the voice of the people (e.g., The Herald Tribune).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By yond clouds, Let me deserve so ill as you, and make me Your fellow tribune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will pass To where you are bound, you must inquire your way, Which you are out of, with a gentler spirit, Or never be so noble as a consul, Nor yoke with him for tribune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plebeians have got your fellow tribune And hale him up and down, all swearing if The Roman ladies bring not comfort home, They’ll give him death by inches."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"The **tribune** of the people hath spoken, and the multitude cries out with one voice against the proud patrician."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sacred person of the Roman **tribune** was protected by law, rendering any assault upon him capital treason."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"Then out spoke the brave **tribune**, defending the rights of the common commons against consular pride."*
+

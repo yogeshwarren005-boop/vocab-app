@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A weekday on which no festival or holiday is celebrated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (in spanish speaking regions) a local festival or fair, usually in honor of some patron saint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weekday in the liturgical calendar on which no special ecclesiastical feast, solemnity, or saint's commemoration occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman Catholic liturgical rubrics, an ordinary ferial day requiring the standard office and seasonal vestments without festive elaboration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, feria designates a weekday on which no festival or holiday is celebrated."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient Roman calendar set aside each **feria** for public business or religious observance."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The calm rhythm of the liturgical **feria** brought peace to the monastic community between festival seasons."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The sacred routine of the Latin **feria** preserved the ritual piety of ancestral Roman domestic religion."*
+

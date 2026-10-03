@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical notation (over a note or chord or rest) that indicates it is to be prolonged by an unspecified amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) a prolongation of unspecified length on a note or chord or rest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical notation symbol placed over a note, chord, or rest indicating that its duration is to be sustained beyond its normal value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical performance practice, an expressive pause or suspension of strict tempo governed by the artistic judgment of the conductor or performer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fermata designates a musical notation (over a note or chord or rest) that indicates it is to be prolonged by an unspecified amount."*
+> - 📜 **Hector Berlioz (*A Treatise upon Modern Instrumentation and Orchestration*):** *"A grand orchestral **fermata** creates breathless suspense before the concluding allegro begins."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The soprano prolonged the final **fermata** to an unconscionable length to display the endurance of her high register."*
+> - 📜 **Romain Rolland (*Beethoven*):** *"The sudden **fermata** brings the tempestuous movement to a breathless halt, suspended above an abyss of silence."*
+

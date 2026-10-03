@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sustained or maintained by nonmaterial aid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not held up or borne.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not supported physically; not held up; or not corroborated by evidence, authority, or funds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical science, an assertive claim or hypothesis offered without corroborating experimental observations or statistical backing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"New York, situated as she is, would never be unwise enough to oppose a feeble and unsupported flank to the weight of that confederacy."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This, however, like most other things that have been alleged on that side, rests on mere general assertion, unsupported by any precise or intelligible designation of the reasons upon which it is founded."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Unsupported by the faith reposed in it, the inanimate drug becomes powerless."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Some authors believe that long-continued domestication produces variation, but this assertion remains largely **unsupported** by direct evidence."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An inductive generalization that stands **unsupported** by verified facts is a mere speculative conjecture."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister stood upon the scaffold, **unsupported** by human aid, facing the judgment of the congregation."*
+

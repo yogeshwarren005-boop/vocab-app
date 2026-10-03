@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transport by boat or aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transport from one place to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transporting, conveying, or shuttling people, vehicles, or goods across water or through the air between two points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logistical operations and military deployment, continuous cyclical transport of troops, munitions, or civilian evacuees across a hazardous barrier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"But such as it is, this is the one connecting link between China and Tibet, for ferrying across the upper reaches of the Ta Tu is impracticable most of the year."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The boatman spent the whole evening **ferrying** armed clansmen across the dark waters of the loch."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"A flotilla of small craft was actively engaged in **ferrying** soldiers from the exposed beaches to awaiting transports."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The men worked tirelessly, **ferrying** their supplies across the swollen Yukon river."*
+

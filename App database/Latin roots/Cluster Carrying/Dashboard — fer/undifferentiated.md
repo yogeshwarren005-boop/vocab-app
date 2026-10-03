@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not differentiated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not differentiated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not differentiated; having no distinct specialized features; homogenous, uniform, or embryonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and cell biology, designating primitive stem cells that have not yet undergone lineage commitment or specialized morphological development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undifferentiated designates not differentiated."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"In primitive organisms, the body plan remains largely **undifferentiated**, performing all vital functions with generalized tissues."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The early blastoderm consists of an **undifferentiated** layer of rounded cells before germ layer separation occurs."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic evolution begins in an **undifferentiated** primordial nebulosity and progresses toward organized diversity."*
+

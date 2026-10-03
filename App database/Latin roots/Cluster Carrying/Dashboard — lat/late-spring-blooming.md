@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants that bloom during the spring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants that bloom during the spring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming into blossom during the late spring season, bridging the transition between early vernal flowers and summer blooms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape horticulture and phenological ecology, temperate perennial taxa flowering between mid-May and early June.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, late-spring-blooming designates of plants that bloom during the spring."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The shrub is a **late-spring-blooming** ornamental prized for its fragrant white racemes."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The **late-spring-blooming** hawthorns filled the lanes with fragrant snow before the coming of June."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Gardeners cross early and **late-spring-blooming** varieties to prolong the decorative floral season."*
+

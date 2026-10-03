@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of points or particles or objects in a regular periodic pattern in 2 or 3 dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small opening (like a window in a door) through which business can be transacted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure consisting of strips of wood or metal crossed and fastened together with open diamond- or square-shaped spaces between them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and solid-state physics, a regular three-dimensional geometric arrangement of points or atoms in a crystal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, my good window of lattice, fare thee well; thy casement I need not open, for I look through thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He calls me e’en now, my lord, through a red lattice, and I could discern no part of his face from the window."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lattice-windows were all thrown open, and we sat just within the doorway watching the storm."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"So, my good window of **lattice**, fare thee well; thy casement I need not open, for I look through thee well enough."*
+> - 📜 **John Keats (*Ode to a Nightingale*):** *"And through the leafy **lattice** came the scent of musk-rose."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Open here I flung the shutter, when, with many a flirt and flutter, in there stepped a stately Raven through the **lattice**."*
+

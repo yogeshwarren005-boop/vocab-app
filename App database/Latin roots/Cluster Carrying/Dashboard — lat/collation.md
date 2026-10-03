@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light informal meal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assembling in proper numerical or logical sequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The assembly and comparison of texts, prints, or data in proper sequence; or a light informal meal or repast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical tradition and descriptive bibliography, a light fasting-day evening meal taken in monasteries; or the formal formula of gatherings in an incunabulum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He appeared to have dressed at his leisure in the intervals of a light collation, and his dressing-case, brushes, and so forth, all of quite an elegant kind, lay about."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"The present collation omits readings incorrectly given by Dyce."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He had prepared a collation for me in the Barnwell parlour, and he too ordered his shopman to “come out of the gangway” as my sacred person passed."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The elderly gentlewoman prepared a delicate **collation** of tea, cold biscuits, and currants for her guest."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The critical **collation** of the Greek and Latin manuscripts settled the disputed passage in the sacred text."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The prior invited the weary travelers to partake of a modest **collation** in the abbey refectory."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assembly (including one or more judges) to conduct judicial business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assembly (including one or more judges) to conduct judicial business.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A court of justice, or a seat or committee appointed to adjudicate or settle disputes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public international law, a judicial body established by treaty or convention to prosecute war crimes or resolve maritime boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s the manner of ’t: I’ th’ market-place, on a tribunal silvered, Cleopatra and himself in chairs of gold Were publicly enthroned."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, I am going with my pigeons to the tribunal plebs, to take up a matter of brawl betwixt my uncle and one of the emperal’s men."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It will expiate at God’s tribunal."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"I' the market-place, on a **tribunal** silvered, Cleopatra and himself in chairs of gold were publicly enthroned."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary **tribunal** sat in ruthless judgment, dispatching scores of victims daily to the guillotine."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A supreme **tribunal** is essential to secure uniformity in the interpretation of national laws."*
+

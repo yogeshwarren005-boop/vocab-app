@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relation or being related.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relation or being related.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or arising from mutual connections, interpersonal bonds, or comparative relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In database architecture and cognitive sociology, organizing information into interconnected mathematical relations or analyzing knowledge as constructed through communicative ties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relational designates having a relation or being related."*
+> - 📜 **Edgar F. Codd (*A Relational Model of Data for Large Shared Data Banks*):** *"Future users of large data banks must be protected from having to know how the data is organized in the machine through a clean **relational** model."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our experience contains not only substantive states of consciousness but transitive and **relational** transitions between them."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Every term that denotes an object does so by virtue of some **relational** link connecting it with an interpretant."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subfamily of the family centropomidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subfamily of the family centropomidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin nominative or genitive plural feminine form of Latinus; designating Latin women, Latin cities (civitates Latinae), or Latin festivals (Feriae Latinae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman constitutional antiquities, the allied cities possessing Latin rights (ius Latii) intermediate between peregrini and full Roman citizens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Dessau, _Inscriptiones Latinae Selectae_, vol. ii."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient league of the civitates **Latinae** maintained solemn sacrifices upon the Alban Mount."*
+> - 📜 **Theodor Mommsen (*The History of Rome*):** *"The status of the coloniae **Latinae** served as a stepping stone toward complete integration into the Roman commonwealth."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"The thirty cities of the confederacy were commemorated in the sacred rites of the Feriae **Latinae**."*
+

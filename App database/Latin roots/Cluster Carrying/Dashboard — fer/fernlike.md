@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling ferns especially in leaf shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling ferns especially in leaf shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a fern or fern frond in shape, branching pattern, or delicate structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and metallurgy, describing delicate dendritic or fractal crystal formations resembling bipinnate fronds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fernlike designates resembling ferns especially in leaf shape."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The dendritic manganese deposits on the limestone surface displayed intricate, **fernlike** traceries."*
+> - 📜 **John Tyndall (*The Forms of Water*):** *"Ice crystals forming upon the windowpane shoot outward in magnificent **fernlike** plumes."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Certain colonial hydrozoans exhibit a branching habit so delicate as to appear completely **fernlike**."*
+

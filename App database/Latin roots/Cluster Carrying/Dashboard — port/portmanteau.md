@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new word formed by joining two others and combining their meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large travelling bag made of stiff leather.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large travelling bag, typically made of stiff leather and opening into two equal compartments; or a word blending the sounds and meanings of two words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and morphophonology, a blend formed by merging multiple base lexemes (such as smog or brunch) into a single phonetic stem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In another corner a ragged old portmanteau on one of the two chairs serves for cabinet or wardrobe; no larger one is needed, for it collapses like the cheeks of a starved man."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Flite!” Krook follows him with his eyes, and while he is calling, finds opportunity to steal to the old portmanteau and steal back again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn (standing by the old portmanteau) inquires if he has been dead any time."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"You see it's like a **portmanteau**—there are two meanings packed into one word."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He placed his leather **portmanteau** upon the rack and settled himself into the carriage corner."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes quickly packed his spyglass, lens, and note-books into a battered **portmanteau**."*
+

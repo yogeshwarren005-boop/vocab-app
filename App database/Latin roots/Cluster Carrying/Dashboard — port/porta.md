@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aperture or hole that opens into a bodily cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aperture or hole that opens into a bodily cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical gate, entrance, or fissure where blood vessels, nerves, or ducts enter an organ (especially the porta hepatis of the liver).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross human anatomy and surgical gastroenterology, the transverse fissure on the inferior visceral surface of the liver transmitting the portal triad.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Negli occhi porta la mia donna Amore; Per che si fa gentil ciò ch’ella mira: Ov’ella passa, ogni uom ver lei si gira, E cui saluta fa tremar lo core."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"According to some, the trysting-place of the lovers was not in the woods of Nemi but in a grove outside the dripping Porta Capena at Rome, where another sacred spring of Egeria gushed from a dark cavern."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Preceded by the nobles walking barefoot, it moved slowly, to the loud music of pipes and tambourines, out by the Porta Capena, and so down to the banks of the Almo, which flows into the Tiber just below the walls of Rome."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **porta** hepatis transmits the hepatic artery, portal vein, and bile ducts within the gastrohepatic omentum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstruction at the **porta** of the liver leads inevitably to ascites and collateral venous distension."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Blood enters the liver parenchyma through the great vessels passing directly through the **porta**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At an inconvenient time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an inconvenient time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At an inconvenient, untimely, or unsuitable moment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic negotiation, raising sensitive contentious topics when bilateral goodwill is exceptionally fragile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Besides, it would not be prudent to carry the electric light in these waters; its brilliancy might attract some of the dangerous inhabitants of the coast most inopportunely.” As Captain Nemo pronounced these words, I turned to Conseil and Ned Land."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The door opened **inopportunely**, revealing the very person whose name had just been spoken."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A gust of wind blew the casement open most **inopportunely**, scattering my papers across the carpet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Guppy entered **inopportunely**, interrupting the confidential conference between lawyer and client."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imported person brought from a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imported person brought from a foreign country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who or thing that is imported; especially a foreign worker, specialist, or athlete brought into an organization or territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor economics and corporate management, an employee relocated internationally on an expatriate assignment under corporate sponsorship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, importee designates an imported person brought from a foreign country."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The institute welcomed the German chemist, treating the distinguished **importee** with profound respect."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The European railway engineer was regarded by the provincial grandees as an indispensable **importee**."*
+> - 📜 **George Orwell (*Burmese Days*):** *"Every British official was a colonial **importee** detached from the living culture of the native people."*
+

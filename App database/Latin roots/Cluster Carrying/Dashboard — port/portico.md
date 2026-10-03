@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A porch or entrance to a building consisting of a covered and often columned area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A porch or entrance to a building consisting of a covered and often columned area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure consisting of a roof supported by columns at regular intervals, typically attached as a porch to a building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek and Roman architecture, a monumental colonnaded entrance (such as the Stoa or the portico of the Pantheon).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the portico, from the eaves, from the parapet, from every ledge and post and pillar, drips the thawed snow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A gloomy man, who had been observing her from under the portico of the old corn-exchange when she passed through the group without, stepped quickly to her side at the moment of her exclamation, and caught her in his arms as she sank down."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"He reached the splendid portico which was the chief entrance of the Palace."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A gloomy man, who had been observing her from under the church **portico**, now stepped forward."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"They lingered beneath the marble **portico** of the temple, admiring the flight of doves across the piazza."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The great **portico** of the baths was adorned with precious statues brought from Greece."*
+

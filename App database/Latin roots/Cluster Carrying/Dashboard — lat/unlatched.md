@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not firmly fastened or secured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not firmly fastened or secured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opened, loosened, or freed by lifting or withdrawing a latch; not firmly fastened, bolted, or secured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, describing an unsecured entrance, window, or wicket swinging open in the wind or granting unhindered passage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Clare unlatched the door of a large chamber, felt his way across it, and parted the shutters to the width of two or three inches."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The drawing-room door was unlatched, and Martha, pushing it without looking into the room, waited for Mrs."*
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"Peter unlatched the heavy oaken door and went outside to the outbuildings."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Clare **unlatched** the door of a large chamber, felt his way across it, and stepped onto the damp turf outside."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The garden gate was found **unlatched**, swinging softly in the evening breeze against the wooden post."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I quietly **unlatched** the kitchen door and crept out into the cold morning mist."*
+

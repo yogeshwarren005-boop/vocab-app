@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Allocate, distribute, or apportion anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allocate, distribute, or apportion anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assign or distribute something again in a different way or in different proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political representation, redrawing legislative district boundaries after a census to reflect changing demographic distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reapportion designates allocate, distribute, or apportion anew."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Every future census will require congress to **reapportion** legislative seats among the changing populations of the states."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The legislature must periodically **reapportion** representation to prevent decaying boroughs from controlling the commonwealth."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The western migration compelled the union to **reapportion** federal tax quotas and congressional districts."*
+

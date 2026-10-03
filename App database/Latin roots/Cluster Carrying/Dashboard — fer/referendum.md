@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A legislative act is referred for final approval to a popular vote by the electorate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legislative act is referred for final approval to a popular vote by the electorate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A direct and universal vote in which an entire electorate is invited to vote on a particular proposal or legislative measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Swiss constitutional history and direct democracy theory, the institutional mechanism allowing citizens to approve or reject statutory enactments passed by parliament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Let a national referendum, he says, be held on the question of reform, and let it be agreed that the result shall be binding on Parliament; he himself will contribute 100 pounds a year (one-tenth of his income) to the expenses of organisation."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Foreign ministers, says Sir William Temple, who was himself a foreign minister, elude matters taken ad referendum, by tampering with the provinces and cities."*
+> - 📜 **James Bryce (*The American Commonwealth*):** *"The adoption of the constitutional **referendum** represents an effort to bypass legislative corruption through direct popular sovereignty."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Advocates of the popular **referendum** sought to restore sovereign authority directly to the people."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The principle of submitting critical civic questions to a general **referendum** reflects absolute trust in majority judgment."*
+

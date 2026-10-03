@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most recent news or development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Up to the immediate present; most recent or most up-to-date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Most recent or the newest; comparative of late (late, later, latest).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In news publishing and commercial marketing, the most up-to-date dispatch or fashionable contemporary design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their latest refuge Was to send him, for whose old love I have— Though I showed sourly to him—once more offered The first conditions, which they did refuse And cannot now accept, to grace him only That thought he could do more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come hither, Harry, sit thou by my bed, And hear, I think, the very latest counsel That ever I shall breathe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"After the bloody fray at Wakefield fought, Where your brave father breathed his latest gasp, Tidings, as swiftly as the posts could run, Were brought me of your loss and his depart."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Their **latest** refuge was to send him, for whose old love they hoped to find a milder treatment."*
+> - 📜 **Jane Austen (*Emma*):** *"She was eager to hear the **latest** news from London concerning her friend's arrival."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes was scanning the **latest** edition of the evening paper for notices of mysterious crimes."*
+

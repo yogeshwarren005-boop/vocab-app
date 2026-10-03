@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be supported or defended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be supported or defended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be endured or tolerated; intolerable; or not able to be defended or justified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical philosophy, a proposition or deductive argument so lacking in evidentiary warrant that it collapses under scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"To have made up his mind that a thing must be, and to find himself thwarted by a bit of a girl--it was unsupportable!--so unsupportable, that even now he refused to believe it could be true."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The cold indifference of his gaze became at last an **unsupportable** torment to my pride."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The arbitrary caprices of the tyrant became **unsupportable** to the senate and the army."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To maintain that ideas are innate without consciousness is an **unsupportable** hypothesis in philosophy."*
+

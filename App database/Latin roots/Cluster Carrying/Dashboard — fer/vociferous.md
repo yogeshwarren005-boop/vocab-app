@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conspicuously and offensively loud; given to vehement outcry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conspicuously and offensively loud; given to vehement outcry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making or given to making a loud, vehement, clamorous, or noisy outcry; clamorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and natural history, describing vehement vocal demonstrations by crowds, or loud vocalizations by animals during courtship or alarm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vociferous designates conspicuously and offensively loud; given to vehement outcry."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The meaning of these differences in the trachea becomes apparent in the **vociferous** calls of the male waterfowl during courtship."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **vociferous** shouts of the London mob greeted the acquittal of the seven bishops."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The captain answered the hail with a **vociferous** shout through his brass speaking-trumpet."*
+

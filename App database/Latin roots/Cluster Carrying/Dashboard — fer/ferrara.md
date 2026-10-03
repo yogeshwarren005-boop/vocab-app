@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northern italy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northern italy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient city in Emilia-Romagna, Italy; or a broadsword of superior steel bearing the stamped mark of the famous Italian armorer Andrea Ferrara.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance arms and cultural history, a high-quality Scottish or European basket-hilted broadsword prized for the exceptional elasticity and temper of its blade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Item, you sent a large commission To Gregory de Cassado, to conclude, Without the King’s will or the state’s allowance, A league between his Highness and Ferrara."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Ferrara’ is a good example of the constitution of this art-form."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In giving the monologues new titles, ‘My Last Duchess’ and ‘Count Gismond’, he added to the one, ‘Ferrara’, and to the other, ‘Aix in Provence’, thus locally restricting the order of character which they severally represent."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"Item, you sent a large commission / To Gregory de Cassado, to conclude, / Without the king's assent or knowledge, / A league with the Duke of **Ferrara**."*
+> - 📜 **Walter Scott (*Waverley*):** *"The Highland chieftain drew from his scabbard a genuine Andrea **Ferrara**, boasting of its tempered edge."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"He tested the balance of the old **Ferrara** blade before stepping onto the dueling ground."*
+

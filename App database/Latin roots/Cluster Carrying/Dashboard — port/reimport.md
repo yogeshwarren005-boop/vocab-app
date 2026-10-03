@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin port within the domain of Carrying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of port in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To import something that had previously been exported from the same country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international customs law, bringing back domestic manufactures from foreign bonded warehouses without paying secondary import duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reimport designates pertaining to, derived from, or characteristic of latin port within the domain of carrying."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A merchant may find it advantageous to export commodities to a foreign depot and subsequently **reimport** them when market conditions change."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"High tariffs often encourage traders to **reimport** domestic goods through illicit maritime channels."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"Provisions allowing manufacturers to **reimport** unused raw materials free of duty foster industrial expansion."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who markets merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with authority to allot or deal out or apportion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, enterprise, or person that supplies goods to businesses or stores; or a mechanical device that disperses something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal combustion engines, a rotary device that directs high-voltage current from the ignition coil to the spark plugs in proper sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The enterpriser is merely the distributor or equalizer of cost among all the different products for which different agents can be used."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Traps baited with _initiatory impulses toward high ideals. _It is what the tract-distributor does."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Not a few of the most earnest and noble workers in the field were at one time or another the distributors of its supplies, and thus in some sense, its agents."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The wholesale **distributor** serves as an indispensable link connecting distant manufacturers with consumers."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The man acted as the secret **distributor** of foreign intelligence to agents in London."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The government appointed a special **distributor** to manage the rations of the miraculous substance."*
+

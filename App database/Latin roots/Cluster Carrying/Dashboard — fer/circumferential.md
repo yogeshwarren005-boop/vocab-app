@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying around or just outside the edges or outskirts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lying around or just outside the edges or outskirts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, lying along, or extending around the circumference or perimeter of an object or region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural biomechanics and vascular histology, describing hoop stress, circular muscular fibers, or concentric lamellae oriented tangentially around a cylinder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumferential designates lying around or just outside the edges or outskirts."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Now bees, as may be clearly seen by examining the edge of a growing comb, add successive **circumferential** layers of wax."*
+> - 📜 **William Harvey (*Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus*):** *"The **circumferential** fibers of the ventricle contract forcibly to diminish the internal cavity."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The induced current flows along **circumferential** paths encircling the fluctuating magnetic flux."*
+

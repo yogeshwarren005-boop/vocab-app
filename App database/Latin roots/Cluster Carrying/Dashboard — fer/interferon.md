@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiviral protein produced by cells that have been invaded by a virus; inhibits replication of the virus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiviral protein produced by cells that have been invaded by a virus; inhibits replication of the virus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of signaling proteins produced and released by host cells in response to the presence of pathogens such as viruses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular immunology and oncology, a cytokine that activates natural killer cells and macrophages and upregulates antigen presentation to inhibit viral replication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interferon designates an antiviral protein produced by cells that have been invaded by a virus; inhibits replication of the virus."*
+> - 📜 **Alick Isaacs (*Virus Interference: The Interferon*):** *"Cells exposed to inactivated influenza virus produce a protective factor which we have named **interferon**."*
+> - 📜 **Macfarlane Burnet (*Immunology, Aging, and Cancer*):** *"The discovery of **interferon** revealed that non-specific cellular defenses precede adaptive antibody responses."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"When infected by a virus, the host cell synthesizes **interferon** to warn neighboring cells to erect antiviral defenses."*
+

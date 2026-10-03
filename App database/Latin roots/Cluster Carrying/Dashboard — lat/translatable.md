@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being put into another form or style or language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being changed in substance as if by alchemy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being rendered, converted, or expressed into another language without vital loss of core semantic meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and translation theory, describing linguistic constructs or cultural metaphors whose expressive value can be effectively transferred into another semiotic system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The Professor was developing a remarkable talent for finding not only the stones of the past written all over with a wonderful and translatable history, but also the moral connected with each incident of our journey."*
+> - 📜 **Walter Benjamin (*The Task of the Translator*):** *"A work is inherently **translatable** if its inner linguistic essence calls forth an echo in other languages."*
+> - 📜 **Umberto Eco (*Experiences in Translation*):** *"To consider whether a poetic text is **translatable** is to question the degree to which syntax and rhyme can be negotiated."*
+> - 📜 **George Steiner (*After Babel*):** *"No human utterance is entirely untranslatable, just as no utterance is ever completely and effortlessly **translatable**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleep inducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sleep inducing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, tending to cause, or inducing sleep; soporific or dormitive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological history and literary satire, describing sedative herbal potions (such as poppy and mandragora) or tediously dull discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It must have been a work of vast ability in the somniferous school of literature."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It must have been a work of vast ability in the **somniferous** school of literature, for its perusal never failed to invite repose."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"A quiet afternoon beside the slow stream exerts a **somniferous** influence upon the weary angler."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The slow, monotonous rocking of the ship on the calm sea produced a **somniferous** tranquility throughout the watch."*
+

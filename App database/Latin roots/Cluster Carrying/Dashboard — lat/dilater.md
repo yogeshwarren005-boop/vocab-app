@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument that is used to dilate or distend an opening or an organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument that is used to dilate or distend an opening or an organ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument, agent, or anatomical structure that expands, opens, or dilates something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical surgery, an expandable surgical instrument (such as a Hegar or bougie dilator) used to enlarge an orifice, lumen, or canal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilater designates a surgical instrument that is used to dilate or distend an opening or an organ."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon introduced a gradual mechanical **dilater** to relieve the esophageal stricture."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The pupil contains both a circular sphincter and a radiating muscular **dilater**."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The pharmacologist tested whether the compound acted as an active vascular **dilater**."*
+

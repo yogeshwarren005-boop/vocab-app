@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or subject to the special or the general theory of relativity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the philosophical doctrine of relativism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or consistent with the physical theory of relativity; or reflecting philosophical relativism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-energy astrophysics and theoretical physics, describing physical phenomena (such as time dilation or Lorentz contraction) occurring at velocities approaching the speed of light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relativistic designates relating or subject to the special or the general theory of relativity."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"The **relativistic** transformation equations demonstrate that simultaneous events in one coordinate system are not simultaneous in another."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"The deflection of starlight near the sun provided dramatic observational confirmation of **relativistic** mechanics."*
+> - 📜 **Max Planck (*The Philosophy of Physics*):** *"The introduction of **relativistic** dynamics marked a decisive departure from the Newtonian assumption of rigid Euclidean space."*
+

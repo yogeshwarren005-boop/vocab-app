@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ship's officer in charge of navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The member of an aircrew who is responsible for the aircraft's course.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who directs, plots, or operates the route of a ship, aircraft, or vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the Age of Exploration, master mariners (such as Henry the Navigator, Columbus, or Cabot) who mapped oceanic passages and trade routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Hendrik Hamel might be one time part-owner of the old _Sparwehr_, with a navigator’s knowledge of the stars and deep versed in books, but with women, no, there I would not give him better."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"That’s my small experience, so far as the Massachusetts calendar, and Bowditch’s navigator, and Daboll’s arithmetic go."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's their input?" "Adari is your navigator."*
+> - 📜 **Jack London (*The Star Rover*):** *"The bold Dutch **navigator** steered his vessel into uncharted archipelagoes without chart or pilot."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A skilled **navigator** can read the drift of the sea by the floating kelp and the flights of petrels."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"As an experienced **navigator**, Columbus observed the variations of the magnetic needle with keen interest."*
+

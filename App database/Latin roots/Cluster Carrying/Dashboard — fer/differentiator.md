@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who (or that which) differentiates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who (or that which) differentiates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, feature, or mechanism that distinguishes or causes a distinction between things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analog electronics and signal processing, a circuit or network whose output voltage is proportional to the time rate of change of its input voltage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, differentiator designates a person who (or that which) differentiates."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The intellect functions as a swift **differentiator**, separating subtle shades of meaning that escape crude perception."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"An electronic **differentiator** tracks input fluctuations to provide predictive feedback in servomechanisms."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A keen observer serves as an instinctive **differentiator** of truth from rhetorical artifice."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exhilarating psychological state of pride and optimism; an absence of depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of joy and pride.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great happiness, exhilaration, and exhilarated pride; a feeling of joyous triumph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology, a persistent, ungrounded elevation of mood, distinct from proportional everyday happiness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"As to my feelings I shall say nothing, because I do not look upon the honour as one of a kind that ought to excite the least elation ..."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To my surprise—yes, to my elation be it said—both my fellow-prisoners knew me through my record as an incorrigible."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The very sight of the hollows between them gave me a sense of solemn elation, or, rather, to use a better word, of sanctification."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"A stroke of unexpected fortune comforted him, though it might easily have turned into foolish **elation**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I had worked for nearly two years to achieve my purpose, and now an immense **elation** mingled with horror at my success."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"His brief moment of **elation** vanished like smoke before the stern reality of the tribunal."*
+

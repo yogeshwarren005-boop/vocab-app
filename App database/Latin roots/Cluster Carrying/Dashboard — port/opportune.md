@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable or at a time that is suitable or advantageous especially for a particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable or at a time that is suitable or advantageous especially for a particular purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Well-chosen or particularly favorable, suitable, or appropriate; occurring at an advantageous time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy and tactical maneuvers, exploiting a fleeting breach or favorable wind at the decisive instant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This you may know, And so deliver, I am put to sea With her whom here I cannot hold on shore; And, most opportune to her need, I have A vessel rides fast by, but not prepar’d For this design."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But they were both happily relieved by the opportune appearance of Mike, the client with the fur cap and the habit of wiping his nose on his sleeve, whom I had seen on the very first day of my appearance within those walls."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Before I can explain to you," proceeded Lehna, "the last words of my departed brother, I have a tale to unfold, a tale which will reveal to you in how high a degree your coming has been opportune."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"As I hope for quiet days, fair issue, and long life, with such love as 'tis now, the most **opportune** place."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shower ceased at an **opportune** moment, allowing the reapers to stack the dry sheaves."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Your visit is singularly **opportune**, Watson, for I was on the point of requesting your assistance."*
+

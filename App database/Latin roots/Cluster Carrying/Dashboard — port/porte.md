@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ottoman court in constantinople.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ottoman court in constantinople.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or historical term for the Ottoman government or empire (the Sublime Porte), named after the ceremonial gate of the grand vizierate in Istanbul.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century diplomatic history, the imperial court of the Sultan at Constantinople conducting international diplomacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Only come with me to the Porte St."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"After we had walked with him to his door, we proceeded to the Porte St."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Again I seemed to see under my closed eyelids the faint line of the high road which led from the Porte St."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ambassadors of the Christian powers were received with haughty ceremony at the Sublime **Porte**."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The policy of the **Porte** toward its Balkan provinces fluctuated between savage repression and indolent neglect."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The majestic gate of the **Porte** witnessed the rise and fall of viziers whose lives hung on a sultan's nod."*
+

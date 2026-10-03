@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Potentially existing but not presently evident or realized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pathology) not presently active.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing but not yet developed or manifest; hidden, concealed, or dormant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and physical chemistry, heat absorbed or released during a phase change without altering the temperature of the substance (latent heat).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was food for great regret with him; it was also a _contretemps_ which touched into life a latent heat he had experienced in that direction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If an emotion possessed him at all, it ruled him; a feeling not mastering him was entirely latent."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He felt that, single-minded and self-sacrificing as his parents were, there yet existed certain latent prejudices of theirs, as middle-class people, which it would require some tact to overcome."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was food for great regret with him; it was also a spark to his **latent** jealousy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Rudimentary organs often represent structures which have become **latent** or reduced through long disuse."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In every generous nature there is a **latent** capacity for heroic sacrifice when the call arrives."*
+

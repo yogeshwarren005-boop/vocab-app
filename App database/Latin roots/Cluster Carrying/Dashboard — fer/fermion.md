@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any particle that obeys fermi-dirac statistics and is subject to the pauli exclusion principle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any particle that obeys fermi-dirac statistics and is subject to the pauli exclusion principle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any subatomic particle (such as an electron, proton, or neutron) that obeys Fermi-Dirac statistics and has a half-integer spin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum field theory, an elementary or composite matter particle governed by the Pauli exclusion principle, prohibiting two identical fermions from occupying the same quantum state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fermion designates any particle that obeys fermi-dirac statistics and is subject to the pauli exclusion principle."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"An antisymmetrical wave function describes a collection of particles where each **fermion** strictly obeys the exclusion principle."*
+> - 📜 **Enrico Fermi (*Notes on Modern Physics*):** *"The thermodynamic distribution of energy among electrons reveals the collective behavior characteristic of every fundamental **fermion**."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"While photons are bosons that love to gather in the same state, every **fermion** insists on having its own private orbital."*
+

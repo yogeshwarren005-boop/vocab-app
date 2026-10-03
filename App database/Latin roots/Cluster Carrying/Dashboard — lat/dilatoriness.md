@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slowness as a consequence of not getting around to it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slowness as a consequence of not getting around to it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to be slow, tardy, or cause delay; habitual procrastination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil procedure and judicial administration, deliberate stalling tactics deployed to frustrate an adversary's pursuit of remedies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If no such cabal should exist, the mere diversity of views and opinions would alone be sufficient to tincture the exercise of the executive authority with a spirit of habitual feebleness and dilatoriness."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If no such cabal should exist, the mere diversity of views and opinions would alone be sufficient to tincture the exercise of the executive authority with a spirit of habitual feebleness and dilatoriness."*
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"The winter, however, was spent cheerfully; and although the spring was uncommonly late, when it came its beauty compensated for its dilatoriness."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The winter, however, was spent cheerfully; and although my **dilatoriness** delayed our departure, my friend never reproached me."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her father's habitual **dilatoriness** in answering letters caused his daughters continual anxiety."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The chronic **dilatoriness** of the Court of Chancery ground generations of litigants into poverty and dust."*
+

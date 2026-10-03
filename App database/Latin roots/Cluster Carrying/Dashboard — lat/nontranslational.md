@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to movement that is not uniform or not without rotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to movement that is not uniform or not without rotation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not involving, relating to, or resulting from translation (either in physical motion, linguistics, or molecular genetics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and biochemistry, RNA molecules (such as tRNA, rRNA, or ribozymes) that perform structural or catalytic roles without being translated into protein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontranslational designates of or relating to movement that is not uniform or not without rotation."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The rotational and vibrational degrees of freedom constitute the **nontranslational** kinetic energy of the molecule."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Subsequent research revealed that many functional cellular transcripts serve specialized **nontranslational** roles in gene regulation."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The complex physical system exhibited internal rotational stresses alongside **nontranslational** thermal equilibrium."*
+

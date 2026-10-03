@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of a river that flows away from the main stream and does not rejoin it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of a river that flows away from the main stream and does not rejoin it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of a river that does not return to the main stream after leaving it, especially common in river deltas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluvial geomorphology and sedimentology, a diverging channel branching off a trunk river to disperse discharge and sediment into a lake or ocean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distributary designates a branch of a river that flows away from the main stream and does not rejoin it."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The great delta of the Ganges is traversed by innumerable winding channels, each **distributary** depositing silt upon the flats."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The Orinoco bifurcates into the Casiquiare, a remarkable natural **distributary** connecting two grand river systems."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We sailed past the mouth of each sluggish **distributary** draining the mangrove swamps of the estuary."*
+

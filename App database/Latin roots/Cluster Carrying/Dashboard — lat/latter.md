@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second of two or the second mentioned of two.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring to the second of two things or persons mentioned (or the last one or ones of several).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting the second or second mentioned of two people or things; or occurring nearer to the end of something than to the beginning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logical argumentation and rhetorical balance, referring back specifically to the second of two previously stated alternatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, ’tis the rarest argument of wonder that hath shot out in our latter times."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good traveller is something at the latter end of a dinner; but one that lies three-thirds and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten.— God save you, Captain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, I will go seek Some ditch wherein to die; the foul’st best fits My latter part of life. [_Exit._] SCENE VII."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Why, 'tis the rarest argument of wonder that hath shot out in our **latter** times."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The **latter** was more open, cheerful, and unreserved than her sister."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Between the earlier and the **latter** domestic varieties, a marked divergence of characters has taken place."*
+

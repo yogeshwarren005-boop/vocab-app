@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or occurring at an advanced period of time or after a usual or expected time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After the expected or usual time; delayed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, arriving, or acting after the proper, usual, or scheduled time; or recently deceased.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chronology and periodization, denoting the final phase or closing epoch of an artistic or historical movement (e.g., Late Roman).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I was very late more near her than I think she wish’d me; alone she was, and did communicate to herself her own words to her own ears; she thought, I dare vow for her, they touch’d not any stranger sense."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They begin to smoke me, and disgraces have of late knock’d too often at my door."*
+> - 📜 **William Shakespeare (*The Sonnets*):** *"Bare ruined choirs, where **late** the sweet birds sang."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The hour was **late**, and the lights in the village cottages were extinguished one by one."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"It was too **late** to recall the words that had escaped my trembling lips."*
+

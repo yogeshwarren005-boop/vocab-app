@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose specialization in form or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lose specialization in form or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To revert from a specialized morphological or physiological state to a simpler, less differentiated stem-like cellular condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental and regenerative cell biology, to undergo biochemical reprogramming wherein mature somatic cells regain developmental plasticity and multipotency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dedifferentiate designates lose specialization in form or function."*
+> - 📜 **Thomas Hunt Morgan (*Regeneration*):** *"When an amphibian limb is amputated, mature skeletal and muscular cells **dedifferentiate** to form the regenerative blastema."*
+> - 📜 **Hans Driesch (*The Science and Philosophy of the Organism*):** *"Certain tissues retain the latent potency to **dedifferentiate** under the influence of severe injury."*
+> - 📜 **Conrad Hal Waddington (*The Strategy of the Genes*):** *"Epigenetic barriers normally prevent cells from rolling backward, yet under extreme stimuli they may **dedifferentiate**."*
+

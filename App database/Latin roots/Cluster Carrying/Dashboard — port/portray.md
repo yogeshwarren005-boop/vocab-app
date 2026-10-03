@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Portray in words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a portrait of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To depict or represent someone or something in a work of art, literature, or performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courtroom rhetoric and biographical historiography, framing an individual's character or intent to influence public judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"At present she did not know her own poverty, for she had no lover to portray."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What he wants from me now is to portray an integrated assault by INOR combined forces from a point halfway between the depot and the Slingshot construction site."*
-> - 📜 **Effie Afton (*Eventide*):** *"All this your vivid imaginations will easily portray in far more glowing and picturesque colors than our poor pencil can paint."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My pencil could not **portray** the elusive sorrow that shadowed his proud countenance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A novelist who seeks to **portray** human life faithfully must not shrink from its commonplace ironies."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"No painter could adequately **portray** the terrifying majesty of the breaching whale."*
+

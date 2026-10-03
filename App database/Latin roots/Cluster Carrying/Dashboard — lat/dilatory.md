@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wasting time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasting time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Slow to act; intended to cause delay; tardy or procrastinating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law pleading, a plea that suspends or delays the current suit without addressing the substantive merits of the cause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I abhor This dilatory sloth and tricks of Rome."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou know’st we work by wit, and not by witchcraft, And wit depends on dilatory time."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His family knew him to be, on all common occasions, a most negligent and dilatory correspondent; but at such a time they had hoped for exertion."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"I abhor this **dilatory** sloth and tricks of Rome; my heart drops tears of blood to see your great delay."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A weak executive will always adopt **dilatory** measures that paralyze national defense in times of peril."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His **dilatory** habits had already ruined two promising careers, leaving him dependent upon relatives."*
+

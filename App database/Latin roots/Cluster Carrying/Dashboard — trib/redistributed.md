@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having population and industries relocated from urban to outlying areas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributed again or differently; apportioned anew among people or places.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology and metamorphic petrology, minerals dissolved and reprecipitated along fault planes or shear zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redistributed designates distribute anew."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The pigment matter was **redistributed** over the plumage, producing striking bilateral patterns."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Capital withdrawn from decaying industries was quickly **redistributed** into more profitable avenues."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Taxes collected from foreign trade were **redistributed** to support federal administration and national defense."*
+

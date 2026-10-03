@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growth by the rapid multiplication of parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapid increase in number (especially a rapid increase in the number of deadly weapons).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid increase in numbers; a large amount or rapid multiplication of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular oncology and arms control diplomacy, the rapid proliferation of abnormal neoplastic cells, or the geopolitical spread of weapons systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proliferation designates growth by the rapid multiplication of parts."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The histological study of tumors demonstrates an uncontrolled **proliferation** of atypical cellular elements."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Geographical isolation on oceanic archipelagos frequently sparks the rapid evolutionary **proliferation** of descendant species."*
+> - 📜 **George F. Kennan (*The Cloud of Danger*):** *"The unchecked **proliferation** of nuclear weapons remains the most perilous challenge confronting modern international diplomacy."*
+

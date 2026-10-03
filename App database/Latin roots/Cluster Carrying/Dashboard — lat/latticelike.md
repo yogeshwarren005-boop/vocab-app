@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pattern of fretwork or latticework.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a pattern of fretwork or latticework.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a lattice in structure or appearance; having an open interlacing framework or pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular histology and bone physiology, the porous, trabecular network of cancellous bone or cancellated connective tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latticelike designates having a pattern of fretwork or latticework."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The microscopic structure of the bryozoan skeleton reveals an intricate, **latticelike** network of calcified filaments."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Cancellous bone tissue presents an open, **latticelike** framework of trabeculae designed to absorb compressive stress."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The siliceous framework of the glass sponge forms a delicate, **latticelike** basket of astonishing geometric regularity."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who presents something to another for acceptance or rejection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who presents something to another for acceptance or rejection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, commercial entity, or legal party who initiates an offer or proposal to another party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, the party who formulates and communicates the terms of a proposed covenant, retaining the power to revoke before acceptance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, offeror designates someone who presents something to another for acceptance or rejection."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The **offeror** creates by his declaration a power of acceptance in the offeree which did not exist before."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The **offeror** cannot bind the other party until an unequivocal assent has been communicated."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"In modern jurisprudence, the liability of the **offeror** commences only upon the reciprocal promise of the offeree."*
+

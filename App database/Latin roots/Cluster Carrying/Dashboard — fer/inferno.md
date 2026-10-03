@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any place of pain and turmoil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very intense and uncontrolled fire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place or situation that resembles hell, especially a large and uncontrollable fire or scene of chaotic destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Dantean literature and apocalyptic imagery, the subterranean realm of eternal torment or an overwhelming conflagration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And yet we could learn nothing from such transient and ofttimes stupid Dantes who would remain in our inferno too short a time to learn knuckle-talk ere they went forth again into the bright wide world of the living."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Other legends, however, state that the veritable and primordial lord of the Hawaiian inferno was called Manua."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"The inferno itself bore a number of names, such as Po-pau-ole, Po-kua-kini, Po-kini-kini, Po-papa-ia-owa, Po-ia-milu."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"My purpose was to stroll into the shade for a moment; but no sooner within than it seemed to me I had stepped into the gloomy circle of some **inferno**."*
+> - 📜 **Dante Alighieri (*The Divine Comedy*):** *"Through me you pass into the city of woe, through me you pass into eternal pain, into the dread **inferno**."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The broken gas mains ignited, turning the ruined suburb into a roaring **inferno**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being fermented.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being fermented.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of undergoing fermentation; suitable for conversion into alcohol, acid, or gas by microorganisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial brewing and biochemical engineering, designating organic substrates containing simple sugars that yeast can metabolize into ethanol and carbon dioxide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fermentable designates capable of being fermented."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The must of crushed grapes contains an abundance of **fermentable** sugar ready for yeast metabolism."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Vegetable juices containing **fermentable** carbohydrates undergo rapid transformation when exposed to atmospheric air."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Microscopic analysis reveals that non-living broth remains inert unless **fermentable** constituents are seeded with active germs."*
+

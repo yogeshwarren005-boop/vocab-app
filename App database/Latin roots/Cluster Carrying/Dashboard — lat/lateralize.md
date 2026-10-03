@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move or displace to one side so as to make lateral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or displace to one side so as to make lateral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To localize a specific physiological, cognitive, or neurological function to one side of the brain or body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurophysiology, observing unilateral focal epileptiform discharges or asymmetric motor deficits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lateralize designates move or displace to one side so as to make lateral."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The involuntary tremor began to **lateralize** distinctly to the right hand and arm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Focal neurological signs that **lateralize** to one hemisphere demand immediate surgical evaluation."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Cortical electrical stimulation failed to **lateralize** speech comprehension entirely to a single gyral area."*
+

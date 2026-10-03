@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being transferred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being transferred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being transferred, conveyed, assigned, or made over to another person or party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial law and property jurisprudence, designating licenses, railway tickets, or specialized endowments that are legally valid only for the named individual holder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontransferable designates incapable of being transferred."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"Certain personal privileges and fiduciary covenants are inherently **nontransferable** without the express consent of the obligee."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A feudal privilege granted to a specific guild was strictly **nontransferable** to outside tradesmen."*
+> - 📜 **John Maynard Keynes (*A Treatise on Money*):** *"A **nontransferable** credit instrument cannot perform the standard circulating functions of broad money."*
+

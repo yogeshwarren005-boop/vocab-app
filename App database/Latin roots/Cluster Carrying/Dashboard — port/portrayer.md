@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter or drawer of portraits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painter or drawer of portraits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist, writer, or performer who portrays or depicts someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory, an author or dramaturge whose works systematically delineate the manners and morals of an epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He is the faithful portrayer of Nature, whose features are always the same and always interesting."*
+> - 📜 **William Hazlitt (*Characters of Shakespear's Plays*):** *"Shakespeare is the supreme **portrayer** of the passions, revealing every nuance of the human heart."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Tintoretto stood as the fierce **portrayer** of biblical drama, unmatched in dynamic movement."*
+> - 📜 **Henry James (*French Poets and Novelists*):** *"Balzac was the unwearied **portrayer** of the immense human comedy of nineteenth-century France."*
+

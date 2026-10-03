@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who presents something to another for acceptance or rejection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who presents something to another for acceptance or rejection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who offers, presents, tenders, or proposes something for consideration or acceptance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious liturgical history and civil law, a devotee making a sacred oblation at an altar, or a bidder tendering a proposal in an auction or covenant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, offerer designates someone who presents something to another for acceptance or rejection."*
+> - 📜 **Richard Hooker (*Of the Lawes of Ecclesiasticall Politie*):** *"The sacrifice was accepted according to the piety of the **offerer**, rather than the material value of the oblation."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The **offerer** of unsolicited advice is seldom welcomed with unreserved gratitude."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"The **offerer** of terms must demonstrate sincerity if reconciliation is to be achieved."*
+

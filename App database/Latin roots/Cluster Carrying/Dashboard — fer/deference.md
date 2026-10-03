@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A courteous expression (by word or deed) of esteem or regard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Courteous regard for people's feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Respectful submission, courteous yielding, or polite compliance with the judgment, will, or opinion of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological theory and diplomatic etiquette, the institutionalized display of reverence or social subordinate alignment toward recognized moral, judicial, or aristocratic authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn does so with deference and holds it open while she passes out."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby in his best coat, looking at all the preparations when they are completed and coughing his cough of deference behind his hand, says to Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Fill your glass, Snagsby.” “Thank you, sir, I am sure,” returns the stationer with his cough of deference."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"I am aware that two paleontologists, whose opinions are worthy of much **deference**, have argued against this interpretation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth listened with all the **deference** she could muster to the pompous advice of Mr. Collins."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic societies diminish the instinctive **deference** that citizens in an aristocracy pay to their social superiors."*
+

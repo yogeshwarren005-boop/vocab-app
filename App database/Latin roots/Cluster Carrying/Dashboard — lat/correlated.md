@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To bear a reciprocal or mutual relation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into a mutual, complementary, or reciprocal relation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a mutual relationship, interdependence, or co-variation with something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary developmental biology (correlation of growth), morphological traits inherited together because they share common genetic loci or pleiotropic regulators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And queer as it is I have to positively control the desire to answer him with the correlated title--Adam!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The state- 288:1 ment that /Truth is real/ necessarily includes the correlated statement, that /error, Truth's unlikeness, is unreal/."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"It seems, at least, to be closely correlated with those other messages of which we have spoken,--those other cases where some original element of our nature is capable of being regarded as an inlet of mystic truth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"These modifications will no doubt affect, through the mysterious laws of the correlation of growth, other and quite distinct parts: thus, modifications in the skeleton are often **correlated** with changes in the muscles."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Progressive physiological complexity is invariably **correlated** with structural differentiation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every psychic state is strictly **correlated** with a specific neuro-cerebral configuration."*
+

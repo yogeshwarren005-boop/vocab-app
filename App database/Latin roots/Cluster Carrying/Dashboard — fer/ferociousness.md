@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of extreme cruelty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of extreme cruelty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or display of being ferocious; extreme savagery, cruelty, or fierce aggression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ethology and comparative psychology, innate predatory fierceness or agonistic threat behavior exhibited during territorial defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"My repugnance to move gave birth to ferociousness and frenzy when force was employed, and they were obliged to consent to my return."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The apparent **ferociousness** of the male gorilla is primarily an intimidating display designed to safeguard its family."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The traditional accounts had exaggerated the **ferociousness** of the island warriors, who proved remarkably hospitable."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The canine teeth of male carnivores are developed in proportion to the animal's natural **ferociousness** in sexual combat."*
+

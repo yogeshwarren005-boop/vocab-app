@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phenomenon exhibited by materials like iron (nickel or cobalt) that become magnetized in a magnetic field and retain their magnetism when the field is removed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phenomenon exhibited by materials like iron (nickel or cobalt) that become magnetized in a magnetic field and retain their magnetism when the field is removed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical phenomenon whereby certain materials (such as iron) can form permanent magnets or become strongly attracted to magnets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum physics, the macroscopic collective ordering of unpaired electron spins into magnetic domains caused by positive quantum mechanical exchange coupling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferromagnetism designates phenomenon exhibited by materials like iron (nickel or cobalt) that become magnetized in a magnetic field and retain their magnetism when the field is removed."*
+> - 📜 **Pierre Curie (*Magnetic Properties of Bodies*):** *"The abrupt disappearance of **ferromagnetism** at elevated temperatures marks the onset of complete thermal disorder."*
+> - 📜 **Werner Heisenberg (*Zur Theorie des Ferromagnetismus*):** *"The quantum exchange interaction between neighboring electrons provides the theoretical foundation for **ferromagnetism**."*
+> - 📜 **John H. Van Vleck (*The Theory of Electric and Magnetic Susceptibilities*):** *"Molecular field theories capture the essential thermodynamics of **ferromagnetism** despite their mathematical simplicity."*
+

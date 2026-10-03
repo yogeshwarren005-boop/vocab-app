@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant duct containing latex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant duct containing latex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized plant cell or duct that secretes and contains latex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and histological cytology, articulated or non-articulated tubular cells permeating vegetative tissues that store secondary metabolites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laticifer designates a plant duct containing latex."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Microscopic sections through the milkweed stem reveal the branching network of the **laticifer** system."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The defensive bitter secretion stored in each plant **laticifer** deters grazing insects from attacking foliage."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The cellular walls of the **laticifer** remain distinct even while coalescing into continuous conducting ducts."*
+

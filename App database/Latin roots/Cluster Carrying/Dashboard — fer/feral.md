@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wild and menacing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wild and menacing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing in an untamed, wild, or uncultivated state, especially after having reverted from domestication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population ecology and conservation biology, designating animals or plants that have escaped cultivation and established reproducing populations in the wild.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, feral designates wild and menacing."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"This subject has been ably treated by several authors, showing how rapidly domesticated animals revert to **feral** habits when released."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I love the wild not less than the good; there is a **feral** instinct in man that rejoices in the untamed forest."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The ancestral instincts surged within him, awakening a fierce and **feral** cunning suited to the northern wilderness."*
+

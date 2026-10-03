@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Translate incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translate incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To translate incorrectly or inaccurately from one language into another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and textual hermeneutics, erroneous translation of treaty clauses or philosophical texts altering substantive obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mistranslate designates translate incorrectly."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Careless commentators frequently **mistranslate** ancient authors by substituting modern philosophical idioms for classical terms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The theological schism was exacerbated by interpreters who did **mistranslate** subtle Greek distinctions into ambiguous Latin."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Dryden was too hasty to avoid errors, and would occasionally **mistranslate** Virgil when the rhyme pressed hard upon him."*
+

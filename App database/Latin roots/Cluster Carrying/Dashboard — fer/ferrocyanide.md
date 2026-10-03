@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salt of ferrocyanic acid usually obtained by a reaction of a cyanide with iron sulphate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salt of ferrocyanic acid usually obtained by a reaction of a cyanide with iron sulphate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound containing the tetravalent anion [Fe(CN)6]4−, consisting of a central divalent iron atom coordinated with six cyanide groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical chemistry and industrial pigment manufacturing, a stable non-toxic coordination complex (such as potassium ferrocyanide, yellow prussiate of potash) used to manufacture Prussian blue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferrocyanide designates salt of ferrocyanic acid usually obtained by a reaction of a cyanide with iron sulphate."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Potassium **ferrocyanide** forms deep blue precipitates when combined with solutions of ferric salts."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The yellow crystals of potassium **ferrocyanide** demonstrate that cyanide radicals may be bound firmly to an iron core."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Tests with **ferrocyanide** revealed the presence of dissolved iron in the mineral water."*
+

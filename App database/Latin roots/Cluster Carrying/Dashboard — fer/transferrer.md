@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transfers something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transfers something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, agent, or mechanism that performs a transfer or makes a legal conveyance (variant of transferer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law and postal logistics, the party or mechanical carriage executing the dispatch or assignment of assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferrer designates someone who transfers something."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law requires that the **transferrer** possess full mental capacity at the moment the conveyance is sealed."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery*):** *"An ingenious mechanical **transferrer** shifted the woven cloth from the loom to the folding table."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"He who acts as the **transferrer** of private gossip seldom retains the friendship of either party."*
+

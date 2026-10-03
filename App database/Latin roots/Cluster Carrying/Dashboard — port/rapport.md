@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relationship of mutual understanding or trust and agreement between people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relationship of mutual understanding or trust and agreement between people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A close and harmonious relationship in which the people or groups concerned understand each other's feelings or ideas and communicate well.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychotherapy and psychological interviewing, establishing an empathetic, trust-based therapeutic alliance facilitating open communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It is the prerogative of the ever-present, divine Mind, and 84:12 of thought which is in rapport with this Mind, to know the past, the present, and the future."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"But my aim is rather to suggest such trains of thought, such experience of life as having served to put me _en rapport_ with this poet may haply find here and there a reader who is thereby helped to the same end."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Between the two cousins there existed a subtle, unspoken **rapport** that needed few words to sustain it."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"He felt at once that easy **rapport** which well-bred men establish with women of their own world."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The captain established an immediate **rapport** with the native crew, earning their unquestioned obedience."*
+

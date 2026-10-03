@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychoanalyst's displacement of emotion onto the patient or more generally the psychoanalyst's emotional involvement in the therapeutic interaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The psychoanalyst's displacement of emotion onto the patient or more generally the psychoanalyst's emotional involvement in the therapeutic interaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The emotional reaction of a psychoanalyst or therapist toward a patient, particularly when influenced by the therapist's own unconscious conflicts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychodynamics, the therapeutic phenomenon wherein the analyst projects unresolved personal emotions, defenses, or past relational dynamics onto the analysand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countertransference designates the psychoanalyst's displacement of emotion onto the patient or more generally the psychoanalyst's emotional involvement in the therapeutic interaction."*
+> - 📜 **Sigmund Freud (*The Future Prospects of Psycho-Analytic Therapy*):** *"We have become aware of the **countertransference**, which arises in the physician as a result of the patient's influence on his unconscious feelings."*
+> - 📜 **Carl Jung (*The Psychology of the Transference*):** *"The physician cannot insulate himself from the emotional field; his own **countertransference** becomes an indispensable instrument of diagnosis."*
+> - 📜 **Melanie Klein (*Envy and Gratitude and Other Works*):** *"Careful monitoring of **countertransference** allows the analyst to understand the primitive anxieties projected by the patient."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to navigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to navigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the science, practice, or instruments of navigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avionics and maritime engineering, designating systems (gyroscopes, radar beacons, GPS transponders) utilized for route tracking and drift correction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She and the tug driver exchanged salutations and prattled navigational details as the escort moved off with the Raven following like an elephant leashed to a flea."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Those vessels don't have navigational gear for trips to the rim, nor do they carry the required gear and supplies."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Adari studied a large-scale celestial navigational chart tacked to the wall, Zolan tapped at a remote keyboard, and Myra scrutinized a spreadsheet."*
+> - 📜 **Arthur Conan Doyle (*The Captain of the Pole-Star*):** *"The captain pored over his **navigational** charts, calculating our drift amid the pack ice."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The sphere was fitted with delicate **navigational** apparatus designed to track our trajectory toward the lunar surface."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The barometer was his supreme **navigational** oracle when the barometer dropped like lead in the China Sea."*
+

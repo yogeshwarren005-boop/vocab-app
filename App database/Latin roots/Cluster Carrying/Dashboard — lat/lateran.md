@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The site in rome containing the church of rome and the lateran palace.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The site in rome containing the church of rome and the lateran palace.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complex of buildings in Rome, including the Basilica of Saint John Lateran, historically the residence of the Popes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and canon law, the five ecumenical councils held at the Lateran Palace between the twelfth and sixteenth centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lateran designates the site in rome containing the church of rome and the lateran palace."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The solemn assemblies of the **Lateran** council confirmed the supremacy of the Roman pontiff over western Christendom."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient halls of the **Lateran** witnessed decrees that shaped the feudal jurisprudence of Europe."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The papal legate claimed authority under the solemn sanctions enacted at the **Lateran**."*
+

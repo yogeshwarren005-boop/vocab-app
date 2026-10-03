@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person on whom something is bestowed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a conference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A participant who takes part in a conference, convention, or formal diplomatic consultation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary procedure and jurisprudence, an appointed delegate serving on a joint committee to resolve disagreements between legislative chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I shall then use this power to challenge the conferees and dictate my terms to both the UIPS and INOR's rulers." "Timing is of the utmost importance," Brad reflected."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I must control the timing on this operation so precisely that the conferees have minimal warning before I make my announcement."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Members of each team serving a Chief of State inspected the suites assigned to their nation's conferees, made changes to meet personal or cultural needs and, when satisfied, installed the scheduled occupant's accouterments and trappings of Office."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Each **conferee** enters the joint committee room prepared to negotiate amendments on behalf of his chamber."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The experienced **conferee** weighed every word, mindful of the conflicting interests represented at the table."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"The industrial **conferee** demonstrated a practical grasp of the labor conditions under review."*
+

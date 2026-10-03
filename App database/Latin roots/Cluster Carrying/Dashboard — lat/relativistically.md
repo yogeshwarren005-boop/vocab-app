@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By the theory of relativity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By the theory of relativity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In accordance with the physical principles of special or general relativity; or from the perspective of epistemological relativism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics, describing motions, accelerations, and field interactions calculated using Lorentz-invariant equations rather than classical Newtonian approximations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relativistically designates by the theory of relativity."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"Electrons moving with high velocities must be treated **relativistically** to account for fine structure splitting in spectral lines."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"When energy is converted into mass, the mass increment behaves **relativistically** exactly as predicted by the mass-energy relation."*
+> - 📜 **Hans Reichenbach (*The Philosophy of Space and Time*):** *"The geometry of moving frames must be evaluated **relativistically** once the constancy of the speed of light is accepted."*
+

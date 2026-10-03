@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contaminated with infecting organisms; ; - jane austen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Likely to spread and cause an epidemic disease; - jonathan swift.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carrying or bringing disease, plague, or pestilence; pestilential, highly noxious, or morally corrupting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical public health and satirical literature, describing miasmatic atmospheric vapors or pernicious, irritating, and destructive pests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general says you that have so traitorously discovered the secrets of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, prelate; such is thy audacious wickedness, Thy lewd, pestiferous, and dissentious pranks, As very infants prattle of thy pride."*
-> - 📜 **Effie Afton (*Eventide*):** *"Simcoe's assenting voice was faintly heard amid the fiendish shrieks of those pestiferous younglings, Simcoe's children."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"The general says you that have so traitorously discovered the secrets of your army, and made such **pestiferous** reports of men, are to be executed."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The air of the crowded alleys was thick with **pestiferous** exhalations that spread the fatal distemper."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The filthy slum was a **pestiferous** sink of misery and contagion bordering upon the great houses of the rich."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of contributing to the funds of a church or charity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of offering the bread and wine of the eucharist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The solemn presentation of an offering, sacrifice, or consecrated gift to a deity, sacred altar, or religious institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian liturgical theology, specifically the solemn Eucharistic offering of bread and wine presented to God upon the holy table prior to consecration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mixed with seconds, knows no art, But mutual render, only me for thee."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"No; let me be obsequious in thy heart, And take thou my oblation, poor but free, Which is not mix’d with seconds, knows no art, But mutual render, only me for thee."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Do you think God will be satisfied with half an oblation?"*
+> - 📜 **William Shakespeare (*Sonnet 125*):** *"No, let me be obsequious in thy heart, / And take thou my **oblation**, poor but free, / Which is not mix'd with seconds, knows no art."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Many a sacrifice / And many an **oblation** offered here, / In vain to avert the promised wrath divine."*
+> - 📜 **John Dryden (*The Hind and the Panther*):** *"The pure **oblation** of the morning rite ascended without smoke or profane mixture."*
+

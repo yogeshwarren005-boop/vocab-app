@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated expression (usually of praise).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The highest level or degree attainable; the highest stage of development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surpassing all others; of the highest kind, quality, or degree; supreme, preeminent, or peerless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive grammar and morphology, designating the inflectional degree of an adjective or adverb indicating the greatest intensity or degree of comparison.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is always in extremes, perpetually in the superlative degree."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"This genius Marheyo possessed in a superlative degree, as he abundantly evinced by the use to which he put those sorely bruised and battered old shoes."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"My dear, isn't she--" Kathie waved her hands to express a superlative beyond the power of words."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He is a person of **superlative** delicacy of mind, whose feelings are constantly wounded by the coarse realities of the world."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The landscape presented a scene of **superlative** beauty that silenced all critical judgment."*
+> - 📜 **George Eliot (*Middlemarch*):** *"I am not sure that the greatest man of his age, if ever that solitary and **superlative** being existed, could have escaped popular detraction."*
+

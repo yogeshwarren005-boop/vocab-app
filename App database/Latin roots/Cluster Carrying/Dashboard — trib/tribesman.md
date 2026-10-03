@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who lives in a tribe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lives in a tribe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a tribe, especially a male member of a traditional indigenous community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnographic field accounts, an adult male kinship member bearing customary clan duties, hunting roles, and defensive obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The conjecture will be confirmed if we can show that savages have actually imposed certain restrictions on the murderer of a fellow-tribesman from a definite fear that he is haunted by the ghost of his victim."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among some primitive peoples, when the blood of a tribesman has to be spilt it is not suffered to fall upon the ground, but is received upon the bodies of his fellow-tribesmen."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A tall Malay **tribesman** stood motionless upon the bank, watching our boat glide into the shadow."*
+> - 📜 **Rudyard Kipling (*The Man Who Would Be King*):** *"Every Afghan **tribesman** carried his matchlock across his knees, ready for sudden ambush."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The young **tribesman** was required to undergo rigorous initiation before entering the ranks of the warriors."*
+

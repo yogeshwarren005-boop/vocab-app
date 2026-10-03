@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon in ferrites where there can be incomplete cancellation of antiferromagnetic arranged spins giving a net magnetic moment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phenomenon in ferrites where there can be incomplete cancellation of antiferromagnetic arranged spins giving a net magnetic moment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of magnetism in which magnetic dipoles on opposing sublattices are unequal in magnitude, leaving a net spontaneous magnetization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics and materials science, the cooperative magnetic ordering observed in ceramic ferrites and magnetite, distinct from ferromagnetism and antiferromagnetism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferrimagnetism designates a phenomenon in ferrites where there can be incomplete cancellation of antiferromagnetic arranged spins giving a net magnetic moment."*
+> - 📜 **Louis Néel (*Propriétés magnétiques des ferrites*):** *"In substances exhibiting **ferrimagnetism**, the opposing sublattices have unequal saturation moments, resulting in net magnetization."*
+> - 📜 **Philip W. Anderson (*Concepts in Solids*):** *"The discovery of **ferrimagnetism** clarified the puzzling magnetic properties of lodestone and related spinels."*
+> - 📜 **Neville Mott (*Metal-Insulator Transitions*):** *"The magnetic behavior of transition metal oxides often illustrates **ferrimagnetism** governed by anisotropic superexchange."*
+

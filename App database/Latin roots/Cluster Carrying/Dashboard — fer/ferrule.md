@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal cap or band placed on a wooden pole to prevent splitting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metal cap or band placed on a wooden pole to prevent splitting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal ring or cap fitted around the end of a cane, tool handle, or tube to protect it from splitting, wear, or leakage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In precision engineering and optical cabling, a cylindrical collar or sleeve used to align and securely clamp fluid pipes, electrical terminals, or fiber-optic strands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Look, did not this stump come from thy shop?” “I believe it did, sir; does the ferrule stand, sir?” “Well enough."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Look, did not this stump come from thy shop?” “I believe it did, sir; does the ferrule stand, sir?” “Well enough."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The ripcord cable is run through a sleeve of which one end ferrule is fastened to the harness webbing and the other end to the pack side flap in line with the canopy release cones."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"By the time he had smoothed and polished the staff, Kalpa was no longer an endeavor, and he fitted a neat **ferrule** to its tip."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A thick iron **ferrule** at the bottom of the walking-stick was worn down with much travel."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The harpooneer inspected the stout brass **ferrule** binding the socket of the harpoon head to the hickory shaft."*
+

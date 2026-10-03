@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reported.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not reported.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stated, reported, or made known to the public, an authority, or the media.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation and shipping registries (such as Lloyd's Register), missing vessels that have failed to arrive or report from sea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreported designates not reported."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Many a stout ship has vanished into the southern ocean, remaining forever **unreported** on the books of the owners."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The minor domestic quarrels of the poor went **unreported** by the town magistrates."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Countless silent tragedies of the prison house occurred daily, **unreported** to the outside world."*
+

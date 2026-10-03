@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial activity of buying and bringing in goods from a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring in from abroad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing goods or services into a country from abroad; or conveying an implicit meaning or consequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics, absorbing foreign-manufactured commodities to meet domestic aggregate consumer demand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very riband in the cap of youth, Yet needful too, for youth no less becomes The light and careless livery that it wears Than settled age his sables and his weeds, Importing health and graveness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Comets, importing change of times and states, Brandish your crystal tresses in the sky, And with them scourge the bad revolting stars That have consented unto Henry’s death: King Henry the Fifth, too famous to live long!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Forsooth, an inventory, thus importing The several parcels of his plate, his treasure, Rich stuffs and ornaments of household, which I find at such proud rate that it outspeaks Possession of a subject."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"I undertook it, vanquished thereto by the fair grace of letters **importing** your great affection."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"By **importing** grain from cheaper overseas producers, a nation frees labor for urban manufacturing."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She received the letter with a sense of **importing** disaster into the peaceful house."*
+

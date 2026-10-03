@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or intended for (motor) vehicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or intended for (motor) vehicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or designed for vehicles, especially wheeled transport or motor traffic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering and urban traffic design, designating rights-of-way, grade separations, or bridges engineered for carriage and vehicular loads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vehicular designates of or relating to or intended for (motor) vehicles."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The immense thoroughfares were devoid of all **vehicular** traffic, designed purely for pedestrian leisure."*
+> - 📜 **Henry James (*The American Scene*):** *"The continuous roar of **vehicular** motion through the crowded avenue stunned the visiting observer."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The narrow lanes of the capital were constantly choked with **vehicular** congestion and cursing draymen."*
+

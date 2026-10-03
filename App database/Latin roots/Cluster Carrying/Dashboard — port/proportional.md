@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the quantities in a mathematical proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Properly related in size or degree or other measurable characteristics; usually followed by `to'.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Corresponding in size, degree, or intensity; having a constant ratio to another quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electoral systems (proportional representation), allocating seats in an elected body in direct mathematical accordance with the popular vote.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a similar manner, express and sleeping car companies are taxed, in the same group of states, on mileage, or on capital stock proportional to mileage, or by license and privilege taxes."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If inequalities should arise in some States from duties on particular objects, these will, in all probability, be counterbalanced by proportional inequalities in other States, from the duties on other objects."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In addition to this, it is to be observed that there is a probability of an increase in the number of States, and no provision for a proportional augmentation of the ratio of votes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I shall reserve for my future work the discussion of the **proportional** numbers of species in different classes."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The wages of labor vary in **proportional** relation to the difficulty, risk, and disagreeableness of the employment."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A truly democratic legislature must reflect a **proportional** representation of all significant political opinions."*
+

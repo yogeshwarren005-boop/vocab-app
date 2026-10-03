@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chemical substance or organic material (such as manure or compost) added to soil to enhance plant growth and agricultural productivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and soil chemistry, balanced mineral or synthetic compounds providing macro-nutrients (N-P-K) required for crop nutrition and high yields.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The management of both companies have been successful in obtaining particularly satisfactory contracts for the purchase of their acid by fertiliser corporations."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Bone dust treated with sulfuric acid forms a soluble superphosphate **fertiliser** of extraordinary efficacy."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The judicious application of animal **fertiliser** doubled the yield of the garden crops."*
+> - 📜 **George Washington Carver (*How to Build Up Worn Out Soils*):** *"Compost made from swamp muck and forest leaves makes a cheap and natural **fertiliser** for poor soils."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or being a feria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or being a feria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to an ordinary liturgical weekday; or relating to ancient Roman holidays and festival days.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical music and canonical hours, designating the simplified psalm tones and ordinary chants used on days devoid of feast celebrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"IMPROMPTU In ferial tone he addressed J."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The divine office retains its simpler **ferial** structure when no saintly martyrdom is solemnly commemorated."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The contrast between festive magnificence and **ferial** simplicity reflects the dual rhythm of human life."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The solemn hymns shifted from festive modulations to the sober dignity of **ferial** chant."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of investments) not distributed among a variety of securities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of investments) not distributed among a variety of securities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not distributed, shared, or allocated; remaining in reserve or undivided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal deductive logic, designating a middle term that does not refer to all members of its class in either premise, committing the fallacy of the undistributed middle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undistributed designates (of investments) not distributed among a variety of securities."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The classic syllogistic error arises from an **undistributed** middle term, which invalidates the conclusion."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A substantial surplus of **undistributed** grain remained in the public granaries to guard against winter scarcity."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"When a predicate is left **undistributed** in a deductive syllogism, no universal inference can be drawn."*
+

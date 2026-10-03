@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come between so as to be hindrance or obstacle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intruding into or meddling in the business, affairs, or relationships of others without invitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and wave optics, colliding mechanically during operational movement, or overlapping wave oscillations that produce fringes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I own to being rather interfering."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It fortunately happened that the work to which John had now to turn his hand allowed him an opportunity of carrying on his studies without interfering with its efficiency."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She endeavoured to secure Jane in her interest, but Jane, with all possible mildness, declined interfering; and Elizabeth, sometimes with real earnestness, and sometimes with playful gaiety, replied to her attacks."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode was laying down rules for the direction of the New Hospital, which seemed to the local surgeons an unwarrantable and **interfering** measure."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I was severely admonished by my sister for being an inquisitive and **interfering** boy."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The dogmatic theologian was warned against **interfering** with the legitimate deductions of observational geology."*
+

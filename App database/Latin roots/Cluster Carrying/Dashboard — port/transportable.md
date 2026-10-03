@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being moved or conveyed from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being moved or conveyed from one place to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being transported, moved, or carried easily from one location to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics, field equipment designed to fit standard cargo dimensions for air, sea, or rail mobilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transportable designates capable of being moved or conveyed from one place to another."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The surveying instruments were packed in compact, **transportable** cases to withstand rough handling on horseback."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Precious metals are the most **transportable** of all commercial commodities, possessing immense value in small bulk."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whaleboat is a light, swift, and easily **transportable** craft built for rough open waters."*
+

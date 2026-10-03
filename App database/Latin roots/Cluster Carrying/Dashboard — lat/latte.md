@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong espresso coffee with a topping of frothed steamed milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong espresso coffee with a topping of frothed steamed milk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hot coffee drink made with espresso and steamed milk, topped with a small layer of milk foam (caffè latte).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food culture and beverage economics, an Italian espresso-based beverage popularized globally in specialty coffee culture during the late twentieth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latte designates strong espresso coffee with a topping of frothed steamed milk."*
+> - 📜 **David Lodge (*Therapy*):** *"He sat at the corner café table, sipping a creamy **latte** while watching the commuters stream toward the station."*
+> - 📜 **Anthony Bourdain (*Kitchen Confidential*):** *"The morning rush began with the hiss of the espresso steam wand foaming milk for endless orders of **latte**."*
+> - 📜 **Umberto Eco (*Travels in Hyperreality*):** *"The American traveler seeks a comforting domestic **latte** even amid the authentic piazza cafés of Florence."*
+

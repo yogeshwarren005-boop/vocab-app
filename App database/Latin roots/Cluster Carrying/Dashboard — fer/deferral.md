@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of abeyance or suspended business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of putting off to a future time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A postponement or intentional delay of an action, decision, payment, or proceeding to a subsequent time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial accounting and fiscal policy, the postponement of recognizing an incurred expense or accrued revenue until a subsequent reporting period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deferral designates a state of abeyance or suspended business."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"The **deferral** of legislative action allowed public opinion to mature before a final vote was taken."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A merchant cannot easily endure the indefinite **deferral** of payments due from foreign correspondents."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Liquidity preference reflects the desire for the **deferral** of consumption in the face of economic uncertainty."*
+

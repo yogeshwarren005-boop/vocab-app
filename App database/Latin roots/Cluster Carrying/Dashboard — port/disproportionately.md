@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a disproportionate degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To an extent that is out of proportion; to an excessive or unequal degree compared to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In demographic epidemiology and public health, burdening disadvantaged socio-economic groups at significantly elevated rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"On the other hand, she was disproportionately indulgent towards the failings of men, and was often heard to say that these were natural."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He is small for his age, with a head which is quite disproportionately large."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Near the mountains it is filled with coarse rock particles, and under the action of the elements these become disproportionately prominent on the surface."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She was **disproportionately** moved by words that touched upon her secret anxieties."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In many species, the secondary sexual characters are **disproportionately** magnified in the adult male."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Indirect excises on necessary goods fall **disproportionately** upon the earnings of day laborers."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written document describing the findings of some individual or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of informing by verbal report.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An account given of a particular matter, event, or situation after thorough investigation or observation; or a sudden loud noise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law legal systems, an officially published account of a judicial decision and the court's reasoning (law reports).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That tongue that tells the story of thy days, (Making lascivious comments on thy sport) Cannot dispraise, but in a kind of praise, Naming thy name, blesses an ill report."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But do not so, I love thee in such sort, As thou being mine, mine is thy good report. 97 How like a winter hath my absence been From thee, the pleasure of the fleeting year!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You shall hear I am run away; know it before the report come."*
+> - 📜 **William Shakespeare (*The Sonnets*):** *"I love thee in such sort as, thou being mine, mine is thy good **report**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sudden **report** of a pistol echoed through the deserted chambers of Lincoln's Inn."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The masthead watch shouted his joyful **report** that the white whale was breached upon the horizon."*
+

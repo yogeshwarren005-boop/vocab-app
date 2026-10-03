@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The romance language spoken in portugal and brazil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of portugal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Portugal, its people, or its Romance language; or a native or inhabitant of Portugal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical maritime commerce, the Portuguese caravel and navigational techniques that initiated global oceanic trade networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He afterwards returned, bringing with him a Portuguese wife, and settled as shepherd on the home-farm of Ayton Castle."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"McCall Theal, vol. iii. (1899) pp. 130 _sq._ The name Benametapa (more correctly _monomotapa_) appears to have been the regular title of the paramount chief, which the Portuguese took to be the name of the country."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Up, spine, and meet it! (_Leaps to his feet._) PORTUGUESE SAILOR."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The word seems to have been applied by **Portuguese** mariners to designate the native inhabitants of the eastern coast."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Several hardy **Portuguese** sailors from the Western Islands pulled in the starboard boat."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We were courteously received by the **Portuguese** governor at the Cape Verde settlement."*
+

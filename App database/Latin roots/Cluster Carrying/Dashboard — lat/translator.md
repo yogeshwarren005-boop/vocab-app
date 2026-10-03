@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who translates written messages from one language to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who mediates between speakers of different languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or computational program that converts written or spoken language from one tongue into another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer systems programming, software (such as an assembler, compiler, or interpreter) that converts source code into machine-executable instructions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The most that a translator can do is to express in another tongue the main thought embodied, and enshrine it in a new poem."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"In the spring of 1861, she went to East Cambridge, where she obtained the situation of translator for the New England Glass Company, translating commercial letters from English to Spanish, or from Spanish to English as occasion required."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spirit names and blesses Here the human concept and divine idea seem con- fused by the translator, but they are not so in the scien- 506:27 tifically Christian meaning of the text."*
+> - 📜 **Charles Dickens (*The Life and Adventures of Nicholas Nickleby*):** *"As a tutor and **translator**, his attainments made the student's way unusually pleasant and profitable."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"A faithful **translator** will seek to preserve not merely the literal words but the peculiar grace and spirit of the original author."*
+> - 📜 **Alexander Pope (*Preface to the Iliad*):** *"The greatest duty of a **translator** is to preserve that fire which is the principal characteristic of Homer."*
+

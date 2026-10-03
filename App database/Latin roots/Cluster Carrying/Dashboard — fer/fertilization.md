@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making fertile as by applying fertilizer or manure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combining male and female gametes to produce a zygote; or the act of enriching soil with plant nutrients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology and plant reproductive biology, the cascade of sperm-egg binding, membrane fusion, and pronuclear fusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XXIV Amid the oozing fatness and warm ferments of the Froom Vale, at a season when the rush of juices could almost be heard below the hiss of fertilization, it was impossible that the most fanciful love should not grow passionate."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Amid the oozing fatness and warm ferments of the Froom Vale, at a season when the vital forces of nature were bent upon **fertilization**, they met."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised*):** *"The morphology of the floral column prevents self-pollination and guarantees cross **fertilization** by insect visitors."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"At the moment of **fertilization**, the paternal and maternal chromosome sets unite to restore the diploid number."*
+

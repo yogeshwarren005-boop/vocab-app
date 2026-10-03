@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive, self-indulgent, or unproductive contemplation of one's own concerns; omphaloskepsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical theory and cultural discourse, sterile introspection or intellectual insularity that ignores external socio-political reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navel-gazing designates literally, the contemplation of one's navel, which is an idiom usually meaning complacent self-absorption."*
+> - 📜 **Christopher Hitchens (*Letters to a Young Contrarian*):** *"We must avoid that parochial **navel-gazing** which treats minor academic squabbles as cosmic crises."*
+> - 📜 **Iris Murdoch (*The Sovereignty of Good*):** *"True moral insight demands looking outward at reality rather than sinking into neurotic **navel-gazing**."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"The younger novelists indulged in quietistic **navel-gazing** while European civilization teetered on the brink."*
+

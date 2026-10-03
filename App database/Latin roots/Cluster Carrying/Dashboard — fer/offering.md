@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something offered (as a proposal or bid).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money contributed to a religious organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something offered or presented as a gift, sacrifice, contribution, or proposal; or the act of presenting an offer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical theology and commercial markets, a consecrated sacrifice dedicated upon an altar, or an initial public distribution of securities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Plucking the entrails of an offering forth, They could not find a heart within the beast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Only I yield to die: There is so much that thou wilt kill me straight; [_Offering money_] Kill Brutus, and be honour’d in his death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROVOST. [_Offering to retire_.] Save your honour!"*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Make war with him that climb'd unto their nest, / **Offering** their own lives in their young's defence?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Nor was his temple less / Hideous, nor the **offering** less profane."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The altar smoked with the constant **offering** of victims slaughtered to appease the pagan deities."*
+

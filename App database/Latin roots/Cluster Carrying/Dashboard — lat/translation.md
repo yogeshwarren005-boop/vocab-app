@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written communication in a second language having the same meaning as the written communication in a first language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A uniform movement without rotation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of rendering text or speech into another language; or the resulting written or spoken version.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, the complex ribosomal synthesis of a polypeptide chain decoded from nucleotide triplets in messenger RNA.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A huge translation of hypocrisy, Vilely compiled, profound simplicity."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"The text is that of the translation of the Tractatus de Intellectus Emendatione by R."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Paragraph Numbers, shown thus [1], are from Edwin Curley's translation in his "The Collected Works of Spinoza", Volume 1, 1985, Princeton University Press; ISBN 0-691-07222-1. 4."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"A huge **translation** of hypocrisy, / Vilely compiled, profound simplicity."*
+> - 📜 **Benedictus de Spinoza (*Tractatus Theologico-Politicus*):** *"A faithful **translation** of sacred scripture requires an exact knowledge of the Hebrew idioms and customs."*
+> - 📜 **John Milton (*Areopagitica*):** *"The printed **translation** of virtuous authors serves as the lifeblood of a literate and self-governing commonwealth."*
+

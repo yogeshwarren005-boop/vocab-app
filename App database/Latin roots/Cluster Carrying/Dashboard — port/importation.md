@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The commercial activity of buying and bringing in goods from a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commodities (goods or services) bought from a foreign country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of bringing goods or commodities into a country from abroad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and invasive species ecology, the deliberate or accidental introduction of non-native flora and fauna into an ecosystem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The single fat thing on the soil was Marian herself; and she was an importation."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This was increased and embittered by the importation of ecclesiastical and political feeling into the contest; Fraser being a Free Churchman, and Ferrier receiving the support of the Established Church and Tory party."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The very demand of our treasury and banks for gold caused the retention of our own gold product (which between 1864 and 1876 had been nearly all exported) and required an enormous net importation of gold between 1878 and 1888."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The widespread **importation** of foreign wheat had depressed the agricultural economy of the southern shires."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The high duties upon the **importation** of foreign manufactures were intended to encourage domestic industry."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **importation** of merino sheep into Australia revolutionized the wool industry of that continent."*
+

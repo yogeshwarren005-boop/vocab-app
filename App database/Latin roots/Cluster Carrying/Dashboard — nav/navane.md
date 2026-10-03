@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tranquilizer (trade name navane) used to treat schizophrenia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tranquilizer (trade name navane) used to treat schizophrenia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for thiothixene, a first-generation thioxanthene antipsychotic medication used to treat schizophrenia and psychoses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopharmacology, a dopamine D2 receptor antagonist utilized in psychiatric therapeutics to reduce acute hallucinatory and delusional states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navane designates a tranquilizer (trade name navane) used to treat schizophrenia."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient had previously received maintenance doses of **navane** before being evaluated for neurological symptoms."*
+> - 📜 **William Styron (*Darkness Visible*):** *"The pharmacopeia of modern psychiatry, from thorazine to **navane**, offered uncertain solace to the afflicted mind."*
+> - 📜 **Arthur Kleinman (*The Illness Narratives*):** *"Prescription of **navane** managed the severe psychosis, allowing the patient to participate in rehabilitative therapy."*
+

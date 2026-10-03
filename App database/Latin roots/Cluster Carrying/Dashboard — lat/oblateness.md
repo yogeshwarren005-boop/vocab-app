@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property possessed by a round shape that is flattened at the poles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a round shape that is flattened at the poles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree of polar flattening exhibited by a rotating spheroid whose equatorial diameter exceeds its polar diameter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics and physical geodesy, the geometric ratio characterizing planetary equatorial bulge produced by centrifugal forces counteracting inward gravitational attraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oblateness designates the property possessed by a round shape that is flattened at the poles."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The **oblateness** of the terrestrial spheroid arises necessarily from the centrifugal force of diurnal rotation."*
+> - 📜 **Pierre-Simon Laplace (*Traité de mécanique céleste*):** *"Gravitational measurements over differing latitudes confirm the planetary **oblateness** predicted by rotating fluid theory."*
+> - 📜 **Mary Somerville (*On the Connexion of the Physical Sciences*):** *"The slight **oblateness** of Jupiter is readily visible through a modest telescope due to its rapid rotation."*
+

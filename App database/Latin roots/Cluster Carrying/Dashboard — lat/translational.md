@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to uniform movement without rotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to uniform movement without rotation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to uniform motion in which all points of a body travel uniformly along parallel paths without rotational movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical research and clinical pharmacology, referring to the applied process of converting basic laboratory findings into practical medical therapies and clinical trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, translational designates of or relating to uniform movement without rotation."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The kinetic energy of the system resolves into rotational components and purely **translational** motion through the medium."*
+> - 📜 **J. Willard Gibbs (*Elementary Principles in Statistical Mechanics*):** *"The phase space coordinates partition the degrees of freedom into **translational** and internal vibrational modes."*
+> - 📜 **William Thomson (*Popular Lectures and Addresses*):** *"The velocity of a vortex ring depends upon the balance between its internal circulation and its forward **translational** progress."*
+

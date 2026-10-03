@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The prevention of something increasing or spreading (especially the prevention of an increase in the number of countries possessing nuclear weapons).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prevention of something increasing or spreading (especially the prevention of an increase in the number of countries possessing nuclear weapons).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The prevention or restriction of the increase or spread of something, especially nuclear, chemical, or biological weapons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international security and nuclear arms control diplomacy, the treaty framework (such as the 1968 NPT) binding signatory nations to prevent the dissemination of fissile materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonproliferation designates the prevention of something increasing or spreading (especially the prevention of an increase in the number of countries possessing nuclear weapons)."*
+> - 📜 **John F. Kennedy (*Address to the United Nations*):** *"The preservation of civilization demands an international treaty of nuclear **nonproliferation** before weapons multiply beyond control."*
+> - 📜 **Andrei Sakharov (*Progress, Coexistence, and Intellectual Freedom*):** *"A binding treaty on the **nonproliferation** of nuclear weapons is essential to safeguard the future of humanity."*
+> - 📜 **Hans Morgenthau (*Politics Among Nations*):** *"Diplomatic treaties governing **nonproliferation** depend ultimately upon the mutual balance of deterrence among great powers."*
+

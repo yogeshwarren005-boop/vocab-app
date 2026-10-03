@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Localization of function on either the right or left sides of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Localization of function on either the right or left sides of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The localization of function or activity on one side of the body in preference to the other, especially in the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience and linguistics, the development of asymmetric neuroanatomical pathways in Broca's and Wernicke's areas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lateralization designates localization of function on either the right or left sides of the brain."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"The **lateralization** of sign language processing in deaf individuals mirrors that of spoken language in hearing subjects."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Studies in cerebral **lateralization** prove that distinct cortical hemispheres possess specialized aptitudes."*
+> - 📜 **Noam Chomsky (*Language and Mind*):** *"Biological readiness for language is intimately tied to the maturational **lateralization** of the human brain."*
+

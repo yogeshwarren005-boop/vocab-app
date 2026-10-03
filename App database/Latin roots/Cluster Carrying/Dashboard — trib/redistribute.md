@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute anew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute anew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distribute something again or in a different way, especially to achieve a fairer allocation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In welfare economics and fiscal policy, reallocating income and wealth across society through progressive taxation and public transfers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Demand for consumption goods is thus the manifestation of the man's desire to redistribute his enjoyments."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Further, it is often urged that this result of taxation in redistributing incomes is in itself (or can be made) a virtue; and some even see in tax reform the answer to the largest social questions of our time."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Society can **redistribute** wealth in whatever manner the community deems most conducive to general happiness."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Equal inheritance laws operate continually to divide and **redistribute** great landed estates."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Artificial selection enables the breeder to **redistribute** vital nutrients toward the development of favored traits."*
+

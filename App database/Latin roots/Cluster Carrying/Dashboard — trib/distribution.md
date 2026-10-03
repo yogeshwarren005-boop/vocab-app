@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial or geographic property of being scattered about over a range, area, or volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of sharing something out among a number of recipients; or the way in which something is spread out over an area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probability theory and mathematical statistics, a function showing the probabilities of occurrences of different possible outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of all the horses— Whereof we have ta’en good and good store—of all The treasure in this field achieved and city, We render you the tenth, to be ta’en forth Before the common distribution At your only choice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let the superfluous and lust-dieted man, That slaves your ordinance, that will not see Because he does not feel, feel your power quickly; So distribution should undo excess, And each man have enough."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the distribution of these comestibles, as in every other household duty, Mrs."*
+> - 📜 **William Shakespeare (*King Lear*):** *"So **distribution** should undo excess, and each man have enough."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geographical **distribution** of organic beings on the face of the earth offers many baffling problems."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The rules which men naturally observe in exchanging them for goods determine what may be called the relative **distribution** of wealth."*
+

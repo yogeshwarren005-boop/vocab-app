@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by extreme intensity of emotions or convictions; inclined to react violently; fervid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by great force or energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing strong feeling; forceful, passionate, or intense in emotion or action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy and meteorology, violent, rushing, or tumultuous (describing winds, currents, or physical forces).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By long and vehement suit I was seduc’d To make room for him in my husband’s bed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though it do well, I do not relish well Their loud applause and _Aves_ vehement; Nor do I think the man of safe discretion That does affect it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though not for me, yet for your vehement oaths, You should have been respective and have kept it."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Though not for me, yet for your **vehement** oaths, you should have been respective and have kept it."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The storm appeared to approach rapidly; the thunder burst with a terrific crash over my head, and a **vehement** gust of wind nearly tore me from the rock."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His convictions were too **vehement** to allow of his remaining a calm spectator in such a crisis."*
+

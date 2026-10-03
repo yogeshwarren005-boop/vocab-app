@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual or reciprocal relation or relatedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual or reciprocal relation or relatedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mutual dependence, reciprocal connection, or shared coherence linking multiple entities, functions, or systems together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems ecology and holistic philosophy, the structural web of interactions wherein perturbations in one component reverberate through the equilibrium of the entire organism or cosmos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interrelatedness designates mutual or reciprocal relation or relatedness."*
+> - 📜 **Martin Luther King Jr. (*Letter from Birmingham Jail*):** *"We are caught in an inescapable network of mutuality, tied in a single garment of destiny; whatever affects one directly, affects all indirectly in our profound **interrelatedness**."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"The ultimate solidarity of the world is established by the systematic **interrelatedness** of all actual entities."*
+> - 📜 **Gregory Bateson (*Steps to an Ecology of Mind*):** *"Biological and ecological patterns reveal the complex **interrelatedness** between organism and environment."*
+

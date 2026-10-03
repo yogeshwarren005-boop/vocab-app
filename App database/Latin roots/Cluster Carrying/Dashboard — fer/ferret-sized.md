@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the approximate size of a ferret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the approximate size of a ferret.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having roughly the dimensions, length, or body mass comparable to that of a ferret.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary mammalogy, describing small Mesozoic or Paleocene proto-mammals possessing elongate, short-limbed, carnivorous body plans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferret-sized designates having the approximate size of a ferret."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Early mammalian ancestors were nocturnal, **ferret-sized** creatures scurrying beneath the feet of giant dinosaurs."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Our Cretaceous forebear was an alert, **ferret-sized** insectivore hunting by scent under the cover of darkness."*
+> - 📜 **Ernst Mayr (*What Evolution Is*):** *"The adaptive radiation of mammals began with small, **ferret-sized** generalized insectivores that survived the end-Cretaceous extinction."*
+

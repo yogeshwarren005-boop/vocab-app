@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refer to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Supported with written references or citations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mentioned, cited, or consulted for authoritative information, evidence, or corroboration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational systems and library informatics, accessed via pointer address or cataloged in an indexed citation index.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog referenced as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The facts **referenced** in the memoirs of foreign naturalists fully confirm this conclusion."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"Every statement of fact in the monograph was rigorously **referenced** to primary anatomical dissections."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The mental events **referenced** by the subject occurred during the period of focused hypnotic suggestion."*
+

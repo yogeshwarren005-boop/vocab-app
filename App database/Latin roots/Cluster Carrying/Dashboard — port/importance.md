@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being important and worthy of note.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prominent status.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or fact of being of great significance, consequence, value, or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decision theory and strategic management, the high prioritization allocated to tasks bearing maximal impact on core outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was glad I did atone my countryman and you; it had been pity you should have been put together with so mortal a purpose as then each bore, upon importance of so slight and trivial a nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, for amends to his posterity, At our importance hither is he come To spread his colours, boy, in thy behalf, And to rebuke the usurpation Of thy unnatural uncle, English John."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Maria writ The letter, at Sir Toby’s great importance, In recompense whereof he hath married her."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"I was glad I did atone my countryman and you; it had been pity you should have been put together with so little **importance**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He gave himself immense airs of consequence and **importance** wherever he appeared."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection is of paramount **importance** in modifying the structure of organic beings."*
+

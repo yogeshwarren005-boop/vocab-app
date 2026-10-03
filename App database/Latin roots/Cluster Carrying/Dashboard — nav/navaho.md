@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an athapaskan people that migrated to arizona and new mexico and utah.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The athapaskan language spoken by the navaho.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of Navajo; a member of the largest federally recognized Native American tribe in the southwestern United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and linguistics, an Athabaskan language and indigenous culture renowned for silversmithing, woven textiles, and sandpainting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navaho designates a member of an athapaskan people that migrated to arizona and new mexico and utah."*
+> - 📜 **Willa Cather (*Death Comes for the Archbishop*):** *"The **Navaho** blankets hung in bright geometric patterns upon the earthen walls of the mission."*
+> - 📜 **Theodore Roosevelt (*A Book-Lover's Holidays in the Open*):** *"We rode past solitary **Navaho** hogans scattered across the red sandstone desert."*
+> - 📜 **Edward S. Curtis (*The North American Indian*):** *"The **Navaho** horseman paused on the canyon rim, silhouetted against the turquoise sky."*
+

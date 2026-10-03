@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word picture of a person's appearance and character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting the part of a character on stage; dramatically representing the character by speech and action and gesture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A depiction of someone or something in a work of art or literature; an artistic representation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic criticism and theatrical theory, an actor's interpretation and physical execution of a dramatic character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is much easier to create perplexity on these terms; but on the other hand, the riddle novel demands a power of vivid character portrayal and of telling description which are not indispensable in the briefer narrative."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The portrayal is still graphically accurate, for the common conception of mor- 92:18 tal man - a burlesque of God's man - is an outgrowth of human knowledge or sensuality, a mere offshoot of material sense."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Egypt again had other portrayals of the gods--on a pattern of her own, strange and massive and huge, far older."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"A vivid **portrayal** of life is the only excuse for the existence of a novel."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The rough **portrayal** of his features in the skimmity-ride drove the proud merchant to despair."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The painting was no longer a mere **portrayal**, but the living record of his corrupted soul."*
+

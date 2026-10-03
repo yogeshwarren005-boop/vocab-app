@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vehement manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vehement manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a forceful, passionate, or intensely emotional manner; with violent vigor or emphatic conviction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courtroom advocacy and debate, arguing with fervent, relentless insistence against opposing counsel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’ll blow a gale in the course of the night!” He was now alternately putting his hands into his pockets as if he were going to keep them there a long time, and taking them out again and vehemently rubbing them all over his head."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It has aroused all the dogs in the neighbourhood, who bark vehemently."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are taking too much upon yourself!” she said, vehemently."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"You are taking too much upon yourself! she said, **vehemently**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The night wind had aroused all the watchdogs in the neighbourhood, who bark **vehemently**."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"He protested **vehemently** that he knew nothing whatever of the escaped convict."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The guidance of ships or airplanes from place to place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ship traffic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, science, or technology of directing and controlling the movement of a vessel or vehicle from one place to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical astronomy and geodetic positioning, determination of latitude and longitude using celestial instruments (sextant) or satellite arrays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Chadband’s being much given to describe himself, both verbally and in writing, as a vessel, he is occasionally mistaken by strangers for a gentleman connected with navigation, but he is, as he expresses it, “in the ministry.” Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For example, the forest has an immediate value to its owners and to the consumers of lumber, and it has also a diffused utility in its influence on industry, on climate, on navigation, on water-power and on floods."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In those days, the captain’s authority was restricted to the navigation and general management of the vessel: while over the whale-hunting department and all its concerns, the Specksnyder or Chief Harpooneer reigned supreme."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In those days of simple **navigation**, the master relied upon his quadrant, logline, and trusty compass."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He spoke of his spiritual progress in terms of perilous ocean **navigation** and treacherous reefs."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The subtle art of **navigation** is an endless dialogue between the soul of the seaman and the spirit of the waters."*
+

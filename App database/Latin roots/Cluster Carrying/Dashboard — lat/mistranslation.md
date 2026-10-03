@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect translation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An incorrect translation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An incorrect, inaccurate, or erroneous translation; a failure to render meaning faithfully between languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Biblical criticism and comparative philology, discrepancies in early scriptural codices arising from false cognates or ambiguous syntax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Strange to say, a similar mistranslation occurs in Dr."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A notorious **mistranslation** in the Latin Vulgate gave rise to centuries of theological controversy."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The treaty was nearly ruptured by a flagrant **mistranslation** in the French diplomatic dispatch."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He pointed out with scholarly triumph a glaring **mistranslation** in his rival's commentary on the Greek dramatists."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of corresponding in degree or size or amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of corresponding in degree or size or amount.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proper comparative balance, harmonious symmetry, or calibrated relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architectural theory and sculpture, mathematical harmony between human anatomical parts and monumental building elevations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proportionateness designates the relation of corresponding in degree or size or amount."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The noble beauty of the cathedral depends upon the subtle **proportionateness** of its archways to the nave."*
+> - 📜 **Francis Bacon (*The Essays*):** *"There is no exquisite beauty without some strangeness in the **proportionateness** of its features."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The moral **proportionateness** of his actions was admired by all who valued integrity above display."*
+

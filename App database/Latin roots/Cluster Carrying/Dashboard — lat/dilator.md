@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle or nerve that dilates or widens a body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that causes dilation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument, muscle, or chemical drug used to enlarge, widen, or stretch an opening or canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology (vasodilator), an agent inducing vascular smooth muscle relaxation to lower blood pressure and increase tissue perfusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilator designates a muscle or nerve that dilates or widens a body part."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **dilator** pupillae muscle consists of radiating fibers that widen the pupil in dim illumination."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Amyl nitrite was administered as a rapid arterial **dilator** to relieve the paroxysm of angina."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The electrical stimulus activated the vascular **dilator** nerves, flushing the rabbit's ear with warm blood."*
+

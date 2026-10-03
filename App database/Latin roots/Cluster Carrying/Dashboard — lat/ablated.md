@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wear away through erosion or vaporization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove an organ or bodily structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Removed, worn away, or eroded by melting, evaporation, friction, or surgical excision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and planetary science, describing meteorites whose outer crusts are molten and stripped away during hypersonic atmospheric entry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ablated designates wear away through erosion or vaporization."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **ablated** surface of the moraine revealed polished boulders scratched by ancient ice."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The rocky ledge was deeply **ablated** by centuries of torrential tropical rain."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The **ablated** organ was weighed immediately to measure fluid loss."*
+

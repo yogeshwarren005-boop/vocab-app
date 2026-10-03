@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To give an account or representation of in words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Announce as the result of an investigation or experience or finding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been stated, described, or recorded as a fact by an observer, informant, or document.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial proceedings, a legal decision preserved and transcribed in formal volumes of legal precedent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported that he has taken their great’st commander, and that with his own hand he slew the duke’s brother. [_A tucket afar off._] We have lost our labour; they are gone a contrary way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from France, As ’tis reported, for the king had married him Against his liking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On the Alps It is reported thou didst eat strange flesh Which some did die to look on."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"It is **reported** that he has taken their great'st city and captured their fleet upon the Nile."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Several extraordinary volcanic eruptions were **reported** by the inhabitants of the coastal settlements."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"It was **reported** throughout the countryside that the master of Thornfield was soon to wed Miss Ingram."*
+

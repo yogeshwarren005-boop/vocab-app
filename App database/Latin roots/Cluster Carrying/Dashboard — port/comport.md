@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave well or properly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behave in a certain manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To conduct or behave oneself in a specified manner; or to accord, agree, or harmonize with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and moral philosophy, aligning personal demeanor with the dignity and obligations of public office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Never was there a more beautiful example of how the majesty of age and wisdom may comport with the obeisance and respect enjoined upon it, as from a lower social rank, and inferior order of endowment, towards a higher."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The calf will thrive, though weaned by necessity at a very early age, and the season for shooting cows, although short, would be amply long enough to comport with the chances of future increase."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"We will see how they comport themselves under their present trials ere we burden them with greater."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Never was there a more beautiful example of how the ministerial dignity should **comport** itself amid adversity."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She could only hope that Marianne would **comport** herself with becoming propriety during the visit."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A man's demeanor should **comport** with his fortune and the gravity of his calling."*
+

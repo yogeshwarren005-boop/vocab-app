@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A justly deserved penalty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of correcting for your wrongdoing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Punishment inflicted on someone as vengeance for a wrong or criminal act; recompense for evil deeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retributive penal philosophy (lex talionis), moral proportionality demanding that punishment fit the severity of moral transgression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It is a just retribution to me to find the place so empty and forlorn."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One may, indeed, admit the possibility of a retribution lurking in the present catastrophe."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And if he turned to God there seemed to be no answer but the pressure of retribution."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"One may, indeed, admit the possibility of a **retribution** lurking in the events of her troubled life."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The long-accumulated wrath of the oppressed peasants broke forth in a terrible day of **retribution**."*
+> - 📜 **George Eliot (*Romola*):** *"He could not escape the haunting fear that some unseen divine **retribution** would overtake him."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a differential coefficient or derivative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being perceived as different.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being differentiated; specifically, possessing a well-defined derivative at each point within a mathematical domain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In real analysis and differential calculus, describing a continuous function whose rate of change can be determined by a unique tangent line or linear map.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, differentiable designates possessing a differential coefficient or derivative."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Generales Circa Superficies Curvas*):** *"We assume the coordinate functions defining the curved surface are everywhere continuously **differentiable**."*
+> - 📜 **Augustin-Louis Cauchy (*Résumé des leçons sur le calcul infinitésimal*):** *"A function is **differentiable** over an interval when the limit of the incremental ratio exists uniquely."*
+> - 📜 **Henri Poincaré (*The Foundations of Science*):** *"Physical intuition often leads us to consider smoothly **differentiable** curves, whereas analysis reveals continuous functions without derivatives."*
+

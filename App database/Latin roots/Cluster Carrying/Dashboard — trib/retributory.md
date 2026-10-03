@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the nature of retribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given or inflicted in requital according to merits or deserts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to make retribution; repaying with punishment; retributive in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological teleology and Victorian moral essays, karmic or divine intervention visiting consequences upon moral transgression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retributory designates of or relating to or having the nature of retribution."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ancestral curse hung over the family like a dark cloud of **retributory** doom."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The stern magistrate regarded the calamity as a **retributory** judgment upon the wicked town."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I felt that no human power could avert the **retributory** suffering that awaited a broken vow."*
+

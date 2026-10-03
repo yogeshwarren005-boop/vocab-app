@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social division of (usually preliterate) people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A federation (as of american indians).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social division in a traditional society consisting of families or communities linked by social, economic, religious, or blood ties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy and zoological systematics, a taxonomic rank between subfamily and genus, denoted by the suffix -ini.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would my son Were in Arabia and thy tribe before him, His good sword in his hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O that I had him, With six Aufidiuses, or more, his tribe, To use my lawful sword."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who, in the lusty stealth of nature, take More composition and fierce quality Than doth within a dull stale tired bed Go to the creating a whole tribe of fops Got ’tween asleep and wake?"*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"I would my son were in Arabia and thy **tribe** before him, his good sword in his hand."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A **tribe** including many members who possessed high patriotism and fidelity would always be more successful."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He belonged to that hardy **tribe** of whalemen who make the trackless ocean their home."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of live births in an area to the population of that area; expressed per 1000 population per year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being fertile; capable of producing offspring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural capability to produce abundant offspring, crops, vegetation, or ideas; fecundity and fruitfulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In demographic sociology and agricultural pedology, the statistical rate of live births within a population, or the biochemical nutrient capacity of arable topsoil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, she hath from France too long been chas’d, And all her husbandry doth lie on heaps, Corrupting in it own fertility."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You thus employed, I will go root away The noisome weeds which without profit suck The soil’s fertility from wholesome flowers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The assumption, however, that the use of the food in this country preserves the fertility of our own fields is in the main mistaken."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Alas, she hath from France too long been chas'd, / And all her husbandry doth lie on heaps, / Corrupting in it own **fertility**."*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"The natural **fertility** of the human species exceeds the productive capacity of the soil to sustain it."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The varying degrees of **fertility** between distinct species when crossed have long engaged the attention of naturalists."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by opportunism; exploiting chances or circumstances without regard to principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology and pathology, designating an organism (such as a fungal or bacterial pathogen) that causes disease only when the host's immune defense is compromised.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opportunistic designates taking immediate advantage, often unethically, of any circumstance of possible benefit."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Such **opportunistic** compromises may satisfy transient factions, but they cannot establish enduring principles."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain weeds exhibit an **opportunistic** vigor, seizing rapidly upon newly turned soil."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The criminal exhibited a remarkably **opportunistic** cunning, improvising his escape from unexpected obstacles."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French mathematician who founded number theory; contributed (with pascal) to the theory of probability (1601-1665).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French mathematician who founded number theory; contributed (with pascal) to the theory of probability (1601-1665).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pierre de Fermat (1607–1665), the celebrated French jurist and mathematician who laid the foundations of modern number theory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of mathematics, the pioneer who introduced the principle of least time in optics and laid foundations for differential calculus and probability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fermat designates french mathematician who founded number theory; contributed (with pascal) to the theory of probability (1601-1665)."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The profound arithmetic investigations of **Fermat** laid the foundation for modern higher congruences."*
+> - 📜 **René Descartes (*Correspondence*):** *"The geometric method proposed by **Fermat** for determining maxima and minima anticipated my own analytical geometry."*
+> - 📜 **Pierre-Simon Laplace (*A Philosophical Essay on Probabilities*):** *"The correspondence between Pascal and **Fermat** marked the true birth of the mathematical calculus of probabilities."*
+

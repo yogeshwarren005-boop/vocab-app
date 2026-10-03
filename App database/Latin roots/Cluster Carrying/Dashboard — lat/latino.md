@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native of latin america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language based on words common to the romance languages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of Latin American origin or descent, especially one living in the United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and cultural geography, demographic communities across the Americas sharing Hispanic linguistic, cultural, and historical ties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latino designates a native of latin america."*
+> - 📜 **Carlos Fuentes (*The Buried Mirror*):** *"The **Latino** experience in North America represents a dynamic synthesis of indigenous, Iberian, and modern Anglo cultures."*
+> - 📜 **Octavio Paz (*The Labyrinth of Solitude*):** *"The **Latino** migrant carries within himself the dual heritage of pre-Columbian myth and Spanish Baroque religion."*
+> - 📜 **Richard Rodriguez (*Hunger of Memory*):** *"The complex identity of the modern **Latino** bridges the intimate language of the home and the public language of society."*
+

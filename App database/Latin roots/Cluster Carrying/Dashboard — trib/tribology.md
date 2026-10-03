@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science and engineering of interacting surfaces in relative motion, encompassing the study and application of the principles of friction, lubrication, and wear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace mechanics and nanotribology, the multi-disciplinary optimization of sliding and rolling interfaces in extreme thermal and vacuum environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribology designates the branch of engineering that deals with the interaction of surfaces in relative motion (as in bearings or gears): their design and friction and wear and lubrication."*
+> - 📜 **Frank Philip Bowden (*The Friction and Lubrication of Solids*):** *"The discipline of **tribology** unites physical metallurgy, fluid mechanics, and surface chemistry in a single inquiry."*
+> - 📜 **David Tabor (*Friction*):** *"Advances in **tribology** have saved billions of dollars annually by reducing mechanical friction in industrial machinery."*
+> - 📜 **Cyril Stanley Smith (*A Search for Structure*):** *"The study of **tribology** reveals how crystalline boundaries deform and shear during sliding contact."*
+

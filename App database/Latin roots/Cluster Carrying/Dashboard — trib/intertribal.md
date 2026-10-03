@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Between or among tribes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Between or among tribes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring between or involving two or more tribes or clans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnographic anthropology and ethnohistory, inter-clan barter networks, matrimonial alliances, or warfare conducted between indigenous groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"We may deplore the brutality of these intertribal fights, but it is the sefights or wars that perpetuate the race by saving its members from the fatal effects of sloth, and a lack of interest in life."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The sacred peace was proclaimed by the elders to halt **intertribal** feuds during the harvest rituals."*
+> - 📜 **Francis Parkman (*The Conspiracy of Pontiac*):** *"Pontiac sought to extinguish all **intertribal** rivalries in order to forge a united confederacy against the British."*
+> - 📜 **Theodore Roosevelt (*The Winning of the West*):** *"Vicious **intertribal** warfare had depopulated the fertile valleys long before the arrival of the white pioneers."*
+

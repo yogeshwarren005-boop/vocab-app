@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an attributive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an attributive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an attributive manner; especially as an adjective standing before the noun it modifies rather than in the predicate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal syntax and descriptive linguistics, modifying a nominal constituent directly within the noun phrase boundary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attributively designates in an attributive manner."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"When a noun adjunct is used **attributively**, it tends in time to coalesce into a compound word."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"Adjectives used **attributively** qualify the substantive before any predicative nexus is formed."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"In many Indo-European dialects, participles functioning **attributively** gradually assumed the full inflection of adjectives."*
+

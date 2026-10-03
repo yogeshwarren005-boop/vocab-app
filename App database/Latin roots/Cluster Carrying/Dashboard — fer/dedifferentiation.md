@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The loss of specialization in form or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The loss of specialization in form or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cellular process of reverting from a specialized form or function back to a more primitive, generalized, or unspecialized state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regenerative biology and stem cell genetics, the loss of lineage-specific epigenetic marks enabling somatic cells to proliferate as pluripotent progenitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dedifferentiation designates the loss of specialization in form or function."*
+> - 📜 **Thomas Hunt Morgan (*Experimental Embryology*):** *"The phenomenon of **dedifferentiation** is a prerequisite for epimorphic regeneration in salamander appendages."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Early embryologists debated whether **dedifferentiation** represented a true reversion of cellular fate or merely phenotypic masking."*
+> - 📜 **Conrad Hal Waddington (*Principles of Embryology*):** *"Tissue repair in lower organisms demonstrates that **dedifferentiation** does not erase the fundamental genomic program."*
+

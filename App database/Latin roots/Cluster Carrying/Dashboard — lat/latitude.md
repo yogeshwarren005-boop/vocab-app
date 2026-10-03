@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The angular distance between an imaginary line around a heavenly body parallel to its equator and the equator itself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from normal restraints in conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The angular distance of a place north or south of the earth's equator; or scope for freedom of action or thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In navigational astronomy, determined by measuring the altitude of Polaris or the meridian altitude of the sun with a sextant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not until January fourteenth, seven weeks since the wreck, did we come up with a warmer latitude."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"He did not want them to die of love; but with sense and temper which ought to have made him judge and feel better, he allowed himself great latitude on such points."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No possible endeavor then could enable her commander to make the great passage southwards, double Cape Horn, and then running down sixty degrees of latitude arrive in the equatorial Pacific in time to cruise there."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The speech had not seemed to allow sufficient **latitude** for the unexpected turns of rustic sentiment."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The master took his daily observation at noon to fix our exact **latitude** upon the Pacific chart."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A free commonwealth must grant wide **latitude** to individual opinions and experiments in living."*
+

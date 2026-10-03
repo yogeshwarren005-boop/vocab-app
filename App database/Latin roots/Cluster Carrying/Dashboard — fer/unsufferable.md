@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of persons or their behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of persons or their behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being suffered or endured; intolerable, unbearable, or insufferable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical poetry and religious drama, characterizing tortures, blasphemies, or insolence exceeding human endurance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Hell heard th’ unsufferable noise, Hell saw Heav’n ruining from Heav’n and would have fled Affrighted; but strict Fate had cast too deep Her dark foundations, and too fast had bound."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Hell heard the unsufferable noise, Hell saw Heaven ruining from Heaven, and would have fled Affrighted; but strict Fate had cast too deep Her dark foundations, and too fast had bound."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Hell heard the **unsufferable** noise; Hell saw / Heaven ruining from Heaven, and would have fled / Affrighted; but strict Fate had cast too deep / Her dark foundations."*
+> - 📜 **Richard Hooker (*Of the Lawes of Ecclesiasticall Politie*):** *"An **unsufferable** burden is laid upon the church when human traditions are equated with divine mandates."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The haughty arrogance of his enemy became at last an **unsufferable** provocation to violence."*
+

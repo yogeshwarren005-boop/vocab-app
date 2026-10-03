@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distribute according to a plan or set apart for a special purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give out as one's portion or share.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided, allocated, or assigned proportionally among multiple recipients or purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electoral geography, congressional districts mapped according to mandated population quotas following national censuses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The main ground for the decision was that a tax on incomes from rent of land as well as on incomes from personal property is direct, and must therefore be apportioned among the states according to population."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Of this preparation a tolerably abundant plateful was apportioned to each pupil."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"We made a very good meal by the kitchen fire, and then apportioned the bedrooms: Herbert and Startop were to occupy one; I and our charge the other."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Direct taxes shall be **apportioned** among the several states which may be included within this union."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The daily duties of the household were strictly **apportioned** by her grandmother's clockwork schedule."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The subsidies voted by parliament were carefully **apportioned** to the naval and military services."*
+

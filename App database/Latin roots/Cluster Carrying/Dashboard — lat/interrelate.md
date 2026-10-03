@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be in a relationship with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place into a mutual relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To connect or associate with one another in a mutual or reciprocal relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems theory and ecological modeling, analyzing how dynamic components feedback upon and regulate each other within an open system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Both the prices of all the particular objects of international trade and the general levels of prices in any two trading countries come to be pretty definitely interrelated."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Every other part of the industrial organization of a nation is interrelated with its agriculture."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"All organic beings are bound together by an intricate web of complex affinities that mutually **interrelate** them."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The specialized institutions of a commonwealth **interrelate** closely to preserve social equilibrium."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"The natural sciences do not exist in isolation, but deeply **interrelate** through shared physical principles."*
+

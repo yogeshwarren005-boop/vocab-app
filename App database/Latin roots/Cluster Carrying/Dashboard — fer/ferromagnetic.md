@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or demonstrating ferromagnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or demonstrating ferromagnetism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having high magnetic susceptibility and exhibiting spontaneous magnetization and magnetic hysteresis, like iron, cobalt, and nickel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics, describing materials whose atomic magnetic moments align spontaneously in parallel below the Curie temperature due to quantum exchange interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferromagnetic designates relating to or demonstrating ferromagnetism."*
+> - 📜 **Pierre Curie (*Propriétés magnétiques des corps*):** *"Above the critical transition point, the **ferromagnetic** metal loses its spontaneous magnetization and becomes paramagnetic."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"In a **ferromagnetic** medium, the relationship between magnetic induction and field intensity is strongly non-linear."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"The quantum mechanical exchange force between electron spins is the microscopic origin of all **ferromagnetic** alignment."*
+

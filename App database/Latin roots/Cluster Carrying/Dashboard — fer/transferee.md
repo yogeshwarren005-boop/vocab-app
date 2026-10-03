@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) someone to whom a title or property is conveyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transfers or is transferred from one position to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, party, or entity to whom a conveyance, title, property, or legal right is transferred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In real estate jurisprudence and commercial law, the recipient in a deed or contract who succeeds to all rights, encumbrances, and equities held by the transferor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferee designates (law) someone to whom a title or property is conveyed."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Upon delivery and acceptance of the deed, the **transferee** acquires the full freehold estate subject to existing easements."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"A bona fide purchaser for value without notice stands as a protected **transferee** against prior unrecorded equities."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"Early conveyance rituals required the **transferee** to grasp the sod or spear in the presence of sworn witnesses."*
+

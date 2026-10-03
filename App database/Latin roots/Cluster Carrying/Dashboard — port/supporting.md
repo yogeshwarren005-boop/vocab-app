@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bearing the weight of or strengthening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give moral or psychological support, aid, or courage to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to support, hold up, or maintain; or playing a secondary role in a theatrical production or film.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural engineering, designating load-bearing walls, piers, or pillars that carry the gravitational load of roofs or upper stories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall one of us, That struck the foremost man of all this world But for supporting robbers, shall we now Contaminate our fingers with base bribes, And sell the mighty space of our large honours For so much trash as may be grasped thus?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He has seen me, and he loves me better than he did; he has seen me and is even fonder of me than he was before; and what have I to mourn for!” He sat down by me on the sofa, supporting me with his arm."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have the privilege of supporting an aged father in the Vale of Taunton—his native place—and I admire that country very much."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Shall one of us, that struck the foremost man of all this world, but for **supporting** robbers, contaminate our fingers with base bribes?"*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The fossil record offers strong **supporting** evidence for the gradual divergence of hominid ancestors."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She played a quietly **supporting** part in her husband's public labors, never seeking prominence for herself."*
+

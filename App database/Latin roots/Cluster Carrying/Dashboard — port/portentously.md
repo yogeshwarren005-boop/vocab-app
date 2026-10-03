@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a portentous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a portentous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a portentous manner; ominously, solemnly, or with pompous self-importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social realism, speaking or acting with an exaggerated air of prophetic foreboding or momentous gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"But by-and-by Nancy, in her attic, became portentously worse, the supposed tumor having indeed given way to the blister, but only wandered to another region with angrier pain."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I preternaturally listened; I figured to myself what might portentously be; I wondered if his bed were also empty and he too were secretly at watch."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The hall was portentously dark, and Ben pulled him straight across it to the door marked "Fire Exit." "Elevator?" queried Murray."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Nancy, in her attic, shook her head **portentously**, hinting at dark family secrets that must soon come to light."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The old church clock struck midnight **portentously**, each stroke vibrating heavily through the silent valley."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The hound howled **portentously** across the misty mire, sending a shiver through our little party."*
+

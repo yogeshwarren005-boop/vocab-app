@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the ablative case.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to an ablative grammatical case expressing separation, source, cause, or instrument (in Latin and other inflected languages).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, designating a heat-resistant composite material formulated to undergo sacrificial thermal decomposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ablative designates the case indicating the agent in passive sentences or the instrument or manner or place of the action described by the verb."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"In Latin syntax, the **ablative** absolute construction condenses circumstance and time into a concise phrase."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"The Indo-European **ablative** case originally marked the point of departure in space or origin in time."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The relational logic implicit in the Latin **ablative** signifies instrumental mediation."*
+

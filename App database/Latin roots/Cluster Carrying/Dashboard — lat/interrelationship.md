@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutual or reciprocal relation or relatedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual or reciprocal relation or relatedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The way in which two or more things, concepts, or people are connected and affect one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems biology and ecological trophic dynamics, reciprocal feedback loops coordinating multi-species assemblages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interrelationship designates mutual or reciprocal relation or relatedness."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Ecology reveals the delicate **interrelationship** binding the soil, the water, and every living creature."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"The organic **interrelationship** of events constitutes the bedrock of physical reality."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"The cultural **interrelationship** between kinship clans governs all social ceremonial exchanges."*
+

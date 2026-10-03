@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of umpiring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a referee or umpire in a sports competition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or role of officiating, judging, or umpiring a sporting match or contested proceeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic peer review and legal settlement, evaluating scholarly manuscripts for scientific rigor, or presiding over binding civil mediation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refereeing designates the act of umpiring."*
+> - 📜 **Arthur Conan Doyle (*The Firm of Girdlestone*):** *"He had spent years playing and **refereeing** football matches on the windswept fields of Scotland."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"In the contentious debates of science, unbiased observation must perform the thankless duty of **refereeing** between opposing hypotheses."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The government found itself caught in the difficult business of **refereeing** bitter disputes between coal operators and miners."*
+

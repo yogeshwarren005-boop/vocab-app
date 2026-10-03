@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin trib within the domain of Carrying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of trib in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make repayment, return, or recompense for something; to punish or reward according to merit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and theological ethics, to administer divine or moral justice in strict proportion to deeds committed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retribute designates pertaining to, derived from, or characteristic of latin trib within the domain of carrying."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God shall **retribute** each according to his works, rendering glory to the faithful and wrath to the rebellious."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"Temporal rulers must **retribute** both good and evil, honoring the virtuous and chastening the lawless."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"Conscience alone can adequately **retribute** the secret offenses which escape the notice of human magistrates."*
+

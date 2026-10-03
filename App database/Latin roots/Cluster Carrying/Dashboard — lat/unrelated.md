@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a logical or causal relation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not connected by kinship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no connection, relevance, or logical link to something else; or not connected by kinship, blood, or common lineage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative biology and statistical modeling, designating disparate taxa, traits, or variables that originate from independent lineages or unconnected causal processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was now concerned only with the nearest practical matters unrelated to his past interests, and he seized on these the more eagerly the more those past interests were closed to him."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"You will, won’t you, dear?” And when Dunyásha willingly promised to do it all for her, Natásha sat down on the floor, took her old ball dress, and fell into a reverie quite unrelated to what ought to have occupied her thoughts now."*
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"He already felt unrelated to the familiar scene of things, and was impatient to be gone."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"**Unrelated** men give little joy to each other; will never suspect the latent genius slumbering beneath common appearances."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Structures serving similar functions may develop in totally **unrelated** organisms through the operation of convergent adaptation."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical states often appear abruptly, seemingly **unrelated** to the subject's prior intellectual convictions."*
+

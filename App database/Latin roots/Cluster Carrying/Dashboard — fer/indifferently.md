@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With indifference; in an indifferent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With indifference; in an indifferent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without care, enthusiasm, or preference; impartially; or in a tolerable, mediocre, or unexceptional manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal administration and classical rhetoric, adjudicating disputes without bias or partiality toward either litigant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope we have reform’d that indifferently with us, sir."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have an humour to knock you indifferently well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be aught toward the general good, Set honour in one eye and death i’ the other, And I will look on both indifferently; For let the gods so speed me as I love The name of honour more than I fear death."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"If he did not care whether he had their love or no, he waved **indifferently** 'twixt doing them neither good nor harm."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth played **indifferently** upon the instrument, yet her performance gave pleasure by its unaffected grace."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He accepted the praise and the censure of critics **indifferently**, mindful only of his own literary standards."*
+

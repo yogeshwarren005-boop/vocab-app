@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring in from abroad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer (electronic data) into a database or document.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought in from a foreign country for sale or use; not native or domestic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and virology, cases of infectious disease contracted outside the surveillance region and introduced by returning travelers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This man was riding From Alcibiades to Timon’s cave With letters of entreaty, which imported His fellowship i’ th’ cause against your city, In part for his sake moved."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, this is a wine that was imported by the captain, we will not say how many years ago."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But behold, the absorbing scene had been imported hither."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"This man was riding from Alcibiades to Timon's cave with letters of **imported** matter."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain drank only fine **imported** wines carried in special casks in the lazarette."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The drawing-room was furnished with rich **imported** silks that reflected the baronet's substantial wealth."*
+

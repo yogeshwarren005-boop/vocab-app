@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being fertilized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being fertilized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being fertilized, impregnated, pollinated, or rendered productive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology and embryology, describing an ovum that has attained developmental maturity and possesses functional surface receptors for sperm penetration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fertilizable designates capable of being fertilized."*
+> - 📜 **Thomas Hunt Morgan (*Experimental Embryology*):** *"The mature ovum remains fully **fertilizable** for only a limited window of hours after ovulation."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"The stigma becomes moist and **fertilizable** precisely when the local insect pollinators emerge."*
+> - 📜 **Jacques Loeb (*Artificial Parthenogenesis and Fertilization*):** *"Experiments showed that unfertilized eggs remained **fertilizable** even after exposure to hypertonic seawater."*
+

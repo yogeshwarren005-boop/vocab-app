@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular manner of connectedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular manner of connectedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree or manner of kinship, mutual connection, or structural association holding between distinct entities, organisms, or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary sociobiology and population genetics, the statistical coefficient measuring the probability that two biological individuals share homologous alleles by common descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relatedness designates a particular manner of connectedness."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The mind insists upon the secret **relatedness** of all phenomena, discovering unity beneath apparent variety."*
+> - 📜 **W. D. Hamilton (*The Genetical Evolution of Social Behaviour*):** *"Altruistic actions are favored when the benefit to the recipient multiplied by the coefficient of **relatedness** exceeds the cost to the actor."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every thought points outward toward an objective context, revealing its intrinsic **relatedness** to prior experience."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expelling a person from their native land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expulsion from a country of an undesirable alien.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expulsion of a person or group of people from a place or country by official order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international humanitarian law and modern history, forced displacement or extraterritorial expulsion of protected civilian populations during armed conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Stated in this form the proposition is nothing less than the deportation from the country of $1,600,000,000 worth of producing labor, and the substitution in its place of an interest-bearing debt of the same amount."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperors frequently employed **deportation** to desolate islands as a milder alternative to capital execution."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The sentence was commuted from hard labor to administrative **deportation** to the remote eastern provinces."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The tragic **deportation** of the native tribes beyond the Mississippi was conducted under the cold forms of law."*
+

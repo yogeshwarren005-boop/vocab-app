@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat late.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat late.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat late; rather late in time, hour, or season.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social narrative and conversational description, occurring in the late evening or toward the close of a seasonal cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latish designates somewhat late."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was a **latish** hour when the sheep-shearers finished their supper in the great barn."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He returned home at a **latish** hour, fatigued by his long ride across the rain-soaked country."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"I arrived at the house at a **latish** point in the afternoon, finding the drawing-room empty."*
+

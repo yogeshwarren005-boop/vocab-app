@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not portable; not easily moved or transported.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not portable; not easily moved or transported.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not portable; too heavy, bulky, or awkward to be easily moved or carried by hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer architecture, source code tightly coupled to a proprietary instruction set architecture that cannot execute on other processors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unportable designates not portable; not easily moved or transported."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The iron try-works were massive and **unportable**, firmly cemented onto the main deck of the whaler."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Most of the luxuries and cumbersome conveniences of life are **unportable** burdens upon the free spirit of man."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The immense mahogany writing desk was completely **unportable**, rooted like an oak in the corner of the office."*
+

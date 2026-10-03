@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient region of west central italy (southeast of rome) on the tyrrhenian sea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region of west central italy (southeast of rome) on the tyrrhenian sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical region of central western Italy in which the city of Rome was founded and the Latin language originated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical geography, the fertile volcanic plain between the Tiber river and the Circeian promontory inhabited by the ancient Latini.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Why should it not have obtained in ancient Latium?"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Rome and in other cities of Latium there was a priest called the Sacrificial King or King of the Sacred Rites, and his wife bore the title of Queen of the Sacred Rites."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Theophrastus has left us a description of the woods of Latium as they were in the fourth century before Christ."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fierce pastoral tribes of ancient **Latium** laid the rustic foundations of the future mistress of the world."*
+> - 📜 **Thomas Babington Macaulay (*Lays of Ancient Rome*):** *"From all the cities of **Latium** the horsemen rode forth to contest the supremacy of the Tiber."*
+> - 📜 **Virgil (*Aeneid*):** *"I sing of arms and the man who first from the coasts of Troy came to Italy and the shores of **Latium**."*
+

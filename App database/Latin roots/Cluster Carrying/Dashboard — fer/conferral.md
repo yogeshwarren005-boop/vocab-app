@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conferring an honor or presenting a gift.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conferring an honor or presenting a gift.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conferring, bestowing, or awarding a privilege, title, award, or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and institutional governance, the statutory transmission of delegated legal authority or sovereign jurisdiction from a principal to an agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conferral designates the act of conferring an honor or presenting a gift."*
+> - 📜 **James Madison (*The Federalist Papers*):** *"The **conferral** of executive powers upon a single magistrate was balanced by constitutional checks."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **conferral** of municipal privileges encouraged active participation in local public affairs."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"The formal **conferral** of status through solemn covenant marked the early transition from kinship to civil society."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the nature of retribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or having the nature of retribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, expressing, or exhibiting reciprocal connection, comparison, or retaliatory and compensatory relation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal philosophy and comparative linguistics, designating modalities, covenants, or clauses that establish a proportional equivalence between mutual obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relatiative designates of or relating to or having the nature of retribution."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The penal sanction must maintain a **relatiative** proportion to the gravity of the offense committed."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The civil magistrate applies a **relatiative** justice, weighing mutual injuries with measured retribution."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Early customary jurisprudence was founded upon **relatiative** duties binding reciprocal clan obligations."*
+

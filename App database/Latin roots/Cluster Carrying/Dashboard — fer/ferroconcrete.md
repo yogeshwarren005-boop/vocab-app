@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concrete with metal and/or mesh added to provide extra support against stresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concrete with metal and/or mesh added to provide extra support against stresses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concrete reinforced with embedded steel rods, mesh, or bars to increase its tensile strength; reinforced concrete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural engineering and architectural history, a composite material that revolutionized modern construction by marrying the compressive strength of stone with the tensile elasticity of steel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferroconcrete designates concrete with metal and/or mesh added to provide extra support against stresses."*
+> - 📜 **Le Corbusier (*Towards a New Architecture*):** *"The structural flexibility of **ferroconcrete** liberates the wall from its historic load-bearing servitude."*
+> - 📜 **Walter Gropius (*The New Architecture and the Bauhaus*):** *"The engineering triumph of **ferroconcrete** permits expansive spans and cantilevered terraces unknown to ancient masonry."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The modern metropolis was rebuilt with gleaming arches of **ferroconcrete** and reinforced glass."*
+

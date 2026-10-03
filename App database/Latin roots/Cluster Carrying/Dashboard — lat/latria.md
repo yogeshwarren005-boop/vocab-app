@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship given to god alone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship given to god alone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Roman Catholic and Orthodox theology, supreme worship and adoration due to God alone, as distinguished from dulia (veneration of saints).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patristic dogmatics and historical councils (Second Council of Nicaea, 787 AD), the formal doctrinal distinction between sacrificial adoration (latreia) and reverential honor (proskynesis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latria designates the worship given to god alone."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The worship of **latria** is due solely to the uncreated Creator, who is the first principle of all things."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"Catholic theology carefully distinguishes between the **latria** given to God and the dulia offered to His holy servants."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The iconoclastic emperors denounced the worship of images as an idolatrous infringement upon divine **latria**."*
+

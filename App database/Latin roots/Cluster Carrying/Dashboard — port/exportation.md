@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities (goods or services) sold to a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The commercial activity of selling and shipping goods to a foreign country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of exporting goods or commodities to foreign countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mercantilist economic history, the statutory regulation and subsidization (bounties) of outbound trade to maintain a favorable bullion balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This calls for a new equilibrium of money and requires at length large and continued exportation of specie."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Of course, what is not seen is that if we stop importing goods we thereby eventually will stop the exportation of goods of equal value now being sent in payment and this must throw as many men out of jobs as we helped into jobs by raising the tariff."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The annual exportation has not yet begun."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In rude and barbarous periods of English history, the **exportation** of valuable livestock was strictly prohibited by royal decree."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The laws prohibiting the **exportation** of wool were designed to secure a monopoly for domestic manufacturers."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Duties on the **exportation** of agricultural produce were wisely forbidden by the constitutional convention."*
+

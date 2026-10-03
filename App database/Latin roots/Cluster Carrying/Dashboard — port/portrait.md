@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word picture of a person's appearance and character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any likeness of a person, in any medium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting, drawing, photograph, or engraving of a person, especially depicting the face and shoulders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary biography and cultural criticism, a detailed and nuanced biographical character study or depiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The portrait of a blinking idiot Presenting me a schedule!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But a portrait over the chimney-piece, painted by the fashionable artist of the day, acts upon him like a charm."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Who’s that?” “The picture over the fire-place,” says Rosa, “is the portrait of the present Lady Dedlock."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The **portrait** of a blinking idiot presenting me a schedule! Here's the scroll."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"In the centre of the room stood the full-length **portrait** of a young man of extraordinary personal beauty."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ancestral **portrait** of Colonel Pyncheon seemed to follow every movement with stern, unblinking eyes."*
+

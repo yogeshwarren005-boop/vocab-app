@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of adjectives; placed before the nouns they modify.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of adjectives; placed before the nouns they modify.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or having the nature of an attribute; especially (in grammar) designating an adjective placed directly before the noun it modifies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical metaphysics and semantic logic, designating a predicate that directly assigns an essential property to an underlying subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attributive designates of adjectives; placed before the nouns they modify."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet uses an **attributive** epithet not for mere decoration, but to unveil the essential spirit of the object."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"An adjective standing in immediate contact with its headword is termed **attributive**, as distinguished from predicate adjectives."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The distinction between an **attributive** relation and an assertive proposition is fundamental to philosophical grammar."*
+

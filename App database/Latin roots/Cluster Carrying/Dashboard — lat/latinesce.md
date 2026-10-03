@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial language based on latin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial language based on latin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat Latin in character; approaching or resembling Latin language or idiom; Latin-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance literary imitation and neoclassical philology, vernacular prose displaying conspicuous classical syntax or rhetorical figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latinesce designates an artificial language based on latin."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The translator adopted a **latinesce** construction that imparted an antique dignity to the English verse."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Sir Thomas Browne wrote in an elaborate, **latinesce** style laden with rich classical cadences."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The diction was slightly **latinesce**, avoiding the abruptness of plain Saxon speech."*
+

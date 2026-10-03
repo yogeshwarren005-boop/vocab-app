@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the latin language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the latin language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or scholar of the Latin language, literature, and Roman culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic history, Renaissance humanists (such as Erasmus or Scaliger) famed for rigorous textual criticism of classical Roman authors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am a husband of older standing than you, and shall give you my ideas of the conjugal state, (_en passant_--you know I am no Latinist-is not _conjugal_ derived from _jugum_, a yoke?) Well, then, the scale of good wifeship I divide into ten parts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The accomplished **latinist** restored the corrupted text of Tacitus with admirable erudition."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon was reputed to be a profound **latinist**, though his published output was remarkably slender."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"As an exact **latinist**, Addison was surpassed by few of his contemporaries at Oxford."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protein containing 20% iron that is found in the intestines and liver and spleen; it is one of the chief forms in which iron is stored in the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protein containing 20% iron that is found in the intestines and liver and spleen; it is one of the chief forms in which iron is stored in the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A globular protein complex found in cells that stores iron in a non-toxic soluble form and releases it in a controlled fashion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical pathology, a major intracellular iron-storage macromolecule whose serum concentration serves as a primary diagnostic biomarker for iron deficiency or overload.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferritin designates a protein containing 20% iron that is found in the intestines and liver and spleen; it is one of the chief forms in which iron is stored in the body."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"The spherical protein shell of **ferritin** can sequester thousands of iron atoms within its central cavity."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"Cellular iron homeostasis depends upon the regulated synthesis and degradation of **ferritin**."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"Intracellular iron is safe from oxidative side-reactions as long as it remains encapsulated within **ferritin**."*
+

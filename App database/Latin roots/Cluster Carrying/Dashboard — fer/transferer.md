@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transfers something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transfers something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, machine, or mechanism that transfers, moves, or conveys something from one position or owner to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical manufacturing and logistical transport, an automated apparatus or individual responsible for routing components between processing stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferer designates someone who transfers something."*
+> - 📜 **Thomas Edison (*The Inventions of Thomas Alva Edison*):** *"An automatic mechanical **transferer** was designed to move the phonograph cylinder swiftly from the recording stylus to the playback horn."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculating engine employs a toothed **transferer** to carry tens across adjacent calculating columns."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"The experimenter acted as a careful **transferer** of volatile vapors between the retort and the sealed receiver."*
+

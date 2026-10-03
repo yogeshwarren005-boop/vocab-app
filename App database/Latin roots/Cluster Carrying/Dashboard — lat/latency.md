@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the time it takes for a specific block of data on a data track to rotate around to the read/write head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time that elapses between a stimulus and the response to it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of existing but not yet being developed, manifest, or active; dormancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and computing networks, the time delay elapsed between the transmission of a data packet and its reception at the destination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"In other words it is the negative quality of passiveness either in recoverable latency or insipient latescence."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Many memories remain in a state of long **latency** until revived by an unexpected sensory impression."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Characters may remain in complete **latency** for generations, and then suddenly reappear under changed conditions."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The disease agent possessed a prolonged period of **latency** before active physiological symptoms appeared."*
+

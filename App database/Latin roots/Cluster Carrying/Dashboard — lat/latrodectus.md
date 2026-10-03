@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Venomous spiders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Venomous spiders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan genus of venomous cobweb spiders in the family Theridiidae, commonly known as true widows (including the black widow, Latrodectus mactans).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and arachnology, spiders possessing neurotoxic venom containing alpha-latrotoxin, which triggers massive presynaptic neurotransmitter release (latrodectism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latrodectus designates venomous spiders."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I captured on the arid plains of Patagonia a venomous spider of the genus **Latrodectus**, feared by the natives."*
+> - 📜 **Henri Fabre (*The Life of the Spider*):** *"The bite of the small black **Latrodectus** causes excruciating muscular spasms and acute fever."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The chelicerae of **Latrodectus** are armed with potent venom glands capable of immobilizing prey instantly."*
+

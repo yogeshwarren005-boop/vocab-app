@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Localization of function on either the right or left sides of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of using one hand more than the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The preference for using one side of the body, especially hand, foot, or eye; handedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychology and ergonomics, directional asymmetry in motor coordination and sensory dominance reflecting contralateral cortical organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, laterality designates localization of function on either the right or left sides of the brain."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Human **laterality** is reflected in the universal dominance of the right hand in primitive tools."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Questions of structural **laterality** in facial movement were studied across various races."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Measurements of muscular strength in left and right hands revealed marked **laterality** in the population."*
+

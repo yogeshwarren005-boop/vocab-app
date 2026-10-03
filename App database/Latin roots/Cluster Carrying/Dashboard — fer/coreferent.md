@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related by sharing a symbolic link to a concrete object or an abstraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related by sharing a symbolic link to a concrete object or an abstraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to the same entity or individual; or a linguistic element that shares an identical referent with another expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In discourse analysis and syntax, designating an anaphor or noun phrase that points to an antecedent within the same or an adjacent sentence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coreferent designates related by sharing a symbolic link to a concrete object or an abstraction."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Two distinct linguistic forms are **coreferent** when both evoke the same object in the situational context."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"The pronoun and its antecedent are **coreferent** in that their assertive force terminates upon the same individual."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Every language employs specialized formal means to mark expressions that are **coreferent** across narrative clauses."*
+

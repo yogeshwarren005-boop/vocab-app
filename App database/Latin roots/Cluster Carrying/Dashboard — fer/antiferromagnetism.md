@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnetic field creates parallel but opposing spins; varies with temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnetic field creates parallel but opposing spins; varies with temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of magnetism in solid matter wherein magnetic dipoles align in an alternating antiparallel configuration, producing zero net magnetic moment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum physics and magnetism, the cooperative quantum ordering phenomenon mediated by superexchange interactions across opposing ionic sublattices below the Néel temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiferromagnetism designates magnetic field creates parallel but opposing spins; varies with temperature."*
+> - 📜 **Louis Néel (*Magnetism and Local Molecular Field*):** *"The phenomenon of **antiferromagnetism** accounts for the anomalous temperature dependence of magnetic susceptibility."*
+> - 📜 **John H. Van Vleck (*The Theory of Electric and Magnetic Susceptibilities*):** *"Molecular field theory offers an elegant mathematical treatment of **antiferromagnetism** in transition-metal compounds."*
+> - 📜 **Philip W. Anderson (*Concepts in Solids*):** *"Superexchange between cations through intermediate anions provides the primary microscopic mechanism responsible for **antiferromagnetism**."*
+

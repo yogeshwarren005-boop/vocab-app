@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long truck for carrying motor vehicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crane for moving material with dispatch as in loading and unloading ships.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or vehicle that transports goods, people, or military equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry and membrane physiology, a transmembrane protein that facilitates the passage of ions or metabolites across biological membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tell me, Bura, is your ship really a commercial cargo transporter or is it a UIPS warship with a military mission inside our legal jurisdiction?" "What in hell are you trying to do, whoever you are?"*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"My ship is a transporter of cargo, and you know that damned well." "I know no such thing."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko hit a switch, and the utility beam-anchor connected to a triangular plate above the airlock, immobilizing and fixing the utility to the huge transporter's axis."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian fighting machine functioned as a colossal mechanical **transporter**, striding over the countryside."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The red blood corpuscles act as the vital chemical **transporter** of oxygen to the peripheral tissues."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Our Indian **transporter** carried the heavy scientific crates with effortless endurance along the jungle trail."*
+

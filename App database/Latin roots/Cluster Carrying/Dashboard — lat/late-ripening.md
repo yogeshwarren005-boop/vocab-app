@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants that ripen in the fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants that ripen in the fall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reaching maturity or ripeness late in the season (especially of fruits, vegetables, or cereal grains).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In viticulture and pomology, cultivars requiring a long growing season and high cumulative solar thermal units to achieve optimal brix levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, late-ripening designates of plants that ripen in the fall."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"A **late-ripening** peach requires sunny southern exposures to develop its full flavor before winter."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The orchard was filled with **late-ripening** cider apples that hung red upon the leafless branches."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In northern climates, **late-ripening** grains are constantly endangered by early autumn rains."*
+

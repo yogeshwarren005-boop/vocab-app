@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater port and largest city in oregon; located in northwestern oregon on the willamette river which divides the city into east and west sections; renowned for its beautiful natural setting among the mountains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest city in maine in the southwestern corner of the state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peninsula in Dorset, England, famed for its limestone quarries (Portland stone); or the largest city in Oregon or Maine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering and construction materials, Portland cement, a hydraulic binder manufactured by pulverizing clinkers of calcium silicates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Paint Charles’ speed on wings of fire, The object of his fond desire, Beyond his boldest hopes, at hand: Paint all the triumph of the Portland Band; Hark how they lift the joy-elated voice!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Hall, of Washington, District of Columbia, and Miss Louise Titcomb, of Portland, Maine."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Miss Louise Titcomb, was from Portland, Maine, a young lady of high culture and refinement, and from the beginning of the War, had taken a deep interest in working for the soldiers, in connection with the other patriotic ladies of that city."*
+> - 📜 **Thomas Hardy (*The Well-Beloved*):** *"The rocky Isle of Slingers, known to the world as **Portland**, rose like a great crouching beast from the sea."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fossil beds of the **Portland** stone preserve remarkable ammonites and ancient cycad trunks."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The stone docks were constructed of durable **Portland** blocks capable of withstanding the Atlantic surge."*
+

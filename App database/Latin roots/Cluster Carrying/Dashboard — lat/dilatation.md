@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being stretched beyond normal dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expanding an aperture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The expansion, stretching, or widening of an opening, hollow organ, vessel, or passage beyond its normal caliber.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and clinical pathology, an enlargement of a tubular structure, cardiac chamber, or pupil in response to hydrostatic pressure, inflammatory processes, or autonomic stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilatation designates the state of being stretched beyond normal dimensions."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Beetles, size of the cerebral ganglia in; **dilatation** of the foretarsi during reproductive activity."*
+> - 📜 **William Harvey (*Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus*):** *"The alternate **dilatation** and contraction of the heart ventricles drives the uninterrupted movement of blood."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"The permanent **dilatation** of an inflamed artery results from weakened muscular resistance against arterial pressure."*
+

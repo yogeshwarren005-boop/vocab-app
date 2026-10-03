@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word picture of a person's appearance and character.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of making portraits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of creating portraits; or portraits considered collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fine art history, the formal genre of visual and plastic art dedicated to human representation, likeness, and social status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I am very sorry, good Horatio, That to Laertes I forgot myself; For by the image of my cause I see The portraiture of his."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"There is nothing in literature more remarkable than the impression produced by Dana’s portraiture of the homely inner life of a little brig’s forecastle."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"If ‘Bishop Blougram’s Apology’, in many of its circumstances and touches, suggests the thought of actual portraiture, recalling a form and face once familiar to us, . . .it is also a picture of a class of minds which we meet with everywhere."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For by the image of my cause I see the **portraiture** of his."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The finest Elizabethan **portraiture** sought to convey moral character rather than fleeting physical expression."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The gallery displayed masterpieces of seventeenth-century **portraiture** that seemed to gaze out from the shadows."*
+

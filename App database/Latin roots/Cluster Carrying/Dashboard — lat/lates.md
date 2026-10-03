@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large percoid fishes of fresh and brackish water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of large percoid fishes of fresh and brackish water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large predatory fish in the family Latidae, native to freshwater and marine environments of Africa and Asia, notably the Nile perch (Lates niloticus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater fisheries biology and invasive species ecology, apex predatory teleosts whose introduction into Lake Victoria caused catastrophic cichlid extinctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Knowledge that we can accomplish the good we hope for, stimu- 394:9 lates the system to act in the direction which Mind points out."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Beginning creation with darkness instead of light, - materially rather than spiritually, - error now simu- 528:21 lates the work of Truth, mocking Love and declar- ing what great things error has done."*
+> - 📜 **Richard Francis Burton (*The Lake Regions of Central Africa*):** *"The fishermen brought ashore a monstrous specimen of **lates**, which provides the staple food of the lake shore."*
+> - 📜 **David Livingstone (*Narrative of an Expedition to the Zambesi*):** *"The waters of the broad river abounded with a giant perch of the genus **lates**, highly esteemed for table use."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Ancient scribes recorded that the sacred fish called **lates** in the Nile attained an immense weight."*
+

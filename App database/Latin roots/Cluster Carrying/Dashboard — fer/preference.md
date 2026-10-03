@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A predisposition in favor of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A greater liking for one alternative over another or others; or the favoring of one person or thing above another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microeconomic utility theory, the ranking of alternative bundles of goods or outcomes reflecting a consumer's subjective evaluations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The discontented goose, who stoops to pass under the old gateway, twenty feet high, may gabble out, if we only knew it, a waddling preference for weather when the gateway casts its shadow on the ground."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce advised him to try and decide within himself whether his old preference for the sea was an ordinary boyish inclination or a strong impulse, Richard answered, Well he really HAD tried very often, and he couldn’t make out."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I asked the favour of seeing you for a few moments here,” said I, “in preference to calling at Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood mistook his confusion: sensitive persons are always ready with an assumption of their rival's **preference**."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"Every man feels a natural **preference** for his own preservation, yet society requires sympathy with others."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne made no secret of her **preference** for Willoughby over all other acquaintances."*
+

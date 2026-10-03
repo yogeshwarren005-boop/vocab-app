@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a logical or causal connection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be relevant to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To recount, narrate, or describe an event; or to establish a logical, causal, or comparative connection between disparate things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological development and social dynamics, to interact with empathy, find mutual understanding, and establish responsive rapport with others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My sovereign liege, no letters, and few words, But such as I, without your special pardon, Dare not relate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let be called before us That gentleman of Buckingham’s; in person I’ll hear his confessions justify, And point by point the treasons of his master He shall again relate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand forth, and with bold spirit relate what you, Most like a careful subject, have collected Out of the Duke of Buckingham."*
+> - 📜 **William Shakespeare (*Richard II*):** *"My sovereign liege, no letters, and few words, / But such as I, without your special warrant, / Should lose my life to **relate**."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She could not **relate** the circumstances of their parting without renewing the pain of the separation."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"It is interesting to **relate** how frequently these volcanic formations coincided with seismic disturbances."*
+

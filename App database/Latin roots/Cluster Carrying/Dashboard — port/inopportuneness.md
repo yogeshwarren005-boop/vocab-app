@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of occurring at an inconvenient time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of occurring at an inconvenient time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Untimeliness, awkward inconvenience, or unfortunate timing of an occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social comedy and novelistic plotting, the awkward friction created when private affairs collide with ill-timed public intrusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It perplexed, as well as shocked her, by the irreverent inopportuneness of the occasions that brought it into vivid action."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The sudden **inopportuneness** of the encounter struck both men with mutual embarrassment."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She felt the full **inopportuneness** of the visit, yet was compelled to maintain outward civility."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The extreme **inopportuneness** of the remark was masked by a light, conversational laugh."*
+

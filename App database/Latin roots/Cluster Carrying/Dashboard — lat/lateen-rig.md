@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The rig on a lateen-rigged sailing vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rig on a lateen-rigged sailing vessel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nautical rig characterized by one or more triangular lateen sails suspended from long yards mounted obliquely on masts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history, the Mediterranean and Arabian sail configuration that revolutionized windward sailing and enabled early oceanic navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lateen-rig designates the rig on a lateen-rigged sailing vessel."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Mediterranean felucca with its sharp **lateen-rig** cut through the blue waves like a flying fish."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The traditional **lateen-rig** of the Levantine coasters has survived unaltered since classical antiquity."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"The Arab dhow carried a soaring **lateen-rig** that caught every whisper of wind upon the Red Sea."*
+

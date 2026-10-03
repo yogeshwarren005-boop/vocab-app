@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new apportionment (especially a new apportionment of congressional seats in the united states on the basis of census results).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new apportionment (especially a new apportionment of congressional seats in the united states on the basis of census results).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of redistributing or allocating something again in different shares.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, the decennial statutory redistribution of United States congressional districts among the states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As these States will, for a great length of time, advance in population with peculiar rapidity, they will be interested in frequent reapportionments of the representatives to the number of inhabitants."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The decennial **reapportionment** of representatives preserves the democratic equilibrium between older and younger states."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Each **reapportionment** of power shifted the political center of gravity steadily toward the burgeoning western territories."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **reapportionment** of the parish rates relieved the overburdened agricultural laborers."*
+

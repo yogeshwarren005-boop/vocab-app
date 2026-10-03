@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign of something about to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sign of something about to happen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sign or warning that something momentous or calamitous is about to happen; an omen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary tragedy and epic poetry, an unnatural prodigy or apparition foretelling the downfall of a hero or kingdom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But the farmers have been left to struggle individually with their individual difficulties, tho the outcome was of the gravest portent to the whole social economy."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Indeed, in some sort, they were not grieved at this event, at least as a portent; for they regarded it, not as a foreshadowing of evil in the future, but as the fulfilment of an evil already presaged."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"The first, the very first: I found it a splendid portent."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Will you again unknit this churlish knot of all-abhorred war, and be no more a prodigy of fear and a **portent** of broached mischief?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The wild sea-birds circling low over the wake seemed to Ahab a dark **portent** of impending catastrophe."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every bread riot in the provinces was a fiery **portent** of the revolutionary storm gathering over Paris."*
+

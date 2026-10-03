@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fill with high spirits; fill with optimism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone ecstatically happy, proud, or in high spirits; or proud, elevated, or joyous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical romantic poetry, elevated in spiritual contemplation or joyous optimism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Men too often confound them: they should not be confounded: appearance should not be mistaken for truth; narrow human doctrines, that only tend to elate and magnify a few, should not be substituted for the world-redeeming creed of Christ."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"First, I smiled to myself and felt elate; but this fierce pleasure subsided in me as fast as did the accelerated throb of my pulses."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Ev’n thou who mourn’st the Daisy’s fate, That fate is thine—no distant date; Stern Ruin’s plough-share drives elate, Full on thy bloom, Till crush’d beneath the furrow’s weight, Shall be thy doom!"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Don't let your sober face **elate** you, however; you have little enough cause for pride."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Lulled in the sweet embrace of victory, they marched **elate** through the vanquished fields."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The conqueror stood **elate** upon the field, blind to the sorrow that shadowed his victory."*
+

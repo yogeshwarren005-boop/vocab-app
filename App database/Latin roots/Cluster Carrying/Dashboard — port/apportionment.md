@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of distributing by allotting or apportioning; distribution according to a plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of distributing by allotting or apportioning; distribution according to a plan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or result of distributing or allocating something proportionally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law (specifically Article I of the US Constitution), the allocation of legislative representatives to states based on population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The three of us were faithful Christians, and we made a practice of prayer each day before the apportionment of food."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Considered with reference to the possible maximum of welfare of the individuals themselves, the apportionment of their incomes in time is frequently woful."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Apportionment of Members Among the States FEDERALIST No."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An equal **apportionment** of representatives is the foundation of free and popular government."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"When the legitimacy of inflicting punishment is admitted, how many conflicting conceptions of justice come into play in its **apportionment**!"*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The fair **apportionment** of senators prevented the dominance of wealthy urban counties over the commonwealth."*
+

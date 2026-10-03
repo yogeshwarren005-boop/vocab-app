@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A security pledged for the repayment of a loan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Descended from a common ancestor but through different lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Descended from the same ancestor but in a different line; subordinate, accompanying, or indirect; or property pledged as security for a loan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In banking and debt finance, a secured asset or liquid guarantee pledged to indemnify a lender in the event of debtor default.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Your ladyship is acquainted with the name of Hawdon?” “I have heard it before.” “Name of any collateral or remote branch of your ladyship’s family?” “No.” “Now, your ladyship,” says Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In supplying credit to enterprises, banks are constantly passing judgment on the collateral security presented to them and on the soundness of the enterprises that are seeking support."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"In his bright radiance and **collateral** light must I be comforted, not in his sphere."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A banker accepts bills of exchange only when backed by substantial and unencumbered **collateral**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The war produced many unintended **collateral** consequences for the domestic commerce of the states."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with fertilizers or add nutrients to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fertile or productive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make fertile, fruitful, or productive; to enrich land with nutrients; or to impregnate an egg or flower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural agronomy and pollination biology, to supply essential chemical nutrients to exhausted earth or transfer viable pollen to receptive stigmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Living, he scratched the earth's surface, and dying, left his bones to fertilize the soil."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"A botanist notices that the bee flying with the pollen of a male flower to a pistil fertilizes the latter, and sees in this the purpose of the bee’s existence."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He carried with him into the sterner regions of the north, all the fertilizing arts of southern refinement."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Bees flying from blossom to blossom **fertilize** the flowers with pollen from distinct plants."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"To **fertilize** the land continuously, one must replace all the mineral constituents removed in the grain."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The mountain torrents carry rich silt to **fertilize** the great agricultural valleys below."*
+

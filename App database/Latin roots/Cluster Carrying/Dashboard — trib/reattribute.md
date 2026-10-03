@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attribute to another source.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attribute to another source.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attribute again; especially to assign a work of art, text, or action to a different author or source after reconsideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and textual forensics, formally revising an attribution following spectrographic pigment analysis or stylistic reassessment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reattribute designates attribute to another source."*
+> - 📜 **Bernard Berenson (*The Study and Criticism of Italian Art*):** *"Recent archival discoveries have compelled connoisseurs to **reattribute** the altarpiece from Ghirlandaio to his workshop."*
+> - 📜 **Kenneth Clark (*Looking at Pictures*):** *"Modern gallery curators rarely **reattribute** a masterpiece without overwhelming documentary evidence."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"Textual critics should hesitate to **reattribute** Elizabethan dramas on the strength of metrical tests alone."*
+

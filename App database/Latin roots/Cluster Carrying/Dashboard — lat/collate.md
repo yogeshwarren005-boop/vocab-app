@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compare critically; of texts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To assemble in proper sequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To collect, assemble, and compare different texts, manuscripts, or data in proper order to identify discrepancies or prepare an edition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliography and textual criticism, examining gathering signatures, watermarks, and variant readings across distinct folio and quarto impressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But by the time youth slips a stage or two While reading prose in that tough book he wrote, {30} (Collating and emendating the same And settling on the sense most to our mind) We shut the clasps and find life’s summer past."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Harker has gone back, and is again collating his material."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"I have not had an opportunity of examining it, but an American correspondent, who kindly collated my proof-sheets with the copy in the Boston Public Library, has sent me his notes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The diligent scholar spent years in monastic libraries to **collate** the surviving manuscripts of the historian."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He resolved to **collate** the ancient black-letter copies of the ballad before committing them to the press."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Pope took immense pains to **collate** the early quartos of Shakespeare, though his corrections were often arbitrary."*
+

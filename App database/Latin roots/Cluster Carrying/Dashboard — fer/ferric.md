@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing iron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing iron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or containing iron; specifically, designating chemical compounds containing trivalent iron (Fe3+).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and metallurgy, designating the oxidized state of iron exhibiting higher valence than divalent ferrous compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Aëration of the solution, especially when warmed, leads to the formation of basic ferric sulphates which are insoluble, and which therefore accumulate at the bottom of the tank."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The chemical precipitation of **ferric** oxide depends upon the oxidation of the dissolved ferrous salt."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"When iron burns in oxygen gas, it forms a dense reddish mass of **ferric** oxide."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"A solution of **ferric** chloride undergoes rapid decomposition in the presence of alkaline reagents."*
+

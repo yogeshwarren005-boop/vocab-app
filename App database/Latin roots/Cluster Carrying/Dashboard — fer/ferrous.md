@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or containing iron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or containing iron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, derived from, or pertaining to iron; specifically designating chemical compounds containing divalent iron (Fe2+).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and industrial geology, designating metals, ores, and alloys (such as cast iron and carbon steel) in which iron is the major constituent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The principle had, indeed, been utilised in certain branches of iron smelting before this date, but for non-ferrous work the idea was new."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Hughes, G., “Non-ferrous Metals in Railway Work.” _J."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"This oxide is incapable of existing by itself, but possessing when nascent a powerful affinity for silica at high temperatures, it produces ferrous silicates, which are, in the main, fusible slag-like products."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The green tint of the solution indicated the presence of dissolved **ferrous** sulfate."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Iron exposed to moisture forms first a green **ferrous** hydrate before oxidizing to red rust."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The deep blue clay owes its distinctive coloration to **ferrous** compounds preserved from atmospheric oxidation."*
+

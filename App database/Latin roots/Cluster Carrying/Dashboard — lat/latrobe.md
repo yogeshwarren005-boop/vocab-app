@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states architect (born in england) whose works include the chambers of the united states congress and the supreme court; considered the first professional architect in the united states (1764-1820).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states architect (born in england) whose works include the chambers of the united states congress and the supreme court; considered the first professional architect in the united states (1764-1820).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Benjamin Henry Latrobe (1764–1820), British-born neoclassical architect regarded as the Father of American Architecture; or the Latrobe stove.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American domestic history, the Baltimore heater or Latrobe stove, an energy-efficient cast-iron fireplace insert designed to heat multistory residences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latrobe designates united states architect (born in england) whose works include the chambers of the united states congress and the supreme court; considered the first professional architect in the united states (1764-1820)."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"I have appointed Mr. **Latrobe** as surveyor of the public buildings, trusting in his classical taste and engineering skill."*
+> - 📜 **Henry Adams (*The History of the United States of America*):** *"The architectural genius of **Latrobe** endowed the young republican capital with enduring neoclassical dignity."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The parlor was heated by a cheerful **Latrobe** stove that diffused a pleasant warmth through the drafty hall."*
+

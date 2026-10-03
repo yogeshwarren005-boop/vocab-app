@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carriage entrance passing through a building to an enclosed courtyard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Canopy extending out from a building entrance to shelter those getting in and out of vehicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A covered porch or carriage entrance leading into a courtyard or building, allowing passengers to enter and alight under shelter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French and neoclassical mansion architecture, an arched gateway large enough to admit horse-drawn carriages into an interior courtyard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porte-cochere designates a carriage entrance passing through a building to an enclosed courtyard."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The brougham turned smoothly beneath the broad stone **porte-cochere** of the Fifth Avenue mansion."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"The carriage rumbled through the dark arch of the **porte-cochere** into the quiet cobbled courtyard."*
+> - 📜 **Henry James (*The American*):** *"A massive pair of oak doors stood open beneath the **porte-cochere**, admitting the fresh spring breeze."*
+

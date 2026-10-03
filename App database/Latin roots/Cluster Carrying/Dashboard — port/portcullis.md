@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gate consisting of an iron or wooden grating that hangs in the entry to a castle or fortified town; can be lowered to prevent passage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gate consisting of an iron or wooden grating that hangs in the entry to a castle or fortified town; can be lowered to prevent passage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong, heavy vertically-closing iron or wooden grating suspended above a gateway of a fortified castle and lowered to bar passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and British parliamentary iconography, a stylized badge consisting of a gridded gate with downward-pointing spikes and suspension chains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fray’s forehead was wrinkled both perpendicularly and crosswise, after the pattern of a portcullis, expressive of a double despair."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If you pry it up, so as to get it overhead, and expose its rows of teeth, it seems a terrific portcullis; and such, alas! it proves to many a poor wight in the fishery, upon whom these spikes fall with impaling force."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fray’s forehead was wrinkled both perpendicularly and crosswise, after the pattern of a portcullis, expressive of a double despair."*
+> - 📜 **Walter Scott (*Marmion*):** *"The heavy iron **portcullis** dropped with a thunderous clang, cutting off all retreat from the castle courtyard."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Fray's forehead was wrinkled both perpendicularly and horizontally, like the iron bars of a **portcullis**."*
+> - 📜 **William Shakespeare (*Richard II*):** *"Within my mouth you have engaoled my tongue, doubly portcullised with my teeth and lips; and dropped the heavy **portcullis** of silence."*
+

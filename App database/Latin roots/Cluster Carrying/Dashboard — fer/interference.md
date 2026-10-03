@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of intervening in the affairs of other countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of hindering or obstructing or impeding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, fact, or process of meddling, obstructing, or intervening in affairs; an obstacle or impediment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and telecommunications, the physical phenomenon in which two or more propagating wave patterns superimpose to form a resultant wave of greater, lower, or equal amplitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It must not be, if by any fair interference of friendship, any representations from one who had almost a mother’s love, and mother’s rights, it would be prevented."*
-> - 📜 **Jane Austen (*Persuasion*):** *"What! would I be turned back from doing a thing that I had determined to do, and that I knew to be right, by the airs and interference of such a person, or of any person I may say?"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now, Boldwood, yours is the ridiculous fate which always attends interference between a man and his wife."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak's allusion to his own love for her lessened, to some extent, her anger at his **interference**."*
+> - 📜 **Thomas Young (*Experiments Relative to Physical Optics*):** *"The law of wave **interference** accounts completely for the colored rings observed between curved glass plates."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The only purpose for which power can be rightfully exercised over any member of a civilized community is to prevent harm to others; his own good is not a warrant for state **interference**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the nature of retribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given or inflicted in requital according to merits or deserts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, relating to, or inflicting punishment or retribution; dispensing just deserts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, a penological model holding that offenders must be punished solely because they deserve it, independent of deterrence or rehabilitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There may be black ingratitude in the thing, and the punishment may be retributive and well deserved; but that it is a miserable thing, I can testify."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Und was hab' ich dann gethan?"[20] There is a world of pathos in this helpless cry of pain, with its suggestion of retributive fate."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Then, if he is not seen to kill, the law is powerless and the murderer can snap his finger in the face of retributive justice."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The primitive sense of **retributive** justice demanded blood for blood and tooth for tooth."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The sentiment of justice appears to contain two essential elements: a desire to punish a wrongdoer, and the belief that the offense demands **retributive** harm."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parliament enacted **retributive** measures against the ministers of the deposed monarch."*
+

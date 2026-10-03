@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a pattern of fretwork or latticework.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a pattern of fretwork or latticework.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or enclosed by a lattice; fitted with crossed wooden or metal strips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic architecture, casement windows fitted with small diamond-shaped panes set in lead cames.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The new part, containing the schoolroom and dormitory, was lit by mullioned and latticed windows, which gave it a church-like aspect; a stone tablet over the door bore this inscription:— LOWOOD INSTITUTION."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The steps and banisters were of oak; the staircase window was high and latticed; both it and the long gallery into which the bedroom doors opened looked as if they belonged to a church rather than a house."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The house presented two pointed gables in its front; the windows were latticed and narrow: the front door was narrow too, one step led up to it."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It threw a gleam of recognition on here a post, and there the **latticed** casement of a wooden house."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The morning sun shone brightly through the **latticed** window of the rustic breakfast room."*
+> - 📜 **Lord Byron (*Don Juan*):** *"She looked out from the **latticed** balcony upon the moonlit waves of the Mediterranean."*
+

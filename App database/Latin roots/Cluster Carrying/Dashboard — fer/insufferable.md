@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of persons or their behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of persons or their behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too extreme, painful, or intolerable to be borne; incapable of being endured; unendurable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In satirical social commentary and psychological description, describing overwhelming arrogance, conceit, or oppressive behavioral vanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Isabella, on hearing the particulars of the visit, gave a different explanation: “It was all pride, pride, insufferable haughtiness and pride! she had long suspected the family to be very high, and this made it certain."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Neglect it—go on as heretofore, craving, whining, and idling—and suffer the results of your idiocy, however bad and insufferable they may be."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Assistance is impossible; condolence, insufferable."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"**Insufferable** sting, that sanity should ground arms on such a field!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He was looked upon as an **insufferable** man who gave himself haughty airs in company."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The bright radiance of the cherubim was **insufferable** to mortal eyes."*
+

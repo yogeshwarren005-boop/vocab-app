@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifesting partiality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifesting partiality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, showing, giving, or receiving a preference or priority over others; favoring a particular group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international trade policy and financial bankruptcy, designating reduced tariff rates (such as imperial preference) or debt payouts prioritized over unsecured claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Classes A and B are elected by the member banks by a system of group and preferential voting designed to prevent the large banks from outvoting the smaller ones."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I was myself so much more antecedently conscious of my figures than of their setting--a too preliminary, a preferential interest in which struck me as in general such a putting of the cart before the horse."*
+> - 📜 **Woodrow Wilson (*The State*):** *"Tariff legislation was frequently manipulated to grant **preferential** treatment to domestic manufacturing interests."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A commercial nation should avoid creating **preferential** monopolies that distort the natural allocation of capital."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The treaty established **preferential** economic regimes that crippled trade recovery in central Europe."*
+

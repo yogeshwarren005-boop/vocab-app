@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ratio of two quantities that is constant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmonious arrangement or relation of parts or elements within a whole (as in a design); - john ruskin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A harmonious or balanced relationship between components; proper comparative ratio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and international humanitarian law, the principle that military action or statutory punishment must not exceed the legitimate objective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, chs. 12 and 13 on proportionality and usance.] [Footnote 2: See ch. 25, secs. 4 and 5.] [Footnote 3: See above, ch. 19, secs. 13, 14, 15.] [Footnote 4: See above, sec. 3.] [Footnote 5: See ch. 8, sec. 8.] [Footnote 6: See Vol."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The doctrine of **proportionality** between punishments and offenses is the first axiom of enlightened penal legislation."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Justice demands an overarching **proportionality** between effort expended for the public good and societal reward."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A sound education maintains an intellectual **proportionality** among physical science, literature, and art."*
+

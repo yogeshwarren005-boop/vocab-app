@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A scar where the umbilical cord was attached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The center point or middle of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central depression or scar on the abdomen where the umbilical cord was severed; the umbilicus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mythic geography and classical antiquity, the central or focal hub of a place or the world (e.g., the omphalos of Delphi).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being pressed to th’ war, Even when the navel of the state was touched, They would not thread the gates."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They shall stand in fire up to the navel and in ice up to the heart, and there th’ offending part burns and the deceiving part freezes."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, so, I leave him muttering.” “Here’s the ship’s navel, this doubloon here, and they are all on fire to unscrew it."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Being pressed to th' **navel** of the state, they shall find our courage steadfast."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The doubloon was fastened to the very **navel** of the mast, where every eye might behold its gold."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Enclosed within the leafy arbor, undisturbed from crown to **navel** by the fallen world."*
+

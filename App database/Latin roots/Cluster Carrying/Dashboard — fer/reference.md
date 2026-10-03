@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remark that calls attention to something or someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short note recognizing a source of information or of a quoted passage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of mentioning, citing, or referring to something; or a source of information used to ascertain facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semantics, analytical philosophy, and computer science, the relation connecting a linguistic symbol to its real-world referent, or a memory address pointing to a stored value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All that he is hath reference to your highness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Make your full reference freely to my lord, Who is so full of grace that it flows over On all that need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Something that hath a reference to my state: No longer Celia, but Aliena."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"All that he is hath **reference** to your highness."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words have their immediate **reference** to the ideas in the mind of him that speaks them."*
+> - 📜 **Bertrand Russell (*On Denoting*):** *"A phrase may denote an entity and yet have no direct **reference** to an existing object in empirical reality."*
+

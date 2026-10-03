@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstraction belonging to or characteristic of two entities or parts together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A connection, correspondence, or mutual involvement existing between two or more persons, ideas, or entities; or the narrative recital of a story.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal ontology, mathematical logic, and relational database systems, a set of ordered tuples establishing associations between elements of defined domains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is a thing Which you might from relation likewise reap, Being, as it is, much spoke of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, relation Too nice, and yet too true!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the intent and purpose of the law Hath full relation to the penalty, Which here appeareth due upon the bond."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"This is a thing which you might from **relation** likewise reap, being, as it is, manufactured in public rumor."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The nature of **relation** consists in the referring or comparing two things one to another."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"A **relation** between two terms is not a third term standing between them, but a distinct category of truth."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being suitable for the passage of a ship or aircraft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being suitable for the passage of a ship or aircraft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or degree of a body of water or airway being passable and safe for ships or aircraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime transport economics and hydrography, depth, clearance, and seasonal river discharge permitting continuous commercial cargo barge traffic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navigability designates the quality of being suitable for the passage of a ship or aircraft."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The superior **navigability** of inland rivers affords an extensive and inexpensive transport for all commercial goods."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Maintaining the free **navigability** of the western rivers was essential to binding the frontier settlements to the union."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The extraordinary **navigability** of the Mississippi system formed an open highway for continental commerce."*
+

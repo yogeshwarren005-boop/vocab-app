@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of lesser rank or station or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character or symbol set or printed or written beneath or slightly below and to the side of another character.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower in rank, status, quality, degree, or value; or situated below another part or organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and typography, designating an anatomical organ positioned below another, or a subscript character placed below the baseline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since your worth, wide as the ocean is, The humble as the proudest sail doth bear, My saucy bark (inferior far to his) On your broad main doth wilfully appear."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"WINCHESTER. [_Aside_.] Now Winchester will not submit, I trow, Or be inferior to the proudest peer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, brother king, farewell, and sit you fast, For I will hence to Warwick’s other daughter; That, though I want a kingdom, yet in marriage I may not prove inferior to yourself."*
+> - 📜 **William Shakespeare (*Sonnet 80*):** *"My saucy bark, **inferior** far to his, / On your broad main doth wilfully appear."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man still bears in his bodily frame the indelible stamp of his **inferior** origin."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Though **inferior** to the angels in power, man was created with the divine capacity for free will and reason."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of acute pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misery resulting from affliction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, experience, or condition of enduring acute physical pain, emotional distress, or severe hardship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious philosophy, the universal existential predicament arising from mortal transience, attachment, and vulnerability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For thou hast been As one, in suffering all, that suffers nothing, A man that Fortune’s buffets and rewards Hast ta’en with equal thanks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, there is another indictment upon thee, for suffering flesh to be eaten in thy house, contrary to the law, for the which I think thou wilt howl."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That bear’st a cheek for blows, a head for wrongs; Who hast not in thy brows an eye discerning Thine honour from thy suffering; that not know’st Fools do those villains pity who are punish’d Ere they have done their mischief."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"For your wants, / Your **suffering** in this dearth, you may as well / Strike at the heaven with your staves as lift them / Against the Roman state."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"All life is **suffering**, proceeding from the endless striving of an unsatisfied will."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The ultimate end of moral action is the prevention and mitigation of human **suffering**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or phrase borrowed from latin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or phrase borrowed from latin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idiom, grammatical construction, or word borrowed from or characteristic of the Latin language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary stylistics, incorporating classical Latin word order (such as placing verbs at the end of clauses) into vernacular prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latinism designates a word or phrase borrowed from latin."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Milton's style is full of **latinism**, which gives it a foreign air but increases its sublimity."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Avoid each awkward **latinism** that strains our English tongue beyond its natural harmony."*
+> - 📜 **John Dryden (*Of Dramatic Poesy*):** *"A judicious **latinism** may enrich the language, provided it does not obscure the sense."*
+

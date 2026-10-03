@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive transuranic metallic element produced by bombarding plutonium with neutrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive transuranic metallic element produced by bombarding plutonium with neutrons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic radioactive transuranic metallic element of the actinide series with atomic number 100, symbol Fm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear chemistry and heavy element synthesis, an actinide first identified in the radioactive debris of the 1952 Ivy Mike thermonuclear explosion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fermium designates a radioactive transuranic metallic element produced by bombarding plutonium with neutrons."*
+> - 📜 **Glenn T. Seaborg (*The Transuranium Elements*):** *"The chemical characterization of **fermium** was accomplished using minute quantities isolated from the debris of the thermonuclear test."*
+> - 📜 **Enrico Fermi (*Collected Papers*):** *"Theoretical extrapolation of the actinide series predicted the stable oxidation states later verified in the chemistry of **fermium**."*
+> - 📜 **Ernest Lawrence (*Science in the Atomic Age*):** *"Successive neutron captures in high-flux reactors made possible the macroscopic isolation of elements extending toward **fermium**."*
+

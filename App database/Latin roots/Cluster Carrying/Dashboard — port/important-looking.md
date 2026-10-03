@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive in appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impressive in appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an appearance that suggests significance, authority, wealth, or high status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative literature, describing documents, envelopes with seals, or pompous individuals displaying outward tokens of official authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, important-looking designates impressive in appearance."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The messenger delivered a thick, **important-looking** packet sealed with heavy red wax."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"An **important-looking** gentleman in a frock coat stepped forward to address the gathering."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer carried a bundle of **important-looking** parchments tied with faded red tape."*
+

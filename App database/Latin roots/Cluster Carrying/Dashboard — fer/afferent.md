@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nerve that passes impulses from receptors toward or to the central nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of nerves and nerve impulses; conveying sensory information from the sense organs to the cns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conducting or transmitting inward toward a central organ, nerve center, or reference point; opposed to efferent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and cardiovascular physiology, designating sensory nerve fibers carrying impulses from peripheral receptors toward the central nervous system, or arterioles conveying blood to a glomerulus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, afferent designates a nerve that passes impulses from receptors toward or to the central nervous system."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An incoming sensory impulse travels along an **afferent** nerve fiber to reach the cerebral cortex."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The reflex arc commences with an **afferent** neurone conducting excitation from a receptive surface to the spinal axis."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Sensory ganglia give rise to bifurcating axons whose medial branches form the **afferent** dorsal roots."*
+

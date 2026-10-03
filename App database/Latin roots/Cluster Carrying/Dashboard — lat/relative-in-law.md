@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relative by marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relative by marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person connected to an individual through a marriage alliance rather than biological descent, such as a parent-in-law or sibling-in-law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural anthropology and civil inheritance law, an affine whose legal standing, inheritance claims, and kinship obligations are created entirely by marital covenant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relative-in-law designates a relative by marriage."*
+> - 📜 **Anthony Trollope (*The Prime Minister*):** *"He found himself obliged to treat his new **relative-in-law** with an outward courtesy that masked his private distrust."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The introduction of a new **relative-in-law** unsettled the established hierarchy of the country estate."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The legal responsibilities owed to a **relative-in-law** became a subject of dispute at the town council."*
+

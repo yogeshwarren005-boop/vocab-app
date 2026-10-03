@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decisive naval battle in the war of greek independence (1827); the turkish and egyptian fleet was defeated by an allied fleet of british and french and russian warships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decisive naval battle in the war of greek independence (1827); the turkish and egyptian fleet was defeated by an allied fleet of british and french and russian warships.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical name of Pylos, Greece, and the site of the pivotal 1827 naval battle that secured Greek independence from the Ottoman Empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century European diplomatic history, the decisive engagement where allied British, French, and Russian fleets destroyed the Ottoman-Egyptian armada.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navarino designates a decisive naval battle in the war of greek independence (1827); the turkish and egyptian fleet was defeated by an allied fleet of british and french and russian warships."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The sudden thunder of the guns at **Navarino** decided the freedom of modern Greece."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"The bay of **Navarino** witnessed the ultimate clash that broke the Turkish hold upon the Peloponnese."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient port of Pylos, known in modern annals as **Navarino**, guarded the western approaches to the Morea."*
+

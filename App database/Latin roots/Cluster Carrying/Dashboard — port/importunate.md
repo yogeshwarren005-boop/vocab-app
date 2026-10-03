@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing earnest entreaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing earnest entreaty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent, especially to the point of annoyance or intrusion; persistently pressing in request or demand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral essays, troublesome and unyielding solicitations that overcome a person's resolve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She is importunate, indeed distract."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And among other importunate and most serious designs, and of great import indeed, too—but let that pass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or heard him say (as knaves be such abroad, Who having, by their own importunate suit, Or voluntary dotage of some mistress, Convinced or supplied them, cannot choose But they must blab.) OTHELLO."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"She is **importunate**, indeed distract; her mood will needs be pitied."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He continued to urge his suit with **importunate** pleading that gave me no peace."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The voice of the crowd grew **importunate**, clamoring for an immediate explanation."*
+

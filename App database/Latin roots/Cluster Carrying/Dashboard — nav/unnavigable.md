@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being navigated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being navigated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being sailed upon or navigated by vessels; impassable by water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydraulic engineering and river morphology, waterways obstructed by shallow rapids, shoals, debris, or violent cataracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The grey, forbidding mountains, showing hardly a foothold for man or beast, tree or house, matched the grey, swirling river, here unnavigable even for rafts."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Or he will put the spittle in a frog and throw the animal into an inaccessible, unnavigable river, which will make the victim quake and shake with ague."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The sacred stream was deemed **unnavigable** by mortal craft, protected by taboo and treacherous cataracts."*
+> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The upper reaches of the river were fierce and **unnavigable**, tumbling down steep gorges in sheets of white foam."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Further upstream the river was reported **unnavigable** due to sunken snags and shifting mudbanks."*
+

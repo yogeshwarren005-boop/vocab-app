@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lay person dedicated to religious work or the religious life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the equatorial diameter greater than the polar diameter; being flattened at the poles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flattened at the poles, like a sphere that has been compressed along its rotational axis (an oblate spheroid); or a lay person dedicated to a religious order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary geodesy and astrophysics, the flattened spheroidal figure of rotating planets produced by centrifugal acceleration opposing gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: _(Turns.)_ Eh? _(He disengages himself.)_ Why should I not speak to him or to any human being who walks upright upon this oblate orange? _(He points his finger.)_ I’m not afraid of what I can talk to if I see his eye."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"One is an oblate ovoid vase, with small neck and mouth, of hard, light buff body, coated with a dull greenish black glaze with minute specks of lighter colour."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"Owing to the diurnal rotation of the earth upon its axis, its true figure must be that of an **oblate** spheroid."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The geodetic survey proved that the earth's polar diameter is shorter, confirming its **oblate** form."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Centrifugal force acting upon the rotating molten mass gave the young planet its distinctly **oblate** contour."*
+

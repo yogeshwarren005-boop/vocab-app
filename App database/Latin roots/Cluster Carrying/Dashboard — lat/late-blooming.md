@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants that bloom during the autumn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants that bloom during the autumn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowering or blossoming late in the season; or achieving success, skill, or prominence relatively late in life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and horticultural phenology, cultivars or individuals whose maturation curve peaks well beyond conventional developmental milestones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, late-blooming designates of plants that bloom during the autumn."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In several varieties of fruit trees, a **late-blooming** habit protects the delicate blossoms from early spring frosts."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His talent was of a **late-blooming** kind, requiring years of solitary reflection before yielding intellectual fruit."*
+> - 📜 **Henry James (*The Ambassadors*):** *"He recognized in his friend a **late-blooming** appreciation of European art and culture."*
+

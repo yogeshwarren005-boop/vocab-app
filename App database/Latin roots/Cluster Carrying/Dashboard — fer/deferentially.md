@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a servile manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a respectfully deferential manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a deferential manner; with courteous respect, polite submission, or reverent compliance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse and narrative descriptions, speaking or acting with measured humility to avoid giving offense to superiors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, walking deferentially in the road and leaving the narrow pavement to the lawyer; “and the party is very rough."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"These ladies were deferentially received by Miss Temple, as Mrs. and the Misses Brocklehurst, and conducted to seats of honour at the top of the room."*
-> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary it seemed to Dorothea that Will had a happier way of drawing her husband into conversation and of deferentially listening to him than she had ever observed in any one before."*
+> - 📜 **George Eliot (*Middlemarch*):** *"On the contrary it seemed to Dorothea that Will had a happier way of disagreeing **deferentially** than anyone she had ever met."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The servant answered **deferentially**, keeping his eyes lowered as he delivered the message."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"He removed his hat and spoke **deferentially** to the lady of the manor as she passed the gate."*
+

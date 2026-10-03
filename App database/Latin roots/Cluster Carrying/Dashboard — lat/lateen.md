@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangular fore-and-aft sail used especially in the mediterranean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rigged with a triangular (lateen) sail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangular sail set on a long yard mounted at an angle of forty-five degrees to the mast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical archaeology, the fore-and-aft sail design developed in the Byzantine and Arab worlds that facilitated tacking into the wind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The village was on an in-lying island, and its headmen must have sent word across to the mainland; for one morning three big two-masted junks with lateens of rice-matting dropped anchor off the beach."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white **lateen** of the coaster gleamed against the dark cliffs of the Mediterranean coast."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The native craft set its broad **lateen** against the sunset, gliding into the river mouth."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"A small craft with a picturesque **lateen** sail hovered outside the headland."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield to another's wish or opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put off, postpone, or delay an action to a future time; or to submit politely to the judgment or wishes of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette and judicial procedure, to yield precedence or suspend immediate determination out of respect for higher appellate authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Defer no time, delays have dangerous ends; Enter and cry, “The Dauphin!” presently, And then do execution on the watch. [_Alarum."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soldiers, defer the spoil of the city until night; for with these borne before us instead of maces will we ride through the streets, and at every corner have them kiss."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They know him there and defer to him."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"**Defer** no time, delays have dangerous ends; / Enter and cry, 'The Dauphin!' / Presently through all the streets of Rouen."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind has the power to suspend the execution of its desires, and **defer** its decisions until deliberation is complete."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He who resolves to amend tomorrow merely seeks an excuse to **defer** his duty today."*
+

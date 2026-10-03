@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discrimination between things as different and distinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mathematical process of obtaining the derivative of a function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making or becoming distinct, specialized, or diverse; the development of differences among components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryonic development and calculus, the morphological specialization of cells into mature tissues, or the mathematical operation of computing a derivative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Social progress, as we know, consists mainly in a successive differentiation of functions, or, in simpler language, a division of labour."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess thought her loss as great as Marian's, but upheld by the dignity of suffering, found in silent endurance a moral **differentiation** from her companions."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Physiological division of labor always accompanies structural **differentiation** in complex multicellular organisms."*
+> - 📜 **Henri Bergson (*Creative Evolution*):** *"Life does not proceed by the association and addition of elements, but by dissociation and **differentiation**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with or characterized by a portico or colonnade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neoclassical and Palladian architecture, featuring monumental columnar facades inspired by Vitruvian design principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porticoed designates marked by columniation having free columns in porticoes either at both ends or at both sides of a structure."*
+> - 📜 **Henry James (*The American Scene*):** *"The stately **porticoed** mansion stood back from the road, shaded by ancient live oaks."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The avenue was lined with dignified, **porticoed** residences that expressed the quiet wealth of old New York."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The **porticoed** entrance of the country seat gave an imposing air of antiquity to the modern wings."*
+

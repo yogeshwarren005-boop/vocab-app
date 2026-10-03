@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write in the latin alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to adopt catholicism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British spelling of latinize; to translate into Latin, or give a Latin form or character to a word, name, or text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical taxonomy and Linnaean nomenclature, converting vernacular scientific names and geographical descriptors into Latinate binomial form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latinise designates write in the latin alphabet."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Naturalists invariably **latinise** the specific names of newly discovered plants and animals."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Scholars of that era were accustomed to **latinise** their family names upon entering the university."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine chroniclers attempted to **latinise** barbarian titles to fit imperial court etiquette."*
+

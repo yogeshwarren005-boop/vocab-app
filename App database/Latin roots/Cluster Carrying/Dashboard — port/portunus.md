@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family portunidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family portunidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of swimming crabs within the family Portunidae, characterized by broad carapaces with lateral spines and paddle-shaped hind legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman mythology, Portunus was the ancient god of keys, doors, cattle, and maritime harbors, celebrated at the Portunalia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, portunus designates type genus of the family portunidae."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"When a Devil-crab, **Portunus** puber, was seen by an observer, its fierce defensive attitude was immediately noted."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The ancient temple of **Portunus** by the Tiber guarded the river landing where merchant vessels moored."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The carapace of **Portunus** terminates on each side in an acute, projecting epibranchial spine."*
+

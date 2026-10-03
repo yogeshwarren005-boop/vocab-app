@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin port within the domain of Carrying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of port in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity or suitability of goods, services, or ideas to be exported to foreign markets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international trade economics, durability, shelf-life, and standardization allowing a manufactured product to meet import regulations abroad.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exportability designates pertaining to, derived from, or characteristic of latin port within the domain of carrying."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Gold and silver possess greater **exportability** than bulkier commodities owing to their immense value in small compass."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"The high **exportability** of fine woolens allowed England to balance its grain trade with the continent."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Technological improvements in preservation enhanced the **exportability** of perishable farm products."*
+

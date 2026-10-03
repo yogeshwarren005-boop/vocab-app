@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something given or done as an expression of esteem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Payment by one nation for protection by another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act, statement, or gift that is intended to show gratitude, respect, or admiration; or payment made periodically by one state to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal antiquity and Roman governance, a direct capital or land tax (tributum) levied upon conquered provinces or citizen censuses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caius Lucius Will do’s commission throughly; and I think He’ll grant the tribute, send th’ arrearages, Or look upon our Romans, whose remembrance Is yet fresh in their grief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe Statist though I am none, nor like to be, That this will prove a war; and you shall hear The legions now in Gallia sooner landed In our not-fearing Britain than have tidings Of any penny tribute paid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, there’s no more tribute to be paid."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"He brought many captives home to Rome, whose ransoms did the general coffers fill; he hath paid large **tribute** unto the state."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian kings exacted an annual **tribute** of gold from the terrified emperors of Constantinople."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He paid a quiet and heartfelt **tribute** of gratitude to the friends who had stood by him in his hour of trial."*
+

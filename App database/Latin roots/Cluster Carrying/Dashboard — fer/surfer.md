@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who engages in surfboarding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who engages in surfboarding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides ocean waves on a surfboard; or the surf duck (scoter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary cultural sociology, an enthusiast of marine board riding, or a navigator exploring the hypertext nodes of the World Wide Web.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"He convinced no one while he lived; even his disciples betrayed him--a thing even brigands would not have done by their chief--so far was he from improving them, and so little ground is there for saying that he foretold to them what he should surfer."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"Out there, through the boiling breakers, came the royal **surfer**, riding the foaming crest like a bronze sea-god."*
+> - 📜 **Mark Twain (*Roughing It*):** *"I tried surf-bathing once at Waikiki, but unlike the native **surfer**, I found myself instantly buried under tons of churning foam."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The young islanders plunged into the roaring surf, each **surfer** matching his skill against the giant combers."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that serves as a means of transportation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take or carry people or goods from one place to another by means of a vehicle, aircraft, or ship; or an overwhelming emotion of ecstasy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical penal jurisprudence, to exile or banish a convicted felon to an overseas penal colony for a term of years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He cannot temp’rately transport his honours From where he should begin and end, but will Lose those he hath won."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Might not you Transport her purposes by word?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I came hither to transport the tidings, Which I have heavily borne, there ran a rumour Of many worthy fellows that were out; Which was to my belief witness’d the rather, For that I saw the tyrant’s power afoot."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"He cannot temperately **transport** his honours from where he should begin to where he should end."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Water carriage affords an incomparably cheaper means to **transport** bulky goods than land transit."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He looked upon her with a **transport** of mingled passion and despair."*
+

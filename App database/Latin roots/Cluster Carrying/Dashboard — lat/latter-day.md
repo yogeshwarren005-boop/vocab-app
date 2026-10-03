@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the present or recent times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to the present or recent times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the present time or recent times; modern; or belonging to the final period of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, designating members of the Church of Jesus Christ of Latter-day Saints (Mormons) awaiting the millennial dispensation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latter-day designates belonging to the present or recent times."*
+> - 📜 **Thomas Carlyle (*Latter-Day Pamphlets*):** *"In these **latter-day** times of confusion, men wander without compass or spiritual guiding light."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The emigrants belonged to the **Latter-day** Saints, seeking a home far in the desert valleys of Utah."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A **latter-day** Saint Theresa finds no coherent social order ready to receive her ardent spiritual aspirations."*
+

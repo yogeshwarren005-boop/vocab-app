@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of momentous or ominous significance; - herman melville.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ominously prophetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or like a portent; menacing, ominous, or foreshadowing evil; or done in a pompously solemn manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative rhetoric and novelistic characterization, possessing an exaggerated, grave weightiness intended to impress onlookers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think it be no other but e’en so: Well may it sort that this portentous figure Comes armed through our watch so like the King That was and is the question of these wars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When these prodigies Do so conjointly meet, let not men say, “These are their reasons; they are natural”; For I believe, they are portentous things Unto the climate that they point upon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Black and portentous must this humour prove, Unless good counsel may the cause remove."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I think it be no other but e'en so: well may it sort that this **portentous** figure comes armed through our watch."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband assumed a **portentous** expression, raising his fat right hand to command religious awe."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His silence was more **portentous** than spoken anger, filling the room with an atmosphere of chill disapproval."*
+

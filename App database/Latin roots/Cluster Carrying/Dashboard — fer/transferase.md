@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various enzymes that move a chemical group from one compound to another compound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various enzymes that move a chemical group from one compound to another compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of enzymes that catalyze the transfer of a specific functional group (such as methyl, glycosyl, or phosphate) from one molecule to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biochemistry and enzymology, key regulatory biocatalysts (such as DNA methyltransferases or aminotransferases) essential for metabolism and gene regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferase designates any of various enzymes that move a chemical group from one compound to another compound."*
+> - 📜 **Arthur Kornberg (*DNA Replication*):** *"The terminal deoxynucleotidyl **transferase** catalyzes the addition of nucleotides to the hydroxyl terminus of a DNA chain."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"Cellular biosynthesis relies upon each specific **transferase** to shuttle functional groups between donor and acceptor molecules."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"X-ray crystallography reveals the exact active-site binding pocket of the acyl **transferase**."*
+

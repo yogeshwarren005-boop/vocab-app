@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been fertilized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having been fertilized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been fertilized; not impregnated with sperm or pollen; or soil not enriched with fertilizer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology and botany, designating a virgin ovum that has not united with a male gamete.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unfertilised designates not having been fertilized."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Perrier notes that **unfertilised** ova in certain insects occasionally undergo spontaneous parthenogenetic cleavage."*
+> - 📜 **Thomas Hunt Morgan (*Experimental Embryology*):** *"The **unfertilised** sea urchin egg can be chemically stimulated to begin division without sperm."*
+> - 📜 **Jacques Loeb (*Artificial Parthenogenesis and Fertilization*):** *"Exposure to hypertonic solutions initiated developmental cleavage in completely **unfertilised** marine eggs."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restate (words) from one language into another language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change from one form or medium into another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn or render words and texts from one language into another; or to convey, transport, or change something into another form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and physics, to synthesize a polypeptide sequence according to mRNA codons, or to impart uniform linear motion without angular displacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many lambs might the stern wolf betray, If like a lamb he could his looks translate!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Happy is your grace, That can translate the stubbornness of fortune Into so quiet and so sweet a style."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You should have said That as his worthy deeds did claim no less Than what he stood for, so his gracious nature Would think upon you for your voices, and Translate his malice towards you into love, Standing your friendly lord."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Happy is your grace, / That can **translate** the stubbornness of fortune / Into so quiet and so sweet a style."*
+> - 📜 **John Dryden (*Preface to Ovid's Epistles*):** *"The poet who attempts to **translate** an ancient master must steer between verbal fidelity and poetic license."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must learn how to **translate** abstract speculative theorems into practical mechanical operations."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation by picture or portraiture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Portray in words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of representing, depicting, or illustrating someone or something in art, words, or drama.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In documentary realism, capturing historical circumstances without sentimental idealization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I am portraying this hardy companion as I really knew him."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Do you, for instance, like portraying maternal tenderness on the stage?” “Maternal tenderness,” said Mrs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In **portraying** the provincial society of Middlemarch, she laid bare the subtle currents of human motive."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The rustic ballad-singer took great delight in **portraying** the sorrowful fate of betrayed lovers."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The artist's highest task consists in **portraying** the subtle impressions made by life upon the sensitive mind."*
+

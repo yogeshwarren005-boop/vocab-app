@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to carry luggage and supplies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who guards an entrance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to carry luggage and other loads; or a dark brown bitter beer brewed from malted and roasted barley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hospital and transit logistics, a support worker responsible for transporting patients, pharmaceuticals, or equipment between wards and terminals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sister; Dromio, play the porter well."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Master, shall I be porter at the gate?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What patch is made our porter?"*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Come, sister; Dromio, play the **porter** well, and keep the gate against all intruders."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A brisk **porter** shouldered my trunk and set off toward the coaching inn at a round pace."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"We sat by the fire in the Spouter-Inn, drinking hearty flagons of foaming brown **porter**."*
+

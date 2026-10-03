@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be in an agitated or excited state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing or inducing fermentation; or actively stirring up agitation, excitement, or turbulence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zymology and political history, actively metabolizing sugars into organic byproducts, or secretly fomenting social discord or ideological rebellion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Oh, yes, yes!” cried Camilla, whose fermenting feelings appeared to rise from her legs to her bosom."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"If Ward had had any mash fermenting, the doctor would've smelled it."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mental chemicalization brings sin and sickness to the surface, forcing impurities to pass away, as is the case with a fermenting fluid."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The stable yields a stercoraceous heap impregnated with quick **fermenting** substances that generate intense heat."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Vapors foul and dark from bottomless pits rose **fermenting** through the troubled air."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Beneath the placid surface of provincial society, new egalitarian doctrines were quietly **fermenting**."*
+

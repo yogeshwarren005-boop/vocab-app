@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grow rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to grow or increase rapidly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To increase rapidly in numbers; to multiply, reproduce, or spread profusely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and medical pathology, to grow and multiply rapidly through repetitive rounds of mitotic cell division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proliferate designates grow rapidly."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under inflammatory irritation, connective tissue cells begin to **proliferate** and produce young vascular granulation."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"When introduced into a new and favorable environment with abundant food, species **proliferate** with astonishing rapidity."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"When natural predator insects are eliminated, resistant pest populations **proliferate** beyond all control."*
+

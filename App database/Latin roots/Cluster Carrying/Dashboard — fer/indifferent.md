@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a lack of interest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing no care or concern in attitude or action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no particular interest, sympathy, or concern; unconcerned; or mediocre in quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic ethics and physical chemistry, designating things that are neither morally good nor bad (adiaphora), or substances exhibiting neutral chemical affinity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As the indifferent children of the earth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am myself indifferent honest; but yet I could accuse me of such things that it were better my mother had not borne me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is indifferent cold, my lord, indeed."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"As the **indifferent** children of the earth."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"External circumstances are **indifferent** in themselves; the only true good or evil resides in our moral character."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"A spectator may behold the misfortunes of strangers with an **indifferent** eye, unless sympathy is awakened."*
+

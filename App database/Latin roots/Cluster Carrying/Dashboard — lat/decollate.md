@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut the head of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut the head of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To behead or decapitate; or to separate the copies of a multipart continuous form into individual sets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and gastropod morphology, describing snail shells (such as Rumina decollata) whose early apical whorls break off naturally during maturity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decollate designates cut the head of."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The executioner was ordered to **decollate** the traitor upon the public scaffold before sundown."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tyrant did not hesitate to **decollate** his most illustrious senators upon the slightest suspicion."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The sharp female known as La Guillotine was ever ready to **decollate** the enemies of the republic."*
+

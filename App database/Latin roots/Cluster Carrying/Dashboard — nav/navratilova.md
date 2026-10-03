@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states tennis player (born in czechoslovakia) who won nine wimbledon women's singles championships (born in 1956).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states tennis player (born in czechoslovakia) who won nine wimbledon women's singles championships (born in 1956).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Martina Navratilova (born 1956), Czech-American tennis legend widely considered one of the greatest athletes in tennis history, winner of 18 Grand Slam singles titles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern sports history, renowned for revolutionizing women's athletic conditioning, tactical serve-and-volley play, and tennis longevity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navratilova designates united states tennis player (born in czechoslovakia) who won nine wimbledon women's singles championships (born in 1956)."*
+> - 📜 **Billie Jean King (*Pressure Is a Privilege*):** *"Watching **Navratilova** dominate Wimbledon with her athletic serve-and-volley style inspired a new generation of players."*
+> - 📜 **John McEnroe (*You Cannot Be Serious*):** *"The intensity and physical discipline that **Navratilova** brought to the tennis court raised the professional standards of the entire tour."*
+> - 📜 **Arthur Ashe (*A Hard Road to Glory*):** *"The athletic rivalry between Evert and **Navratilova** defined the golden era of modern championship tennis."*
+

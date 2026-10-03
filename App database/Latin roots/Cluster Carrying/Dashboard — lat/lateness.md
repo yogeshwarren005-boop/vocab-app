@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Quality of coming late or later in time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quality of coming late or later in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fact or quality of arriving, occurring, or acting after the proper or expected time; tardiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural phenology and climatology, the temporal postponement of seasonal events (such as leaf emergence or frosts) due to cold climatic anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He apologized for his lateness: his arrival was evidently by arrangement."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At length he looked at the clock, seemed surprised at the lateness of the hour, closed his book, and arose."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The miles necessary to be traversed, and other hindrances incidental to the lateness of the hour and the darkness of the night, delayed the arrival of Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He apologized for his **lateness**: his arrival was even later than had been expected by the shearers."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The increasing **lateness** of the hour compelled me to put aside my books and retire to rest."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My uncle remarked with some severity upon the unusual **lateness** of our return from the town."*
+

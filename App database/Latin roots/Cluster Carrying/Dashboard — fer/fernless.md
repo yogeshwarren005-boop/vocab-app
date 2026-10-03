@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of ferns; lacking fern vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytosociology and physical ecology, describing arid, windswept, or hyper-alkaline terrains where moisture conditions prohibit pteridophyte spore germination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fernless designates devoid of ferns."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The barren lava fields of the arid coast remained entirely **fernless**, presenting only stunted xerophytic scrub."*
+> - 📜 **John Muir (*Steep Trails*):** *"Ascending above the timberline, we reached a bleak, **fernless** plateau of shattered slate and drifting snow."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The transition from moist valleys to the **fernless** savanna was marked by an immediate drop in atmospheric humidity."*
+

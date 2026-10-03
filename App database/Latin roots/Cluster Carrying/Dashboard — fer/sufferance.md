@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Patient endurance especially of pain or distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to tolerate or accept people or situations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity to endure hardship or pain with patience; endurance; or passive permission or toleration without formal approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In real property law, a tenancy at sufferance arising when a tenant wrongfully holds over possession after the expiration of a lawful lease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some villains of my court Are of consent and sufferance in this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Still have I borne it with a patient shrug, / For **sufferance** is the badge of all our tribe."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"A tyrant rules not by the consent of the governed, but solely through their temporary **sufferance**."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"An estate at **sufferance** is where one comes into possession of land by lawful title, but keeps it afterwards without any title at all."*
+

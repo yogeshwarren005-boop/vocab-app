@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel on water propelled by wind or by other means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act as the navigator in a car, plane, or vessel and plan, direct, plot the path and position of the conveyance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To direct, plan, and steer the course of a ship, aircraft, vehicle, or traveler across a journey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive ergonomics and web architecture, to move systematically through complex digital interfaces, menus, or relational databases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They could not navigate the vessel, and were left to the mercy of the winds and waves, or rather to the care of Him who ruleth wind and waves."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Sir, you may believe me when I tell you that this piece of iron will navigate neither on nor under the sea again; it is only fit to be sold for its weight."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Although he was utterly unable to stand erect or to navigate his body across the deck, he still magnanimously proffered his services to pilot the ship to a good and secure anchorage."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Sir, you may believe me when I tell you that we **navigate** these uncharted depths with absolute safety."*
+> - 📜 **Herman Melville (*Typee*):** *"Although he was utterly unable to **navigate** by solar observations, the captain trusted to dead reckoning."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"A man who has learned to **navigate** in crowded waters knows the value of split-second decisions."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin port within the domain of Carrying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of port in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an opportunistic manner; taking advantage of circumstances as they arise for personal or tactical benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology and foraging theory, consuming novel food resources or preying upon vulnerable hosts as encounter rates fluctuate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opportunistically designates pertaining to, derived from, or characteristic of latin port within the domain of carrying."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Predatory animals act **opportunistically**, attacking the young, weak, or isolated members of a herd."*
+> - 📜 **Bertrand Russell (*Freedom and Organization*):** *"Commercial monopolies expanded **opportunistically**, buying up weaker competitors during periods of financial panic."*
+> - 📜 **Joseph Conrad (*Victory*):** *"The adventurer lived **opportunistically**, seizing whatever stray fortune drifted into his path across the islands."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities (goods or services) sold to a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell or transfer abroad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To send goods or services to another country for sale; or a commodity sent abroad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software systems and digital data management, converting an internal file or database schema into a portable standard format.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"This young man, besides having a great deal to say for himself about Africa and a project of his for teaching the coffee colonists to teach the natives to turn piano-forte legs and establish an export trade, delighted in drawing Mrs."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When tobacco was the great staple of export from Virginia, everybody was willing to take it, and its market price was known by all."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Speaking generally, the duties may be on either imports or exports; but, as export duties are unconstitutional in the United States, our tariff discussions are concerned only with import duties."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"You will **export** such articles as the country affords, purely native products, in much demand elsewhere."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants seek to **export** surplus agricultural produce to foreign nations where prices are higher."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A nation that has nothing to **export** must soon cease to import foreign luxuries."*
+

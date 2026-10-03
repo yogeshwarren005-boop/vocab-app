@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnishing support or assistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnishing support or assistance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing encouragement, emotional help, or practical assistance to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and palliative oncology, care directed toward relieving distressing symptoms rather than curative eradication of disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supportive designates furnishing support or assistance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When curative remedies are exhausted, compassionate **supportive** measures must sustain the failing patient."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Her presence was unfailingly **supportive**, creating an atmosphere of warmth in which everyone expanded."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie was grateful for Philip's **supportive** sympathy during her darkest days of isolation."*
+

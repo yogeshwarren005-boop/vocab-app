@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in tribology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in tribology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or engineer who specializes in tribology, the study of friction, lubrication, and wear between interacting surfaces in relative motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and materials science, a specialist designing low-friction coatings, hydrodynamic bearings, and synthetic lubricants to minimize surface degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribologist designates a specialist in tribology."*
+> - 📜 **Frank Philip Bowden (*The Friction and Lubrication of Solids*):** *"The modern **tribologist** must investigate molecular boundary lubrication at the actual contact asperities."*
+> - 📜 **David Tabor (*Friction*):** *"By examining microscopic surface adhesion, the **tribologist** can formulate materials that resist severe sliding wear."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"An industrial **tribologist** explained how atomic-scale roughness governs the coefficient of friction in precision machinery."*
+

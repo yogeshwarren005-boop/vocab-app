@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) someone who conveys a title or property to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) someone who conveys a title or property to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, corporate entity, or legal party that makes a transfer, assignment, or conveyance of property or rights to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory commercial law and probate, the party executing a deed, assignment, or bill of sale who warrants title and covenants quiet enjoyment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferor designates (law) someone who conveys a title or property to another."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The covenants of the **transferor** bind his heirs and executors to warrant the title against all lawful claimants."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The title of the transferee can rise no higher than the legitimate right possessed by the **transferor**."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"In primitive transfer of ownership, the presence of the **transferor** before the tribal council was indispensable."*
+

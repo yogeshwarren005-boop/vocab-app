@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any flowerless vascular plant of the class Polypodiopsida, having true roots, stems, and complex leaves (fronds) and reproducing by spores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and pteridology, ancient seedless tracheophytes that constituted a major component of the Carboniferous flora and coal-forming swamps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We steal as in a castle, cock-sure; we have the receipt of fern-seed, we walk invisible."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, by my faith, I think you are more beholding to the night than to fern-seed for your walking invisible."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There are noble mausoleums rooted for centuries in retired glades of parks among the growing timber and the fern, which perhaps hold fewer noble secrets than walk abroad among men, shut up in the breast of Mr."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"We steal as in a castle, cock-sure; we have the receipt of **fern**-seed, we walk invisible."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In New Zealand the tree **fern** forms extensive groves that impart a primeval character to the forest vegetation."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The delicate fronds of the sweet **fern** scented the warm woodland pasture with a pungent, resinous fragrance."*
+

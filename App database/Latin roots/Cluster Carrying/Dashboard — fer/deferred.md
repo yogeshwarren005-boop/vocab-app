@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold back to a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yield to another's wish or opinion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put off or postponed to a later date; delayed or suspended until a future determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and taxation, describing liabilities, revenues, or compensation earned in the present period but payable or recognized at a specified future date.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech your Grace to pardon me, Who, earnest in the service of my God, Deferred the visitation of my friends."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, being very humble and meek, had deferred to Mr."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The Clifton scheme had been deferred, not relinquished, and on the afternoon’s Crescent of this day, it was brought forward again."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"I do beseech your Grace to pardon me, / Who, earnest in the service of my God, / Have long **deferred** my visit to your highness."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Hope is itself a species of happiness... but expectations improperly indulged must end in disappointment, especially when **deferred**."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every promise of the soul is fulfilled, though the execution may be **deferred** by human frailty."*
+

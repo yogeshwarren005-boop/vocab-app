@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swimming crabs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swimming crabs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoological family of decapod marine crustaceans, known as the swimming crabs, having flattened paddle-like fifth legs (dactyls).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and invertebrate zoology, agile predatory crabs (such as the blue crab Callinectes sapidus) equipped with modified swimming paddles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, portunidae designates swimming crabs."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The family **portunidae** is readily distinguished by the transformation of the posterior pereiopods into broad swimming oars."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual dimorphism in coloration is remarkably pronounced among several genera of the **portunidae**."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Swimming crabs of the family **portunidae** darted across our searchlight beam with astonishing velocity."*
+

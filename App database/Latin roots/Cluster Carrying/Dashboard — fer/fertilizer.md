@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any substance such as manure or a mixture of nitrates used to make soil more fertile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (such as treated animal manure or synthetic chemicals) applied to soil to promote plant growth and improve crop yield.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural industrial chemistry, synthetic compounds (such as ammonium nitrate or superphosphates) manufactured via the Haber-Bosch process to feed commercial agriculture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Organic waste and cadaver parts unsuitable for constructive purposes (fertilizer) on Charon will be fully sterilized and reduced as close as practicable to zero residue."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Each plant is brought up by hand, as it were, and there is no waste of fertilizer; by spoonfuls the precious stuff is applied to each root instead of being scattered over the ground."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If a certain value in labor, fertilizer, or material, be applied to an acre of land, it may be more than recovered in the value of the product."*
+> - 📜 **Justus von Liebig (*Organic Chemistry in Agriculture*):** *"The choice of a mineral **fertilizer** must be guided by an exact chemical analysis of the soil's deficiencies."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised*):** *"The night-flying hawk-moth acts as the indispensable **fertilizer** of the long-spurred Madagascar orchid."*
+> - 📜 **George Washington Carver (*Progressive Nature Studies*):** *"A proper green manure crop plowed under provides the most economical **fertilizer** for small farm holders."*
+

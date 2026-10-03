@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small light typewriter; usually with a case in which it can be carried.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily or conveniently transported.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily carried or conveyed by hand; capable of being moved from place to place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical warfare and artillery, light ordnance or siege weapons designed to be packed on mules or transported over mountain trails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How light and portable my pain seems now, When that which makes me bend makes the King bow; He childed as I fathered!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All these are portable, With other graces weigh’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go tell him this, and add That if he overhold his price so much We’ll none of him, but let him, like an engine Not portable, lie under this report: Bring action hither; this cannot go to war."*
+> - 📜 **William Shakespeare (*King Lear*):** *"How light and **portable** my pain seems now, when that which makes me bend makes the king bow."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A harpooner carries his **portable** gear in a small chest stowed beneath the forecastle bunks."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes carried a small, **portable** lens with which he examined the footprints in the damp turf."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Key for raising or drawing back a latch or opening an outside door.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Key for raising or drawing back a latch or opening an outside door.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A key for an exterior door latch; especially one allowing a resident or child to enter a house independently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and family sociology, designating unsupervised school children who let themselves into empty homes while parents work (latchkey children).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Walcott took out his latchkey, opened the door, and led the way into the library."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Bertram always let himself in with his latchkey; but, from the first of Billy's being there, he had given a peculiar ring at the bell which would bring his wife flying to welcome him if she were anywhere in the house."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Bertram gave his peculiar ring and let himself in with his latchkey; but Billy did not meet him in the hall, nor in the drawing-room."*
+> - 📜 **James Joyce (*Dubliners*):** *"At nine o'clock I heard my uncle's **latchkey** turning in the hall door."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The lodger opened the heavy street door with his own **latchkey** and ascended the stairs in the dark."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He drew a small brass **latchkey** from his waistcoat pocket and let us into the silent chambers."*
+

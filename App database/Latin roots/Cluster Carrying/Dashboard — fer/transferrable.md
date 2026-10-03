@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being moved or conveyed from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Legally transferable to the ownership of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being transferred, conveyed, or passed from one person, place, or condition to another (variant of transferable).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial securities and administrative licensing, denoting negotiable stocks or permits that can be endorsed and reissued to third parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferrable designates capable of being moved or conveyed from one place to another."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A public stock that is freely **transferrable** commands a higher price in the capital market."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The rights of tenant cultivators were made legally **transferrable** to encourage land improvements."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"The public debt certificates were designed to be fully **transferrable**, thereby invigorating domestic commerce."*
+

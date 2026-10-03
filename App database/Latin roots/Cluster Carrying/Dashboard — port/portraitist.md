@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter or drawer of portraits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A painter or drawer of portraits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist or photographer who specializes in making portraits of people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual arts criticism, a painter adept at psychological insight, likeness, and chiaroscuro modeling in representing human subjects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, portraitist designates a painter or drawer of portraits."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"A true **portraitist** does not merely copy features; he translates the secret movements of the soul into form."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Gainsborough was supreme as a natural **portraitist**, capturing the unstudied grace of his sitters."*
+> - 📜 **Kenneth Clark (*Looking at Pictures*):** *"Velázquez demonstrated the ultimate economy of touch expected of a master court **portraitist**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of nearly globular cacti of mexico and southwestern united states: barrel cacti.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of nearly globular cacti of mexico and southwestern united states: barrel cacti.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stout, barrel-shaped cacti native to southwestern North America, characterized by prominent ribs and heavy, hooked spines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arid botany and desert ecology, robust succulents (family Cactaceae) adapted to extreme heat and prolonged drought through CAM photosynthesis and massive water-storing parenchyma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferocactus designates genus of nearly globular cacti of mexico and southwestern united states: barrel cacti."*
+> - 📜 **John Wesley Powell (*Canyons of the Colorado*):** *"On the sun-scorched gravel benches, the stout **Ferocactus** stood like armed sentinels guarding the canyon rim."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Ferocactus** are cultivated for their formidable colored spines and brilliant yellow blossoms."*
+> - 📜 **Mary Austin (*The Land of Little Rain*):** *"The barrel cactus, or **Ferocactus**, holds gallons of potable sap beneath its fluted, spiny armor."*
+

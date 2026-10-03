@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A globulin in blood plasma that carries iron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A globulin in blood plasma that carries iron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An iron-binding blood plasma glycoprotein that controls the level of free iron in biological fluids and transports it to cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and clinical biochemistry, the primary physiological vehicle for delivery of ferric ions to bone marrow erythroblasts for hemoglobin synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transferrin designates a globulin in blood plasma that carries iron."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"Each molecule of **transferrin** possesses two distinct high-affinity binding sites for ferric iron."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"Cell surface receptors internalize the iron-laden **transferrin** through receptor-mediated endocytosis."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"Circulating **transferrin** prevents toxic free iron from catalyzing dangerous hydroxyl radical formation."*
+

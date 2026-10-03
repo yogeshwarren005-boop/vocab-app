@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a beseeching manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a beseeching manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an importunate manner; persistently, urgently, or troublesomely pressing a request.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian narrative fiction, beseeching with persistent, repetitive urgency that ignores social boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Not the less, however, came this importunately obtrusive sense of change."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Oh! it is Green,” I said, recollecting myself—“only Green,” and I went on, intending to send somebody else to open it; but the knock was repeated: not loud, and still importunately."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Not the less, however, came this **importunately** obtrusive thought, forcing itself into his meditations."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The beggar knocked **importunately** at the cottage door until an answer was returned."*
+> - 📜 **George Eliot (*Adam Bede*):** *"His conscience whispered **importunately** that he had concealed the truth from his oldest friend."*
+

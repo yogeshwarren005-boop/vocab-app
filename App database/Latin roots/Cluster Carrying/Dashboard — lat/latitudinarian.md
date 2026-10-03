@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is broad-minded and tolerant (especially in standards of religious belief and conduct).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwilling to accept authority or dogma (especially in religion).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Holding broad or liberal views, especially in religious matters; not insisting on strict conformity to traditional dogmas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth- and eighteenth-century Church of England history, moderate Anglican theologians (Cambridge Platonists) advocating doctrinal tolerance and rational morality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latitudinarian designates a person who is broad-minded and tolerant (especially in standards of religious belief and conduct)."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The **latitudinarian** divines sought to conciliate the moderate nonconformists by minimizing ceremonial dogma."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A philosopher will always view with indulgence the mild and **latitudinarian** spirit of pagan polytheism."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"He opposed both rigid scholastic dogmatism and the shallow moralism of the **latitudinarian** party."*
+

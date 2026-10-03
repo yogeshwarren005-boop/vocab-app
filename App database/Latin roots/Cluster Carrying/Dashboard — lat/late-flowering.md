@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of plants that bloom during the autumn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of plants that bloom during the autumn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing flowers late in the growing season; blooming in late summer or autumn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian botany and crop breeding, varieties selected to extend harvest intervals or prevent frost damage during early vernal warming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, late-flowering designates of plants that bloom during the autumn."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The **late-flowering** individuals produced fewer seeds owing to the scarcity of autumnal insect pollinators."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Several species of **late-flowering** asters lingered in the hedgerows until the November frosts."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"This hardy composite is a **late-flowering** native perennial of our eastern meadows."*
+

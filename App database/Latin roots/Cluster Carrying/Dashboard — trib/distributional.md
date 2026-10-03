@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to spatial distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to spatial distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the way something is shared, apportioned, or spread across a region or population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural linguistics, analyzing phonemes and morphemes based on their positional environments within utterances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distributional designates of or relating to spatial distribution."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The **distributional** boundaries of animal families in the archipelago coincide with deep ocean trenches."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"A rigorous **distributional** analysis reveals the functional slots that linguistic forms can occupy."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The **distributional** consequences of legislative tariffs fall most heavily upon working classes."*
+

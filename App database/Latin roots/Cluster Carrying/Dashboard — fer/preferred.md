@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like better; value more highly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Select as an alternative over another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liked better than alternatives; chosen or valued in preference to other options.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance, designating preferred stock that gives holders priority over common stockholders in dividends and liquidation proceeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace, son!—And show some reason, Buckingham, Why Somerset should be preferred in this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Large gifts have I bestowed on learned clerks, Because my book preferred me to the King."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stokesley and Gardiner, the one of Winchester, Newly preferred from the King’s secretary; The other, London."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Peace, son! And show some reason, Buckingham, / Why Somerset should be **preferred** in this."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley was the only person who had ever ventured to point out her faults, and she **preferred** his judgment to all flattery."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain floral varieties were consistently **preferred** by gardeners on account of their vibrant colors."*
+

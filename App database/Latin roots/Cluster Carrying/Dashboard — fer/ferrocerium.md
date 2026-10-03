@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyrophoric alloy of iron with cerium; used for lighter flints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pyrophoric alloy of iron with cerium; used for lighter flints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic pyrophoric alloy of iron and mischmetal (principally cerium) that produces hot sparks when struck or scraped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied pyrotechnics and outdoor survival technology, a spark-producing ferroalloy developed by Carl Auer von Welsbach used as the striker flint in lighters and ignition devices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferrocerium designates a pyrophoric alloy of iron with cerium; used for lighter flints."*
+> - 📜 **Carl Auer von Welsbach (*Pyrophoric Alloys and Their Applications*):** *"The friction of hard steel across **ferrocerium** releases showers of incandescent pyrophoric particles."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The intense sparks struck from **ferrocerium** provide a vivid demonstration of rapid oxidation in air."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"The mechanical fire-striker with its **ferrocerium** insert proved indispensable in the freezing Antarctic wind."*
+

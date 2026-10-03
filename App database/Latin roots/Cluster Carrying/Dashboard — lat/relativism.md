@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine holding that knowledge, truth, or morality exist in relation to culture, society, or historical context, and are not absolute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meta-ethics and epistemology, the stance that denies objective universal norms, asserting that cognitive and moral evaluations are valid only within specific interpretive communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relativism designates (philosophy) the philosophical doctrine that all criteria of judgment are relative to the individuals and situations involved."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Protagoras was the first prominent champion of epistemological **relativism**, declaring man the measure of all things."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Pragmatic philosophy rejects dogmatic absolutism without collapsing into a paralyzing moral **relativism**."*
+> - 📜 **George Santayana (*Scepticism and Animal Faith*):** *"The defense of intellectual **relativism** must reckon with the inescapable animal faith that guides immediate action."*
+

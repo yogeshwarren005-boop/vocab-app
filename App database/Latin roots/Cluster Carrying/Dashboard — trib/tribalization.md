@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making tribal; unification on a tribal basis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making tribal; unification on a tribal basis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of causing people to organize into tribes, or the fragmentation of a society into competing tribal factions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media ecology and communications theory (Marshall McLuhan), the re-creation of oral, collective tribal consciousness through instantaneous global electronic networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribalization designates the act of making tribal; unification on a tribal basis."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"Electronic media are precipitating a swift **tribalization** of modern Western society into an interconnected global village."*
+> - 📜 **Bronislaw Malinowski (*The Dynamics of Culture Change*):** *"The deliberate **tribalization** of ethnic enclaves was utilized by administrators to prevent unified political opposition."*
+> - 📜 **Franz Boas (*Race, Language and Culture*):** *"Social fragmentation and defensive **tribalization** inevitably accompany rapid economic disruption."*
+

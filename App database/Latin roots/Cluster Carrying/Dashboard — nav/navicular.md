@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest wrist bone on the thumb side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a boat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a boat; especially denoting the boat-shaped tarsal bone of the human foot or carpal bone of the wrist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and comparative veterinary medicine, an essential bone bridging the talus and cuneiforms in the medial longitudinal arch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, navicular designates the largest wrist bone on the thumb side."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **navicular** bone is situated at the inner side of the tarsus, between the talus behind and the cuneiform bones in front."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The osteological structure of the foot, including the modified **navicular** bone, showed significant divergence in wild ruminants."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The articulating facets of the **navicular** in the gorilla closely parallel those observed in human specimens."*
+

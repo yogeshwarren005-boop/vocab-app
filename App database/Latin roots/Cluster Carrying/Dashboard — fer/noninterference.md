@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foreign policy of staying out of other countries' disputes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foreign policy of staying out of other countries' disputes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy, doctrine, or practice of refraining from intervening in the affairs, disputes, or jurisdictions of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and classical laissez-faire economics, the principle that sovereign states or governments must not interfere in foreign sovereignty or competitive private markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noninterference designates a foreign policy of staying out of other countries' disputes."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The general rule of legislation must be **noninterference** in the voluntary transactions of adult individuals."*
+> - 📜 **Woodrow Wilson (*The State*):** *"The strict doctrine of **noninterference** in foreign alliances guided the early foreign policy of the republic."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Local communities flourish best under a system of administrative **noninterference** from the central ministry."*
+

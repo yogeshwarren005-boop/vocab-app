@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or treat as relative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider or treat as relative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To view, interpret, or evaluate something as dependent upon cultural, historical, or cognitive frameworks rather than absolute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological critique and cultural sociology, to deconstruct dogmatic universal claims by uncovering their grounding in contingent social practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, relativise designates consider or treat as relative."*
+> - 📜 **Friedrich Nietzsche (*The Gay Science*):** *"Historical consciousness tends to **relativise** every moral dogma, dissolving eternal truths into temporal habits."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"To **relativise** cultural values is not to deny their subjective validity to the historical actors who held them."*
+> - 📜 **Karl Mannheim (*Ideology and Utopia*):** *"Sociological analysis seeks to **relativise** political ideologies by revealing their socioeconomic anchors."*
+

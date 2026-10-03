@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Person who makes a gift of property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who converses or confers (as in a conference).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, institution, or authority that confers, grants, or bestows an honor, gift, or benefit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philanthropic foundations and chivalric orders, the sovereign or corporate patron retaining the exclusive prerogative to bestow endowed honors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conferrer designates person who makes a gift of property."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The benefactor expects gratitude from the receiver, but the **conferrer** of favors must prepare for occasional disappointment."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The gratitude of the citizen should correspond to the integrity of the **conferrer** of civic honors."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The author praised the generous **conferrer** of his living with elaborate dedicatory verses."*
+

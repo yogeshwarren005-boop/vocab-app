@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a differential manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a differential manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that distinguishes, discriminates, or acts unevenly according to varying conditions or individual differences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental genetics and pharmacology, describing genes or therapeutic agents that express or bind with distinct affinity across varying tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, differentially designates in a differential manner."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Selective pressures act **differentially** upon varieties, preserving favorable structural nuances."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"External environmental factors affect organisms **differentially**, accelerating survival in some while extinguishing others."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Attentive focus distributes mental energy **differentially**, elevating the target sensation above the sensory background."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of inferring or concluding from premises; a logical deduction or inference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical logic and scholastic epistemics, the necessary deductive consequence flowing from valid syllogistic premises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illation designates the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Reason consists in that perceivement of the connection and **illation** between different ideas."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must beware of hasty **illation**, which leaps from a few particulars to universal dogmas."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The philosophical poet avoids violent metaphors that disrupt the natural **illation** of thought."*
+

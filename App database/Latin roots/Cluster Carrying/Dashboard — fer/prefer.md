@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like better; value more highly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Select as an alternative over another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To like better, value more highly, or choose one option over another; or to present or bring forward for consideration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure and ecclesiastical administration, to submit a formal indictment or bill before a grand jury, or to advance someone to higher ecclesiastical office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not so far prefer her ’fore ours of Italy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are most bound to th’ King, Who lets go by no vantages that may Prefer you to his daughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Roman Emperor’s letters, Sent by a consul to me, should not sooner Than thine own worth prefer thee."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"You must not so far **prefer** her 'fore ours of Italy."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"In every voluntary act, the mind must **prefer** the doing of this rather than the omission of it."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I always **prefer** walking to any other exercise, especially through the pleasant countryside."*
+

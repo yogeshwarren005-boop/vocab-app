@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being transferred.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being transferred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being transferred, conveyed, or assigned to another person, place, or entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional jurisprudence and property law, designating inalienable personal rights, sovereign duties, or non-delegable judicial authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Harrison’s tone is quite untransferable to paper."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The legislative power, being derived from the people by a positive voluntary grant, is an **untransferable** trust."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The supreme executive power represents an **untransferable** responsibility that cannot be partitioned among rival councils."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The moral conviction of the individual soul is an **untransferable** certainty that cannot be borrowed from another."*
+

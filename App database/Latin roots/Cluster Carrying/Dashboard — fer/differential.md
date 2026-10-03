@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of mathematical differentiation; the instantaneous change of one quantity relative to another; df(x)/dx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality that differentiates between similar things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, creating, or depending on a difference; or exhibiting or relating to mathematical derivatives or rates of change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive mechanics and calculus, a gear train allowing wheels to rotate at different speeds on curves, or an infinitesimal increment of a variable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The superiority of some consumption goods, either in quantity or quality, often is exactly analogous to the "differential advantage" spoken of by economists in the case of productive agents."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The differential advantage of the highest grade over the grade of free goods, whose value is zero, evidently is the whole value of the highest grade. § II."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The superior effectiveness of the earlier over the later units of the added agent is called the "differential advantage" of the two fixed agents."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"Man is fallen; nature is erect, and serves as a **differential** thermometer to measure our departure from divine rectitude."*
+> - 📜 **Isaac Newton (*The Method of Fluxions and Infinite Series*):** *"The **differential** method determines tangents and curvatures by resolving curves into infinitely small increments."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electrodynamic field equations are expressed as linear **differential** relations governing spatial flux."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various widely distributed beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various widely distributed beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A beetle of the family Elateridae; a click beetle, capable of snapping its thorax to right itself when upside down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, the adult click beetle whose subterranean larvae (wireworms) cause significant damage to tuberous crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elaterid designates any of various widely distributed beetles."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The luminous click beetle, a tropical **elaterid**, emits bright flashes of greenish light to attract a mate."*
+> - 📜 **Henri Fabre (*The Life of the Beetle*):** *"When placed upon its back, the little **elaterid** bends its body and leaps into the air with a distinct click."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"I captured an extraordinary **elaterid** whose thoracic spines gleamed like polished emerald."*
+

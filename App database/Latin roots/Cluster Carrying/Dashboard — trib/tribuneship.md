@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of tribune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of tribune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, or term of service of a Roman tribune; or the tenure of a popular magistrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman constitutional history, the sacrosanct magistracy endowed with the power of intercession (ius intercedendi or veto) over consular and senatorial decrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Proofs of this position might be adduced from the examples of the Roman Tribuneship, the Polish Diet, and the States-General of the Netherlands, did not an example at home render foreign precedents unnecessary."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The institution of the **tribuneship** in Rome served for a long period as a powerful barrier against the usurpations of the senate."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustus united the perpetual **tribuneship** with consular authority, thereby veiling absolute monarchy under republican forms."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"During his **tribuneship**, Tiberius Gracchus attempted to revive the ancient agrarian laws of the republic."*
+

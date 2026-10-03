@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of illation or inference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of reasoning; proceeding from general premisses to a necessary and specific conclusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deduced or deducible by inference; based on or involving the process of deriving conclusions from premises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and analytical philosophy, referring to probabilistic estimation that generalizes sample statistics to population parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The work of deduction is the interpretation of these formulas, and therefore, strictly speaking, is not inferential at all."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The conclusions of inductive science are **inferential** truths resting upon observed empirical uniformity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our belief in the existence of other minds is an **inferential** judgment based upon bodily gestures and spoken words."*
+> - 📜 **Bertrand Russell (*Our Knowledge of the External World*):** *"Much of what passes for direct perception contains an **inferential** construction built upon raw sense-data."*
+

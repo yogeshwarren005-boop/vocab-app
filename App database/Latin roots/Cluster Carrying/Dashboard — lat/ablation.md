@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of a body part or tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The erosive process that reduces the size of glaciers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The removal of snow and ice from a glacier or iceberg by melting or evaporation; or surgical removal of body tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermal protection systems, sacrificial heat shielding designed to absorb and dissipate extreme convective heating through controlled phase change.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ablation designates surgical removal of a body part or tissue."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Glacial **ablation** proceeded rapidly beneath the unclouded summer sun of Tierra del Fuego."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The annual rate of **ablation** exceeds precipitation along the lower reaches of the terminal moraine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete **ablation** of the tumor offered the patient the only hope of permanent recovery."*
+

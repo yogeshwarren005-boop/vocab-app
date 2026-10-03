@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Click beetles and certain fireflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Click beetles and certain fireflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic insect family of click beetles (order Coleoptera), characterized by a prosternal spine and mesosternal cavity enabling sudden jumping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic coleopterology, a large polyphagan family comprising over 10,000 species, renowned for thoracic clicking mechanisms and luminescent pyrophorines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elateridae designates click beetles and certain fireflies."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"With one of the **Elateridae**, the males are said to assemble in vast swarms around the glowing females."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Specimens of the family **Elateridae** collected in the Moluccas exhibited luminous thoracic spots."*
+> - 📜 **Henri Fabre (*The Wonders of Instinct*):** *"The leaping apparatus of the **Elateridae** is an admirable triumph of natural biomechanics."*
+

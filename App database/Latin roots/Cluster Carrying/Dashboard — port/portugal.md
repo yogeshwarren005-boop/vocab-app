@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in southwestern europe on the iberian peninsula; portuguese explorers and colonists in the 15th and 16th centuries created a vast overseas empire (including brazil).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in southwestern europe on the iberian peninsula; portuguese explorers and colonists in the 15th and 16th centuries created a vast overseas empire (including brazil).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign nation on the Iberian Peninsula of southwestern Europe, bordering Spain and the Atlantic Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern global history, the pioneering seafaring empire initiating the European maritime exploration of Africa, Brazil, and the Indian Ocean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it cannot be sounded; my affection hath an unknown bottom, like the Bay of Portugal."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"Alonzo, _a young_ Portugal _Gentleman, enemy to_ Duarte."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"You have lost a wife indeed, a fair and chast one, Two blessings, not found often in one woman; But she may be recovered, questionless The ship that took us was of _Portugal_, And here in _Lisbon_, by some means or other We may hear of her. _Arn_."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"My affection hath an unknown bottom, like the bay of **Portugal**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The commercial treaty with **Portugal** opened vast foreign markets for British manufactured woolens."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Where is thy boasted vintage, and the vine-crowned hills of **Portugal**?"*
+

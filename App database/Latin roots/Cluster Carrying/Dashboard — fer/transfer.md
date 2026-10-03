@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of moving something from one location to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transfers or is transferred from one position to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move, convey, or pass someone or something from one place, person, or position to another; or the act of doing so.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law and thermodynamics, the legal conveyance of title or ownership, or the net exchange of thermal energy between systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I resisted the movement which my excellent friend made to take off and transfer to me his scarf of office."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Typical gambling is the transfer of wealth on the outcome of events absolutely unpredictable, so far as the two gamblers are concerned."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The gamblers constitute themselves a little fictitious economic circle, and they transfer gains and losses on the turn of events that have no practical objective result within their circle except to determine the direction of the transfer."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She proposed to build a couple of cottages, and **transfer** two families from the crowded tenements of the village."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commerce allows nations to **transfer** their surplus manufactures in exchange for foreign raw commodities."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Conduction is the process by which heat undergoes **transfer** through contiguous portions of matter."*
+

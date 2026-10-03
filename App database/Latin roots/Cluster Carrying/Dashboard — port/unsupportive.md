@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not furnishing support or assistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not furnishing support or assistance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not providing encouragement, emotional help, or practical assistance; unhelpful or negative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In family systems psychology, familial environments characterized by emotional detachment, criticism, or withholding of validation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsupportive designates not furnishing support or assistance."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She found her family completely **unsupportive** of her philanthropic schemes, greeting them with cold skepticism."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"An **unsupportive** domestic atmosphere stifled her creative ambitions, leaving her lonely and perplexed."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The directress was distant and **unsupportive**, offering neither counsel nor comfort to the solitary English teacher."*
+

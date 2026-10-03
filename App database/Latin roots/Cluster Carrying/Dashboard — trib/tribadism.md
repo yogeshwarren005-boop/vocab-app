@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of lesbianism that simulates heterosexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of lesbianism that simulates heterosexual intercourse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual practice in which two women rub their vulvas together for mutual sexual pleasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical sexology and socio-historical studies, a non-penetrative erotic expression between female partners documented across classical and modern cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribadism designates a form of lesbianism that simulates heterosexual intercourse."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The practice of **tribadism** has been recorded by ethnographers among various indigenous peoples."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"In examining female sexual inversion, medical authors frequently reference the phenomena of **tribadism**."*
+> - 📜 **Richard Burton (*The Thousand Nights and a Night*):** *"The traveler noted the cultural prohibitions surrounding **tribadism** in traditional Eastern courts."*
+

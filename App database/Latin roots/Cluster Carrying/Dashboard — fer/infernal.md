@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhabitant of hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or resembling hell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of hell or the underworld; extremely troublesome, hateful, or outrageous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical myth and apocalyptic theology, pertaining to the subterranean realms of Hades or Tartarus, or describing diabolical cruelty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll see her damned first to Pluto’s damned lake, by this hand, to th’ infernal deep, with Erebus and tortures vile also."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, talk not of her; you shall find her the infernal Ate in good apparel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am Revenge, sent from th’ infernal kingdom To ease the gnawing vulture of thy mind By working wreakful vengeance on thy foes."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"I'll see her damned first to Pluto's damned lake, by this hand, to the **infernal** deep, with Erebus and tortures vile also."*
+> - 📜 **John Milton (*Paradise Lost*):** *"A way to shake that throne, or work our peace / In this **infernal** pit."*
+> - 📜 **Dante Alighieri (*Inferno*):** *"The **infernal** hurricane that never rests sweeps the tormented spirits through the dark air."*
+

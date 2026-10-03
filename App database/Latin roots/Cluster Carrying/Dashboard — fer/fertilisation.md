@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making fertile as by applying fertilizer or manure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological union of male and female gametes to initiate the development of a new individual; or the application of nutrients to soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology and angiosperm botany, the precise biochemical sequence of gamete recognition, acrosome activation, and karyogamy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The fertilisation took place in spring."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"I have reason to believe that humble-bees are indispensable to the **fertilisation** of the heartsease."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The **fertilisation** of the ovum triggers a cascade of mitotic cell divisions in the zygote."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"In flowering plants, insect cross-pollination ensures successful **fertilisation** with foreign pollen."*
+

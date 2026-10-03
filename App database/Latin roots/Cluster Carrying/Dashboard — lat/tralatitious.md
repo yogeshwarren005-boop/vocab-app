@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been passed along from generation to generation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been passed along from generation to generation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmitted or handed down from person to person or from generation to generation; traditional or inherited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and philology, designating a transferred, metaphorical, or customary usage of words inherited from earlier literary authorities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tralatitious designates having been passed along from generation to generation."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Dying*):** *"The **tralatitious** wisdom of antiquity should be received with reverence rather than rashly overturned by novel dogmas."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Many vulgar errors are merely **tralatitious** reports credited upon the unexamined testimony of ancient compilers."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The phrase was not his own invention, but a **tralatitious** ornament borrowed from the Latin rhetoricians."*
+

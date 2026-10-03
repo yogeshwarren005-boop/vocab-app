@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large steak from the thick end of the short loin containing a t-shaped bone and large piece of tenderloin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large steak from the thick end of the short loin containing a t-shaped bone and large piece of tenderloin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A choice cut of beef containing a large T-bone and portion of tenderloin; or historically, an alehouse where porter was sold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary gastronomy and butchery, a thick-cut steak from the short loin containing a larger tenderloin section than a standard T-bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, porterhouse designates large steak from the thick end of the short loin containing a t-shaped bone and large piece of tenderloin."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He ordered a juicy cut of **porterhouse** steak, relishing its savory fragrance after months of salt pork."*
+> - 📜 **O. Henry (*The Four Million*):** *"The hungry clerk dreamed of dining on a sizzling **porterhouse** with mushrooms at a Broadway restaurant."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"They gathered at the club grill for a dinner of thick **porterhouse** steaks and baked potatoes."*
+

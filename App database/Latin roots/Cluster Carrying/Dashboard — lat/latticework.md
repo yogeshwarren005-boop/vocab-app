@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Framework consisting of an ornamental design made of strips of wood or metal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Framework consisting of an ornamental design made of strips of wood or metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An open framework or decorative structure consisting of interlaced or crossed strips of wood, metal, or stone; a lattice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape architecture, decorative screens and trellises constructed to support climbing vines and provide shade in arbors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latticework designates framework consisting of an ornamental design made of strips of wood or metal."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A climbing rose clung to the rustic **latticework** of the garden porch, filling the air with fragrance."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Through the green **latticework** of the summerhouse, one could catch glimpses of the formal terrace."*
+> - 📜 **Herman Melville (*Typee*):** *"The chief's dwelling was enclosed with light **latticework** woven from split bamboo poles."*
+

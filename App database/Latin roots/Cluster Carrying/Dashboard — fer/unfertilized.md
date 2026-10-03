@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been fertilized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having been fertilized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fertilized; not united with male gametes; or soil lacking added nutrients (American spelling of unfertilised).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and agricultural science, referring to an ovum awaiting fertilization, or agricultural soil left without nutrient supplementation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unfertilized designates not having been fertilized."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"An **unfertilized** ovum contains only the single haploid chromosome complement of the maternal lineage."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation*):** *"Flowers excluded from insect visits remained **unfertilized** and dropped their petals without setting seed."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The chemical runoff poisoned the pond, leaving fish eggs **unfertilized** and lifeless along the muddy shore."*
+

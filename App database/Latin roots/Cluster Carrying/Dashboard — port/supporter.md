@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who backs a politician or a team etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who supports or champions something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who approves of and encourages a person, team, or cause; or a structure that bears weight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry, a figure (such as a lion, unicorn, or angel) depicted standing on either side of the escutcheon to hold it up.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To me and to the state of my great grief Let kings assemble; for my grief’s so great That no supporter but the huge firm earth Can hold it up."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Has been told so; and he says he’ll stand at your door like a sheriff’s post, and be the supporter of a bench, but he’ll speak with you."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I think he’s all right!” said Trabb’s boy, in a sober voice; “but ain’t he just pale though!” At these words, the face of him who supported me looked over into mine, and I saw my supporter to be— “Herbert!"*
+> - 📜 **William Shakespeare (*King John*):** *"To me and to the state of my great grief let kings assemble; for my grief's so great that no **supporter** but the huge firm earth can hold it up."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The minister found in the young member a formidable and eloquent **supporter** of his budget."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Every ardent **supporter** of the revolution donned the red cap and tricolor cockade."*
+

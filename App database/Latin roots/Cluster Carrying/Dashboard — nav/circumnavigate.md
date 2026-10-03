@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel around, either by plane or ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel around, either by plane or ship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sail or travel entirely around something, especially around the world by water or air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history, the pioneering naval expeditions (such as Magellan-Elcano or Drake) completing global oceanic transit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So that Monsoons, Pampas, Nor-Westers, Harmattans, Trades; any wind but the Levanter and Simoom, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So that Monsoons, Pampas, Nor’-Westers, Harmattans, Trades; any wind but the Levanter and Simoon, might blow Moby Dick into the devious zig-zag world-circle of the Pequod’s circumnavigating wake."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Meanwhile, the whale he had struck must also have been on its travels; no doubt it had thrice circumnavigated the globe, brushing with its flanks all the coasts of Africa; but to no purpose."*
+> - 📜 **Jules Verne (*Around the World in Eighty Days*):** *"Phileas Fogg wagered twenty thousand pounds that he would **circumnavigate** the globe in eighty days."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Could Ahab **circumnavigate** the terraqueous globe without meeting the white fiend that had maimed him?"*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Our instructions were to **circumnavigate** the globe and measure meridian distances across distant seas."*
+

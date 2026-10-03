@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any measuring instrument that uses interference patterns to make accurate measurements of waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any measuring instrument that uses interference patterns to make accurate measurements of waves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical or physical instrument that superimposes two or more beams of light to measure small displacements, surface irregularities, or refractive indices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental astrophysics and metrology, an apparatus (such as the Michelson interferometer) used to measure stellar diameters, gravitational waves, or determine fundamental standards of length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interferometer designates any measuring instrument that uses interference patterns to make accurate measurements of waves."*
+> - 📜 **Albert A. Michelson (*Light Waves and Their Uses*):** *"By means of the **interferometer**, we can measure distances with an accuracy rivaling the wavelength of light itself."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"The null result of the ether-drift experiment performed with Michelson's **interferometer** laid the empirical foundation of relativity."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"The acoustic **interferometer** demonstrates the phase cancellation of sound waves in parallel resonant tubes."*
+

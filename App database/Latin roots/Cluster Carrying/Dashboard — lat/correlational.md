@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or employing correlation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or employing correlation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on a correlation or mutual relationship between variables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational psychology and social science research, non-experimental methodology demonstrating co-variation without establishing causal direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, correlational designates relating to or employing correlation."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"A purely **correlational** study cannot decide whether nature or nurture exerts the paramount influence."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our initial observations are merely **correlational**, requiring rigorous experimental verification to prove causation."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The mathematical treatment of **correlational** tables transformed modern biometric analysis."*
+

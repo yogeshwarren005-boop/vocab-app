@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At an opportune time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an opportune time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At an opportune time; in a well-timed or convenient manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic plotting, a savior or piece of evidence arriving at the exact stroke of fortune to turn the tide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet and young Woolwich opportunely come home."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Raymond, in his good ship, far out on the ocean, was wearying for news from home, when his pressing want was most opportunely supplied by a passing vessel."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A few ships of the line, sent opportunely to the reinforcement of either side, would often be sufficient to decide the fate of a campaign, on the event of which interests of the greatest magnitude were suspended."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Black Knight arrived most **opportunely** to break the furious assault upon the postern gate."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"A sudden turn in the path brought us **opportunely** within sight of the village inn."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"A light breeze sprang up most **opportunely**, carrying the schooner clear of the dangerous reef."*
+

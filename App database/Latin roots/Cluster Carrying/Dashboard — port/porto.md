@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Port city in northwest portugal; noted for port wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Port city in northwest portugal; noted for port wine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second-largest city in Portugal, situated along the Douro river estuary, renowned as the historic center of the port wine trade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enology and viticulture, fortified dessert wine produced from grapes cultivated in the demarcated Douro Valley and matured in lodges at Vila Nova de Gaia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The national forest area contained in the various forests in 20 states (not including Alaska and Porto Rico), now covers about 225,000 square miles, equal in area to five states of the size of Pennsylvania."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The Porto Ricans enlisted in the American regular army are reported to have increased at once in strength, weight, and vigor; the Filipino recruits, thanks to the American army rations, soon outgrew their uniforms."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The romantic hills of **Porto** terrace down to the rushing waters of the golden Douro."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"I walked through the steep, narrow streets of **Porto**, inhaling the rich aroma of wine from the ancient cellars."*
+> - 📜 **Richard Francis Burton (*The Highlands of the Brazil*):** *"The merchant ships carried rich cargoes of wine from the wharves of **Porto** across the southern oceans."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of reproducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of reproducing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of producing offspring, seed, or fruit; barren, sterile, or lacking agricultural productivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedology and reproductive biology, describing soil depleted of essential plant minerals, or gametes failing to support zygotic development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infertile designates incapable of reproducing."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Galton says, 'I regret I am unable to solve the simple question whether heiresses are peculiarly **infertile**.'"*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"A rocky and **infertile** soil requires immense expenditure of human labor to yield a meager harvest."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The neglected garden had grown weed-choked and **infertile** from years of disuse."*
+

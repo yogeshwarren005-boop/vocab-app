@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not soured or preserved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not soured or preserved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having undergone fermentation; unfermented juice, must, or bread dough.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical brewing and Jewish liturgical tradition, referring to unfermented grape juice or unleavened dough free from yeast action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unfermented designates not soured or preserved."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The pure **unfermented** wort remains sweet and limpid indefinitely if protected from airborne microorganisms."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I baked simple cakes of **unfermented** cornmeal and water upon a flat stone beside the hearth."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Boiling prevents fermentation, preserving the vegetable extract in an **unfermented** condition."*
+

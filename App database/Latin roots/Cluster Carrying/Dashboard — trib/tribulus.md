@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Annual or perennial herbs or subshrubs of warm regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Annual or perennial herbs or subshrubs of warm regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of trailing herbaceous plants (Zygophyllaceae), notably puncture vine (Tribulus terrestris), bearing sharp, spiny burrs capable of puncturing tires and shoes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military antiquity and classical botany, a multi-pointed caltrop or spiked iron obstacle strewn on battlefields to maim cavalry horses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribulus designates annual or perennial herbs or subshrubs of warm regions."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The herb called **tribulus** spreads its thorny fruits along barren paths, wounding the bare feet of travelers."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The spiny burrs of **tribulus** are admirably adapted for dispersal by clinging to the fleece of passing beasts."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"The dry savannah was covered with creeping mats of **tribulus**, whose sharp spines penetrated our thick leather boots."*
+

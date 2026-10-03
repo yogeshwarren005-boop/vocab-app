@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a preferential manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a preferential manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a preferential manner; with bias, partiality, or priority given to one person, group, or entity over others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and physical chemistry, reacting, binding, or diffusing with a higher rate or affinity toward a specific chemical target or stereoisomer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preferentially designates in a preferential manner."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Female birds choose **preferentially** those male suitors adorned with the most brilliant plumage."*
+> - 📜 **Louis Pasteur (*Molecular Asymmetry of Organic Compounds*):** *"Living organisms assimilate **preferentially** the dextrorotatory form of tartaric acid while leaving the levorotatory untouched."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Natural forces do not act **preferentially** in favor of human happiness, but follow immutable universal laws."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of proportion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Out of proportion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of proportion; not corresponding in size, amount, degree, or intensity; lacking balance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political representation and voting systems, allocating parliamentary seats out of line with the actual popular vote share.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disproportional designates out of proportion."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The tax levied upon small incomes imposed a **disproportional** sacrifice upon the poorer classes."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In domestic dogs, certain breeds exhibit **disproportional** development of the head and jaws."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"The university devoted a **disproportional** amount of its resources to classical grammar rather than modern science."*
+

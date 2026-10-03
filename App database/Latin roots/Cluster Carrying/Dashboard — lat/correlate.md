@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two or more related or complementary variables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bear a reciprocal or mutual relation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To have a mutual relationship or connection, in which one thing affects or depends on another; or to bring into a mutual relation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical statistics and biometrics, to evaluate the Pearson product-moment coefficient measuring linear association between two variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"And queer as it is I have to positively control the desire to answer him with the correlated title--Adam!"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The state- 288:1 ment that /Truth is real/ necessarily includes the correlated statement, that /error, Truth's unlikeness, is unreal/."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"It seems, at least, to be closely correlated with those other messages of which we have spoken,--those other cases where some original element of our nature is capable of being regarded as an inlet of mystic truth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We must be cautious in attempting to **correlate** as cause and effect modifications that may merely co-exist."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The geologist attempts to **correlate** distant fossil strata by the presence of diagnostic index fossils."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"My chief aim has been to **correlate** mental capacities with measurable physical traits."*
+

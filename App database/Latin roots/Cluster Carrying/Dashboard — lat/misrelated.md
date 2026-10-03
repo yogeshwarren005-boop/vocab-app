@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mistakenly related.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mistakenly related.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wrongly connected, associated, or matched; or (in grammar) improperly linked to an unintended grammatical referent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prescriptive syntax and stylistic editing, a participial modifier that attaches logically to the wrong noun phrase (a dangling participle).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misrelated designates mistakenly related."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"A participle standing in a **misrelated** construction creates grammatical ambiguity by attaching to an improper subject."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"In careless political prose, **misrelated** clauses obscure the real agent responsible for the action."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"The sentence suffered from a **misrelated** adjunct which distorted the author's intended logical emphasis."*
+

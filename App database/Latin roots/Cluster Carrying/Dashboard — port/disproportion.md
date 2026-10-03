@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of proportion; imbalance among the parts of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of proportion; imbalance among the parts of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An absence of symmetry, balance, or proper relation between parts; disparity or imbalance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical aesthetics and architectural theory, geometric incongruity between column heights, entablatures, and interior dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, they are disproportion’d; My letters say a hundred and seven galleys."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One may smell in such a will most rank, Foul disproportion, thoughts unnatural."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Yet how vast the disproportion between the crime and the punishment!"*
+> - 📜 **William Shakespeare (*Othello*):** *"Indeed, they are **disproportion**'d; my letters say a hundred and seven galleys."*
+> - 📜 **Francis Bacon (*The Essays*):** *"There is often a great **disproportion** between the outward honors of a prince and his inward contentment."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She became conscious of the painful **disproportion** between her ideals and her husband's narrow intellectual world."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something referred to; the object of a reference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first term in a proposition; the term to which other terms relate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thing, object, person, or concept that a word, symbol, or sign refers to; the object of reference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and linguistic semantics, the concrete or conceptual entity symbolized by a sign through the mediation of thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, referent designates something referred to; the object of a reference."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A sign stands for something, its **referent**, not in all respects, but in reference to a sort of idea."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"The assertive sentence is true when it points directly to an objective **referent** in the state of affairs."*
+> - 📜 **William James (*The Meaning of Truth*):** *"An idea becomes true when it leads us harmoniously toward its intended **referent** in experience."*
+

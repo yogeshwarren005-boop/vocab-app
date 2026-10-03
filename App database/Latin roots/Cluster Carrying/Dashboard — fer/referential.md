@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring or pointing to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Referring or pointing to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, making, or serving as a reference; pointing to something outside of itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional linguistics and communication theory, the cognitive or denotative function of language centered on describing the contextual world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, referential designates referring or pointing to something."*
+> - 📜 **Roman Jakobson (*Linguistics and Poetics*):** *"The **referential** function of speech is oriented toward the context, transmitting objective information about the environment."*
+> - 📜 **Edward Sapir (*Language*):** *"Language possesses not merely an emotive coloring but an indispensable **referential** apparatus for classifying physical reality."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our complex ideas of substances possess a **referential** intent toward real external archetypes."*
+

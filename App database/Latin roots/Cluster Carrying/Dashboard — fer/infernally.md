@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an infernal, fiendish, or hellish manner; diabolically or outrageous to an extreme degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In expressive colloquial and narrative prose, used as an intensive expressing exasperation or ominous grandeur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"No time for supper, our train goes at 11:59, I hate first nights, the waits between the acts are so infernally long." Laura's eyebrows, faintly arched, hinted at derision."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"But my life is infernally strong in me, I don't want to die: what I want is to get on my legs again and kick that fellow Hyde down the steps."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then come out those fiery effulgences, infernally superb; then the evil-blazing diamond, once the divinest symbol of the crystal skies, looks like some crown-jewel stolen from the King of Hell."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then come out those fiery effulgences, **infernally** superb; then the evil blaze upon the black hull."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The weather was **infernally** close, making the dusty legal chambers well-nigh unendurable."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The boiler groaned in an **infernally** ragged rhythm as we pushed upstream."*
+

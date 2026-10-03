@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who arrives late.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who arrives late.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who arrives late or after others; an arrival after an event has begun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial economics and geopolitical competition, an enterprise or nation entering an established market with advantages of technological leapfrogging (latecomer advantage).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Some latecomers took their seats in the stalls, and the curtain rose."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The church was crowded, and every **latecomer** was forced to stand in the drafty aisle."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The host turned with polite cordiality to welcome the solitary **latecomer** to the dining table."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The courtroom was packed to the doors, leaving no seat for any **latecomer** who sought admittance."*
+

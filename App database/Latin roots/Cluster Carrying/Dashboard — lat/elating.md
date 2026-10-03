@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making lively and joyful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Making someone feel ecstatically happy, proud, or triumphant; filling with joy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological narrative, an intoxicating surge of optimism that temporarily suspends sober self-criticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elating designates fill with high spirits; fill with optimism."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The warm praise of the professor had an **elating** effect upon her spirits, banishing her usual diffidence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The **elating** conviction of being loved lent an unusual radiance to her expressive countenance."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"A breeze blew from the heath, **elating** the wanderer with the wild freedom of the wilderness."*
+

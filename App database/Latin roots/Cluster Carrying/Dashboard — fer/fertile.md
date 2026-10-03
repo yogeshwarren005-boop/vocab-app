@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of reproducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intellectually productive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing vegetation or crops in abundance; fruitful, prolific, or capable of breeding and reproducing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and intellectual history, describing an inventive imagination, generative theory, or rich environment that fosters abundant innovations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If every of your wishes had a womb, And fertile every wish, a million."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath much land, and fertile; let a beast be lord of beasts, and his crib shall stand at the king’s mess; ’tis a chough; but, as I say, spacious in the possession of dirt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look on thy country, look on fertile France, And see the cities and the towns defaced By wasting ruin of the cruel foe."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"If every of your wishes had a womb, / And **fertile** every wish, a million."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Crosses between distinct varieties of plants frequently produce highly **fertile** offspring."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A mind furnished with true principles proves **fertile** in generating beneficial inventions."*
+

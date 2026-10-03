@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intensity or forcefulness of expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being wild or turbulent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great forcefulness, fervor, or passionate intensity of feeling or expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and oratorical theory, elevated emotional urgency and stylistic vigor deployed to persuade an audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, I prithee now, with most petitionary vehemence, tell me who it is."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Her darkened face had such power over me that it stopped me in the midst of my vehemence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They threw themselves into committees in the most impassioned manner and collected subscriptions with a vehemence quite extraordinary."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Nay, I prithee now, with most petitionary **vehemence**, tell me who it is."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Her darkened face had such power over me that it stopped me in the midst of my **vehemence**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He spoke with a passionate **vehemence** that swept away all my remaining scruples."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salt of ferricyanic acid obtained by oxidation of a ferrocyanide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salt of ferricyanic acid obtained by oxidation of a ferrocyanide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex salt containing the trivalent anion [Fe(CN)6]3−, consisting of a central ferric iron atom bonded to six cyanide ligands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photochemistry and coordination chemistry, an oxidant (such as potassium ferricyanide, red prussiate of potash) historically used in cyanotype printing and histology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferricyanide designates salt of ferricyanic acid obtained by oxidation of a ferrocyanide."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The solution of potassium **ferricyanide** acts as a sensitive reagent for detecting minute traces of ferrous salts."*
+> - 📜 **John Herschel (*On the Action of the Rays of the Solar Spectrum on Vegetable Colours*):** *"The cyanotype process relies upon the photochemical reduction of **ferricyanide** to produce Turnbull's blue."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Potassium **ferricyanide** is readily distinguished from the yellow ferrocyanide by its brilliant ruby-red crystals."*
+

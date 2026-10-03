@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to coreference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to coreference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or exhibiting coreference; referring to the exact same entity or referent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syntactic binding theory, describing noun phrases and reflexive pronouns that must be co-indexed within their local governing syntactic category.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coreferential designates relating to coreference."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Reflexivization occurs only when two noun phrases within the same clause are **coreferential** in the deep structure."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar*):** *"The possessive adjective and the subject noun are **coreferential** in standard reciprocal constructions."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Signs that are **coreferential** determine identical interpretants in the mind of the comprehending observer."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The offerings of the congregation at a religious service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the eucharist when bread and wine are offered to god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The collection of money, gifts, or oblations made during a religious service; or the part of a service during which this takes place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Western Christian liturgy, the antiphon, choral chant, or psalm sung while the bread and wine for the Eucharist are presented at the altar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That I can’t, indeed,” he said, moving past Oak as a Christian edges past an offertory-plate when he does not mean to contribute."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That I can’t, indeed,” he said, moving past Oak as a Christian edges past an offertory-plate when he does not mean to contribute."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That I can't, indeed,' he said, moving past Oak as a Christian edges past the collecting plate at the **offertory**."*
+> - 📜 **Francis Bacon (*Essays*):** *"The gifts of devotion presented during the **offertory** should proceed from voluntary piety rather than ostentation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The curate paused at the conclusion of the sermon while the churchwardens collected the Sunday **offertory**."*
+

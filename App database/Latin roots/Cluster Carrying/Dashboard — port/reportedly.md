@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According to reports or other information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According to reports or other information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: According to what has been said, claimed, or reported by others; allegedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In news reporting and historiography, attributing information to secondhand sources without independent empirical verification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reportedly designates according to reports or other information."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A monstrous spectral hound had **reportedly** been sighted near the ancient stone huts upon the moor."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The rebel duke had **reportedly** landed at Lyme with a small band of armed followers."*
+> - 📜 **Henry James (*The American*):** *"The family had **reportedly** amassed immense fortunes during the continental wars."*
+

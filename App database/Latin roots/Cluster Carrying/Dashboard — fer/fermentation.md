@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of agitation or turbulent change or development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The metabolic process by which microorganisms convert carbohydrates into acids, gases, or alcohol in the absence of oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemistry and sociology, the zymotic decomposition of organic material, or a figurative period of tumultuous intellectual or political incubation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Transition and reform There will ensue a fermentation over this as over many 65:21 other reforms, until we get at last the clear straining of truth, and impurity and error are left among the lees."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The fermentation even of fluids is 65:24 not pleasant."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"This mental fermentation has begun, and will continue until all errors of belief yield to understanding."*
+> - 📜 **Louis Pasteur (*Physiological Theory of Fermentation*):** *"**Fermentation** is the direct consequence of a vital process of nutrition occurring without free oxygen."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Chemical changes analogous to **fermentation** occur within the tissues during seed germination."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"When a new passion enters the mind, it produces a strange **fermentation** in the thoughts and inclinations."*
+

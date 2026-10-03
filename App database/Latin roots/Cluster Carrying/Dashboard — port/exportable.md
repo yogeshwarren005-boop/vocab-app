@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable for export.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable for export.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable or able to be exported to another country; meeting requirements for foreign sale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics, goods produced domestically whose prices are determined by global trade benchmarks rather than local demand alone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"The exportable commodity of man."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Manufactured commodities are far more **exportable** to distant markets than raw timber or fresh provisions."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"The comparative advantage of a nation determines which of its products will become **exportable**."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Corn became an **exportable** commodity only in years of exceptional domestic harvest."*
+

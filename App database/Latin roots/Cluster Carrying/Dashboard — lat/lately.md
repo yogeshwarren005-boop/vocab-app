@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the recent past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the recent past.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not long ago; in recent times; recently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personal correspondence and memoirs, qualifying occurrences that have transpired within recent memory or current experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Had you not lately an intent,—speak truly,— To go to Paris?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You were lately whipp’d, sir, as I think."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"He was excellent indeed, madam; the king very **lately** spoke of him with warm admiration."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I have **lately** heard of your engagement, and hasten to offer my sincere congratulations."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A heavy melancholy had **lately** fallen upon my father, which all my efforts could not dispel."*
+

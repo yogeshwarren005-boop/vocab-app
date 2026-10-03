@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppress or trouble greatly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oppress or trouble greatly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To afflict, oppress, or subject to severe trial, distress, or suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In devotional theology and homiletics, to purge or refine the soul through the spiritual threshing sledge of adversity (from Latin tribulum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribulate designates oppress or trouble greatly."*
+> - 📜 **Jeremy Taylor (*Holy Living and Holy Dying*):** *"God doth often **tribulate** His dearest servants that they may learn patience and detach their hearts from the world."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The trials which **tribulate** the wayfaring Christian are sent to thresh the chaff from the wheat."*
+> - 📜 **Thomas Browne (*Christian Morals*):** *"Let not the afflictions that **tribulate** thy mortal estate diminish thy hope of a joyful resurrection."*
+

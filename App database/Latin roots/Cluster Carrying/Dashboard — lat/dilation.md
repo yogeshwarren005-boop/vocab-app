@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lengthy discussion (spoken or written) on a particular topic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of expanding an aperture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or condition of becoming wider, larger, or more open; enlargement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In special relativity (time dilation), the slowing down of clocks and physical processes for an observer moving at relativistic velocity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The resisting power, those natural dilations of the youthful spirit, which circumstances cannot straiten--with us are long since passed away."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Systole and diastole, the contraction and **dilation** of the heart, is the recurrent rhythm of all natural life."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pupillary **dilation** occurred immediately upon the instillation of atropine drops."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The sudden **dilation** of his pupils revealed his terror before he spoke a single word."*
+

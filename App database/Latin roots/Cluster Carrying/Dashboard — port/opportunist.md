@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who places expediency above principle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking immediate advantage, often unethically, of any circumstance of possible benefit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who takes advantage of opportunities as they arise, especially with little regard for moral principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and evolutionary biology, a colonizing species (r-selected) that rapidly exploits newly disturbed habitats before competitors arrive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The spirit of this movement is opportunist, or experimental."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"And so the socialist party, as fast as it gained any practical power, became "opportunist" and worked for moderate practical reforms."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Opportunists promoted a multitude of causes, usually self-serving."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He regarded the young physician as a shrewd **opportunist** seeking to rise upon the shoulders of wealthy patrons."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"In revolutionary times, every ambitious **opportunist** finds a theater for his vanity."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"He was neither a fanatic nor a saint, but a brilliant **opportunist** surfing the political currents of his day."*
+

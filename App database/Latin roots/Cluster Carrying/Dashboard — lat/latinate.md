@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived from or imitative of latin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from or imitative of latin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character, style, or vocabulary of Latin; containing many words derived from Latin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English stylistics and historical linguistics, elevated polysyllabic diction derived from Classical or Renaissance Latin borrowings (contrasted with Anglo-Saxon Germanic roots).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latinate designates derived from or imitative of latin."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"A mass of **Latinate** words falls upon the facts like soft snow, blurring the outlines and covering up all the details."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Milton formed his poetic diction upon a magnificent **Latinate** syntax that elevates his epic above vernacular speech."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"The seventeenth-century masters balanced native colloquial idioms against formal **Latinate** periods."*
+

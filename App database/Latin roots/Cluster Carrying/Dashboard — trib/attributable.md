@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being attributed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being attributed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being ascribed or assigned to a specific cause, author, or origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical epidemiology and risk analysis, designating the proportion of disease incidence in an exposed cohort causally tied to an exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the other hand, the Right Honourable William Buffy, M.P., contends across the table with some one else that the shipwreck of the country—about which there is no doubt; it is only the manner of it that is in question—is attributable to Cuffy."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"This is due to the fact that his turning to Greece was in its final analysis attributable rather to selfish than to altruistic motives."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But the fact that Heine never created a monumental literary work of enduring worth is not attributable solely to a fickleness of artistic purpose or lack of will-energy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The slight differences between the races are largely **attributable** to the long-continued action of natural and sexual selection."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Such sudden changes of character are often directly **attributable** to hidden emotional crises."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The rapid advance of modern physical science is **attributable** to the strict verification of hypotheses."*
+

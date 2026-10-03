@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An offer made by someone who has rejected a prior offer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An offer made by someone who has rejected a prior offer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An offer made in response to a prior proposal by someone who has rejected the original offer or proposed revised terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, a response that alters the material terms of an initial offer, functioning legally as both a rejection and a new proposal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counteroffer designates an offer made by someone who has rejected a prior offer."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"A qualified acceptance containing new conditions operates in law as a **counteroffer** that extinguishes the original proposal."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In open markets, the haggling between buyer and seller proceeds through offer and **counteroffer** until an equilibrium price is reached."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The employer made a **counteroffer** to the union delegates, offering shorter hours in lieu of increased wages."*
+

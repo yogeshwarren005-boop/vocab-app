@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Roman name for the Greek goddess Leto, daughter of the Titans Coeus and Phoebe, and mother of Apollo and Diana (Artemis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and Ovidian literature, the persecuted mother who gave birth to the divine twins on the floating island of Delos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latona designates wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Not that fair field of Enna, nor the isle where **Latona** brought forth her starry twins, could rival Eden."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"Fair as the radiant daughter whom **Latona** bore beneath the sacred palm of Delos."*
+> - 📜 **Ovid (*Metamorphoses*):** *"The goddess **Latona** turned the churlish Lycian peasants into frogs for denying her thirsty children drink."*
+

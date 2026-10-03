@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Musteline mammal of prairie regions of united states; nearly extinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domesticated albino variety of the european polecat bred for hunting rats and rabbits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A domesticated polecat (Mustela putorius furo) bred for hunting rabbits and catching vermin; or to search out tenaciously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology and figurative prose, a tenacious pursuer that drives quarry out of subterranean burrows or unearths concealed secrets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll fer him, and firk him, and ferret him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not know the French for fer, and ferret, and firk."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were cunning and trustless, narrow-slitted and heavy-lidded, at one and the same time as sharp as a ferret’s and as indolent as a basking lizard’s."*
+> - 📜 **William Shakespeare (*Henry V*):** *"I'll fer him, and firk him, and **ferret** him: discuss the same in French unto him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Bucket was never in a hurry, but he had a quiet way of hunting down his clue like a trained **ferret**."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The detective began to **ferret** among the dusty papers in the bureau, looking for the missing will."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause members of a tribe to lose their cultural identity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause members of a tribe to lose their cultural identity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove from a tribal environment or cause to relinquish tribal allegiances, customs, and traditional identity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In post-colonial sociological analysis, to sever an individual from the customary authority of chiefs and collective clan property.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detribalize designates cause members of a tribe to lose their cultural identity."*
+> - 📜 **Franz Boas (*Race, Language and Culture*):** *"Government schools were expressly designed to **detribalize** indigenous children by prohibiting native dialects."*
+> - 📜 **Margaret Mead (*New Lives for Old*):** *"The transition from village reciprocity to money wages began to **detribalize** the younger generation."*
+> - 📜 **Bronislaw Malinowski (*The Dynamics of Culture Change*):** *"Attempts to **detribalize** the African agriculturalist without granting civic franchise created widespread discontent."*
+

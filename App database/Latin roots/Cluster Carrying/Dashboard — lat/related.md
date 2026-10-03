@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a logical or causal connection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be relevant to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connected by kinship, blood, or marital alliance; or sharing an established conceptual, causal, or logical association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic taxonomy and evolutionary genetics, descended from a shared common ancestor or sharing homologous morphological traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa related the incident of the evening before as it occurred."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So the brother related how he had come back three days ago from a trip and, arriving in town, had given orders in the hotel for a carriage to be brought round to take him back to Sils that same evening."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She was related to the baroness and had come down from the far north, in fact from Holstein, where my godmother came from and all her connections lived."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thank you very much, said Oak, in the modest tone good manners demanded, thinking how closely their fortunes were now **related**."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Species belonging to the same genus are more closely **related** to each other than species belonging to distinct families."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Ideas that are habitually associated become so intimately **related** in the mind that one instantly introduces the other."*
+

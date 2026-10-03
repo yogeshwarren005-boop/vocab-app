@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose specialization in form or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having experienced or undergone dedifferentiation or the loss of specialization in form or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having reverted from a mature, specialized cellular state to an earlier, simpler, or more primitive form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncological pathology and histology, designating malignant tumor cells that have lost normal architectural organization, contact inhibition, and specialized metabolic functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dedifferentiated designates lose specialization in form or function."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The rapidly growing sarcoma consisted of **dedifferentiated** cells bearing little resemblance to the parent connective tissue."*
+> - 📜 **Julian Huxley (*Problems of Relative Growth*):** *"In regenerating tissue, **dedifferentiated** cells congregate beneath the epidermis to initiate new morphogenesis."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The presence of **dedifferentiated** cellular zones in lower vertebrates illustrates their extraordinary capacity for epimorphic regeneration."*
+

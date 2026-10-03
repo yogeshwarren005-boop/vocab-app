@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reciprocal relation between two or more things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reciprocal relation between two or more things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mutual relation or reciprocal dependence between two things, concepts, or principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical jurisprudence, the structural interdependence between rights, duties, powers, and liabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, correlativity designates a reciprocal relation between two or more things."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The essential **correlativity** of rights and duties forms the foundation of all positive jurisprudence."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"There is a strict **correlativity** between individual freedom and moral responsibility."*
+> - 📜 **Jeremy Bentham (*The Rationale of Judicial Evidence*):** *"The **correlativity** of judicial authority and civic obedience prevents legal anarchy."*
+

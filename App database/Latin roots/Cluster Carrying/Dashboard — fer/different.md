@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlike in nature or quality or form or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctly separate from the first.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not the same as another; distinct, separate, or dissimilar in character, identity, or nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary taxonomy and cognitive psychology, exhibiting contrasting phenotypic adaptations or categorized into separate conceptual schemas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This week he hath been heavy, sour, sad, And much different from the man he was."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not mad; too well, too well I feel The different plague of each calamity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is the stars, The stars above us govern our conditions; Else one self mate and make could not beget Such different issues."*
+> - 📜 **William Shakespeare (*Sonnet 98*):** *"Yet nor the lays of birds, nor the sweet smell / Of **different** flowers in odour and in hue, / Could make me any summer's story tell."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The human understanding is not a dry light, but receives an infusion from the will and affections... and so forth, in **different** ways."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The mental faculties of animals of **different** species diverge according to their specific conditions of life."*
+

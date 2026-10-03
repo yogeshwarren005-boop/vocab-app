@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave in a certain manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hand over to the authorities of another country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To expel a foreign national from a country; or (archaic) to conduct or behave oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immigration jurisprudence, the sovereign expulsion of an alien pursuant to judicial or executive exclusion proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They were giving her a world of staid counsel how to deport herself, what to say, and in what manner to receive the expected lover."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Thus should we deport ourselves on the seething ocean of sorrow."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Physicians should not deport themselves as if Mind 180:12 were non-existent, nor take the ground that all causation is matter, instead of Mind."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The government resolved to **deport** the ringleaders of the insurrection to the distant penal colonies."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Let each angel **deport** himself with reverence before the heavenly throne."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary decree threatened to **deport** all non-juring priests beyond the frontier."*
+

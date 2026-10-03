@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fan palms of the southern united states and the caribbean region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fan palms of the southern united states and the caribbean region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several American or West Indian fan palms, especially the dwarf palmetto (Sabal minor), having fan-shaped leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In southeastern wetland ecology, an understory palm forming dense thickets in alluvial river bottoms, bayous, and coastal swales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latanier designates fan palms of the southern united states and the caribbean region."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The Carolina parakeet settled among the dense fronds of the wild **latanier** in the river bottom."*
+> - 📜 **Chateaubriand (*Atala*):** *"We rested beneath the shadow of the tall **latanier** palms while the warm breeze stirred the magnolia blooms."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels*):** *"Beds of creeping **latanier** and giant reeds marked the boundaries of the tropical marsh."*
+

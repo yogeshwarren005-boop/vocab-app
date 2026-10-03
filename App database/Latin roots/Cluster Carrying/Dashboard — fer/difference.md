@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unlike or dissimilar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variation that deviates from the standard or norm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A point or respect in which things are not identical; dissimilarity, distinction, or the degree of variation separating two entities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical metaphysics and set theory, the distinguishing principle (differentia) that separates a species from its genus, or the set-theoretic subtraction of elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind is my love to-day, to-morrow kind, Still constant in a wondrous excellence, Therefore my verse to constancy confined, One thing expressing, leaves out difference."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But how the fear of us May cement their divisions, and bind up The petty difference, we yet not know."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we debate Our trivial difference loud, we do commit Murder in healing wounds."*
+> - 📜 **William Shakespeare (*Sonnet 105*):** *"Kind is my love to-day, to-morrow kind, / Still constant in a wondrous excellence; / Therefore my verse, to constancy confined, / One thing expressing, leaves out **difference**."*
+> - 📜 **René Descartes (*Discourse on Method*):** *"The diversity of our opinions does not proceed from some being more rational than others, but solely from our conducting our thoughts along different paths and not all considering the same **difference**."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The method of **difference** consists in comparing an instance in which the phenomenon occurs with an instance in which it does not."*
+

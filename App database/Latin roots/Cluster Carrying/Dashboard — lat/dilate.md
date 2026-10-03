@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become wider.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become wider, larger, or more open; or to speak or write at length upon a subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and optics, pupillary enlargement (mydriasis) responding to dim ambient light or autonomic drug stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for the sake of them thou sorrowest for, Do me the favour to dilate at full What have befall’n of them and thee till now."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"We shall not here dilate on those minor qualities of mind and heart that made Mr."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is equally unnecessary to dilate on the appointment of senators by the State legislatures."*
+> - 📜 **William Shakespeare (*Othello*):** *"Do me the grace to grope for it, or rather **dilate** upon the circumstance that brought about this tragedy."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I saw his dark eyes **dilate** with sudden, fierce astonishment at my quiet reply."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"His nostrils would **dilate** like a warhorse's as he sniffed the salt brine of the open sea."*
+

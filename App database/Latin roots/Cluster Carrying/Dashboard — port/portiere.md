@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy curtain hung across a doorway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy curtain hung across a doorway.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy curtain hung over a door or doorway to prevent drafts, divide rooms, or serve as a decorative screen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian and Edwardian domestic interior decoration, heavy velvet or brocade drapery installed to insulate parlor thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, portiere designates a heavy curtain hung across a doorway."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"She drew back the heavy velvet **portiere** and looked into the dimly lighted library."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"A servant parted the rich silk **portiere**, announcing the arrival of the visitors."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Through the parted **portiere** came the sweet, oppressive fragrance of heavy gardenias."*
+

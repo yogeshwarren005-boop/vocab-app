@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo or be subjected to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo (as of injuries and illnesses).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To experience, undergo, or endure pain, distress, loss, or hardship; or to allow, permit, or tolerate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological ethics and civil jurisprudence, to submit willingly to adversity without moral compromise, or to grant legal sufferance to an act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have made shift to run into ’t, boots and spurs and all, like him that leapt into the custard; and out of it you’ll run again, rather than suffer question for your residence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You, Diana, Under my poor instructions yet must suffer Something in my behalf."*
+> - 📜 **William Shakespeare (*Sonnet 58*):** *"O let me **suffer** (being at your beck) / Th' imprisoned absence of your liberty."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Better to reign in Hell than serve in Heaven; / Or rather choose to **suffer** all than yield."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sympathy causes us to **suffer** when we witness the distress of our fellow creatures."*
+

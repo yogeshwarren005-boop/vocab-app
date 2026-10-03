@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding in or covered with ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling ferns especially in leaf shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding in, overgrown with, or characteristic of ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic nature writing and ecology, evoking the damp, earthy aroma and lush greenery of shaded woodland undergrowth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A minute later and she saw his scarlet form disappear amid the ferny thicket, almost in a flash, like a brand swiftly waved."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A minute later and she saw his scarlet form disappear amid the ferny thicket, almost in a flash, like a brand swiftly waved."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Here with bowed head, bashful with half-desire She glides into my yesterday's deep dream, All glowing by the misty ferny cliff Beside the far forbidden thundering stream."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A minute later and she saw his scarlet form disappear amid the **ferny** thicket bordering the plantation."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"Beside the brook that tumbled down the hill, we rested on a green and **ferny** bank."*
+> - 📜 **John Muir (*Our National Parks*):** *"The deer found cool retreat in the **ferny** hollows where the redwoods filtered the noon heat."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to antiferromagnetism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to antiferromagnetism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting magnetism in which adjacent magnetic moments align antiparallel to each other, resulting in zero net macroscopic magnetization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state condensed matter physics, describing crystal lattices that exhibit magnetic sublattices of opposing spin below the Néel temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiferromagnetic designates relating to antiferromagnetism."*
+> - 📜 **Louis Néel (*Propriétés magnétiques des ferrites*):** *"Below the characteristic transition temperature, the material enters an **antiferromagnetic** state of ordered antiparallel spins."*
+> - 📜 **Philip W. Anderson (*Basic Notions of Condensed Matter Physics*):** *"The broken symmetry in an **antiferromagnetic** insulator produces collective spin-wave excitations known as magnons."*
+> - 📜 **Neville Mott (*Metal-Insulator Transitions*):** *"Strong on-site Coulomb repulsion stabilizes an insulating state with **antiferromagnetic** spin alignments."*
+

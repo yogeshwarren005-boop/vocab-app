@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychoanalysis) the process whereby emotions are passed on or displaced from one person to another; during psychoanalysis the displacement of feelings toward others (usually the parents) is onto the analyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transferring ownership.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or instance of transferring, conveying, or redirecting something from one place, person, or context to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis, the unconscious redirection of feelings, expectations, and relational patterns from early childhood figures onto the therapist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory that this connection is based on the transference of the collective will of a people to certain historical personages is an hypothesis unconfirmed by the experience of history."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory seems irrefutable just because the act of transference of the people’s will cannot be verified, for it never occurred."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The theory of the transference of the will of the people to historic persons is merely a paraphrase—a restatement of the question in other words."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The converse case of the first development of characters in the female, and their **transference** to the male, is exceedingly rare."*
+> - 📜 **Sigmund Freud (*The Dynamics of Transference*):** *"The patient directs toward the physician an intense wave of affectionate or hostile feelings which are rooted in childhood; this is the phenomenon of **transference**."*
+> - 📜 **Carl Jung (*The Psychology of the Transference*):** *"The therapeutic process reaches its critical turning point when the unconscious **transference** is analyzed and integrated."*
+

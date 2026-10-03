@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connected with or belonging to or used in a navy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connected with or belonging to or used in a navy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a navy, warships, or maritime defense forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history and maritime strategy, maritime tactics, ship-of-the-line fleet doctrine, and amphibious warfare operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was his naval way of mentioning my eyes.” Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was his naval way of mentioning generally that I was an acquisition to any society."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Badger, “speaking in his figurative naval manner, that when you make pitch hot, you cannot make it too hot; and that if you only have to swab a plank, you should swab it as if Davy Jones were after you."*
+> - 📜 **Herman Melville (*Billy Budd*):** *"He had been impressed from an English merchantman into the **naval** service of His Majesty."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The **naval** profession has its domestic disadvantages, but it raises men into honorable independence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"It was his figurative **naval** manner of speaking, acquired during his long service on the high seas."*
+

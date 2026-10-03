@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person related by blood or marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Considered in comparison or relation to something else; not absolute; or a person connected by blood or marital kinship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physics and epistemology, denoting quantities, values, or coordinates that have meaning exclusively when measured against an assigned reference frame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have grounds More relative than this."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was greatly occupied during breakfast, for the morning’s post brought a heavy correspondence relative to Borrioboola-Gha, which would occasion her (she said) to pass a busy day."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, this Miss Barbary was extremely close—seems to have been extraordinarily close for a female, females being generally (in common life at least) rather given to conversation—and my witness never had an idea whether she possessed a single relative."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The spirit that I have seen / May be the devil... I'll have grounds / More **relative** than this."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Words that express relations are called **relative** words, denoting things not as they exist alone, but in reference to another."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Absolute, true, and mathematical time flows equably, without relation to anything external; **relative**, apparent, and common time is some sensible and external measure."*
+

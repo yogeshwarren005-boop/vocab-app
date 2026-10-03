@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Translate again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Translate again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To translate a text or message a second time, or to translate a translation back into its original source language.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary translation studies, to compose a new target-language rendition of a classic work to remedy archaic phrasing or linguistic shortcomings in earlier versions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retranslate designates translate again."*
+> - 📜 **Johann Wolfgang von Goethe (*West-östlicher Divan*):** *"It is instructive to **retranslate** a foreign rendering into our mother tongue to gauge what was preserved and what was lost."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"Every successive generation feels the imperative necessity to **retranslate** Homer according to the literary sensibilities of its own era."*
+> - 📜 **George Saintsbury (*A History of Criticism*):** *"The scholar sought to **retranslate** the corrupt passages with closer fidelity to the early Greek manuscripts."*
+

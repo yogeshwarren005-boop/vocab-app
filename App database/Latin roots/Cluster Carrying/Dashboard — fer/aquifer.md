@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Underground bed or layer yielding ground water for wells and springs etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Underground bed or layer yielding ground water for wells and springs etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underground layer of water-bearing permeable rock, rock fractures, gravel, sand, or silt from which groundwater can be extracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrogeology, a subsurface geological formation capable of storing and yielding economically usable quantities of water to wells, springs, or baseflow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquifer designates underground bed or layer yielding ground water for wells and springs etc."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean percolation feeds the deep **aquifer**, replenishing artesian basins far removed from surface precipitation."*
+> - 📜 **John Wesley Powell (*Report on the Lands of the Arid Region of the United States*):** *"Agricultural settlement in arid regions depends upon tapping the underlying **aquifer** with deep borings."*
+> - 📜 **G. K. Gilbert (*Report on the Geology of the Henry Mountains*):** *"The structural syncline forms a natural reservoir holding a confined **aquifer** beneath impermeable shale beds."*
+

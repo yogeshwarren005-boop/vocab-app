@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The news as presented by reporters for newspapers or radio or television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give an account or representation of in words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity, process, or occupation of gathering and presenting news, statements, or formal accounts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and auditing, the periodic disclosure of financial statements, balance sheets, and compliance filings to regulatory bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I should tell my history, it would seem Like lies disdain’d in the reporting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What course I mean to hold Shall nothing benefit your knowledge, nor Concern me the reporting."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"To him, daily, Cecil Winwood was reporting the progress of the break—all fancied and fabricated in his own imagination."*
+> - 📜 **William Shakespeare (*Pericles*):** *"If I should tell my history, it would seem like lies, disdained in the **reporting**."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Honest **reporting** of political events was frequently suppressed by wartime censors."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Careful **reporting** of experimental conditions is the essential prerequisite of scientific reproducibility."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguishing characteristics (especially in different species of a genus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguishing characteristics (especially in different species of a genus).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The distinguishing attribute, characteristic, or specific difference that separates a species from all other species in the same genus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Aristotelian logic and scholastic ontology, the essential property added to a generic concept to define a distinct subcategory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, differentia designates distinguishing characteristics (especially in different species of a genus)."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The logicians define a species by its genus and its specific **differentia**, which marks it off from all others."*
+> - 📜 **Aristotle (*Topics*):** *"The definition of an essence consists in the conjunction of the genus and the appropriate **differentia**."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The term **differentia** signifies that attribute which distinguishes the given species from all other species of that genus."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not attributable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not attributable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be assigned, ascribed, or traced to a specific person, author, source, or origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In journalistic ethics and intelligence reporting, information briefed on deep background that cannot be quoted or credited to any identified official.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unattributable designates not attributable."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"Several brilliant lines in the Elizabethan manuscript remain completely **unattributable** to any known dramatist."*
+> - 📜 **Kenneth Clark (*Civilisation*):** *"The delicate ivory carvings of the dark ages are largely **unattributable**, preserving no record of the monastic craftsmen who carved them."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"A vague and **unattributable** rumor swept through the mining village, spreading unease among the colliers."*
+

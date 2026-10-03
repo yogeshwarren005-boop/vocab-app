@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fertile or productive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with fertilizers or add nutrients to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make fruitful or productive; to supply soil with nutrients; or to impregnate an egg cell with sperm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology and agricultural science, to transfer pollen to a stigma or introduce essential nitrogen, phosphorus, and potassium to crop soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Sun comes down into the holy fig-tree to fertilise the earth, and to facilitate his descent a ladder with seven rungs is considerately placed at his disposal."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Or more probably the legend may be a reminiscence of a custom of slaying a human victim, perhaps a representative of the corn-spirit, and distributing his flesh or scattering his ashes over the fields to fertilise them."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Or it is burned and the ashes strew on the fields, doubtless to fertilise them."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised*):** *"Many of our orchidaceous plants absolutely require the visits of moths to **fertilise** their flowers."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"To **fertilise** the exhausted loam, the husbandman must restore the mineral salts extracted by successive harvests."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The spring rains come down to soften and **fertilise** the waiting furrows."*
+

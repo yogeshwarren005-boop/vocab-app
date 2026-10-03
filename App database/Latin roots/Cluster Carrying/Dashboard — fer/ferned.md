@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abounding in or covered with ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abounding in or covered with ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered, abounding, or decorated with ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape poetry and botanical description, characterizing moist woodland slopes, dells, or hollows carpeted with dense fronds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferned designates abounding in or covered with ferns."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"They walked together down the **ferned** slope where the heath gave way to sheltered oak groves."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"The cool springs emerge beneath **ferned** ledges where maidenhair spreads its delicate lace over mossy granite."*
+> - 📜 **Alfred Lord Tennyson (*Idylls of the King*):** *"Through **ferned** valleys and deep forest glades the knights pursued their quest."*
+

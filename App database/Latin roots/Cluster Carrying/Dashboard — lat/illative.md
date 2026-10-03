@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of illation or inference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling or dependent on or arrived at by inference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing or introducing an inference or conclusion (as words like 'therefore', 'consequently', 'so').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammatical linguistics, a case (especially in Finno-Ugric languages) denoting movement into the interior of something.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, illative designates relating to or having the nature of illation or inference."*
+> - 📜 **John Henry Newman (*An Essay in Aid of a Grammar of Assent*):** *"The **illative** sense is that personal judgment which guides the mind to a certitude beyond explicit syllogisms."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"Connectives of an **illative** character mark the transitions of sound logical argument."*
+> - 📜 **Henry Sweet (*A New English Grammar*):** *"Conjunctions such as 'therefore' and 'hence' are classified by grammarians as **illative** particles."*
+

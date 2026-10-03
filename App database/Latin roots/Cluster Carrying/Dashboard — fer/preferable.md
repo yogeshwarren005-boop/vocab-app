@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More desirable than another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More desirable than another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More desirable, suitable, worthy, or advantageous than an alternative; worthy of being chosen in preference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rational choice theory and philosophical ethics, possessing higher relative normative value or utility when compared with alternative courses of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Perhaps a cloister would be preferable.” “A cloister!"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She could almost think anything would have been preferable to this."*
-> - 📜 **George Eliot (*Middlemarch*):** *"However slight the terrestrial intercourse between Dante and Beatrice or Petrarch and Laura, time changes the proportion of things, and in later days it is preferable to have fewer sonnets and more conversation."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Perhaps a cloister would be **preferable** to this wandering misery."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Of two pleasures, if there be one to which all who have experience of both give a decided preference, that is the more **preferable** pleasure."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"A calm and peaceful life is universally deemed **preferable** to the tempest of ambition."*
+

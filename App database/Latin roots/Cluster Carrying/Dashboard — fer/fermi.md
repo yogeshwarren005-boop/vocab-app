@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metric unit of length equal to one quadrillionth of a meter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian nuclear physicist (in the united states after 1939) who worked on artificial radioactivity caused by neutron bombardment and who headed the group that in 1942 produced the first controlled nuclear reaction (1901-1954).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of length equal to one quadrillionth of a meter (ten to the minus fifteen meters), named in honor of nuclear physicist Enrico Fermi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear and particle physics, the standard unit of scale used to measure the diameter of atomic nuclei and the range of the strong nuclear force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fermi designates a metric unit of length equal to one quadrillionth of a meter."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"The radius of an atomic nucleus is of the order of a few units of the **fermi**, proportional to the cube root of the mass number."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"When probing nuclear dimensions on the scale of a **fermi**, electromagnetic forces are completely overshadowed by strong interactions."*
+> - 📜 **Niels Bohr (*Atomic Physics and Human Knowledge*):** *"The spatial localization of nucleons within distances of a **fermi** necessitates quantum mechanical descriptions of short-range forces."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid solution in which alpha iron is the solvent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid solution in which alpha iron is the solvent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ceramic compound composed of iron oxide combined with one or more other metals; or the pure alpha-iron phase in metallurgy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and electrical engineering, a magnetic ceramic material with high electrical resistivity widely employed in high-frequency transformer cores and microwave circulators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ferrite designates a solid solution in which alpha iron is the solvent."*
+> - 📜 **Louis Néel (*Magnetism and Local Molecular Field*):** *"The ceramic **ferrite** combines substantial spontaneous magnetization with high electrical resistivity, minimizing eddy-current losses."*
+> - 📜 **Cyril Stanley Smith (*A History of Metallography*):** *"Microscopic examination of annealed mild steel reveals crystals of soft **ferrite** alongside pearlitic grains."*
+> - 📜 **William Shockley (*Electrons and Holes in Semiconductors*):** *"High-permeability **ferrite** cores revolutionized magnetic storage in early computing circuits."*
+

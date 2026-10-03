@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dignified manner or conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dignified manner or conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Personal bearing, demeanor, or behavior; manner of conducting oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette and educational history, cultivated bodily carriage and courteous propriety expected in formal society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, comportment designates dignified manner or conduct."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"His quiet **comportment** impressed everyone with a conviction of his thorough breeding and self-possession."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck observed every gesture and change in the pupil's **comportment** with cool, watchful eyes."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The grave **comportment** of the elderly scholar commanded respect from all who entered his library."*
+

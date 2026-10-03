@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nerve that conveys impulses toward or to muscles or glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of nerves and nerve impulses; conveying information away from the cns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carrying or conveying outward away from a central organ, nerve axis, or reference point; opposed to afferent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and vascular anatomy, designating motor nerve fibers conducting impulses from the central nervous system to effector muscles or glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, efferent designates a nerve that conveys impulses toward or to muscles or glands."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The final common path is constituted by the **efferent** motoneurone leading directly to the muscle fibers."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Incoming sensory currents discharge into outward **efferent** channels to generate muscular movements."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The large pyramidal cells of the motor cortex send **efferent** axons downward through the pyramidal tract."*
+

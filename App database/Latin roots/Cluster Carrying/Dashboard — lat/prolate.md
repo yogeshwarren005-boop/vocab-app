@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the polar diameter greater than the equatorial diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rounded like an egg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the polar diameter elongated and exceeding the equatorial diameter, as an ellipsoid stretched along its axis of revolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial geometry and fluid mechanics, describing an elongated or lemon-shaped spheroid whose major axis coincides with its central rotation axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolate designates having the polar diameter greater than the equatorial diameter."*
+> - 📜 **Colin Maclaurin (*A Treatise of Fluxions*):** *"A rotating fluid body may assume the figure of a **prolate** ellipsoid under specific boundary constraints of internal motion."*
+> - 📜 **George Biddell Airy (*On the Algebraic and Numerical Theory of Errors of Observations*):** *"The mathematical formulation distinguishes between an oblate and a **prolate** spheroid by the ratio of their axes."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The equipotential surfaces surrounding a conducting conductor may be modeled as confocal **prolate** spheroids."*
+

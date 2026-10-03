@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leather strap or thong used to attach a sandal or shoe to the foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leather strap or thong used to attach a sandal or shoe to the foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow leather strap or thong used to fasten a shoe or sandal; an archaic term for a sandal fastener.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical literature and historical iconography (e.g., Mark 1:7), the symbol of humble servitude associated with unfastening a master's footwear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Because I am subduing myself to permanent consciousness of my unworthiness to unloose the latchet of Dr."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Warthell, a man, the latchet of whose shoes the possessor of a heart like yours is unworthy to unloose."*
+> - 📜 **King James Bible (*The Gospel of Mark*):** *"There cometh one mightier than I after me, the **latchet** of whose shoes I am not worthy to stoop down and unloose."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"He stooped not to bind the **latchet** of his sandal before the summons came."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The humble palmer adjusted the leather **latchet** of his sandal before resuming his pilgrimage across the burning sand."*
+

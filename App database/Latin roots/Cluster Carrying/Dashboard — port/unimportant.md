@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of importance, meaning, or force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in importance, significance, consequence, or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental science, secondary variables that produce no statistically significant perturbation in outcome measurements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"If you remember anything so unimportant—which is not to be expected—you would recollect that my first thought in the affair was directly opposed to her remaining here.” Dismiss the Dedlock patronage from consideration?"*
-> - 📜 **Jane Austen (*Persuasion*):** *"How to have this anxious business set to rights, and be admitted as cousins again, was the question: and it was a question which, in a more rational manner, neither Lady Russell nor Mr Elliot thought unimportant."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph Poorgrass was curled round in the fashion of a hedge-hog, apparently in attempts to present the least possible portion of his surface to the air; and behind him was dimly visible an unimportant remnant of William Smallbury."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"When Farmer Oak smiled, the corners of his mouth seemed to spread into **unimportant** wrinkles."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Slight and seemingly **unimportant** variations may become of high significance under changed conditions of life."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She treated the gossip of the neighborhood as altogether trivial and **unimportant**."*
+

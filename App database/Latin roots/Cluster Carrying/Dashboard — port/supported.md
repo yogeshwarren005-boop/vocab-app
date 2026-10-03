@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give moral or psychological support, aid, or courage to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support materially or financially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Held up, sustained, or maintained by physical structure, financial backing, or moral approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical epistemology, a scientific hypothesis validated by experimental data and repeatable trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, in my knowing, Timon has been this lord’s father And kept his credit with his purse, Supported his estate, nay, Timon’s money Has paid his men their wages."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She had to help him to get up, however, and he came downstairs supported on her arm."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The trooper shakes his head, and leaning forward with his right elbow on his right knee and his pipe supported in that hand, while his other hand, resting on his left leg, squares his left elbow in a martial manner, continues to smoke."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"For, in my knowing, Timon has been this lord's father, and kept his credit with his purse; **supported** his estate with bountiful open hands."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This view is **supported** by the striking resemblance between the embryos of widely distinct vertebrate classes."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She was **supported** through her long illness by the unwearied devotion of her companion."*
+

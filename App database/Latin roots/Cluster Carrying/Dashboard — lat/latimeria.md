@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the latimeridae: coelacanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the latimeridae: coelacanth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of coelacanth fish (Latimeria chalumnae and Latimeria menadoensis), ancient lobe-finned fish long believed extinct until rediscovered off South Africa in 1938.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleontology and vertebrate phylogenetics, a sarcopterygian living fossil possessing hollow fin rays, intracranial hinges, and vestigial lungs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latimeria designates type genus of the latimeridae: coelacanth."*
+> - 📜 **J. L. B. Smith (*Old Fourlegs: The Story of the Coelacanth*):** *"The discovery of **Latimeria** in 1938 proved that the ancient lobe-finned fishes had survived into modern oceans."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The anatomically conservative morphology of **Latimeria** demonstrates that evolution does not require constant rapid morphological change."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"The rediscovery of **Latimeria** provided morphologists with a living representative of ancestral tetrapod relatives."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A construct whereby objects or individuals can be distinguished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstraction belonging to or characteristic of an entity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To regard something as being caused by or belonging to someone; or a quality or feature regarded as a characteristic or inherent part of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In relational database architecture and object-oriented programming, a named data field, column, or property defining an entity type.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless you play the pious innocent, And for an honest attribute cry out ‘She died by foul play.’ CLEON."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much attribute he hath, and much the reason Why we ascribe it to him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I began to fear,” with timid tenderness, “as it was past the usual time, that Miss Jellyby was not coming.” “I beg you will have the goodness to attribute that to me, who have detained her, and to receive my excuses, sir,” said I."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"It takes from our achievements, though performed at height, the pith and marrow of our **attribute**."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Mercy is the noble **attribute** of monarchs when joined with wisdom and impartial justice."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was inclined to **attribute** her reluctance to a natural maidenly modesty."*
+

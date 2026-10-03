@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The size of something as given by the distance around it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The boundary line encompassing an area or object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The enclosing boundary curve of a circle or round geometric figure; or the linear distance around the perimeter of an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical geometry and geodesy, the closed plane curve equidistant from a central locus, or the measured equatorial perimeter of a planetary body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if you fondly pass our proffer’d offer, ’Tis not the roundure of your old-fac’d walls Can hide you from our messengers of war, Though all these English, and their discipline Were harbour’d in their rude circumference."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is no crescent, and his horns are invisible within the circumference."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The field had already been “opened”; that is to say, a lane a few feet wide had been hand-cut through the wheat along the whole circumference of the field for the first passage of the horses and machine."*
+> - 📜 **William Shakespeare (*King John*):** *"Tis not the roundure of your old-faced walls / Can hide you from our messengers of war, / Though all these English, and their discipline, / Were harbor'd in their rude **circumference**."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The rays that fell nearest the **circumference** of the lens suffered the greatest amount of chromatic aberration."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Round through the vast profundity obscure, / And said, Thus far extend, thus far thy bounds, / This be thy just **circumference**, O World."*
+

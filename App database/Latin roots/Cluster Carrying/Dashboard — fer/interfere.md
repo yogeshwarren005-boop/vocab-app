@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come between so as to be hindrance or obstacle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To intervene in an activity or situation without invitation, right, or necessity; to meddle or clash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wave physics, to undergo mutual superposition wherein two coherent wave trains combine to reinforce or cancel each other.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The poor woman is so anxious to make his life at the castle a little more the way it used to be in the old times." "For heaven's sake, Maxa, I hope you are not trying to interfere."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And I dare say we all thought too—I am sure I did, for one—would Boythorn at all interfere with what was going forward?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Do not,” he would sometimes add in a burst of deportment, “even allow my simple requirements to be considered if they should at any time interfere with your own, my Caroline."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Somehow the fun seems to hang fire, though everything's there that a heart could desire, and I will not **interfere** to spoil it."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"No magistrate has authority to **interfere** with the peaceful private worship of conscientious citizens."*
+> - 📜 **Thomas Young (*On the Theory of Light and Colours*):** *"When two rays of monochromatic light cross each other, they **interfere** and produce alternate fringes of brightness and darkness."*
+

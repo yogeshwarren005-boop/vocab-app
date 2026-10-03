@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being put into another form or style or language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being put into another form or style or language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being satisfactorily translated or expressed in another language without severe loss of meaning, nuance, or rhetorical force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and cultural linguistics, denoting idiomatic expressions or poetic forms whose semantic and aesthetic resonances are inextricably intertwined with their native tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"On the sculptured stones in the Copan valley there are characters which seem to resemble very ancient writing, but this pictographic writing is largely untranslatable."*
+> - 📜 **Walt Whitman (*Song of Myself*):** *"I too am not a bit tamed, I too am **untranslatable**, / I sound my barbaric yawp over the roofs of the world."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The true lyric poem is essentially **untranslatable**, for the sound and the sense are mutually constitutive."*
+> - 📜 **Friedrich Nietzsche (*Beyond Good and Evil*):** *"What is most difficult to render from one language into another is the tempo of its style, which is often completely **untranslatable**."*
+

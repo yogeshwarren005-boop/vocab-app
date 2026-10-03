@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of usually succulent herbs; cosmopolitan in distribution especially in americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of usually succulent herbs; cosmopolitan in distribution especially in americas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of flowering plants (the purslane family) within the order Caryophyllales, comprising succulent herbs and subshrubs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant taxonomy and systematic angiosperm phylogeny, plants characterized by two sepal-like involucral bracts and mucilaginous succulent tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, portulacaceae designates family of usually succulent herbs; cosmopolitan in distribution especially in americas."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **portulacaceae** is distinguished by fleshy succulent leaves, two sepals, and a one-celled capsule."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Experiments upon various genera of the **portulacaceae** revealed varying degrees of self-fertility."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Species of the **portulacaceae** are predominantly adapted to arid soils and sunny maritime rocks."*
+

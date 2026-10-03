@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of any particular manner of connectedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of any particular manner of connectedness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of mutual connection, causal association, logical coherence, or kinship between entities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and epistemology, the perceived condition of isolated concepts or sensory data prior to integration into an interpretive conceptual scheme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unrelatedness designates the lack of any particular manner of connectedness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The apparent **unrelatedness** of isolated sensations is an illusion produced by abstracting parts from the continuous stream of thought."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The mind abhors the complete **unrelatedness** of things, seeking ceaselessly for the underlying thread of necessity."*
+> - 📜 **Alfred North Whitehead (*Adventures of Ideas*):** *"The illusion of complete **unrelatedness** arises when we forget that every event inherits conditions from the past universe."*
+

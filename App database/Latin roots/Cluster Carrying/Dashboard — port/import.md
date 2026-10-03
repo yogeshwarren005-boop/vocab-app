@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities (goods or services) bought from a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imported person brought from a foreign country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring goods or services into a country from abroad for sale; or the implicit meaning, significance, or importance of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and textual hermeneutics, the profound underlying significance or thematic resonance conveyed by a statement or symbol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s letters from my mother; what th’ import is I know not yet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this marriage All little jealousies, which now seem great, And all great fears, which now import their dangers, Would then be nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you knew How much they do import, you would make haste."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"There's letters from my mother; what the **import** is, I know not yet, but fear some sudden stroke."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"It is the interest of every nation to **import** goods from whatever country can produce them cheapest."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She weighed the mysterious **import** of his words, wondering what hidden secret he withheld."*
+

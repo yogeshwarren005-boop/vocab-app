@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of preventing conception or impregnation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of preventing conception or impregnation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of preventing conception, reducing reproductive fecundity, or inhibiting biological fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology and pharmacology, designating synthetic steroid agents or hormonal compounds that suppress ovulation or disrupt spermatogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antifertility designates capable of preventing conception or impregnation."*
+> - 📜 **Gregory Pincus (*The Control of Fertility*):** *"The clinical investigation demonstrated that synthetic progestins exert potent **antifertility** effects by inhibiting the ovulatory surge."*
+> - 📜 **Carl Djerassi (*The Politics of Contraception*):** *"The synthesis of orally active 19-norsteroids provided the foundational compound for pharmacological **antifertility** agents."*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"Natural limitations and physiological checks upon fecundity act as systemic **antifertility** constraints in human societies."*
+

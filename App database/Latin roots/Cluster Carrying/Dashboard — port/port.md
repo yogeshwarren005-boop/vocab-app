@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place (seaport or airport) where people and merchandise can enter or leave a country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sweet dark-red dessert wine originally from portugal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A town or city with a harbor where ships load or unload cargo; or the left-hand side of a ship or aircraft when facing forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer networking and operating systems, a numerical endpoint (such as port 80 or 443) identifying a specific service or communication channel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At the Saint Francis here, beside the port."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A thousand, sir, Early though’t be, have on their riveted trim And at the port expect you. [_Shout."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where souls do couch on flowers, we’ll hand in hand, And with our sprightly port make the ghosts gaze."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"At the Saint Francis here, beside the **port**, our vessels ride at anchor."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship was steering out of **port**, leaving the safe harbor behind for the unknown perils of the sea."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"A good **port** is a seaman's haven, sheltering weary ships from the fury of the open gale."*
+

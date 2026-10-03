@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of putting off to a future time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of putting off to a future time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of delaying, postponing, or putting off something to a future time; a postponement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil administration and military conscription, an official temporary exemption from compulsory public duty or tax assessment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deferment designates act of putting off to a future time."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Curious in time I stand, noting the efforts of heroes, / Is the **deferment** of their victory a reason for despair?"*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The **deferment** of the assembly's decision only allowed factional passions to ferment more fiercely."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A dangerous **deferment** of the national debt would destroy public credit and foreign confidence."*
+

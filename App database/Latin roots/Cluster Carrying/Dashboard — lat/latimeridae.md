@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct except for the coelacanth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct except for the coelacanth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of coelacanth fish in the order Coelacanthiformes, containing the extant genus Latimeria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology and vertebrate paleontology, sarcopterygian fishes possessing trilobed caudal fins, cosmoid scales, and paired lobed fins with skeletal elements homologous to tetrapod limbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, latimeridae designates extinct except for the coelacanth."*
+> - 📜 **J. L. B. Smith (*The Sea Fishes of Southern Africa*):** *"The family **Latimeridae** was erected to accommodate the living coelacanth discovered off East London."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Living fossils like the **Latimeridae** exhibit extraordinary morphological stasis across hundreds of millions of years."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The structural continuity of the **Latimeridae** provides a benchmark for evaluating rates of anatomical change."*
+

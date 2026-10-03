@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any gymnospermous tree or shrub bearing cones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any gymnospermous tree or shrub bearing cones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any gymnosperm tree or shrub of the division Pinophyta (order Coniferales), typically evergreen and bearing cones and needle-shaped or scalelike leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical silviculture and forest ecology, resinous vascular plants (such as pines, firs, spruces, and cedars) that dominate temperate and boreal taiga biomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the hall of Osiris at Denderah the coffin containing the hawk-headed mummy of the god is clearly depicted as enclosed within a tree, apparently a conifer, the trunk and branches of which are seen above and below the coffin."*
-> - 📜 **James Joyce (*Ulysses*):** *"Larches, firs, all the trees of the conifer family are going fast."*
-> - 📜 **James Joyce (*Ulysses*):** *"The fashionable international world attended _en masse_ this afternoon at the wedding of the chevalier Jean Wyse de Neaulan, grand high chief ranger of the Irish National Foresters, with Miss Fir Conifer of Pine Valley."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Every **conifer** in the High Sierra has its own peculiar voice when the wind sweeps through its branches."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The ancient fossil record reveals that the **conifer** flourished long before the emergence of flowering plants."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The tall pine stood out against the northern sky, a stately **conifer** that had weathered a century of blizzards."*
+

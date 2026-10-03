@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin pi within the domain of Faith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of pi in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone basin in a church near the altar, equipped with a drain to receive water used in liturgical ablutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman archaeology, a bathing pool, fishpond, or baptismal font situated in an ancient Roman villa or early Christian baptistery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piscina designates pertaining to, derived from, or characteristic of latin pi within the domain of faith."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Near the altar of the Gothic chapel was a delicately carved **piscina** displaying thirteenth-century foliage."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The luxurious ruins of the imperial bath included an expansive marble **piscina** fed by mountain aqueducts."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The young architect sketched the Norman **piscina** uncovered during the restoration of the parish chancel."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a perfidious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a perfidious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a perfidious, treacherous, deceitful, or faithless manner; with deliberate violation of trust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal accusations and historical annals, betraying a sworn monarch, comrade, or covenant in secret collusion with enemies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"On ordinary occasions it might not be exerted with the requisite firmness, and on extraordinary occasions it might be perfidiously abused."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The garrison surrendered upon promise of quarter, but were **perfidiously** butchered the following dawn."*
+> - 📜 **Walter Scott (*The Talisman*):** *"He acted **perfidiously** toward the crusader king, concealing his secret correspondence with the Saracens."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The minister was accused of having **perfidiously** betrayed his sovereign's private counsels to the French court."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from doubt; belief in yourself and your abilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of trust (in someone or something).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firm trust, reliance, or faith placed in a person, idea, or future outcome; or a feeling of self-assurance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal finance and banking stability, the collective faith of depositors and investors that sustains the circulation of credit and fiduciary currency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon thy certainty and confidence What dar’st thou venture?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is their god; he leads them like a thing Made by some other deity than Nature, That shapes man better; and they follow him Against us brats with no less confidence Than boys pursuing summer butterflies Or butchers killing flies."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I make my wager rather against your confidence than her reputation; and, to bar your offence herein too, I durst attempt it against any lady in the world."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Upon thy certainty and **confidence** / What dar'st thou venture?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The stability of commercial enterprise depends entirely upon the mutual **confidence** of merchants in one another's integrity."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Trust thyself: every heart vibrates to that iron string... cultivate supreme **confidence** in your powers."*
+

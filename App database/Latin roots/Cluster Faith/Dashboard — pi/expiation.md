@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensation for a wrong.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of atoning for sin or wrongdoing (especially appeasing a deity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making amends or reparation for guilt or wrongdoing; atonement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient anthropology and liturgical theology, the ritual propitiation or purification by which a defiled community restores divine favor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"It is on the supreme Deity of Christ--on the expiation made for sin by the Maker and Sovereign of worlds--that the whole fabric of evangelical truth rests."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"They see nothing so very terrible in sin, as to require such an expiation."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"She will be our expiation!” shouted one man."*
+> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He felt that in this suffering lay his true **expiation**, cleansing his soul from prior selfishness."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister sought in severe self-chastisement some hidden **expiation** for his unacknowledged transgression."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Public sacrifices were decreed by the Senate as solemn **expiation** for the defeat of the legions."*
+

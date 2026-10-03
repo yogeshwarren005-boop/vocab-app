@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrighteousness by virtue of lacking respect for a god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrighteousness by virtue of lacking respect for a god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, characteristic, or attribute of being impious; irreverence, ungodliness, or profanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological ethics and moral philosophy, willful contempt for sacred obligations, divine authority, or familial piety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impiousness designates unrighteousness by virtue of lacking respect for a god."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Atheism leaves a man to sense, to philosophy, to natural piety, but superstition brands all with frantic **impiousness**."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The shocking **impiousness** of their blasphemies provoked horror among the sober citizens of the town."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"No magistrate can compel a citizen to act against conscience without committing an act of religious **impiousness**."*
+

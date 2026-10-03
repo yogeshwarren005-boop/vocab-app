@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give someone credit for something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe an achievement to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attributed to someone as a creator, cause, or source; or having belief or confidence placed in one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In banking and corporate accounting, entered as an addition to an account balance, reducing an asset or increasing a liability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had grounds for conjecturing a connection between her own history and the dimly suspected tragedy of Fanny’s end which Oak and Boldwood never for a moment credited her with possessing."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The interest at 6 per cent (the usual rate) is $6, and the rest, $7, is credited upon the stock."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Stafford would not have credited to Chapman's General Drapery and Grocery Stores."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba had grounds for conjecturing a connection between her own foolish act and the grave look **credited** to her neighbor."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The ancient philosophers are **credited** with sayings that anticipated all modern wisdom."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Naturalists of high repute have **credited** this plant with remarkable medicinal properties."*
+

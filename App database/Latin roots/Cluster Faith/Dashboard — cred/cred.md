@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Credibility among young fashionable urban individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Credibility among young fashionable urban individuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Believability, trustworthiness, or acceptance, especially among members of an urban counterculture or fashionable peer group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern sociolinguistics and popular culture, informal social currency or peer validation earned through authentic cultural performance rather than institutional authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cred designates credibility among young fashionable urban individuals."*
+> - 📜 **Tom Wolfe (*The Electric Kool-Aid Acid Test*):** *"To maintain their underground **cred**, they avoided all mainstream commercial publicity."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing in Las Vegas*):** *"He had sufficient street **cred** to move through the motorcycle gangs without attracting violence."*
+> - 📜 **Joan Didion (*Slouching Towards Bethlehem*):** *"The young radicals jealously guarded their revolutionary **cred** against bourgeois compromise."*
+

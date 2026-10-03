@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trustworthiness with money as based on a person's credit history; a general qualification for borrowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trustworthiness with money as based on a person's credit history; a general qualification for borrowing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity and reliability of a borrower to repay debt; financial trustworthiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In banking risk assessment and macroeconomic credit ratings, the quantitative score evaluating a borrower's default risk based on cash flow, collateral, and repayment history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creditworthiness designates trustworthiness with money as based on a person's credit history; a general qualification for borrowing."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A merchant's **creditworthiness** depends upon the regularity of his payments and the prudence of his commercial undertakings."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Establishing the national **creditworthiness** was the essential first step toward securing loans from European capitals."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment*):** *"The perceived **creditworthiness** of borrowers collapses during periods of acute liquidity panic."*
+

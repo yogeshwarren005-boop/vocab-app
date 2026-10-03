@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of often limited commendation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of often limited commendation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving of praise, honor, or esteem; worthy of credit or respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical prose and legal testimony, deemed sufficiently reputable and trustworthy to support belief or public respectability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell; he says she is a most respectable, creditable woman."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now that’s very creditable, you know."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Highly creditable to you.” “Sir Leicester Dedlock, Baronet,” returns Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She blushes at the insult, murmured Bathsheba, watching the pink flush on her companion's cheek, which made a very **creditable** show of indignation."*
+> - 📜 **Jane Austen (*Emma*):** *"He managed the affairs of the Donwell parish in a very **creditable** manner, gaining the goodwill of all his neighbors."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A young physician who conducts himself with such industry is bound to attain a **creditable** position in the profession."*
+

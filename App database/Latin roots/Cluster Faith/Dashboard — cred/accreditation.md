@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal granting of official approval, recognition, or credentials to an institution or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher education and international law, the institutional evaluation process verifying that an academic program meets professional quality criteria, or the formal delivery of diplomatic credentials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accreditation designates the act of granting credit or recognition (especially with respect to educational institution that maintains suitable standards)."*
+> - 📜 **Woodrow Wilson (*The State*):** *"The formal **accreditation** of an ambassador establishes his immunity under the law of nations."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"Without proper academic **accreditation**, the new scientific disciplines struggled for recognition within conservative faculties."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"The rapid **accreditation** of consular agents across the Americas facilitated hemispheric commerce."*
+

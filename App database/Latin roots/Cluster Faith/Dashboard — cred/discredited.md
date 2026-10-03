@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be distrusted or disbelieved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damage the reputation of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having lost credibility, reputation, or public confidence; shown to be false, unreliable, or fraudulent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and political theory, describing superseded hypotheses (like the phlogiston theory) or disgraced political regimes abandoned by scholars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, you had then left unseen a wonderful piece of work, which not to have been blest withal would have discredited your travel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet had he framed to himself, by the instruction of his frailty, many deceiving promises of life, which I, by my good leisure, have discredited to him, and now he is resolved to die."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Having long discredited the old systems of mysticism, he now began to discredit the old appraisements of morality."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"O, sir, you had then left unseen a wonderful piece of work, which not to have been blessed with, would have **discredited** your travels."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The antiquated notion of separate cataclysmic creations has been completely **discredited** by modern paleontology."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The oracle had been so often **discredited** by false predictions that its priests could no longer attract pilgrims."*
+

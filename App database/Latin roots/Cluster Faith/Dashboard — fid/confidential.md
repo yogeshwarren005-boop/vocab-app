@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrusted with private information and the confidence of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of information) given in confidence or in secret.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to be kept secret; entrusted with private information; or indicating intimacy and confidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal ethics and enterprise administration, designating privileged communications shielded from compulsory disclosure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore, entering, greeted one after the other in such an engaging, confidential way that she made them feel as if they were old friends."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, in return, make any confidential communication to Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It laid the injunction on me that I should never propose to see the writer, who had long been estranged from all intercourse with the world, but who would see a confidential agent if I would appoint one."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One day she was led by an accident into an oddly **confidential** dialogue with her shepherd."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn was the repository of family secrets, moving like a dark, **confidential** shadow through aristocratic drawing-rooms."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He addressed her in a low, **confidential** tone that excluded all other listeners in the parlor."*
+

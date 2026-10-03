@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of self-confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of self-confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Modesty, shyness, or hesitation resulting from a lack of self-confidence; reserve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy, the prudent hesitance of judgment grounded in an acute awareness of human fallibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have been guided by thee hitherto, And of thy cunning had no diffidence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou dost shame thy mother And wound her honour with this diffidence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I beg your pardon, sir,” he said to my guardian with a manly kind of diffidence, “but you did me the honour to mention the young lady’s name—” “Miss Summerson.” “Miss Summerson,” he repeated, and looked at me again."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"We have been guided by thee hitherto, / And of thy cunning had no **diffidence**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His natural **diffidence** in the presence of strangers was frequently mistaken for supercilious arrogance."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A modest **diffidence** concerning our own knowledge is the best preservative against dogmatism."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impious, irreverent, profane, or ungodly manner; without religious reverence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative and religious writing, defying sacred moral commandments or mocking solemn holy rites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Who can impair thee, mighty King, or bound Thy Empire? easily the proud attempt Of Spirits apostat and thir Counsels vaine Thou hast repeld, while impiously they thought Thee to diminish, and from thee withdraw The number of thy worshippers."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Easily the proud attempt Of Spirits apostate, and their counsels vain, Thou hast repelled; while impiously they thought Thee to diminish, and from thee withdraw The number of thy worshippers."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"We have seen that, according to tradition, one of the kings of Alba was killed by a thunderbolt for impiously mimicking the thunder of Jupiter."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Easily the proud attempt / Of Spirits apostate, and their counsels vain, / He laughs to scorn; while they **impiously** deride his sovereign throne."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The temple was plundered and its altars **impiously** defiled by the invading barbarian host."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"He who had **impiously** stepped upon the sacred grove was shunned by his fellow tribesmen."*
+

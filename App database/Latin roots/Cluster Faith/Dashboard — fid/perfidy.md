@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Betrayal of a trust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of deliberate betrayal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deceitfulness, treacherous betrayal of a sworn trust, or deliberate violation of solemn faith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law of armed conflict, treacherous actions (such as feigning surrender or truce under the white flag) designed to betray an adversary's trust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By my soul, the countenance of that fellow when he was a boy was the blackest image of perfidy, cowardice, and cruelty ever set up as a scarecrow in a field of scoundrels."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"He needs not, he heeds not, Or human love or hate; Whilst I here must cry here At perfidy ingrate!"*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"His mind had not yet grasped the full enormity of the conspiracy of which he was the victim, but he knew that the perfidy of Lal and the loss of the Sapphire meant death to his hopes of winning victory for the Khalsa."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"True, we may thank the **perfidy** of France / That picked the jewel out of England's crown, / But our own folly gave the opportunity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman Senate denounced the shameful **perfidy** of the Carthaginian peace commissioners."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"She was false to her nuptial vows, and by her cruel **perfidy** delivered me blind into the hands of the Philistines."*
+

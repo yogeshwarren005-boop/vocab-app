@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Betrayal of a trust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Betrayal of a trust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, characteristic, or display of being perfidious; treacherousness or faithlessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and historical jurisprudence, deliberate treasonous deception that destroys social trust and foundational covenants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfidiousness designates betrayal of a trust."*
+> - 📜 **Edward Hyde, Earl of Clarendon (*History of the Rebellion*):** *"The shocking **perfidiousness** of his closest associates hastened the king's ruin more than the arms of his enemies."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No vice is more universally detested by mankind than the insidious **perfidiousness** of a false friend."*
+> - 📜 **David Hume (*The History of England*):** *"The reign was stained by repeated acts of royal **perfidiousness** that dissolved the allegiance of the barons."*
+

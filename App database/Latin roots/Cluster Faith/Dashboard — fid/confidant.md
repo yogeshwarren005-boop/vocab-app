@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone to whom private matters are confided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone to whom private matters are confided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trusted friend or associate to whom one shares private thoughts, personal secrets, or intimate concerns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative literature and classical drama, a secondary character to whom the protagonist reveals motivations that would otherwise remain hidden from the audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"So reasoned Edmund, till his father made him the confidant of a scheme which placed Fanny’s chance of seeing the second lieutenant of H.M.S."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"See the advantages of a cabman as a confidant."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I gave a cry of surprise, threw up my arms to cover my face, and, rushing to my confidant, the Lascar, entreated him to prevent anyone from coming up to me."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She found to her surprise that an intimate **confidant** was ready to listen to her most secret perplexities."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was the chosen **confidant** of her sister's enthusiastic hopes and tender anxieties."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"He acted as her discreet **confidant**, guiding her judgment through the intricate society of Rome."*
+

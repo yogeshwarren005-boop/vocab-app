@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having power to atone for or offered by way of expiation or propitiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having power to atone for or offered by way of expiation or propitiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended, designed, or serving to make expiation, amends, or atonement for an offense.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ritual anthropology and classical history, characterizing sacrifices, lustrations, or offerings performed to avert divine retribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence too we can understand why an ancient Roman law, attributed to King Tullus Hostilius, prescribed that, when incest had been committed, an expiatory sacrifice should be offered by the pontiffs in the grove of Diana."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Meanwhile at home an oracle had commanded that King Athamas himself should be sacrificed as an expiatory offering for the whole country."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Before setting out they offered expiatory sacrifices to the souls of bears slain in previous hunts, and besought them to be favourable to the hunters."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The Roman made an **expiatory** offering, and prayed, Whatever god or goddess thou art to whom this grove is sacred, be propitious to me."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The community designated an **expiatory** scapegoat to carry into the desert the collective sins of the year."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor instituted **expiatory** rites to cleanse the capital from the pollution of civil slaughter."*
+

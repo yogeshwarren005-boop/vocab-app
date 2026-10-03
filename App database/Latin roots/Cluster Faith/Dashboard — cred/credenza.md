@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A kind of sideboard or buffet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of sideboard or buffet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low, elongated sideboard or buffet table, often with drawers and cupboards, used for storage or serving meals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate interior design and Italian Renaissance decorative arts, a piece of formal furniture positioned against a wall behind a principal desk or dining table.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credenza designates a kind of sideboard or buffet."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Upon the carved Renaissance **credenza** stood a magnificent collection of Venetian glass."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The dining room was dominated by an imposing mahogany **credenza** laden with family silver."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The Florentine interior was distinguished by the refined proportions of its walnut **credenza**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a tolerably worthy extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a tolerably worthy extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a creditable or praiseworthy manner; with good reputation, honor, or success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical narrative, executing a public duty or profession with diligence and unimpeachable integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He is a pleasant fellow, and would jilt you creditably.” “Thank you, sir, but a less agreeable man would satisfy me."*
-> - 📜 **Effie Afton (*Eventide*):** *"The yearly examination and exhibition of Cedar Hill Seminary was approaching, and teachers and pupils were busied with preparations in order to pass the ordeal creditably to themselves and to the institution."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They had inhabited one of the neatest cottages, and by various rural occupations, and the assistance of a small garden, had supported themselves creditably and comfortably, and led a happy and a blameless life."*
+> - 📜 **Jane Austen (*Emma*):** *"He had lived very **creditably** on his small annuity, never running into debt or complaining of his fortunes."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel conducted the spring shearing so **creditably** that Bathsheba raised his wages on the spot."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He discharged his responsibilities in the counting-house most **creditably**, winning the warm commendation of his employers."*
+

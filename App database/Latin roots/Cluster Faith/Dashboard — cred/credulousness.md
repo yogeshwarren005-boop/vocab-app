@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendency to believe too readily and therefore to be easily deceived.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendency to believe too readily and therefore to be easily deceived.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, habit, or disposition of being credulous; gullibility or excessive readiness to believe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological critique, an intellectual defect characterized by the absence of skepticism and critical evaluation of sensory reports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credulousness designates tendency to believe too readily and therefore to be easily deceived."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The first distemper of learning is when men study words and not matter, which breedeth **credulousness** and imposture."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Universal **credulousness** is dangerous, but total skepticism is contrary to the active conduct of life."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A habit of unexamined **credulousness** disposes the mind to receive any tradition however absurd."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to believe on little evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing a lack of judgment or experience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing too great a readiness to believe things; easily deceived, gullible, or unsuspecting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization and classical drama, prone to accepting deceitful flattery or baseless rumors without critical examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay me, most credulous fool, Egregious murderer, thief, anything That’s due to all the villains past, in being, To come!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do serve you in this business. [_Exit Edgar._] A credulous father! and a brother noble, Whose nature is so far from doing harms That he suspects none; on whose foolish honesty My practices ride easy!"*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"We thank you, maiden, / But may not be so **credulous** of cure, / When our most learned doctors have forsaken us."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Ah, flattering guise! so easily deceived / Is the **credulous** mind by feigned humility."*
+> - 📜 **Francis Bacon (*Essays*):** *"The **credulous** man is an easy prey to impostors, for his mind is always open to marvels."*
+

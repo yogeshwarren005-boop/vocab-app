@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pietism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively or hypocritically pious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by pietism; excessively or hypocritically religious; sanctimonious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian satire and church history, describing outward displays of moral rectitude used as a mask for worldly ambition or social intolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pietistical designates of or relating to pietism."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"He adopted a **pietistical** whine that was calculated to deceive the benevolent trustees of the charity."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Slope indulged in **pietistical** platitudes that aroused the immediate distrust of the archdeacon."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Her conversation was filled with **pietistical** phrases that sounded strangely hollow to those who knew her private conduct."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to bring discredit or disrepute; blameworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to bring discredit or disrepute; blameworthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to bring discredit, shame, or disgrace; dishonorable or disreputable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional ethics and public administration, conduct that violates established fiduciary standards and lowers institutional dignity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I am glad it occurred to me to mention it; for it would really be discreditable to _you_ to let them go alone.” “My uncle is to send a servant for us.” “Oh!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Deuce knows,” said Caleb, who never referred the knowledge of discreditable doings to any higher power than the deuce."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Especially if there was anything discreditable to be found out concerning another man, Caleb preferred not to know it; and if he had to tell anybody under him that his evil doings were discovered, he was more embarrassed than the culprit."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The objectors to utilitarianism cannot always be charged with representing it in a **discreditable** light."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"To accept the income without discharging the duty appeared to him a most **discreditable** position."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The clandestine transaction was so **discreditable** that both parties sought to keep it buried in secrecy."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easy to believe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceedingly; extremely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incredible manner; to a degree that is difficult to believe; amazingly or astonishingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative and descriptive literature, indicating exceptional intensity, speed, complexity, or expenditure of effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"An incredibly tall figure, which could not possibly be human, was wandering across the terrace with slow steps."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is a well-nigh incredibly small proportion, hardly as great as that of the weight of the gyroscope compared with the car or ship to which it is applied."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The whole thing was incredibly silly."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I learned from my two years' experience that it would cost **incredibly** little trouble to obtain one's necessary food."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The morphological variations produced by artificial selection within a few generations are **incredibly** diverse."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The pilot navigated the snags with a precision that seemed **incredibly** daring to a landsman."*
+

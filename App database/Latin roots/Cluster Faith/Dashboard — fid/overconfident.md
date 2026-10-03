@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by excessive confidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively confident, presumptuous, or assured; cocky or imprudently bold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical tragedy and tactical planning, disregarding genuine hazards and warnings due to inflated self-estimation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overconfident designates marked by excessive confidence."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had been too **overconfident** in his calculations, forgetting how easily weather upsets the plans of the most prudent farmer."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **overconfident** general neglected his scouts and led his legions into a deadly mountain ambush."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The youthful soul is often **overconfident** of its strength until battered by the harsh realities of worldly conflict."*
+

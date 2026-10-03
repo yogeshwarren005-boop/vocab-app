@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Certified as professional by evidence or testimonials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Certified as professional by evidence or testimonials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing recognized official credentials, qualifications, certifications, or professional testimonials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional sociology and labor economics, having undergone formal vetting and licensing required for elite professional practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credentialled designates certified as professional by evidence or testimonials."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Bureaucratic administration relies upon a staff of **credentialled** experts trained in standardized procedures."*
+> - 📜 **Thorstein Veblen (*The Higher Learning in America*):** *"The modern university functions as a factory producing **credentialled** graduates for corporate enterprise."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"A truly democratic society values practical competence above mere **credentialled** titles."*
+

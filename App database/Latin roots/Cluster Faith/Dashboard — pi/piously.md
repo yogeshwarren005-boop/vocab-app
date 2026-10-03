@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a devout and pious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a devout and pious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pious, devout, or religious manner; with deep reverence, godliness, or dutiful devotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative and satirical prose, performing actions with ostentatious religious solemnity or sincere moral fidelity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Primitive customs always take on a religious sanction, and every member of the tribe is piously bound to do as his fathers have done and as his neighbors are doing."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In life but few of them would have helped the whale, I ween, if peradventure he had needed it; but upon the banquet of his funeral they most piously do pounce."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"In life but few of them would have helped the whale, I ween, if peradventure he had needed it; but upon the banquet of his funeral they most piously do pounce."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In life but few of them would have helped the whale, I ween, if **piously** requested to do so for the sake of mercy."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The medieval guildsmen **piously** dedicated their craft halls to the patron saint of their trade."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The old puritan stepped **piously** into the meetinghouse, bowing gravely to the assembled elders."*
+

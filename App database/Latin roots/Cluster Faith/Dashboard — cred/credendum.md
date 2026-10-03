@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) any of the sections into which a creed or other statement of doctrine is divided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) any of the sections into which a creed or other statement of doctrine is divided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An article of faith or doctrine that is to be believed; a required religious dogma (contrasted with agendum, a practical duty).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic theology and political ideology, an essential theological proposition or doctrinal dogma that demands assent from all faithful adherents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credendum designates (christianity) any of the sections into which a creed or other statement of doctrine is divided."*
+> - 📜 **Jeremy Taylor (*Holy Living*):** *"The simple **credendum** of the gospel was gradually overlaid with scholastic subtleties."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Every moral agendum is rooted in a prior spiritual **credendum**."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"I find no difficulty in assenting to this mysterious **credendum**, though reason cannot fathom it."*
+

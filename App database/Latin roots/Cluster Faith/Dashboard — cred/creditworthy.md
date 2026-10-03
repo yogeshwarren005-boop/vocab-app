@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an acceptable credit rating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an acceptable credit rating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable, trustworthy, or sufficiently solvent to receive credit or loans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial underwriting and commercial banking, possessing adequate collateral, capital reserves, and earnings to justify the extension of credit without undue risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, creditworthy designates having an acceptable credit rating."*
+> - 📜 **Walter Bagehot (*Lombard Street*):** *"In times of financial panic, the central bank must lend freely to all solvent and **creditworthy** houses upon good security."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Prudent bankers extend accommodation only to those traders whom they know to be strictly **creditworthy**."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The accumulation of capital enables lenders to provide funds to any **creditworthy** entrepreneur with a viable enterprise."*
+

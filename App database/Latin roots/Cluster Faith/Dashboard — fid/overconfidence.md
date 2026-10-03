@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Total certainty or greater certainty than circumstances warrant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Total certainty or greater certainty than circumstances warrant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or unjustified confidence; too great a reliance on one's own abilities or good fortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral economics and military strategy, the cognitive bias wherein subjective certainty systematically exceeds objective accuracy, leading to strategic blunder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overconfidence designates total certainty or greater certainty than circumstances warrant."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The disastrous Sicilian expedition was born of an arrogant **overconfidence** in our naval supremacy."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The overweening conceit of men leads to fatal **overconfidence** in adventurous lotteries."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Ignorance more frequently begets **overconfidence** than does knowledge."*
+

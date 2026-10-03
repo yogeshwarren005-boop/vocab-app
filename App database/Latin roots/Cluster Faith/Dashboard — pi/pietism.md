@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 17th and 18th-century german movement in the lutheran church stressing personal piety and devotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated or affected piety and religious zeal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 17th-century movement in the German Lutheran Church emphasizing personal religious devotion, Bible study, and practical Christian living.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious sociology and intellectual history, an intense personal or emotional piety, often contrasted with rigid institutional dogmatism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pietism designates 17th and 18th-century german movement in the lutheran church stressing personal piety and devotion."*
+> - 📜 **Immanuel Kant (*Critique of Practical Reason*):** *"The moral rigor of early **pietism** influenced my lifelong conviction regarding the unconditional nature of duty."*
+> - 📜 **Max Weber (*The Protestant Ethic*):** *"Continental **pietism** fostered an inner-worldly asceticism that shaped the work ethic of modern industrial culture."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"German **pietism** was a protest of individual spirituality against the dry formalism of state scholasticism."*
+

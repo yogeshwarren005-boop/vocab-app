@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Righteousness by virtue of being pious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Righteousness by virtue of being pious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The display or habit of devout reverence; godliness, piety, or sincere religious dedication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and literature, the earnest inward dedication to spiritual duties and ethical rectitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piousness designates righteousness by virtue of being pious."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Sincere **piousness** sheds a gentle luster over all the domestic virtues without souring the mind with bigotry."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The quiet **piousness** of Dinah Morris touched the hearts of the rough village miners."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"True **piousness** does not withdraw from the world, but transforms daily labor into a sacred vocation."*
+

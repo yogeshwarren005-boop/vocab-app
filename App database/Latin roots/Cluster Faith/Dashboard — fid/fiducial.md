@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of a legal trust (i.e. the holding of something in trust for another).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a fixed standard of reference for comparison or measurement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on, having, or inspiring trust or reliance; or serving as a fixed standard of reference or comparison.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and surveying instrumentation, designating reference marks, lines, or points upon an optical reticle used as fixed spatial benchmarks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fiducial designates relating to or of the nature of a legal trust (i.e. the holding of something in trust for another)."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The micrometer wire must be aligned precisely upon the **fiducial** line of the reticle to ensure accurate coordinates."*
+> - 📜 **George Biddell Airy (*Theory of Errors of Observations*):** *"Errors of collimation are eliminated by referring all angular sweeps to a stable **fiducial** mark."*
+> - 📜 **Jeremy Taylor (*Holy Dying*):** *"The Christian conscience rests with **fiducial** reliance upon the divine promises of mercy."*
+

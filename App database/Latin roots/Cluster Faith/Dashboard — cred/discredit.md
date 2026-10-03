@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in low esteem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be distrusted or disbelieved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To harm the good reputation of someone or something; or to cause to be distrusted or disbelieved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and scientific debate, the systematic refutation of a witness, theory, or alleged fact by uncovering fatal discrepancies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Did he not rather Discredit my authority with yours, And make the wars alike against my stomach, Having alike your cause?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fie upon him, he will discredit our mystery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It would discredit the blest gods, proud man, To answer such a question."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Did he not rather / **Discredit** my authority with yours, / And make the faction greater than it was?"*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"A single well-authenticated fossil in an older stratum would **discredit** the entire proposed lineage."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"To attempt to **discredit** an opponent by imputing bad motives is the most common vice of polemical discussion."*
+

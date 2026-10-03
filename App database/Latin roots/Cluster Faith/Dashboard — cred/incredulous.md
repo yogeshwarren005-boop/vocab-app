@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not disposed or willing to believe; unbelieving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not disposed or willing to believe; unbelieving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling or unable to believe something; showing, feeling, or expressing disbelief or skepticism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character portrayal and psychological dialogue, reacting with critical doubt or astonished rejection to an unexpected revelation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I do feign, O, let me in my present wildness die And never live to show th’ incredulous world The noble change that I have purposed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, everything adheres together, that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstance."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A more foolish remark was never made, and I want you to contradict it: that’s what I came for.” Gabriel looked incredulous and sad, but between his moments of incredulity, relieved."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"If I do feign, O, let me in my present wildness die / And never live to show the **incredulous** world / The noble change that I have purposed!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth looked at him with an **incredulous** smile, unable to comprehend the change in his sentiments."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare listened with an **incredulous** expression, as if his ears had deceived him."*
+

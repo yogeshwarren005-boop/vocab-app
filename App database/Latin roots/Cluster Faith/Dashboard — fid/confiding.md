@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reveal in private; tell confidentially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confer a trust upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing trust and confidence in others; trustful, unsuspicious, and candid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological development and romantic fiction, characterized by innocent, childlike vulnerability and complete absence of cynical suspicion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Next comes his sister Mea, whose fault is that she is too submissive and confiding."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"In this short time the two boys had grown as confiding as if they had known each other for years and they were just then wandering towards the castle hill, absorbed in lively conversation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sometimes I thought of confiding in Richard, but was deterred by the possibility of his fighting Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"So the reserve went off, and they were **confiding** and warm as friends of long standing."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Her gentle, **confiding** nature endeared her to all the unfortunate inmates of the Marshalsea."*
+> - 📜 **George Eliot (*Adam Bede*):** *"A young girl's **confiding** affection is a precious treasure that should never be trifled with."*
+

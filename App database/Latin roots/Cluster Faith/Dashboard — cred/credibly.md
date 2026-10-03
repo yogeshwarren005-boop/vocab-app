@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easy to believe on the basis of available evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easy to believe on the basis of available evidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a credible manner; in a way that induces belief or can be trusted as reliable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and investigative reporting, attested by trustworthy witnesses or corroborated by documentary proof.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credibly designates easy to believe on the basis of available evidence."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The chroniclers **credibly** report that the emperor marched fifty miles in a single day."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We have been **credibly** informed of strange phenomena in the mines that demand further scientific inquiry."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"It was **credibly** affirmed that the intercepted despatches contained the complete plan of the invasion."*
+

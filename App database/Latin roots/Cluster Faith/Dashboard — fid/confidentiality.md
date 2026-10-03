@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being secret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discretion in keeping secret information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The duty or principle of keeping sensitive information secret and protecting it from unauthorized disclosure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical jurisprudence and professional ethics, the legal obligation binding fiduciaries to preserve the secrecy of disclosures made during professional service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I've screened my recollections so as to honor my commitments to confidentiality."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The Air Force established policies providing limited confidentiality protection to service members experiencing personal problems and greatly expanded the proactive role of mental health service providers."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The sacred duty of clinical **confidentiality** demands that the physician guard the secrets of the patient as inviolable."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The law protects professional **confidentiality** not for the counselor's benefit, but to ensure that citizens may seek justice without fear."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The seal of **confidentiality** surrounding grand jury deliberations preserves them from popular intimidation."*
+

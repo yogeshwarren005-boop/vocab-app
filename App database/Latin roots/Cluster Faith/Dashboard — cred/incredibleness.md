@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being incredible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being incredible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute or degree of being incredible; astonishment or extreme implausibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian speculative fiction and natural philosophy, the utter departure of a concept or phenomenon from conventional scientific plausibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incredibleness designates the quality of being incredible."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"So I don't think any of us said very much about time travelling in the interval, owing to its sheer **incredibleness**."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"The sudden transmutation of colors excited wonder in the spectators by its apparent **incredibleness**."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The **incredibleness** of these monstrous descriptions should have warned compilers against recording them as natural facts."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being believable or trustworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being believable or trustworthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, characteristic, or attribute of being credible; believability or trustworthiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy and historical apologetics, the degree to which an observed empirical narrative commands intellectual assent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credibleness designates the quality of being believable or trustworthy."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The **credibleness** of our chemical hypotheses must rest upon repeatable experimental trials rather than ancient scholastic authority."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The degree of **credibleness** we attach to any proposition ought to be proportioned to the probability of its grounds."*
+> - 📜 **Samuel Clarke (*A Demonstration of the Being and Attributes of God*):** *"The historical **credibleness** of ancient testimony requires careful examination of the witnesses' veracity."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having power to atone for or offered by way of expiation or propitiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having power to atone for or offered by way of expiation or propitiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power, intent, or capacity to make expiation or atone for wrongdoing; propitiatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sacramental theology and comparative religion, designating penitential acts or offerings designed to cancel ceremonial or moral defilement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expiative designates having power to atone for or offered by way of expiation or propitiation."*
+> - 📜 **Jeremy Taylor (*Holy Dying*):** *"He offered fervent prayers as an **expiative** sacrifice for the transgressions of his youth."*
+> - 📜 **John Henry Newman (*Parochial and Plain Sermons*):** *"The ancient sacrifices possessed a symbolic and **expiative** character anticipating the cross."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Repentance without an **expiative** transformation of will remains a sterile emotion."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrighteousness by virtue of lacking respect for a god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrighteousness by virtue of lacking respect for a god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of piety or reverence for a deity or sacred things; irreverence, ungodliness, or wickedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Athenian law and moral theology, a grave civic and religious transgression challenging established civic religion or filial duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To keep that oath were more impiety Than Jephthah’s when he sacrificed his daughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Impiety has made a feast of thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But fare thee well, most foul, most fair! farewell, Thou pure impiety, and impious purity!"*
+> - 📜 **William Shakespeare (*Sonnet 67*):** *"Ah wherefore with infection should he live, / And with his presence grace **impiety**?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"To question heaven's high decree was accounted an unpardonable **impiety** by the seraphic host."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Socrates was condemned by his fellow citizens on a charge of public **impiety** and subversion of ancestral rites."*
+

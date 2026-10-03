@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846...
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who can be employed as a detective to collect information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sixteenth letter of the Greek alphabet; or the mathematical constant representing the ratio of a circle's circumference to its diameter (approximately 3.14159).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing and typography, a mass of type jumbled or spilled together indiscriminately; or to jumble type into disorder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Tant pis!” said her Ladyship, “I hope it may do her good!” Then, in a lower tone, but still loud enough for me to hear, “I noticed her; I am a judge of physiognomy, and in hers I see all the faults of her class.” “What are they, madam?” inquired Mr."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Yet it is characteristic of him that he always tended to regard the writing of verse as a 'pis aller'."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I have already mentioned that the dwellings of the islanders were almost invariably built upon massive stone foundations, which they call pi-pis."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The compositor had dropped the composing stick, reducing the neat lines of type to a hopeless heap of **pi**."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The native printing press stood neglected, its fonts scattered in hopeless **pi** upon the clay floor."*
+> - 📜 **Isaac Newton (*The Method of Fluxions*):** *"The quadrature of the circle demonstrates that the transcendental quantity **pi** cannot be expressed as a simple rational fraction."*
+

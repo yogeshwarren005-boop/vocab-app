@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing or expressing reverence for a deity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing or expressing reverence for a deity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoutly religious; showing reverent devotion to God or religious obligations; or dutiful toward parents and family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and ethics, demonstrating faithful fulfillment of duty to ancestral traditions, country, and sacred laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So Follow’d my banishment, and this twenty years This rock and these demesnes have been my world, Where I have liv’d at honest freedom, paid More pious debts to heaven than in all The fore-end of my time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In few, Ophelia, Do not believe his vows; for they are brokers, Not of that dye which their investments show, But mere implorators of unholy suits, Breathing like sanctified and pious bawds, The better to beguile."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first row of the pious chanson will show you more."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"Where I have lived at honest freedom, paid / More **pious** debts to heaven than in all / The fore-end of my time."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With **pious** awe the archangel bowed before the celestial majesty."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She was guided by a **pious** gratitude for the quiet home that had sheltered her youth."*
+

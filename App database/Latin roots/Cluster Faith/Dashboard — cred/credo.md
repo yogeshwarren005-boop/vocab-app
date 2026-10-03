@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any system of principles or beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any system of principles or beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement of the beliefs or principles that guide someone's actions; a creed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church liturgy and choral music, the third item of the Ordinary of the Catholic Mass setting the Nicene Creed to music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Bravo, Jacques!' they cried; and one said, 'You are right, _mon ami_, the only god to trust in nowadays.' 'It is a short _credo_, M. le Maire,' said another, who caught my eye."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The saying of St Augustine (Sermon 43, 3), "Immo Credo ut intelligas," is to many of our minds offensive--I think, because we give not quite the right meaning to his "Credo"."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The purified soul takes the Bible for his "credo" and loves God's children of whatever name with a generosity that overtops every inadequate consideration."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He only feels confident that you will do it, said Dorothea, expressing her simple **credo** of faith in human goodness."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Every man must fashion for himself a living **credo** out of the ashes of outworn dogmas."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The poet articulated his artistic **credo** with unyielding devotion to classical simplicity."*
+

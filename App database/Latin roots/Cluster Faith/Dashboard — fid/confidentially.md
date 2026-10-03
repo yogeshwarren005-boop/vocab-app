@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a confidential manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a confidential manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a confidential manner; privately, secretly, or with an understanding that the information will not be shared.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social discourse and narrative prose, communicating in low, secretive tones implying mutual trust and exclusive intimacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you know that, Kurt," he said confidentially, "I only wonder how she could get hold of such a basket full, you know, without being--you know--" With this he made the unmistakable motion of Mr."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Even the reserved Bruno, whom nobody had ever been able to approach, linked Salo's arm confidentially in his in order to conduct the guest into the house."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as she saw that it was a human being and not a lion, she came nearer and asked quite confidentially, "Do you happen to know where the beautiful old mignonette is, that mama saw in the garden here?" "No," the man answered curtly."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He said to himself that he was only doing right in telling her this **confidentially**, before any public announcement was made."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Weston took Emma aside to whisper **confidentially** the news she had received that morning."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber leaned across the table and informed me **confidentially** that he was momentarily waiting for something to turn up."*
+

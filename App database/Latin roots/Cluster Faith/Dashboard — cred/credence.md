@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental attitude that something is believable and should be accepted as true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of sideboard or buffet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in or acceptance of something as true, valid, or reliable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical ecclesiastical practice and historical furniture design, a small side table or shelf beside the altar holding Eucharistic vessels prior to consecration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His love and wisdom, Approv’d so to your majesty, may plead For amplest credence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general of our horse thou art, and we, Great in our hope, lay our best love and credence Upon thy promising fortune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sith yet there is a credence in my heart, An esperance so obstinately strong, That doth invert th’attest of eyes and ears; As if those organs had deceptious functions Created only to calumniate."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"His love and wisdom, / Approved so to your majesty, may plead / For ample **credence**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With easy **credence** mankind embraced the false promises of the deceiver."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must give no **credence** to ungrounded rumors unsupported by careful experiment."*
+

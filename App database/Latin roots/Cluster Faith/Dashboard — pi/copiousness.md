@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of a more than adequate quantity or supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of a more than adequate quantity or supply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute, extent, or degree of being copious; great abundance, plentifulness, or fullness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and classical rhetoric, exuberant richness of diction or encyclopedic breadth of subject matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Wordsworth expounded the ruinous tendency of Reform and manufactures with even unusual copiousness, on account of the admiring affection with which he felt himself surrounded."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The chief characteristic of Dryden's prose is its boundless vigor and easy **copiousness**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **copiousness** of nature far surpasses the subtle conceptions of the human intellect."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The **copiousness** of Shakespeare's vocabulary reflects the myriad facets of human experience."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being believed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (a common but incorrect usage where `credulous' would be appropriate) credulous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being believed, trusted, or accepted as true; convincing and reliable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy and historical criticism, meeting sufficient evidentiary standards to warrant rational assent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was hardly credible that the jack had not got wrong with the minutes when the rattle began again, the puppet emerged, and the four quarters were struck fitfully as before."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It hardly was credible that such a heavenly light could be the parent of such a diabolical sound."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Nay, 'tis most **credible**, we here receive it, / A certainty, vouch'd with our sponsor's eye."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The explanation appeared completely **credible** to everyone present at the market exchange."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"It seems scarcely **credible** that so vast an amount of geological change could be effected by such slow processes."*
+

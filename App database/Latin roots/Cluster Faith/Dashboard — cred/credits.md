@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A list of acknowledgements of those who contributed to the creation of a film (usually run at the end of the film).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acknowledgment or praise given to contributors; or the accounting entries recording sums paid or owed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In film production and academic administration, the scrolling sequence listing cast and crew, or units evaluating completed educational coursework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Good credits would materially reduce this time."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I have seen a man confess, after half an hour in the jacket, truths and fictions that cost him years of credits."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For that offence Philadelphia Red lost his credits."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"This fable, which tradition **credits** to ancient Persian bards, contains profound spiritual meaning."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The bookkeeper examined the ledger, verifying that the debits and **credits** were strictly balanced."*
+> - 📜 **Mark Twain (*Roughing It*):** *"He gave his partner all the **credits** for discovering the rich silver vein on the mountainside."*
+

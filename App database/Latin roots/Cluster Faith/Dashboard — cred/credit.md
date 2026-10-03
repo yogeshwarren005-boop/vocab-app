@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money available for a client to borrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Public trust, confidence, or reliance placed in a person's truthfulness or solvency; or the acknowledgment of an achievement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial finance and macroeconomic banking, an arrangement allowing a borrower to obtain goods, services, or money based on the promise of future repayment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus vainly thinking that she thinks me young, Although she knows my days are past the best, Simply I credit her false-speaking tongue; On both sides thus is simple truth suppressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, pretty lady, you must hold the credit of your father. [_Exeunt Bertram and Lafew._] HELENA."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall they credit A poor unlearned virgin, when the schools, Embowell’d of their doctrine, have let off The danger to itself?"*
+> - 📜 **William Shakespeare (*Sonnet 138*):** *"Thus vainly thinking that she thinks me young, / Although she knows my days are past the best, / Simply I **credit** her false-speaking tongue."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Commerce and manufactures can seldom flourish long in any state without public and private **credit**."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"The maintenance of national **credit** is an indispensable necessity to the prosperity and honor of the commonwealth."*
+

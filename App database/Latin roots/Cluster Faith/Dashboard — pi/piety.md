@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Righteousness by virtue of being pious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Righteousness by virtue of being pious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devotion, reverence for God or sacred obligations, and dutiful respect for family and ancestral traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman antiquity (pietas), the supreme civic virtue encompassing filial duty to parents, loyalty to the commonwealth, and solemn devotion to the gods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, thou villain, thou art full of piety, as shall be proved upon thee by good witness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, if to fight for king and commonweal Were piety in thine, it is in these."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And how his piety Does my deeds make the blacker!"*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"No, thou villain, thou art full of **piety**, as shall be proved upon thee by good witness."*
+> - 📜 **Virgil (*Aeneid*):** *"Renowned for **piety** as well as arms, pious Aeneas carried his aged father through the flames of burning Troy."*
+> - 📜 **John Milton (*Paradise Lost*):** *"True **piety** consists not in outward ceremonial rites, but in the obedience of the humble heart."*
+

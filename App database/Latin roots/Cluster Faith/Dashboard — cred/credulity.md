@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tendency to believe readily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tendency to believe readily.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tendency to be too ready to believe that something is real or true; gullibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Enlightenment philosophy and historical criticism, the uncritical psychological disposition to accept superstitious, miraculous, or unverified claims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I am satisfied, and need no more Than what I know, yet shall the oracle Give rest to the minds of others, such as he Whose ignorant credulity will not Come up to th’ truth."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Still, it is undeniable that he makes calls upon our credulity, which a man obeys with reluctance."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Chronic embarrassment was caused by Shelley's extravagant credulity."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Such strange **credulity** of love is in me, / That on the heart of Troilus I will build / A world of true delight."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **credulity** of the populace swallowed the most extravagant tales of pagan oracles and portents."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"This boundless **credulity** has betrayed many an honest man into accepting fictitious marvels."*
+

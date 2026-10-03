@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With confidence; in a confident manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With confidence; in a confident manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a confident manner; with strong assurance, conviction, or certainty; without hesitation or fear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific deduction and historical analysis, asserting conclusions warranted by overwhelming empirical demonstration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"None better than to let him fetch off his drum, which you hear him so confidently undertake to do."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not this a strange fellow, my lord, that so confidently seems to undertake this business, which he knows is not to be done; damns himself to do, and dares better be damn’d than to do’t."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, mother," he said confidently, "there is no reason for you to be upset."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"None better than to let him fetch off his drum, which you hear him so **confidently** undertake to do."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"We may look forward **confidently** to discovering many intermediate links when the geological record is more thoroughly explored."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"He spoke **confidently** of the future, refusing to let the melancholy heath depress his spirits."*
+

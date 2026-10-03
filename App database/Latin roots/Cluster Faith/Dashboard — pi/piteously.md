@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a piteous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a piteous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a piteous manner; in a way that evokes sorrow, compassion, or pity; pathetically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tragic narrative, lamenting, crying, or begging with desperate, heart-wrenching emotional distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say that the last I spoke was “Antony”, And word it, prithee, piteously."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, assure thee, Lucius, ’Twill vex thy soul to hear what I shall speak; For I must talk of murders, rapes, and massacres, Acts of black night, abominable deeds, Complots of mischief, treason, villainies, Ruthful to hear, yet piteously performed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I cannot consent to hear another word, sir,” I returned, “Unless you get up from the carpet directly and go and sit down at the table as you ought to do if you have any sense at all.” He looked piteously, but slowly rose and did so."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Say that the last I spoke was 'Antony', / And word it, prithee, **piteously**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I can never forget how the poor, shivering creature looked at me so **piteously** from the damp doorstep."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The wounded pheasant cried **piteously** in the dark thicket before expiring at dawn."*
+

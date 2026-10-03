@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too much credulity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too much credulity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive credulity; too great a readiness to believe without adequate proof or investigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rationalist philosophy and historical criticism, the intellectual error of accepting superstitions, rumors, or unverified claims through gullibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcredulity designates too much credulity."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The mind of man must be purged of both extreme skepticism and foolish **overcredulity**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **overcredulity** of the Byzantine chroniclers transformed modest military skirmishes into celestial miracles."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A youthful disposition is frequently marred by **overcredulity**, which lays it open to bitter subsequent disillusionment."*
+

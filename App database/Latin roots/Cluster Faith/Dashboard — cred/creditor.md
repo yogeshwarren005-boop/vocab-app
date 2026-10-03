@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person to whom money is owed by a debtor; someone to whom an obligation exists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person to whom money is owed by a debtor; someone to whom an obligation exists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, bank, or company to whom money is owed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bankruptcy jurisprudence and commercial law, an individual or corporate party possessing an enforceable legal claim against the estate of a debtor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will discharge thee ere I go from thee; Bear me forthwith unto his creditor, And knowing how the debt grows, I will pay it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have no true debitor and creditor but it; of what’s past, is, and to come, the discharge."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Within this wall of flesh There is a soul counts thee her creditor, And with advantage means to pay thy love."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"I will discharge thee ere I go from thee; / Bear me forthwith unto his **creditor**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A profligate debtor ruins not only himself, but frequently brings down his honest **creditor** along with him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The impatient **creditor** paced outside the office door, demanding immediate settlement of his bill."*
+

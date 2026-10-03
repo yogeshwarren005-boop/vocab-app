@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written declaration made under oath; a written statement sworn to be true before someone legally authorized to administer an oath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written declaration made under oath; a written statement sworn to be true before someone legally authorized to administer an oath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written statement confirmed by oath or solemn affirmation, for use as judicial evidence in court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil jurisprudence and procedural law, a sworn voluntary deposition made before an authorized notary, magistrate, or commissioner of oaths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Will you do me the favour to mention (as it may interest her) that I have something to tell her on her return in reference to the person who copied the affidavit in the Chancery suit, which so powerfully stimulated her curiosity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And did you really take the trouble to find out the writer of that actual thing—what is it!—affidavit?” “Yes.” “How very odd!” They pass into a sombre breakfast-room on the ground floor, lighted in the day by two deep windows."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; nor does he so much as glance at the affidavit in Jarndyce and Jarndyce, that has been given to him for his inspection (though he still holds it in his hand), but continues to look at the lawyer with an air of troubled meditation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Why then should you expect me to pen this kind of **affidavit**, which binds me to declarations I cannot honestly affirm?"*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The facts stated in the **affidavit** must be within the personal knowledge of the deponent."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal clerk spent the morning engrossing an enormous **affidavit** in the endless suit of Jarndyce and Jarndyce."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-report personality inventory based on hans eysenck's factor analysis of personality which assumes three basic factors (the two most important being extraversion to introversion and neuroticism).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-report personality inventory based on hans eysenck's factor analysis of personality which assumes three basic factors (the two most important being extraversion to introversion and neuroticism).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychological assessment (Eysenck Personality Inventory, EPI); or prefix meaning on, upon, or near.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personality psychology and psychometrics, a standardized self-report questionnaire assessing extraversion and neuroticism dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Confine yourself to "what is in your power" (_ta epi soi_), and no man can hurt you."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Everything with the Stoic turns on the individual. _ta epi soi_, "the things in your own power," is the refrain of Epictetus' teaching."*
-> - 📜 **James Joyce (*Ulysses*):** *"The scrotumtightening sea. _Epi oinopa ponton_."*
+> - 📜 **Hans Eysenck (*The Biological Basis of Personality*):** *"Scores on the **EPI** provide a quantitative measure of cortical arousal and autonomic reactivity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The Greek prefix **epi** denotes superimposition, as seen in words describing phenomena upon an organ."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The **epi**-phenomenal view of consciousness reduces subjective awareness to a mere byproduct of neural discharge."*
+

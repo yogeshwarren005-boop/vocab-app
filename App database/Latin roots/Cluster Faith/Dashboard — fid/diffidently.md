@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diffident manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a diffident manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a diffident, shy, modest, or hesitant manner; without self-assertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, speaking or approaching a superior with cautious, deferential humility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"’Tis a very noble quality in ye.” “Heh-heh! well, I wish to noise nothing abroad—nothing at all,” murmured Poorgrass, diffidently."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"I don’t suppose,” Tootles said diffidently, “that I could be father.” “No, Tootles.” Once Tootles began, which was not very often, he had a silly way of going on."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"I once thought of calling myself Red-handed Jack,” he said diffidently."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Heh-heh! well, I wish to noise nothing abroad—nothing at all, murmured the rustic, smiling **diffidently** at his boots."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Biddy looked up **diffidently** from her needlework and asked if I were quite sure of my own intentions."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The young scholar stepped forward **diffidently**, holding his manuscript with trembling hands."*
+

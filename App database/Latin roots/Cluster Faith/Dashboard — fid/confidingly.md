@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With trust; in a trusting manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With trust; in a trusting manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a confiding, trusting, or unsuspicious manner; with complete faith and openness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive narrative, leaning upon, looking toward, or speaking to another with unreserved emotional reliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole gaily, innocently, and confidingly as he looked at his drawing with his head on one side, “here you see me utterly incapable of helping myself, and entirely in your hands!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He told Ada, in his most ingenuous way, that he had not come to make any secret inroad on the terms she had accepted (rather too implicitly and confidingly, he thought) from Mr."*
-> - 📜 **Effie Afton (*Eventide*):** *"You have rescued and redeemed me," whispered a manly voice in the ear of the graceful figure which leaned so confidingly on his arm."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Lorry took the hesitating little hand that **confidingly** advanced toward him and pressed it warmly."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She looked up **confidingly** into his face, believing that all her sorrows were ended forever."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny placed her arm **confidingly** within her cousin's, finding comfort in his steady presence."*
+

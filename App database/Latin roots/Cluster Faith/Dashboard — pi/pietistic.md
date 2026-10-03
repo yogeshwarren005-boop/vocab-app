@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pietism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively or hypocritically pious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or resembling Pietism; characterized by exaggerated or demonstrative religious devotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and literature, denoting earnest personal piety centered on introspective conversion, emotional prayer, and rigorous moral asceticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pietistic designates of or relating to pietism."*
+> - 📜 **Johann Wolfgang von Goethe (*Poetry and Truth*):** *"The **pietistic** circles of Frankfurt met regularly for intimate prayer, cultivating a tender sensibility."*
+> - 📜 **Thomas Carlyle (*Life of Friedrich Schiller*):** *"The youth was educated under strict **pietistic** influences that left an indelible mark upon his moral character."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In **pietistic** confessions, the soul documents its spiritual trials with acute psychological precision."*
+

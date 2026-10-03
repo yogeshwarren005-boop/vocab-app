@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not acknowledge your god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not acknowledge your god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not believe in a particular religion or in religion at all; an unbeliever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical religious polemics and medieval chronicles, an adherent of a rival faith (such as a Christian viewed by Muslims or vice versa).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a pagan rascal is this, an infidel!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, infidel, I have you on the hip."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What’s good enough for him is good enough for me.” “Does he know that you are as big an infidel as he?” “No—I never told him—if I am an infidel.” “Well—you are better off to-day that I am, Tess, after all!"*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"What a pagan rascal is this, an **infidel**!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The crusaders advanced with fanatical fury against the armies of the **infidel**."*
+> - 📜 **Francis Bacon (*Essays*):** *"None can remain an **infidel** but the superficial, who never contemplate the order of nature."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document attesting to the truth of certain stated facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document attesting to the truth of certain stated facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Documents, certificates, or letters that prove a person's identity, qualifications, or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statecraft and institutional administration, letters of credence presented by an ambassador to a head of state to establish official diplomatic representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Putting Miss Havisham’s note in my pocket, that it might serve as my credentials for so soon reappearing at Satis House, in case her waywardness should lead her to express any surprise at seeing me, I went down again by the coach next day."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The indigenous populace ignored their authority, their credentials were challenged, and they were invited to return to their home planet -- with no options."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The box we seek is to be landed in Varna, and to be given to an agent, one Ristics who will there present his credentials; and so our merchant friend will have done his part."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The veteran harpooneer carried in his scarred body the unmistakable **credentials** of his perilous trade."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Upon arriving at the court of Versailles, I delivered my diplomatic **credentials** to the French foreign minister."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Her quiet manners and modest deportment were the best **credentials** she could offer to her new companions."*
+

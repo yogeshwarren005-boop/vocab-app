@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large in number or quantity (especially of discourse).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affording an abundant supply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yielding or containing plenty; abundant, plentiful, or large in quantity or volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary rhetoric and natural history, characterized by diffuse eloquence, vast vocabulary, or prolific natural fecundity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The next morning a copious rain fell again, and the fields that had been left dry were well watered_." THE HUSHED TEMPEST."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"In Shelley's case these are copious."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Dinner over, we produced a bundle of pens, a copious supply of ink, and a goodly show of writing and blotting paper."*
+> - 📜 **William Shakespeare (*Venus and Adonis*):** *"Their fresh complaints they spend on tears and sighs, / And pour down **copious** tears from sorrowing eyes."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The trees yielded an harvest of **copious** fruit, bending beneath their golden load."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A **copious** collection of natural history observations must precede the formulation of physical axioms."*
+

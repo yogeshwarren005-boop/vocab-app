@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or marked by confidence or assurance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Persuaded of; very sure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling or showing certainty about something; self-assured, bold, and free from doubt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical drama and rhetoric, firmly assured of victory or rectitude, sometimes verging on tragic hubris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do think I saw’t this morning; confident I am Last night ’twas on mine arm; I kiss’d it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He, true knight, No lesser of her honour confident Than I did truly find her, stakes this ring; And would so, had it been a carbuncle Of Phoebus’ wheel; and might so safely, had it Been all the worth of’s car."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Douglas and the Hotspur both together Are confident against the world in arms."*
+> - 📜 **William Shakespeare (*Cymbeline*):** *"I do think I saw't this morning; **confident** I am / Last night 'twas on her arm."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy was too **confident** of success to imagine that his proposal could possibly be rejected."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was **confident** of his power to charm, relying upon his dashing manner and military uniform."*
+

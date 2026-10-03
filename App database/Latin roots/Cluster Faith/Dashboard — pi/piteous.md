@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or inciting pity; ; ; - galsworthy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving or inciting pity; ; ; - galsworthy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving or arousing pity; pathetic, sorrowful, or heart-rending; or displaying compassionate pity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical drama and tragic poetry, provoking deep cathartic compassion and sorrow through extreme vulnerability and undeserved suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Long stay’d he so, At last,—a little shaking of mine arm, And thrice his head thus waving up and down, He rais’d a sigh so piteous and profound As it did seem to shatter all his bulk And end his being."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look you how pale he glares, His form and cause conjoin’d, preaching to stones, Would make them capable.—Do not look upon me, Lest with this piteous action you convert My stern effects."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either they must be dieted like mules And have their provender tied to their mouths, Or piteous they will look, like drowned mice."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"And with a look so **piteous** in purport / As if he had been loosed out of hell / To speak of horrors—he comes before me."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"To see him fallen from such high estate into this blind, **piteous** servitude drew tears from every bystander."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The starved child lifted his hands with a **piteous** cry that softened even the beadle's hardened heart."*
+

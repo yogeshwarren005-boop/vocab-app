@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unfaithful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unfaithful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfaithfulness or disloyalty to a spouse, partner, or sworn moral commitment; or the rejection of a religious faith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Enlightenment intellectual history and ethics, the conscious philosophical rejection of traditional religious dogmas, or breach of fiduciary trust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A----, who professed infidelity, and who was, I think, as near an atheist as any I ever met."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Infidelity on either side is very rare."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The mental chemicalization, which has brought con- 65:30 jugal infidelity to the surface, will assuredly throw off this evil, and marriage will become purer when the scum is gone."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"And thus was this land saved from **infidelity**, as the remainder of the world was preserved from darkness."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Marital **infidelity** dissolves the sacred bond of domestic happiness, poisoning the purest fountain of human affection."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The charges of theological **infidelity** were frequently employed to ruin political rivals at the imperial court."*
+

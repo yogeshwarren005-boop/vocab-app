@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incredulous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an incredulous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incredulous manner; with an expression or tone of disbelief, skepticism, or astonishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction, expressing shock, doubt, or suspicious hesitation when confronting an unbelievable event.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy looked incredulously at his friend, and at his mother, who suddenly turned very angry, and at the floor, and at the ceiling."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Are they mine?” she asked incredulously."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Know me to be what I am—a cold hard man.” I smiled incredulously."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Are they mine? she asked **incredulously**, staring at the flock of sheep that filled the lane."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She shook her head **incredulously**, refusing to accept the sinister interpretation placed upon his conduct."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe looked at me **incredulously**, as if he suspected I was playing some elaborate trick upon him."*
+

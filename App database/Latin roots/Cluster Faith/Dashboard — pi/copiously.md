@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abundant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an abundant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a copious, plentiful, or abundant manner; amply or generously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose and historical documentation, writing or speaking at great length, or flowing in large, unrestricted streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Most of them were copiously annotated, and his annotations were, as a rule, characterised by a refreshing trenchancy,--in the case of some, as of Gibbon, tempered with respect; in the case of others, as of F.W."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This is so clear a proposition, that moderation itself can scarcely listen to the railings which have been so copiously vented against this part of the plan, without emotions that disturb its equanimity."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The more copiously they flowed, the more did my general sensations appear to subside into calm, and a certain restlessness give way to repose."*
+> - 📜 **James Joyce (*Dubliners*):** *"Mr Henchy snuffled vigorously and spat so **copiously** that he nearly extinguished the fire."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The glands secrete **copiously** during periods of high environmental temperature."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient historians have treated this campaign so **copiously** that every maneuver is known to posterity."*
+

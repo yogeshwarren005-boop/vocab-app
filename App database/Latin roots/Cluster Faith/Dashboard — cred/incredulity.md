@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt about the truth of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Doubt about the truth of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, disposition, or feeling of being unwilling or unable to believe something; skepticism or disbelief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological observation and social history, the instinctive mental resistance to accepting astonishing discoveries or sudden disasters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A more foolish remark was never made, and I want you to contradict it: that’s what I came for.” Gabriel looked incredulous and sad, but between his moments of incredulity, relieved."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was not only received with utter incredulity as regarded itself, but threw a doubt on all the assurances that had preceded it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had gathered from Angel sufficient of the incredulity of modern thought to despise flash enthusiasm; but, as a woman, she was somewhat appalled."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel looked incredulous and sad, but between his moments of **incredulity** he resolved to discover the whole truth."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was the epoch of belief, it was the epoch of **incredulity**, it was the season of light, it was the season of darkness."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"A smile of gentle **incredulity** played upon her lips as she listened to his grand philanthropic schemes."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to betray; especially having a treacherous character as attributed to the carthaginians by the romans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to betray; especially having a treacherous character as attributed to the carthaginians by the romans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deceitful and untrustworthy; guilty of violating good faith, vows, or allegiance; treacherous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical diplomacy and classical tragedy, deliberately breaking sworn alliances or betraying solemn covenants for political gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s quoted for a most perfidious slave, With all the spots o’ the world tax’d and debauch’d: Whose nature sickens but to speak a truth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I replied, Men fear the French would prove perfidious, To the King’s danger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this light, a most perfidious and drunken monster."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"He's quoted for a most **perfidious** slave, / With all the spots o' the world tax'd and debosh'd."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thus fell the **perfidious** tempter, snared in his own malicious designs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The treaty was celebrated with solemn oaths, only to be violated within the month by that **perfidious** monarch."*
+

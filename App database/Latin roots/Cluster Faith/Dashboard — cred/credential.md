@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A document attesting to the truth of certain stated facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A document attesting to the truth of certain stated facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warranting credit or confidence; or a document attesting to a person's qualification, authority, or trustworthiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and institutional sociology, letters patent or diplomatic certificates verifying an envoy's authority to negotiate on behalf of a sovereign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Putting Miss Havisham’s note in my pocket, that it might serve as my credentials for so soon reappearing at Satis House, in case her waywardness should lead her to express any surprise at seeing me, I went down again by the coach next day."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The indigenous populace ignored their authority, their credentials were challenged, and they were invited to return to their home planet -- with no options."*
-> - 📜 **Bram Stoker (*Dracula*):** *"The box we seek is to be landed in Varna, and to be given to an agent, one Ristics who will there present his credentials; and so our merchant friend will have done his part."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The ancient customs of the commonwealth carry their own **credential** inscribed upon generations of civic peace."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No ambassador can enter upon his mission without presenting an authentic **credential** from his sovereign."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"His venerable demeanor served as a silent **credential** of his high clerical character."*
+

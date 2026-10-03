@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant credentials to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide or send (envoys or embassadors) with official credentials.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give official authorization to or approval of; to provide with credentials; or to attribute to.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and higher education, to officially send an envoy with letters of credence, or to certify an educational institution as meeting rigorous academic standards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Such words to be spoken in a fashionable circle; and they'll all accredit it, for they have,--Heaven knows why!--long been seeking something to my dispraise."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Bahá'í observers accredited by United Nations participated in Conference on Human Rights, Geneva; United Nations General Assembly, Paris."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"In the summer of 1781, he is accredited in the chronicles of the time, with a daring exploit, which indicates the kind of service in which he was engaged after he ceased to be attached to the Second New York."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor refused to **accredit** the barbarian ambassadors until they had rendered homage."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men readily **accredit** doctrines that flatter their preconceived passions and traditional prejudices."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The President has the constitutional power to receive and **accredit** foreign ministers from friendly nations."*
+

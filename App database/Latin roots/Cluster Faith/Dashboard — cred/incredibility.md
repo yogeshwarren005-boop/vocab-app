@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being incredible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being incredible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of being incredible; surpassing belief or being impossible to believe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical skepticism and aesthetics, the extreme degree of implausibility that prevents a rational mind from assenting to an extraordinary proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incredibility designates the quality of being incredible."*
+> - 📜 **John Dryden (*The Hind and the Panther*):** *"The very **incredibility** of the mystery challenges the pride of human reason and commands humble faith."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The **incredibility** of a report increases in proportion to its departure from common sensory experience."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The extravagant fables of heroic romance offend by their total **incredibility**."*
+

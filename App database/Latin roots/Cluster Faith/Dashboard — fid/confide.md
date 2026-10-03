@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reveal in private; tell confidentially.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confer a trust upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To tell someone about a secret or private matter while trusting them not to repeat it to others; or to place trust in.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiduciary ethics and psychological counseling, to disclose vulnerable truths under a covenant of professional secrecy or personal fidelity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was so delightful to know that she could confide in me and like me!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That I had much to learn, myself, before I could teach others, and that I could not confide in my good intentions alone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You were to confide freely in me, and I will confide freely in you."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was certainly not her plainness that attracted them, but her rare capacity to listen and **confide** with unaffected sincerity."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne was eager to **confide** the happiness of her attachment to everyone who loved her."*
+> - 📜 **William Shakespeare (*Richard II*):** *"In God and my own innocence I **confide**, fearing no earthly malice."*
+

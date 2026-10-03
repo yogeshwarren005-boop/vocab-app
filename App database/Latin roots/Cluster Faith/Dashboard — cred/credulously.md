@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a credulous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a credulous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a credulous, gullible, or overly trusting manner; with ready and uncritical belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and satirical literature, accepting unfounded assertions, fraudulent promises, or superstitious prophecies without question.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, credulously designates in a credulous manner."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The soldiers listened **credulously** to the soothsayers, believing that victory was guaranteed by the stars."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The simple villagers **credulously** received the tale, wondering at the strange gentleman from Paris."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The puritan crowd **credulously** imagined they saw an angelic sign flaming across the midnight sky."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking official approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking official approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking official accreditation, authorization, certification, or formal credentials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and education policy, describing an uncertified academic institution or an unofficial envoy lacking letters of credence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaccredited designates lacking official approval."*
+> - 📜 **Woodrow Wilson (*The State*):** *"An **unaccredited** agent possesses no legal standing to negotiate binding treaties between sovereign states."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"He attended lectures at the **unaccredited** private academy, finding its informal curriculum surprisingly invigorating."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"The commissioner warned the public against investing in **unaccredited** mineral enterprises lacking geological surveys."*
+

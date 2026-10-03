@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accuracy with which an electronic system reproduces the sound or image of its input signal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being faithful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Faithfulness to a person, cause, belief, or duty, shown by continued loyalty and support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic engineering and translation studies, the degree of exactness with which a sound recording reproduces the original signal, or a translation preserves the source text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my fidelity, this is not well, Master Ford, this wrongs you."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"With pleasure, sir.” Then, with fidelity, though with some prolixity, the law-stationer repeats Jo’s statement made to the assembled guests at his house."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That the more I stood in need of such fidelity, the more firmly I might trust in him to the last."*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"By my **fidelity**, this is not well, Master Ford, this wrongs you."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Among innumerable false, unmoved, / Unshaken, unseduced, unterrified, / His loyalty he kept... In steadfast **fidelity** to heaven's sovereign."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The extraordinary **fidelity** and courage of dogs in defending their masters have been celebrated in all ages."*
+

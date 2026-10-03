@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing modest reserve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking self-confidence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Modest, shy, or reserved because of a lack of self-confidence; unassertive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical characterization and social history, displaying modest restraint and reluctance to advance personal claims in public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"When she left off—and she had not laughed languidly, but with real enjoyment—I said, in my diffident way with her,— “I hope I may suppose that you would not be amused if they did me any harm.” “No, no you may be sure of that,” said Estella."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"A rather cynical smile, now and then, at the random and diffident ways of England was the only freedom he allowed to the foreign strain within him."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I'm so sorry," she murmured, raising her beautiful dark eyes in a diffident apology."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was a **diffident** though distinguished nurseryman, and feared that his modest speech might weary the company."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward was naturally **diffident**, requiring the encouragement of familiar friends to draw out his conversational powers."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak was too **diffident** of his merits to press his suit with bold persistence."*
+

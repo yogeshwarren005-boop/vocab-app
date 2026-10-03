@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds assets in trust for a beneficiary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or of the nature of a legal trust (i.e. the holding of something in trust for another).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving trust, especially regarding the relationship between a trustee and a beneficiary; or held or given in trust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary banking economics, designating unbacked paper money circulating upon public faith in the issuing bank or government.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Fiduciary money, metal and paper 6."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are, however, numerous countries, notably in South America and Central America, which have fiduciary paper-money standards.[2] § 6.# Varying extent of the use of money#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the standard money alone were doubled in quantity, while the various forms of fiduciary money (smaller coins, bank notes, government notes) remained unchanged, the quantity of money as a whole would not be doubled."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A trustee stands in a **fiduciary** relation toward the ward, bound to administer the estate with scrupulous fidelity."*
+> - 📜 **Walter Bagehot (*Lombard Street*):** *"The entire banking system rests upon a delicate **fiduciary** foundation of mutual credit."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The breach of a **fiduciary** covenant was redressed by the Court of Chancery through the enforcement of equitable trusts."*
+

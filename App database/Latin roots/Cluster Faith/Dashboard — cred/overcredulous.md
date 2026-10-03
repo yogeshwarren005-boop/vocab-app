@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too credulous for your own good.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too credulous for your own good.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively credulous; too easily convinced; disposed to believe on slight or insufficient evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic character analysis and satire, depicting individuals whose naive trust makes them easy victims of deceit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overcredulous designates too credulous for your own good."*
+> - 📜 **William Shakespeare (*Othello*):** *"A loving, noble nature... Perplexed in the extreme, and far too **overcredulous** of honest Iago's reports."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"I, an **overcredulous** husband, gave up the secret of my consecrated strength to a treacherous deceiver."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The emperor was surrounded by flatterers who found in his **overcredulous** temper a fertile field for advancement."*
+

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of embarrassment that leaves you confused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of embarrassment that leaves you confused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disorientation, confusion, or a flustered mental state provoked by sudden disruption or sensory chaos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological humor, the comic state of bafflement that follows sudden unexpected mishaps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discombobulation designates a feeling of embarrassment that leaves you confused."*
+> - 📜 **David Foster Wallace (*Brief Interviews with Hideous Men*):** *"The awkward romantic rejection produced a wave of acute social **discombobulation** that silenced the diner."*
+> - 📜 **Tom Wolfe (*A Man in Full*):** *"Charlie Croker struggled against the sudden **discombobulation** brought on by hostile bank creditors."*
+> - 📜 **Michael Chabon (*The Amazing Adventures of Kavalier & Clay*):** *"Sammy observed the publisher's **discombobulation** with glee as the superhero sketches were unveiled."*

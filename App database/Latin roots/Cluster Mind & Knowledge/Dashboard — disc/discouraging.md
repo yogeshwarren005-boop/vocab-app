@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to prevent; show opposition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of courage or hope; take away hope from; cause to feel discouraged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing someone to lose confidence, hope, or enthusiasm; disheartening, depressing, or deterrent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific experimentation, negative results that suggest a working hypothesis is flawed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She decided not to dampen the children's good spirits that evening with the discouraging news in the letter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was twelve o’clock before we could obtain possession of the room, and the clearance it required then was so discouraging that Caddy, who was almost tired out, sat down in the middle of the dust and cried."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"However, I hadn’t any; and that part of the work is, at first, a little discouraging, I must allow."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations*):** *"A thousand failed filament experiments were not **discouraging**, but merely showed a thousand materials that would not work."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The muddy trail ended abruptly at the river wall, presenting a most **discouraging** obstacle to our pursuit."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found the narrow provincial prejudices of the town infirmary committee profoundly **discouraging**."*

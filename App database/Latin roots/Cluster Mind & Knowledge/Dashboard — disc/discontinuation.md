@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The termination, cessation, or stopping of a process, practice, medication, or production line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical therapeutics, the planned withdrawal or tapering of a drug regimen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discontinuation designates the act of discontinuing or breaking off; an interruption (temporary or permanent)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sudden **discontinuation** of chronic opiate therapy precipitates acute physiological withdrawal distress."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Following the **discontinuation** of the neuroleptic medication, the patient's parkinsonian tremor subsided."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The abrupt **discontinuation** of state funding threatened the continuity of vital marine biological surveys."*

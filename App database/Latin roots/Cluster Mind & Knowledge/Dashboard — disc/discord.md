@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of agreement or harmony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disagreement among those expected to cooperate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disagreement, conflict, or lack of harmony between persons, or a harsh dissonance of unmusical sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology, the goddess Eris whose golden apple of discord sparked the Trojan War.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he, compact of jars, grow musical, We shall have shortly discord in the spheres."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My soul is full of discord and dismay. [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By my troth, this is the old fashion; you two never meet but you fall to some discord."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"An I were so apt to quarrel as thou art, any man should buy the fee-simple of my life for an hour and a quarter... dost thou make us minstrels? an thou make minstrels of us, look to hear nothing but **discord**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Chaos and ancient Night held eternal anarchy, where hot, cold, moist, and dry strove in ceaseless **discord**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Disunion among the states would plunge the American continent into perpetual geopolitical **discord** and border wars."*

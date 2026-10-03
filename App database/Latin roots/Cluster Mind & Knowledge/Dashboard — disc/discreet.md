@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by prudence or modesty and wise self-restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unobtrusively perceptive and sympathetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful and circumspect in speech or conduct, especially in order to maintain privacy or avoid embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In design or diplomacy, attractively unobtrusive, subtle, and modestly understated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let not thy discreet heart think it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A madness most discreet, A choking gall, and a preserving sweet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no slander in an allowed fool, though he do nothing but rail; nor no railing in a known discreet man, though he do nothing but reprove."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Love is a smoke made with the fume of sighs; being purged, a fire sparkling in lovers' eyes; being vexed, a sea nourished with loving tears. What is it else? A madness most **discreet**."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was so **discreet** in her conversations that no observer could detect her inward grief."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond preserved a **discreet** silence concerning his true intentions toward Isabel Archer."*

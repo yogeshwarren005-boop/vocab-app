@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are defeated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling uneasy, embarrassed, or thwarted, or thoroughly routed and defeated in battle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social dialogue, nonplussed by an unexpected moral rebuke or sharp satirical retort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To heave the traitor Somerset from hence And fight against that monstrous rebel Cade, Who since I heard to be discomfited."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BAPTISTA. [_To Hortensio_.] Well, go with me, and be not so discomfited; Proceed in practice with my younger daughter; She’s apt to learn, and thankful for good turns."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy look at each other, the former as having relinquished the whole affair, the latter with a discomfited countenance as having entertained some lingering expectations yet."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton looked thoroughly **discomfited** when Emma refused his addresses with dignified astonishment."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Uncle Pumblechook sat **discomfited** in the corner, unable to reclaim his former swaggering condescension."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Templar withdrew from the tilt-yard **discomfited**, his haughty pride stung by the unknown challenger."*

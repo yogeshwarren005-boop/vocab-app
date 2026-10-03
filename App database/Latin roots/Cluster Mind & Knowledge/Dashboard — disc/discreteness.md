@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being several and distinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being several and distinct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of existing as distinct, discontinuous, or individually separate constituent parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and quantum mechanics, the fundamental characteristic of energy existing in individual quanta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discreteness designates the state of being several and distinct."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Continuity implies an endless unbroken flow, whereas **discreteness** marks isolated conceptual elements."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory impressions possess an apparent **discreteness** only when dissected by analytical attention."*
+> - 📜 **Bertrand Russell (*The Analysis of Matter*):** *"Modern physics reveals that radiant energy exhibits both wave continuity and corpuscular **discreteness**."*

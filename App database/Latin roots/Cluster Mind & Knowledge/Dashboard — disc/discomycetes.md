@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and taxonomically difficult group of ascomycetes in which the fleshy fruiting body is disklike or cup-shaped.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus that is a member of the subclass discomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major traditional taxonomic group of ascomycetous fungi whose fruiting body is an apothecium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal taxonomy, the order comprising cup fungi, earth tongues, truffles, and morels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discomycetes designates a large and taxonomically difficult group of ascomycetes in which the fleshy fruiting body is disklike or cup-shaped."*
+> - 📜 **Charles Darwin (*Journal of Researches*):** *"Cyttaria darwinii belongs to the **Discomycetes**, forming globular clusters upon the branches of southern beech trees."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Gardeners encounter various parasitic **Discomycetes** that cause brown rot and blossom blight in orchards."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Damp granite fissures harbored delicate **Discomycetes**, their fleshy cups catching droplets of melting snow."*

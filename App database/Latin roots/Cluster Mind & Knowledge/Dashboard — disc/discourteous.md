@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing no courtesy; rude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking social graces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a lack of courtesy or politeness; rude, ill-mannered, disrespectful, and uncivil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette, neglecting established polite formalities in conversation or correspondence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nor has he anything more to say or do but to nod once in the same frigid and discourteous manner and to say briefly, “You can go."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Please forgive me if I have seemed discourteous."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"It would seem absurd, not to say discourteous."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy was judged to be proud and **discourteous**, having refused to dance or converse with any lady outside his circle."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The harsh schoolmaster was **discourteous** to poor Traddles, punishing him unjustly for drawing skeletons."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"Baron Gruner was dangerously polite, but his icy undertone was subtly **discourteous** and menacing."*

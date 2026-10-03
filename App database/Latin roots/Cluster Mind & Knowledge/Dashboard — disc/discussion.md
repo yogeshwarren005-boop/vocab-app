@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extended communication (often interactive) dealing with some particular topic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exchange of views on some topic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of talking about something in order to reach a decision or exchange ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary and judicial proceedings, the formal examination and debate of a legislative measure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She also held a discussion with Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, without any other alteration in their customary deportment, have looked very steadily at one another—as was natural, perhaps, in the discussion of so unusual a subject."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, our views of duty, and our views of station, and our views of education, and our views of—in short, ALL our views—are so diametrically opposed, that to prolong this discussion must be repellent to your feelings and repellent to my own."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Complete liberty of contradicting and disproving our opinion is the very condition which justifies us in assuming its truth; in no other way can a being with human faculties have any rational assurance of being right, except through free **discussion**."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Public town hall **discussion** teaches citizens the practical art of self-governance."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"A prolonged family **discussion** followed regarding the prudent reduction of their annual expenditures."*

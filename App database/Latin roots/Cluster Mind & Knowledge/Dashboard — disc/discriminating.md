@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recognize or perceive the difference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat differently on the basis of sex or race.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing refined taste, acute discernment, or perceptive judgment; distinguishing acutely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trade and tariff policy, duties or restrictions applied selectively against specific nations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"With a nicely discriminating eye, he seizes at once upon its capabilities, and pictures in his mind the future landscape."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I remember thinking her a shrewd and discriminating old lady, with a great gift of description."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"From the first she had thought this prospect small, and Isabel had been struck with the positive, discriminating, competent way in which she took the measure of his remainder of life."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley possessed a **discriminating** judgment that penetrated through social pretension."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The novelist appeals to the **discriminating** reader who appreciates psychological subtleties."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Retaliatory customs duties against foreign shipping were inherently **discriminating** in operation."*

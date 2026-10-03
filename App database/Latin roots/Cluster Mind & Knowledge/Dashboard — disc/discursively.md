@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rambling manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rambling manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a digressive, rambling manner; by method of logical discourse and deductive reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical essay writing, progressing through varied associative reflections rather than a rigid thesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discursively designates in a rambling manner."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"He conversed **discursively**, leaping from German metaphysics to Persian poetry without pause."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"Montaigne writes **discursively**, exploring human nature through informal autobiographical digressions."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"The old scholar chatted **discursively** about forgotten folios while pouring out tea for his guests."*

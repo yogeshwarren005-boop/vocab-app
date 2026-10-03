@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a random manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an indiscriminate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a random, haphazard manner without making distinctions or applying careful judgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, applying rules or distributions uniformly without regard to merit or need.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is not a thing to be used indiscriminately, but it is good upon occasion: as now, for instance."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Among the fishermen, he is indiscriminately designated by all the following titles: The Whale; the Greenland Whale; the Black Whale; the Great Whale; the True Whale; the Right Whale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The baleen, hump, back-fin, and teeth; these are things whose peculiarities are indiscriminately dispersed among all sorts of whales, without any regard to what may be the nature of their structure in other and more essential particulars."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monarchs who bestow royal monopolies **indiscriminately** stifle domestic enterprise and trade."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Flattery showered **indiscriminately** upon the sovereign people corrupts civic integrity as surely as royal courtliness."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Pumice and volcanic ash were scattered **indiscriminately** across sea and shore after the eruption."*

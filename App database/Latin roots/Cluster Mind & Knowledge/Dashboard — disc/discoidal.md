@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a flat circular shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a flat circular shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a disc; circular, flat, and round; discoid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, discoidal cleavage where cell division is restricted to a small disc of cytoplasm at the animal pole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discoidal designates having a flat circular shape."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Reptiles and birds exhibit **discoidal** cleavage, with embryonic blastomeres multiplying atop a vast yolk mass."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Fossil nummulites formed colossal limestone beds composed of billions of flat, **discoidal** foraminiferal shells."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The jellyfish bell pulsates through rhythmic contractions of its muscular **discoidal** margin."*

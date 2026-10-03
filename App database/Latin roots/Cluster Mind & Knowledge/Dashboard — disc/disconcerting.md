@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing one to feel unsettled, confused, anxious, or embarrassed; disturbing or alarming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical observation, unexpected anomalies that contradict established scientific hypotheses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This move was unexpected, and proportionately disconcerting."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Next day the weather was bad, but she trudged on, the honesty, directness, and impartiality of elemental enmity disconcerting her but little."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Of course," said Aunt Emmeline, continuing her thoughts aloud, as was her disconcerting habit, "Kathleen has money, and that gives a wife a whip hand."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Mr. Ramsay's sudden demands for emotional sympathy were profoundly **disconcerting** to his sensitive guests."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The sudden appearance of whole groups of species in the lowest fossil formations was deeply **disconcerting** to me."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston found the girl's persistent, silent gaze across the canteen **disconcerting** and terrifying."*

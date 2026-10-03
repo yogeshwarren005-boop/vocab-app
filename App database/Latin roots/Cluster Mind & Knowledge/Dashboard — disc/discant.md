@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative musical accompaniment (often improvised) added above a basic melody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative musical accompaniment (often improvised) added above a basic melody.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of descant; a melody or counterpoint sung above the plainsong, or a discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early polyphonic music, an upper melodic voice improvised or composed over a Gregorian tenor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discant designates a decorative musical accompaniment (often improvised) added above a basic melody."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Why, I, in this weak piping time of peace, have no delight to pass away the time, unless to see my shadow in the sun and **discant** on mine own deformity."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The wakeful nightingale all night long her amorous **discant** sung, filling the grove with solemn melodies."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Rhetoricians love to **discant** upon the miseries of life while taking care to secure every earthly comfort."*

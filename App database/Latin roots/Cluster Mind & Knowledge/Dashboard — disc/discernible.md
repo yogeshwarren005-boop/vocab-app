@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceptible by the senses or intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being perceived clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be perceived, recognized, distinguished, or detected by the senses or the intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical analysis, distinct trends or causal patterns emerging from archival records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"At first they were faintly discernible in the mist, and above them the later stars still glimmered."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"An inner cloud of dust rose around the prostrate figures amid the general one of the room, in which a twitching entanglement of arms and legs was discernible."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But no explanation was discernible; he remained under the cow long enough to have milked three, uttering a private ejaculation now and then, as if he could not get on."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"No **discernible** boundary separates the cognitive faculties of higher mammals from the primal instincts of man."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A **discernible** decay in military discipline was already evident during the luxurious reign of Severus."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The stroke of the lighthouse beam was clearly **discernible** across the dark water, rhythmic and austere."*

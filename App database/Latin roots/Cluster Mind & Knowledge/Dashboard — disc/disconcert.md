@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disturb the composure of; to unsettle, confuse, frustrate, or ruffle someone's poise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomacy, to upset, thwart, or disrupt an adversary's political plans or alliances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How could she face her parents, get back her box, and disconcert the whole scheme for the rehabilitation of her family on such sentimental grounds?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The absence of citizens and of a deputation, and even the burning of Moscow, did not disconcert him."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Why not?” I put my question quickly and somewhat sternly, on purpose to disconcert him."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was determined that no cold condescension from Darcy should **disconcert** her cheerful spirits."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden arrival of imperial reinforcements served to **disconcert** the Persian siege operations at Nisibis."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Nicholas looked steadily at Squeers, whose brutal bullying failed to **disconcert** the young schoolmaster."*

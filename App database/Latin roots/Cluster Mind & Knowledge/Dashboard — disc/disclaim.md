@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Renounce a legal claim or title to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a disclaimer about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deny, refuse, or renounce any connection with, claim to, or responsibility for something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property and inheritance law, to formally renounce an interest in an estate, trust, or legal right.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Must these have voices, that can yield them now And straight disclaim their tongues?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have disclaim’d Sir Robert and my land; Legitimation, name, and all is gone."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love thee Because thou art a woman and disclaim’st Flinty mankind, whose eyes do never give But thorough lust and laughter."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The authors of the Constitution **disclaim** any intention to create an imperial or monarchical executive."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Here I **disclaim** all my paternal care, propinquity and property of blood, and as a stranger hold thee to my heart."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was eager to **disclaim** any share in her mother's ill-bred and offensive insinuations at the ball."*

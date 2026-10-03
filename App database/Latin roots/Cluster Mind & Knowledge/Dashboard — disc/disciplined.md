@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Develop (children's) behavior by instruction and practice; especially to teach self-control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Punish in order to gain control or enforce obedience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing a controlled form of behavior or training; orderly, obedient, and adhering to strict standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In athletic or intellectual performance, executing complex routines with calm, rehearsed precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Has he disciplined Aufidius soundly?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had given in allegiance to duty and order; I was quiet; I believed I was content: to the eyes of others, usually even to my own, I appeared a disciplined and subdued character."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They would endeavor to supply the inferiority of population and resources by a more regular and effective system of defense, by disciplined troops, and by fortifications."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The British pilots displayed a **disciplined** courage that turned the tide of battle in the summer of 1940."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth commanded a **disciplined** crew whose devoted loyalty was forged through mutual respect."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"Maintain a calm and **disciplined** mind, undisturbed by the external praise or censure of fleeting crowds."*

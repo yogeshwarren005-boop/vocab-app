@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anxious embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxious embarrassment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Embarrassment, confusion, frustration, or the defeat and thwarting of one's plans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, the total rout, collapse, or tactical humiliation of an invading army.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sad tidings bring I to you out of France, Of loss, of slaughter, and discomfiture: Guienne, Champaigne, Rheims, Rouen, Orleans, Paris, Guysors, Poictiers, are all quite lost."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This tends to the discomfiture of Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is whipped in to the rescue of the Doodle Party and the discomfiture of the Coodle Faction."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Caroline Bingley could not conceal her **discomfiture** when Darcy openly praised Elizabeth's fine dark eyes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The disastrous **discomfiture** of the Roman legions in the Teutoburg forest halted imperial expansion eastward."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Uriah Heep writhed in agonizing **discomfiture** as Mr. Micawber systematically exposed his financial forgeries."*

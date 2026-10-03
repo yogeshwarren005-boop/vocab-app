@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's composure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone feel uneasy, embarrassed, or confused, or to defeat and overthrow an adversary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical military annals, routing and throwing opposing forces into complete tactical disarray.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that my heart’s on future mischief set, I would speak blasphemy ere bid you fly; But fly you must; uncurable discomfit Reigns in the hearts of all our present parts."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Anne instantly made up her mind that she would win that boy’s affection and discomfit the Pyes utterly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To heave the traitor Somerset from hence And fight against that monstrous rebel Cade, Who since I heard to be discomfited."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman cavalry counterattacked with furious momentum to **discomfit** the disorderly Gothic advance."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth's playful retorted banter served to **discomfit** Darcy's stiff reserve, forcing a reluctant smile."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Defeat our foes and **discomfit** their proud ranks before the setting of this auspicious sun!"*

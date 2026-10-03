@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a flat circular shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a flat circular shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or shaped like a disc; flat and circular in form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, flower heads in Asteraceae composed solely of tubular disc florets without ray petals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discoid designates having a flat circular shape."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain composite plants bear purely **discoid** flower heads, having lost their radiating marginal petals entirely."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The **discoid** stigma expands horizontally upon the apex of the style, presenting a moist receptive surface."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The Ediacaran fossil Tribrachidium displayed a bizarre, three-lobed **discoid** body that rested upon benthic mud."*

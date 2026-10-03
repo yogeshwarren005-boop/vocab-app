@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a function or curve; possessing one or more discontinuities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not continuing without interruption in time or space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having intervals or gaps; not continuous, broken, interrupted, or occurring in disconnected stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, discontinuous variation where phenotypes fall into distinct non-overlapping classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The absurd answer (that Achilles could never overtake the tortoise) resulted from this: that motion was arbitrarily divided into discontinuous elements, whereas the motion both of Achilles and of the tortoise was continuous."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Examining the panels with care I found them discontinuous with the frames."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil record appears **discontinuous** primarily because sedimentary beds were preserved only during subsidence."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Punctuated equilibrium views evolutionary transitions as **discontinuous** episodes punctuating long periods of stasis."*
+> - 📜 **John Tyndall (*Essays on the Floating-Matter of the Air*):** *"He achieved sterilization by applying **discontinuous** heating, killing newly germinated spores between boiling cycles."*

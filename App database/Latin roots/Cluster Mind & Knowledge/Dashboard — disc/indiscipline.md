@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of lacking discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of lacking discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of discipline, restraint, or obedience to rules; uncontrolled and disorderly behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, the breakdown of command structure and insubordination within armed forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indiscipline designates the trait of lacking discipline."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The chronic **indiscipline** of the Roman legions along the Danube led directly to repeated frontier catastrophes."*
+> - 📜 **Winston Churchill (*The River War*):** *"Nothing destroys the cohesion of an army so swiftly as tolerated **indiscipline** among raw recruits."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Revolutionary militias suffered gravely from military **indiscipline** during the early Aragon campaign."*

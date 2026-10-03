@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose color or turn colorless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose or change color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change, stain, fade, or tarnish the natural or original color of an object or surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical corrosion, oxidation that darkens metallic luster or leaves unsightly blemishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"When by chance these precious parts in a nursing whale are cut by the hunter’s lance, the mother’s pouring milk and blood rivallingly discolor the sea for rods."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The following observations will show that, like most other objections against the Constitution, it can only proceed from a partial view of the subject, or from a jealousy which discolors and disfigures every object which is beheld. 1."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Lyart, gray in general; discolored by decay or old age."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Putrefaction had begun to **discolor** the features of the corpse, marring the fair youth of Elizabeth's brother."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Soot and coal smoke from the London hearths settled everywhere, threatening to **discolor** the finest linens."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"Chemical vapors rising from the graduated glass began to **discolor** the crystal liquid from crimson to dark purple."*

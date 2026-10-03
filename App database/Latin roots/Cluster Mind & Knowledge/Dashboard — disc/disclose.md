@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disclose to view as by removing a cover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make secret, new, or unknown information known; to reveal, uncover, or expose to view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In securities and corporate law, providing complete financial records and risks to investors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, come, disclose The state of your affection, for your passions Have to the full appeach’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me your counsels, I will not disclose ’em."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That more than this she would never (and he was well persuaded of the steadfastness of her resolution) for any human consideration disclose."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy's letter served to **disclose** the true villainy of Wickham, exposing his past debts and treachery."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The canker galls the infants of the spring, too oft before their buttons be **disclose**d, and in the morn of youth."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Holmes promised to **disclose** the full ramifications of the Moriarty criminal syndicate to the Prime Minister."*

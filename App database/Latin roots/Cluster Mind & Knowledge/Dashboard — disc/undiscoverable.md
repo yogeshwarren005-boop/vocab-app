@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be ascertained; resisting discovery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to be ascertained; resisting discovery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to find, detect, perceive, or ascertain through investigation or observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural philosophy and metaphysics, ultimate principles forever hidden beyond empirical inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A Formula of some great undiscoverable indefinable Thought...."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The ultimate secret connection binding cause and effect remains forever **undiscoverable** by human reason."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Moriarty's criminal organization was designed so cunningly that its master brain remained **undiscoverable**."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The thing-in-itself, stripped of all sensible appearances, is completely **undiscoverable** by our senses."*

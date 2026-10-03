@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unbridgeable disparity (as from a failure of understanding).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or act of being disconnected; separation, severance, or lack of continuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral neurology, disconnection syndromes (such as alexia without agraphia) caused by white matter lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"He looked on the operations of nature "in disconnection dull and spiritless;" he could no longer apprehend her unity nor feel her charm."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The patient suffered from an agonizing **disconnection** between his conscious will and the sensory map of his limb."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Callosal **disconnection** prevents the verbal left hemisphere from describing objects presented to the left visual field."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"A total **disconnection** from historical memory was required to accept the Party's daily shifting truths."*

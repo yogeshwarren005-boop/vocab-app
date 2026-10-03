@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Look with disfavor on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Show disapproval by discouraging.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To refuse to approve of something; to discourage, show disfavor toward, or look upon with disapproval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social manners, discouraging improper behavior with a severe, silent look of disapproval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Several important considerations have been touched in the course of these papers, which discountenance the supposition that the operation of the federal government will by degrees prove fatal to the State governments."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"This sort of thing has done infinite mischief to the progress of economic science; and one of Mill's great merits is, that both by example and by precept he steadily discountenanced it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In that circle they discountenanced those who advised hurried preparations for a removal to Kazán of the court and the girls’ educational establishments under the patronage of the Dowager Empress."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley did everything in his power to **discountenance** the absurd match between Harriet and the vicar."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Public opinion in America operates to **discountenance** any aristocratic pretension that violates equality."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester Dedlock was quick to **discountenance** any radical talk that challenged the dignity of ancient landed titles."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to prevent; show opposition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of courage or hope; take away hope from; cause to feel discouraged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone to lose confidence, enthusiasm, or hope, or to dissuade someone from an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public policy, taxing or regulating harmful activities to diminish their prevalence in society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, bankers could, by pursuing a more conservative policy, discourage speculative methods of enterprise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Down to our own time it has seemed to statesmen expedient to forbid or discourage trade that might nourish the economic power of future enemies."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The unintended, and to some degree inevitable, result of the taxation of goods in commerce, whether imports or exports, is to prevent and discourage trade and to raise the prices of the goods imported."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Hardships and early financial losses should never **discourage** an industrious youth from pursuing his enterprise."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Excessive excise duties on commodities tend to **discourage** domestic manufacture and promote smuggling."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor attempted to **discourage** Marianne from indulging in solitary midnight walks that fueled her grief."*

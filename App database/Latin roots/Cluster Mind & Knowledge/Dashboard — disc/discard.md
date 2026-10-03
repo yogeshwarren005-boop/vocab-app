@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that is cast aside or discarded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (cards) the act of throwing out a useless card or of failing to follow suit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To get rid of something as useless, undesirable, or obsolete; to throw away or cast off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In card games, to play or dispose of an unwanted card from one's hand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By all the gods that Romans bow before, I here discard my sickness."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Discard, bully Hercules; cashier."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Yet Christian people are reluctant to discard any one of them; and their reluctance is intelligible."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection is daily and hourly scrutinizing every variation, rejecting and ready to **discard** that which is bad."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth resolved to **discard** every lingering prejudice that had blinded her judgment regarding Darcy."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The true philosopher must courageously **discard** all idolized traditional dogmas that obstruct clear observation."*

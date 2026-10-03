@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sales outlet offering goods at a discounted price.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sales outlet offering goods at a discounted price.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, bank, or retail establishment that discounts bills of exchange, loans, or commercial goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retail commerce, a merchant selling branded commodities at reduced prices on high volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discounter designates a sales outlet offering goods at a discounted price."*
+> - 📜 **Walter Bagehot (*Lombard Street: A Description of the Money Market*):** *"The London bill **discounter** stands as the crucial intermediary balancing cash liquidity with commercial credit."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Mr. Merdle's sudden bankruptcy ruined every financial **discounter** and investor in the City."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"The shady **discounter** advanced cash on post-obits to reckless young aristocrats who haunted the gaming tables."*

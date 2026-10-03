@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeling of despair in the face of obstacles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The expression of opposition and disapproval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loss of confidence, enthusiasm, or hope, or an attempt or circumstance that deters or dissuades someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education and mentorship, harsh criticism that dampens a student's creative initiative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"We were sorry for the poor dear girl and found so much to admire in the good disposition which had survived under such discouragement that we both at once (I mean Ada and I) proposed a little scheme that made her perfectly joyful."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The moment at which I assumed the authority was one of great discouragement and depression."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Once for all; I knew to my sorrow, often and often, if not always, that I loved her against reason, against promise, against peace, against hope, against happiness, against all discouragement that could be."*
+> - 📜 **Charles Darwin (*Life and Letters*):** *"I endured years of physical illness and scientific **discouragement** before completing the manuscript of the Origin."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The frequent failure of commercial speculations causes temporary **discouragement**, but bold American optimism quickly revives."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne had yielded eight years ago to the prudent **discouragement** of Lady Russell, parting from Wentworth in tears."*

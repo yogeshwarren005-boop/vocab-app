@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking good judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking good judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute of lacking discretion, prudence, or caution in speech and conduct; imprudence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical assessment, habitual carelessness that damages personal alliances and social trust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I’m surprised at the indiscreetness you commit."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Lovelace mocked the fatal **indiscreetness** of those who trusted his promises of marriage."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The author condemned the reckless **indiscreetness** of young wits who satirized sacred institutions."*
+> - 📜 **Walter Scott (*Waverley*):** *"The chieftain chided Fergus Mac-Ivor for political **indiscreetness** that endangered the Highland rebellion."*

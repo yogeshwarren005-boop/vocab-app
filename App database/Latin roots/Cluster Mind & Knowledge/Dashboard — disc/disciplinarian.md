@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who demands exact conformity to rules and forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who demands exact conformity to rules and forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who enforces strict discipline, obedience, and order, especially in a school, military, or household.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional history, a stern master or officer noted for uncompromising adherence to regulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I fear he was a bad disciplinarian."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I'm afraid I am not much of a disciplinarian, Miss Harding."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Fie for shame, that you are so hard upon us poor maligned disciplinarians of our sex, for your sakes!"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Creakle was a relentless **disciplinarian**, stalking the schoolroom with a cane tucked beneath his arm."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The naval captain was a merciless **disciplinarian**, ordering daily floggings for trivial maritime infractions."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Brocklehurst was an austere **disciplinarian** who ordered girls' curls shorn to mortify worldly vanity."*

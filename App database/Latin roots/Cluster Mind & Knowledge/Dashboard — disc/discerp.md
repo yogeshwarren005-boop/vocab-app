@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut off from a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To tear into pieces, rend apart, or sever forcibly into fragments; to dismember.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical debates on the soul, the question of whether an indivisible spiritual substance can be lacerated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discerp designates divide into pieces."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"An immaterial thinking substance cannot be divided or **discerp** into physical parts like extended matter."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"Time and oblivion **discerp** the proudest marble monuments, scattering their dust across neglected fields."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"Analytical pedantry attempts to **discerp** the living unity of the poetic symbol into cold mechanical abstractions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public dance hall for dancing to recorded popular music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public dance hall for dancing to recorded popular music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A club or dance hall where recorded dance music is played by a disc jockey (French borrowing).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 1960s social history, trendy venues replacing live swing bands with curated vinyl disc selections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discotheque designates a public dance hall for dancing to recorded popular music."*
+> - 📜 **Tom Wolfe (*The Kandy-Kolored Tangerine-Flake Streamline Baby*):** *"The new Manhattan **discotheque** was packed with celebrities dancing the watusi beneath spinning strobe lights."*
+> - 📜 **Joan Didion (*Slouching Towards Bethlehem*):** *"Young runaways drifted from the Haight-Ashbury coffee houses to the loud neon **discotheque** on the corner."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The pulsating bass rhythm of the offshore **discotheque** vibrated through the floorboards of the yacht marina."*

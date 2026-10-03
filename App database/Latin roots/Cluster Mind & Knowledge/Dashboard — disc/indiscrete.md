@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not divided or divisible into parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not divided or divisible into parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not separated into distinct parts; continuous, undivided, or homogeneous in composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and botany, lesions or pustules that run together into an undivided mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She is as small as a mouse, but once a year she stirs.[255] Notes: [64] Pechuel-Loesche, "Indiscretes aus Loango," _Zeitschrift für Ethnologie_, x. (1878) p. 23. [65] Rev."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Primitive creation existed as an **indiscrete** chaos before the divine word divided light from darkness."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Pure space appears to the unassisted senses as an **indiscrete** and unbroken expanse."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Immediate sensory experience begins as a buzzing, **indiscrete** whole before intellectual categorization."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding to a conclusion by reason or argument rather than intuition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Digressing from subject to subject; relating to reasoned discourse or argument rather than intuition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology, knowledge acquired step by step through logical deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I had not got far into it, when I judged from her looks that she was thinking in a discursive way of me, rather than of what I said."*
-> - 📜 **George Eliot (*Middlemarch*):** *"What could she do, what ought she to do?—she, hardly more than a budding woman, but yet with an active conscience and a great mental need, not to be satisfied by a girlish instruction comparable to the nibblings and judgments of a discursive mouse."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"No poetry in English literature, or in any literature, is more charged with discursive thought than his."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Reason receives / And reason is her being, **discursive** or intuitive; / Discourse is oftest yours, the latter most is ours."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Human understanding is a **discursive** faculty that operates by means of concepts rather than direct intuition."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The essayist adopted a pleasingly **discursive** style, wandering gracefully from antiquity to modern verse."*

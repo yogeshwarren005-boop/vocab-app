@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being injudicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A petty misdeed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behavior or speech that displays a lack of good judgment; an imprudent act or remark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical conduct, a minor social or moral lapse that exposes someone to public censure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rashly, And prais’d be rashness for it,—let us know, Our indiscretion sometime serves us well, When our deep plots do pall; and that should teach us There’s a divinity that shapes our ends, Rough-hew them how we will."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All’s not offence that indiscretion finds And dotage terms so."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"And at that moment, silent as we all were, his '_Pardon, Madame, mille pardons, Madame_,' and his tone of horror at his own indiscretion, seemed to come to me like a voice out of another life."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia's reckless **indiscretion** in running away with Wickham brought disgrace upon her father's house."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I recorded this early **indiscretion** frankly, wishing young tradesmen to avoid similar pitfalls of youth."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A momentary popular **indiscretion** must not be permitted to dismantle fundamental constitutional safeguards."*

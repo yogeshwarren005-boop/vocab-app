@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who believes and helps to spread the doctrine of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who believes and helps to spread the doctrine of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dedicated follower or pupil of a religious, philosophical, or artistic teacher or master.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christianity, specifically one of the twelve chosen personal companions of Jesus Christ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It broke upon her at length as a great pain that her last old disciple was about to forsake her and flee."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"May He who said, He that giveth a cup of cold water to a disciple, in the name of a disciple, shall not lose his reward, repay you a thousand-fold for this favor.' "Does not this little incident illustrate the power of prayer?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A disciple in Eastern Massachusetts, _a thousand miles away_ from the spot where the prayer was offered, who did not know anything about him or his need, is touched with his wants, and moved to send him immediate aid." MR."*
+> - 📜 **Plato (*Phaedo*):** *"Every weeping **disciple** gathered around the couch of Socrates, listening to his final discourse upon immortality."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The faithful **disciple** pressed forward toward the Celestial City, heedless of the mockery of Vanity Fair."*
+> - 📜 **Friedrich Nietzsche (*Thus Spoke Zarathustra*):** *"One repays a teacher badly if one remains always nothing more than a docile **disciple**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be confused emotionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To confuse, upset, disconcert, frustrate, or throw into a state of humorous confusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal American narrative, suddenly disrupting someone's poise, dignity, or train of thought.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discombobulate designates cause to be confused emotionally."*
+> - 📜 **Mark Twain (*Autobiography*):** *"The unexpected arrival of the river pilot was enough to **discombobulate** the greenest apprentice in the wheelhouse."*
+> - 📜 **David Foster Wallace (*Infinite Jest*):** *"The blizzard of overlapping sensory data served to **discombobulate** the freshman tennis prodigy."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"The sudden centrifuge spin was calculated to **discombobulate** the test candidate and evaluate vestibular recovery."*

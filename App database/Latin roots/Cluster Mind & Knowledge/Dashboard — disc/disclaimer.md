@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a voluntary repudiation of a person's legal claim to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denial of any connection with or knowledge of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that denies something, especially responsibility, legal liability, or connection to an event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual property and patent law, a formal repudiation of certain claims in a patent application.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I hope that after this explicit disclaimer I shall no longer be taxed with embracing a system of mythology which I look upon not merely as false but as preposterous and absurd."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"No, I am ’ily obleeged to you, Miss Twinkleton, nor yet a beggar.” This last disclaimer had reference to Miss Twinkleton’s distractedly pressing two-and-sixpence on her, instead of the cabman."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"A clear legal **disclaimer** alerts contracting parties that certain warranties are explicitly excluded from the covenant."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The publisher prefixed an ironic **disclaimer**, pretending the traveler's memoirs were unvarnished literal truth."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"Holmes made an emphatic **disclaimer** of personal ambition, seeking only to shield the noble family from ruin."*

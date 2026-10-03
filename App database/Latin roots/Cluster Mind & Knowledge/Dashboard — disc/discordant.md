@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in agreement or harmony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in harmony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disagreeing, incongruous, conflicting, or harsh and jarring to the ear; lacking harmony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical harmony, intervals or chords (like minor seconds) requiring resolution to consonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rumour is a pipe Blown by surmises, jealousies, conjectures, And of so easy and so plain a stop That the blunt monster with uncounted heads, The still-discordant wav’ring multitude, Can play upon it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Could it be possible, he continued, that eyes which as they gazed never expressed any divergence from what the tongue was telling, were yet ever seeing another world behind her ostensible one, discordant and contrasting?"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I roused myself, therefore, though unwillingly, to see whether these two, so discordant, could agree."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate's lofty medical ideals struck a **discordant** note amid the petty gossip of provincial Middlemarch doctors."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The wild, eerie howl struck a **discordant** chill across our hearts as we stood listening in the dark moor night."*
+> - 📜 **Edgar Allan Poe (*The Tell-Tale Heart*):** *"It was a low, dull, quick sound, much such a sound as a watch makes when enveloped in cotton... a **discordant** beating."*

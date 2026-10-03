@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not discovered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not yet discovered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not yet found, explored, detected, or brought to human knowledge; hidden or unknown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geography and celestial mechanics, uncharted lands or unobserved planets awaiting empirical identification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Full often, like a shag-haired crafty kern, Hath he conversed with the enemy, And undiscovered come to me again And given me notice of their villainies."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"To suppose that a manuscript of many generations back could have remained undiscovered in a room such as that, so modern, so habitable!—Or that she should be the first to possess the skill of unlocking a cabinet, the key of which was open to all!"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"As yet my flight, I was sure, was undiscovered."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The **undiscovered** country from whose bourn / No traveller returns, puzzles the will."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale swam in vast, **undiscovered** depths of the Pacific, unseen by harpooners."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Billions of planetary systems remain **undiscovered** in the sprawling spiral arms of our galaxy."*

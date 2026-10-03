@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impolite manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impolite manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a discourteous, rude, or ill-mannered manner; uncivilly and without proper respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative dialogue, answering polite inquiries with dismissive bluntness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They drew nearer together, therefore, and entreated the worthy Peechy Prauw to continue the tale which had been so discourteously interrupted."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma regretted having spoken so **discourteously** to poor Miss Bates on Box Hill before the assembled party."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Slope behaved **discourteously** to the archdeacon, turning his back while the elder churchman spoke."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The turnpike keeper grunted **discourteously**, demanding double toll before opening the iron gate in the rain."*

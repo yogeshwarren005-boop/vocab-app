@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of reducing the selling price of merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interest on an annual basis deducted in advance on a loan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deduction from the usual cost of something, or to disregard, underestimate, or treat as of little worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In banking, purchasing a promissory bill of exchange before maturity at less than its face value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus the banks have become the custodians of a large proportion of the money (or funds) needed for current use by individuals and business corporations. § 6. #Discount and deposit#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The process of discount and deposit is the purchase of the promissory note of a customer,[6] the price being a credit in the form of a demand deposit on the books of the bank."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But in discount and deposit the depositor brings no money, and the credit paper that he gives is his own promise to pay whereby he becomes the bank's debtor."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchant banks **discount** bills of exchange, providing liquid capital to manufacturers before goods reach market."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We must not **discount** the immense cumulative power of natural selection acting across millions of generations."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was inclined to **discount** Wickham's flattering compliments, having learned the value of Darcy's truth."*

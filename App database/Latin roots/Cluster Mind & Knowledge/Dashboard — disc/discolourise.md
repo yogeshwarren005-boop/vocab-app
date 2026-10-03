@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove color from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove color from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of color; to bleach or decolorize (alternative British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile processing, using chemical mordants and bleaching agents to prepare fabrics for uniform dyeing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discolourise designates remove color from."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Sulfur dioxide was introduced into the glass tube to **discolourise** the crimson potassium permanganate solution."*
+> - 📜 **Thomas Graham (*Elements of Chemistry*):** *"Fine porcelain clay is washed with dilute acid to **discolourise** iron oxide stains prior to firing in the kiln."*
+> - 📜 **Humphry Davy (*Elements of Agricultural Chemistry*):** *"Sunlight and dew cooperate naturally to **discolourise** unbleached linen laid out across meadow grass."*

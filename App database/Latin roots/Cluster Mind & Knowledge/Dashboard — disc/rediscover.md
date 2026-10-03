@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discover again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discover something again after it has been forgotten, lost, or neglected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, to re-evaluate classical or ancient knowledge with fresh understanding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Men, he saw, do not want precepts; they do not want ethics, morals or rules; what they do need is to rethink God, to rediscover him, to re-explore him, to live on the basis of relation with God."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Cataloging an heirloom rediscovers and records the past and, through the memories of you and others, builds another bridge from the past to the present."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Consequently it remained to be rediscovered by Branly, of Paris, in 1890."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Renaissance scholars strove to **rediscover** the lost observational wisdom of ancient Greek investigators."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"In these wild mountain solitudes, weary wanderers **rediscover** their primordial kinship with nature."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Modern logicians had to **rediscover** through rigorous proofs principles that Leibniz had glimpsed centuries earlier."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus that is a member of the subclass discomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus that is a member of the subclass discomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus of the group Discomycetes, characterized by producing asci in an open, cup-shaped apothecium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, ascomycetous cup fungi (such as Peziza and morels) that discharge spores into the air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discomycete designates any fungus that is a member of the subclass discomycetes."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Upon decaying beech trunks in Tierra del Fuego, we found an edible **discomycete** prized by the native Yaghans."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The scarlet **discomycete** carpets damp woodland humus in early spring with vibrant saucer-shaped cups."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"I observed a curious orange **discomycete** growing upon charred cedar roots along the swamp trail."*

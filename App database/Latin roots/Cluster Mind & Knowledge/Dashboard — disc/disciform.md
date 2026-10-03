@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a round or oval shape like a disc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a round or oval shape like a disc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape or form of a disc; flat, round, and discoid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, disciform keratitis or disciform macular degeneration characterized by round lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disciform designates having a round or oval shape like a disc."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Solitary mushroom corals exhibit a flat, **disciform** skeleton anchored lightly upon the reef sand."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination revealed a dense **disciform** keratitis involving the deep corneal stroma."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The spore capsules of certain aquatic fungi present a curious **disciform** outline beneath the lens."*

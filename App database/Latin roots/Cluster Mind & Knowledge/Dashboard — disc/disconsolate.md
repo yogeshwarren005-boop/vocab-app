@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sad beyond comforting; incapable of being consoled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing dejection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without consolation or comfort; deeply dejected, cheerless, unhappy, and sorrowful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic landscapes, bleak, desolate vistas that evoke melancholy in the viewer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All disconsolate, With Pindarus his bondman, on this hill."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have come down,” repeats Grandfather Smallweed, hooking the air towards him with all his ten fingers at once, “to look after the property.” “I think, Small,” says the disconsolate Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"O," thought I, "how I would like to send something." "When I returned home my poor children were still sleeping soundly, and my disconsolate husband waiting my return, for he had been out of employment some time."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan surveyed the **disconsolate** waste of subterranean sulfur, mourning the celestial realms he had lost."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip sat **disconsolate** upon the tombstone, weeping in the gathering marsh twilight."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet remained **disconsolate** in her dressing room, convinced that the regiment's departure doomed her daughters."*

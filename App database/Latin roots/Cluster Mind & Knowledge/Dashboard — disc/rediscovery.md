@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discovering again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discovering again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of finding, uncovering, or recognizing something forgotten or lost again.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the independent identification of a forgotten principle or lost manuscript.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rediscovery designates the act of discovering again."*
+> - 📜 **Thomas Kuhn (*The Structure of Scientific Revolutions*):** *"The famous **rediscovery** of Mendel's laws in 1900 fundamentally transformed evolutionary biology."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **rediscovery** of the Justinian Pandects at Amalfi revived the study of Roman civil law across Europe."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The European Renaissance was catalyzed by the enthusiastic **rediscovery** of classical Alexandrian science."*

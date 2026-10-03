@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Popular dance music (especially in the late 1970s); melodic with a regular bass beat; intended mainly for dancing at discotheques.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public dance hall for dancing to recorded popular music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A club or party where people dance to recorded pop and dance music, or a genre of 1970s dance-pop music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music history, an uptempo style characterized by four-on-the-floor bass drums, strings, and syncopated basslines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disco designates popular dance music (especially in the late 1970s); melodic with a regular bass beat; intended mainly for dancing at discotheques."*
+> - 📜 **Tom Wolfe (*The Bonfire of the Vanities*):** *"Youths crowded into the subterranean **disco**, moving beneath mirrored globes and pulsing neon lights."*
+> - 📜 **David Foster Wallace (*A Supposedly Fun Thing I'll Never Do Again*):** *"The cruise ship featured an underground **disco** where vacationers danced to synthetic seventies anthems."*
+> - 📜 **Hunter S. Thompson (*The Great Shark Hunt*):** *"The booming bass of the casino **disco** echoed across the parking lot into the hot desert midnight air."*

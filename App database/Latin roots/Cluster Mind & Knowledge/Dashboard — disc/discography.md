@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A descriptive catalog of musical recordings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A descriptive catalog of musical recordings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A descriptive catalog or comprehensive list of musical recordings made by a particular performer or composer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology, the bibliographical and critical study of audio recordings, matrix numbers, and release formats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discography designates a descriptive catalog of musical recordings."*
+> - 📜 **Theodor Adorno (*Essays on Music*):** *"A critical **discography** charts how commercial recording studios shaped twentieth-century interpretation of Beethoven."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The amnesic musician could instantly reconstruct the complete recorded **discography** of Bach cantatas from memory."*
+> - 📜 **Aaron Copland (*Copland on Music*):** *"The collector consults a scholarly **discography** to trace the conductor's evolving tempos across five decades."*

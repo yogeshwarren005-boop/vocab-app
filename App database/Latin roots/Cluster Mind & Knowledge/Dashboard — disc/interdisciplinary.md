@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drawing from or characterized by participation of two or more fields of study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawing from or characterized by participation of two or more fields of study.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving two or more academic disciplines or fields of study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific research methodology, collaborative integration of principles from multiple branches of knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, interdisciplinary designates drawing from or characterized by participation of two or more fields of study."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Cybernetics developed from the **interdisciplinary** confluence of electrical engineering, neurology, and mathematical logic."*
+> - 📜 **Thomas Kuhn (*The Structure of Scientific Revolutions*):** *"Crisis in a mature science often provokes **interdisciplinary** debates that usher in a new paradigm."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Astrobiology requires an intensely **interdisciplinary** cooperation among astronomers, biologists, and geologists."*

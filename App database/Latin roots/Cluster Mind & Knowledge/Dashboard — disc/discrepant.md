@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not compatible with other facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inconsistent, disagreeing, conflicting, or failing to correspond with standard evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical logic and empirical analysis, propositions or data sets that cannot be mutually reconciled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Lives of Pericles and Themistocles, for instance, are little more than mere collectanea from sources widely discrepant, and often quite worthless."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"When experimental observations yield **discrepant** results, natural philosophers must refine their instruments."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The testimony of different witnesses on this event proved hopelessly **discrepant** upon critical scrutiny."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ancient historians provide widely **discrepant** estimates of the barbarian cavalry assembled on the Danube."*

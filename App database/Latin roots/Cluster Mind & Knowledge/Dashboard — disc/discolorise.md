@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove color from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove color from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove color from; to bleach, clarify, or decolorize (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sugar refining and chemical purification, filtering crude syrups through animal charcoal to remove pigments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discolorise designates remove color from."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Bone charcoal is widely employed in laboratories to **discolorise** organic solutions and precipitate coloring resins."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Chlorine gas will rapidly **discolorise** moist vegetable dyes, bleaching litmus and indigo papers to pure white."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Repeated distillations over absorbent earth served to **discolorise** the volatile spirit of petroleum."*

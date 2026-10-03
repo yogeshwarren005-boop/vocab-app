@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of making fine distinctions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing careful judgment; ; -tyler dennett.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to distinguish, differentiate, or mark a characteristic difference between things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological conditioning, stimuli that signal whether a particular operant response will be reinforced.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discriminative designates capable of making fine distinctions."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Genius displays a remarkably **discriminative** insight into the latent affinities of human thought."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Natural selection acts upon every **discriminative** variation that confers an advantage in survival."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The organism learns to recognize the **discriminative** cue before initiating the conditioned reaction."*

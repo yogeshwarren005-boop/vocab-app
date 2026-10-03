@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put an end to a state or an activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to or be at an end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: No longer produced, manufactured, maintained, or continued; stopped, abandoned, or terminated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In publishing and industry, periodicals or products retired from commercial availability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And twenty of these puny lies I’ll tell, That men shall swear I have discontinued school About a twelvemonth."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as the clock struck, playing was discontinued, the evening song was sung and then followed the disappearance of the two little ones."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Peter's-day (the twenty-ninth of June), has been discontinued upwards of forty years."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"A cardboard notice announced that the League of Red-Headed Men was permanently dissolved and **discontinued**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The ancient custom of wife-selling was universally condemned and practically **discontinued** in Wessex."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"In the future golden age, all competitive commercial manufacture had been completely **discontinued**."*

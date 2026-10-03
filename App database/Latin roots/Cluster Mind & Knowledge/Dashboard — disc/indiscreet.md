@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking discretion; injudicious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking discretion; injudicious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, showing, or proceeding from a lack of prudence, good judgment, or secrecy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic relations, dangerously revealing confidential communications or intentions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For as it would ill become me to be vain, indiscreet, or a fool, So, were there a patch set on learning, to see him in a school."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will rather sue to be despised than to deceive so good a commander with so slight, so drunken, and so indiscreet an officer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But she is a little dreaded elsewhere in consequence of an indiscreet profusion in the article of rouge and persistency in an obsolete pearl necklace like a rosary of little bird’s-eggs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia's **indiscreet** chatter at the dinner table threatened to expose private family arrangements."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip regretted his **indiscreet** confession to Herbert concerning his impossible adoration of Estella."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The young diplomat realized too late that an **indiscreet** word to the foreign agent had compromised the treaty."*

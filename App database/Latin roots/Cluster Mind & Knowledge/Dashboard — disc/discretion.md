@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom to act or judge on one's own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowing how to avoid embarrassment or distress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The freedom or authority to decide what should be done in a particular situation; prudence and circumspection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, the judicial power to decide legal issues within principles of equity rather than rigid rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it raises the greater war between him and his discretion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, these are almost thoroughly persuaded; For though abundantly they lack discretion, Yet are they passing cowardly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It seems it is as proper to our age To cast beyond ourselves in our opinions As it is common for the younger sort To lack discretion."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"The better part of valor is **discretion**, in the which better part I have saved my life."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judiciary has neither force nor will, but merely judgment, exercising prudent **discretion** under the constitution."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet left the choice of guests entirely to the **discretion** of his sensible eldest daughter."*

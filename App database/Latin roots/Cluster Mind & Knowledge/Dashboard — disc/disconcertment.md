@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anxious embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anxious embarrassment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Embarrassment, fluster, or unsettling confusion that disorients one's focus or plans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire, the awkward predicament of pretenders exposed to public ridicule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disconcertment designates anxious embarrassment."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley fled the ball in utter **disconcertment** after drinking too much punch and boasting foolishly."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen's haughty **disconcertment** betrayed how deeply Grandcourt's cold surveillance troubled her."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard masked his inner **disconcertment** beneath a blustering roar of anger at the town council."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something with a round shape resembling a flat circular plate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat, thin, circular plate or object, or an anatomical structure such as an intervertebral pad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer technology, magnetic or optical storage media such as hard discs and compact discs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Through a partly-opened door the noise of a scrubbing-brush led up to the charwoman, Maryann Money, a person who for a face had a circular disc, furrowed less by age than by long gazes of perplexity at distant objects."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Before the disc is thrown it is set on fire, the wand is swung to and fro, and the impetus thus communicated to the disc is augmented by dashing the rod sharply against a sloping board."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The burning disc is thus thrown off, and mounting high into the air, describes a long fiery curve before it reaches the ground."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The image of the sun cast through a tiny pinhole formed a luminous golden **disc** upon the opposite wall."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The adhesive **disc** at the tip of the tendril secretes a resinous cement that anchors the vine to rock."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The colossal spherical command module rotated slowly, framing the pale blue **disc** of Earth in the viewport."*

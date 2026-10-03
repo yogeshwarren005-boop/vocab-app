@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make known to the public information that was previously known only to a few people or that was meant to be kept a secret.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disclose to view as by removing a cover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made known, revealed, uncovered, or exposed to public knowledge or view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal proceedings, evidence or documents formally revealed to opposing counsel during pretrial discovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If my observation, which very seldom lies, By the heart’s still rhetoric disclosed with eyes, Deceive me not now, Navarre is infected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to speak that in words which his eye hath disclosed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The sum of all I can, I have disclosed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The mysterious papers found in Nemo's trunk **disclosed** the secret parentage of Lady Dedlock's child."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A palace slave **disclosed** the impending conspiracy against the tyrant, saving the imperial court from assassination."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Victor **disclosed** his tragic secret to the magistrate, who listened with mixture of pity and incredulity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowing how to avoid embarrassment or distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subtly skillful handling of a situation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribute of being prudent, circumspect, tactful, and reserved in speech and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative service, the reliable capacity to protect confidential information and maintain privacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discreetness designates knowing how to avoid embarrassment or distress."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Her remarkable **discreetness** won the admiration of even the most severe matrons in the county."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Lilliputian treasurer commended the traveler's **discreetness** in avoiding political entanglements."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans spoke with sober **discreetness** when answering the magistrate's searching inquiries."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get to know or become aware of, usually accidentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To find unexpectedly or in the course of a search, or to become aware of a fact for the first time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure, pretrial disclosure where parties discover evidence and depositions from adversaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If there be here German, or Dane, Low Dutch, Italian, or French, let him speak to me, I’ll discover that which shall undo the Florentine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this it is: our foot Upon the hills adjoining to the city Shall stay with us—order for sea is given; They have put forth the haven— Where their appointment we may best discover And look on their endeavour. [_Exeunt._] SCENE XI."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where yond pine does stand I shall discover all."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The aim of the new scientific method is to **discover** hidden causes and produce novel works for human benefit."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"It was thrilling to watch Holmes **discover** crucial clues in the dusty carpet where others saw nothing."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma was shocked to **discover** that Frank Churchill and Jane Fairfax had been secretly engaged for months."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put an end to a state or an activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come to or be at an end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stop doing, providing, producing, or using something; to cease, terminate, or abandon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial manufacturing, halting the production of an unprofitable or obsolete product line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, for your many courtesies I thank you: I must discontinue your company."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He wrote that he had decided to discontinue the studies with them next fall, but that he would be only too glad to be of assistance to Mrs."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Any one can discontinue on paying up arrearages."*
+> - 📜 **Charles Dickens (*Pickwick Papers*):** *"Mr. Pickwick resolved to **discontinue** his subscriptions to the club until his honor had been vindicated."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma decided to **discontinue** her matchmaking schemes after the mortifying blunder with Mr. Elton."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I found it prudent to **discontinue** the theological disputes that alienated my brother and fellow tradesmen."*

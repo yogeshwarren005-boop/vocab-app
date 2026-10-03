@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anxious embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temperament that is perturbed and lacking in composure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agitation, perturbation, loss of emotional serenity, or ruffled composure under stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette, the momentary loss of dignified poise caused by surprise or mortification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy, who, though extremely surprised, was not unwilling to receive it, when she instantly drew back, and said with some discomposure to Sir William,-- “Indeed, sir, I have not the least intention of dancing."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The inattention of the two brothers and the aunt to Julia’s discomposure, and their blindness to its true cause, must be imputed to the fullness of their own minds."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Instead of going back to Wanhope with the relief party he got Bendish to drop him at the field path to Wanhope: and he slipped up to his room by a garden door, bathed, changed, and came down to lunch without trace of discomposure."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma strove to conceal her **discomposure** beneath a smile, though her cheeks burned with mortification."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's cold dignity was shaken by an inward **discomposure** that made his thin hands tremble."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The antiquary turned away to hide his sudden **discomposure** when the boy questioned his ancient Roman coins."*

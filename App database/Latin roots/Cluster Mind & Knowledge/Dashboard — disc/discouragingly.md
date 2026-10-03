@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a discouraging manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a discouraging manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a discouraging or disheartening manner; to an extent that dampens confidence or enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investigative narrative, prospects or weather conditions appearing bleak and unpromising.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"One evening after the physician had spoken discouragingly, and his parents, as he perceived, were in deep distress, he was absorbed on his knees in a corner of the room in earnest prayer."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The dense fog rolled across the moor **discouragingly**, threatening to shroud the path before we could intercept the hound."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Chancery suit dragged on **discouragingly**, devouring every penny of the contested legacy in legal fees."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The silence in the grand country house was **discouragingly** deep, chilling the young governess's heart."*

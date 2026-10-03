@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get undressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get undressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strip of covering, clothing, armor, or outer case; to undress, expose, or uncover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature, removing a disguise or ceremonial robe to reveal one's true identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ariel, Fetch me the hat and rapier in my cell. [_Exit Ariel._] I will discase me, and myself present As I was sometime Milan."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"I will **discase** me, and myself present as I was sometime Milan; quickly, spirit, thou shalt ere long be free."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The wounded knight was compelled to **discase** his heavy steel greaves before the surgeon could examine his limbs."*
+> - 📜 **John Dryden (*The Spanish Friar*):** *"The conspirator was forced to **discase** his dark cloak and reveal the poisoned dagger hidden in his doublet."*

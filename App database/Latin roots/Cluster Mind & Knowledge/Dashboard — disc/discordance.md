@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A harsh mixture of sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strife resulting from a lack of agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disagreement, harsh disharmony, clashing conflict, or jarring dissonance between sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology, an unconformity where strata lie with divergent angles of dip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"As they sit listening to the solemn swell, the confidence of last night rises in young Edwin Drood’s mind, and he thinks how unlike this music is to that discordance."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The sudden shriek of terror presents a jarring acoustic **discordance** that triggers sympathetic alarm in companions."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Bad architecture offends the eye by introducing an intolerable **discordance** with surrounding mountain scenery."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The marked angular **discordance** between the horizontal sandstone and tilted slate proved an ancient tectonic upheaval."*

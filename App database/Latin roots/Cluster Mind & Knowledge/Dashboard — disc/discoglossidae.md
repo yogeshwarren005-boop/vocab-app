@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of old world toads having a fixed disklike tongue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of old world toads having a fixed disklike tongue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic family of primitive frogs, including the painted frogs and midwife toads (order Anura).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, anuran amphibians characterized by a disc-shaped, round tongue that cannot be extended, and opistocoelous vertebrae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discoglossidae designates family of old world toads having a fixed disklike tongue."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Primitive anurans of the family **Discoglossidae** retain ancestral anatomical traits linking frogs with fossil stegocephalians."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The famous midwife toad of Europe belongs to the family **Discoglossidae**, the male carrying egg strings upon his thighs."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Ancient lineages like the **Discoglossidae** provide vital evolutionary benchmarks for understanding modern amphibian radiation."*

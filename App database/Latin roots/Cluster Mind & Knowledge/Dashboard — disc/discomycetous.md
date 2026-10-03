@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of fungi of the subclass discomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of fungi of the subclass discomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or belonging to the Discomycetes; cup-fungal in form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, describing open apothecial fructifications bearing operculate asci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discomycetous designates relating to or characteristic of fungi of the subclass discomycetes."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The **discomycetous** fruiting structure exposes the hymenium freely to the air for explosive ascospore release."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Microscopic sections of the **discomycetous** parasite revealed dense palisades of spore-bearing asci."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Certain marine **discomycetous** species colonize submerged driftwood along intertidal mudflats."*

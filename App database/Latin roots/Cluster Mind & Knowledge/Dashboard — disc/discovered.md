@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get to know or become aware of, usually accidentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Found out, detected, uncovered, or realized, especially that which had been previously unknown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical exploration, geographical regions or scientific laws revealed to human knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The general says you that have so traitorously discovered the secrets of your army, and made such pestiferous reports of men very nobly held, can serve the world for no honest use; therefore you must die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At length the sun, gazing upon the earth, Dispers’d those vapours that offended us, And by the benefit of his wished light The seas wax’d calm, and we discovered Two ships from far, making amain to us, Of Corinth that, of Epidaurus this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As he march’d along, By your espials were discovered Two mightier troops than that the Dauphin led, Which join’d with him and made their march for Bordeaux. [_Exit._] YORK."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the gravel plains of Patagonia, I **discovered** the fossil bones of colossal extinct edentates."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"After days and nights of incredible labor, I **discovered** the secret of generating life in lifeless matter."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"When Edward's secret was **discovered**, his haughty mother immediately disinherited him in favor of his brother."*

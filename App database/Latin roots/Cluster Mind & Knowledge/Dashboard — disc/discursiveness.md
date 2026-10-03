@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being discursive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being discursive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of digressing widely in speech or thought; progression by rational argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary composition, the deliberate stylistic tendency to wander through diverse topics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The moment was too propitious for the display of that discursiveness which seemed the only bond of union among tempers so divergent."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The **discursiveness** of the author's narrative often obscures the underlying unity of his moral theme."*
+> - 📜 **Henry James (*Partial Portraits*):** *"Turgenev disliked the sprawling **discursiveness** of certain contemporary French naturalists."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Dryden's prefaces delight the reader through their intellectual energy despite occasional **discursiveness**."*

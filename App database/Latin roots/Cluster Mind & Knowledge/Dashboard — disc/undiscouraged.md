@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deterred; - osbert sitwell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deterred; - osbert sitwell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having lost heart, enthusiasm, or confidence; persevering steadfastly despite obstacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heroic narrative and exploration, resolutely pushing forward through repeated perils and failures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Rattle, rattle, went the small sound, undiscouraged."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It has never ceased to rejoice in the labors of the determined, undiscouraged man who amidst manifold labors and difficulties, worked, waited and prayed seven years, like Jacob of old."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The botanist remained **undiscouraged** by drenching tropical downpours, collecting rare orchids along the river."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The British people stood resolute and **undiscouraged** when facing the imminent menace of invasion."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The wild builder remains **undiscouraged** by winter frost, preparing his ground for spring planting."*

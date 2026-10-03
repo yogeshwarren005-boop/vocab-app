@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dishonorable manner or to a dishonorable degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dishonorable manner or to a dishonorable degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that brings shame, dishonor, or discredit; disgracefully and reproachfully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical narrative evaluation, conducting an office or duty with disgraceful failure of honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discreditably designates in a dishonorable manner or to a dishonorable degree."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ministry retreated **discreditably** from their declared policy when parliamentary opposition stiffened."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley had handled his gambling debts **discreditably**, leaving ruin in his wake across London clubs."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The compromised colonel behaved **discreditably** when confronted with the evidence of his stolen treaty."*

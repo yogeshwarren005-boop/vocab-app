@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Detect with the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detect with the senses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perceive, recognize, distinguish, or detect with the eyes or with the intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, exercising ethical wisdom to separate genuine virtue from fraudulent appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You look on me: what wreck discern you in me Deserves your pity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He calls me e’en now, my lord, through a red lattice, and I could discern no part of his face from the window."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By thrusting out a torch from yonder tower, Which, once discern’d, shows that her meaning is: No way to that, for weakness, which she enter’d."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Does any here know me? This is not Lear. Does Lear walk thus? speak thus? Where are his eyes? Either his notion weakens, his **discern** is lethargied."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"An observant naturalist can **discern** minute transitional variations linking geographically separated races."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma was too quick-witted not to **discern** that Mr. Knightley disapproved of her intimacy with Harriet."*

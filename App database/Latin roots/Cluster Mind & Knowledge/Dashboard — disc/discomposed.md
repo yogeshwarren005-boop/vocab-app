@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's composure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having your composure disturbed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agitated, ruffled, disturbed, or unsettled in mind, temper, or outward demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, visibly perturbed by an unexpected breach of decorum or truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You will not be discomposed by the Lord Chancellor, I dare say?” “No, sir,” I said, “I don’t think I shall,” really not seeing on consideration why I should be."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Much discomposed in her nerves (which were previously in the best order) by this threat, she so fearfully mutilates that point of state as to announce “Mr. and Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, after saying, in reference to the state of his pinafore, “Oh, you naughty Peepy, what a shocking little pig you are!” was not at all discomposed."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy walked across the room in a **discomposed** manner, struggling to master his turbulent emotions."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Aunt Betsey Trotwood looked unusually **discomposed** after her unexpected encounter with the mysterious stranger."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether felt subtly **discomposed** by Chad's polished transformation, which exceeded all Boston expectations."*

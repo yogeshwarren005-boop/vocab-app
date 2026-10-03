@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a flat circular shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a flat circular shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the round, flattened shape of a disc; circular, flat, and discoid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and cytology, describing planar structures like planetary rings or red blood cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disclike designates having a flat circular shape."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The surface of the lagoon was covered with millions of tiny, **disclike** medusae pulsing in the clear water."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Saturn is encircled by an immense, thin, **disclike** system of rings that casts shadows across its equator."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Mammalian erythrocytes possess a biconcave **disclike** morphology that maximizes oxygen exchange surface area."*

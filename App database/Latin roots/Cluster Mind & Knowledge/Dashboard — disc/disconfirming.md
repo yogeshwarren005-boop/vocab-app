@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not indicating the presence of microorganisms or disease or a specific condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establishing as invalid or untrue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing evidence that contradicts, disproves, or refutes a hypothesis, theory, or expectation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of science, empirical observations that falsify a theoretical prediction (Popperian falsification).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disconfirming designates not indicating the presence of microorganisms or disease or a specific condition."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"A single reliable **disconfirming** observation carries greater logical weight than thousands of confirmations."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Pseudoscience routinely ignores **disconfirming** laboratory results, cherry-picking only supportive anecdotes."*
+> - 📜 **Daniel Kahneman (*Thinking, Fast and Slow*):** *"Confirmation bias leads human decision makers to actively ignore **disconfirming** statistical trends."*

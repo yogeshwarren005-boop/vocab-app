@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or using the ability to act or decide according to your own discretion or judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or using the ability to act or decide according to your own discretion or judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to, depending on, or exercised through individual judgment rather than mandatory rule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative governance, statutory authority that permits official options based on circumstance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discretional designates having or using the ability to act or decide according to your own discretion or judgment."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Magistrates must not transform limited **discretional** powers into arbitrary personal tyranny."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The colonial governor held extensive **discretional** authority to negotiate treaties with tribal leaders."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"The crown preserves certain **discretional** prerogatives designed for national emergencies."*

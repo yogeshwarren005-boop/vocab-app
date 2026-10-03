@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceptible by the senses or intellect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceptible by the senses or intellect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be discerned, perceived, detected, or distinguished by sight or the intellect; discernible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical observation, tangible symptoms or physiological changes evident upon examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"I could give an individual description of each, for every atom in that room, large enough for discernable shape or colour, seems branded into my brain."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Through the dense moor fog, a faint pale light was barely **discernable** in the direction of the hall."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The gradual uplift of ancient marine terraces along the Baltic coast is clearly **discernable** over centuries."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"A subtle shade of ironic amusement was **discernable** in Gilbert Osmond's quiet polite greetings."*

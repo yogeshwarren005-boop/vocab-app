@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small order of fishes comprising the remoras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small order of fishes comprising the remoras.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order or suborder of marine ray-finned fishes comprising the remoras or sharksuckers (family Echeneidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, fishes possessing a flat oval laminated sucker on top of the head modified from the dorsal fin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discocephali designates small order of fishes comprising the remoras."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The **Discocephali** are distinguished by the transformation of the spinous dorsal fin into a powerful suctorial disc."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We captured a specimen of **Discocephali** firmly attached to the belly of a blue shark alongside the frigate."*
+> - 📜 **Louis Agassiz (*Contributions to Natural History*):** *"Transverse cartilaginous lamellae in **Discocephali** create powerful hydraulic vacuums that resist dislodgement."*

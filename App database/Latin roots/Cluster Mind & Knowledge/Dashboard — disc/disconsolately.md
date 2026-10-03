@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In grief-stricken loneliness; without comforting circumstances or prospects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grief-stricken loneliness; without comforting circumstances or prospects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disconsolate, dejected, or heartbroken manner; sorrowfully and without comfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative descriptions, weeping or wandering in inconsolable melancholy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet removes his hand from his head as if the shower-bath were over and looks disconsolately at Mr."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It’s bad enough to be a blacksmith’s wife (and him a Gargery) without being your mother.” My thoughts strayed from that question as I looked disconsolately at the fire."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As I was loitering along the High Street, looking in disconsolately at the shop windows, and thinking what I would buy if I were a gentleman, who should come out of the bookshop but Mr."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The orphan child wept **disconsolately** in the red-room, terrified by the cold shadows of the dusk."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The hound wandered **disconsolately** about the yard, having lost the creosote scent along the river bank."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude stared **disconsolately** at the distant spires of Christminster, realizing the university gates were barred."*

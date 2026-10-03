@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of disciple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of disciple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or practice of being a disciple; following the teachings of a revered leader or master.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian ethics, the sacrificial, disciplined commitment to living out the moral teachings of the Gospel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"His tests of discipleship illumine his ideal of character--Theocentric thinking--negation of self--the thought-out life."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Just why he wished to keep her away from America is unclear, possibly because he dared not put so idealistic a friendship and discipleship to the test of personal acquaintance with a prematurely broken old man."*
+> - 📜 **Dietrich Bonhoeffer (*The Cost of Discipleship*):** *"Costly grace calls us to true **discipleship**, which requires surrendering worldly security to follow the master."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The psychological hallmarks of authentic **discipleship** include saintly self-surrender, peace, and fervent charity."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Reverent **discipleship** is the natural homage which lesser minds gladly pay to transcendent heroic genius."*

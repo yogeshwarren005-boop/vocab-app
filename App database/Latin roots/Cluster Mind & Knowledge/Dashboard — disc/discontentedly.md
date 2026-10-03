@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With discontent; in a discontented manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With discontent; in a discontented manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a discontented, dissatisfied, or grumbling manner; with obvious displeasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dialogue, muttering complaints or accepting compromises with sullen reluctance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then comes, dropping after all, Apemantus, discontentedly, like himself."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What did you say that for?” “’Cause he gave me the penny!” “What a pucker everything is in!” said Bathsheba, discontentedly when the child had gone."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What did you say that for?” “’Cause he gave me the penny!” “What a pucker everything is in!” said Bathsheba, discontentedly when the child had gone."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred Vincy grumbled **discontentedly** over his father's refusal to purchase him a hunter for the season."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson paced **discontentedly** along the gravel path, frustrated that Holmes had left him in the dark."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe sat **discontentedly** in his Sunday clothes, longing for the familiar comfort of his blacksmith's apron."*

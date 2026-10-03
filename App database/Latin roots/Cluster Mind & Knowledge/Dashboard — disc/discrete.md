@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a separate entity or part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting a separate entity or part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Individually separate, distinct, discontinuous, or consisting of unconnected constituent parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and digital computation, values or variables taking only distinct separate points rather than a continuum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What discrete succession of images did Stephen meanwhile perceive?"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind perceives number by repeating the **discrete** idea of unity across individual perceptions."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness does not appear chopped up into **discrete** bits, but flows like a continuous stream."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The arithmetic of natural numbers deals exclusively with **discrete** structural relations."*

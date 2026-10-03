@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being biased or having a belief or attitude formed beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or implying a slight or showing prejudice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, showing, or making unfair distinctions; displaying prejudicial bias against a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, policies that intentionally burden protected classes without compelling justification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The same allegation of inevitableness was once commonly made of discriminatory railroad rates and rebates, evils which have been in large part remedied only since the period 1903-1906, when at last intelligent action was taken."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Where competition is enforced it is by applying some general rules that create a general market price instead of discriminatory prices, but the fixing of the price is left to the competitors."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"Society cannot prosper while enforcing **discriminatory** restrictions against one half of humanity."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Any **discriminatory** law based on hereditary rank violates the core spirit of the republic."*
+> - 📜 **Frederick Douglass (*My Bondage and My Freedom*):** *"Free northern states still imposed cruel and **discriminatory** codes upon Black citizens."*

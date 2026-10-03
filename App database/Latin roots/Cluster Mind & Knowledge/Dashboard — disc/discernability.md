@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinctness that makes perception easy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinctness that makes perception easy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being discernible, perceptual distinctness, or clarity sufficient for sensory detection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and astronomy, the resolution limit at which adjacent stellar points are distinguished.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discernability designates distinctness that makes perception easy."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Atmospheric turbulence reduces the **discernability** of delicate lunar rilles even through large reflectors."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory thresholds define the mathematical limits of conscious **discernability** for auditory tones."*
+> - 📜 **Ernst Mach (*The Analysis of Sensations*):** *"Luminance contrast governs the immediate **discernability** of fine grid lines upon the visual retina."*

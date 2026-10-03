@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Detect with the senses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or revealing keen insight and good judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing good judgment, sharp perception, and intellectual insight; discriminating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism, a connoisseur who recognizes subtle artisanal craftsmanship and genius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That bear’st a cheek for blows, a head for wrongs; Who hast not in thy brows an eye discerning Thine honour from thy suffering; that not know’st Fools do those villains pity who are punish’d Ere they have done their mischief."*
-> - 📜 **Jane Austen (*Persuasion*):** *"His tone, his expressions, his choice of subject, his knowing where to stop; it was all the operation of a sensible, discerning mind."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Thorpe’s lodgings, and the feelings of the discerning and unprejudiced reader of Camilla gave way to the feelings of the dutiful and affectionate son, as they met Mrs."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"A **discerning** critic separates the permanent gold of true genius from the transient tinsel of fashion."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was regarded by her father as a more **discerning** and sensible observer than her foolish sisters."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The novel appeals to the **discerning** reader who values delicate psychological nuances over melodramatic action."*

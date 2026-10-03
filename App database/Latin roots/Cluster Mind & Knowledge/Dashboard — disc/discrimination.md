@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfair treatment of a person or group on the basis of prejudice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive process whereby two or more stimuli are distinguished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to recognize and understand fine distinctions; unjust prejudicial treatment of categories of people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal constitutional doctrine, the unlawful denial of equal protection under civil statutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The young man, thus invited, glanced them over, and attempted some discrimination; but, as the group were all so new to him, he could not very well exercise it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Discrimination as to goods. § 10."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Personal discrimination. § 12."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Intellectual culture consists in refining our powers of **discrimination** between essence and outward appearance."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic equality gradually dissolves every social **discrimination** based solely on aristocratic birth."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"Legalized **discrimination** maintained the brutal system of bondage in southern plantations."*

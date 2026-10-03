@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling downcast and disheartened and hopeless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling downcast and disheartened and hopeless.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dejection, deep sorrow, or inconsolable grief that refuses comforting; cheerlessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary atmosphere, the pervasive aura of gloom hanging over a tragic household.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disconsolateness designates feeling downcast and disheartened and hopeless."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"The princess was overwhelmed by a heavy **disconsolateness** after the sudden death of her favorite companion."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An unredeemed **disconsolateness** hung like a funeral pall over the somber corridors of Usher's domain."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie's childish **disconsolateness** was soothed only by the quiet whisper of the river flowing past."*

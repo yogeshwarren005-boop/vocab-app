@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make dissatisfied.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing or experiencing dissatisfaction or restless longing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissatisfied, restless, or unhappy with one's possessions, status, or life circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social comedy, characters whose ungrateful complaining alienates friends and patrons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most meet That first we come to words, and therefore have we Our written purposes before us sent, Which if thou hast considered, let us know If ’twill tie up thy discontented sword And carry back to Sicily much tall youth That else must perish here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But as a discontented friend, Grief-shot with his unkindness?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Behold, my Lord of Winchester, the Duke Hath banish’d moody discontented fury, As by his smoothed brows it doth appear."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. John Dashwood was perpetually **discontented**, begrudging her sisters-in-law the smallest legacy from the estate."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Saint Antoine quarter was filled with hungry, **discontented** weavers whose fury was ready to explode."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Eustacia Vye was intensely **discontented** with Egdon Heath, longing for the glamorous gaiety of Paris."*

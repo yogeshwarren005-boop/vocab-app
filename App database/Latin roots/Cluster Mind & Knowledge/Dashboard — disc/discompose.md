@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's composure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's composure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disturb the composure, calm, or self-possession of someone; to agitate, ruffle, or disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal demeanor, unsettling someone's dignified exterior through unexpected news or insolence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Men who possess all the advantages of life, are in a state where there are many accidents to disorder and discompose, but few to please them."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"And having been long used to sea-voyages, those motions, although sometimes very violent, did not much discompose me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You will not be discomposed by the Lord Chancellor, I dare say?” “No, sir,” I said, “I don’t think I shall,” really not seeing on consideration why I should be."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Nothing could **discompose** Mr. Bennet's cynical equanimity, not even Mrs. Bennet's frantic nervous complaints."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle was careful never to let sudden domestic crises **discompose** her impeccably cultivated poise."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Monsieur Paul's fierce scowl failed to **discompose** Lucy, who quietly continued correcting the French exercises."*

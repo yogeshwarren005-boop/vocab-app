@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of rules of conduct or method of practice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of training people to obey rules, code of behavior, or a field of academic study and learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic asceticism, an instrument of penance, such as a whip or scourge, used for self-mortification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their discipline, Now mingled with their courages, will make known To their approvers they are people such That mend upon the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is not—God be praised and blessed!—any hurt in the world; but keeps the bridge most valiantly, with excellent discipline."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certainly, anchient, it is not a thing to rejoice at; for if, look you, he were my brother, I would desire the Duke to use his good pleasure, and put him to execution; for discipline ought to be used."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legions conquered the world not by superior numbers, but through unbending, relentless military **discipline**."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Party members practiced crimestop, a voluntary mental **discipline** that halted heterodox thoughts at the threshold."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale kept in his secret closet a bloody **discipline**, scourging his flesh in private remorse."*

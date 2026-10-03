@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to promote discipline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to promote discipline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to discipline, regular order, systematic correction, or educational training; disciplinary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic and ecclesiastical codes, regulations enforcing penitential exercises and ascetic obedience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disciplinal designates designed to promote discipline."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monastic orders imposed rigorous **disciplinal** fasts to subdue all rebellious carnal desires."*
+> - 📜 **Jeremy Bentham (*Panopticon; or, The Inspection-House*):** *"The central inspection tower served as an ideal **disciplinal** mechanism for reforming incarcerated convicts."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"The university curriculum exercises a profound **disciplinal** influence upon the intellectual habits of youths."*

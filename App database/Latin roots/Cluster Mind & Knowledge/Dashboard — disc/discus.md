@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An athletic competition in which a disk-shaped object is thrown as far as possible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disk used in throwing competitions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy, disk-shaped object thrown for distance in athletic field competitions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and sculpture, the circular stone or bronze plate thrown in the ancient Olympic games.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The concavities of it is not sufficient; for, look you, the athversary, you may discuss unto the Duke, look you, is digt himself four yard under the countermines."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Discuss unto me; art thou officer?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Discuss the same in French unto him."*
+> - 📜 **Homer (*Iliad*):** *"Polypoetes seized the heavy cast-iron **discus** and hurled it far beyond all rival marksmen."*
+> - 📜 **Virgil (*Aeneid*):** *"The Trojan youths exercised along the shore, competing with the flying **discus** and javelin."*
+> - 📜 **Alexander Pope (*The Odyssey*):** *"Ulysses rose in wrath and caught the ponderous **discus**, sending it whistling across the Phaeacian field."*

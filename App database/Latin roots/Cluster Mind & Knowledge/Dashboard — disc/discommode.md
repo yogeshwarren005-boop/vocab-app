@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience or discomfort to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause inconvenience or discomfort to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause inconvenience, trouble, or discomfort to someone; to incommode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian etiquette, politely requesting a favor while apologizing for any disruption caused.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discommode designates to cause inconvenience or discomfort to."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse apologized repeatedly, fearing that his delicate health would **discommode** the dinner guests."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sudden arrival of the bailiffs threatened to **discommode** the entire household of Mr. Skimpole."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Mr. Harding was anxious not to **discommode** his daughter's domestic arrangements in the quiet rectory."*

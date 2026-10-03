@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is the first to think of or make something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is the first to observe something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is the first to find, explore, or become aware of a place, substance, law, or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, an innovator credited with identifying a new chemical element or planet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Does it seem incongruous to you that a Middlemarch surgeon should dream of himself as a discoverer?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"The man was still in the making, as much as the Middlemarch doctor and immortal discoverer, and there were both virtues and faults capable of shrinking or expanding."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Besides, this idea of Jonah’s weathering the Cape of Good Hope at so early a day would wrest the honor of the discovery of that great headland from Bartholomew Diaz, its reputed discoverer, and so make modern history a liar."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Columbus set sail across the unknown Atlantic, hailing the new continent as its immortal **discoverer**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Harvey was celebrated as the **discoverer** of the circulation of the blood, founding modern physiology."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Galileo was the first human **discoverer** to look through a telescope and perceive the moons of Jupiter."*

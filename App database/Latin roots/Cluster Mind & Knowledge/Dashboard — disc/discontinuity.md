@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of connection or continuity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of connection or continuity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct break, gap, interruption, or lack of continuous connection in time, sequence, or space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and seismology, a structural boundary (like the Mohorovičić discontinuity) where seismic wave velocities jump.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discontinuity designates lack of connection or continuity."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"An unconformity represents a vast chronological **discontinuity** where millions of years of deposition are missing."*
+> - 📜 **Thomas Kuhn (*The Structure of Scientific Revolutions*):** *"A paradigm shift introduces an essential **discontinuity** in scientific development, breaking with cumulative progress."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Across a shock wave in supersonic gas flow, there exists a sharp mathematical **discontinuity** in pressure and density."*

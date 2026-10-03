@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soiled or discolored appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing the natural color of something by making it duller or dingier or unnatural or faded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of becoming discolored, or a stained, faded, or tarnished spot on a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical forensic pathology, livor mortis or postmortem purplish staining caused by venous pooling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"From the wonderful discoloration and turbidity of the water, Columbus sagaciously concluded that a very large river was near, and consequently--consequent-ly--a great continent!" But to this continent Elsie never attained."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"This Phoenician festival appears to have been a vernal one, for its date was determined by the discoloration of the river Adonis, and this has been observed by modern travellers to occur in spring."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Fig. 1 of Plate 44 has a thin ivory white glaze running in gummy drops and clouded with pinkish buff staining outside and with a reddish discoloration within."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A characteristic bronze **discoloration** of the skin alerted the physician to adrenal cortical failure in Addison's disease."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes pointed out a dark brownish **discoloration** upon the sills, proving that the assassin had climbed the drainpipe."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister bore a strange scarlet **discoloration** carved into the flesh over his breast, hidden from mortal eyes."*

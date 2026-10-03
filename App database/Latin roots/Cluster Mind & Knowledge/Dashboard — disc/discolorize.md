@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove color from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove color from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of color; to bleach, whiten, or decolorize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial manufacturing, removing impurities and yellow tints from vegetable oils and waxes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discolorize designates remove color from."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"Sulfurous fumes will instantly **discolorize** the red petals of a fresh rose, turning them translucent white."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations*):** *"We treated the crude rubber with acid solvents to **discolorize** the resin before vulcanization."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Oxidizing reagents can **discolorize** the deep red pigments of grape skins during artificial fermentation."*

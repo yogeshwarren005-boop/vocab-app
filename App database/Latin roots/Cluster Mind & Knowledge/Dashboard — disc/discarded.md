@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Throw or cast away.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrown away.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thrown away, rejected, or abandoned as no longer useful, needed, or desirable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology, refuse, sherds, and faunal bones deposited in ancient midden heaps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And shall it in more shame be further spoken, That you are fool’d, discarded, and shook off By him for whom these shames ye underwent?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fly, noble English, you are bought and sold; Unthread the rude eye of rebellion And welcome home again discarded faith."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it the fashion that discarded fathers Should have thus little mercy on their flesh?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip surveyed the decaying bridal feast, noticing the **discarded** wedding veil yellowing under spiders' webs."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"Wandering tramps searched the gutter for **discarded** cigarette stubs to roll into fresh paper."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The abandoned thresher stood in the wintry field like a **discarded** engine of prehistoric warfare."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to discipline in behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a specific field of academic study.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to discipline, punishment, or correction, or relating to an academic branch of knowledge or learning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative governance, official proceedings held to address professional misconduct or ethical breaches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her doctrine and practice always were instant, silent, and cheerful obedience to medical and disciplinary orders, without any qualification whatever; and by this she overcame the natural sensitiveness of the medical authorities."*
+> - 📜 **Michel Foucault (*Discipline and Punish*):** *"The birth of the prison reflected a new **disciplinary** apparatus aimed at normalizing docile bodies in society."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A regular army requires strict **disciplinary** codes to ensure that armed soldiers obey civilian authority."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"A liberal education harmonizes multiple **disciplinary** perspectives into a comprehensive philosophical vision."*

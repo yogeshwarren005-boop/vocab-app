@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discovering something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that is discovered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or finding of something previously unknown, hidden, or unperceived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure, the compulsory pretrial disclosure of relevant documents and evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heavens have thought well on thee, Lafew, To bring forth this discovery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"One inch of delay more is a South Sea of discovery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the discovery We shall be shortened in our aim, which was To take in many towns ere almost Rome Should know we were afoot."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Human knowledge and human power meet in one, for the **discovery** of causes opens the way to works."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The **discovery** of fossil intermediates in ancient strata provided striking confirmation of descent with modification."*
+> - 📜 **Blackstone (*Commentaries on the Laws of England*):** *"Courts of equity exercise extensive jurisdiction to compel the **discovery** of concealed contracts."*

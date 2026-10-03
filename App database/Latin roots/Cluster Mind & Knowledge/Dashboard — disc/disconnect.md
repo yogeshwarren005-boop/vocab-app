@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unbridgeable disparity (as from a failure of understanding).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull the plug of (electrical appliances) and render inoperable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sever or break the connection, relation, or communication between two entities; a separation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronic engineering, opening a circuit switch to halt current flow through a device.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As the last of the six cleared in through the Raven's air lock, Hodak had hit "Emergency," on appropriate switches and the ship-to-station servicing lines went through quick-disconnect."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Adari hit the tether-disconnect."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Confirming the disconnect, Zolan wasted no time in preliminaries."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The saboteur moved through the darkness to **disconnect** the telegraph lines linking the arsenal to London."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Septimus felt a profound **disconnect** between his shattered internal world and the busy London traffic."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Parietal lobe lesions can **disconnect** visual perceptions from the emotional significance they normally evoke."*

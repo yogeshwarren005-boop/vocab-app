@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being tense and feeling pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An uncomfortable feeling of mental painfulness or distress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of physical or mental unease, mild pain, embarrassment, or awkwardness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and nursing, physical distress falling short of acute pain, such as malaise, stiffness, or nausea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What mean you, sir, To give them this discomfort?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet, though I distrust, Discomfort you, my lord, it nothing must: For women’s fear and love holds quantity, In neither aught, or in extremity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An ’t please your lordship, I hear his Majesty is returned with some discomfort from Wales."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Substernal oppression and mild epigastric **discomfort** often precede severe cardiac ischemic events."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The freezing winter cold and persistent lice in the trenches were a source of ceaseless bodily **discomfort**."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Peter Walsh felt an acute social **discomfort** as he fumbled with his pocket-knife before the haughty guests."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a discordant manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a discordant manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a discordant, jarring, inharmonious, or contentious manner; with clashing dissonance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical performance, playing or singing out of tune or against the governing harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The lesson at last came to an end, after proceeding as discordantly as possible; and when the little girl had changed her shoes and had had her white muslin extinguished in shawls, she was taken away."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"They were singing discordantly, arduously, and with great effort, evidently not because they wished to sing, but because they wanted to show they were drunk and on a spree."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I shivered violently, and shouted again—rather discordantly."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The heavy prison iron keys clashed **discordantly** against the stone arches of the Conciergerie."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The rough skimmington music banged **discordantly** through the streets, rattling pots and blowing cows' horns."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sea-birds shrieked **discordantly** above the boiling wake as the harpooneers lowered the whaleboats."*

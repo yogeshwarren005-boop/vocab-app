@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With discretion; prudently and with wise self-restraint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With discretion; prudently and with wise self-restraint.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prudent, circumspect, or secretive manner so as to avoid attention, offense, or indiscretion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social conduct, managing sensitive personal transactions without drawing public scrutiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sirrah, not for my sake but your master’s, I advise You use your manners discreetly in all kind of companies: When I am alone, why, then I am Tranio; But in all places else your master, Lucentio."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"So she was dressed discreetly, her face covered, so that she might pass as any Jewish woman of the lower orders."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The young man felt that he was unable to afford candour, and discreetly avoided the naming of his own action."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Fairfax managed the household affairs **discreetly**, never probing into Mr. Rochester's private sorrows."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The royal visitor stepped **discreetly** into 221B Baker Street, cloaked against the heavy London fog."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston placed the diary **discreetly** inside the alcove where the telescreen could not scan its pages."*

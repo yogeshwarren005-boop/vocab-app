@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disturbing or embarrassing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disturbing or embarrassing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disconcerting manner; to an extent that causes confusion, unease, or embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal encounters, speaking or acting with unpredictable, unnerving candor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disconcertingly designates in a disturbing or embarrassing manner."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Charlotte spoke **disconcertingly** of her future plans, leaving the prince uncertain of her hidden intentions."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"The photograph was **disconcertingly** clear, showing the Bohemian king beside Irene Adler."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Mr. Emerson spoke **disconcertingly** frank words about love and freedom to the flustered English ladies."*

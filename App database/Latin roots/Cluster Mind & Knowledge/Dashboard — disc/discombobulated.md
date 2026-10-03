@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be confused emotionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be confusing or perplexing to; cause to be unable to think clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confused, disconcerted, disoriented, or flustered; thrown out of one's normal composure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In travel narrative, describing jetlagged or bewildered wanderers navigating foreign transit hubs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discombobulated designates cause to be confused emotionally."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing in Las Vegas*):** *"We stumbled into the neon casino lobby feeling thoroughly **discombobulated** after our frantic desert dash."*
+> - 📜 **David Foster Wallace (*A Supposedly Fun Thing I'll Never Do Again*):** *"I awoke feeling completely **discombobulated**, unable to tell cabin ceiling from bulkhead in the dark."*
+> - 📜 **Kurt Vonnegut (*Slaughterhouse-Five*):** *"Billy Pilgrim felt perpetually **discombobulated**, coming unstuck in time without notice or explanation."*

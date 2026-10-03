@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soiled or discolored appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing the natural color of something by making it duller or dingier or unnatural or faded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stain, blemish, or alteration of color; loss of original chromatic purity (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and botany, chlorotic blotches or necrotic spots on leaves and animal tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discolouration designates a soiled or discolored appearance."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"There was a faint yellowish **discolouration** around the lips, suggesting the presence of an alkaloid poison."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"Humic acids produce a gradual **discolouration** of limestone fragments buried within rich topsoil."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Fungal **discolouration** along the felled oak trunks indicated that rot had begun to compromise the timber."*

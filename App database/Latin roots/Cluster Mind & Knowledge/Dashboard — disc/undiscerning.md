@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking discernment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking discernment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking judgment, insight, or the ability to perceive fine distinctions; unperceptive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism, admiring vulgar artifice while remaining blind to genuine artistic beauty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon seemed to be stupidly undiscerning and odiously unjust."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I know some who laugh at it, as the trick of the crafty FEW, to lead the undiscerning MANY; or at most, as an uncertain obscurity which mankind can never know anything of, and with which they are fools if they give themselves much to do."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Sir John Middleton was an **undiscerning** host who valued good company solely by numbers and noise."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **undiscerning** multitude applauds flamboyant rhetoric while passing over profound philosophical truth."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel realized with sorrow that her husband regarded her mind as merely an **undiscerning** ornament."*

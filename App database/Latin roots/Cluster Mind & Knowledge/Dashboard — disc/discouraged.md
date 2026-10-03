@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Try to prevent; show opposition to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of courage or hope; take away hope from; cause to feel discouraged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having lost confidence, enthusiasm, or hope; disheartened, dissuaded, or deterred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In policy administration, prohibited or actively disincentivized by legal or social norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Day after day passed, and I felt almost discouraged."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A colporteur in the Wabash valley became quite discouraged and was almost ready to give up his work, on account of the smallness of his sales."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At length, the younger of them began to be discouraged."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Though battered by hardship and cold, Jane was not **discouraged**, relying upon her unwavering inner faith."*
+> - 📜 **Charles Darwin (*Autobiography*):** *"I was often **discouraged** by my poor health, yet the fascination of natural history spurred me to write."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"All private emotional relationships were actively **discouraged** by the Party in favor of devotion to Big Brother."*

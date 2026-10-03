@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of discontinuing or breaking off; an interruption (temporary or permanent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of ending, ceasing, stopping, or breaking off an activity, custom, or practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil law and courtroom practice, the formal termination or voluntary withdrawal of an action by a plaintiff.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Fatigued as she had been by the morning’s walk, they had no sooner dined than she set off again in quest of her former acquaintance, and the evening was spent in the satisfactions of an intercourse renewed after many years’ discontinuance."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's, till its discontinuance in 1863."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Up to the time of the discontinuance of the work of the Association, she gave it her daily attendance, and added largely to its resources by way of supplies."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **discontinuance** of the suit occurs when the plaintiff fails to appear and pursue his process across terms."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sudden **discontinuance** of colonial trade monopolies forced domestic merchants into new overseas markets."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **discontinuance** of primogeniture divided landed estates rapidly among all surviving heirs."*

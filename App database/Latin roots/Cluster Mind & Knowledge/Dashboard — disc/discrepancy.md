@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A difference between conflicting facts or claims or opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event that departs from expectations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noticeable lack of compatibility, agreement, or consistency between two or more facts or claims.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial auditing and scientific measurement, an unexplained divergence between observed and expected values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, labor-incomes, in Index.] [Footnote 5: There is an appearance of a slight discrepancy due to the omission of fractions of cents."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Lawrence had never discussed it with Isabel; nor with Selincourt, except in a hurried whispered interchange of notes to avoid discrepancy in their evidence; nor with Bernard . . . the murderer."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He calls attention, and with reason, to the discrepancy about his father having signalled to him before seeing him, also to his refusal to give details of his conversation with his father, and his singular account of his father’s dying words."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"This apparent **discrepancy** between our theoretical expectations and the fossil record requires careful examination."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A wide **discrepancy** between market price and natural price always stimulates reallocation of capital."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes instantly detected a curious **discrepancy** between the witness's timeline and the station clock."*

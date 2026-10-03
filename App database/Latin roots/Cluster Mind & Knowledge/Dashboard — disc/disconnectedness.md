@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State of being disconnected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of being disconnected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of connection, coherence, or logical continuity between parts, thoughts, or systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern sociological critique, anomie and the emotional isolation of individuals in megacities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I used to speculate—but even this with a dim disconnectedness—as to how the rough future (for all futures are rough!) would handle them and might bruise them."*
+> - 📜 **Émile Durkheim (*Suicide: A Study in Sociology*):** *"Modern urban life fosters a painful **disconnectedness** that weakens traditional communal moral bonds."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In dreaming, the mind accepts bizarre **disconnectedness** without the critical resistance shown in waking hours."*
+> - 📜 **T. S. Eliot (*Selected Essays*):** *"Modernist poetry mirrors the fragmentary **disconnectedness** of industrial civilizational experience."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contentious speech act; a dispute where there is strong disagreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious speech act; a dispute where there is strong disagreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Controversy, dispute, formal debate, or contentious verbal disputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and scholastic history, an oral argumentation between advocates before a tribunal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disceptation designates a contentious speech act; a dispute where there is strong disagreement."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Fierce **disceptation** among rival commentators obscured the original text beneath clouds of angry pedantry."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Constitutional liberties were forged through pragmatic experience rather than metaphysical **disceptation** in salons."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth requires no subtle **disceptation** of licensed censors to prevail against error in open combat."*

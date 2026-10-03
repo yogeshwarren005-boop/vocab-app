@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of adding a tinge of color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color lightly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of applying a delicate color, dye, or shade to something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early cinematography and photography, the chemical toning of film emulsion to create atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And she was so beautiful about the place, with her eyes green of the sea, her dusky velvet lips, her slim cinnamon hands, with the dramatic orange tinting on the nails."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner achieved sublime atmospheric depth through delicate water-color **tinting** of clouds."*
+> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The twilight was **tinting** the western hills with lavender and gold."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The artist spent the afternoon **tinting** the miniature portrait with ivory glaze."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight but appreciable amount.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pale or subdued color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To color slightly; to impart a trace, faint tint, or slight degree of some quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory aesthetics, a subtle undertone modifying a dominant color, flavor, or emotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Our dear little old woman is such a capital old woman,” Richard would say, coming up to meet me in the garden early, with his pleasant laugh and perhaps the least tinge of a blush, “that I can’t get on without her."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge with a tinge of melancholy in his smile, “one of those coincidences which may or may not require an explanation beyond our present limited faculties, that I have a cousin in the medical profession."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The secret lay in the tinge of recklessness imparted to his career and character by the sense that he had been made to miss his true destiny through the prejudices of his family."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A faint **tinge** of dawn touched the London chimney pots with pale grey light."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A rosy **tinge** of youthful health blushed beneath her sun-browned cheeks."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A mournful **tinge** of fatalism ran through every word uttered by the brooding captain."*

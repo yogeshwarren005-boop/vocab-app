@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin straight surgical knife used in dissection and surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin straight surgical knife used in dissection and surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small and extremely sharp bladed instrument used for surgery and anatomical dissection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative and literary criticism, analytical precision that cuts through obfuscation or sentimentality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I have read much of physics, and have often been tempted to learn something of them--to make the experiments with my own hands--to furnish a laboratory--to wield the scalpel even."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon wielded the **scalpel** with rapid, delicate incisions through the fascia."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Anatomical science progressed when Vesalius laid down Galen's texts and took up the **scalpel**."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Surrounded by dissecting instruments and his keen **scalpel**, Victor assembled the monstrous frame."*

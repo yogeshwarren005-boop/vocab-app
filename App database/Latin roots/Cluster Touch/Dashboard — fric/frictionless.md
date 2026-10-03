@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking all friction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking all friction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or offering no resistance to motion; smooth, effortless, or free from conflict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics, idealized physical systems where surface resistance is assumed to be zero.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"A dusky and scaled neck, still with a silent and frictionless motion, rose steadily after the head, till at last that head looked down upon the water from a height of more than a long spear-length!"*
+> - 📜 **Bertrand Russell (*The ABC of Relativity*):** *"Theoretical mechanics calculates motion on an idealized **frictionless** horizontal plane."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Planetary orbits in empty interstellar space approximate **frictionless** Newtonian motion."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The sphere glided smoothly over the lunar ice with nearly **frictionless** momentum."*

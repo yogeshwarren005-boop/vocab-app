@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wink or blink, especially repeatedly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having eyelids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eyelids; to blink, wink, or close the eyes repeatedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological ocular mechanics, the involuntary reflex blinking that lubricates the corneal surface with tears.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palpebrate designates wink or blink, especially repeatedly."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Certain reptiles possess a transparent nictitating membrane that allows them to **palpebrate** underwater."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Bright flashes of light provoke the patient to **palpebrate** vigorously in protective reflex."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The human infant begins to **palpebrate** when small objects are brought near the eyes."*

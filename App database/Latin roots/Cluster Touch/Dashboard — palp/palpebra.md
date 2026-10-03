@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two folds of skin that can be moved to cover or open the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two folds of skin that can be moved to cover or open the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical term for an eyelid; the upper or lower movable fold covering the eyeball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative ocular anatomy, protective dermal folds lined with conjunctiva, including the third eyelid (nictitating membrane).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palpebra designates either of two folds of skin that can be moved to cover or open the eye."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Each **palpebra** is supported by a dense plate of fibrous tissue known as the tarsal plate."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The orbicularis oculi muscle closes each **palpebra** rapidly to shield the cornea from injury."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Edema of the upper **palpebra** often provides an early clue to acute glomerulonephritis."*

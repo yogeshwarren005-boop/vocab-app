@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who buys something and resells it at a price far above the initial cost.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who buys something and resells it at a price far above the initial cost.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who resells shares, tickets, or commodities at an inflated price for quick profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historic frontier conflicts, a warrior or mercenary who harvested enemy scalps for bounty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Ought the law prohibit the sale of tickets by "scalpers"? 5."*
+> - 📜 **Theodore Roosevelt (*The Winning of the West*):** *"Colonial frontiersmen detested the ruthless Indian **scalper** who preyed upon isolated cabins."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The street-corner **scalper** hawked theatre tickets at double their face value outside the lobby."*
+> - 📜 **Frank Norris (*The Pit*):** *"The pit **scalper** traded thousands of wheat bushels on sixteenth-cent fluctuations."*

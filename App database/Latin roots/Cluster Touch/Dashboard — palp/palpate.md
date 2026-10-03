@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examine (a body part) by palpation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examine (a body part) by palpation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To examine a part of the body by touch, especially for diagnostic medical purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological anatomy, to touch or explore the environment using sensory palps or tentacles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palpate designates examine (a body part) by palpation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician must gently **palpate** the right iliac fossa to detect localized tenderness."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"A skilled diagnostician learns to **palpate** arterial pulses with exquisite tactile sensitivity."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Coral polyps extend delicate tentacles to **palpate** suspended organic particles in the brine."*

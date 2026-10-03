@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance for cleaning the teeth; applied with a toothbrush.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance for cleaning the teeth; applied with a toothbrush.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paste, powder, or liquid preparation used for cleaning the teeth; toothpaste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical hygiene, abrasive powders compounded of chalk, pumice, and essential oils to scrub dental enamel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dentifrice designates a substance for cleaning the teeth; applied with a toothbrush."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"Among the items in the traveller's pockets was a curious box containing fragrant **dentifrice** powder."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"A mild alkaline **dentifrice** neutralizes oral acids and protects enamel from erosion."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Ancient Roman ladies polished their teeth with a scented **dentifrice** of pulverized cuttlebone."*

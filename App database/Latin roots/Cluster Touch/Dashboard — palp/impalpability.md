@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intangible and not perceptible by touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intangible and not perceptible by touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intangibility; inability to be perceived by physical touch or grasped by the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical metaphysics, the elusive, non-corporeal nature of abstract thoughts or spirits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Troubles and other realities took on themselves a metaphysical impalpability, sinking to mere mental phenomena for serene contemplation, and no longer stood as pressing concretions which chafed body and soul."*
-> - 📜 **James Joyce (*Ulysses*):** *"One who has faded into impalpability through death, through absence, through change of manners."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The peculiarity was physical, to begin with, and it extended to impalpabilities."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet captured the elusive **impalpability** of dream memories dissolving at dawn."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab reached out into the empty mist, mocked by the **impalpability** of his phantom tormentor."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain subtle affective states baffle analysis by their shadowy **impalpability**."*

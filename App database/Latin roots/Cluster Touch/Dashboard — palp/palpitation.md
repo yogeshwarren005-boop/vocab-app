@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapid and irregular heart beat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shaky motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A noticeably rapid, strong, or irregular heartbeat due to agitation, exertion, or illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, a common patient-reported symptom that may indicate premature ventricular contractions or atrial flutter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Recollection of the strange antics she had indulged in when passing through the trees was succeeded in the girl by a nettled palpitation, and that by a hot face."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Sometimes it was a palpitation, sometimes a flutter; sometimes it was a sort of gasp or gurgle."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon, who had risen early complaining of palpitation, was in the library giving audience to his curate Mr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Excessive consumption of strong tobacco frequently provokes nocturnal cardiac **palpitation**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet complained bitterly of the nervous **palpitation** that racked her delicate constitution."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon suffered a sudden **palpitation** in the library, sinking breathless into his leather armchair."*

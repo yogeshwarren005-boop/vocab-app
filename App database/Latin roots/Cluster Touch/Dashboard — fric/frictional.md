@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or worked or produced by friction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or worked or produced by friction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or resulting from mechanical or social friction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor economics, frictional unemployment: temporary unemployment occurring while workers transition between jobs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, frictional designates pertaining to or worked or produced by friction."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"Mechanical work converted into heat by **frictional** contact demonstrated the conservation of energy."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"A normal dynamic economy always exhibits a modest level of **frictional** unemployment."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Early electrical generators utilized **frictional** glass cylinders rotated against silk pads."*

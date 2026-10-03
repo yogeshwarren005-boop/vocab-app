@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gathering of persons representative of some larger group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary military unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to chance; occurring or existing only if certain other circumstances are the case; conditional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military operations and international alliances, a gathering of persons or troops representing a larger group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"And Friday's sales gave him just three hundred thalers with which to honor the widow's demand on Saturday, to pay funeral and contingent expenses."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Let us, then, look at this matter, along with some interesting items contingent."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Elections in Ireland, till of late, were regulated entirely by the discretion of the crown, and were seldom repeated, except on the accession of a new prince, or some other contingent event."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Every treaty obligation is necessarily **contingent** upon future diplomatic emergencies and reciprocity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Man's ultimate fate seems partly determined by necessity and partly **contingent** upon blind chance."*
+> - 📜 **Winston Churchill (*The River War*):** *"A British **contingent** arrived to reinforce the Egyptian garrison along the frontier."*

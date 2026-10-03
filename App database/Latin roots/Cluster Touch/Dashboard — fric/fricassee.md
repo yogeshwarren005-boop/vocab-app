@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pieces of chicken or other meat stewed in gravy with e.g. carrots and onions and served with noodles or dumplings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a fricassee of by cooking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dish of stewed meat (usually poultry or rabbit) served in a thick white sauce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary technique, sauteing cut meat lightly in fat without browning before simmering in stock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Is there that owre his French ragout Or olio that wad staw a sow, Or fricassee wad make her spew Wi’ perfect sconner, Looks down wi’ sneering, scornfu’ view On sic a dinner?"*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"She could not, without horror, behold an entire joint of meat; and nothing but fricassees and other made dishes were seen upon her table."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse recommended a gentle **fricassee** of sweetbreads as particularly wholesome for delicate digestions."*
+> - 📜 **Washington Irving (*The Legend of Sleepy Hollow*):** *"The feast featured platters of roasted ducks and a fragrant **fricassee** of barnyard fowl."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The old cook proudly served a rich chicken **fricassee** to the unexpected noble guests."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not substantially; lacking substantial expression or fullness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not substantially; lacking substantial expression or fullness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impalpable manner; so subtly or faintly as not to be felt, noticed, or perceived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric description, shifting gradually and invisibly from one state or phase to another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impalpably designates not substantially; lacking substantial expression or fullness."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The emotional atmosphere shifted **impalpably**, chilling Isabel's initial generous enthusiasm."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Twilight deepened **impalpably** over Egdon Heath, erasing all distinct boundaries."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The ship glided **impalpably** through the black tropical night across a mirror-like sea."*

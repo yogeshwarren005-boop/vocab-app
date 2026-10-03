@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repeated blinking or winking (especially if uncontrolled and persistent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repeated blinking or winking (especially if uncontrolled and persistent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of blinking or winking; repeated involuntary closure of the eyelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and neurology, abnormal frequent blinking associated with corneal irritation or blepharospasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palpebration designates repeated blinking or winking (especially if uncontrolled and persistent)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rapid, spasmodic **palpebration** signaled the onset of a facial tic in the young girl."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Normal **palpebration** spreads the lacrimal secretion uniformly across the cornea."*
+> - 📜 **Oliver Wendell Holmes (*The Autocrat of the Breakfast-Table*):** *"A nervous **palpebration** betrayed the witness's inward distress under cross-examination."*

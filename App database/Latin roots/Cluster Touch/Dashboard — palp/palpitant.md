@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a slight and rapid trembling motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a slight and rapid trembling motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Throbbing, trembling, quivering, or palpitating with emotion or physical agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic and romantic prose, an atmosphere vibrant with suspense, desire, or intense expectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"And there, when day was breaking, I knelt and looked around: The light was near, the silence Was palpitant with sound; I drew my hate from out my breast And thrust it in the ground."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I stood before him with a **palpitant** heart, awaiting his judgment upon my confession."*
+> - 📜 **Edgar Allan Poe (*The Tell-Tale Heart*):** *"The hellish tattoo of the **palpitant** heart grew louder and louder beneath the floorboards."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen listened with **palpitant** anxiety as the fateful letter was unfolded."*

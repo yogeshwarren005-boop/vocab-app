@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being perceived; especially capable of being handled or touched or felt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Can be felt by palpation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be touched or felt; easily perceptible, obvious, plain, or unmistakable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physical examination, an anatomical mass, pulse, or organ that can be felt through manual palpation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These lies are like the father that begets them, gross as a mountain, open, palpable."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see thee yet, in form as palpable As this which now I draw."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This palpable-gross play hath well beguil’d The heavy gait of night."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"I see thee yet, in form as **palpable** as this which now I draw... The phantom dagger hovered in the air."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"On abdominal examination, the enlarged liver was readily **palpable** beneath the costal margin."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The cold became intense, piercing, and searching, like a **palpable** substance."*

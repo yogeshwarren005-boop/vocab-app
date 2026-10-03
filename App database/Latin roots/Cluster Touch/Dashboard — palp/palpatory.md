@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving palpation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving palpation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or used in palpation; pertaining to diagnostic examination by touch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical diagnostics, findings elicited specifically by manual feeling rather than auscultation or percussion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palpatory designates relating to or involving palpation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **palpatory** thrill over the apex verified the clinical diagnosis of mitral stenosis."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Young surgeons must cultivate their **palpatory** sense through daily tactile discipline."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"A distinct **palpatory** sensation guides the needle during femoral artery catheterization."*

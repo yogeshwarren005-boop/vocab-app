@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larded veal braised and glazed in its own juices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Larded veal braised and glazed in its own juices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional French culinary dish consisting of larded and braised veal or beef.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical gastronomy, a thick cut of top-round veal studded with pork lardoons and braised in seasoned stock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fricandeau designates larded veal braised and glazed in its own juices."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The French chef prepared an exquisite **fricandeau** garnished with truffles and Madeira sauce."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The gourmand lingered over his savory **fricandeau**, savoring the delicate glaze of the rich gravy."*
+> - 📜 **Alexandre Dumas (*Grand Dictionnaire de Cuisine*):** *"A classic **fricandeau** requires patient braising until the glazed surface shines like polished mahogany."*

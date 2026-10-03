@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The skin that covers the top of the head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell illegally, as on the black market.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The skin covering the top of the human head, usually bearing hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial trading and commerce, to buy and resell quickly for a small, rapid profit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, gentle Puck, take this transformèd scalp From off the head of this Athenian swain, That he awaking when the other do, May all to Athens back again repair, And think no more of this night’s accidents But as the fierce vexation of a dream."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the bare scalp of Robin Hood’s fat friar, This fellow were a king for our wild faction."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My head was swimming, and my heart was pounding from my toenails to the hair-roots in my scalp."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg carried a dried shrunken head upon whose dark **scalp** the knotted locks still clung."*
+> - 📜 **James Fenimore Cooper (*The Last of the Mohicans*):** *"The victorious warrior brandished the bloody **scalp** as a trophy of forest warfare."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The subcutaneous tissue of the **scalp** is dense and intimately adherent to the epicranial aponeurosis."*

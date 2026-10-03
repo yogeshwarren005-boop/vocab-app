@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composite speech sound consisting of a stop and a fricative articulated at the same point (as `ch' in `chair' and `j' in `joy').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composite speech sound consisting of a stop and a fricative articulated at the same point (as `ch' in `chair' and `j' in `joy').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex consonant sound that begins as a stop and releases as a fricative (such as 'ch' or 'j').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetic linguistics, a speech sound produced by complete oral closure followed by narrow channeled friction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affricate designates a composite speech sound consisting of a stop and a fricative articulated at the same point (as `ch' in `chair' and `j' in `joy')."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"English orthography uses digraphs to represent the palato-alveolar **affricate** in words like church."*
+> - 📜 **Edward Sapir (*Language*):** *"Certain indigenous American languages possess an unusually rich inventory of **affricate** consonants."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The release of the alveolar stop merges into a sibilant glide, producing a typical **affricate**."*

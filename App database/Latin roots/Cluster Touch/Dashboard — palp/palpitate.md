@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to throb or beat rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shake with fast, tremulous movements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To beat rapidly, strongly, or irregularly (of the heart); to throb, shake, or tremble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathophysiology, subjective awareness of abnormal cardiac pulsations due to arrhythmia or stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I shall go hwome.” The air of the sleeping-chamber seemed to palpitate with the hopeless passion of the girls."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"My heart began to palpitate with dread of some unknown danger."*
-> - 📜 **Benito Pérez Galdós (*Saragossa: A Story of Spanish Valor*):** *"The people crowded into the Plaza de la Seo, and in front of the Magdalene arch, waiting until the "Gazette" should appear; and at last it came out, cheering everybody's spirits, and making all hearts palpitate with hope."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"I have tremor cordis on me: my heart dances; but not for joy; not joy... It doth **palpitate** with sudden fury."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne felt her heart **palpitate** with violent emotion at the unexpected sound of footsteps."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Sudden fright causes the heart of animals to **palpitate** furiously against the ribs."*

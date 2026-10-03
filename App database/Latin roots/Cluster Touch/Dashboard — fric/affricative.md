@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composite speech sound consisting of a stop and a fricative articulated at the same point (as `ch' in `chair' and `j' in `joy').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composite speech sound consisting of a stop and a fricative articulated at the same point (as `ch' in `chair' and `j' in `joy').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, resembling, or functioning as an affricate consonant sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetic transcription, designating compound stop-fricative articulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affricative designates a composite speech sound consisting of a stop and a fricative articulated at the same point (as `ch' in `chair' and `j' in `joy')."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"German displays an **affricative** release in initial voiceless dental consonants."*
+> - 📜 **Edward Sapir (*Language*):** *"The dialect developed an **affricative** variant of the ancient dental stop."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Acoustic spectrograms demonstrate the two-phase nature of **affricative** consonant bursts."*

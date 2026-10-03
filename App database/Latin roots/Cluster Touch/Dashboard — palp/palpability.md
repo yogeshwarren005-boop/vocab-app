@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being perceivable by touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being perceivable by touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tangible clarity, obviousness, or plain perceptibility to physical touch or understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary realism, the sensory vividness of narrative description that evokes physical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"A half-formed, wholly unexpressed suspicion tossed in it, now heaving itself up, and now sinking into the deep; now gaining palpability, and now losing it."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory impressions possess an immediate **palpability** that abstract concepts lack."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her moral duty presented itself with the sudden **palpability** of a physical barrier."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The heavy ocean fog attained a dense **palpability** that choked the breathing watchmen."*

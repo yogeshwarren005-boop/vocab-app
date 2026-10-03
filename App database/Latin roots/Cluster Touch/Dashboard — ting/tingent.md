@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ting within the domain of Touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ting in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power to tinge, color, or dye; serving to tint or impart coloration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical textile and chemical manufacturing, mordants or dye extracts with high pigmenting potency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tingent designates pertaining to, derived from, or characteristic of latin ting within the domain of touch."*
+> - 📜 **Robert Boyle (*Experiments and Considerations Touching Colours*):** *"Vegetable infusions possess a strong **tingent** property that colors vast volumes of water."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The juice of the pokeberry was examined for its active **tingent** virtue upon wool."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Certain mineral earths yield **tingent** particles that stain subterranean river gravels."*

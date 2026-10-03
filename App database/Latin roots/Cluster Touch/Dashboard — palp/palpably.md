@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be palpable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be palpable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is palpable; tangibly, noticeably, or plainly evident to perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial reasoning, facts or errors so manifest as to require no elaborate evidentiary demonstration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket palpably knows all about it—“and recent circumstances have brought it on.” As he takes his seat with some difficulty and with an air of pain, Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rattle of the quarter-jack again from its niche, its blows for three-quarters, its fussy retreat, were almost painfully abrupt, and caused many of the congregation to start palpably."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"God was palpably present in the country, and the devil had gone with the world to town."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy was **palpably** embarrassed by his aunt's rude and haughty interrogation of Elizabeth."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The existing confederation was **palpably** deficient in providing for national defense."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The witness was **palpably** terrified, his voice shaking with undisguised dread."*

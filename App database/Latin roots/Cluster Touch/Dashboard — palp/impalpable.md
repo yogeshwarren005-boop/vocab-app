@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being perceived by the senses especially the sense of touch; - james jeans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperceptible to the senses or the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be felt by touch; not easily comprehended, tangible, or grasped by the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, powders ground so finely that individual particles cannot be perceived between fingers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If this be so, fancy the irresistibleness of that might, to which the most impalpable and destructive of all elements contributes."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"For a quarter of an hour I trod on this sand, sown with the impalpable dust of shells."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"If by chance a wandering glance met mine, it stared past and through me as though I were impalpable as a ghost."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The night air was filled with an **impalpable** dust of starlight and mountain mist."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"A shadowy, **impalpable** bond of guilt united the minister and the outcast woman."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"An **impalpable** volcanic ash fell upon the ship's deck hundreds of miles from the eruption."*

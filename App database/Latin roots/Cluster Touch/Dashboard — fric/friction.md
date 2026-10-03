@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of conflict between persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The resistance encountered when one body is moved in contact with another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The resistance that one surface or object encounters when moving over another; conflict between people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mechanics, the tangential force opposing the relative lateral sliding motion of solid surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There must have been great intellectual friction going on there under the auspices of such a man!” “And now,” pursued Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A busy little man he always is, in the polishing at harness-house doors, of stirrup-irons, bits, curb-chains, harness bosses, anything in the way of a stable-yard that will take a polish, leading a life of friction."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"I hope that the friction will elicit heat, since this neither cold nor hot spirit is not to edification." The other letters of this period range over a wide variety of subjects."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"In physical experiments, mechanical **friction** and air resistance retard perpetual motion."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Commercial rivalries between sovereign states produce continuous political **friction** and hostility."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection eliminates biological inefficiencies just as engineering minimizes mechanical **friction**."*

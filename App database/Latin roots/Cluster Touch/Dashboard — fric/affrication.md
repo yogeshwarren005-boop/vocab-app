@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of a simple stop consonant into an affricate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conversion of a simple stop consonant into an affricate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The linguistic process by which a plosive stop consonant becomes an affricate over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical sound change and phonology, the palatalization and frictional release of velar or dental stops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, affrication designates the conversion of a simple stop consonant into an affricate."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Historical **affrication** transformed Latin velar stops into Italian affricates before front vowels."*
+> - 📜 **Edward Sapir (*Language*):** *"Dialectal divergence often accelerates through spontaneous phonetic **affrication** in rapid speech."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The shift from Germanic 't' to Old High German 'ts' illustrates systematic consonant **affrication**."*

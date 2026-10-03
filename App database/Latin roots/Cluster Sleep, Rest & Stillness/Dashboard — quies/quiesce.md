@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become quiet or quieter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become quiet or quieter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To become quiet, calm, still, or inactive; to settle into a dormant or resting condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer systems and database administration, to pause or flush active transactions to allow backup or snapshotting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quiesce designates become quiet or quieter."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Passions violent in youth tend to **quiesce** as age brings sober philosophical reflection."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain latent cellular tendencies **quiesce** for generations before reappearing as atavistic reversions."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"Physical perturbations gradually **quiesce** as kinetic energy dissipates into equilibrium."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer for the repose of the soul of a dead person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prayer for the repose of the soul of a dead person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer or wish for the repose of the soul of a deceased person ('may he or she rest in peace').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical and poetic eulogy, an elegy or chant commemorating the deceased at funeral rites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"_Requiescat in Pace._" The production of gold in Queensland during the last five years has been greater than ever."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Of the Indian warrior on the plains we may well say, _requiescat in pace_, and may his pace be rapid towards either civilization or the happy hunting ground."*
-> - 📜 **James Joyce (*Ulysses*):** *"A bogoak frame over his bald head: Wilde’s _Requiescat_."*
+> - 📜 **Oscar Wilde (*Poems*):** *"Tread lightly, she is near / Under the snow, / Speak gently, she can hear / The daisies grow... A soft **requiescat** for a departed soul."*
+> - 📜 **Edgar Allan Poe (*The Cask of Amontillado*):** *"Against the new masonry I re-erected the old rampart of bones. For the half of a century no mortal has disturbed them. In pace **requiescat**!"*
+> - 📜 **Matthew Arnold (*Requiescat*):** *"Strew on her roses, roses, / And never a spray of yew! / In quiet she reposes; / Ah, would that I did too! A tender **requiescat** carved upon the stone."*

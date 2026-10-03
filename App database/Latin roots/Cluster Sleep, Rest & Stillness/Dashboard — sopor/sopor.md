@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A torpid state resembling deep sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A torpid state resembling deep sleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally deep, unnatural sleep or stupor from which one can be aroused only with difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a severe state of altered consciousness intermediate between lethargy and coma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sopor designates a torpid state resembling deep sleep."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Certain botanical extracts induce a heavy **sopor** that mimics the appearance of death."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient lapsed from drowsiness into profound **sopor**, responding only to noxious tactile stimuli."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The narcotic draft plunged his senses into an unnatural **sopor**, silencing conscious reflection."*

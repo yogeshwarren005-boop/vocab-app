@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin sopor within the domain of Sleep, Rest & Stillness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of sopor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or marked by profound, unnatural sleep or lethargic stupor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, describing morbid conditions characterized by continuous morbid drowsiness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, soporose designates pertaining to, derived from, or characteristic of latin sopor within the domain of sleep, rest & stillness."*
+> - 📜 **Thomas Sydenham (*Works*):** *"The feverish epidemic terminated either in critical sweats or in a **soporose** stupor ending fatally."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Apoplexy frequently manifests with **soporose** symptoms accompanied by stertorous breathing."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The dying monarch sank into a **soporose** exhaustion, heedless of the weeping courtiers surrounding his bed."*

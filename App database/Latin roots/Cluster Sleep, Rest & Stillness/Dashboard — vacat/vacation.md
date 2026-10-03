@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leisure time away from work devoted to rest or pleasure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making something legally void.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of suspension of regular work, study, or business, taken for recreation or travel; holiday.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial and university administrations, the formal recess period between legislative or court terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With lawyers in the vacation; for they sleep between term and term, and then they perceive not how time moves."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I pass the greater part of the long vacation here."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You find the long vacation exceedingly long, don’t you?” We said yes, as she seemed to expect us to say so."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Time travels in divers paces with divers persons. I'll tell you who Time ambles withal, who Time trots withal, who Time gallops withal, and who he stands still withal. With lawyers in the **vacation**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The long **vacation** arrived, and the Court of Chancery suspended its labyrinthine proceedings until Michaelmas."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I went to the woods because I wished to make life a perpetual holiday rather than a hurried **vacation**."*

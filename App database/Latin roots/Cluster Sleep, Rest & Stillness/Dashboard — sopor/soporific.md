@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that induces sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sleep inducing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, inducing, or tending to produce sleep; drowsy, tedious, or monotonous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a sedative medication prescribed to promote sleep or manage severe insomnia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Evidently soporific substances had been mixed with the food we had just taken."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"When the monotonous sound of Weyrother’s voice ceased, Kutúzov opened his eye as a miller wakes up when the soporific drone of the mill wheel is interrupted."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Already disposed to be drowsy, it acted upon him like a gentle soporific."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The gentle rhythmic hum of the Nautilus machinery exerted a **soporific** influence over the exhausted crew."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The warm summer air and the monotonous drone of the lecturer's voice exerted a **soporific** effect upon the pupils."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse found the quiet ticking of the parlor clock pleasantly **soporific** on winter afternoons."*

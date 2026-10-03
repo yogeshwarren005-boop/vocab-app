@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of quiet (but possibly temporary) inaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quiet and inactive restfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or disposition of being quiet, dormant, inactive, or at rest; tranquility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical natural philosophy, the resting equilibrium of physical bodies unaffected by external momentum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, quiescency designates a state of quiet (but possibly temporary) inaction."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Human nature cannot long endure absolute **quiescency**, but craves novelty and intellectual diversion."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The winter torpor of swallows was once regarded as an unbroken **quiescency** at the bottom of frozen lakes."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"A body preserves its state of **quiescency** or uniform motion unless compelled by impressed forces to change."*

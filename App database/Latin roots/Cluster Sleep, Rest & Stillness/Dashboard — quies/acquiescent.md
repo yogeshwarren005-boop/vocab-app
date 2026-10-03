@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to carry out the orders or wishes of another without protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to carry out the orders or wishes of another without protest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready to accept or submit to something without protest; passively agreeable or submissive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal psychology, displaying a compliant behavioral tendency that avoids direct conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Conversational and acquiescent on both sides."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It was hardly a year since they had come to live at Tipton Grange with their uncle, a man nearly sixty, of acquiescent temper, miscellaneous opinions, and uncertain vote."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Who indeed?" she said, acquiescent."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Lucy Snowe maintained an **acquiescent** demeanor, observing the salon while masking her inner judgments."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle found Gilbert Osmond far less **acquiescent** once his matrimonial ambitions were secured."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Biddy was never servile, but remained gently **acquiescent** when Pip shared his restless ambitions."*

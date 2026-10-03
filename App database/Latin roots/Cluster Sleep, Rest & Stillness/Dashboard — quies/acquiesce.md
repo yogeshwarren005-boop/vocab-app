@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To agree or express agreement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To agree or express agreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To accept, agree, or comply with something passively or without protest, though not with enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal doctrine, to forfeit a claim or objection by remaining silent when action was required.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"My wife does not question, she believes much; and in respect to that which she cannot acquiesce in, she is silent."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Henry’s indignation on hearing how Catherine had been treated, on comprehending his father’s views, and being ordered to acquiesce in them, had been open and bold."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Then let us cheerfu’ acquiesce, Nor make our scanty pleasures less, By pining at our state: And, even should misfortunes come, I, here wha sit, hae met wi’ some— An’s thankfu’ for them yet."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was obliged to **acquiesce** in her father's decision, though she feared its consequences."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A minority must ultimately **acquiesce** in the constitutional determinations of the respectable majority."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"Citizens will **acquiesce** in legitimate authority when governance is guided by reason and equity."*

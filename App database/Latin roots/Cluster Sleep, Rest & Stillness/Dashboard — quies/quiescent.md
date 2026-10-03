@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not active or activated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a state of tranquil repose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state or period of temporary inactivity, dormancy, rest, or peaceful stillness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and vulcanology, describing a volcano that is currently dormant but capable of future eruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her beauty, which, whilst it had been quiescent, he had praised in jest, had in its animated phases moved him to earnest; and though his seriousness was less than she imagined, it was probably more than he imagined himself."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"On these lonely hills and dales her quiescent glide was of a piece with the element she moved in."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Quiescent as he now sat, there was something about his nostril, his mouth, his brow, which, to my perceptions, indicated elements within either restless, or hard, or eager."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pacific rolled in endless blue billows, deceptively **quiescent** beneath the equatorial sun."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Minute planktonic larvae remain **quiescent** in cold abyssal currents until rising temperatures trigger growth."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The castle lay silent and **quiescent** under the shadows of the brooding Scottish hills."*

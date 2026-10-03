@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleep inducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing mental lethargy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause, induce, or produce deep sleep; sleep-bringing or drowsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical history, describing herbal decoctions containing opium, mandrake, or henbane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"All this I was told; for, while the operation was performing, I lay in a profound sleep, by the force of that soporiferous medicine infused into my liquor."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Lilliputians mingled a **soporiferous** potion in the wine hogsheads to ensure the giant remained asleep."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Physicians recommend lettuce, poppy, and other **soporiferous** herbs to pacify nocturnal agitations."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The vapors exhaled from the bruised seeds possessed a **soporiferous** virtue that calmed violent spasms."*

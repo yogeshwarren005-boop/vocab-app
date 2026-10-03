@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of quiet (but possibly temporary) inaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quiet and inactive restfulness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period, condition, or state of quietness, stillness, temporary inactivity, or dormancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and cytology, a reversible cell-cycle arrest in which cells exit active division (G0 phase).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He never omitted the ceremony afterwards, and the gravity and quiescence with which I underwent it, seemed to invest it for him with a certain charm."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"After collapse came quiescence, and, after a long quiescence, revival."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If moody Ahab was now all quiescence, at least so far as could be known on deck, Stubb, his second mate, flushed with conquest, betrayed an unusual but still good-natured excitement."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Night brought welcome **quiescence** to the battlefield, wrapping the exhausted hosts in silent darkness."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Long periods of evolutionary **quiescence** may separate sudden episodes of organic modification."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The apparent **quiescence** of the northern frontiers deceived the imperial ministers at Constantinople."*

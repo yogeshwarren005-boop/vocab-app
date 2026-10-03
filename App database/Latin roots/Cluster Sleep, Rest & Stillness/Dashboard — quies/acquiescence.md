@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acceptance without protest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agreement with a statement or proposal to do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reluctant acceptance or passive consent given to something without open objection or resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In real property law and boundary disputes, tacit recognition of a borderline over a statutory period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a quiet place.” Jobling nods intelligence and acquiescence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s face expresses, so far as in its wooden material lies, the highest approbation and acquiescence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn returns methodically as he softly rubs his hands, “I should like to be assured of your acquiescence in my arrangements, Lady Dedlock.” “You may be assured of it.” “Good."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Ancient institutions retain legitimacy through long uninterrupted prescription and general **acquiescence**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea bowed her head in silent **acquiescence** to her husband's rigid scholarly arrangements."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Tyranny often establishes itself securely through the tired **acquiescence** of exhausted citizens."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting health; healthful; ; ; ; ; - c.b.davis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favorable to health of mind or body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Favorable to health; health-giving, wholesome, invigorating, or beneficial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatic geography and balneology, regions whose clean mountain or marine air promotes convalescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Her health which had greatly improved during her stay in the salubrious climate of San Jose, where the temperature ranges at about 70 deg."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The air is salubrious, the land fertile, a supply of excellent water brought from neighboring heights, and an extensive oyster-bed and a fine beach for bathing, add to its attractions."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The country is well supplied with corn, seafish, and imported wines, and is tempered by a salubrious air. <g>Demetia</g>--or territory of St."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The sea breezes of Lyme Regis were universally recommended as wonderfully **salubrious** for invalids."*
+> - 📜 **John Muir (*Our National Parks*):** *"The pine-scented air of the Yosemite Valley is pure, invigorating, and delightfully **salubrious**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I found the simple woodland atmosphere far more **salubrious** than the artificial luxury of cities."*

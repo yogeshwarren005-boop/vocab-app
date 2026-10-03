@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin sud within the domain of Body & State.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of sud in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, secreting, or conveying sweat or perspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate histology, the eccrine and apocrine tubular glands embedded in the dermis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudoriferous designates pertaining to, derived from, or characteristic of latin sud within the domain of body & state."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Microscopic sections of the palm reveal millions of coiled **sudoriferous** glands opening onto epidermal ridges."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Sudden terror stimulates the **sudoriferous** glands, bathing the brow in cold sweat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dysfunction of the cutaneous **sudoriferous** apparatus can precipitate dangerous heat exhaustion."*

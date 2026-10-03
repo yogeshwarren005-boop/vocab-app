@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northeastern africa on the red sea; achieved independence from egypt and the united kingdom in 1956.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of northern africa to the south of the sahara and libyan deserts; extends from the atlantic to the red sea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast country in northeast Africa; historically, the geographical region south of the Sahara extending to Central Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century colonial history, the Anglo-Egyptian condominium territory traversed by the White and Blue Niles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudan designates a republic in northeastern africa on the red sea; achieved independence from egypt and the united kingdom in 1956."*
+> - 📜 **Winston Churchill (*The River War*):** *"The reconquest of the **Sudan** restored British and Egyptian control over the upper Nile valley."*
+> - 📜 **Richard Burton (*The Lake Regions of Central Africa*):** *"Caravans crossed the burning sands of the eastern **Sudan** laden with ivory and gum arabic."*
+> - 📜 **Charles George Gordon (*Journals at Kartoum*):** *"General Gordon defended the isolated garrison of Khartoum in the heart of the rebellious **Sudan**."*

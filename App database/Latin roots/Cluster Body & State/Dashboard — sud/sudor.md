@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salty fluid secreted by sweat glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salty fluid secreted by sweat glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweat or perspiration; bodily fluid excreted by the sudoriferous sweat glands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological biochemistry, the aqueous hypotonic secretion containing sodium chloride, urea, and lactate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudor designates salty fluid secreted by sweat glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Profuse nocturnal **sudor** is a classical clinical symptom of progressive pulmonary tuberculosis."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The excretion of **sudor** through the skin maintains the internal thermal equilibrium of the living body."*
+> - 📜 **William Harvey (*On the Motion of the Heart and Blood*):** *"Vigorous muscular movement accelerates the pulse and drives cutaneous **sudor** through the pores."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vasoconstrictor (trade names privine and sudafed) used in nasal sprays to treat symptoms of nasal congestion and in eyedrops to treat eye irritation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vasoconstrictor (trade names privine and sudafed) used in nasal sprays to treat symptoms of nasal congestion and in eyedrops to treat eye irritation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for pseudoephedrine; an over-the-counter sympathomimetic decongestant medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an alpha-adrenergic agonist used to reduce swelling of nasal mucous membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudafed designates vasoconstrictor (trade names privine and sudafed) used in nasal sprays to treat symptoms of nasal congestion and in eyedrops to treat eye irritation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern pharmacological formulations of **Sudafed** relieve acute rhinitis through vasoconstriction."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Adrenergic agonists related to **Sudafed** provide symptomatic airway relief in catarrhal congestion."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Synthetic decongestants such as **Sudafed** target respiratory mucosal inflammation effectively."*

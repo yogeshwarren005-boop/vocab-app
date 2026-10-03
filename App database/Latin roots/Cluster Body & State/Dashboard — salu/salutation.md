@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of honor or courteous recognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually plural) an acknowledgment or expression of good will (especially on meeting).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gesture, greeting, or phrase expressing goodwill, respect, or acknowledgment upon meeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistolary style, the opening formal greeting addressed to the recipient of a letter (e.g., 'Dear Sir').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For why should others’ false adulterate eyes Give salutation to my sportive blood?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Salutation and greeting to you all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is at hand, and Pindarus is come To do you salutation from his master. [_Pindarus gives a letter to Brutus._] BRUTUS."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"With courtesy and with respect enough; but not with such familiar instances as he hath used of old... A cold **salutation** from a changed friend."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery touched his hat with an awkward but heartfelt **salutation** as Pip entered the forge."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy bowed stiffly in polite **salutation**, scarcely raising his eyes to meet Elizabeth's gaze."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Detrimental to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Detrimental to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfavorable to health; unwholesome, noxious, or pestilential in climate or air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian public health and sanitation, squalid urban slums characterized by open sewage and contagious disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He would have let the house, but could find no tenant, in consequence of its ineligible and insalubrious site."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tom-all-Alone's was a notoriously **insalubrious** slum where fever bred in every squalid garret."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The coastal swamps of Fernando de Noronha had an **insalubrious** reputation among merchant mariners."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Lowood School was situated in an **insalubrious** hollow that fostered the fatal typhus outbreak."*

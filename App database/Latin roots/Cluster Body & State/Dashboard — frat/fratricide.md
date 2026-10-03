@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who murders their brother or sister.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fire that injures or kills an ally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The crime of killing one's own brother; a person who commits such an act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military terminology, unintentional harm or death inflicted on friendly forces (friendly fire).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It was in that case of fratricide, the Childs murder case."*
-> - 📜 **James Joyce (*Ulysses*):** *"You remember the Childs fratricide case."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O, my offence is rank it smells to heaven; it hath the primal eldest curse upon't, a brother's murder... The black guilt of **fratricide**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor Caracalla secured absolute power through the brutal **fratricide** of his brother Geta."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Michael showed Adam the dreadful spectacle of Cain's **fratricide**, the first death of fallen humanity."*

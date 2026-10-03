@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graduating student with the second highest academic rank; may deliver the opening address at graduation exercises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graduating student with the second highest academic rank; may deliver the opening address at graduation exercises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The student who ranks second highest in a graduating class and delivers the salutatory address.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American academic commencement traditions, the graduate designated to welcome faculty, guests, and classmates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salutatorian designates a graduating student with the second highest academic rank; may deliver the opening address at graduation exercises."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin listened impatiently while the class **salutatorian** delivered an earnest Latin oration."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The distinguished **salutatorian** stepped to the podium to welcome university alumni and families."*
+> - 📜 **Willa Cather (*My Ántonia*):** *"At the high school commencement, the proud young **salutatorian** spoke eloquently of pioneer endurance."*

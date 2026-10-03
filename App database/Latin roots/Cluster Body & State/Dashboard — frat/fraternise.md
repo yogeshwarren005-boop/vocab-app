@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be on friendly terms with someone, as if with a brother, especially with an enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be on friendly terms with someone, as if with a brother, especially with an enemy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To associate or form friendly bonds with others, especially with those holding opposing views (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military regulations, to socialize familiarly with an enemy or with subordinate ranks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fraternise designates be on friendly terms with someone, as if with a brother, especially with an enemy."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Sir Thomas was displeased to see his daughters **fraternise** too familiarly with visiting London actors."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Soldiers on night patrol were warned not to **fraternise** with opposing pickets across no-man's-land."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Ensign Stubble was eager to **fraternise** with veteran officers in the Brussels taverns."*

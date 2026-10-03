@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of sudan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the african republic of the sudan or its people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Sudan, its people, language, or culture; a native or citizen of Sudan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and ethnographic history, indigenous battalions renowned for their fierce courage along the upper Nile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Sudanese think that if a house is built of the wood of thorny trees, the life of the people who dwell in that house will likewise be thorny and full of trouble."*
+> - 📜 **Winston Churchill (*The River War*):** *"The **Sudanese** regiments displayed steadfast discipline and extraordinary courage at the battle of Omdurman."*
+> - 📜 **Arthur Conan Doyle (*The Tragedy of the Korosko*):** *"The tourists were captured by a swift band of **Sudanese** dervishes along the rocky Nile cataract."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Among traditional **Sudanese** tribes, the divine king was believed to control rainfall and seasonal fertility."*

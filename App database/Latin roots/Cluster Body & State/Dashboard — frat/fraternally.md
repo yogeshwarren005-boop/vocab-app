@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a brotherly manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a brotherly manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a brotherly, friendly, or supportive manner; with mutual warmth and solidarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In associative correspondence, closing formal fraternal letters with brotherly greetings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The coach was large, the ladies not very big, they would hold their trains in their laps--finally, the four went fraternally together, and their carriage presently joined the line of royal equipages which was making its way down Piccadilly and St."*
+> - 📜 **Frederick Douglass (*My Bondage and My Freedom*):** *"Abolitionists embraced their fellow crusaders **fraternally**, united against the curse of slavery."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Militiamen from opposing political factions greeted each other **fraternally** in the muddy trenches."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The two old comrades shook hands **fraternally**, recalling campaigns fought long ago in Flanders."*

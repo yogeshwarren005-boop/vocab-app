@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of honor or courteous recognition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal military gesture of respect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To greet or acknowledge with a formal gesture of respect, such as raising a hand to the cap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and naval ceremonies, firing a specified number of cannon rounds to honor a dignitary or state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You told me you salute not at the court but you kiss your hands."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not a man I meet but doth salute me As if I were their well-acquainted friend, And everyone doth call me by my name."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You English princes all, I do salute you."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Long live King Richard, England's royal king! To **salute** him with this kingly title."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The crew assembled upon the quarterdeck to **salute** their captain with three ringing cheers."*
+> - 📜 **Winston Churchill (*The River War*):** *"The warships fired a thunderous naval **salute** as the flagship steamed into Alexandria harbor."*

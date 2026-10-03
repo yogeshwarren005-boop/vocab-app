@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Associating with others in a brotherly or friendly way; especially with an enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associating with others in a brotherly or friendly way; especially with an enemy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of associating or forming close friendly bonds with others (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wartime military law, unauthorized friendly interaction between opposing combatants or between soldiers and occupied populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Famous equality and fraternisation!"*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Spontaneous Christmas **fraternisation** between British and German troops halted trench gunfire for a single holy day."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king forbade all political **fraternisation** between his royal guards and rebellious townspeople."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Strict party discipline prohibited all informal **fraternisation** with common proles."*

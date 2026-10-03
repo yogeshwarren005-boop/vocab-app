@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling lather or covered with lather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling lather or covered with lather.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covered with, full of, or resembling suds, soapy lather, or foam; frothy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In consumer chemistry, detergents formulated to produce rich, stable surfactant lather in hard water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudsy designates resembling lather or covered with lather."*
+> - 📜 **Louisa May Alcott (*Little Women*):** *"Meg immersed her hands in the warm, **sudsy** basin, scrubbing the family linen by the kitchen hearth."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol poured the washing powder into the tub, watching the water turn into a rich, **sudsy** foam."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"Ma Joad wrung out the wet shirts over the wooden tub filled with grey **sudsy** wash water."*

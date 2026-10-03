@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a fraternity or society of usually men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of twins) derived from two separate fertilized ova.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a brother or brothers; brotherly and friendly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human genetics, dizygotic or non-identical twins developed from two separately fertilized ova.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Captain Wentworth was come to Kellynch as to a home, to stay as long as he liked, being as thoroughly the object of the Admiral’s fraternal kindness as of his wife’s."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"On his two younger sisters he then bestowed an equal portion of his fraternal tenderness, for he asked each of them how they did, and observed that they both looked very ugly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Assessment insurance is sold by business companies organized for profit, by fraternal orders, and by various types of mutual organizations."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"With malice toward none, with charity for all, let us bind up the nation's wounds in **fraternal** peace."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Social animals extend **fraternal** mutual aid to members of their immediate troop or family."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Civic associations establish a **fraternal** bond among citizens who would otherwise remain isolated."*

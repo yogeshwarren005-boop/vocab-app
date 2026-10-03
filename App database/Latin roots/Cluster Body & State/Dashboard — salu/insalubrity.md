@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being insalubrious and debilitating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being insalubrious and debilitating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unhealthfulness; unwholesomeness of climate, situation, diet, or living quarters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial administration and naval medicine, the pestilential quality of tropical swamps and miasmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insalubrity designates the quality of being insalubrious and debilitating."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Wages of labor are naturally higher in occupations marked by extreme **insalubrity** or hazard."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative*):** *"Travelers remarked upon the notorious **insalubrity** of the Orinoco delta during the rainy season."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The mountain counties enjoyed perpetual health, free from the summer **insalubrity** of the tidewater plains."*

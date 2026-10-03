@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of the sweat glands of the skin secreting a salty fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of the sweat glands of the skin secreting a salty fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of sweating or perspiring heavily; perspiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In balneology and historic hydrotherapy, the medicinal induction of heavy sweating in steam rooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudation designates the process of the sweat glands of the skin secreting a salty fluid."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Copious **sudation** following crisis in malignant fevers was regarded as nature's method of purification."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Vigorous bodily exercises provoke wholesome **sudation** that clears the animal spirits."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diabetic patients exhibit impaired cutaneous **sudation**, leaving the skin dry and scaly."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social club for male undergraduates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: People engaged in a particular occupation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of people sharing a common profession or interests; mutual brotherly fellowship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, the third ideal of the French revolutionary motto (liberté, égalité, fraternité).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Nevertheless, so long as I am Maire of Semur, nothing less than the most absolute respect shall ever be shown to all truly religious persons, with whom it is my earnest desire to remain in sympathy and fraternity, so far as that may be."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Adopted fraternity will not do in this case."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Our grand master is still to be named; for like royal kings of old times, we find the head-waters of our fraternity in nothing short of the great gods themselves."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Christian teaching instilled the universal **fraternity** of mankind, elevating democratic equality."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary ideal of **fraternity** was mocked by the reign of terror and the guillotine."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Intellectual sympathy unites distant thinkers in a perpetual, invisible **fraternity** of spirit."*

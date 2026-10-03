@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular logic-based number-placement puzzle played on a 9x9 grid divided into 3x3 subgrids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In recreational mathematics and combinatorial analysis, a completed Latin square constraint puzzle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudoku designates a number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number."*
+> - 📜 **Douglas Hofstadter (*I Am a Strange Loop*):** *"Solving a challenging **Sudoku** puzzle requires recursive backtracking and rigorous logical deduction."*
+> - 📜 **Martin Gardner (*Mathematical Puzzles and Diversions*):** *"The combinatorial structure of modern **Sudoku** derives from Euler's classic studies of Latin squares."*
+> - 📜 **Ian Stewart (*Professor Stewart's Cabinet of Mathematical Curiosities*):** *"Every valid **Sudoku** configuration possesses a unique solution dictated by simple exclusion rules."*

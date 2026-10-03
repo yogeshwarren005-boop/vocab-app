@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Puffins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Puffins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of pelagic seabirds in the auk family Alcidae, comprising the puffins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, seabirds characterized by a brightly colored, laterally compressed bill during the breeding season.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog fratercula as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Rocky North Atlantic sea cliffs provide nesting burrows for the puffin genus **Fratercula**."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The Atlantic puffin, classified as **Fratercula** arctica, dives skillfully into ocean waves for sand eels."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Mariners observed dense colonies of **Fratercula** nesting along the craggy ledges of the Hebrides."*

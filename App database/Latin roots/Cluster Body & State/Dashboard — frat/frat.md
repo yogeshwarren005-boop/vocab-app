@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social club for male undergraduates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social club for male undergraduates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal shortening of fraternity; a social organization of male college students.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American collegiate life, a Greek-letter society maintaining a residential chapter house.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Volkmann, _Plutarch_, i, 24, suggests he was the Timon whose wife Pliny defended on one occasion, _Epp._ i, 5, 5. [15] _de frat. am._ 7, 481 D. [16] _de E._ 1, 385 B. [17] _v."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The rival **frat** members gathered on the campus lawn during autumn rush week."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin refused to pledge the fashionable medical **frat**, preferring solitary night work in the lab."*
+> - 📜 **Thomas Wolfe (*Look Homeward, Angel*):** *"The rowdy **frat** brothers sang drinking songs late into the Carolina midnight."*

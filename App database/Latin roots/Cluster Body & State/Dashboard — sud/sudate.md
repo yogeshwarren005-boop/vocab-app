@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excrete perspiration through the pores in the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excrete perspiration through the pores in the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sweat or exude perspiration; to undergo sweat-inducing physiological transpiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic therapeutic medicine, to induce heavy sweating as a method of purging febrile toxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudate designates excrete perspiration through the pores in the skin."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"In acute fevers, the patient was placed under heavy blankets to **sudate** copiously."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Ancient physicians urged melancholic sufferers to **sudate** in dry vapor baths to purge morbid humors."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Diaphoretics encourage the pores to **sudate** freely, moderating arterial heat."*

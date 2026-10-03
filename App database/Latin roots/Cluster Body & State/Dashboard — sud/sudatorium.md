@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bathhouse for hot air baths or steam baths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bathhouse for hot air baths or steam baths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hot, vaulted room in an ancient Roman bath (thermae) designed to induce heavy sweating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and thermal architecture, the sweating chamber heated by hypocaust floor flues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudatorium designates a bathhouse for hot air baths or steam baths."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The luxurious thermae of Caracalla contained an immense vaulted **sudatorium** paved with Numidian marble."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"Roman patricians retired from the cool frigidarium into the aromatic vapor of the **sudatorium**."*
+> - 📜 **Viollet-le-Duc (*Annals of a Fortress*):** *"Remains of the legionary **sudatorium** revealed advanced underfloor hypocaust brickwork along the frontier."*

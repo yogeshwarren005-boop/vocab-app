@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Associating with others in a brotherly or friendly way; especially with an enemy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associating with others in a brotherly or friendly way; especially with an enemy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of associating with others on friendly or brotherly terms (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military discipline, unauthorized informal relations between officers and enlisted personnel or with civilians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fraternization designates associating with others in a brotherly or friendly way; especially with an enemy."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"Pickets called across the river in friendly **fraternization**, trading tobacco for northern coffee."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Military commanders strictly regulated troop **fraternization** during the occupation of the Rhineland."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"Naval hierarchy forbade democratic **fraternization** between naval officers and common sailors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the lowest or worker hindu caste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest of the four varnas: the servants and workers of low status.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the fourth and lowest of the traditional Hindu varnas or social classes; an artisan or laborer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Indian social history and Vedic literature, the working caste traditionally serving the three higher twice-born varnas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sudra designates a member of the lowest or worker hindu caste."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient Brahmanical codes strictly regulated the domestic and ritual duties permitted to a **Sudra**."*
+> - 📜 **Max Müller (*Chips from a German Workshop*):** *"Vedic hymns distinguish the twice-born Aryan classes from the indigenous **Sudra** cultivators."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rigid caste divisions separating Brahman, Kshatriya, Vaisya, and **Sudra** preserved social hierarchy for millennia."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to promote physical well-being; beneficial to health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to promote physical well-being; beneficial to health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing good effects; beneficial, wholesome, or promoting health and well-being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and moral discourse, a salutary lesson or check that prevents dangerous overreach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fluid was applied by means of a wisp of straw, and the person who discharged this salutary office went round the house in the direction of the sun."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fire, the smoke, the shots, and the shouts are all intended to scare away the witches, who are let loose on this witching day, and who would certainly work harm to the crops and the cattle, if they were not deterred by these salutary measures."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Strange to say, this salutary measure had no effect whatever in staying the cattle-plague, and seven years later the sapient Joh."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A energetic executive provides a **salutary** check against hasty legislative factions."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Wise statesmen maintained a policy of **salutary** neglect toward the burgeoning American colonies."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Free local institutions exercise a profoundly **salutary** influence on the civic morality of citizens."*

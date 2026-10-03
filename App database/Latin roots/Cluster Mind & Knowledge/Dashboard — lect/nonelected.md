@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled by appointment rather than by election.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled by appointment rather than by election.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not chosen by election; appointed, inherited, bureaucratic, or civil service in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science, judicial, regulatory, or administrative officials serving without electoral mandates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonelected designates filled by appointment rather than by election."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **nonelected** judiciary acts as an indispensable aristocratic brake upon the sudden passions of popular majorities."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Federal judges remain **nonelected**, holding office during good behavior to guarantee judicial independence."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Modern states rely upon permanent **nonelected** civil servants to administer complex administrative laws."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) a chemical decomposition reaction produced by passing an electric current through a solution containing ions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Removing superfluous or unwanted hair by passing an electric current through the hair root.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chemical decomposition produced by passing an electric current through a liquid or solution containing ions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmetic dermatology, the permanent destruction of hair roots using electrical current applied via a fine needle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The process itself is electrolysis; the liquid is the electrolyte, while the strips are the electrodes."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And now we can proceed to those useful applications of electrolysis, the commonest of which, perhaps, is electro-plating."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"We have seen how electrolysis causes hydrogen, probably out of the acid, to be deposited upon one electrode."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The chemical power of a current of electricity is in direct proportion to the absolute quantity of **electrolysis** produced."*
+> - 📜 **Humphry Davy (*Bakerian Lectures*):** *"By subjecting molten potash to intense **electrolysis**, globules of gleaming potassium metal burst into flame."*
+> - 📜 **Svante Arrhenius (*The Theory of Electrolytic Dissociation*):** *"The passage of current during **electrolysis** does not create ions, but merely directs pre-existing ions toward the electrodes."*

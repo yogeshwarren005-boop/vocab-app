@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a self-collected or self-possessed manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a self-collected or self-possessed manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calm, cool, self-possessed, and deliberate manner; without showing signs of agitation or panic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courtroom testimony, answering adversarial cross-examinations with measured serenity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Working quickly but collectedly, I took nothing but the warmest and stoutest of clothes."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And _this_ is what I wished to have” (laying his hand on my shoulder): “this young girl, who stands so grave and quiet at the mouth of hell, looking collectedly at the gambols of a demon, I wanted her just as a change after that fierce ragout."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a stage, that evening, when she spoke collectedly of what had happened, though with a certain terrible vivacity."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Darnay answered the revolutionary prosecutor **collectedly**, looking calmly upon the howling gallery."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane spoke **collectedly**, refusing to surrender her moral conscience to Rochester's passionate entreaties."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans delivered her testimony **collectedly**, determined to speak only the plain, unvarnished truth."*

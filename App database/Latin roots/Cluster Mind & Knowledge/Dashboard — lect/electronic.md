@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with electrons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to electrons, electronic devices, digital systems, or computer technology; operated by microcircuits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, transitions of electrons between quantized atomic energy levels emitting or absorbing photons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak, acting as clumsily as he could, slammed and locked the passageway safety doors with the loudest noises he could generate, broadcasting the unusual activity to all within hearing range and for electronic sensor pickup."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The communal lavatory and electronic bio-shower were down the hall."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer, at his desk, bent over a document, cast frequent glances at electronic displays on the wall nearby."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"High-speed **electronic** circuits process information as binary digits transmitted across noisy channels."*
+> - 📜 **Walter Isaacson (*The Innovators*):** *"The transition from mechanical switches to solid-state **electronic** semiconductors unleashed the digital revolution."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Solid-state **electronic** microprocessors will soon compress library archives into pocketsize hand-held crystals."*

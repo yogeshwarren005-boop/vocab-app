@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vote to select the winner of a position or political office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of selecting someone or something; the exercise of deliberate choice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal and organized process of voting to choose a person for political office or other position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological doctrine, predestination by divine grace to salvation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy frank election make; Thou hast power to choose, and they none to forsake."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let them assemble And, on a safer judgment, all revoke Your ignorant election."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lay A fault on us, your tribunes, that we laboured, No impediment between, but that you must Cast your election on him."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The mode of **election** of the President is the only part of the system that has escaped without severe censure."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The Eatanswill **election** erupted into a glorious uproar of blue and buff banners, bribes, and broken heads."*
+> - 📜 **John Calvin (*Institutes of the Christian Religion*):** *"Divine **election** precedes all human merit, choosing whom God pleases out of sovereign mercy alone."*

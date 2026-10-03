@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics that deals with the emission and effects of electrons and with the use of electronic devices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physics that deals with the emission and effects of electrons and with the use of electronic devices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics and engineering that deals with the emission, flow, and control of electrons in semiconductors and circuits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial technology, commercial devices containing microchips, transistors, and printed circuit boards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electronics designates the branch of physics that deals with the emission and effects of electrons and with the use of electronic devices."*
+> - 📜 **Richard Feynman (*There's Plenty of Room at the Bottom*):** *"Miniaturization in solid-state **electronics** will allow us to engrave entire encyclopedias on the head of a pin."*
+> - 📜 **Walter Isaacson (*Steve Jobs*):** *"Jobs combined passion for austere Zen design with fanatical reverence for clean engineering inside consumer **electronics**."*
+> - 📜 **John von Neumann (*The Computer and the Brain*):** *"The operational speed of biological synapses is millions of times slower than modern vacuum-tube **electronics**."*

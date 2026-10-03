@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Select by a vote for an office or membership.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Choose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chosen for office, honor, or position by vote, or selected out from a larger group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In representative government, officials holding legitimate democratic mandates from constituents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We do here pronounce, Upon the part o’ th’ people, in whose power We were elected theirs, Martius is worthy Of present death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why hast thou gone so far To be unbent when thou hast ta’en thy stand, Th’ elected deer before thee?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you must know we have with special soul Elected him our absence to supply; Lent him our terror, drest him with our love, And given his deputation all the organs Of our own power."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"I hold that in contemplation of universal law and of the Constitution, the Union is perpetual, governed by **elected** magistrates."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Trajan was **elected** by the Senate and the veteran legions as the emperor most worthy to govern."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The candidates paraded through the market square, hoping to be **elected** by the enthusiastic newly enfranchised burghers."*

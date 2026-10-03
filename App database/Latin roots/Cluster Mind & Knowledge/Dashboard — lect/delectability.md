@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme appetizingness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme appetizingness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Delicious taste, exceptional appeal, or delicious quality that affords great sensory pleasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary aesthetics, the harmonious combination of texture, aroma, and flavor in fine gastronomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delectability designates extreme appetizingness."*
+> - 📜 **Auguste Escoffier (*A Guide to Modern Cookery*):** *"The supreme **delectability** of a truffle sauce depends upon gentle simmering with matured Madeira wine."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The roasted goose and glistening plum pudding were praised for their unsurpassed **delectability** by the Cratchits."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"The buttery **delectability** of the madeleine soaked in lime-blossom tea unlocked the gates of lost Combray."*

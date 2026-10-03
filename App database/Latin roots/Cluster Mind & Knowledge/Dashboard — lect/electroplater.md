@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plater who uses electrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plater who uses electrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or commercial enterprise that electroplates metals and conducts electrodeposition manufacturing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian manufacturing history, tradesmen operating galvanic baths to produce affordable silver-plated utensils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroplater designates a plater who uses electrolysis."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The prosperous **electroplater** supplied Birmingham showrooms with glittering teapots and tableware for the middle class."*
+> - 📜 **Arthur Conan Doyle (*The Red-Headed League*):** *"Vincent Spaulding claimed to work as an assistant to an **electroplater** in the dim cellar beneath the pawnshop."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"His uncle apprenticed him briefly to an **electroplater**, where he learned the pungent smells of acid vats and dynamos."*

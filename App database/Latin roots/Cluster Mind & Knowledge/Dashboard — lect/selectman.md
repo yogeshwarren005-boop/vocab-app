@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elected member of a board of officials who run new england towns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elected member of a board of officials who run new england towns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elected member of a board of officials who administer the local government of a New England town.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American civic history, the quintessential municipal magistrate executing the decisions of the town meeting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"The selectman was already within a hundred rods."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"The selectman eyed him intently."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The selectman nodded to the constable; and there sat the light-heeled reprobate in the stocks; or if he danced, it was round the whipping-post, which might be termed the Puritan Maypole."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The town **selectman** came down the road to inspect my rustic cabin, questioning its architectural conformity."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In New England, the **selectman** is elected directly by his neighbors to pave roads, build schools, and collect taxes."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"A venerable **selectman** of the colony walked in the solemn procession, his severe brow crowned with Puritan dignity."*

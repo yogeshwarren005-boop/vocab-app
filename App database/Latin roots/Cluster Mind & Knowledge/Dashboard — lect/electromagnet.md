@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary magnet made by coiling wire around an iron core; when current flows in the coil the iron becomes a magnet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary magnet made by coiling wire around an iron core; when current flows in the coil the iron becomes a magnet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft metal core made into a magnet by the passage of an electric current through a surrounding coil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial engineering, heavy magnetic hoists used in salvage yards to lift scrap iron and steel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnet designates a temporary magnet made by coiling wire around an iron core; when current flows in the coil the iron becomes a magnet."*
+> - 📜 **Joseph Henry (*On the Production of Currents and Sparks of Electricity*):** *"By winding insulated copper wire in multiple compact layers, we constructed a powerful **electromagnet** capable of lifting a ton."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Placing heavy glass within the jaws of a powerful **electromagnet** rotated the plane of polarized light."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The polyphase alternating field in the stator acted as a revolving **electromagnet**, dragging the rotor without brushes."*

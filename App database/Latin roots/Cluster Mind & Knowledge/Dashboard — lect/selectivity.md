@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being selective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being selective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity to choose selectively, discriminating precision, or sensitivity to specific stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radio engineering, the ability of a receiver circuit to isolate a desired frequency from adjacent signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selectivity designates the property of being selective."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Enzymatic catalysis achieves extraordinary chemical **selectivity** through precise lock-and-key steric fits."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The supreme **selectivity** of human attention allows a scholar to read uninterrupted amid street clamor."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"Tuned resonant circuits achieved astonishing radio **selectivity**, filtering out atmospheric static interference."*

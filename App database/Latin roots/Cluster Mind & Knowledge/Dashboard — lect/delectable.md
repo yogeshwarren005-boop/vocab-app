@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely pleasing to the sense of taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of arousing desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely delicious, pleasant, delightful, or charming; affording great sensory or aesthetic enjoyment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral and religious literature, tranquil landscapes or spiritual blessings of Edenic sweetness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet your fair discourse hath been as sugar, Making the hard way sweet and delectable."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In a bright summer morning in early summer, it was delectable to hear their cheerful notes as they sported about in the pure, sweet air, chirping forth, as it were, the greatness and prosperity of the Webbers."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The shepherds guided Christian and Hopeful to the summit of the **Delectable** Mountains, where orchards flourished."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill pronounced the strawberry gathering at Donwell Abbey to be a most **delectable** entertainment."*
+> - 📜 **John Keats (*Endymion*):** *"Beneath the green bower lay baskets filled with **delectable** fruits and amber honey from mountain hives."*

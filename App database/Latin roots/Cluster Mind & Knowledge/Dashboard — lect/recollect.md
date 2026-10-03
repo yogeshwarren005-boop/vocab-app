@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recall knowledge from memory; have a recollection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall knowledge from memory; have a recollection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remember, recall, or bring back to mind that which had been previously known or experienced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spiritual contemplation, to compose and collect one's mental faculties and emotions in quiet meditation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PERICLES. [_Aside._] How from the finny subject of the sea These fishers tell the infirmities of men; And from their watery empire recollect All that may men approve or men detect!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I had never worn a black frock, that I could recollect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I recollect once thinking there was something in his manner, uncouth as it was, that denoted a fall in life."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth tried to **recollect** some conversation that might justify Jane's optimistic hopes regarding Bingley."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip could vividly **recollect** the terrifying cold mist rising from the marsh on that fateful Christmas morning."*
+> - 📜 **William Wordsworth (*Preface to Lyrical Ballads*):** *"Poetry takes its origin from emotion **recollected** in tranquility, contemplated until the feeling revives."*

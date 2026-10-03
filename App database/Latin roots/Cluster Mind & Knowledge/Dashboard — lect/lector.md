@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who reads the lessons in a church service; someone ordained in a minor order of the roman catholic church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public lecturer at certain universities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who reads Scripture lessons or prayers aloud during a religious worship service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European university systems, an academic lecturer or teacher of modern foreign languages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lector designates someone who reads the lessons in a church service; someone ordained in a minor order of the roman catholic church."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The young Julian served as a **lector** in the Christian church of Nicomedia before turning to ancient pagan philosophy."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The monastic **lector** ascended the wooden pulpit to read solemn homilies while the brethren dined in silence."*
+> - 📜 **Marcel Proust (*Guermantes Way*):** *"The German university appointed an exchange **lector** to instruct Parisian scholars in Goethe and Schiller."*

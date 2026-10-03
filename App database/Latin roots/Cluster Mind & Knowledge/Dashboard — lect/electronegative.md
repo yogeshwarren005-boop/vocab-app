@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a negative charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a negative charge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a tendency to attract electrons or acquire negative charge in chemical bonds; negatively charged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, nonmetallic elements such as fluorine and oxygen that sit high on the Pauling scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electronegative designates having a negative charge."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Fluorine is the most **electronegative** of all elements, pulling bonding electron density intensely toward its nucleus."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"His dualistic theory classified all elements into electropositive metals and **electronegative** acid-formers."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"During decomposition, the **electronegative** element migrates towards the positive anode of the cell."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not selected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not selected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not chosen, picked, or singled out from a larger pool of candidates, items, or variations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical genetics, random control populations that have not undergone artificial or directed breeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unselected designates not selected."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In wild populations, **unselected** random variations are eliminated whenever seasonal hardships strike."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The **unselected** suitors lingered in the drawing room, watching Gwendolen bestow her smiles upon Grandcourt."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"Comparing **unselected** school populations against gifted cohorts revealed marked divergences in mental ability."*

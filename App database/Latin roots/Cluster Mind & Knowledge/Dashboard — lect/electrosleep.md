@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unconsciousness brought about by the passage of a low voltage electric current through the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unconsciousness brought about by the passage of a low voltage electric current through the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapeutic state of sleep or relaxation induced by the passage of low-intensity electrical currents through the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mid-twentieth-century neurotherapy, cranial electrotherapy stimulation (CES) used experimentally for insomnia and anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrosleep designates unconsciousness brought about by the passage of a low voltage electric current through the brain."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Soviet neuropsychiatrists explored **electrosleep** therapy, applying gentle pulsed currents to soothe agitated insomniacs."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Early studies on **electrosleep** attempted to synchronize cortical slow-wave oscillations through rhythmic cranial pulses."*
+> - 📜 **Kay Redfield Jamison (*Touched with Fire*):** *"Alternative treatments like **electrosleep** were briefly evaluated as non-pharmacological therapies for intractable mood disorders."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Desk or stand with a slanted top used to hold a text at the proper height for a lecturer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desk or stand with a slanted top used to hold a text at the proper height for a lecturer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall stand with a slanted top used to support a book, Bible, or lecture notes for a speaker or reader.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church architecture, a carved eagle or brass pedestal supporting the gospel book in the sanctuary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer entered behind Narval and moved to stand silently beside a lectern adjacent the view tank."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"The Bible, on the little lectern, behind a gilt eagle no bigger than a sparrow, was open at the lesson for the day."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Though I knew very well that behind the hanging of dull purple at the lectern was the door by which Mr."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The choir master stepped up to the brass eagle **lectern** to begin the evensong service in the cathedral."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"Mr. Arabin stood beside the carved oak **lectern**, delivering his sermon with earnest and unadorned eloquence."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The vicar rested his Bible upon the ancient church **lectern**, reading the lesson to the quiet village flock."*

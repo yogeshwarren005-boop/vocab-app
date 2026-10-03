@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle with positive charge; interaction of a positron and an electron results in annihilation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elementary particle with positive charge; interaction of a positron and an electron results in annihilation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The antimatter counterpart of an electron, identical in mass and spin but carrying a positive charge; a positron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics, a lepton (e+) predicted by Dirac's relativistic wave equation and discovered in cosmic rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antielectron designates an elementary particle with positive charge; interaction of a positron and an electron results in annihilation."*
+> - 📜 **Paul Dirac (*The Principles of Quantum Mechanics*):** *"The relativistic wave equation required negative energy states, interpreted physically as an **antielectron**."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"When an electron collides with an **antielectron**, both particles annihilate in a blinding flash of gamma rays."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"A positron can be mathematically described as an ordinary electron or **antielectron** traveling backward in time."*

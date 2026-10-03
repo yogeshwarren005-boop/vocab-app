@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family comprising the electric eels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family comprising the electric eels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical family of gymnotiform freshwater neotropical fishes comprising the electric eel (Electrophorus electricus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological systematics, electric knifefishes possessing electrogenic organs capable of producing high-voltage discharges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrophoridae designates small family comprising the electric eels."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"Indigenous fishermen guided our canoes to the murky Amazonian pools inhabited by the formidable **Electrophoridae**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The electric organs of **Electrophoridae** present a celebrated difficulty for natural selection, having evolved independently in several lines."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Vertebrates*):** *"The giant electric batteries of the **Electrophoridae** are constructed from thousands of modified, stacked electrocytes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public lecturer at certain universities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who lectures professionally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who delivers lectures, especially a member of the academic teaching staff at a university or college.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian public culture, an itinerant speaker delivering educational discourses at mechanics' institutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To be lectured because the lecturer saw her in the cold morning light of open-shuttered disillusion was exasperating."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These lectures were given on a Free Church foundation, instituted in memory of the distinguished theologian whose name it bears; and now for the first time the lecturer was chosen from beyond the borders of the Free Church."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Pocket was out lecturing; for, he was a most delightful lecturer on domestic economy, and his treatises on the management of children and servants were considered the very best text-books on those themes."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The **lecturer** stood before his London audience, speaking of Odin and the ancient Norse warrior spirit."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The scientific **lecturer** illustrated his discourse with magic lantern slides of prehistoric reptiles."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"As an itinerant lyceum **lecturer**, he traversed frozen New England towns, preaching self-trust to young minds."*

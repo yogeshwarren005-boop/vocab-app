@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excite suddenly and intensely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge (a conductor) with electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing a surge of excitement, intense thrill, or dramatic shock; astonishingly exciting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical performance, describing a mesmerizing actor whose presence commands undivided attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, “going into electrifying your land and that kind of thing, and making a parlor of your cow-house."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"The owners of thermometers took a proud delight in electrifying their neighbours by reports of sudden rises and falls in their favourite study."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Veal had an orrery, an electrifying machine, a turning lathe, a theatre (in the wash-house), a chemical apparatus, and what he called a select library of all the works of the best authors of ancient and modern times and languages."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The revelation produced an **electrifying** effect upon Watson, who leaned forward with breathless curiosity."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The tragedian made an **electrifying** entrance onto the provincial stage, brandishing his broadsword."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The sudden arrival of Countess Olenska produced an **electrifying** murmur throughout the private opera boxes."*

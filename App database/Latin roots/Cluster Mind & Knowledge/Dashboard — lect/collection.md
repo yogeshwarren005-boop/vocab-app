@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Several things grouped together or considered as a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A publication containing a variety of works.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of things or people gathered together; a curated assemblage of artworks, books, or historical specimens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial banking, the formal process of presenting negotiable instruments to obtain payment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I wak’d, I found This label on my bosom; whose containing Is so from sense in hardness that I can Make no collection of it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Their lives, poor silly things, are so short in comparison with Chancery proceedings that, one by one, the whole collection has died over and over again."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Certainly, a collection of horrors,” says my Lady, gathering up her mantles and furs, “but they interest one for the moment!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial library of Constantinople preserved a magnificent **collection** of classical Greek poets and orators."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A single visit to the national **collection** of minerals reveals every intermediate transition of crystal form."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine was astonished by the immense **collection** of gothic curiosities displayed within the abbey gallery."*

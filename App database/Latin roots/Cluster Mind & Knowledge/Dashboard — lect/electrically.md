@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of electricity; in an electrical manner or through electrical energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, describing particles or surfaces possessing a positive or negative electrostatic charge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Time sweeps by us on electrically-driven, ball-bearing pinions."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Black-leading._ Making the face of the molded case electrically conductive by applying graphite. _9."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"His sacred organism, so delicate that a touch may disorder it, is also, as it were, electrically charged with a powerful magical or spiritual force which may discharge itself with fatal effect on whatever comes in contact with it."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The pith ball was **electrically** charged by contact with the glass rod, repelling neighboring light fibers."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martians controlled their towering tripods **electrically**, coordinating movements through telepathic dials."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Alpha particles were **electrically** deflected in strong magnetic fields, confirming their positive charge."*

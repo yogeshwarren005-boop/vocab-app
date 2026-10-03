@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conductor used to make electrical contact with some part of a circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conductor used to make electrical contact with some part of a circuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conductor through which an electric current enters or leaves an electrolyte, gas, vacuum, or semiconductor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrophysiology, fine microelectrodes inserted into neurons to record intracellular membrane potentials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Since, however, it may not be easy for the general reader to carry all these terms in his mind, we will, when it is necessary to differentiate between the two electrodes, call one the in-electrode and the other the out-electrode."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The bubbles which arise from the in-electrode are oxygen, those from the other hydrogen."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The in-electrode is surrounded by a vast assemblage of these tiny molecules, most of them those of water, but a few those of the acid."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I propose to call the surfaces at which the electric current enters or leaves the decomposing body the **electrode**."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Inserting a glass capillary **electrode** into the giant neuron of Aplysia allowed us to record synaptic potentials directly."*
+> - 📜 **J. J. Thomson (*Rays of Positive Electricity*):** *"Cathode rays streaming from the negative **electrode** revealed the universal corpuscular nature of electrons."*

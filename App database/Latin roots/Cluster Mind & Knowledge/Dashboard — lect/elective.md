@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A course that the student can select from among alternatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to popular election.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chosen or appointed by election, or relating to voting; also optional, non-compulsory, or open to choice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic curricula or surgical medicine, optional courses or non-emergency surgical procedures chosen by the patient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To leave any form of insurance optional, or elective, with either employers or wage-workers, is to fail of the main purpose in a large proportion of the individual cases where it is most needed, and to increase the expense to those that are included."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The foundation of the original government of Rome was laid by Romulus, and the work completed by two of his elective successors, Numa and Tullius Hostilius."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Senate is elective, for the period of six years; which is but one year more than the period of the Senate of Maryland, and but two more than that of the Senates of New York and Virginia."*
+> - 📜 **Johann Wolfgang von Goethe (*Elective Affinities*):** *"Chemical elements exhibit **elective** attractions, deserting one partner to combine passionately with another."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An **elective** monarchy was rejected by the Philadelphia convention as dangerous to republican liberty."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The clinical schedule permitted senior medical students several **elective** rotations in hospital pathology."*

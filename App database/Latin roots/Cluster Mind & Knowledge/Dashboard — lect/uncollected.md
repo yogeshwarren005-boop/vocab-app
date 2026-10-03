@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not brought together in one place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not brought together in one place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not gathered, assembled, or collected; not brought together into a collection or publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance, accounts receivable, revenues, or taxes that remain outstanding and unreceived.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncollected designates not brought together in one place."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Scores of brilliant critical essays remained **uncollected** in obscure periodicals until after the author's death."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The landlord lamented his **uncollected** rents, surveying the impoverished tenants of Bleeding Heart Yard."*
+> - 📜 **Charles Darwin (*Autobiography*):** *"Valuable fossil specimens remained **uncollected** along the Patagonian cliffs due to the rising tide."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elect again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elect again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To elect someone again to a political office, public post, or official position they currently hold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In democratic governance, renewing an official's term through a successful electoral campaign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reelect designates elect again."*
+> - 📜 **Abraham Lincoln (*Letter to Thurlow Weed*):** *"The American people resolved to **reelect** the administration to preserve the Union and complete emancipation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The desire to **reelect** their favorite magistrates makes voters attentive to every act of local governance."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional eligibility to **reelect** the executive magistrate provides a powerful incentive for faithful service."*

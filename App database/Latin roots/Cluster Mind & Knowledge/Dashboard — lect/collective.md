@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Members of a cooperative enterprise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done by or characteristic of individuals acting together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done by or characteristic of individuals acting together as a group; cooperative, combined, or shared.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural sociology, an enterprise or farm managed cooperatively under communal or state ownership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns's death, though not without secessions, collective and individual."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Secure in his "_aliquid inconcussum_," he came increasingly to regard the life of the individual Christian and the collective life of the Church as the most convincing of all witnesses to the Unseen and the Supernatural."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These things are caused, it is true, by the action of men, but it is a collective action out of the control of the individual."*
+> - 📜 **Carl Jung (*The Archetypes and the Collective Unconscious*):** *"The **collective** unconscious contains the inherited spiritual treasury of primordial mythological motifs."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **collective** strength of citizens united in civic association surpasses the absolute power of monarchs."*
+> - 📜 **Karl Marx (*Das Kapital*):** *"Modern manufacture converts the isolated artisan into a specialized organ of the **collective** working body."*

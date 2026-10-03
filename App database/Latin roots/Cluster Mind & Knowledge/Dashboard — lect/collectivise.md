@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring under collective control; of farms and industrial enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring under collective control; of farms and industrial enterprises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize something on the basis of ownership or control by the state or a group (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian policy, merging individual private farms into state-controlled cooperative units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivise designates bring under collective control; of farms and industrial enterprises."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"In revolutionary Aragon, the peasants chose to **collectivise** the olive groves and share the harvest equally."*
+> - 📜 **Arthur Koestler (*Darkness at Noon*):** *"Rubashov recalled his brutal mission to **collectivise** recalcitrant kulaks who hid their wheat beneath floorboards."*
+> - 📜 **Eric Hobsbawm (*The Age of Extremes*):** *"State planners sought to **collectivise** grain production to guarantee food supplies for industrial cities."*

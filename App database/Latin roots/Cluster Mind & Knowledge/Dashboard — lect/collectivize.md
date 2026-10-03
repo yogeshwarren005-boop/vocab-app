@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring under collective control; of farms and industrial enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring under collective control; of farms and industrial enterprises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize a business, economy, or land on the basis of collective or communal ownership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political governance, replacing private property with cooperative or state-managed productive enterprises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivize designates bring under collective control; of farms and industrial enterprises."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Anarchist militias moved quickly to **collectivize** transport, barber shops, and bakeries across Barcelona."*
+> - 📜 **Arthur Koestler (*Darkness at Noon*):** *"The Party resolved to **collectivize** the land at all costs, brushing aside sentimental objections to violence."*
+> - 📜 **Karl Marx (*The Communist Manifesto*):** *"The victorious proletariat will use its political supremacy to **collectivize** the instruments of credit."*

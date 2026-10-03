@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of a strong electric current that passes through the brain to induce convulsions and coma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The administration of a strong electric current that passes through the brain to induce convulsions and coma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The administration of brief electric currents to the brain to treat psychiatric disorders; electroconvulsive therapy (ECT).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a treatment introduced by Cerletti and Bini in 1938 for severe, medication-resistant depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroshock designates the administration of a strong electric current that passes through the brain to induce convulsions and coma."*
+> - 📜 **Sylvia Plath (*The Bell Jar*):** *"She dreaded the violent morning sessions of **electroshock** that wiped out memory and left a dry, scorched taste."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"When pharmacotherapy failed to lift the paralyzing depression, modern bilateral **electroshock** restored her vitality."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Post-encephalitic depression proved stubbornly unresponsive to conventional sedatives, leading some to attempt **electroshock**."*

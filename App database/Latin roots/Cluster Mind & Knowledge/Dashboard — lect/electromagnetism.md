@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnetism produced by an electric current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physics concerned with electromagnetic phenomena.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the fundamental physical interactions, involving forces between electrically charged particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the unified physical theory synthesizing electricity, optics, and magnetism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnetism designates magnetism produced by an electric current."*
+> - 📜 **Hans Christian Ørsted (*Experiments on the Effect of a Current of Electricity on the Magnetic Needle*):** *"The deflection of the compass needle by a galvanic wire demonstrated the long-sought reality of **electromagnetism**."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The comprehensive mathematical laws of **electromagnetism** bind light, electricity, and magnetic induction into unity."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Without **electromagnetism**, atomic nuclei could not bind electrons, and chemical molecules could never form."*

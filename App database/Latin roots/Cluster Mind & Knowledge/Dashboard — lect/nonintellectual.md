@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not intellectual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not intellectual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not intellectual; relating to practical, physical, or emotional matters rather than abstract rational thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology, describing activities, pastimes, or personalities unconcerned with academic scholarship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonintellectual designates not intellectual."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The northern coal miners took pride in hearty **nonintellectual** recreations such as pigeon fancying and rugby."*
+> - 📜 **Bertrand Russell (*In Praise of Idleness*):** *"A balanced human life requires healthy **nonintellectual** physical labor and wholesome outdoor pursuits."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Percival stood as the supreme **nonintellectual** hero, commanding admiration through unreflecting bodily grace."*

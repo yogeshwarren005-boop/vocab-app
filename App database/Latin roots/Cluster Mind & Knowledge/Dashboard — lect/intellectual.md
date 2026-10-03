@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses the mind creatively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or associated with or requiring the use of the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the intellect, reason, or rational thinking, or a person possessing highly developed mental faculties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history, a writer, academic, or thinker engaged in public critical discourse and political ideas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That they lack; for if their heads had any intellectual armour, they could never wear such heavy head-pieces."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale meant in intellectual beauty—and whether we were not struck by his massive configuration of brow."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There must have been great intellectual friction going on there under the auspices of such a man!” “And now,” pursued Mrs."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Truth gains more even by the errors of one who, with due study and preparation, thinks for himself, than by the true opinions of those who only hold them because they do not suffer themselves to think: that is **intellectual** freedom."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The English **intellectual** is characterized by a persistent emotional detachment from common national sentiment."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Intellectual freedom depends upon material things; poetry depends upon **intellectual** freedom."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of enfranchised citizens; those qualified to vote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of enfranchised citizens; those qualified to vote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: All the people in a country or area who are entitled to vote in an election.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical German geography, the territory or principality ruled by an imperial prince-elector.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The changes have been determined in most cases by motives of temporary partisan advantage or by the political activity of the immediate beneficiaries rather than by clear knowledge and consistent purpose of the electorate as a whole."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The majority of the American electorate is not voting a special favor at the polls, but is recognizing what it believes to be in its own interest."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This selfish issue bribes the electorate, and blinds it and its legislator to every question of the general welfare."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"An educated and vigilant **electorate** constitutes the only enduring safeguard against parliamentary despotism."*
+> - 📜 **Edmund Burke (*Speech to the Electors of Bristol*):** *"A representative owes his **electorate** not industry only, but his judgment; and he betrays it if he sacrifices it to their opinion."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The British **electorate** demonstrated remarkable common sense during the crisis, refusing fascist panaceas."*

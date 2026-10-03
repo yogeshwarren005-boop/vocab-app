@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intellectual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intellectual manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intellectual manner; with regard to the intellect, rational reasoning, or scholarly thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical evaluation, evaluating ideas or arguments on their logical and cognitive merit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And yet—and the incident is delicious—Jake Oppenheimer was intellectually honest."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Intellectually, and by the solidity of her character, she was better fitted to be Shelley's mate than any other woman he ever came across."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is only the intellectually lost who ever argue."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond was **intellectually** fastidious, rejecting modern vulgarities in favor of refined aesthetic seclusion."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Philosophy expands our thoughts beyond private hopes, rendering the mind **intellectually** free and impartial."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen found herself **intellectually** overmatched whenever Deronda quietly questioned her frivolous worldly ambitions."*

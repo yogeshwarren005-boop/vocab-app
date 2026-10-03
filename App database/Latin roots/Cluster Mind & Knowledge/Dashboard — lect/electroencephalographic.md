@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an electroencephalograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an electroencephalograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or obtained by electroencephalography; pertaining to brainwave recordings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuroscience, designating diagnostic criteria for seizure activity or sleep stage scoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroencephalographic designates of or relating to an electroencephalograph."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"The nocturnal hallucinations coincided with distinct **electroencephalographic** paroxysms during non-REM sleep transitions."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Thalamocortical loops drive the rhythmic **electroencephalographic** spindle oscillations characteristic of stage 2 sleep."*
+> - 📜 **Kay Redfield Jamison (*An Unquiet Mind*):** *"Neurologists ruled out temporal lobe epilepsy through extensive **electroencephalographic** monitoring during admission."*

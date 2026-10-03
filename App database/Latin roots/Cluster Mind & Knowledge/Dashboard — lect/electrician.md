@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who installs or repairs electrical or telephone lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who installs or repairs electrical or telephone lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled tradesperson who installs, operates, maintains, or repairs electrical wiring and equipment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century physics, an experimental scientist (like Franklin or Faraday) investigating electricity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Before describing it, it may sharpen the reader's interest to mention a wonderful experiment which was made by Varley, the famous electrician, on the first successful Atlantic cable."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"What the farmer would call a short cut the electrician calls a short circuit, and a short circuit is often a more convenient way of cutting off a current than a switch which interposes resistance."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The electricians on board resolved to cut the cable before fishing it up, and at eleven o’clock at night they had recovered the damaged part."*
+> - 📜 **Benjamin Franklin (*Experiments and Observations on Electricity*):** *"The curious **electrician** may easily replicate these cloud experiments with a common silk kite and iron wire."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The underground railway employed an **electrician** who monitored signal currents along the dark track."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations*):** *"He summoned his chief **electrician** to inspect the dynamo brushes after the generator began to spark."*

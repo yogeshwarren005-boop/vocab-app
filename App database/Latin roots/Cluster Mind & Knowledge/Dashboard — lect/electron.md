@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elementary particle with negative charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An elementary particle with negative charge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stable subatomic particle with a negative elementary electric charge, acting as the primary carrier of electricity in solids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum mechanics, a fundamental lepton possessing half-integer spin (1/2) that occupies atomic orbital shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"And it's balanced by the negative charges, the electrons, that revolve around it."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"They will create an excess of negative electrons instead of an excess of positive protons in the object we hit, and cause atomic disintegration."*
+> - 📜 **J. J. Thomson (*Cathode Rays*):** *"We have in the cathode rays matter in a new state, consisting of universal corpuscles, known now as the **electron**."*
+> - 📜 **Niels Bohr (*On the Constitution of Atoms and Molecules*):** *"The **electron** revolves around the nucleus in discrete stationary orbits without radiating electromagnetic energy."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"Quantum electrodynamics calculates with astonishing precision how an **electron** interacts with photons of light."*

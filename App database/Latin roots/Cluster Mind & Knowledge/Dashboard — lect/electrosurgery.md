@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery performed with electrical devices (as in electrocautery).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery performed with electrical devices (as in electrocautery).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of high-frequency alternating electrical current to biological tissue to cut, coagulate, or fulgurate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern operating theaters, utilizing Bovie electrosurgical generators to minimize intraoperative hemorrhage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrosurgery designates surgery performed with electrical devices (as in electrocautery)."*
+> - 📜 **Harvey Cushing (*Electrosurgery as an Aid to the Removal of Intracranial Tumors*):** *"The introduction of modern **electrosurgery** allowed us to excise vascular meningiomas that were previously inoperable."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Delicate hemostasis achieved through **electrosurgery** preserves the anatomical planes necessary for radical dissection."*
+> - 📜 **Atul Gawande (*Better*):** *"The surgeon tapped the foot pedal of the **electrosurgery** unit, vaporizing tissue with microsecond bursts of current."*

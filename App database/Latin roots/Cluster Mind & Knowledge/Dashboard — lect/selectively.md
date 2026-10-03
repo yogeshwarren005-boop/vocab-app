@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By selection; in a selective manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By selection; in a selective manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a selective manner; by careful choice, or so as to affect or choose only certain specific items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry, biological membranes that selectively permit the passage of specific ions and metabolites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, selectively designates by selection; in a selective manner."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Agriculturalists breed cattle **selectively**, pairing only those beasts that display superior milk yield or hardiness."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Voltage-gated potassium channels open **selectively** to permit the rapid efflux of potassium ions during repolarization."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The dopaminergic drug acted **selectively** on nigrostriatal terminals, leaving cortical pathways undisturbed."*

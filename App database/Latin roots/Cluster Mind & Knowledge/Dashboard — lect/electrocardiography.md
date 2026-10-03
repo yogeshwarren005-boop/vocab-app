@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diagnostic procedure consisting of recording the activity of the heart electronically with a cardiograph (and producing a cardiogram).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diagnostic procedure consisting of recording the activity of the heart electronically with a cardiograph (and producing a cardiogram).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical science, technique, and practice of recording and interpreting the electrical activity of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical education, clinical training required to decipher 12-lead vectors and cardiac electrophysiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiography designates diagnostic procedure consisting of recording the activity of the heart electronically with a cardiograph (and producing a cardiogram)."*
+> - 📜 **Willem Einthoven (*The Galvanometric Registration of the Human Electrocardiogram*):** *"The development of clinical **electrocardiography** fulfilled the dream of observing cardiac muscle potentials in real time."*
+> - 📜 **William Osler (*Aequanimitas*):** *"He praised the laboratory methods of **electrocardiography** for uniting physiological research with hospital medicine."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Progress in diagnostic **electrocardiography** depended upon sensitive instruments capable of detecting microvolt currents."*

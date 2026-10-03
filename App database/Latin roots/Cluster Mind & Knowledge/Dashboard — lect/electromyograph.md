@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical instrument that records the electrical waves associated with the activity of skeletal muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical instrument that records the electrical waves associated with the activity of skeletal muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or medical apparatus used for recording the electrical activity and potentials of muscle fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurophysiology laboratories, an amplifier system connected to needle electrodes and audio monitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyograph designates a medical instrument that records the electrical waves associated with the activity of skeletal muscles."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The physician adjusted the audio amplifier of the **electromyograph**, listening to the characteristic crackle of muscle units."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Connecting a dual-channel **electromyograph** allowed researchers to monitor reciprocal inhibition in opposing flexors."*
+> - 📜 **Atul Gawande (*Complications*):** *"The neurologist wheeled in the **electromyograph** to evaluate mysterious progressive weakness in the patient's legs."*

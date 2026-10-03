@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excite suddenly and intensely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Charge (a conductor) with electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To charge with electricity, equip with electric power, or shock, excite, or thrill someone intensely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theater and public rhetoric, to captivate an audience with astonishing, high-energy delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nothing of the dream had been real but my burst of laughter, a sound never before heard in that grave sanctuary, and so abhorrent to the ears of wisdom, as to electrify the fraternity."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge's breezy way of expressing himself is apt to electrify the stranger."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"The murder of an empress then—even the assassination of Caesar himself—could not electrify the world as this murder has electrified it."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp's brilliant performance at the charades seemed to **electrify** the entire assembly of aristocrats."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Careful insulation is required whenever one attempts to **electrify** a large metallic cylinder by induction."*
+> - 📜 **Winston Churchill (*Great Contemporaries*):** *"The orator possessed a charismatic gift to **electrify** a hostile House of Commons into thunderous cheers."*

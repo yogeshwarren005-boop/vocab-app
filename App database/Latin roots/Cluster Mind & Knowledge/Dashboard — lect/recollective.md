@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Good at remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Good at remembering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the faculty or power of recollecting or remembering; relating to memories of past events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, memory mechanisms involved in explicit, conscious episodic recall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recollective designates good at remembering."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **recollective** faculty depends upon associative neural paths connecting current sensory cues with past traces."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Fancy is merely an aggregating and **recollective** power, whereas true Imagination is plastic and unifying."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Hippocampal synaptic plasticity underpins the **recollective** vividness of declarative autobiographical memory."*

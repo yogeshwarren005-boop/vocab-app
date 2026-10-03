@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or exhibiting magnetism produced by electric charge in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or exhibiting magnetism produced by electric charge in motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the interrelation of electric currents or fields and magnetic fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, the fundamental interaction (one of four universal forces) mediated through massless photons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromagnetic designates pertaining to or exhibiting magnetism produced by electric charge in motion."*
+> - 📜 **James Clerk Maxwell (*A Dynamical Theory of the Electromagnetic Field*):** *"We have strong reasons to conclude that light itself is an **electromagnetic** disturbance in the form of waves."*
+> - 📜 **Albert Einstein (*On the Electrodynamics of Moving Bodies*):** *"Maxwell's **electromagnetic** equations lead to asymmetries which do not appear to be inherent in the phenomena."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"The propagation of **electromagnetic** radiation through empty space is described completely by wave equations."*

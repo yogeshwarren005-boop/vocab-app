@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The post of lecturer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The post of lecturer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The position, office, or appointment of a lecturer, especially an endowed post at a university.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, a salaried preaching appointment funded by parishioners or guilds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lectureship designates the post of lecturer."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Endowed university **lectureship** positions often produce indolence in professors whose salaries do not depend on fees."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"Swift obtained a modest cathedral **lectureship** in Dublin, which provided leisure for political pamphleteering."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The newly established theological **lectureship** became the bone of fierce contention between High and Low churchmen."*

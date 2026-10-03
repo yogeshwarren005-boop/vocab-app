@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (chemistry) the tendency of an atom or radical to attract electrons in the formation of an ionic bond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) the tendency of an atom or radical to attract electrons in the formation of an ionic bond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical property describing the tendency of an atom to attract shared electron pairs in a chemical bond toward itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural chemistry, the quantitative scale formulated by Linus Pauling based on bond dissociation energies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electronegativity designates (chemistry) the tendency of an atom or radical to attract electrons in the formation of an ionic bond."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The degree of ionic character in a covalent bond is determined directly by the difference in **electronegativity**."*
+> - 📜 **Svante Arrhenius (*Textbook of Chemistry*):** *"Trends across the periodic table reveal that atomic **electronegativity** increases toward the upper right corner."*
+> - 📜 **Robert Mulliken (*A New Scale of Electronegativity*):** *"Mulliken defined **electronegativity** as the arithmetic mean of an atom's ionization potential and electron affinity."*

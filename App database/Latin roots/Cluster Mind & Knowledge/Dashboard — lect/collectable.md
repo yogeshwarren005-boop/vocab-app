@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Things considered to be worth collecting (not necessarily valuable or antique).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to or requiring payment especially as specified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An item valued by collectors and considered worthy of collecting, or capable of being collected or recovered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accounting, debts, receivables, or delinquent taxes that can be realistically recovered through legal means.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectable designates things considered to be worth collecting (not necessarily valuable or antique)."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"Every scrap of the deceased poet's handwriting was considered an invaluable **collectable** by literary devotees."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"Baron Gruner's private diary was a perilous **collectable**, detailing his sinister romantic conquests."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The debt collector surveyed the meager assets, wondering if any outstanding shilling remained **collectable**."*

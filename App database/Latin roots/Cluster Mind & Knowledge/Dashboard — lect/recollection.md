@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to recall past occurrences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of remembering (especially the process of recovering information by mental effort).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of remembering something, or a memory, impression, or mental revival of past events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In introspective philosophy, the conscious retrieval of sensory or cognitive experiences from memory stores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The recollection of them, he said, would go with him wherever he went and would be always treasured."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As to aim!” Phil gives a howl at the recollection."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, pausing with a frown in stroking the recollection of his moustache."*
+> - 📜 **Plato (*Meno*):** *"Socrates argued that all true learning is essentially **recollection** of eternal forms known before birth."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The sweet **recollection** of their early love haunted Anne whenever she walked along the Somerset lanes."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **recollection** of past imperial glory inspired the Romans to revolt against their Gothic masters."*

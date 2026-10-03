@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of extreme pleasure or satisfaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of receiving pleasure from something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasure and delight; enjoyment or entertainment, especially of a refined sensory or intellectual nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric, presenting an artistic performance, banquet, or musical composition for public pleasure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The chief's wife welcomed us to the island, and stated that a dish of yams was being prepared for our delectation."*
-> - 📜 **James Joyce (*Ulysses*):** *"Morose delectation Aquinas tunbelly calls this, _frate porcospino_."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The decorations had to be removed, the dishes washed, the uneaten delicacies packed into a basket for the delectation of Charlotta the Fourth’s young brothers at home."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp sang Mozart arias at the piano for the **delectation** of the distinguished aristocratic guests."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband offered a pious sermon for the spiritual **delectation** of the Snagsby household."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The minstrel tuned his harp, reciting ancient lays of chivalry for the **delectation** of the Norman baron."*

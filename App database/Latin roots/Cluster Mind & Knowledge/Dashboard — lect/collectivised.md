@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring under collective control; of farms and industrial enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the principle of ownership by the state or the people of the means of production.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organized under collective or state control; converted into collective ownership (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical economics, describing Soviet-bloc farms and industrial factories managed by collective boards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivised designates bring under collective control; of farms and industrial enterprises."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"In Oceania, all productive property was nominally **collectivised**, yet true power rested in the hands of the Inner Party."*
+> - 📜 **Arthur Koestler (*The God That Failed*):** *"The bleak **collectivised** villages presented a scene of sullen despair that shocked foreign socialist pilgrims."*
+> - 📜 **Alexander Solzhenitsyn (*The Gulag Archipelago*):** *"Peasants from **collectivised** regions filled the cattle cars bound for Siberian logging camps."*

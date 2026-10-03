@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an electrocardiograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an electrocardiograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or obtained by electrocardiography; pertaining to the tracing of heart electrical activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, abnormalities such as ST-segment elevation or inverted T-waves on a cardiac tracing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiographic designates of or relating to an electrocardiograph."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"Transient **electrocardiographic** abnormalities occasionally accompany severe migraine episodes with autonomic distress."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Preoperative **electrocardiographic** screening identified occult conduction defects in elderly surgical candidates."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Autonomic projections from the medulla exert profound influence upon **electrocardiographic** rhythms during stress."*

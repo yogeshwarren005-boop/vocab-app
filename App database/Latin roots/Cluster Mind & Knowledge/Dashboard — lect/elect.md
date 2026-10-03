@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exclusive group of people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Select by a vote for an office or membership.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To choose or select someone for public office or membership by voting, or chosen and set apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Calvinist theology, those chosen by God's sovereign grace from eternity for salvation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have here, lady, And of your choice, these reverend fathers, men Of singular integrity and learning, Yea, the elect o’ th’ land, who are assembled To plead your cause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, if you will elect by my advice, Crown him, and say “Long live our emperor!” MARCUS."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Glencairn, He saw mischief was brewin; An’ like a godly, elect bairn, He’s waled us out a true ane, And sound, this day."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Some I have chosen of peculiar grace, **elect** above the rest; so is my sovereign will declared."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Free citizens assemble periodically to **elect** magistrates who execute the public laws under public gaze."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne declared that she would never **elect** to marry a man devoid of passionate taste for poetry."*

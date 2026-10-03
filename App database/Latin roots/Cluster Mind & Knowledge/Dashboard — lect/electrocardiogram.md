@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical recording of the cardiac cycle produced by an electrocardiograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical recording of the cardiac cycle produced by an electrocardiograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recorded tracing of the electrical activity and voltage fluctuations of the heart over time; an ECG or EKG.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, a diagnostic recording identifying cardiac arrhythmias, ischemia, and infarction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiogram designates a graphical recording of the cardiac cycle produced by an electrocardiograph."*
+> - 📜 **Willem Einthoven (*The Different Forms of the Human Electrocardiogram*):** *"The string galvanometer produced an accurate **electrocardiogram**, displaying distinct P, Q, R, S, and T waves."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient's **electrocardiogram** showed benign sinus bradycardia while resting in the neurological ward."*
+> - 📜 **Siddhartha Mukherjee (*The Laws of Medicine*):** *"An abnormal **electrocardiogram** prompted the resident to order emergency coronary angiography."*

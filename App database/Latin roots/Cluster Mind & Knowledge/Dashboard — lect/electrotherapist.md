@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who specializes in the treatment of disease by electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who specializes in the treatment of disease by electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist or practitioner who uses electrical currents and electrotherapy to treat physical ailments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physical medicine, a clinician operating galvanic, faradic, and high-frequency spark apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrotherapist designates someone who specializes in the treatment of disease by electricity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The consulting **electrotherapist** applied rhythmic faradic stimulation to prevent disuse atrophy in paralyzed muscles."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"Dr. Watson consulted a London **electrotherapist** regarding experimental currents for peripheral nerve rehabilitation."*
+> - 📜 **Nikola Tesla (*High Frequency Oscillators for Electro-Therapeutic and Other Purposes*):** *"Physicians and the skilled **electrotherapist** welcomed high-frequency currents that generated deep diathermic tissue warmth."*

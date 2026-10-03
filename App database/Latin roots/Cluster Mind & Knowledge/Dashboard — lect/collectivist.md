@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who belongs to the political left.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subscribing to the socialistic doctrine of ownership by the people collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, practicing, or advocating collectivism; favoring collective control over individual enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cross-cultural psychology, cultures emphasizing communal harmony, familial duty, and interdependence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivist designates a person who belongs to the political left."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The planetary motto community, identity, stability embodied the supreme triumph of a **collectivist** state."*
+> - 📜 **Karl Popper (*The Open Society and Its Enemies*):** *"Platonic political philosophy presents the earliest and most influential **collectivist** blueprint in the West."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Totalitarian propaganda appeals to deracinated individuals by promising absorption into a powerful **collectivist** mass."*

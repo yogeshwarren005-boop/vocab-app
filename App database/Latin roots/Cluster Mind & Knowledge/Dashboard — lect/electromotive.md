@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or producing electric current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or producing electric current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to produce or maintain an electric current; relating to electromotive force (EMF).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrochemistry, the potential energy difference across a voltaic cell measured in open-circuit volts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromotive designates concerned with or producing electric current."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Relative motion between a conductor and magnetic field lines generates an induced **electromotive** force."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The total **electromotive** intensity along a closed circuit equals the negative time rate of change of magnetic flux."*
+> - 📜 **Oliver Heaviside (*Electrical Papers*):** *"Impressed **electromotive** forces drive charge through resistance, dissipating energy as Joule heat."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no net electric charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no net electric charge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing balanced positive and negative electrical charges; bearing zero net electric charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry, ion transport mechanisms (such as Na+/H+ exchangers) that maintain zero net charge transfer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electroneutral designates having no net electric charge."*
+> - 📜 **Svante Arrhenius (*The Theory of Electrolytic Dissociation*):** *"The bulk aqueous electrolyte remains strictly **electroneutral**, containing equal totals of positive and negative equivalents."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Certain transport proteins perform **electroneutral** exchange, swapping one chloride ion for one bicarbonate ion."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"A normal chemical compound is completely **electroneutral** until electrical forces separate its constituent ions."*

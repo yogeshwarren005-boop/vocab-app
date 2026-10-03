@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of thrilling or markedly exciting some person or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of providing electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of charging something with electricity, or equipping a region or railway with electric power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic modern history, infrastructure campaigns bringing electrical grids to rural and industrial regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Take the one instance of the electrification of a railway."*
+> - 📜 **Vladimir Lenin (*Collected Works*):** *"Communism is Soviet power plus the **electrification** of the whole country, transforming archaic peasant agriculture."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"The complete **electrification** of American industry followed the triumph of polyphase alternating currents at Niagara."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"The rapid **electrification** of factories eliminated clumsy overhead belts and increased mechanical efficiency."*

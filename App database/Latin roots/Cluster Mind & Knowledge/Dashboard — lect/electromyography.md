@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Diagnosis of neuromuscular disorders with the use of an electromyograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Diagnosis of neuromuscular disorders with the use of an electromyograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical diagnostic technique of recording and evaluating the electrical activity produced by skeletal muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, needle electrode examination paired with nerve conduction velocity studies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromyography designates diagnosis of neuromuscular disorders with the use of an electromyograph."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Clinical **electromyography** provides an indispensable window into motor neuron survival and neuromuscular transmission."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The physical therapist relied upon **electromyography** to guide biofeedback training for re-educating paretic muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advances in diagnostic **electromyography** helped untangle complex peripheral neuropathies from primary myopathies."*

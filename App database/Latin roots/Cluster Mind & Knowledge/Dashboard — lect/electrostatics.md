@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics that deals with static electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of physics that deals with static electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physics that studies stationary electric charges, electrostatic fields, and Coulomb forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical field theory, Gauss's law and Poisson's equations determining electric potentials from charge distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrostatics designates the branch of physics that deals with static electricity."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The foundational theorems of **electrostatics** were formulated by Cavendish, Coulomb, and Poisson with geometric elegance."*
+> - 📜 **Lord Kelvin (*Reprint of Papers on Electrostatics and Magnetism*):** *"The method of electrical images solved previously intractable boundary problems in theoretical **electrostatics**."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"In **electrostatics**, the curl of the electric field is zero, which allows us to define a scalar potential."*

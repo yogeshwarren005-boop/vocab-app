@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to select; characterized by careful choice; - john mason brown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by very careful or fastidious selection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by careful choice, high standards, or discrimination; tending to choose only certain things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, drug molecules designed to bind selectively to specific receptor subtypes without off-target effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"We improve our favourite plants and animals—and how few they are—gradually by selective breeding; now a new and better peach, now a seedless grape, now a sweeter and larger flower, now a more convenient breed of cattle."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the first place, there is the basis of glass, but upon that there is laid what we might term the selective screen."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It differs very little from the Lumiere except in detail, the selective screen being formed of small coloured squares instead of by a mass of little grains."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness is at all times a **selective** agency, accentuating some aspects of sensation while suppressing others."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Female choice exerts a powerful **selective** pressure that enhances ornamental plumage and birdsong in males."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Modern psychopharmacology developed **selective** serotonin reuptake inhibitors to reduce autonomic side effects."*

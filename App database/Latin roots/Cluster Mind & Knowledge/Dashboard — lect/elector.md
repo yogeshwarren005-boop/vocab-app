@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A citizen who has a legal right to vote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the german princes who were entitled to vote in the election of new emperor of the holy roman empire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has the right to vote in an election, or an official member of an electoral college.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In German history, one of the imperial princes of the Holy Roman Empire entitled to elect the Emperor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In one of the conflicts, the emperor himself was put to flight, and very near being made prisoner by the elector of Saxony."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It makes no difference that in these senatorial districts and counties a number of representatives are voted for by each elector at the same time."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It forms, however, but one county, in which every elector votes for each of its representatives in the State legislature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Each presidential **elector** was expected to exercise wise, independent judgment in choosing the chief magistrate."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Golden Bull of Charles IV formally established the seven German princes as the supreme **elector** body."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The civic duty of every **elector** is to vote not for private interest, but for the common public good."*

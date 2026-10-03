@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electrophoresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to electrophoresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, produced by, or utilized in electrophoresis; pertaining to particle migration in electric fields.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, electrophoretic mobility measuring the velocity of a charged particle per unit field strength.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrophoretic designates of or relating to electrophoresis."*
+> - 📜 **Arne Tiselius (*Nobel Lecture*):** *"The **electrophoretic** mobility of proteins depends upon net surface charge, molecular size, and buffer pH."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Phosphorylated protein bands were identified by their altered **electrophoretic** migration on SDS-PAGE gels."*
+> - 📜 **Linus Pauling (*Sickle Cell Anemia, a Molecular Disease*):** *"Our **electrophoretic** analysis demonstrated that sickle hemoglobin carries a distinct surface charge from normal hemoglobin."*

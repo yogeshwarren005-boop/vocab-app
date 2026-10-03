@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being collected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being collected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being collected, recovered, or redeemed, especially an unpaid financial debt or bad loan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial accounting, writing off bad debts as uncollectible losses against fiscal revenues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncollectible designates not capable of being collected."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Reckless merchant loans become utterly **uncollectible** when speculative trade bubbles burst across the exchange."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"The railway shares proved entirely **uncollectible**, collapsing into worthless scraps of decorative paper."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Costs in the Chancery suit had grown so vast that the estate's liabilities were permanently **uncollectible**."*

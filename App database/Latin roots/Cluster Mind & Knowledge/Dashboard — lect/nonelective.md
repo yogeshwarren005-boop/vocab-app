@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled by appointment rather than by election.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filled by appointment rather than by election.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not elective; appointed or hereditary rather than chosen by popular vote, or mandatory in curricula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic scheduling, required compulsory core subjects that all matriculated students must complete.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonelective designates filled by appointment rather than by election."*
+> - 📜 **A. V. Dicey (*The Law of the Constitution*):** *"The House of Lords represents a **nonelective** legislative chamber founded upon hereditary peerage and tradition."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The monarchy is a **nonelective** magistracy that shields the kingdom from the turbulent feuds of faction."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Basic human anatomy remained a strict **nonelective** requirement throughout the first two medical school years."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Execution by electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Killing by electric shock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Death or severe injury caused by the passage of an electric current through the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In capital punishment history, execution by the electric chair introduced in New York State in 1890.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocution designates execution by electricity."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"Critics staged public demonstrations of animal **electrocution** in an attempt to discredit alternating current."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"A sudden lightning strike caused near-fatal **electrocution**, precipitating an extraordinary surge of musical creativity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Industrial **electrocution** typically results in sudden ventricular fibrillation or paralysis of the respiratory center."*

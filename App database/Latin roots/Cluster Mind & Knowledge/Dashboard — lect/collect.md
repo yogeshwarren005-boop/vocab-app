@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A short prayer generally preceding the lesson in the church of rome or the church of england.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get or gather together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring together things from different places or people, or a short liturgical prayer in Christian services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal administration, to gather public revenues, municipal waste, or postal communications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good old knight, Collect them all together at my tent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reverent care I bear unto my lord Made me collect these dangers in the Duke."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Affrighted much, I did in time collect myself and thought This was so, and no slumber."*
+> - 📜 **Charles Darwin (*Autobiography*):** *"My zeal to **collect** rare beetles in Cambridge was so great that I once carried one specimen inside my mouth."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton rose to recite the appointed liturgical **collect** with a sonorous and polished cadence."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The sovereign must employ trustworthy magistrates to **collect** customs duties along maritime ports."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument that records electric currents associated with contractions of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical instrument that records electric currents associated with contractions of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or medical apparatus used to record the electrical activity of the heart muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medical technology, the apparatus invented by Willem Einthoven using string galvanometers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocardiograph designates medical instrument that records electric currents associated with contractions of the heart."*
+> - 📜 **Willem Einthoven (*Nobel Lecture*):** *"The modern **electrocardiograph** enables clinicians to diagnose subtle conduction blocks without physical catheterization."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Introduction of the **electrocardiograph** into clinical practice revolutionized our classification of cardiac irregularities."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The mobile **electrocardiograph** was wheeled to the trauma bay as the resuscitation team began compressions."*

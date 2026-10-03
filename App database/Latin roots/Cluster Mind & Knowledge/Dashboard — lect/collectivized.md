@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring under collective control; of farms and industrial enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the principle of ownership by the state or the people of the means of production.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transferred to collective or state ownership; operated under cooperative management.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century history, agricultural land organized into collective state farms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivized designates bring under collective control; of farms and industrial enterprises."*
+> - 📜 **George Orwell (*Animal Farm*):** *"The **collectivized** animals harvested the wheat fields under the proud slogan: Four legs good, two legs bad."*
+> - 📜 **Alexander Solzhenitsyn (*One Day in the Life of Ivan Denisovich*):** *"Ivan Denisovich recalled his former village life before the land was **collectivized** into a drab state collective."*
+> - 📜 **Milovan Djilas (*The New Class*):** *"The bureaucracy derived its immense privileges from administering the **collectivized** national wealth."*

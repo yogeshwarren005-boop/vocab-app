@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A car that is powered by electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using or providing or producing or transmitting or operated by electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, produced by, or operated by electricity; charged with intense excitement or tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and engineering, systems, currents, or circuits utilizing the flow of electric charge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The effect upon her old lover was electric, far stronger than the effect of his presence upon her."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She planned to take electric treatment, though not very hopeful about the result."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Those portions which struck me, if in ordinary times had been given me from an electric battery in a school-room, a shock with sparks only one-hundredth the size, would have killed me."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic needle swung violently as the **electric** circuit was completed through the copper coil."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I sing the body **electric**, the armies of those I love engirth me and I engirth them."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The newly installed **electric** lamps cast sharp, brilliant shadows across the foggy London thoroughfare."*

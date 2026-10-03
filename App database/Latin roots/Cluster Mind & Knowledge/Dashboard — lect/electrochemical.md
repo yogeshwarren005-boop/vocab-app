@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving electrochemistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving electrochemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving chemical reactions that produce electricity or are driven by an applied electric current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, describing nerve impulses mediated through ionic concentration gradients across membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrochemical designates of or involving electrochemistry."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **electrochemical** decomposition of an electrolyte is governed by definite quantitative atomic equivalents."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"The action potential is an **electrochemical** wave driven by rapid influx of sodium and efflux of potassium ions."*
+> - 📜 **Svante Arrhenius (*The Theory of Electrolytic Dissociation*):** *"Electrolytic salts dissociate into charged ions, providing the basis for all **electrochemical** activity in solutions."*

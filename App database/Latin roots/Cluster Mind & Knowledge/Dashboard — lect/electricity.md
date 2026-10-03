@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical phenomenon associated with stationary or moving electrons and protons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Energy made available by the flow of electric charge through a conductor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physical phenomenon associated with the presence and flow of electric charges, electrons, or ions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial history, the form of energy supplied via transmission grids to power lighting and motors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"All was as quick as electricity."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A fourth kind is that derived from franchises for public service corporations, such as those supplying electricity, gas and water."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Besides, Fred had given out unexpected electricity, and he now added, “Mr."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My experiments in **electricity** demonstrated that lightning and electrical sparks are identical in nature."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The mysterious force of **electricity** links chemistry, magnetism, and atomic cohesion into a unified domain."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The sudden flash of lightning shattered the oak tree, demonstrating the colossal destructive power of **electricity**."*

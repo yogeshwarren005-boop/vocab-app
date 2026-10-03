@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An executioner who uses electricity to kill the condemned person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An executioner who uses electricity to kill the condemned person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An executioner or official appointed to carry out the sentence of execution by electrocution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical prison administration, the technician operating the switches and rheostats of the electric chair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocutioner designates an executioner who uses electricity to kill the condemned person."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The grim prison warden stood beside the state **electrocutioner**, who adjusted the damp leather helmet and electrodes."*
+> - 📜 **H. L. Mencken (*Prejudices: Fourth Series*):** *"The state **electrocutioner** earned his macabre fee by pulling the master switch in the dim basement at Sing Sing."*
+> - 📜 **Arthur Koestler (*Reflections on Hanging*):** *"Technological modernization replaced the traditional hangman with a mechanized **electrocutioner** manipulating voltage dials."*

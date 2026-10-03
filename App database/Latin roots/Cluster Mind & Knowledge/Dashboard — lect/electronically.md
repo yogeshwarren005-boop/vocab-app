@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By electronic means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By electronic means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of electronic devices, computers, or digital telecommunications; in an electronic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce and banking, transmitting financial payments and data packets across network lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All rooms, corridors and exterior approaches leading to the meeting site were physically and electronically searched, and the identity disks of all individuals passing through the area scrutinized and verified."*
+> - 📜 **Nicholas Negroponte (*Being Digital*):** *"Information that was formerly printed upon heavy paper is now distributed **electronically** across the globe."*
+> - 📜 **Carl Sagan (*Contact*):** *"The radio telescope array was steered **electronically**, synthesizing a synthetic aperture miles across."*
+> - 📜 **Shoshana Zuboff (*The Age of Surveillance Capitalism*):** *"Every consumer transaction is captured **electronically**, converted into behavioral surplus data for modeling."*

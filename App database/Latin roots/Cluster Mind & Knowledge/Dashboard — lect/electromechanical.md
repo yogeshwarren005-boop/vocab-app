@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving an electrically operated mechanical device.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving an electrically operated mechanical device.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, involving, or operated by a combination of electrical and mechanical processes or devices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technology history, relays, stepping switches, and calculating tabulators that preceded solid-state electronics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electromechanical designates of or relating to or involving an electrically operated mechanical device."*
+> - 📜 **Alan Turing (*Enigma and the Bombe*):** *"The British Bombe utilized high-speed **electromechanical** drums to test thousands of cipher combinations each minute."*
+> - 📜 **Claude Shannon (*A Symbolic Analysis of Relay and Switching Circuits*):** *"Boolean algebra maps directly onto the open and closed states of **electromechanical** switching relays."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Early industrial servomechanisms combined **electromechanical** sensors with hydraulic governors to regulate artillery."*

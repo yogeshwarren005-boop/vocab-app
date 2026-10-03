@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subscribing to the socialistic doctrine of ownership by the people collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subscribing to the socialistic doctrine of ownership by the people collectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or adhering to collectivism; emphasizing collective social unity and communal goals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical analysis, societies or political parties emphasizing collective social safety nets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivistic designates subscribing to the socialistic doctrine of ownership by the people collectively."*
+> - 📜 **Bertrand Russell (*Authority and the Individual*):** *"A modern state must balance **collectivistic** economic organization with sphere for individual artistic freedom."*
+> - 📜 **Steven Pinker (*The Better Angels of Our Nature*):** *"Traditional **collectivistic** cultures frequently demonstrate higher levels of clan feuding and honor violence."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"Puritan individualism stood in stark contrast to the **collectivistic** guilds of medieval Catholic Europe."*

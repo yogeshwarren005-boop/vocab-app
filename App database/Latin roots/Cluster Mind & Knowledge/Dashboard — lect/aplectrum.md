@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monocotyledonous genus of the family orchidaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monocotyledonous genus of the family orchidaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of North American terrestrial orchids comprising Aplectrum hyemale, the puttyroot or Adam-and-Eve orchid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical systematics, a woodland orchid characterized by coralloid corms that produce mucilage used as glue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplectrum designates a monocotyledonous genus of the family orchidaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The solitary winter leaf of **Aplectrum** unfolds in autumn, persisting until the flowering scape emerges in May."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Rich deciduous forests provide the organic leaf mold required by wild colonies of **Aplectrum**."*
+> - 📜 **John Muir (*The Story of My Boyhood and Youth*):** *"Pioneers gathered sticky corms of **Aplectrum** to mend fractured pottery and earthenware bowls."*

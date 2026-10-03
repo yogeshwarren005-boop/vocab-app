@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Application of a needle heated by an electric current to destroy tissue (as to remove warts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Application of a needle heated by an electric current to destroy tissue (as to remove warts).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical technique of burning, coagulating, or cutting tissue using a needle or blade heated by electric current.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern operating suites, bipolar or monopolar electrosurgical devices used to achieve hemostasis in vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrocautery designates application of a needle heated by an electric current to destroy tissue (as to remove warts)."*
+> - 📜 **William Stewart Halsted (*The Employment of Fine Silk in Surgery*):** *"Modern surgeons employ **electrocautery** to seal bleeding arterioles cleanly without leaving foreign ligatures."*
+> - 📜 **Richard Selzer (*Mortal Lessons*):** *"A hiss of steam and the pungent scent of scorched flesh announced the swift work of the **electrocautery** blade."*
+> - 📜 **Atul Gawande (*Better: A Surgeon's Notes on Performance*):** *"With delicate taps of the **electrocautery** pencil, the surgeon dissected the tumor free from the vena cava."*

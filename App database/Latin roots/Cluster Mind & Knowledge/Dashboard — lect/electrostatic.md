@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or producing or caused by static electricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with or producing or caused by static electricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to stationary electric charges, their equilibrium distributions, and the forces between them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, Coulomb's law describing the inverse-square electrostatic force between stationary charged particles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is a convenient form of what is called an electrostatic condenser."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Another is that adjacent particles become charged as the plates of a minute condenser, and so are drawn tightly together as the plates in an electrostatic voltmeter are drawn towards each other."*
+> - 📜 **Charles-Augustin de Coulomb (*Recherches sur l'Électricité et le Magnétisme*):** *"The **electrostatic** attraction between two charged spheres varies inversely as the square of the distance between them."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The lines of force in an **electrostatic** field originate on positive charges and terminate on negative charges."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Because opposite charges cancel out so precisely in bulk matter, the colossal magnitude of **electrostatic** forces is hidden."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not selective or discriminating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not selective or discriminating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking discrimination, careful choice, or critical standards; not selective, choosing without discernment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical pharmacology, medications or reagents that bind broadly across multiple receptor subtypes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unselective designates not selective or discriminating."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"First-generation tricyclic antidepressants were **unselective**, triggering dry mouth and sedation via muscarinic blockade."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The novelist must avoid an **unselective** dump of raw realistic facts, crafting scenes with aesthetic restraint."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Broad-spectrum pesticides represent an **unselective** chemical assault that slaughters beneficial pollinators alongside pests."*

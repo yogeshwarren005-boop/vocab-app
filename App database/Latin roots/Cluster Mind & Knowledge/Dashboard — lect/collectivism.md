@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Soviet communism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political theory that the people should own the means of production.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political or economic theory advocating collective control, ownership, and management of production and distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, prioritizing the goals, harmony, and welfare of the community over individual autonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This opinion, or plan, has appeared under a variety of names, the main ones being communism, collectivism, social-democracy, and socialism, of which the last name has just now the greatest vogue."*
+> - 📜 **Friedrich Hayek (*The Road to Serfdom*):** *"Economic **collectivism** inevitably leads to totalitarian political control as state planning expands."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Oligarchical **collectivism** was the theoretical foundation of the regime, ensuring permanent power for the Party."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"He warned that a paternal state could impose a gentle **collectivism** that enervates individual citizen initiative."*

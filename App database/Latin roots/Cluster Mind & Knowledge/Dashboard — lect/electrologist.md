@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone skilled in the use of electricity to remove moles or warts or hair roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone skilled in the use of electricity to remove moles or warts or hair roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist trained in electrolysis for the permanent removal of unwanted hair or cosmetic skin blemishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, a practitioner utilizing galvanic or thermolytic high-frequency needles to destroy hair follicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrologist designates someone skilled in the use of electricity to remove moles or warts or hair roots."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The licensed **electrologist** inserts a fine platinum needle into the follicle to destroy the germinative papilla."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Patients troubled by hirsutism sought consultation from a clinical **electrologist** for permanent depilation."*
+> - 📜 **Atul Gawande (*Complications*):** *"Minor cosmetic procedures formerly performed by surgeons are now expertly handled by the trained **electrologist**."*

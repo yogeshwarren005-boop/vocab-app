@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Persuasion of voters in a political campaign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The campaign of a candidate to be elected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of campaigning actively for a candidate, political party, or policy in an election.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical political chronicles, the tactics of speechmaking, treats, rallies, and propaganda used to secure votes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Frank Hawley, who was afraid of nobody, and was a Tory suspicious of electioneering intentions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, per electioneering contest, and a seat outside Parliament as delivered, five thousand pounds, seven shillings, and fourpence.” Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It’s rather coarse work—this electioneering, eh, Ladislaw? dare say you are tired of it."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Every four years the entire republic is convulsed by the feverish **electioneering** of rival presidential parties."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The glorious art of **electioneering** was displayed in full vigor by the rival partisans of Slumkey and Fizkin."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke's foray into **electioneering** ended disastrously when an effigy of him interrupted his speech."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who collects things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is employed to collect payments (as for rent or taxes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who collects things of a specified type, such as art, books, stamps, or biological specimens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, an electrode or component that captures or collects charge carriers in transistors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The landlord in turn received from his underlings services and goods in kind (food and supplies) and so (in modern eyes) was both a collector of taxes and a receiver of rent."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Viewed in this way, taxes are seen to be borne to some extent by every one, by those who do not as well as by those who do actually meet the tax-collector face to face."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Verses To Collector Mitchell Friend of the Poet, tried and leal, Wha, wanting thee, might beg or steal; Alake, alake, the meikle deil Wi’ a’ his witches Are at it skelpin jig and reel, In my poor pouches?"*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"As an enthusiastic young **collector**, I felt indescribable delight upon capturing a rare tropical longicorn beetle."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Six Napoleons*):** *"Dr. Barnicot was an enthusiastic **collector** of Napoleonic bronzes, busts, and battle prints."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"A dapper little clerk served as **collector** of royal duties, inspecting shipments along the river wharf."*

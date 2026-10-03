@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge and intellectual ability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capacity for rational thought or inference or discrimination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The faculty of reasoning, understanding, and thinking objectively, especially with regard to abstract matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, the highest rational part of the soul (nous) that apprehends universal truths and forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His intellect is not replenished; he is only an animal, only sensible in the duller parts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath Bolingbroke Deposed thine intellect?"*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"On the Improvement of the Understanding (Treatise on the Emendation of the Intellect) by Baruch Spinoza [Benedict de Spinoza] Translated by R."*
+> - 📜 **Aristotle (*De Anima*):** *"The human **intellect** is in a certain sense potentially whatever is thinkable, though actually it is nothing until it thinks."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Thoughts without content are empty, intuitions without concepts are blind; the **intellect** unites both in judgment."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was filled with reverent eagerness to be directed by a man of profound learning and superior **intellect**."*

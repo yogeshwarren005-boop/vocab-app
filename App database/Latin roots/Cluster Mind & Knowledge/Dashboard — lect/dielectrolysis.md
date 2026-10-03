@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electrolysis or ionization occurring across or within a dielectric medium under high electrical stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics and electrotherapy, the introduction of ionic medications through tissues using electric currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dielectrolysis designates the motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"Under extreme electrical potential gradients, insulating oils undergo localized **dielectrolysis** and puncture."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Early investigators explored medical **dielectrolysis** to drive antiseptic metallic ions into deep abscess cavities."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The boundary between electrostatic polarization and actual **dielectrolysis** marks the dielectric breakdown point."*

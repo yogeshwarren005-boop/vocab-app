@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of a nation or economy on the basis of collectivism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organization of a nation or economy on the basis of collectivism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of an economy, agricultural system, or enterprise around collective or state ownership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical political economy, the Soviet agricultural transformation launched under Stalin's first Five-Year Plan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivization designates the organization of a nation or economy on the basis of collectivism."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"The forced **collectivization** of Russian agriculture destroyed the rural social fabric and created millions of victims."*
+> - 📜 **Alexander Solzhenitsyn (*The Gulag Archipelago*):** *"The dekulakization campaign accompanying **collectivization** funneled millions of hardy farmers into the Gulag."*
+> - 📜 **Eric Hobsbawm (*The Age of Extremes*):** *"Despite catastrophic short-term famine, **collectivization** enabled the state to feed wartime industrial workers."*

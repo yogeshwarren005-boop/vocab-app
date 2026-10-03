@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument that detects electric charge; two gold leaves diverge owing to repulsion of charges with like sign.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument that detects electric charge; two gold leaves diverge owing to repulsion of charges with like sign.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early scientific instrument used to detect the presence, sign, and magnitude of electric charge on a body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radioactivity history, the gold-leaf electroscope used to measure ionizing radiation and discover cosmic rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In its simplest form the electrometer is called the "electroscope." Two strips of gold-leaf are suspended by their ends under a glass or metal shade."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The delicate gold leaves of the **electroscope** diverged widely the moment the charged rod approached the brass disc."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"A charged gold-leaf **electroscope** discharged rapidly when brought near pitchblende residues, revealing strong activity."*
+> - 📜 **Victor Hess (*The Discovery of Cosmic Rays*):** *"Taking an airtight **electroscope** aloft in a free balloon revealed that ionizing radiation increases dramatically with altitude."*

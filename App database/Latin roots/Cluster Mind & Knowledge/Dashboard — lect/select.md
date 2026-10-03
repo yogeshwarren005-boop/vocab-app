@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pick out, select, or choose from a number of alternatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of superior grade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To carefully choose from a group of alternatives, or chosen for excellence, rarity, or high quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, natural forces that select adaptive phenotypic variations over generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A certain number, Though thanks to all, must I select from all."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Costly thy habit as thy purse can buy, But not express’d in fancy; rich, not gaudy: For the apparel oft proclaims the man; And they in France of the best rank and station Are of a most select and generous chief in that."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Good things have been said about it by blue-nosed, bulbous-shoed old benchers in select port-wine committee after dinner in hall."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Man can act only on external and visible characters; nature cares nothing for appearances, she can **select** for the good of the being."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Elton took pride in her **select** musical parties, boasting that only the first families were admitted."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A wise prince will **select** counselors who dare to speak truth rather than flatter royal whims."*

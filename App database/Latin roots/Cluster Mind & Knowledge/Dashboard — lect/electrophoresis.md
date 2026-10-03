@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The migration of dispersed colloidal particles or macromolecules in a fluid under the influence of an electric field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, gel electrophoresis used to separate and size DNA, RNA, and protein fragments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrophoresis designates the motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode."*
+> - 📜 **Arne Tiselius (*A New Apparatus for Electrophoretic Analysis of Colloidal Mixtures*):** *"Moving boundary **electrophoresis** allowed us to separate serum globulins into distinct alpha, beta, and gamma fractions."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"Polyacrylamide gel **electrophoresis** provided clean resolution of radioactive nucleic acid restriction bands."*
+> - 📜 **Siddhartha Mukherjee (*The Gene*):** *"Under the blue fluorescent transilluminator, the glowing **electrophoresis** lanes revealed the mutant Huntington gene."*

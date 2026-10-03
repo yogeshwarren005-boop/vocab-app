@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of gathering something together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get or gather together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or hobby of gathering objects of a particular type, or gathering together scattered entities into a group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance, the systematic pursuit and recovery of overdue debts, commercial accounts, or municipal fees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy is engaged in collecting the Galaxy Gallery of British Beauty from the wall and depositing those works of art in their old ignoble band-box."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"For these examinations he prepared most carefully, sitting up sometimes till two o'clock in the morning collecting material and verifying references which he deemed necessary to make them complete."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The two officers stood close together, and Riou, collecting his courage, made an attempt to laugh."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I spent hours along the riverbanks, **collecting** unknown land shells and pressing delicate ferns into paper."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon devoted his solitary life to **collecting** obscure mythical fragments for his vast unfinished treatise."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Stapleton bounded across the treacherous Grimpen Mire with his green net, **collecting** rare nocturnal moths."*

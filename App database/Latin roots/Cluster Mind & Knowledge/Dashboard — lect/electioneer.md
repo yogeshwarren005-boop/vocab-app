@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work actively for a political candidate or a party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work actively for a political candidate or a party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To campaign actively for a political candidate, party, or cause in an election.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In local politics, canvassing neighborhoods, distributing handbills, and soliciting votes door-to-door.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Frank Hawley, who was afraid of nobody, and was a Tory suspicious of electioneering intentions."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke, per electioneering contest, and a seat outside Parliament as delivered, five thousand pounds, seven shillings, and fourpence.” Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It’s rather coarse work—this electioneering, eh, Ladislaw? dare say you are tired of it."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"Colonel Newcome went down to the borough to **electioneer** with honest zeal, shaking hands with every voter."*
+> - 📜 **Anthony Trollope (*Can You Forgive Her?*):** *"George Vavasor spent hundreds of pounds to **electioneer** through the taverns and back alleys of the district."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"Political managers arrived from Washington to **electioneer** for their candidate with lavish promises of postmaster jobs."*

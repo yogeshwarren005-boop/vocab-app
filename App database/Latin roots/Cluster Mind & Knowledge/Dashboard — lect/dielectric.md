@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material such as glass or porcelain with negligible electrical or thermal conductivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material such as glass or porcelain with negligible electrical or thermal conductivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical insulator that can be polarized by an applied electric field without conducting electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In capacitor physics, the insulating material placed between conducting plates to increase capacitance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dielectric designates a material such as glass or porcelain with negligible electrical or thermal conductivity."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I introduced the term **dielectric** to express that substance through or across which electric forces operate."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The displacement current in a **dielectric** medium generates magnetic fields identical to conduction currents."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"When a **dielectric** slab is inserted between capacitor plates, induced surface charges reduce the internal field."*

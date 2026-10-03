@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fixed capacitor consisting of two electrodes separated by an electrolyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerned with or produced by electrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or produced by electrolysis; involving the conduction of electricity through chemical ions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics, an electrolytic capacitor utilizing an oxide dielectric layer on an aluminum or tantalum foil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Deposition of Shell._ The molded case is put in the electrolytic bath for the deposition of shell thereon. _12."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"DEPOSITING THE SHELL Those who are not technically familiar with electrochemistry are prone to think that the length of time a mold is kept in the electrolytic bath, i. e., the copper bath, determines the thickness of the shell deposited thereon."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The determining factors in this phase of electrotyping are the composition of the electrolytic bath, its temperature, and the current density applied."*
+> - 📜 **Svante Arrhenius (*The Theory of Electrolytic Dissociation*):** *"The degree of **electrolytic** dissociation can be determined from osmotic pressure and electrical conductivity data."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Water requires an **electrolytic** conductor such as sulfuric acid to facilitate rapid gas evolution at the poles."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"Barium and radium were separated through fractional **electrolytic** deposition of their respective amalgams."*

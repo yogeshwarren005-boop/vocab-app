@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a positive charge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a positive charge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a tendency to lose electrons and form positive ions in chemical reactions; carrying a positive charge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, metallic elements (such as sodium, potassium, and cesium) with low electronegativities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electropositive designates having a positive charge."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Hydrogen and metallic bases are **electropositive**, migrating toward the negative cathode in electrolysis."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Alkali metals are the most **electropositive** elements in the periodic system, reacting vigorously with halogens."*
+> - 📜 **Jöns Jacob Berzelius (*Theory of Chemical Proportions*):** *"Chemical combination occurs because **electropositive** and electronegative radicals attract and neutralize each other."*

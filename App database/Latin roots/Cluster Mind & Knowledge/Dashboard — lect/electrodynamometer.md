@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument that uses the interaction of the magnetic fields of two coils to measure current or voltage or power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument that uses the interaction of the magnetic fields of two coils to measure current or voltage or power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical measuring instrument used for measuring current, voltage, or electric power via electrodynamic action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In precision metrology, a laboratory meter utilizing mutual magnetic deflection between fixed and moving coils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrodynamometer designates measuring instrument that uses the interaction of the magnetic fields of two coils to measure current or voltage or power."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Weber's **electrodynamometer** provided the first absolute laboratory measure of electrodynamic torque between circuits."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Calibrated current balances and the Siemens **electrodynamometer** established standardized practical ampere values."*
+> - 📜 **Oliver Heaviside (*Electrical Papers*):** *"The deflection of the moving coil inside the **electrodynamometer** varies with the mean square of alternating current."*

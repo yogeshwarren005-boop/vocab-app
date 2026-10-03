@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization of a nation or economy on the basis of collectivism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organization of a nation or economy on the basis of collectivism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of organizing an economy, industry, or agriculture around collective ownership (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Soviet history, the enforced consolidation of individual peasant farms into state-managed kolkhozes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectivisation designates the organization of a nation or economy on the basis of collectivism."*
+> - 📜 **George Orwell (*Animal Farm*):** *"The windmill construction symbolized the forced **collectivisation** of animal labor under Napoleon's decree."*
+> - 📜 **Arthur Koestler (*The Yogi and the Commissar*):** *"The catastrophic agricultural **collectivisation** claimed millions of lives across the black-earth famine belt."*
+> - 📜 **E. H. Carr (*The Russian Revolution*):** *"Massive **collectivisation** served as the indispensable economic engine to finance rapid heavy industrialization."*

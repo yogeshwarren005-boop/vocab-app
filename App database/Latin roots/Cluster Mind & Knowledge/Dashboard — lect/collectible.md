@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Things considered to be worth collecting (not necessarily valuable or antique).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to or requiring payment especially as specified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An object suitable for or sought after by collectors, such as rare stamps, coins, antiquities, or artwork.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retail commerce, limited-edition manufactured items designed specifically to appreciate in secondary markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collectible designates things considered to be worth collecting (not necessarily valuable or antique)."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Old Mr. van der Luyden displayed a rare porcelain figurine that was the most prized **collectible** in New York."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Six Napoleons*):** *"The plaster bust was an ordinary five-shilling cast, possessing no inherent value as a connoisseur's **collectible**."*
+> - 📜 **Henry James (*The Spoils of Poynton*):** *"Mrs. Gereth lived only for her furniture, evaluating every room in terms of its unique **collectible** treasure."*

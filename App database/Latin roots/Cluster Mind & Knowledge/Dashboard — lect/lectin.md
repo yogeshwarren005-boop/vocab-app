@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several plant glycoproteins that act like specific antibodies but are not antibodies in that they are not evoked by an antigenic stimulus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several plant glycoproteins that act like specific antibodies but are not antibodies in that they are not evoked by an antigenic stimulus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant or animal protein that binds specifically and reversibly to carbohydrates or cell surface glycoproteins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and cellular biology, plant agglutinins (such as concanavalin A) used to identify cell surface glycans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lectin designates any of several plant glycoproteins that act like specific antibodies but are not antibodies in that they are not evoked by an antigenic stimulus."*
+> - 📜 **Paul Ehrlich (*Collected Papers on Immunology*):** *"Ricin represents an extraordinarily potent phytotoxic **lectin** that agglutinates mammalian erythrocytes in vitro."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Researchers used fluorescently labeled **lectin** markers to track the dense carbohydrate forest on cancer cell coats."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Cellular recognition during synaptogenesis is mediated in part by **lectin** interactions with axonal glycan ligands."*

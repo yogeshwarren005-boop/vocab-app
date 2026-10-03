@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Election again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Election again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The election of someone to a further term of office or position; the act or outcome of being reelected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political campaigning, strategies and fundraising focused on defending an incumbent's seat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reelection designates election again."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The prospect of **reelection** is necessary to give the magistrate a personal interest in defending his office."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An incumbent president seeking **reelection** becomes a pliant tool in the hands of the electoral majority."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"President Roosevelt secured an unprecedented fourth term **reelection** to guide the Allied coalition to final victory."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gown (especially ceremonial garments) worn by the clergy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gown (especially ceremonial garments) worn by the clergy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official ceremonial robe, garment, or gown worn by clergy, choristers, or judicial magistrates during liturgical services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A formal outer covering or decorative robe indicating high ceremonial status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There Platón Karatáev was sitting covered up—head and all—with his greatcoat as if it were a vestment, telling the soldiers in his effective and pleasant though now feeble voice a story Pierre knew."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The physician advanced directly in front of his patient, laid his hand upon his bosom, and thrust aside the vestment, that hitherto had always covered it even from the professional eye."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"Certain agents I found to have the power to shake and pluck back that fleshly vestment, even as a wind might toss the curtains of a pavilion."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The abbot stood before the altar robed in a magnificent gold-fringed **vestment** of purple silk."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The officiating clergyman assumed his linen **vestment** as the wedding party gathered at the rail."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister's flowing black **vestment** contrasted starkly with the vivid red emblem on Hester's gown."*

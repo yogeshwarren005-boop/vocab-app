@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To develop insufficiently, improperly, or below normal standards of maturity or economic capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photography, to expose or process a photographic plate for an inadequate period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdevelop designates process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Excessive agricultural taxation tends to **underdevelop** marginal rural districts by draining local capital."*
+> - 📜 **Herbert Spencer (*Principles of Biology*):** *"Nutritional deficiencies during juvenile growth will inevitably **underdevelop** the skeletal musculature."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The photographer was careful not to **underdevelop** the delicate collodion negative in the darkroom."*

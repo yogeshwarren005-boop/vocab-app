@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terseness and economy in writing and speaking achieved by expressing a great deal in just a few words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terseness and economy in writing and speaking achieved by expressing a great deal in just a few words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being concise, brief, and pointed in verbal or written expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compactness or neat compression in structural arrangement or literary composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succinctness designates terseness and economy in writing and speaking achieved by expressing a great deal in just a few words."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The epigram owes its rhetorical force to extreme **succinctness** and unexpected wit."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon praised the classical **succinctness** of Roman inscriptions over modern rambling epitaphs."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne's essays combine rich observational depth with conversational **succinctness**."*

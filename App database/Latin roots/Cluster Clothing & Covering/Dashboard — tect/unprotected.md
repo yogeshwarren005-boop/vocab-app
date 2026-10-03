@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking protection or defense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking protection or defense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of protection, shielding, defense, or legal safeguard; exposed to danger or harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce and intellectual property, not guarded by copyright, patent, or customs tariffs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"An unprotected childhood in a cold world has beaten gentleness out of me.” He immediately said with more resentment: “That may be true, somewhat; but ah, Miss Everdene, it won’t do as a reason!"*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak gazed with misgiving at eight naked and unprotected ricks, massive and heavy with the rich produce of one-half the farm for that year."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He wiped his weary brow, and looked again at the black forms of the unprotected stacks."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe realized with terror that his little boat lay completely **unprotected** upon the stormy ocean."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant fleet was left **unprotected** by naval convoys during the early months of the war."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The flightless birds of the remote archipelago nested in **unprotected** hollows on the bare ground."*

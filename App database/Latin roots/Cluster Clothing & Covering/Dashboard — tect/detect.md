@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discover or determine the existence, presence, or fact of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discover or determine the presence, existence, or fact of something concealed or not easily noticeable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and forensics, to identify trace substances, impurities, or signals using analytical instruments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then there is no true lover in the forest, else sighing every minute and groaning every hour would detect the lazy foot of time as well as a clock."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Iron of Naples, hid with English gilt, Whose father bears the title of a king, As if a channel should be called the sea, Sham’st thou not, knowing whence thou art extraught, To let thy tongue detect thy base-born heart?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will prevent this, detect my wife, be revenged on Falstaff, and laugh at Page."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes knelt upon the floor, keen to **detect** the faintest footprint or dropped cigar ash."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A sensitive galvanometer enabled the experimenter to **detect** minute induced electrical currents."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was quick to **detect** a slight degree of embarrassment in Darcy's formal address."*

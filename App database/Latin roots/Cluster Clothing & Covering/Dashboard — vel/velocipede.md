@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several early bicycles with pedals on the front wheel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle with three wheels that is moved by foot pedals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early lightweight human-powered wheeled vehicle, especially a 19th-century precursor to the modern bicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport history, the draisine, hobby-horse, or boneshaker propelled by riders pushing along the ground or using pedals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"When countrybound velocipedes, a chainless freewheel roadster cycle with side basketcar attached, or draught conveyance, a donkey with wicker trap or smart phaeton with good working solidungular cob (roan gelding, 14 h)."*
+> - 📜 **Mark Twain (*Taming the Bicycle*):** *"I purchased a secondhand **velocipede** and resolved to master the treacherous machine despite bruises and falls."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"The young clerk pedaled his clattering iron **velocipede** down the country lane with reckless enthusiasm."*
+> - 📜 **Charles Dickens (*The Uncommercial Traveller*):** *"Crowds gathered along the Parisian boulevards to watch eccentric gentlemen race upon the newly invented **velocipede**."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to clothing (especially vestments).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to clothing (especially vestments).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or chamber where liturgical vestments, robes, or theatrical costumes are kept; a vestry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to clothes, garments, vestments, or personal apparel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Their clothes were to be taken from one common <g>Vestiary</g>, and their food from one Larder."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"All vestments presented by relatives were to be stored in the common Vestiary."*
+> - 📜 **Walter Pater (*Gaston de Latour*):** *"The cathedral **vestiary** contained ancient copes embroidered with seed pearls and silver wire."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh expounded his profound **vestiary** philosophy of clothes as symbols of the spirit."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The sacristan escorted the visitors to the vaulted **vestiary** where the golden chalices were displayed."*

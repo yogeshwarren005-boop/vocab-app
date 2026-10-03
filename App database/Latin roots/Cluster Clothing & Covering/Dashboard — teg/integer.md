@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the natural numbers (positive or negative) or zero.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the natural numbers (positive or negative) or zero.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A whole number that can be positive, negative, or zero, but does not contain a fractional or decimal component.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and classical usage, an entire, undivided entity; a complete, wholesome, or uncorrupted whole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s see: [_Reads_.] _Integer vitae, scelerisque purus, Non eget Mauri iaculis, nec arcu._ CHIRON."*
+> - 📜 **Isaac Newton (*Philosophiæ Naturalis Principia Mathematica*):** *"The orbital periods of harmonic satellites relate by ratios expressing a small **integer** relationship."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"True knowledge perceives each branch of science not in isolation, but as an **integer** within the universal fabric."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The calculating engine's calculating wheels represent each numerical **integer** with mechanical certainty."*

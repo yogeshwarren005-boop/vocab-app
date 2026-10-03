@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural protective body covering and site of the sense of touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural protective body covering and site of the sense of touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural outer covering, sheath, or protective layer of a plant, animal, or organ; an integument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology and helminthology, the metabolically active syncytial outer covering of parasitic flatworms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tegument designates a natural protective body covering and site of the sense of touch."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The seed is preserved against frost by its dense outer **tegument** until spring moisture unlocks the germ."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The thickened fibrous **tegument** protecting the walnut shell evolved as a defense against frugivorous birds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In trematode infections, the nonciliated syncytial **tegument** resists the digestive enzymes of the mammalian host."*

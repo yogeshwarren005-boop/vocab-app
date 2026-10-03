@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southeastern south korea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southeastern south korea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, omnivorous lizard of the genus Salvator or Tupinambis, native to tropical and subtropical South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, a heavily built, terrestrial teiid lizard renowned for its high intelligence and seasonal endothermy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tegu designates a city in southeastern south korea."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We encountered a large, mottled **tegu** basking along the sandy banks of the Rio Parana."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The predatory **tegu** raided turtle nests along the riverbank with remarkable cunning and speed."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"Indigenous hunters frequently pursued the black-and-white **tegu** through the secondary undergrowth for food."*

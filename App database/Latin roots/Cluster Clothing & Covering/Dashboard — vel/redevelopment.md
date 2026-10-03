@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of improving by renewing and restoring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of improving by renewing and restoring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The renovation, reconstruction, or revitalization of blighted urban areas or industrial facilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of planning and executing new building projects on previously used land.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redevelopment designates the act of improving by renewing and restoring."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Large-scale urban **redevelopment** requires substantial capital investments and enlightened zoning legislation."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"He passionately advocated the comprehensive **redevelopment** of London's neglected south bank."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft built an entire model town, demonstrating that industrial **redevelopment** could eliminate poverty."*

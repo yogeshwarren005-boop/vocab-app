@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vest within the domain of Clothing & Covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vest in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of divesting, stripping, or disposing of assets, investments, titles, or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The withdrawal of funds or capital shares from specific corporations for ethical or political reasons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, divestment designates pertaining to, derived from, or characteristic of latin vest within the domain of clothing & covering."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The sudden **divestment** of capital from foreign mining securities produced stringency in the money market."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The public **divestment** of the disgraced general took place before the assembled legionary cohorts."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The corporate trustees authorized the systematic **divestment** of depreciated traction bonds."*

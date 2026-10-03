@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive protection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive protection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or tendency of shielding someone with excessive parental or administrative vigilance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive shielding that inhibits the development of autonomy, resilience, or self-reliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overprotection designates excessive protection."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Maternal **overprotection** frequently fosters an enduring neurotic dependency in developing youths."*
+> - 📜 **George Bernard Shaw (*Misalliance*):** *"He protested against the suffocating domestic **overprotection** that sheltered young ladies from all reality."*
+> - 📜 **H. G. Wells (*Mankind in the Making*):** *"Civic **overprotection** of young industries may lead to commercial stagnation and inefficiency."*

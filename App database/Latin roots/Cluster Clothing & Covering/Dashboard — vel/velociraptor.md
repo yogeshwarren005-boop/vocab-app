@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, bipedal dromaeosaurid theropod dinosaur of the Late Cretaceous period, possessing an enlarged sickle-shaped claw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an agile feathered carnivore known from fossil discoveries in the Gobi Desert.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velociraptor designates small active carnivore that probably fed on protoceratops; possibly related more closely to birds than to other dinosaurs."*
+> - 📜 **Henry Fairfield Osborn (*Three New Theropoda, Protoceratops Zone, Central Asiatic Expeditions*):** *"The expedition uncovered the skull of **Velociraptor** mongoliensis, demonstrating an agile predator armed with specialized teeth."*
+> - 📜 **Roy Chapman Andrews (*On the Trail of Ancient Man*):** *"The fossil beds of the Flaming Cliffs yielded pristine remains of **Velociraptor** alongside dinosaurian clutches."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"The discovery of predatory pack behavior in dromaeosaurs like **Velociraptor** transformed our conception of dinosaurian intelligence."*

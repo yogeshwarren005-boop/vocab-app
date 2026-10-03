@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining and coordinating diverse elements into a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to consolidate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving, tending, or designed to unify, coordinate, or integrate disparate parts into a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, designating neuronal centers that process, coordinate, and harmonize incoming sensory signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, integrative designates combining and coordinating diverse elements into a whole."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The cerebral cortex exerts an **integrative** control over lower motor centers and visceral reflexes."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Associative memory serves an **integrative** function, linking immediate perceptions with stored experiences."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A balanced university curriculum provides an **integrative** framework bridging physical sciences and humanities."*

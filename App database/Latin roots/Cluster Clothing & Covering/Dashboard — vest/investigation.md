@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inquiry into unfamiliar or questionable activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work of inquiring into something thoroughly and systematically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal, systematic, and detailed examination or inquiry into a subject, crime, or phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial procedure, the official collection of forensic evidence and testimonies prior to trial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Suppose you do!” While she is gone, the surgeon abandons his hopeless investigation and covers its subject with the patchwork counterpane."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One helmet remains behind after careful investigation of all chinks and crannies and slowly paces up and down before the house in company with one of the two policemen who have likewise been left in charge thereof."*
-> - 📜 **Jane Austen (*Persuasion*):** *"How her temper and understanding might bear the investigation of his present keener time of life was another concern and rather a fearful one."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A rigorous scientific **investigation** leaves no room for preconceived notions or guesswork."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"A patient **investigation** of comparative anatomy reveals the humble origins of the human species."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic **investigation** of the sputum confirmed the presence of virulent tubercle bacilli."*

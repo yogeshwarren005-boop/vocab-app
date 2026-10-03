@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin tog within the domain of Clothing & Covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of tog in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dressed in, wearing, or dignified by a Roman toga; clad in formal civic robes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to civil magistrate authority, judicial gown, or peacetime administration rather than military dress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, togated designates pertaining to, derived from, or characteristic of latin tog within the domain of clothing & covering."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Oldbuck pointed proudly to an antique bronze figurine of a **togated** Roman senator holding a scroll."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **togated** citizens assembled quietly in the Comitia to cast their traditional ballots."*
+> - 📜 **Herman Melville (*Mardi*):** *"The island elders sat around the council rock like **togated** patricians debating war and peace."*

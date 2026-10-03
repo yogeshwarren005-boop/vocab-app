@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tunicates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tunicates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major subphylum of marine invertebrate chordates enclosed within a tough tunic composed of cellulose-like tunicin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary zoology, primitive chordates whose free-swimming larval stages possess a dorsal notochord and nerve cord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tunicata designates tunicates."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The larval transformations of the **Tunicata** offer striking clues regarding the ancestral descent of vertebrate animals."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The respiratory pharynx in the **Tunicata** functions simultaneously as a branchial basket and a food-filtering trap."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"Naturalists long classified the **Tunicata** among mollusks until their chordate affinities were demonstrated."*

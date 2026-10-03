@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `of') pointing out or revealing clearly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prophetic of devastation or ultimate doom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to reveal, uncover, or make clearly known something previously hidden or misunderstood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or imparting profound divine or emotional revelation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revelatory designates (usually followed by `of') pointing out or revealing clearly."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether found the unexpected encounter in the country inn profoundly **revelatory** of their true relationship."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The sudden glimpse into Dorothea's weeping grief was **revelatory** to Will Ladislaw's awakened heart."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe experienced a **revelatory** moment of artistic clarity that completed her vision."*

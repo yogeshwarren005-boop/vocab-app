@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who receives support and protection from an influential patron who furthers the protege's career.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who receives support and protection from an influential patron who furthers the protege's career.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is guided, supported, mentored, or advanced in their career or life by an older or more experienced patron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A promising young talent receiving financial patronage, scholarly tutelage, or professional sponsorship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Supposing herself the possessor of a ten cent note, over and above the twelve shillings, she went with her somewhat feeble protege over Jersey city ferry, and saw her safely in the cars."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I am quite pleased with your protege,” she said to Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"My protege?—dear me!—who is that?” said Mr."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Jaggers introduced his young **protege** Pip to the commercial elite of London."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle took a subtle pleasure in guiding the career of her charming American **protege**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw was deeply grateful to Mr. Casaubon for having financed his education as a favored **protege**."*

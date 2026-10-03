@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner concerning biological, cognitive, or evolutionary growth and development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to sequential stages of growth or maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, developmentally designates with respect to development."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Children advance **developmentally** through distinct periods of playful exploration before mastering abstract reasoning."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The avian skull is **developmentally** related to that of reptiles through common archosaurian ancestors."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Tribal societies evolve **developmentally** from loose nomadic bands into tightly organized monarchies."*

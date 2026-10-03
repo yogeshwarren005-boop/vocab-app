@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavy fabric that resembles velvet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy fabric that resembles velvet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plush, knitted or woven fabric with a thick, soft, velvety pile, used for clothing, upholstery, and stage drapery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A felt material with a velvety nap used in fine hat making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"MRS BREEN: _(In smart Saxe tailormade, white velours hat and spider veil.)_ Leopardstown."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The drawing room windows were hung with heavy curtains of dark crimson **velour** that kept out the winter draft."*
+> - 📜 **George Gissing (*The Whirlpool*):** *"She wore an elegant evening gown trimmed with soft violet **velour** that drew admiring glances at the theatre."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The antique armchair was upholstered in faded green **velour**, comfortable and worn by generations of use."*

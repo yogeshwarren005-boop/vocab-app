@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An architectural product or work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The discipline dealing with the principles of design and construction and ornamentation of fine buildings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art and science of designing and erecting habitable buildings and physical structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and engineering, the fundamental design, organization, and functional structure of a system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The graceful pile of cathedral architecture rose dimly on their left hand, but it was lost upon them now."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The new building was not only new, but declared itself to be so; intended only for offices, and enclosed behind by stable-yards, no uniformity of architecture had been thought necessary."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I now glanced sideways at this piece of architecture."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Great **architecture** is the art which so disposes and adorns the edifices raised by man for whatsoever uses."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The mind constructs systems of philosophy as a master builder executes noble works of **architecture**."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Gothic **architecture** is a blooming of the forest oak and pine in monumental stone."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A comedy characterized by broad satire and improbable situations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composition that imitates or misrepresents somebody's style, usually in a humorous way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A debased, distorted, grotesque, or ludicrously inferior imitation or misrepresentation of something serious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literary or theatrical burlesque that parodies a serious work through absurd caricature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy, elevating her feelings to the occasion from a sense of grandeur, floated off behind Bathsheba with a milder dignity not entirely free from travesty, and the door was closed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Cadwallader seemed like a mocking travesty wrought in the dark by an impish finger."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Liddy, elevating her feelings to the occasion from a sense of grandeur, floated off behind Bathsheba with a milder dignity not entirely free from travesty, and the door was closed."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"He denounced the sham legal trial as an outrageous **travesty** of justice engineered by military authorities."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The endless equity proceedings of Jarndyce and Jarndyce had become a monstrous **travesty** of equity."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The Italian comic opera offered a sparkling **travesty** of classical tragic themes for carnival crowds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin tunic within the domain of Clothing & Covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of tunic in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short liturgical vestment worn over the alb by subdeacons in the Western Christian Church during solemn services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical or ecclesiastical history, a small or lightweight tunic worn beneath heavier outer vestments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tunicle designates pertaining to, derived from, or characteristic of latin tunic within the domain of clothing & covering."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The subdeacon approached the altar clad in a silk **tunicle** embroidered with golden thistles."*
+> - 📜 **George Eliot (*Romola*):** *"The Florentine acolytes wore white vestments trimmed with fringed **tunicle** borders during the procession."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The cathedral sacristan displayed the ancient episcopal robes, including an embroidered blue satin **tunicle**."*

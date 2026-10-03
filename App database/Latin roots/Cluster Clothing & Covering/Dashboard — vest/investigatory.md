@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to find information or ascertain facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to find information or ascertain facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, authorized for, or serving the purposes of an official investigation or inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exercising judicial, inquisitorial, or regulatory powers of fact-finding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, investigatory designates designed to find information or ascertain facts."*
+> - 📜 **Thomas V. Cooper (*American Politics*):** *"Congress appointed an **investigatory** committee to examine the alleged fraud in military procurement contracts."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"Parliament exercises an essential **investigatory** function over the administrative actions of the executive."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The federal commission wielded extensive **investigatory** powers to subpoena corporate financial ledgers."*

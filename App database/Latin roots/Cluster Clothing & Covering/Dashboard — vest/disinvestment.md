@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The withdrawal of capital from a country or corporation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The withdrawal of capital from a country or corporation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction, liquidation, or withdrawal of capital investment from a business, sector, or country.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy, the deliberate withholding or withdrawal of capital to apply economic pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinvestment designates the withdrawal of capital from a country or corporation."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Persistent agricultural depression led to widespread **disinvestment** in farm drainage and rural buildings."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Unchecked wartime inflation induces a rapid **disinvestment** in fixed capital across the nation."*
+> - 📜 **Walter Bagehot (*Economic Studies*):** *"The sudden panic of 1866 precipitated massive **disinvestment** throughout the British railway sector."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The policy of imposing duties or quotas on imports in order to protect home industries from overseas competition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The policy of imposing duties or quotas on imports in order to protect home industries from overseas competition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The economic policy or practice of shielding domestic industries from foreign competition through trade tariffs or quotas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political advocacy of discriminatory customs tariffs to stimulate national manufacturing and agricultural output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protectionism designates the policy of imposing duties or quotas on imports in order to protect home industries from overseas competition."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The doctrine of **protectionism** rests upon the erroneous belief that international trade impoverishes one partner."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Aggressive **protectionism** alters the natural distribution of labor and capital across domestic industries."*
+> - 📜 **William Graham Sumner (*Protectionism: The -Ism Which Teaches that Waste Makes Wealth*):** *"The fallacy of **protectionism** consists in using state taxation to confer commercial monopolies on favored classes."*

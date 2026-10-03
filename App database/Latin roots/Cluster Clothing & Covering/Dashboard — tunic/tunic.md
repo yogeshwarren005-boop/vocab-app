@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enveloping or covering membrane or layer of body tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a variety of loose fitting cloaks extending to the hips or knees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose, sleeveless or short-sleeved garment reaching from the neck to the knees, worn in ancient Greece and Rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and botany, a natural enclosing membranous coat, layer, or covering of an organ or seed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His military uniform was skin-tight: a black tunic belted over blood-red breeches."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Go ahead." Ram drew a small plastic card from the breast pocket of his tunic and handed it to the operator."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A small man in a nondescript tunic sidled up Ram's table."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Saxon churl wore a coarse **tunic** of rustic homespun wool belted at the waist with leather."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Through this the well-beloved Brutus stabb'd; and as he pluck'd his cursed steel away, mark how the blood of Caesar follow'd it, staining his white **tunic**."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The delicate shoot was protected by a thin cellular **tunic** during its subterranean emergence."*

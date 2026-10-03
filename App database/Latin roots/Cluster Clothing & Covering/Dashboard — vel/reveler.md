@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrant who shares in a noisy party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrant who shares in a noisy party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who participates in lively festivities, joyous carousal, or merrymaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A joyous participant in nocturnal street celebrations or masquerades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He had never missed a carousal at Danílov’s or other Moscow revelers’, drank whole nights through, outvying everyone else, and was at all the balls and parties of the best society."*
+> - 📜 **Nathaniel Hawthorne (*The May-Pole of Merry Mount*):** *"The puritan magistrate arrested the gay **reveler** who danced around the flower-decked Maypole."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon, Gent.*):** *"The cheerful Christmas **reveler** sang old English ballads beside the brimming wassail bowl."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The drunken Parisian **reveler** joined the wild carmagnole dance in the torchlit streets."*

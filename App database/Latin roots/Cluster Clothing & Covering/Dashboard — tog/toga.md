@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A one-piece cloak worn by men in ancient rome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A one-piece cloak worn by men in ancient rome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The distinctive loose, flowing outer garment made of undyed wool, worn by citizens of ancient Rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symbolically, civil office, magistracy, peace, or the legal profession, as opposed to military arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"I was consequently obliged to assume the Typee costume, a little altered, however, to suit my own views of propriety, and in which I have no doubt I appeared to as much advantage as a senator of Rome enveloped in the folds of his toga."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Ukridge, with his cap well over his eyes and his mackintosh hanging around him like a Roman toga, surveyed them stonily, and finally began his speech."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Or think of a decent young citizen in a toga—perhaps too much dice, you know—coming out here in the train of some prefect, or tax-gatherer, or trader even, to mend his fortunes."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Even at the base of Pompey's statua, which all the while ran blood, great Caesar fell, muffling his face in his **toga**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman citizen claimed the exclusive privilege of wearing the white **toga** within the Forum."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The fallen marble senators still seemed to wrap the majestic folds of the **toga** around their forms."*

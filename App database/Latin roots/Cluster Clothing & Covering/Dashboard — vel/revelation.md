@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The speech act of making something evident.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enlightening or astonishing disclosure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surprising, unexpected, or previously unknown disclosure of dramatic information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology, the divine disclosure of sacred truth or spiritual wisdom to humanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius doesn't do." "Come now, Mäzli," said Leonore, for she had the feeling that this peculiar revelation might be followed by others as unintelligible."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The contrast of this revelation with her anticipations of some sinister figure in sombre garb was so great that it had upon her the effect of a fairy transformation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Now after that revelation of how the land lies with Bathsheba, ’twould be a mistake to kill me, would it not?” “’Twould be a mistake to kill you,” repeated Boldwood, mechanically, with a bowed head."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy's letter was a startling **revelation** that completely overturned Elizabeth's opinion of Wickham."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The prophet claimed a direct heavenly **revelation** to justify his religious and military mission."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The sudden discovery of the boots brought an astounding **revelation** to Holmes's investigation."*

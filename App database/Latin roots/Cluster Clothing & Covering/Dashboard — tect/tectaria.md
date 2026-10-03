@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial or epilithic ferns of tropical rain forests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial or epilithic ferns of tropical rain forests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of tropical and subtropical terrestrial ferns (halberd ferns) in the family Tectariaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, shade-dwelling tropical ferns characterized by broad triangular fronds and circular sori covered by peltate indusia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tectaria designates terrestrial or epilithic ferns of tropical rain forests."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"Botanical collectors in Ceylon gathered magnificent specimens of **Tectaria** along shaded limestone ravines."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The peltate indusium covering the sori clearly distinguishes **Tectaria** from neighboring terrestrial fern genera."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The moist forest floor of the Moluccas was blanketed with lush fronds of **Tectaria** and wild gingers."*

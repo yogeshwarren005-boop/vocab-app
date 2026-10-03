@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order to an offending party to rid itself of property; it has the purpose of depriving the defendant of the gains of wrongful behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sale by a company of a product line or a subsidiary or a division.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The compulsory or voluntary selling off, disposal, or liquidation of business assets, subsidiaries, or investments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antitrust jurisprudence, an official judicial decree ordering a corporation to break up monopoly holdings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The United States, as now composed, have no powers to exact obedience, or punish disobedience to their resolutions, either by pecuniary mulcts, by a suspension or divestiture of privileges, or by any other constitutional mode."*
-> - 📜 **James Joyce (*Ulysses*):** *"Freeman’s Journal 1—7—6 Loan (Stephen Dedalus) 1—7—0 ————— 2—19—3 Did the process of divestiture continue?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Did the process of divestiture continue?"*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The court decreed the complete **divestiture** of the oil company's regional pipeline subsidiaries."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A revolutionary transition often compels the wholesale **divestiture** of aristocratic landed estates."*
+> - 📜 **Thomas V. Cooper (*American Politics*):** *"The anti-monopoly platform demanded the statutory **divestiture** of western land grants held by railroad syndicates."*

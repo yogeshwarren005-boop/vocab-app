@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for nakedness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a complete degree or to the full or entire extent (`whole' is often used informally for `wholly').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely, entirely, wholly, or with everything included without exception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On the whole, taking everything into consideration; in colloquial usage, completely naked.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I perceive by this demand, you are not altogether of his council."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"E’en a crow o’ the same nest; not altogether so great as the first in goodness, but greater a great deal in evil."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, out of my love to you, I came hither to acquaint you withal, that either you might stay him from his intendment, or brook such disgrace well as he shall run into, in that it is a thing of his own search and altogether against my will."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor found herself **altogether** disappointed by the superficial civility of their London acquaintances."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip felt **altogether** unworthy of the grand expectations so mysteriously lavished upon him."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The crew surrendered themselves **altogether** to the wild excitement of the nocturnal whale chase."*

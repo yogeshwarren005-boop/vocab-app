@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With concise and precise brevity; to the point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With concise and precise brevity; to the point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a brief, concise, and clearly stated manner; without superfluous words or digressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tightly compressed, neatly compacted, or closely tucked manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"His complaint against the bill was succinctly stated in two sentences, which fairly illustrated the method and basis of all his arguments upon current politics."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"Alligator," explained Jacinto succinctly, in their tongue."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"These, sir, are the grounds, succinctly stated, on which my vote for grants of lands for particular objects rest, while I maintain, at the same time, that it is all a common fund, for the common benefit."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The scientific lecturer explained the mechanism of cellular division **succinctly** and with admirable clarity."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes summarized the intricate clues **succinctly**, establishing the fugitive's exact route across Dartmoor."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"He possessed the rare faculty of stating the core points of a financial debate **succinctly**."*

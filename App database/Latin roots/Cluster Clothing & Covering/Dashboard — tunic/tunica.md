@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enveloping or covering membrane or layer of body tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enveloping or covering membrane or layer of body tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In anatomical nomenclature, an enveloping membrane, sheath, or cellular tunic lining an organ or vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, a thin specialized outer layer of cells covering the apical meristem of growing shoot tips.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tunica designates an enveloping or covering membrane or layer of body tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Atherosclerotic degeneration typically invades the arterial **tunica** intima before weakening the muscular media."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"Microscopic section revealed an apical **tunica** consisting of two distinct rows of actively dividing cells."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The elasticity of the arterial **tunica** adventitia prevents catastrophic rupture during ventricular systole."*

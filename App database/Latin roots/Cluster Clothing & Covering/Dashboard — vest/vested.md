@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with power and authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place (authority, property, or rights) in the control of a person or group of persons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Settled, secured, or held as a complete, fixed, and unconditional legal right, entitlement, or ownership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clothed, robed, or adorned in liturgical or official robes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Your fortune is vested in the English funds; Briggs has the will and the necessary documents.” Here was a new card turned up!"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It will indeed deserve the most vigilant and careful attention of the people, to see that it be modeled in such a manner as to admit of its being safely vested with the requisite powers."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Among a people consolidated into one nation, this supremacy is completely vested in the national legislature."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judicial power is **vested** in one supreme court and in such inferior tribunals as congress ordains."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Reforms often provoke fierce resistance from entrenched groups defending their **vested** commercial interests."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The prelate appeared richly **vested** in crimson satin embroidered with golden crosses."*

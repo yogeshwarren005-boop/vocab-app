@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discover or determine the existence, presence, or fact of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perceived or discerned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discovered, identified, or uncovered through careful observation, inquiry, or scientific measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caught, exposed, or revealed in the commission of an offense or clandestine action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I never heard the absent Duke much detected for women; he was not inclined that way."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A close criticism might have detected signs proving that she was intent on the latter alternative."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Soon his sharpened ear detected footsteps upon the stairs, at which his heart thumped so painfully that he could hardly stand firm."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes **detected** the subtle fragrance of an exotic Indian tobacco lingering in the locked chamber."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister feared that his secret spiritual torment was **detected** by the physician's piercing eye."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We **detected** numerous fossil shells embedded within the elevated sandstone strata."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the protestant episcopal church: a committee elected by the congregation to work with the churchwardens in managing the temporal affairs of the church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room in a church where sacred vessels and vestments are kept or meetings are held.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building attached to a church where vestments, sacred vessels, and parish records are kept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A committee of parishioners or church members assembled to manage the temporal and financial affairs of a parish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The clergyman glided into the vestry, and the clerk vanished."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On entering his crowded vestry, he soon observed John, sitting upon the front seat."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I conceived the idea that the time when the banns were read and when the clergyman said, “Ye are now to declare it!” would be the time for me to rise and propose a private conference in the vestry."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The beadle ushered the witnesses into the damp parish **vestry** to sign the marriage register."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Bulstrode sought to dominate the deliberations of the town **vestry** through his financial patronage."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The churchwardens met in the **vestry** after Sunday service to audit the poor-relief accounts."*

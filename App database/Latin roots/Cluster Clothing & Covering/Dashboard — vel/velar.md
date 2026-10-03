@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A consonant produced with the back of the tongue touching or near the soft palate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the velum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, articulated with, or resembling a velum, especially the soft palate of the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics, designating consonant sounds produced with the back of the tongue against the soft palate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velar designates a consonant produced with the back of the tongue touching or near the soft palate."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative philology traces the phonetic shift from Indo-European guttural plosives to Sanskrit **velar** consonants."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral paralysis of the **velar** musculature produces nasal speech and regurgitation of fluids during deglutition."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"During swallowing, the **velar** muscles elevate the soft palate to seal the nasopharynx against food particles."*

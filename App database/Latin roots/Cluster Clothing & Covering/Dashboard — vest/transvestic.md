@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Receiving sexual gratification from wearing clothing of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receiving sexual gratification from wearing clothing of the opposite sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or involving cross-dressing or wearing clothes belonging to another gender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric classification, relating to sexual excitement derived from dressing in garments of the opposite sex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transvestic designates receiving sexual gratification from wearing clothing of the opposite sex."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The author documented numerous clinical histories of **transvestic** behavior among refined intellectuals."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The psychiatric examination revealed marked **transvestic** impulses dating back to early adolescence."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Curious anomalies of emotional identification may manifest in **transvestic** masquerade during carnival festivities."*

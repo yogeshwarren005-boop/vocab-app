@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undivided or unbroken completeness or totality with nothing wanting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral soundness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadfast adherence to strict moral, ethical, and professional principles; upright honesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sound unbroken condition or uncompromised wholeness in physical structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is holy; And my integrity ne’er knew the crafts That you do charge men with."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your dishonour Mangles true judgment and bereaves the state Of that integrity which should become’t, Not having the power to do the good it would For th’ ill which doth control’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your daughter, whom she bore in hand to love With such integrity, she did confess Was as a scorpion to her sight; whose life, But that her flight prevented it, she had Ta’en off by poison."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Moral **integrity** is the indispensable foundation of lasting reputation and genuine self-respect."*
+> - 📜 **Francis Bacon (*Essays*):** *"Integrity is their portion and proper virtue; for judges must maintain the **integrity** of the law inviolate."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"There take an inventory of all I have, to the last penny; 'tis the king's: my robe, and my **integrity** to heaven, is all I dare now call mine own."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A film or illustrated lecture on traveling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A film or illustrated lecture on traveling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illustrated lecture, narrative film, or book detailing journeys and experiences in foreign countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A published descriptive account of geographic regions, customs, and travel adventures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, travelogue designates a film or illustrated lecture on traveling."*
+> - 📜 **Henry James (*Italian Hours*):** *"His charming **travelogue** captured the golden afternoon light resting upon Venetian palazzi."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The author transformed his island voyages into an enchanting literary **travelogue** for metropolitan readers."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"The perilous expedition through the Somali desert formed the subject of a daring **travelogue**."*

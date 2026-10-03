@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a decomposed state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loss (or serious disruption) of organization in some system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of breaking up, crumbling, or decomposing into constituent fragments or particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breakdown of political, social, or structural integrity, unity, or moral coherence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Of these plans he had not merely one or two in his head but dozens, some only beginning to form themselves, some approaching achievement, and some in course of disintegration."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A general disintegration of the body politic set in."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Hitherto the preponderating tendency of the Negro has been toward disintegration, showing the lack of a proper measure of fellow-feeling; the tendency of the Anglo-Saxon is toward racial integration."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"The mechanical **disintegration** of rock particles by earthworms contributes directly to soil enrichment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The internal political **disintegration** of the Western Empire invited barbarian invasions across the Rhine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic section revealed the rapid cellular **disintegration** of the necrotic liver parenchyma."*

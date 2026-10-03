@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overly protective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overly protective.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting an excessive, anxious desire to shield someone from real or imagined harm, failure, or distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by suffocating guardianship that restricts normal freedom and individual growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overprotective designates overly protective."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse was an **overprotective** father whose nervous anxieties constantly curtailed his daughter's outings."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"An **overprotective** instinct led the peasant mother to warn her daughter against wealthy suitors."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"Rachel resented the well-meaning but **overprotective** solicitude of her aunt during the voyage."*

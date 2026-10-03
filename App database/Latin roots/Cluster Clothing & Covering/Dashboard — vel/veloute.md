@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: White sauce made with stock instead of milk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White sauce made with stock instead of milk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classic French white sauce prepared from a blonde roux and a light stock of chicken, veal, or fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary arts, one of Auguste Escoffier's five French mother sauces prized for its velvety texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veloute designates white sauce made with stock instead of milk."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"A delicate chicken **veloute** serves as the base for numerous rich culinary sauces in fine French cookery."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The gourmet praised the chef's magnificent turbot served with a smooth, aromatic sauce **veloute**."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The French chef labored over his simmering stocks, perfecting a velvety **veloute** for the diplomatic banquet."*

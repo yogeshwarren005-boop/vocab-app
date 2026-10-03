@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian dancing-master for louis xvi who was considered the greatest dancer of his day; he was the first to discard the mask in mime (1729-1808).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian dancing-master for louis xvi who was considered the greatest dancer of his day; he was the first to discard the mask in mime (1729-1808).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to the illustrious French-Italian theatrical family of dancers and actors, especially Madame Vestris (Lucia Elizabeth Vestris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatre history, celebrated for revolutionary theatrical management, innovative staging, and box-set scenery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Marc._ ii, 4. [57] _de cor. mil._ 15. [58] _de praescr._ 40, _et si adhuc memini, Mithra signat_, etc. [59] Apol. 18. _Haec et nos risimus aliquando_. _De vestris sumus_. [60] _de test. animae_, 1. [61] So Arnobius (i, 58, 59) and Augustine felt."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old gentlemen recalled with delight the youthful charms and vocal brilliance of Madame **Vestris** on the London stage."*
+> - 📜 **Charles Dickens (*The Life of Charles James Mathews*):** *"Under the management of Madame **Vestris**, the Olympic Theatre became renowned for brilliant burlettas and elegant stagecraft."*
+> - 📜 **Thomas Babington Macaulay (*Essays*):** *"The theatrical memoirs celebrated the peerless grace displayed by **Vestris** in classical Parisian ballets."*

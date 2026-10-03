@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make an investment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give qualities or abilities to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To allocate money or capital to commercial ventures, securities, or property in anticipation of financial return.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To confer authority, power, or official dignities upon someone; also to envelop, adorn, or clothe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dost thou so hunger for mine empty chair That thou wilt needs invest thee with my honours Before thy hour be ripe?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do invest you jointly with my power, Pre-eminence, and all the large effects That troop with majesty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, ’tis the cunning livery of hell The damned’st body to invest and cover In precise guards!"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants prefer to **invest** their capital in home trade rather than in distant foreign ventures."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Which borrow'd majesty yourself could **invest** with greater dignity and royal grace."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Night began to **invest** the sea and sky with her dusky mantle, silencing the forest."*

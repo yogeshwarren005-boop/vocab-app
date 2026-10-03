@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of normal development to occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of normal development to occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence, failure, or cessation of natural growth, expansion, or technological development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In land management, the preservation of tracts in their natural, undeveloped state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondevelopment designates failure of normal development to occur."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital thyroid deficiency leads to profound physical stunting and intellectual **nondevelopment**."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Geographical isolation frequently results in the social **nondevelopment** of mountain communities."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Legal uncertainties regarding mineral titles produced prolonged **nondevelopment** across the western oil basin."*

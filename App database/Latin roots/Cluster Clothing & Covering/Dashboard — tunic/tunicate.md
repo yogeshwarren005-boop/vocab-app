@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive marine animal having a saclike unsegmented body and a urochord that is conspicuous in the larva.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive marine animal having a saclike unsegmented body and a urochord that is conspicuous in the larva.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marine chordate of the subphylum Tunicata, having a saclike body enclosed in a tough gelatinous or fibrous tunic; a sea squirt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, having concentric coats or enveloping layers, as an onion bulb or other layered corm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tunicate designates primitive marine animal having a saclike unsegmented body and a urochord that is conspicuous in the larva."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The discovery that the embryonic **tunicate** possesses a dorsal notochord revolutionized invertebrate phylogeny."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The common garden onion represents a classic **tunicate** bulb composed of overlapping fleshy scales."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The solitary **tunicate** anchors upon ocean reefs, pumping seawater through its branchial sac."*

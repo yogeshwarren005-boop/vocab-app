@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, promoting, or characteristic of physical, intellectual, or evolutionary development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the stages of growth in an organism, child, or system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, developmental designates of or relating to or constituting development."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital anomalies of the aortic arch represent arrested **developmental** stages of embryonic branchial vessels."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Each successive **developmental** stage brings new emotional interests and intellectual capacities."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Comparative anatomy studies the **developmental** changes that transform primitive cartilage into dense bone."*

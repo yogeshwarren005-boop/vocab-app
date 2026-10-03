@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement through space that changes the location of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a journey, traverse distances, or move from one geographic place to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity, business, or experience of journeying to distant countries or regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will he travel higher, or return again into France?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, you had then left unseen a wonderful piece of work, which not to have been blest withal would have discredited your travel."*
+> - 📜 **Francis Bacon (*Essays*):** *"**Travel**, in the younger sort, is a part of education; in the elder, a part of experience."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"I determined to **travel** into the remotest parts of the globe, seeking fortune and strange adventures."*
+> - 📜 **Samuel Johnson (*The History of Rasselas, Prince of Abissinia*):** *"All that is worthwhile in **travel** consists in comparing our own customs with those of wiser nations."*

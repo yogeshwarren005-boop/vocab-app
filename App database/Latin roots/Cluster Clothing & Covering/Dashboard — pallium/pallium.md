@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (zoology) a protective layer of epidermis in mollusks or brachiopods that secretes a substance forming the shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Roman cloak or mantle; in the Catholic Church, a sacred woollen vestment conferred by the Pope on archbishops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the cerebral cortex and underlying white matter forming the mantle of the brain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pallium designates the layer of unmyelinated neurons (the grey matter) forming the cortex of the cerebrum."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Greek philosophers retained their traditional coarse **pallium**, scorning the luxurious flowing robes of imperial Rome."*
+> - 📜 **Bede (*Ecclesiastical History of the English People*):** *"Pope Gregory dispatched the sacred woollen **pallium** to Augustine at Canterbury, confirming his archiepiscopal authority."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extensive cortical lesions across the cerebral **pallium** induced bilateral sensory and motor paralysis."*

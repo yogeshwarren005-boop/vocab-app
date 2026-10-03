@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of protective affection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of providing protection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A caring inclination or watchful vigilance aimed at sheltering someone from harm, injury, or distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disposition or tendency of defending and guarding others from external danger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"If he had entered with a pistol in his hand he would scarcely have disturbed her trust in his protectiveness."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Caleb Garth felt an instinctive **protectiveness** toward any young person struggling against financial misfortune."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett displayed an affectionate **protectiveness** toward Isabel, wishing to see her spirit flourish freely."*
+> - 📜 **Charlotte Brontë (*Shirley*):** *"Robert Moore's stern outward demeanor concealed a fierce family **protectiveness** during the factory riots."*

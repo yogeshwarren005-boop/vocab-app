@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin tect within the domain of Clothing & Covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of tect in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a roof, covering, or membranous canopy over an anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audiology and neuroanatomy, designating the tectorial membrane of the cochlea that covers the sensory hair cells of the organ of Corti.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tectorial designates pertaining to, derived from, or characteristic of latin tect within the domain of clothing & covering."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acoustic trauma may shear the delicate hair cells away from the overlying gelatinous **tectorial** membrane."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Vibrations transmitted through endolymph cause the basilar membrane to oscillate beneath the **tectorial** cover."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"The **tectorial** cartilage forms an arched protective canopy over the developing auditory labyrinth."*

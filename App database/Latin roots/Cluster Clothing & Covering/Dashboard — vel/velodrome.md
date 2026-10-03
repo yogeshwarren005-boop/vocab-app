@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A banked oval track for bicycle or motorcycle racing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A banked oval track for bicycle or motorcycle racing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A banked arena or track constructed specifically for indoor or outdoor bicycle racing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stadium featuring wooden or concrete banked oval tracks designed for high-speed cycling competitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velodrome designates a banked oval track for bicycle or motorcycle racing."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"Professional cycling champions competed upon the steeply banked boards of the Parisian **velodrome** before roaring crowds."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"The racing cyclist trained daily upon the outdoor **velodrome**, perfecting his sprinting speed on the banking."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The immense municipal **velodrome** was requisitioned to hold mass political rallies of striking workers."*

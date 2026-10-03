@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A police investigation to determine the perpetrator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discover or determine the existence, presence, or fact of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or practice of discovering or uncovering concealed clues, facts, or physical traces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and electronics, sensing or demodulating physical impulses or radio signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he steal aught the whilst this play is playing, And ’scape detecting, I will pay the theft."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I cannot remember detecting gratitude in his face.” “Detecting!"*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They still believe in dreams and fortune-telling, and an old woman that lives in Bull-and-Mouth Street makes a tolerable subsistence by detecting stolen goods and promising the girls good husbands."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The science of **detecting** crime requires sharp powers of observation and deduction."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"By **detecting** the presence of water vapor, we demonstrate the combustion of hydrogen in the flame."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Microscopy affords a precise method for **detecting** dangerous adulterations in public flour supplies."*

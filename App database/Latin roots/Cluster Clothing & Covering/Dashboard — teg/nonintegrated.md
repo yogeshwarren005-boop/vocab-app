@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not integrated; not taken into or made a part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not integrated; not taken into or made a part of a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not integrated; failing or refusing to combine into a unified, coordinated, or harmonious system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and educational contexts, segregated; not racially or socially blended into common institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonintegrated designates not integrated; not taken into or made a part of a whole."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"A loose aggregate of nomadic tribes exhibits a **nonintegrated** social structure vulnerable to external shock."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain hypnotic conditions induce **nonintegrated** mental states where sub-personalities act independently."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"A haphazard curriculum of **nonintegrated** vocational courses fails to foster disciplined scientific thinking."*

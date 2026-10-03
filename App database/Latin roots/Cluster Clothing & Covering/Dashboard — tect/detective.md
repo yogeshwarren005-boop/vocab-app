@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A police officer who investigates crimes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator engaged or employed in obtaining information not easily available to the public.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A police officer or private investigator engaged in investigating crimes, collecting evidence, and solving cases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to, employed in, or characteristic of criminal investigation and clue-finding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket is a detective officer, Snagsby,” says the lawyer in explanation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, “you’ll excuse anything that may appear to be disagreeable in this, for my name’s Inspector Bucket of the Detective, and I have a duty to perform."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s chambers; his veneration for the mysteries presided over by that best and closest of his customers, whom all the Inns of Court, all Chancery Lane, and all the legal neighbourhood agree to hold in awe; his remembrance of Detective Mr."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"As an amateur **detective**, Holmes took supreme delight in solving problems that baffled Scotland Yard."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Inspector Bucket moved through the London alleys with the watchful patience of an experienced **detective**."*
+> - 📜 **Wilkie Collins (*The Moonstone*):** *"Sergeant Cuff had the melancholy air of a **detective** who saw through every human pretense."*

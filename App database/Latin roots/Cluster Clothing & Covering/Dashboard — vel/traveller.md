@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who changes location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who changes location.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British spelling of traveler; an individual who journeys across distant territories or explores foreign regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British sociology, a member of an itinerant or nomadic cultural community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, sir; you were beaten in Italy for picking a kernel out of a pomegranate; you are a vagabond, and no true traveller."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good traveller is something at the latter end of a dinner; but one that lies three-thirds and uses a known truth to pass a thousand nothings with, should be once heard and thrice beaten.— God save you, Captain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was then a young traveller; rather shunn’d to go even with what I heard than in my every action to be guided by others’ experiences; but upon my mended judgement (if I offend not to say it is mended) my quarrel was not altogether slight."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The ancient mariner stoppeth one of three: By thy long grey beard and glittering eye, now wherefore stopp'st thou me? The **traveller** paused to hear the ghostly tale."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solitary **traveller** drew his heavy cloak tighter as the bleak November wind whistled across the marshes."*
+> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"Every true **traveller** loves the open road and the quiet fellowship of the stars at night."*

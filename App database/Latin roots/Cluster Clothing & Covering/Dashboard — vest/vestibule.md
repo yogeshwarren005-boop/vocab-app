@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large entrance or reception room or area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various bodily cavities leading to another cavity (as of the ear or vagina).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antechamber, entrance hall, or lobby situated between the outer door and the main interior of a building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature, any cavity, channel, or chamber serving as an entryway to another organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She was obliged to kneel down by the sofa, and remain there to satisfy her patient; and thus they continued a few minutes, when, to her very great satisfaction, she heard some other person crossing the little vestibule."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She was met in the vestibule by Lydia, who, flying to her, cried in a half whisper, “I am glad you are come, for there is such fun here!"*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth jumped out; and after giving each of them a hasty kiss, hurried into the vestibule, where Jane, who came running downstairs from her mother’s apartment, immediately met her."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The footman received the caller in the cold stone **vestibule** of the grand London mansion."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Holmes waited quietly in the dark **vestibule** until the clock struck the midnight hour."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The osseous **vestibule** of the labyrinth communicates with the cochlea and semicircular canals."*

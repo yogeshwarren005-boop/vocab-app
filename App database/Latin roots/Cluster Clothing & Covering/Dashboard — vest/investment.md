@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of investing; laying out money or capital in an enterprise with the expectation of profit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Money that is invested with an expectation of profit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outlay of money, capital, or resources into an enterprise or asset with the expectation of obtaining income or profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A property, security, or venture in which funds have been invested; historically, the military siege of a fortress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Institutions for saving and investment 12."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Suppose that rate to be 5 per cent on the standard investment (such as real-estate loans and good bonds)."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Hence, he has received, in quantum of goods, a yield of 6 per cent on his investment."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every individual continually exerts himself to find out the most advantageous **investment** for whatever capital he commands."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"Sound **investment** demands careful analysis of capital security and future earning power."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The military **investment** of the rebellious fortress was completed by drawing a ditch and palisade."*

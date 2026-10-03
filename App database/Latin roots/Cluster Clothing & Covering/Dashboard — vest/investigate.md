@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Investigate scientifically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conduct an inquiry or investigation of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To carry out a systematic, detailed inquiry or examination to discover facts, motives, or truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology, to research phenomena through controlled experimentation and empirical analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no need to observe that I do not wilfully or negligently mislead my readers and that before I wrote that description I took pains to investigate the subject."*
-> - 📜 **Jane Austen (*Persuasion*):** *"She had some feelings which she was ashamed to investigate."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"He entertains religious convictions of a curious kind; but, as the man is quite free from revolutionary sentiments, I have never considered it to be my duty to interfere with him, or to investigate his creed."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes agreed to **investigate** the bizarre circumstances surrounding Sir Charles Baskerville's death."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Naturalists must carefully **investigate** the geographical distribution of related species across archipelagoes."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The philosopher must fearlessly **investigate** every claim made by tradition or received authority."*

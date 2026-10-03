@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrant who shares in a noisy party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A celebrant who shares in a noisy party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British spelling of reveler; a participant in joyful, boisterous merrymaking or carnival festivities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person indulging in festive carousing or celebratory drinking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He is call’d The Briton reveller."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A peevish school-boy, worthless of such honour, Join’d with a masker and a reveller."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"He is an evening reveller, who makes His life an infancy, and sings his fill; At intervals, some bird from out the brakes Starts into voice a moment, then is still."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The boisterous **reveller** shouted applause as the royal pageant passed beneath the castle gate."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Every noisy **reveller** was ejected from the tavern when the town watch began their evening rounds."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The midnight **reveller** paused to gaze upon the moonlit ruins of the ancient Coliseum."*

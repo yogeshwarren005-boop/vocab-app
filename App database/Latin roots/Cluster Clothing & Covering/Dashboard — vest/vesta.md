@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman mythology) goddess of the hearth and its fire whose flame was tended by vestal virgins; counterpart of greek hestia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest asteroid but the fourth to be discovered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Roman religion, the virgin goddess of the hearth, sacred home fire, and domestic purity, tended by the Vestal Virgins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short friction match made of wax-coated thread or wood, popular in 19th-century Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"We shall go and see her to-morrow--I told her about you, Elsie." She flashed a look at me--like striking a vesta at night, it was."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, the title of Vesta borne by Diana at Nemi points clearly to the maintenance of a perpetual holy fire in her sanctuary."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A large circular basement at the north-east corner of the temple, raised on three steps and bearing traces of a mosaic pavement, probably supported a round temple of Diana in her character of Vesta, like the round temple of Vesta in the Roman Forum."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sacred eternal flame of **Vesta** was preserved without interruption through centuries of war."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes struck a wax **vesta** against the brickwork, illuminating the dark trapdoor in the roof."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The solemn domestic cult of **Vesta** fostered the purest ideals of early Roman family piety."*

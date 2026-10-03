@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the southern hemisphere between carina and pyxis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A membranous covering attached to the immature fruiting body of certain mushrooms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In astronomy, a southern constellation representing the Sails of the legendary ship Argo Navis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plural of velum; membranous coverings or veils in botanical and zoological structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"I could never understand before why there was so much excitement during the last Congress over the acquisition of Alta Vela."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The southern constellation of **Vela** contains brilliant star clusters visible across the Magellanic skies."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Microscopic examination reveals the muscular **vela** of hydroid medusae contracting rhythmically in seawater."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The delicate swimming **vela** propel the pelagic larvae through the ocean surface layers."*

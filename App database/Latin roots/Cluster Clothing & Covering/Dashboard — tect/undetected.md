@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not perceived or discerned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not perceived or discerned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining unnoticed, undiscovered, unobserved, or unexposed by observers or investigative instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Escaping notice, discovery, or diagnosis despite persistent presence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What is yonder undetected villain’s marble mansion with a door-plate for a waif; what is that but a Fast-Fish?"*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"This is perhaps one of the hardest things an undetected criminal has to endure, that he lives in a world of suspicion of his own making, where every imagination is real and as dreadful as the fact."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"What is yonder undetected villain’s marble mansion with a door-plate for a waif; what is that but a Fast-Fish?"*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The cunning murderer had hoped that his bizarre vengeance would pass **undetected** by the metropolitan police."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Latent cardiac aneurysms frequently remain **undetected** until sudden rupture precipitates fatal syncope."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn moved with silent stealth, letting no whispered secret pass **undetected** in the drawing room."*

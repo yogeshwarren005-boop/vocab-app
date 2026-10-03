@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being detected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily seen or detected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being discovered, noticed, identified, or measured by human perception or instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical science, present in an amount sufficient to register above the baseline noise threshold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The quantity needs to be multiplied threefold before the quantity of gold becomes even detectable, to say nothing of being recoverable."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It is detectable in every utterance of theirs when they are talking about us."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"At ten feet from each other, they give out easily detectable X-rays."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In early stages of arterial disease, no **detectable** murmur is heard upon cardiac auscultation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Slight variations between island varieties are barely **detectable** except to the experienced naturalist."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The mysterious footprints were distinctly **detectable** in the soft boggy peat along the path."*

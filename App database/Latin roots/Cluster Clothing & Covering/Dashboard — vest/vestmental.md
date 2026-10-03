@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a vestment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a vestment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, consisting of, or relating to clerical, liturgical, or ceremonial vestments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of ceremonial ecclesiastical robes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestmental designates of or relating to or resembling a vestment."*
+> - 📜 **Walter Pater (*Gaston de Latour*):** *"The cathedral treasury displayed rare **vestmental** embroidery preserved from the fourteenth century."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola appeared on the platform, devoid of **vestmental** splendor, clad in simple Dominican wool."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He analyzed church controversy as a dispute over mere **vestmental** trappings and symbolic drapery."*

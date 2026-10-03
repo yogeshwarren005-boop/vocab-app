@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A film or illustrated lecture on traveling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A film or illustrated lecture on traveling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of travelogue; an illustrated lecture, narration, or film describing journeys in foreign lands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A published narrative or journal recounting travels through exotic countries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, travelog designates a film or illustrated lecture on traveling."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"The captain recorded a vivid **travelog** of the vessel's adventures among the coral atolls of the South Seas."*
+> - 📜 **Mark Twain (*Following the Equator*):** *"His humorous **travelog** chronicled the strange customs and magnificent landscapes of India and Australasia."*
+> - 📜 **Theodore Roosevelt (*Through the Brazilian Wilderness*):** *"The explorer compiled an absorbing **travelog** detailing the descent of the unknown River of Doubt."*

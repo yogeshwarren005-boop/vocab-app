@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away possessions from someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprive of status or authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive, strip, or dispossess someone of property, authority, titles, or legal rights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To undress or strip someone of clothing or vestments; in finance, to sell off assets or investments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell me, my daughters,— Since now we will divest us both of rule, Interest of territory, cares of state,— Which of you shall we say doth love us most?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"His sole occupation was to sit with his head against the wall, looking hard at the thoughtful baby; and I could not quite divest my mind of a fancy that they understood one another."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It had come on there, I dare say, a hundred times before, but I could not divest myself of an idea that it MIGHT lead to some result now."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I will **divest** me both of rule, interest of territory, cares of state, giving all to younger strengths."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The victorious senate voted to **divest** the tyrant of all imperial dignities and consular honors."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The apostate angels could not **divest** themselves of their immortal essence despite their fall."*

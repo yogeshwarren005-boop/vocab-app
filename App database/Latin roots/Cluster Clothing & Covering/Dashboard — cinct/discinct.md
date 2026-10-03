@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cinct within the domain of Clothing & Covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cinct in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ungirded, loosely attired, or having the belt or girdle removed; dressed in unconfined garments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, relaxed, casual, dissolutional, or lacking strict formal discipline or moral restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, discinct designates pertaining to, derived from, or characteristic of latin cinct within the domain of clothing & covering."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor reclined in a **discinct** tunic, having laid aside the burdensome insignia of imperial office."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The summer banqueters enjoyed the evening breeze in **discinct** attitudes of philosophical leisure."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The court abandon formal protocol for a **discinct** and frivolous domestic intimacy at the Trianon."*

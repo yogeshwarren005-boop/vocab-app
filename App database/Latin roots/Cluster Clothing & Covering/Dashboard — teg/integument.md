@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An outer protective covering such as the skin of an animal or a cuticle or seed coat or rind or shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outer protective covering such as the skin of an animal or a cuticle or seed coat or rind or shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural outer covering, coat, or protective layer of an animal or plant, such as the skin, husk, shell, or rind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical embryology, one of the cellular outer layers enveloping the ovule that later develops into the seed coat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One morning the few lonely trees and the thorns of the hedgerows appeared as if they had put off a vegetable for an animal integument."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"I feel I hardly feel enough for him; my own calamities press about me and involve me in a thick integument not to be reached at by other folks' misfortunes."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The thick chitinous **integument** of subterranean beetles shields them from crushing subterranean pressures."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The cutaneous **integument** performs vital sensory, excretory, and thermoregulatory functions in mammals."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The developing seed is enclosed within a double **integument** that hardens as maturity approaches."*

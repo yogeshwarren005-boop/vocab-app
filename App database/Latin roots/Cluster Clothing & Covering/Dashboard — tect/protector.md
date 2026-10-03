@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cares for persons or property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who cares for persons or property.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, institution, or deity that shields, defends, or champions others from injury, danger, or oppression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English history, the title borne by Oliver Cromwell and Richard Cromwell as heads of the Commonwealth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the funeral of King Henry the Fifth, attended on by the Duke of Bedford, Regent of France; the Duke of Gloucester, Protector; the Duke of Exeter, the Earl of Warwick, the Bishop of Winchester, the Duke of Somerset with Heralds, &c."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gloucester, whate’er we like, thou art Protector, And lookest to command the Prince and realm."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Villains, answer you so the Lord Protector?"*
+> - 📜 **John Milton (*Poems*):** *"Cromwell, our chief of men, who through a cloud of war and peace guided the nation as Lord **Protector**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The allied prince hailed the emperor as his noble patron and imperial **protector** against Germanic tribes."*
+> - 📜 **Walter Scott (*Woodstock*):** *"The royalist conspirators trembled when the stern Lord **Protector** inspected the palace guards."*

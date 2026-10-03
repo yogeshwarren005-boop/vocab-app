@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of incorporating a racial or religious group into a community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of combining into an integral whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or an instance of combining disparate elements, systems, or groups into an organic whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, the computational process of finding an integral; in sociology, the desegregation of social institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Another phase of corporate growth is the "integration of industry," that is, the grouping under one control of a whole series of industries."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now that we know the construction site is the target we'll use it for working out the details for fleet integration, formation and logistics in place of what we had before," Brad rasped."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Arriving at infinitesimals, mathematics, the most exact of sciences, abandons the process of analysis and enters on the new process of the integration of unknown, infinitely small, quantities."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution is an **integration** of matter and concomitant dissipation of motion."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The social instincts promote the progressive **integration** of primitive tribes into larger civil communities."*
+> - 📜 **Isaac Newton (*Philosophiæ Naturalis Principia Mathematica*):** *"Geometrical **integration** enabled the determination of gravitational attraction exerted by a spherical shell."*

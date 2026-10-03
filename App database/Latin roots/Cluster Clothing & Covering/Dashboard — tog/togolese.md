@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of togo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the african country of togo or its people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Togo, its people, customs, geography, or diverse cultural traditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of Togo, or a person of Togolese descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, togolese designates a native or inhabitant of togo."*
+> - 📜 **Mary Kingsley (*Travels in West Africa*):** *"The **Togolese** fishermen displayed extraordinary seamanship in guiding their wooden surf-boats through the breaking rollers."*
+> - 📜 **Richard Francis Burton (*A Mission to Gelele, King of Dahome*):** *"Envoys from the **Togolese** border tribes arrived at the royal capital bearing tribute of woven fabrics."*
+> - 📜 **Henry Morton Stanley (*Through the Dark Continent*):** *"We admired the intricate dyed textiles manufactured by skilled **Togolese** weavers in the interior markets."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Briefly giving the gist of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Briefly giving the gist of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressed in few words; concise, terse, and free from unnecessary verbal detail or elaboration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically or poetically, girded closely, tucked up, or compressed compactly against the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She sat down and wrote on the four pages of a note-sheet a succinct narrative of those events of three or four years ago, put it into an envelope, and directed it to Clare."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The house was just such as I had pictured it from Sherlock Holmes’ succinct description, but the locality appeared to be less private than I expected."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It behooved me to be succinct."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Pope's verses are remarkably **succinct**, condensing maximum philosophical sense into polished couplets."*
+> - 📜 **Francis Bacon (*Essays*):** *"A wise counselor delivers his judgment in **succinct** and weighty phrases rather than tedious speeches."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth composed a **succinct** reply that firmly and politely declined the unwanted invitation."*

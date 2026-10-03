@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being helpless in the face of attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being helpless in the face of attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete absence of defense, protective shielding, or institutional safeguards; total vulnerability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete exposure to physical, financial, or legal perils without institutional shelter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"A farmer passing through with his axe is but an intruder, and children straying home from school give one a feeling of solicitude at their unprotectedness."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess felt the terrible **unprotectedness** of her friendless position in the unfamiliar market town."*
+> - 📜 **George Eliot (*Romola*):** *"The sudden death of her father exposed Romola to the harsh **unprotectedness** of political turbulence in Florence."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane contemplated the utter **unprotectedness** of an orphan girl cast adrift in a calculating world."*

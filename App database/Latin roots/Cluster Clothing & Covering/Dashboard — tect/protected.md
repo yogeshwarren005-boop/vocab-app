@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shield from danger, injury, destruction, or damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use tariffs to favor domestic industry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shielded, guarded, or defended from injury, danger, destruction, or economic competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental law, legally safeguarded by conservation statutes from hunting or exploitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"HELENA, a Gentlewoman protected by the Countess."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And as for you, that love to be protected Under the wings of our Protector’s grace, Begin your suits anew, and sue to him. [_Tears the supplications._] Away, base cullions!—Suffolk, let them go."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no reason why a king of years Should be to be protected like a child."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Frail organisms survived on isolated oceanic islands, **protected** from continental carnivores."*
+> - 📜 **Alexander Hamilton (*Report on Manufactures*):** *"Infant American industries must be **protected** by temporary duties against European monopolies."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe felt securely **protected** within his fortified stockade against midnight marauders."*

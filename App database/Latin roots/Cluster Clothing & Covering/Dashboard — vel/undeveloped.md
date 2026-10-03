@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not developed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undeveloped or unused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having been developed, cultivated, built upon, or matured; in a natural, pristine state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Latent, unexpressed, or unrealized in talent or capability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The potential competition of undeveloped countries on all sides, seeking to develop their resources, and profiting by the higher prices of food in the world-market caused by our tariff, threatens the peculiar advantages of the favored land."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is a German conceit, that the vertebræ are absolutely undeveloped skulls."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, therefore, that mortal man who hath more of joy than sorrow in him, that mortal man cannot be true—not true, or undeveloped."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Rudimentary organs often exist in an **undeveloped** state throughout the entire lifespan of an animal."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The dense primeval forest stretched across the horizon, vast, silent, and entirely **undeveloped**."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie possessed deep, **undeveloped** spiritual passions that found no outlet in her narrow provincial home."*

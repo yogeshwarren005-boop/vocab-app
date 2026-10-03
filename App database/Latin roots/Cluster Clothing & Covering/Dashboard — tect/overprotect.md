@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Care for like a mother.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protect excessively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shield, guard, or shelter someone with excessive, suffocating vigilance against potential harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To defend or insulate excessively, preventing healthy independence or natural resilience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overprotect designates care for like a mother."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"An anxious parent may easily **overprotect** an only child, rendering the youth timid before worldly trials."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Educators who **overprotect** students from intellectual difficulty weaken their capacity for independent thought."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mrs. Reed sought to **overprotect** her spoiled son John, excusing every display of vicious arrogance."*

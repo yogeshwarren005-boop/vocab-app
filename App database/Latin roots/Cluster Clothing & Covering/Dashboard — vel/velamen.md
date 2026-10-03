@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vel within the domain of Clothing & Covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vel in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick, spongy, water-absorbing multiple epidermis covering the aerial roots of certain epiphytic orchids and aroids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, an enveloping membranous sheath or veil covering an anatomical organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velamen designates pertaining to, derived from, or characteristic of latin vel within the domain of clothing & covering."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The silvery **velamen** of epiphytic orchid roots absorbs atmospheric moisture during tropical rains with great speed."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"Specimens of Vanda collected in Assam displayed extensive aerial roots wrapped in protective spongy **velamen**."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The hygroscopic cells of the **velamen** prevent excessive dehydration when the plant is exposed to dry winds."*

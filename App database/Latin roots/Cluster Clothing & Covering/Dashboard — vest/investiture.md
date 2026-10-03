@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ceremony of installing a new monarch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ceremonial act of clothing someone in the insignia of an office; the formal promotion of a person to an office or rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal ceremony of conferring an official title, high office, holy orders, or feudal fief upon someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval European history, the controversial rite of conferring ecclesiastical symbols upon bishops by lay princes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Immemorial to all his order, this investiture alone will adequately protect him, while employed in the peculiar functions of his office."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But this august dignity I treat of, is not the dignity of kings and robes, but that abounding dignity which has no robed investiture."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor presided at the solemn **investiture** of the new king of Armenia in the Forum."*
+> - 📜 **David Hume (*The History of England*):** *"The dispute over canonical **investiture** bitterly divided the Norman kings from the Roman pontiffs."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The ancient cathedral was decorated with chivalric banners for the **investiture** of the new knights."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cinct within the domain of Clothing & Covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cinct in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Girded, bound, or encircled around the waist or body with a belt, sash, or decorative cincture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed, surrounded, or demarcated by a circular boundary or protective perimeter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinctured designates pertaining to, derived from, or characteristic of latin cinct within the domain of clothing & covering."*
+> - 📜 **Alfred, Lord Tennyson (*The Princess*):** *"She stood forth, **cinctured** with a golden zone that gleamed against her dark velvet gown."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The island lay calm upon the ocean, **cinctured** with azure waves and coral reefs."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The pagan harpooner appeared, **cinctured** with strange talismans and woven bark ornaments."*

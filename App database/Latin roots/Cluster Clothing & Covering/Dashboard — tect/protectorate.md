@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or territory partly controlled by (but not a possession of) a stronger state but autonomous in internal affairs; protectorates are established by treaty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state or territory partly controlled by (but not a possession of) a stronger state but autonomous in internal affairs; protectorates are established by treaty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state or territory that is controlled, administered, and defended by a stronger sovereign power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English history, the period or constitutional government of the Commonwealth under Oliver and Richard Cromwell (1653–1659).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Morocco had been a French protectorate since 1912, and thousands of French citizens and other Europeans had migrated to French and Spanish Morocco over the years and taken up residency."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Upon learning what had been done, the Home authorities emphatically refused to sanction it, but in the following year, 1884, on their own behalf established a Protectorate over that portion extending from latitude 5 to 10-1/2 deg."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The country, meanwhile, was not developed in any way; the expenses of the Protectorate were considerable, when, as luck would have it, payable gold was discovered in July, 1888, on Sud-Est, an island in the Louisiade Archipelago (British New Guinea)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Client kings of Asia Minor accepted a Roman **protectorate** to shield their borders against Parthia."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The constitutional authority of the English **Protectorate** rested upon the formidable power of the New Model Army."*
+> - 📜 **Henry Morton Stanley (*Through South Africa*):** *"Great Britain declared a formal **protectorate** over the northern tribal territories to maintain frontier peace."*

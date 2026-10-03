@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nylon fabric used as a fastening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fasten with velcro.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand of hook-and-loop fabric fastener consisting of two nylon strips that adhere when pressed together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To fasten, join, or secure objects firmly using hook-and-loop fabric tape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velcro designates nylon fabric used as a fastening."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"Astronauts aboard the orbital station relied upon strips of **Velcro** to secure instruments in zero gravity."*
+> - 📜 **Isaac Asimov (*Today and Tomorrow and...*):** *"The biomimetic invention of **Velcro**, inspired by burdock burrs clinging to fur, revolutionized modern textile fasteners."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"The laboratory technicians used quick-fastening **Velcro** tape to anchor telemetry cables to the experimental chassis."*

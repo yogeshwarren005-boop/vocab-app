@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not traveled over or through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not traveled over or through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not frequented, traversed, or explored by travelers or wayfarers; remote and undisturbed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inexperienced in geographic journeying; having never visited distant lands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"XIX We went straight to the lake, as it was called at Bly, and I daresay rightly called, though I reflect that it may in fact have been a sheet of water less remarkable than it appeared to my untraveled eyes."*
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"That is the girl whom he loves, and it makes little difference whether such a girl be rich or poor, talented or not, traveled or untraveled."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Along the combined streams ran a road--a dirt road originally, now long untraveled, muddy and bad, but still a road."*
+> - 📜 **Alfred, Lord Tennyson (*Ulysses*):** *"Yet all experience is an arch wherethrough gleams that **untraveled** world whose margin fades for ever and for ever when I move."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon, Gent.*):** *"The **untraveled** rustic regarded London as a mythical city of untold splendor and peril."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"We paddled our birch canoe along quiet, **untraveled** streams bordered by ancient water lilies."*

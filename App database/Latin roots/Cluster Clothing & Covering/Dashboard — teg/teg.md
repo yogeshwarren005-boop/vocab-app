@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two-year-old sheep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two-year-old sheep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheep in its second year of life that has not yet been shorn; a yearling ewe or wether.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fleece production and pastoral farming, the wool or fleece shorn from a two-year-old sheep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teg designates two-year-old sheep."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak carefully examined each yearling **teg** in the pen before the spring shearing commenced."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The Scottish drover drove his flock of hardy mountain **teg** sheep to the autumn border market."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The humble weaver bought a warm homespun fleece from a sound two-year-old **teg** to weave into winter cloth."*

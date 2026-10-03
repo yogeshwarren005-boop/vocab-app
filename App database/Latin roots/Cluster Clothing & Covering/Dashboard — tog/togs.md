@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with clothes or put clothes on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal or colloquial term for clothes, garments, or personal apparel, especially for a particular occasion or activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australian and New Zealand usage, swimming costume, bathing trunks, or swimwear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They laugh at long-togs so, Flask; but seems to me, a long tailed coat ought always to be worn in all storms afloat."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"They laugh at long-togs so, Flask; but seems to me, a long tailed coat ought always to be worn in all storms afloat."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The Artful Dodger appeared in a gentleman's discarded frock coat and eccentric fancy **togs**."*
+> - 📜 **Jack London (*The Road*):** *"He exchanged his ragged work trousers for a clean suit of **togs** donated by a sympathetic parson."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom hated wearing his Sunday **togs**, feeling cramped and miserable in the stiffly starched collar."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not traveled over or through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not traveled over or through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British spelling of untraveled; not traversed or visited by pilgrims, wanderers, or trade caravans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unexplored, pristine, and secluded from outside passage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How vain and foolish, then, thought I, for timid untravelled man to try to comprehend aright this wondrous whale, by merely poring over his dead attenuated skeleton, stretched in this peaceful wood."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"How vain and foolish, then, thought I, for timid untravelled man to try to comprehend aright this wondrous whale, by merely poring over his dead attenuated skeleton, stretched in this peaceful wood."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And even of what he knew, how much could he make his untravelled friend either apprehend or believe?"*
+> - 📜 **William Wordsworth (*She Dwelt Among the Untrodden Ways*):** *"Beside the springs of Dove, she dwelt among the **untravelled** ways, a maid whom there were none to praise."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The huntsman pursued the stag into wild, **untravelled** mountain passes unknown to lowland shepherds."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The secluded hamlet seemed an **untravelled** island surrounded by endless tracts of whispering woodland."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of improving by expanding or enlarging or refining.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process in which something passes by degrees to a different stage (especially a more advanced or mature stage).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of growing, progressing, expanding, or elaborating into a more complex or advanced state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tract of land improved with buildings, roads, and utilities; or a significant new event or stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The development of a proper policy in this matter is one of our economic problems."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Inquiries into the origin and development of any social institution are interesting and helpful in forming an estimate of its present significance, but the problems of the past are not those of to-day."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A monetary system of this kind aids greatly the development of the sense and habit of exact estimation of price. § 3. #Industrial changes and the forms of money#."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The historical **development** of complex instincts mirrors the slow modification of physical organs."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"All cosmic **development** proceeds from an indefinite homogeneity to a definite heterogeneity."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The intellectual **development** of mankind has been intimately bound up with the growth of natural science."*

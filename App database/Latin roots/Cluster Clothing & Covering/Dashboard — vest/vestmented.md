@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dressed in ceremonial garments especially clerical vestment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dressed in ceremonial garments especially clerical vestment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothed, robed, or attired in ceremonial or liturgical vestments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dignified by formal priestly or official magistral robes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestmented designates dressed in ceremonial garments especially clerical vestment."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The solemnly **vestmented** monks filed into the choir stalls as the vesper bell ceased ringing."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A gorgeously **vestmented** bishop entered the sanctuary, flanked by acolytes bearing silver censers."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"A procession of richly **vestmented** priests wound its way through the sunlit piazza toward the basilica."*

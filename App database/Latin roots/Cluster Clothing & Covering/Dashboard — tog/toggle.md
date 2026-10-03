@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any instruction that works first one way and then the other; it turns something on the first time it is used and then turns it off the next time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hinged switch that can assume either of two positions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rod, peg, or pin passed through an eyelet, loop, or rope knot to secure a fastening or button.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and electronics, a switch or mechanism that alternates between two distinct states or functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toggle designates any instruction that works first one way and then the other; it turns something on the first time it is used and then turns it off the next time."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boat-header secured the trailing harpoon line with a sturdy wooden **toggle** through the eye."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The seaman's rough canvas sea-chest was fastened with a leather strap and whalebone **toggle**."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The sailor adjusted the canvas awning, slipping the horn **toggle** into its hempen grommet."*

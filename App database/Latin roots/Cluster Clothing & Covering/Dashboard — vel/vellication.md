@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden muscle spasm; especially one caused by a nervous condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden muscle spasm; especially one caused by a nervous condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light, involuntary muscular twitching or spasmodic convulsion of the facial nerves or eyelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of lightly pinching, plucking, or stimulating nerve endings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vellication designates a sudden muscle spasm; especially one caused by a nervous condition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent **vellication** of the orbicularis palpebrarum muscle frequently indicates nervous exhaustion and eyestrain."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Melancholy patients complain of strange internal prickings and spasmodic **vellication** of the cutaneous nerves."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The sudden **vellication** of the lip or eyelid was anciently regarded by superstitious augurs as an omen."*

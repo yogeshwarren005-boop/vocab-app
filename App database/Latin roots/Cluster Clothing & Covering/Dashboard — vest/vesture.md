@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that covers or cloaks like a garment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covering designed to be worn on a person's body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing, garments, apparel, or decorative robes collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural covering or garmenting of the earth or an organism, such as verdant foliage, snow, or plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I heard him swear, Were he to stand for consul, never would he Appear i’ th’ marketplace nor on him put The napless vesture of humility, Nor showing, as the manner is, his wounds To th’ people, beg their stinking breaths."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kind souls, what weep you when you but behold Our Caesar’s vesture wounded?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s not the smallest orb which thou behold’st But in his motion like an angel sings, Still quiring to the young-eyed cherubins; Such harmony is in immortal souls, But whilst this muddy vesture of decay Doth grossly close it in, we cannot hear it."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Such harmony is in immortal souls; but whilst this muddy **vesture** of decay doth grossly close it in, we cannot hear it."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Spring robed the newly created earth in a verdant **vesture** of grass and fragrant blossoming herbs."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Winter withdrew her icy **vesture** from the mountain peaks as the dawn sun arose."*

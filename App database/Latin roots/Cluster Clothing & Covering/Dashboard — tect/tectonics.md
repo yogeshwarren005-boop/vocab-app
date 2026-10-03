@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of architecture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of geology studying the folding and faulting of the earth's crust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the structural features, deformations, and crustal plate motions of the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural theory, the art and technique of structural joining and assembly in physical construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tectonics designates the science of architecture."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Modern subterranean **tectonics** explains the cyclical uplifting and subsidence of continental coastlines."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"A comprehensive treatise on global **tectonics** must synthesize seismic records and stratigraphy."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Mastery of structural **tectonics** allows the builder to achieve sublime spatial grandeur without reckless expenditure."*

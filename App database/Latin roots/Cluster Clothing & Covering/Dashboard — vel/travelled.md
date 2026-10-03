@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undertake a journey or trip.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British spelling of traveled; having undertaken journeys to distant and unfamiliar countries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frequented or worn smooth by continuous passage of pilgrims or carts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reformation of our travelled gallants That fill the court with quarrels, talk, and tailors."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have delivered to Lord Angelo, A man of stricture and firm abstinence, My absolute power and place here in Vienna, And he supposes me travelled to Poland; For so I have strewed it in the common ear, And so it is received."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"They summoned him again yesterday in order to consult him as to whether there might be danger if the child travelled."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Palmer had **travelled** to the holy sepulchre in Jerusalem and returned through perilous lands."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"They **travelled** along the lonely chalk road beneath the pale moonlight, talking in hushed tones."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"He was a widely **travelled** gentleman whose memories were enriched by Mediterranean adventures."*

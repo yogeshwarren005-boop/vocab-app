@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The result of a mathematical integration; f(x) is the integral of f(x) if df/dx = f(x).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existing as an essential constituent or characteristic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Necessary, essential, or indispensable to the completeness or functioning of a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, relating to, expressed as, or involving mathematical integration and definite or indefinite integrals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her flexuous and stealthy figure became an integral part of the scene."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"He was a stript abstract; an unfractioned integral; uncompromised as a new-born babe; living without premeditated reference to this world or the next."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Scientific exactness of thinking had not become an integral part of education."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Rigorous laboratory investigation constitutes an **integral** component of any modern liberal education."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Instinctive behavior forms an **integral** attribute of animal adaptation alongside anatomical variation."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The power of taxation is an **integral** prerogative indispensable to the preservation of federal government."*

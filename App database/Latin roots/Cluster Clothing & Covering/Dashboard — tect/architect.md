@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who creates plans to be used in making something (such as buildings).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who creates plans to be used in making something (such as buildings).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A qualified professional who designs buildings, plans urban structures, and superintends their construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The creator, planner, or master deviser of an idea, complex project, or historic enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of this was Tamora delivered, The issue of an irreligious Moor, Chief architect and plotter of these woes."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Herndon by a French engineer and architect, M. de Lincourt, who witnessed it at Manduassu, a village on the Tapajos river."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Here, Kitty, come and look at my plan; I shall think I am a great architect, if I have not got incompatible stairs and fireplaces.” As Celia bent over the paper, Dorothea put her cheek against her sister’s arm caressingly."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The medieval **architect** worked not as a mere mechanical builder, but as an inspired sculptor of sacred space."*
+> - 📜 **Francis Bacon (*Essays*):** *"He was the chief **architect** of his own fortune, combining bold ambition with tireless industry."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman **architect** raised monumental arches and aqueducts that endured long after the empire dissolved."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic term for clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic term for clothing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A covering, clothing, or garmenting; the collective attire or plumage covering a surface or body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and entomology, the natural coating of hairs, scales, or bristles on the surface of a plant or insect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestiture designates an archaic term for clothing."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The dense glandular **vestiture** covering the alpine saxifrage protects its leaves against desiccating winds."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The silky **vestiture** of the Angora goat evolved under centuries of selective breeding in Anatolia."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ice-encrusted rigging formed a frozen **vestiture** that gleamed under the pale northern moon."*

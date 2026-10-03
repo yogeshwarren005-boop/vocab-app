@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of honduras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of honduras.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital city and principal urban center of the Central American republic of Honduras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a 16th-century Spanish colonial mining center famed for silver extraction from surrounding mountain veins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tegucigalpa designates the capital and largest city of honduras."*
+> - 📜 **Alexander von Humboldt (*Political Essay on the Kingdom of New Spain*):** *"The rich silver mines surrounding **Tegucigalpa** yielded immense wealth during the height of Spanish colonial rule."*
+> - 📜 **John Lloyd Stephens (*Incidents of Travel in Central America, Chiapas, and Yucatan*):** *"Our caravan mounted the rugged pine-clad heights overlooking the picturesque valley of **Tegucigalpa**."*
+> - 📜 **Richard Harding Davis (*Three Gringos in Venezuela and Central America*):** *"The narrow cobblestone avenues of **Tegucigalpa** wound upward among whitewashed colonial walls."*

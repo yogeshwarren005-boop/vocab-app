@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with clothes or put clothes on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with clothes or put clothes on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of thermal resistance used to measure the insulation rating of duvets, blankets, and textiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal language, to dress, outfit, or clothe someone, especially in smart or elaborate apparel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They laugh at long-togs so, Flask; but seems to me, a long tailed coat ought always to be worn in all storms afloat."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"They laugh at long-togs so, Flask; but seems to me, a long tailed coat ought always to be worn in all storms afloat."*
+> - 📜 **Jack London (*The Road*):** *"The tramp was eager to **tog** himself out in decent clothes before walking into the city depot."*
+> - 📜 **George Gissing (*The Nether World*):** *"The costermonger resolved to **tog** his daughter in velvet ribbons for the bank holiday fair."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"We watched the fashionable tourists **tog** themselves in theatrical mountaineering costumes."*

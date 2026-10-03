@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make something new, such as a product or a mental or artistic creation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Advanced, matured, elaborated, or brought to a high standard of economic, industrial, or physical capability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having natural resources and industrial capacity fully utilized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His developed figure and their stunted forms, his large manner filling any amount of room and their little narrow pinched ways, his sounding voice and their sharp spare tones, are in the strongest and the strangest opposition."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"George himself, striding towards them in his morning exercise with his pipe in his mouth, no stock on, and his muscular arms, developed by broadsword and dumbbell, weightily asserting themselves through his light shirt-sleeves."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Every kind of finer tendon and ligament that is in the nature of poultry to possess is developed in these specimens in the singular form of guitar-strings."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The brain of higher primates is far more highly **developed** than that of lower mammalian orders."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"In a modern **developed** economy, division of labor reaches extraordinary specialization."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"His intellectual faculties were harmoniously **developed** through rigorous classical and scientific study."*

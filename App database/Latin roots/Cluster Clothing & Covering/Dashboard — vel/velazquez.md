@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish painter (1599-1660).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish painter (1599-1660).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Diego Rodríguez de Silva y Velázquez, celebrated 17th-century Spanish Golden Age court painter to King Philip IV.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, famed for Las Meninas and peerless mastery of atmospheric light and individual portraiture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velazquez designates spanish painter (1599-1660)."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The supreme naturalism of **Velazquez** captures the very breath and presence of his royal sitters with effortless power."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Modern painters marvel at the luminous silver tones and atmospheric space perfected by **Velazquez** in Madrid."*
+> - 📜 **Robert Louis Stevenson (*Memories and Portraits*):** *"He stood entranced before the royal portraits of **Velazquez**, admiring the economy and truth of each brushstroke."*

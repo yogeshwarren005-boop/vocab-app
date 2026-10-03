@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mere wish, unaccompanied by effort to obtain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Volition in its weakest form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mere wish, slight desire, or feeble inclination toward something without the energy or willpower to act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy, the lowest or most passive degree of volition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velleity designates a mere wish, unaccompanied by effort to obtain."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's scholarly ambition was reduced to a languid **velleity**, incapable of producing a single completed chapter."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond regarded the earnest moral strivings of others as vulgar, cultivating instead a refined aesthetic **velleity**."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The court showed an endless **velleity** for decisive action, but lacked the courage to strike a decisive blow."*

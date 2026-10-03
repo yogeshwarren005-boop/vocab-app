@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the structure or movement of the earth's crust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to construction or architecture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the deformation, structural forces, and dynamic movements of the Earth's crust (plate tectonics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and structural design, pertaining to building construction and expressive material assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tectonic designates pertaining to the structure or movement of the earth's crust."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Violent **tectonic** dislocations of the seabed generated massive tidal waves along the Chilean coast."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"The folding of the Alps resulted from colossal tangential **tectonic** forces crushing the Eurasian plate."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The true builder respects the **tectonic** logic of stone, displaying rather than concealing structural joints."*

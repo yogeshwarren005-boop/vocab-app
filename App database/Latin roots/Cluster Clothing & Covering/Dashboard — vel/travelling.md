@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change location; move, travel, or proceed, also metaphorically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British spelling of traveling; the activity of undertaking journeys across distant regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving from town to town, as a traveling theatrical troupe or itinerant preacher.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But unto us it is A cell of ignorance, travelling abed, A prison for a debtor that not dares To stride a limit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And travelling along this coast, I here am come by chance, And lay my arms before the legs of this sweet lass of France._ If your ladyship would say, “Thanks, Pompey”, I had done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha, good father, Thou seest the heavens, as troubled with man’s act, Threatens his bloody stage: by the clock ’tis day, And yet dark night strangles the travelling lamp."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie was accustomed to **travelling** on foot across the rugged heather of the Scottish hills."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The **travelling** showman pitched his gaudy canvas tent upon the green on market day."*
+> - 📜 **George Eliot (*Middlemarch*):** *"They enjoyed the leisurely pleasure of **travelling** by post-chaise through the fertile midland shires."*

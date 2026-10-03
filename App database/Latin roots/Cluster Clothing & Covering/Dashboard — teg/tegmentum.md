@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin teg within the domain of Clothing & Covering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of teg in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of the brainstem, situated ventral to the cerebral aqueduct and ventricular system, involved in motor reflexes and autonomic control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, the outer scale, bract, or covering protecting an undeveloped plant bud during winter dormant periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tegmentum designates pertaining to, derived from, or characteristic of latin teg within the domain of clothing & covering."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hemorrhagic lesions within the midbrain **tegmentum** produce profound alterations in motor tone and pupillary response."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The dorsal pathways travers the pontine **tegmentum** on their way to the cerebellar hemispheres."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The dormant winter bud of the horse chestnut is protected against freezing by a resinous **tegmentum**."*

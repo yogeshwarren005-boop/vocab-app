@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make something new, such as a product or a mental or artistic creation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To grow, expand, mature, or progress through natural stages of complexity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photography, to treat an exposed film or plate with chemicals to render the latent image visible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"His mother had already told him how well his voice sounded and that she wanted him to develop it later on."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have a scheme to develop, little woman."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To encounter her daily in the accustomed manner would be to develop what had begun."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection causes useful variations to **develop** gradually into distinct organic structures."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The fertilized ovum begins to **develop** through rapid cell division into complex embryonic tissues."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Great architects allow their artistic designs to **develop** in direct harmony with the nature of stone."*

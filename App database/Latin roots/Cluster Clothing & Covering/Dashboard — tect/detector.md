@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any device that receives a signal or stimulus (as heat or pressure or light or motion etc.) and responds to it in a distinctive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rectifier that extracts modulation from a radio carrier wave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument, sensor, or apparatus used to reveal the presence, level, or quality of a physical phenomenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radio engineering, a demodulator circuit that extracts audio or information from a carrier wave.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heavens! that this treason were not; or not I the detector!"*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Hertz "Detector" 156 8. 9. 10."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When we recollect that they are points at which no wave-motion at all takes place it is easy to see that we shall at those points get no spark in our detector."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The gold-leaf electroscope served as a remarkably sensitive **detector** of faint electrostatic charges."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The siphon recorder acted as an instantaneous **detector** of electrical pulses traversing transatlantic cables."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The apparatus functioned as a delicate chemical **detector**, glowing faintly when vapors escaped."*

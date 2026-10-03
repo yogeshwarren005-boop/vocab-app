@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being traversed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being traversed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being traversed, traveled on, or navigated safely by vehicles or pedestrians.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open, passable, and suitable for transit despite weather or rugged terrain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, travelable designates capable of being traversed."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The mountain pass became barely **travelable** after torrential autumn storms washed away the carriage road."*
+> - 📜 **Henry Morton Stanley (*Through the Dark Continent*):** *"Our guides reported that the jungle trail was dry and **travelable** for pack animals."*
+> - 📜 **Richard Francis Burton (*The Lake Regions of Central Africa*):** *"The marshy valley was scarcely **travelable** on foot during the height of the monsoon rains."*

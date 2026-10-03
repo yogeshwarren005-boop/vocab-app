@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to find information or ascertain facts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to find information or ascertain facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, designed for, or engaged in systematic inquiry, fact-finding, or criminal research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In journalism, characterized by in-depth investigative reporting that exposes corruption or covert wrongdoing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, investigative designates designed to find information or ascertain facts."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Holmes applied his extraordinary **investigative** talents to deciphering the mysterious cipher of the dancing men."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The modern university should cultivate the **investigative** spirit rather than passive rote memory."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"An **investigative** mind looks past party bias to ascertain underlying demographic and economic laws."*

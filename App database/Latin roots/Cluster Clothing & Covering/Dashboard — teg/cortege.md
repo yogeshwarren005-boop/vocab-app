@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A funeral procession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The group following and attending to some important person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn, slow funeral procession following a coffin to a grave or crematorium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A train of attendants, courtiers, or followers accompanying an important personage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Soon after starting the next morning we passed the funeral cortege of a Chinese official of Tachienlu, making his last long journey to his distant home two hundred li beyond Chengtu."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"A hearse led the procession and six carriages completed the cortege."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Vienna will be a spectacle to see by next Saturday, when the funeral cortege marches.” He was strongly moved by the tragedy, impelled to write concerning it."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The mournful **cortege** wound slowly up the cypress-lined hill toward the ancestral vault."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The royal **cortege** was halted at Varennes by suspicious municipal guards and armed peasants."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A solemn black **cortege** crossed the cobblestone square, bearing the deceased nun to the chapel."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being total and complete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being total and complete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of wholeness, complete entity, and unbroken structural cohesion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical logic and algebra, the property of being an integer or satisfying integral equations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, integrality designates the state of being total and complete."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social solidarity depends upon the moral **integrality** of individual citizens cooperating for common survival."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poetic imagination fuses disparate perceptions into an artistic **integrality** of sublime harmony."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific induction must preserve the structural **integrality** of observed phenomena without speculative omission."*

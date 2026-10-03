@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of protectionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of protectionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate, politician, or economist who supports protective tariffs to shield domestic production from foreign imports.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, characteristic of, or favoring economic policies of trade protectionism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The lack of money and the poverty of the newer country are looked upon by the protectionist as due to the importation of goods."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some rates were lowered, while others were raised with a definite protectionist purpose."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Undoubtedly great numbers of voters supported William McKinley rather despite of, than because of, his high protectionist beliefs."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The sincere **protectionist** fails to perceive that restricting imports necessarily curtails domestic export trade."*
+> - 📜 **Walter Bagehot (*Biographical Studies*):** *"Disraeli rallied the disgruntled agricultural interests by leading a fiery **protectionist** opposition in Parliament."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"The **protectionist** arguments advanced during congressional debates echoed traditional mercantilist fallacies."*

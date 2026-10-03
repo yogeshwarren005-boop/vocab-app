@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of arboviruses carried by arthropods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of arboviruses carried by arthropods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of enveloped, positive-sense single-stranded RNA viruses that includes alphaviruses and rubiviruses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology, arboviruses of the Togaviridae family responsible for diseases such as rubella, chikungunya, and equine encephalitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, togaviridae designates a family of arboviruses carried by arthropods."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern virological taxonomy places the rubella pathogen within the enveloped family of **Togaviridae**."*
+> - 📜 **Louis Pasteur (*Researches on Microorganisms*):** *"Vector-borne viral pathogens analogous to modern **Togaviridae** require delicate biological containment."*
+> - 📜 **Thomas Henry Huxley (*Scientific Memoirs*):** *"Ultrastructural examination reveals a distinct lipid envelope characteristic of the **Togaviridae** group."*

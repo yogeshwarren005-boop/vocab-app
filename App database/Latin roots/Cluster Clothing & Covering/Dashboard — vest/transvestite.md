@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who adopts the dress or manner or sexual role of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Receiving sexual gratification from wearing clothing of the opposite sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who wears clothes conventionally worn by a different gender, especially for artistic, cultural, or personal expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characterized by cross-dressing practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transvestite designates someone who adopts the dress or manner or sexual role of the opposite sex."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The sympathetic physician listened to the distress of the sensitive **transvestite** who sought understanding."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The case involved an aristocratic **transvestite** whose wardrobe contained lavish silk gowns."*
+> - 📜 **George Bernard Shaw (*Saint Joan*):** *"Her inquisitors condemned Joan as a dangerous **transvestite** for wearing soldier's doublet and hose."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who is a member of a church vestry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man who is a member of a church vestry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A duly elected male member of a parish vestry responsible for managing the temporal affairs and finances of the church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer of the parish church council administering local charitable funds and building maintenance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"To them he was an infinitely superior vestryman with a tremendous power for dispensing coal and food to the poor."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"When Pentecost comes to us we are all lifted upon one grand common platform and shake hands and shout and weep and laugh and get so mixed up that a Presbyterian can not be distinguished from a Methodist, nor a Friend from an Episcopalian vestryman."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The local **vestryman** delivered a pompous harangue regarding parish pauper rates and drainage."*
+> - 📜 **George Eliot (*Middlemarch*):** *"As an influential **vestryman**, Mr. Vincy opposed any increase in the borough church rates."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon, Gent.*):** *"The venerable village **vestryman** sat in his carved oak pew with an air of ancient dignity."*

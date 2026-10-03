@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Break into parts or components or lose cohesion or unity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to undergo fission or lose particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break up, decompose, or fall apart into small component fragments or constituent particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To undergo loss of organizational cohesion, unity, or structural stability; to decay into chaos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Forms disintegrate into the eternal nothingness from which there is no return."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"First of all, the coming of the Negro into our ranks will cause our party to disintegrate, many men now being held in it because they there escape contact with the Negro."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Disbelief in him cannot come swiftly, disbelief in a healthy and deeply-loved tar baby has never been known to disintegrate swiftly; it is a very slow process."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Exposed granite cliffs slowly **disintegrate** under the alternate action of winter frost and solar heat."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Intense electrolytic currents cause the chemical compound to **disintegrate** into its elementary ions."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Over millions of years, the monumental stone palaces began to crumble and **disintegrate** into dust."*

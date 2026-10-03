@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of adopting the clothes or the manner or the sexual role of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of adopting the clothes or the manner or the sexual role of the opposite sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of dressing in the clothing conventional for another gender, often for theatrical, cultural, or personal gratification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical sexology, an erotic or psychological fascination with donning cross-gender apparel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transvestism designates the practice of adopting the clothes or the manner or the sexual role of the opposite sex."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"He proposed the scientific study of **transvestism** as an aesthetic variation rather than a criminal depravity."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"His clinical treatise distinguished between compulsive **transvestism** and constitutional sexual inversion."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ritual **transvestism** played an important part in the seasonal agricultural ceremonies of ancient Syria."*

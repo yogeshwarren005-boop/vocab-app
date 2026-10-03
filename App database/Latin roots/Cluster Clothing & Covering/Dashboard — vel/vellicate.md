@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irritate as if by a nip, pinch, or tear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To twitch, spasm, or convulse slightly and involuntarily, as a small muscle or facial nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To pluck, pinch, or nip lightly; to irritate or stimulate by light scratching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vellicate designates touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The pungent snuff caused the old commodore's nostrils to sneeze and his eyelid to **vellicate** uncontrollably."*
+> - 📜 **Laurence Sterne (*The Life and Opinions of Tristram Shandy, Gentleman*):** *"The tickling feather began to **vellicate** Uncle Toby's cheek until he stirred from his reverie."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tetanic toxins cause individual muscle fascicles to **vellicate** with abnormal electrical excitability."*

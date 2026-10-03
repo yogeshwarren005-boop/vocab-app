@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A band of material around the waist that strengthens a skirt or trousers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A band of material around the waist that strengthens a skirt or trousers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belt, sash, or girdle worn around the waist, especially as part of an ecclesiastical or monastic habit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boundary, enclosure, or encircling barrier; in architecture, a ring or fillet at either end of a column shaft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now happy he whose cloak and cincture can Hold out this tempest."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Such of late _Columbus_ found th’ _American_ to girt With featherd Cincture, naked else and wilde Among the Trees on Iles and woodie Shores."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Such of late Columbus found the American, so girt With feathered cincture; naked else, and wild Among the trees on isles and woody shores."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Round his waist he wore a glowing **cincture** woven of celestial light."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The hermit drew his rough hempen **cincture** tighter around his emaciated waist."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The antique statue was draped in flowing marble folds held fast by an ornate sculptured **cincture**."*

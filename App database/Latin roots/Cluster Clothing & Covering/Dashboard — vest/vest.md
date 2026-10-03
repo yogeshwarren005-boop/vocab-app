@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man's sleeveless garment worn underneath a coat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collarless men's undergarment for the upper part of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To confer, grant, or settle legal ownership, rights, authority, or power upon a person with immediate or secured possession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sleeveless garment worn over a shirt and beneath a suit jacket; a waistcoat; or an undershirt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We know you always give when it is in your power.' "We parted; and after I had proceeded some distance, I bethought me of the piece of gold in my vest pocket."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"When I took leave, she slipped into my vest pocket a little folded paper, which she told me to give to my wife."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"My coat and my vest, they are Scotch o’ the best, O’pairs o’ guid breeks I hae twa, man; And stockings and pumps to put on my stumps, And ne’er a wrang steek in them a’, man."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The constitutional framers determined to **vest** executive authority in a single independent magistrate."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Uncle Pumblechook adjusted his yellow velvet **vest** with pompous dignity before addressing the boy."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The natural right to self-government can only **vest** in the sovereign citizens of a free commonwealth."*

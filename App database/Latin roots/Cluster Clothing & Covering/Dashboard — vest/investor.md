@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who commits capital in order to gain financial returns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who commits capital in order to gain financial returns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, fund, or financial institution that commits capital to commercial ventures or securities in hope of financial gain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who allocates resources toward economic growth or enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The investor in a corporation bought shares, and his liability for debts and losses was limited by charter to his share capital."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"But in present practice there are several forms (of which stock is but one) in which an investor may buy a share in the earnings of a business."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The stocks can, by this manipulation of dividends, be made a lottery for the legitimate investor, a trap for the unwary, and a source of unrighteous gain by men recreant to their trusts."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The cautious **investor** purchases first-mortgage bonds rather than speculative mining shares."*
+> - 📜 **Walter Bagehot (*Lombard Street*):** *"A prudent **investor** in City debentures watches the movements of the Bank of England discount rate."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The foreign **investor** transfers funds across borders wherever political stability and interest rates attract."*

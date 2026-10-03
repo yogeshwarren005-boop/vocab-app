@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chaste woman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to vesta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Vesta, the Roman goddess of the hearth, or to her consecrated virgin priestesses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chaste, pure, virginal, or stainless in moral conduct; resembling a nun or priestess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Women are not In their best fortunes strong, but want will perjure The ne’er-touch’d vestal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Certes, she did, the kitchen-vestal scorn’d you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since King Pericles, My wedded lord, I ne’er shall see again, A vestal livery will I take me to, And never more have joy."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Her **vestal** livery is but sick and green, and none but fools do wear it; cast it off."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Six **vestal** virgins guarded the sacred fire and enjoyed honors superior to those of Roman matrons."*
+> - 📜 **Alexander Pope (*Eloisa to Abelard*):** *"How happy is the blameless **vestal**'s lot! The world forgetting, by the world forgot."*

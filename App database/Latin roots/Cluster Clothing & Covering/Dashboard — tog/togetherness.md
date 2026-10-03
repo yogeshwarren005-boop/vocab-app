@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectionate closeness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectionate closeness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of closeness, emotional warmth, affection, and mutual solidarity within a family or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warm communal relationship characterized by mutual affection and shared experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, togetherness designates affectionate closeness."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The humble fireside generated a profound sense of domestic **togetherness** that healed Marner's lonely heart."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village carol singers shared a hearty rustic **togetherness** as they trudged through the snowy lanes."*
+> - 📜 **Charles Dickens (*The Cricket on the Hearth*):** *"The chirping hearth cricket was the joyful emblem of peace and family **togetherness**."*

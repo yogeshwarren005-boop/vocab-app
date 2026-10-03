@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a series of tiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a series of tiles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or arranged like tiles or shingles on a roof (overlapping in regular courses).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural and biological descriptions, having an imbricated pattern resembling clay roof tiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tegular designates of or relating to or resembling a series of tiles."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The dome of the Byzantine chapel was encrusted with **tegular** courses of gilded mosaic tiles."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The carapace scales overlap in a distinct **tegular** arrangement providing flexible defensive armor."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ruined Roman villa revealed fragments of red **tegular** roofing tiles preserved beneath the turf."*

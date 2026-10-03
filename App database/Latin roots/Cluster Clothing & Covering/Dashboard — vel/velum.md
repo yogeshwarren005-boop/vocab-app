@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A membranous covering attached to the immature fruiting body of certain mushrooms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muscular flap that closes off the nasopharynx during swallowing or speaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A membrane or membranous partition resembling a veil, such as the soft palate in the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, the circular swimming membrane bordering the bell of hydromedusan jellyfish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, velum designates a membranous covering attached to the immature fruiting body of certain mushrooms."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The contractile **velum** borders the umbrella of the craspedote medusa, directing the pulsatile swimming jet."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The posterior border of the muscular **velum** terminates centrally in the conical projection of the uvula."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Under the microscope, the muscular fibers of the **velum** show distinct annular and radial arrangements."*

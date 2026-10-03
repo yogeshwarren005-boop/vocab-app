@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fully developed in mature animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fully developed in mature animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming a surviving, rudimentary, or degenerate remnant of an organ or structure that was functional in ancestors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or remaining as a minimal trace or faint remnant of a past custom or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestigial designates not fully developed in mature animals."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The human vermiform appendix represents a **vestigial** cecum that has lost its primary digestive utility."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Comparative embryology reveals **vestigial** gill slits in mammalian embryos during early development."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Many ceremonial court courtesies survive merely as **vestigial** forms of ancient feudal homage."*

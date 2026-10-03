@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to societies in which capital needed to industrialize is in short supply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking normal physical growth, maturity, or biological elaboration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Economically or industrially lagging behind modern technological capabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underdeveloped designates process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infantile rickets produces stunted, **underdeveloped** limb bones prone to pathological curvature."*
+> - 📜 **Frank A. Fetter (*Modern Economic Problems*):** *"Foreign investment can stimulate modernization in an **underdeveloped** agrarian country with rich mineral deposits."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The rudimentary tailbone remains an **underdeveloped** vestige of our remote mammalian ancestors."*

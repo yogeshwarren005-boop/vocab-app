@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to architecture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to architecture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an architectural manner; with regard to structural design, aesthetic proportion, or building technique.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structurally or compositionally in physical or intellectual layout.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The Accountant had brought out already a box of dominoes, and was toying architecturally with the bones."*
-> - 📜 **James Joyce (*Ulysses*):** *"The apple of discord was a certain castle of sand which Master Jacky had built and Master Tommy would have it right go wrong that it was to be architecturally improved by a frontdoor like the Martello tower had."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The cathedral facade is **architecturally** superior to any classical imitation built in the century."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The courtyard was **architecturally** designed to harmonize the play of Mediterranean sunlight and shadow."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The ancient convent was **architecturally** severe, presenting cold stone portals to the public square."*

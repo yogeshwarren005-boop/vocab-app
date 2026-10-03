@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deprive of status or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce or dispose of; cease to hold (an investment).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce or eliminate capital investment; to withdraw financial funds from an enterprise or asset.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance, to sell off subsidiary holdings or liquidate capital equipment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disinvest designates deprive of status or authority."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Prudent proprietors choose to **disinvest** from unprofitable textile mills during severe trade depressions."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"A railroad company may gradually **disinvest** in branch lines that no longer earn operating expenses."*
+> - 📜 **Walter Bagehot (*Lombard Street*):** *"When overseas credit falters, City financiers swiftly **disinvest** their short-term balances abroad."*

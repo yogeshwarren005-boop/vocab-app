@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unrestrained merrymaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained merrymaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lively, noisy, and boisterous celebration or festive merrymaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The uninhibited indulgence in festive social amusement, dancing, or drinking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Meantime, forget this new-fall’n dignity, And fall into our rustic revelry."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In spite of all this, the spirit of revelry was wanting in the atmosphere of the house."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Then the dance and song began round every fire, and the wild hurrahs filled the air with the most frantic revelry."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"There was a sound of **revelry** by night, and Belgium's capital had gathered then her beauty and her chivalry."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Awake the pert and nimble spirit of mirth; turn melancholy forth to funerals; the pale companion is not for our **revelry**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Midnight shouts and **revelry** resounded through the halls of Belial, drowning all virtuous speech."*

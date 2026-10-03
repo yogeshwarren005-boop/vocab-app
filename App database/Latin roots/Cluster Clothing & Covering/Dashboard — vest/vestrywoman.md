@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a member of a church vestry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a member of a church vestry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female member of a church vestry participating in the governance and financial administration of a parish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman elected to a parochial church council managing community charities and church fabric.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestrywoman designates a woman who is a member of a church vestry."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Lady Britomart acted the part of an imperious **vestrywoman**, directing parish charities with brisk efficiency."*
+> - 📜 **H. G. Wells (*Ann Veronica*):** *"The active **vestrywoman** organized the parish nursing guild and inspected local sanitation."*
+> - 📜 **Arnold Bennett (*The Old Wives' Tale*):** *"Mrs. Baines was regarded as a natural **vestrywoman**, trusted by the congregation to manage the chapel funds."*

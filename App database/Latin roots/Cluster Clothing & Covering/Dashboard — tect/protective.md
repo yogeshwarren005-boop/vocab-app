@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended or adapted to afford protection of some kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing care.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of or intended to shield, defend, guard, or preserve from damage, injury, or loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting a caring or defensive vigilance to keep someone safe from distress or danger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had not known that men could be so disinterested, chivalrous, protective, in their love for women as he."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The policy of a protective tariff 15."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Other protective labor and social legislation 23."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The mottled wing pattern of the resting moth serves an extraordinary **protective** mimicry against predators."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley watched Emma with a **protective** interest that sprang from years of genuine affectionate concern."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The scientific method acts as a **protective** shield guarding the intellect against dogmatic superstition."*

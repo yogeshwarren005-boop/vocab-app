@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the integument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the integument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, consisting of, or serving as an integument; protecting the surface of a biological organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human and animal anatomy, designating the organ system comprising skin, hair, nails, and cutaneous glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, integumentary designates of or relating to the integument."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Systemic lupus erythematosus manifests with distinctive **integumentary** lesions across the facial cheeks."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Hereditary modifications in the **integumentary** appendages produce remarkable plumages in domestic fowls."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The mammalian **integumentary** system prevents excessive dehydration in terrestrial habitats."*

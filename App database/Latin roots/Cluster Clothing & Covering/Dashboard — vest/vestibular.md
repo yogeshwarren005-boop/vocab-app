@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the sense of equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the sense of equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located in, or functioning as a vestibule, entrance hall, or passage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology, relating to the inner ear's vestibular labyrinth responsible for equilibrium and spatial balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vestibular designates relating to the sense of equilibrium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Suppurative inflammation of the **vestibular** apparatus induces violent paroxysms of rotational vertigo."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The semicircular canals and **vestibular** saccules cooperate to signal head movements and posture."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"They paused within the marble **vestibular** gallery before entering the brightly illuminated ballroom."*

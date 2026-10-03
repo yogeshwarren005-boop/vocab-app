@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the nature of retribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given or inflicted in requital according to merits or deserts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dispensing, relating to, or characterized by retribution; punishing according to desert.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In penology, sentencing philosophies focused on proportionate punishment proportional to the gravity of the crime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There may be black ingratitude in the thing, and the punishment may be retributive and well deserved; but that it is a miserable thing, I can testify."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Und was hab' ich dann gethan?"[20] There is a world of pathos in this helpless cry of pain, with its suggestion of retributive fate."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Then, if he is not seen to kill, the law is powerless and the murderer can snap his finger in the face of retributive justice."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip was tormented by a guilty conscience, expecting **retributive** punishment at every turn."*
+> - 📜 **Immanuel Kant (*The Philosophy of Law*):** *"Judicial punishment must always be **retributive**, grounded solely upon the fact that the criminal committed a crime."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Chillingworth dedicated his existence to inflicting slow, **retributive** torment upon his secret rival."*

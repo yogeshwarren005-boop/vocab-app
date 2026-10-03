@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute or disperse widely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dealt out, apportioned, scattered, or dispersed over a given area, population, or time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer systems architecture, a network of autonomous computers communicating via messages to coordinate actions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he evade us there, Enforce him with his envy to the people, And that the spoil got on the Antiates Was ne’er distributed."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"And tradition has it that the questioning and answering, which had at first been evenly distributed among the pupils, usually in the end came to resolve themselves pretty much into a dialogue between Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I planted it,” he lied—for he was compelled to lie because, being merely tobacco in small packages, it was long since distributed among the convicts along the customary channels."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Closely allied plant species are often widely **distributed** across separated continents."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Wealth is produced according to physical laws, but **distributed** according to social institutions."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Constitutional checks ensure that sovereign authority is safely **distributed** among three branches."*

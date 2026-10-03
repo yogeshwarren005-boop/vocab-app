@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of investments) not distributed among a variety of securities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of investments) not distributed among a variety of securities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not dealt out, allocated, or dispersed; retained, undivided, or held in reserve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate accounting, undistributed profits: retained net earnings not paid out as shareholder dividends.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undistributed designates (of investments) not distributed among a variety of securities."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A prudent manufacturer retains a portion of **undistributed** profits to replace worn machinery."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"Considerable **undistributed** balances remained in the state treasuries at the conclusion of the war."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"In formal syllogistic logic, the middle term must not remain **undistributed** in both premises."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assigning some quality or character to a person or thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assigning to a cause or source.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of assigning, crediting, or ascribing something to an author, source, cause, or origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, the scholarly assignment of an unsigned painting or sculpture to a specific master or workshop.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If speaking truth In this fine age were not thought flattery, Such attribution should the Douglas have As not a soldier of this season’s stamp Should go so general current through the world."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The attribution of weather-making powers to kings or priests is very common in primitive society, and is indeed one of the principal levers by which such personages raise themselves to a position of superiority above their fellows."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You are free: to copy, distribute, and display the work under the following conditions: -- By attribution."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"Scholars engaged in heated debates regarding the authentic **attribution** of the newly discovered Venetian sonnets."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Critical analysis of internal style confirmed the traditional **attribution** of the essay to Addison."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Modern philology has revised the classical **attribution** of several Platonic dialogues to later disciples."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who markets merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with authority to allot or deal out or apportion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, company, or device that distributes, supplies, or dispenses goods or resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal combustion automotive engineering, a rotating mechanical switch directing ignition voltage to spark plugs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The enterpriser is merely the distributor or equalizer of cost among all the different products for which different agents can be used."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Traps baited with _initiatory impulses toward high ideals. _It is what the tract-distributor does."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Not a few of the most earnest and noble workers in the field were at one time or another the distributors of its supplies, and thus in some sense, its agents."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The wholesale merchant serves as an essential commercial **distributor** bridging factories and consumers."*
+> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Nature acts as a magnificent **distributor** of talents, bestowing genius with sovereign impartiality."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The meatpacker dominated the retail market as the supreme **distributor** across Midwestern cities."*

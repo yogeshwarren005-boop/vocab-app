@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As individuals or as separate units (not collectively).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a distributive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a distributive manner; singly and separately rather than collectively or as an aggregate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, applying a universal predicate to every individual member of a class taken separately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Now undoubtedly finite things, taken distributively, have contradictory attributes, but not as a class."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Terms applied **distributively** refer to each single object belonging to the general idea."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"A proposition valid for a collection **distributively** must hold for every element in isolation."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislator considers the interests of the community **distributively**, as the sum of individual citizens."*

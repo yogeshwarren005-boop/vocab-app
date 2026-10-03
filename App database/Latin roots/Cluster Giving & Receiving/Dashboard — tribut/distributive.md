@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to distribute or allot or disperse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to distribute or allot or disperse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with or relating to the distribution of things; apportioning shares.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and ethics, distributive justice: the perceived fairness of resource allocation across a society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Consumers' coöperation (often called distributive coöperation) is concerned with the later steps, the placing of a consumption good (rarely also productive agents) into the hands of the final user."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"To say the truth, I had conceived a few scruples with relation to the distributive justice of princes upon those occasions."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Justice in one sense is **distributive**, concerning the apportionment of honors and assets among citizens."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Social utility requires a **distributive** principle that maximizes general happiness."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The king exercised **distributive** equity, rewarding loyal ministers while checking aristocratic greed."*

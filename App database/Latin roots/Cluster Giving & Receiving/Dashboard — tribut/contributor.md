@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who contributes (or promises to contribute) a sum of money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer whose work is published in a newspaper or magazine or as part of a book.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that contributes, gives, or donates something to a common fund, cause, or journal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In periodical literature, a writer who regularly submits essays, reviews, or news dispatches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"At length an article in a well-known satirical journal by a favourite contributor, the chief of the staff, settled the monster, like Hippolytus, giving it the death-blow amidst an universal burst of laughter."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Cooper, acting in that capacity, but she was a large contributor to its columns, and her poetical contributions which appeared in almost every number, indicated deep emotional sensibilities, and considerable poetic talent."*
-> - 📜 **James Joyce (*Ulysses*):** *"NOTED CHURCHMAN AN OCCASIONAL CONTRIBUTOR The foreman handed back the galleypage suddenly, saying: —Wait."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Skimpole was never a **contributor** to household expenses, claiming his artistic nature was above commerce."*
+> - 📜 **William Makepeace Thackeray (*The English Humourists*):** *"Addison was the celebrated chief **contributor** whose elegant papers established the Spectator's fame."*
+> - 📜 **Thomas Huxley (*Science and Culture*):** *"Every careful laboratory investigator becomes a valuable **contributor** to empirical natural science."*

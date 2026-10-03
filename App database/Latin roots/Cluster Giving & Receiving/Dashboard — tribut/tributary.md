@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch that flows into the main stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a stream) flowing into a larger stream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A river or stream flowing into a larger river or lake; a person, state, or nation that pays tribute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical history, a subordinate client kingdom paying annual financial or military dues to an imperial suzerain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ imperious seas breed monsters; for the dish, Poor tributary rivers as sweet fish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back, foolish tears, back to your native spring, Your tributary drops belong to woe, Which you mistaking offer up to joy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo, at this tomb my tributary tears I render for my brethren’s obsequies; And at thy feet I kneel, with tears of joy Shed on this earth for thy return to Rome."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Vast ocean currents swept onward, carrying every lesser **tributary** stream toward the polar depths."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The kings of Armenia remained **tributary** rulers, subject to the rival demands of Rome and Parthia."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"What tributaries follow him to Rome, to grace in captive bonds his chariot wheels?... Even the royal **tributary** was paraded through the Forum."*

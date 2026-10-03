@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who markets merchandise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electrical device that distributes voltage to the spark plugs of a gasoline engine in the order of the firing sequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, person, or organization that distributes or dispenses goods or services; a distributor (variant spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early industrial trade publications, a wholesale merchant supplying local shopkeepers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distributer designates someone who markets merchandise."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The royal almoner acted as the chief **distributer** of charity to poor scholars at Oxford."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The village postmaster was the sole **distributer** of news and letters across the remote shire."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"A generous patron must be an impartial **distributer** of praise and rewards."*

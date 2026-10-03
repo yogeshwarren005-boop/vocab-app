@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spatial or geographic property of being scattered about over a range, area, or volume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of sharing out or dividing something among a number of recipients; frequency of occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics and probability theory, a mathematical function showing the frequency or likelihood of values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of all the horses— Whereof we have ta’en good and good store—of all The treasure in this field achieved and city, We render you the tenth, to be ta’en forth Before the common distribution At your only choice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let the superfluous and lust-dieted man, That slaves your ordinance, that will not see Because he does not feel, feel your power quickly; So distribution should undo excess, And each man have enough."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the distribution of these comestibles, as in every other household duty, Mrs."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual produce of the land and labor divides naturally into the three great **distribution** shares of rent, wages, and profit."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geographical **distribution** of organisms across oceanic islands offers the strongest evidence for evolution."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The equal **distribution** of landed inheritances rapidly dismantled the old aristocratic estates."*

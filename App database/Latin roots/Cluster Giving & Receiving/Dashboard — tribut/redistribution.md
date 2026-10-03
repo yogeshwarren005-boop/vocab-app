@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributing again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distributing again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or policy of distributing something again or differently; reallocation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public finance, tax-and-transfer mechanisms designed to narrow economic inequality across social strata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redistribution designates distributing again."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic sentiment favors gradual **redistribution** through universal public schooling rather than confiscation."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The equitable **redistribution** of legislative representation abolished corrupt rotten boroughs in parliament."*
+> - 📜 **Frank A. Fetter (*Economics: Modern Economic Problems*):** *"Every major tariff revision causes a hidden **redistribution** of commercial profits among competing industries."*

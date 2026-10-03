@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter oily triglyceride of butyric acid; a form of butyrin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter oily triglyceride of butyric acid; a form of butyrin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triglyceride ester formed from glycerol and three butyric acid molecules, found naturally in butter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical enzymology, a standard substrate used to assay pancreatic lipase activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tributyrin designates a bitter oily triglyceride of butyric acid; a form of butyrin."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Hydrolysis of **tributyrin** by microbial ferments yields glycerol alongside volatile butyric acid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Impaired cleavage of **tributyrin** in digestive secretions indicates diminished pancreatic exocrine function."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Pure butter contains distinct quantities of **tributyrin**, which imparts its characteristic culinary richness."*

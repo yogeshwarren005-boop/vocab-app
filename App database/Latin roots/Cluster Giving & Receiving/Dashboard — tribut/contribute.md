@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bestow a quality on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contribute to some cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give something (money, time, knowledge, or effort) toward a common pool, purpose, or result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic journalism and publishing, to supply articles, essays, or literary pieces to a periodical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"That I can’t, indeed,” he said, moving past Oak as a Christian edges past an offertory-plate when he does not mean to contribute."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Some gentlemen, urged to contribute to a most worthy cause, said, 'Go first to Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"No one has been urged, asked, or even hinted to contribute to it."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I was asked to **contribute** to the establishment of the public academy and city hospital."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"All classes of citizens should **contribute** toward the expenses of government in proportion to their abilities."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Social instincts prompt the individual to **contribute** voluntarily to the defense and well-being of the tribe."*

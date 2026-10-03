@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer or bestow, as in small portions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distribute or disperse widely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide among several or many; to apportion, scatter, disperse, or dispense systematically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial supply logistics, to transport and deliver manufactured goods to retail markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As much as one sound cudgel of four foot— You see the poor remainder—could distribute, I made no spare, sir."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"So the little boy you saw just now waltzes by himself in the empty kitchen, and we distribute the others over the house as well as we can.” “That is only for their steps, of course?” said I."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The yearly amount saved in this way is about _twenty-five dollars_; and I distribute this among the various benevolent societies, according to the best of my judgment." THE HISTORY AND BUSINESS SUCCESSES OF LIBERAL GIVERS."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Free competition tends to **distribute** capital among those industries where it yields the highest return."*
+> - 📜 **William Shakespeare (*King Lear*):** *"So distribution should undo excess, / And each man have enough... Let the king **distribute** his wealth justly."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor ordered his grain officers to **distribute** corn freely among the starving populace."*

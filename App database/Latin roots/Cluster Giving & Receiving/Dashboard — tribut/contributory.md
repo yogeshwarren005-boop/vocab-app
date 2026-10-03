@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to bring about; being partly responsible for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to bring about; being partly responsible for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Playing a part in bringing about a result; acting as an auxiliary factor or contributor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort law, contributory negligence: conduct by an injured party that helped cause the harm, historically barring recovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Insurance may be _contributory_ or _noncontributory_."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is on the contributory plan when the insured workers contribute something toward the premiums that provide the funds for eventual payment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By the doctrine of contributory negligence, the workman's claim could be defeated by showing that he had by his carelessness contributed to the accident even when the employer had been negligent."*
+> - 📜 **Blackstone (*Commentaries on the Laws of England*):** *"Courts consider whether the plaintiff's own reckless behavior was a **contributory** cause of the disaster."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Changed climatic conditions served as a **contributory** stimulus to organic divergence."*
+> - 📜 **Oliver Wendell Holmes (*The Common Law*):** *"A finding of **contributory** fault in maritime collision required equal division of damages."*

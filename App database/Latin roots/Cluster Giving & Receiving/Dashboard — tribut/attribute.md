@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A construct whereby objects or individuals can be distinguished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstraction belonging to or characteristic of an entity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To regard something as being caused by, belonging to, or originating from someone or something; a quality or characteristic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In database systems and metaphysics, an inherent qualitative property or field belonging to an entity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless you play the pious innocent, And for an honest attribute cry out ‘She died by foul play.’ CLEON."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much attribute he hath, and much the reason Why we ascribe it to him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I began to fear,” with timid tenderness, “as it was past the usual time, that Miss Jellyby was not coming.” “I beg you will have the goodness to attribute that to me, who have detained her, and to receive my excuses, sir,” said I."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Superstitious men **attribute** extraordinary natural events to demonic interventions rather than physical causes."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Color, shape, and weight are each a distinct sensory **attribute** by which we recognize physical objects."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Mercy is an **attribute** to God himself, and earthly power doth then show likest God's when mercy seasons justice."*

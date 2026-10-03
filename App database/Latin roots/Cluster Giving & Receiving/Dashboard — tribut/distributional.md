@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to spatial distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to spatial distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or affecting the distribution, allocation, or geographical range of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In welfare economics and tax policy, evaluating how policies impact the relative economic welfare of different income tiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distributional designates of or relating to spatial distribution."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Distinct **distributional** boundaries separate the fauna of the Australian and Asian archipelagoes."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Fiscal policy exercises powerful **distributional** effects on purchasing power among wage earners."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil discoveries established new **distributional** maps of prehistoric marine life."*

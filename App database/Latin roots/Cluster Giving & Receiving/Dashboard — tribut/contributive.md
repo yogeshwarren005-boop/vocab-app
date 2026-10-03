@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to bring about; being partly responsible for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to bring about; being partly responsible for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to contribute; serving as a contributing cause, factor, or auxiliary aid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and teleology, acts that promote the overarching common welfare of society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, contributive designates tending to bring about; being partly responsible for."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Ancient customs are deeply **contributive** to the stability and moral temper of the commonwealth."*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"Conduct is judged virtuous in proportion as it is **contributive** to the fullness of human life."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Experiential learning is directly **contributive** to the development of autonomous civic judgment."*

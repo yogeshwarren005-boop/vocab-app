@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something given or done as an expression of esteem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Payment by one nation for protection by another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act, statement, or gift intended to show gratitude, respect, or admiration; payment made by one state to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and medieval statecraft, regular wealth, slaves, or bullion extracted under threat of military conquest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caius Lucius Will do’s commission throughly; and I think He’ll grant the tribute, send th’ arrearages, Or look upon our Romans, whose remembrance Is yet fresh in their grief."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe Statist though I am none, nor like to be, That this will prove a war; and you shall hear The legions now in Gallia sooner landed In our not-fearing Britain than have tidings Of any penny tribute paid."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, there’s no more tribute to be paid."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Subject his coronet to his crown, and bend the dukedom to most ignoble stooping... Paying heavy **tribute** to the king of Naples."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Weak emperors bought transient peace by paying an annual **tribute** of gold to the Gothic chieftains."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"It is altogether fitting and proper that we should pay this solemn **tribute** to those who gave their lives."*

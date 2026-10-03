@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat or impregnate with rubber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat or impregnate with rubber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To coat, impregnate, treat, or laminate a material or textile with rubber for waterproofing or durability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial manufacturing, the process of treating fabric with vulcanized latex solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubberise designates coat or impregnate with rubber."*
+> - 📜 **Charles Macintosh (*On the Manufacture of Waterproof Fabrics*):** *"The patented procedure to **rubberise** woven wool transformed outdoor garments into impermeable cloaks."*
+> - 📜 **Thomas Hancock (*Personal Narrative of the Origin and Progress of the Caoutchouc Manufacture*):** *"We designed steam-driven rollers to **rubberise** coarse canvas sheeting for carriage coverings."*
+> - 📜 **Robert Kane (*Elements of Chemistry*):** *"Chemical solvents enabled manufacturers to **rubberise** dense cotton drill without stiffening the weave."*

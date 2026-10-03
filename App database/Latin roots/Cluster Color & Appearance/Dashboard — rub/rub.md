@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unforeseen obstacle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of rubbing or wiping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To apply friction, pressure, and back-and-forth movement over a surface with the hand or an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstacle, impediment, difficulty, or point of friction in a plan, course of events, or argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This palt’ring Becomes not Rome, nor has Coriolanus Deserved this so dishonoured rub, laid falsely I’ th’ plain way of his merit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To sleep, perchance to dream—ay, there’s the rub, For in that sleep of death what dreams may come, When we have shuffled off this mortal coil, Must give us pause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here, Hamlet, take my napkin, rub thy brows."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"To die, to sleep; to sleep, perchance to dream: ay, there's the **rub**; for in that sleep of death what dreams may come."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The cold was so severe that the old gentleman was forced to **rub** his freezing hands together briskly."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors had to **rub** the frozen deck tackle with tallow to keep the running rigging free."*

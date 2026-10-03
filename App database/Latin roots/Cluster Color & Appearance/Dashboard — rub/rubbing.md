@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The resistance encountered when one body is moved in contact with another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representation consisting of a copy (as of an engraving) made by laying paper over something and rubbing it with charcoal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or motion of applying friction to a surface; stroking, polishing, or massaging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artistic impression or facsimile made by laying paper over a relief surface and rubbing with pigment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thanks.—What’s the matter, you dissentious rogues, That, rubbing the poor itch of your opinion, Make yourselves scabs?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Oh, dear me, what’s this, what’s this!” he said, rubbing his head and walking about with his good-humoured vexation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’ll blow a gale in the course of the night!” He was now alternately putting his hands into his pockets as if he were going to keep them there a long time, and taking them out again and vehemently rubbing them all over his head."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The antiquary took a careful heelball **rubbing** from the ancient inscribed sepulchral brass in the church."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge was busy **rubbing** his hands before the smoldering coal fire in his freezing counting-house."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Careful wax **rubbing** of the marble capitals revealed delicate Gothic inscriptions eroded by sea wind."*

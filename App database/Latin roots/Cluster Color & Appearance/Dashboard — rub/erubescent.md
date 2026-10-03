@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin rub within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of rub in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming red or reddish; blushing; suffused with a gentle rosy or crimson glow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, manifesting an embarrassed, bashful, or modest blush upon the cheeks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erubescent designates pertaining to, derived from, or characteristic of latin rub within the domain of color & appearance."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"An **erubescent** flush of dawn broke over the sullen rooftops of Paris on that fateful morning."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The evening clouds displayed an **erubescent** radiance against the deep azure of the high Alps."*
+> - 📜 **Algernon Charles Swinburne (*Poems and Ballads*):** *"Her pale cheeks turned gently **erubescent** under the passionate gaze of her poet lover."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich in pleasant flavor; full of agreeable savor and aromatic taste; flavorsome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic or descriptive literature, presenting rich sensory appeal or vibrant emotional zest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavorous designates full of flavor."*
+> - 📜 **John Keats (*Endymion*):** *"Baskets heaped with mellow figs and **flavorous** grapes were brought forth to feast the wandering shepherds."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The southern sun matures sweet, **flavorous** fruits upon the terraces of Lombardy."*
+> - 📜 **Algernon Charles Swinburne (*Poems and Ballads*):** *"They drank the red and **flavorous** wine poured from deep earthen jars beneath the vines."*

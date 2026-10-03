@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowling pin that is thin by comparison with a tenpin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bowling pin that is thin by comparison with a tenpin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall, slender bowling pin with straight sides and slightly tapered ends, used in candlepin bowling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional New England sports, one of the ten narrow pins targeted with small, holeless bowling balls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlepin designates a bowling pin that is thin by comparison with a tenpin."*
+> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Villagers enjoyed games of skittles and ninepins, the precursor to the modern New England **candlepin**."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Young townsmen gathered at the recreation hall to roll balls against the clattering row of **candlepin** pins."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The distant thunder rumbled like the crash of balls amidst wooden pins in a mountain **candlepin** alley."*

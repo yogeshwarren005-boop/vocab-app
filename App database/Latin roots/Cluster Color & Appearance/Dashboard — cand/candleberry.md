@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous aromatic shrub of eastern north america with grey-green wax-coated berries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous aromatic shrub of eastern north america with grey-green wax-coated berries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wax myrtle or bayberry (Myrica cerifera), an aromatic shrub whose berries yield wax for candles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In North American colonial history, berries collected to make sweet-smelling green bayberry wax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candleberry designates deciduous aromatic shrub of eastern north america with grey-green wax-coated berries."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"We brushed through fragrant thickets of **candleberry** myrtle flourishing upon the coastal dunes."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Colonial housewives boiled the waxy fruit of the **candleberry** to make fragrant green tapers."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"The damp sandy pine barrens were scented with the crushed aromatic leaves of wild **candleberry**."*

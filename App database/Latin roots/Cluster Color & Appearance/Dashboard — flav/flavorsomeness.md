@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an appetizing flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an appetizing flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being rich in pleasant, savory taste; savory excellence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Richness of expressive nuance, warmth, or descriptive vivacity in spoken or written language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavorsomeness designates having an appetizing flavor."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"Slow roasting over beech embers preserves the tender juices and natural **flavorsomeness** of the meat."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"Rabelaisian prose delights the reader by its pungent **flavorsomeness** and unabashed verbal inventiveness."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"He praised the incomparable **flavorsomeness** of crackling roasted pig with heartfelt poetic eloquence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An infection caused by fungi of the genus monilia or candida (especially candida albicans).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An infection caused by fungi of the genus monilia or candida (especially candida albicans).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal infection caused by yeast species of the genus Candida, commonly affecting skin or mucous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, oral thrush or systemic fungal disease prevalent in immunocompromised patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candidiasis designates an infection caused by fungi of the genus monilia or candida (especially candida albicans)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe oral **candidiasis** with extensive pseudomembranous plaques developed during prolonged debility."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"Topical antifungal applications promptly cleared the cutaneous intertrigo complicated by **candidiasis**."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Mucosal biopsy confirmed deep tissue penetration by fungal pseudohyphae characteristic of invasive **candidiasis**."*

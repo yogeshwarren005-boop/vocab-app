@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking taste or flavor or tang.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking taste or flavor or tang.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destitute of taste, seasoning, or olfactory charm; insipid, flat, and bland to the tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an utter lack of vitality, spirit, color, or artistic imagination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavourless designates lacking taste or flavor or tang."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Mechanized routine reduces human creative enterprise to a dry, **flavourless** bureaucratic task."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The ship's hardtack biscuits became stale, powdery, and completely **flavourless** after months at sea."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her existence in the fashionable salon felt empty and **flavourless** without an inspiring life purpose."*

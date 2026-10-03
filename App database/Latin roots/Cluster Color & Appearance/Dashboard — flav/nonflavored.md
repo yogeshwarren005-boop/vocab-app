@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without flavoring added.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without flavoring added.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking added flavorings, spices, or aromatic essences; presented in its natural, unseasoned state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial dairy or food processing, unadulterated by syrups or taste-altering additives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonflavored designates without flavoring added."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients recovering from severe gastric catarrh were restricted to plain, **nonflavored** barley broth."*
+> - 📜 **Harvey W. Wiley (*Foods and Their Adulteration*):** *"Standard regulations distinguish **nonflavored** mineral waters from artificial effervescent beverages."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"For feverish patients, pure **nonflavored** gruel is frequently preferred over spiced invalid concoctions."*

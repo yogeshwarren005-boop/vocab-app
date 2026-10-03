@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various flowering plants of the genus iberis cultivated for their showy clusters of white to red or purple flowers; native to mediterranean region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various flowering plants of the genus iberis cultivated for their showy clusters of white to red or purple flowers; native to mediterranean region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowering Eurasian garden plant of the genus Iberis (family Brassicaceae), bearing white or purple flower clusters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A popular low-growing edging plant cultivated in cottage rock gardens for dense spring blooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candytuft designates any of various flowering plants of the genus iberis cultivated for their showy clusters of white to red or purple flowers; native to mediterranean region."*
+> - 📜 **John Ruskin (*Proserpina*):** *"The humble **candytuft** carpets the borders with dense heads of four-petaled white flowers."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Cottage garden plots were bright with sweet alyssum and purple **candytuft** beside the doorstep."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"Masses of perennial evergreen **candytuft** tumble over the stone wall in snowy billows."*

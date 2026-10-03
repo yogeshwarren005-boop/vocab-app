@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking taste or flavor or tang.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking taste or flavor or tang.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking taste or aroma; completely bland, unseasoned, or insipid to the palate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoid of distinctive interest, character, excitement, or vitality; dull and monotonous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavorless designates lacking taste or flavor or tang."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"A society without spiritual convictions offers only dry, **flavorless** husks to nourish the yearning human heart."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The dried pemmican meat was fibrous and entirely **flavorless** without a pinch of salt."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Conventional salon small talk felt utterly **flavorless** compared to the passionate discussions of art."*

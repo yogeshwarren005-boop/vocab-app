@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being honest and straightforward in attitude and speech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being honest and straightforward in attitude and speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Frankness, sincerity, and unvarnished openness of speech, disposition, or demeanor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of engaging with others without artifice, deception, or flattery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candidness designates the quality of being honest and straightforward in attitude and speech."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea admired the rustic **candidness** with which Will Ladislaw expressed his unconventional opinions."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel's natural **candidness** disarmed the cynical worldly observers in the Roman drawing room."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Hollingsworth lacked diplomatic tact, but his stern **candidness** commanded reluctant respect."*

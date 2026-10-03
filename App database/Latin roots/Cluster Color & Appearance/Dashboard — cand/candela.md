@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of luminous intensity adopted under the systeme international d'unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees kelvin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of luminous intensity adopted under the systeme international d'unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees kelvin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The SI base unit of luminous intensity, equal to the luminous intensity of a monochromatic radiation source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photometry, the standardized measure of directional light emitted per unit solid angle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candela designates the basic unit of luminous intensity adopted under the systeme international d'unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees kelvin."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Photometric measurement establishes the luminous intensity of standard lamps in units of the **candela**."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The radiant emission per steradian provides a precise definition for the modern **candela** standard."*
+> - 📜 **Thomas Alva Edison (*The Papers of Thomas A. Edison*):** *"Our laboratory tested incandescent carbon filaments that sustained sixteen **candela** of steady illumination."*

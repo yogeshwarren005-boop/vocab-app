@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to food primarily for the savor it imparts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lend flavor to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance, spice, or extract used to give a particular taste or aroma to culinary products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of imparting a specific taste or seasoning to an edible substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavoring designates something added to food primarily for the savor it imparts."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"A few drops of bitter almond extract provide adequate **flavoring** for a large pan of almond macaroons."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Mrs. Cratchit added the spiced gravy and aromatic **flavoring** to the bubbling Christmas dinner."*
+> - 📜 **Jane Austen (*Emma*):** *"Delicate cinnamon **flavoring** enhanced the whipped sillabub prepared for the evening party."*

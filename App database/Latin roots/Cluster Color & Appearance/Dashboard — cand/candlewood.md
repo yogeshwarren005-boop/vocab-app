@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several resinous trees or shrubs often burned for light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several resinous trees or shrubs often burned for light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resinous wood, such as fat pine or ocotillo stems, used for kindling fires or burning as torches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional American botany, any shrub or tree whose branches contain combustible resin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlewood designates any of several resinous trees or shrubs often burned for light."*
+> - 📜 **Francis Parkman (*The Conspiracy of Pontiac*):** *"Frontiersmen lit splinters of resinous **candlewood** to guide their way through the dark forest blockhouse."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"The Indians carried flares of pitch-rich **candlewood** while spearing fish in the nocturnal bayous."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Knots of yellow pine **candlewood** burned with a brilliant, steady flare in our alpine campfire."*

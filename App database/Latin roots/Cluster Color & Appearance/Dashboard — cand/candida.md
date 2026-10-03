@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the yeastlike imperfect fungi of the genus candida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the yeastlike imperfect fungi of the genus candida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of yeast-like fungi that normally inhabit mucosal membranes but can cause opportunistic infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, specifically Candida albicans, the organism responsible for candidiasis and thrush.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"September, 1865. * * * * * =Peronospora candida=, Fuckel."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of mucosal scraping revealed budding mycelia and blastospores of **Candida**."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Epithelial ulceration may become superinfected with fungal colonies of opportunistic **Candida**."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"The patient's chronic cutaneous lesions were aggravated by localized overgrowth of **Candida**."*

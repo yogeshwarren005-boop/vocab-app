@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin rub within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of rub in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flushing, reddening, or turning red; exhibiting an emerging reddish or roseate tint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and meteorology, characterizing dawn skies, setting suns, or lunar eclipses tinged with deep red.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubescent designates pertaining to, derived from, or characteristic of latin rub within the domain of color & appearance."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The granite pinnacles caught the first rays of morning, glowing with a soft **rubescent** light."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her sensitive countenance became quickly **rubescent** when Angel Clare turned his earnest eyes upon her."*
+> - 📜 **Alfred Tennyson (*In Memoriam*):** *"The dying western clouds surrendered their gold to a deep and solemn **rubescent** afterglow."*

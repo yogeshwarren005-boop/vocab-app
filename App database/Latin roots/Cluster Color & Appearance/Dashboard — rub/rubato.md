@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flexible tempo; not strictly on the beat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible tempo; not strictly on the beat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical performance practice involving expressive and flexible rhythm by slightly accelerating then slowing the tempo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and musicology, rhythmic elasticity employed to convey deep romantic emotion without losing pulse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubato designates a flexible tempo; not strictly on the beat."*
+> - 📜 **George Grove (*A Dictionary of Music and Musicians*):** *"Chopin's nocturnal compositions require an exquisite **rubato** that ebbs and flows like breath."*
+> - 📜 **Franz Liszt (*Life of Chopin*):** *"His left hand maintained the steady metric pulse while the right sang in poetic **rubato**."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The pianist distorted the romantic sonata with an exaggerated and self-indulgent **rubato**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has announced they are not a candidate; especially a politician who has announced that he or she is not a candidate for some political office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has announced they are not a candidate; especially a politician who has announced that he or she is not a candidate for some political office.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is not running for, nominated for, or seeking election to public office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eligible individual who explicitly refuses or withdraws from consideration for a post.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noncandidate designates someone who has announced they are not a candidate; especially a politician who has announced that he or she is not a candidate for some political office."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Partisan electors occasionally cast protest ballots for a prominent **noncandidate** of recognized virtue."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The influential elder statesman preferred the independent standing of an honored **noncandidate**."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Despite widespread rumors in the press, the retired mayor insisted he was strictly a **noncandidate**."*

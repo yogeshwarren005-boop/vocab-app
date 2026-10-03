@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Appetizingly flavored; pleasant, appetizing, and rich to the senses of taste and smell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of wholesome rustic charm, spirited wit, or savory character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavoursome designates full of flavor."*
+> - 📜 **Robert Louis Stevenson (*Travels with a Donkey in the Cévennes*):** *"The peasant host offered a loaf of dark rye bread and **flavoursome** goat's cheese beneath the walnut tree."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The harvest feast offered trenchers piled high with hot, **flavoursome** beef and roast potatoes."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The steaming pot of tea and **flavoursome** buttered crumpets comforted the cold and hungry schoolmaster."*

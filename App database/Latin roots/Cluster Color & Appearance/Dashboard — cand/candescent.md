@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glowing from great heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glowing from great heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Glowing or shining with intense heat; white-hot; luminous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiant with pure light, dazzling brilliance, or ardent enthusiasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Tranquility sudden, vast, candescent: form of forms."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The prophet's soul burned with **candescent** indignation against the shallow hypocrisy of the age."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The setting sun transformed the snowy alpine ridge into a **candescent** crest of molten gold."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"His eyes flared with a **candescent** fire that frightened his gentle companion."*

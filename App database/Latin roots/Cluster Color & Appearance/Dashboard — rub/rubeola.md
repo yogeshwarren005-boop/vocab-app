@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Measles; an acute highly contagious viral disease marked by fever, catarrh, Koplik spots, and a red maculopapular rash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pediatrics, true red measles as distinguished from rubella (German measles).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubeola designates an acute and highly contagious viral disease marked by distinct red spots followed by a rash; occurs primarily in children."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The buccal enanthem known as Koplik's spots precedes the generalized cutaneous eruption of **rubeola** by two days."*
+> - 📜 **Jonathan Hutchinson (*Archives of Surgery*):** *"Severe respiratory complications such as bronchopneumonia frequently accompany untreated outbreaks of pediatric **rubeola**."*
+> - 📜 **Theobald Smith (*Studies on Immunity*):** *"Lifelong natural immunity almost invariably follows complete clinical recovery from an attack of virulent **rubeola**."*

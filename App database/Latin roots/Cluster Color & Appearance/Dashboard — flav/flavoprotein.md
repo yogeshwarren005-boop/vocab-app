@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin flav within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of flav in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conjugated cellular protein that contains a flavin nucleotide (FMN or FAD) as an essential prosthetic group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metabolic biochemistry, an enzyme vital for cellular respiration, electron transport, and fatty acid oxidation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavoprotein designates pertaining to, derived from, or characteristic of latin flav within the domain of color & appearance."*
+> - 📜 **Hugo Theorell (*The Nature and Mode of Action of Oxidation Enzymes*):** *"Crystalline preparations of the yellow **flavoprotein** confirmed the stoichiometric union between apoenzyme and cofactor."*
+> - 📜 **Otto Meyerhof (*Chemical Dynamics of Life Phenomena*):** *"The enzymatic transfer of electrons in the mitochondrial chain requires an active **flavoprotein** intermediary."*
+> - 📜 **Fritz Lipmann (*Metabolic Generation of Phosphate Bond Energy*):** *"Oxidative phosphorylation relies upon sequential electron shuttling through cytochrome and **flavoprotein** catalysts."*

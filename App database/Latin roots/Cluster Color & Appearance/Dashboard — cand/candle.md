@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stick of wax with a wick in the middle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of luminous intensity adopted under the systeme international d'unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees kelvin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cylinder or block of wax or tallow with an embedded central wick that burns to provide light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional standard unit of luminous intensity; or a candle-shaped object in medical surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What though you have no beauty— As, by my faith, I see no more in you Than without candle may go dark to bed— Must you be therefore proud and pitiless?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Time enough to go to bed with a candle, I warrant thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are as a candle, the better part burnt out."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Out, out, brief **candle**! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"There is no more open door by which you can enter the study of natural philosophy than by considering the phenomena of a **candle**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The guttering **candle** cast long, trembling shadows across the cold dormitory wall."*

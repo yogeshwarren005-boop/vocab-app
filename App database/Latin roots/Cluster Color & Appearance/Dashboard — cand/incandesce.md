@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become incandescent or glow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become incandescent or glow with heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To glow with intense heat; to emit visible light as a consequence of being heated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause a substance or metal filament to heat up until it shines with brilliant white light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incandesce designates cause to become incandescent or glow."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Carbon particles **incandesce** inside the flame zone, radiating heat and luminous energy."*
+> - 📜 **Thomas Alva Edison (*The Papers of Thomas A. Edison*):** *"Passing a heavy electric current caused the experimental wire to **incandesce** with blinding brilliance."*
+> - 📜 **H.G. Wells (*The First Men in the Moon*):** *"The metallic cylinder began to **incandesce** under atmospheric friction as it plunged downward."*

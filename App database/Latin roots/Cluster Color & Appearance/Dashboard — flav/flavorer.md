@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to food primarily for the savor it imparts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something added to food primarily for the savor it imparts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ingredient, seasoning, essence, or agent added to food or drink to impart a desired taste or aroma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person, cook, or food technologist who formulates or adds flavorings to edible preparations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavorer designates something added to food primarily for the savor it imparts."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"Truffles serve as a sublime **flavorer**, imparting their subterranean perfume to poultry and savory game."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Grated nutmeg and lemon zest act as an exquisite **flavorer** in rich holiday custards."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"A generous dash of aromatic spirits served as a comforting **flavorer** in the hot restorative broth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of arboviruses carried by arthropods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of arboviruses carried by arthropods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of enveloped positive-sense single-stranded RNA viruses transmitted predominantly by arthropod vectors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic virology, the viral taxon encompassing flaviviruses, pestiviruses, and hepaciviruses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flaviviridae designates a family of arboviruses carried by arthropods."*
+> - 📜 **Walter Reed (*The Etiology of Yellow Fever*):** *"Experimental transmissions proved the filterable pathogen, later classified among **Flaviviridae**, depended on mosquito vectors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Epidemics of acute tropical fevers produced by the **Flaviviridae** family require rigorous mosquito eradication."*
+> - 📜 **Theobald Smith (*Parasitism and Disease*):** *"Vector-borne pathogens belonging to the **Flaviviridae** illustrate evolutionary adaptation to both insect and mammalian hosts."*

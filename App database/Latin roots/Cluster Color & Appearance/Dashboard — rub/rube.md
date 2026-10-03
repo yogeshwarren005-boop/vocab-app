@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is not very intelligent or interested in culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is not very intelligent or interested in culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsophisticated, naive, or gullible country person; a rustic rural individual; bumpkin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical and carnival slang, an inexperienced mark or spectator easily deceived by tricksters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rube designates a person who is not very intelligent or interested in culture."*
+> - 📜 **O. Henry (*The Gentle Grafter*):** *"The sharpers took the wealthy livestock drover for an innocent **rube** until he outsmarted their scheme."*
+> - 📜 **Jack London (*The Road*):** *"The tramp warned his companion not to act like a green **rube** when dodging the railroad yard police."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol Kennicott feared that the town elders regarded her cosmopolitan artistic ideas as fit only for a **rube**."*

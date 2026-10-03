@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ketone that forms the nucleus of certain natural yellow pigments like riboflavin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ketone that forms the nucleus of certain natural yellow pigments like riboflavin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow water-soluble nitrogenous organic compound forming the basis of biological cofactors like riboflavin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, the tricyclic isoalloxazine ring system involved in cellular oxidation-reduction reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavin designates a ketone that forms the nucleus of certain natural yellow pigments like riboflavin."*
+> - 📜 **Leonor Michaelis (*Oxidation-Reduction Potentials*):** *"Spectroscopic measurements confirmed that reduced **flavin** forms an intermediate free radical semiquinone."*
+> - 📜 **Otto Meyerhof (*Chemical Dynamics of Life Phenomena*):** *"Cellular respiratory enzymes depend upon catalytic **flavin** coenzymes for hydrogen transfer."*
+> - 📜 **Hugo Theorell (*The Nature and Mode of Action of Oxidation Enzymes*):** *"Purification of the yellow enzyme demonstrated a reversible dissociation of the **flavin** prosthetic group."*

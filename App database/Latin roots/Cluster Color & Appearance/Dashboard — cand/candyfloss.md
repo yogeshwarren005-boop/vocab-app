@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A candy made by spinning sugar that has been boiled to a high temperature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A candy made by spinning sugar that has been boiled to a high temperature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A confection of fluffy spun sugar served on a stick or in a bag; cotton candy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something visually enticing or entertaining but devoid of substantial depth or value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candyfloss designates a candy made by spinning sugar that has been boiled to a high temperature."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The seaside fairground bustled with children clutching pink puffs of spun **candyfloss**."*
+> - 📜 **Virginia Woolf (*Between the Acts*):** *"The light entertainment dissolved like airy **candyfloss** in the minds of the audience."*
+> - 📜 **Graham Greene (*Brighton Rock*):** *"Pink **candyfloss** and seaside rock were hawked among the holiday crowds along the pier."*

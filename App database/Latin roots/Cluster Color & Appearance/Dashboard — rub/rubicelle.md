@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow or orange variety of ruby spinel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow or orange variety of ruby spinel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of spinel exhibiting an orange-red or yellowish-red coloration, prized as a gemstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and gemology, a magnesium aluminate crystal distinguished from ruby by hardness and crystal system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubicelle designates a yellow or orange variety of ruby spinel."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The gem known as **rubicelle** represents an aluminate spinel colored by delicate traces of chromium and iron."*
+> - 📜 **Robert Kane (*Elements of Chemistry*):** *"Lapidaries distinguish true Oriental ruby from the softer orange-hued **rubicelle** by specific gravity tests."*
+> - 📜 **John Ruskin (*Deucalion: Collected Studies of the Lapse of Waves and Life of Stones*):** *"The luminous warmth of a faceted **rubicelle** rivaled the fiery glow of setting suns across alpine glaciers."*

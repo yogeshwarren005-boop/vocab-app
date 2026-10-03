@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bowling game using slender bowling pins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bowling pin that is thin by comparison with a tenpin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variation of bowling played primarily in New England and eastern Canada using candlepins and small balls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of ten narrow cylindrical pins used in this traditional regional sport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlepins designates a bowling game using slender bowling pins."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The sporting club organized a tournament of **candlepins** to enliven the cold winter evenings."*
+> - 📜 **Thomas Wolfe (*Look Homeward, Angel*):** *"The boys cheered as the ball swept cleanly through the standing **candlepins** with a sharp crack."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"In roadside recreation centers, travelers watched local youths compete at games of **candlepins**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin flav within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of flav in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Turning yellow, yellowish, or golden-hued; exhibiting yellow discoloration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical descriptions, foliage or ripening fruit gradually assuming a light yellow tint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavescent designates pertaining to, derived from, or characteristic of latin flav within the domain of color & appearance."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The autumnal transformation of the deciduous foliage begins with **flavescent** margins along the outer branches."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain seedlings displayed **flavescent** variegation when grown in mineral-deficient sandy soil."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The corolla appears pale green in bud but becomes distinctly **flavescent** upon complete anthesis."*

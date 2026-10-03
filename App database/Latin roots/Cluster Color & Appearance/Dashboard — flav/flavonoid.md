@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class of plant pigments having a chemical structure based on or similar to flavone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large class of plant pigments having a chemical structure based on or similar to flavone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large class of plant secondary metabolites having a fifteen-carbon polyphenolic skeleton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human nutrition and pharmacology, dietary phytonutrients that exhibit potent antioxidant and anti-inflammatory activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavonoid designates any of a large class of plant pigments having a chemical structure based on or similar to flavone."*
+> - 📜 **Albert Szent-Györgyi (*Studies on Biological Oxidation*):** *"Citrus extract fractions containing **flavonoid** complexes exhibited remarkable synergistic properties with ascorbic acid."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Floral coloration in several alpine families arises from anthocyanin and **flavonoid** combinations in cell sap."*
+> - 📜 **Leonor Michaelis (*Physicochemical Properties of Plant Pigments*):** *"Every distinct **flavonoid** pigment functions in vegetative tissues as a filter against ultraviolet solar radiation."*

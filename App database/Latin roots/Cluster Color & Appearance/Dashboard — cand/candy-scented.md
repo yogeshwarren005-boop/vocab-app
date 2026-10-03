@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling of candy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling of candy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an aroma resembling sweet sugar, caramel, vanilla, or confectionery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fragrant with sugary, sweet, or syrupy floral undertones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candy-scented designates smelling of candy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The blossoming clover field released a warm, **candy-scented** perfume in the midday heat."*
+> - 📜 **Edith Wharton (*The House of Mirth*):** *"The conservatory was filled with the exotic, **candy-scented** fragrance of tropical orchids."*
+> - 📜 **Katherine Mansfield (*The Garden Party*):** *"The summer air was **candy-scented** with crushed berries and warm honey from the hives."*

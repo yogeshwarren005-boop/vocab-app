@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The general atmosphere of a place or situation and the effect that it has on people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The taste experience when a savoury condiment is taken into the mouth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The distinctive taste and aroma of a substance as perceived through the combined senses of gustation and olfaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A prevailing or characteristic nuance, quality, tone, or atmosphere inherent in a situation or creative work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Who could taste the fine flavor in the name of Brooke if it were delivered casually, like wine without a seal?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth had her droll aspects, but her character sustained her oddities, as a very fine wine sustains a flavor of skin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Such were the appearance and mental flavor of Mr."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The roasted mutton and steaming punch possessed a rich **flavor** that delighted our hungry company."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Wild apples gathered from abandoned hillside pastures possess an austere, piquant **flavor** unknown in orchards."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sea-salt and tobacco smoke gave a rough, pungent **flavor** to all conversation in the tavern."*

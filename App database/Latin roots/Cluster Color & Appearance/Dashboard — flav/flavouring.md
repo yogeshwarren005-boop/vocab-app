@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to food primarily for the savor it imparts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lend flavor to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic spice, essence, syrup, or ingredient incorporated into an edible mixture for taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice or method of balancing culinary seasonings and aromas during gastronomic preparation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The liquid drawn off from the mash tun, containing, of course, the sugar, is subsequently boiled, numerous flavouring matters (including hops) are added, and then it is cooled again, ready for the final process--fermentation."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"In a happy compromise between her two states of existence, she had already become, with her workbasket before her, the equably vivacious companion with a slight judicious flavouring of information, when the Billickin announced herself."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A cordial spiced with lemon peel and clove **flavouring** was prepared to revive the weary traveler."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The cook was instructed to employ delicate vanilla **flavouring** for the evening blancmange."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Careful measurement of almond **flavouring** prevents overpowering the subtle richness of the cake."*

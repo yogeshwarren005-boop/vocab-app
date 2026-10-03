@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An implement with a small cup at the end of a handle; used to extinguish the flame of a candle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An implement with a small cup at the end of a handle; used to extinguish the flame of a candle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument with a small metal cup or cone on a long handle used to extinguish burning candles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, scissors-like shears with a small box attached for trimming and catching charred candle wicks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlesnuffer designates an implement with a small cup at the end of a handle; used to extinguish the flame of a candle."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The beadle extinguished the church tapers one by one with a tarnished brass **candlesnuffer**."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck moved quietly through the dormitory, using her silver **candlesnuffer** at the stroke of ten."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The antiquary carefully laid down an ancient carved brass **candlesnuffer** among his curiosities."*

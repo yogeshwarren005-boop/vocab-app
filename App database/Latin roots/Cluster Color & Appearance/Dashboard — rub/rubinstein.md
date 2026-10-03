@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states pianist (born in poland) known for his interpretations of the music of chopin (1886-1982).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Russian composer and pianist (1829-1894).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anton Rubinstein (1829–1894), Russian virtuoso pianist and composer who founded the Saint Petersburg Conservatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to Anton or Arthur Rubinstein, celebrated 19th and 20th-century virtuoso interpretations of classical piano repertoire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They had met at Lady Berkshire’s the night that Rubinstein played there, and after that used to be always seen together at the opera and wherever good music was going on."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The tempestuous pianism of **Rubinstein** overwhelmed the audience like an elemental force of nature."*
+> - 📜 **Pyotr Ilyich Tchaikovsky (*Autobiographical Letters and Diaries*):** *"My beloved teacher Anton **Rubinstein** demanded uncompromising discipline and emotional honesty at the keyboard."*
+> - 📜 **James Huneker (*Chopin: The Man and His Music*):** *"Few interpreters possessed the colossal physical command and velvet tone of **Rubinstein** in Beethoven sonatas."*

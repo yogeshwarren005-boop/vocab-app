@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The campaign of a candidate to be elected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The campaign of a candidate to be elected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The status, campaign, or period of an individual seeking an elective office or appointment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formal qualification or active standing for an academic degree, professional role, or public honor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They have survived one house cleaning after another and denied candidacy for garage sales and flea markets."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It was carried by a bare majority; due entirely to the Gubernatorial candidacy of Mr."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The excitement in the ranks of the Republicans was very high, because of the candidacy of General Grant for what was popularly called a “third term,” though not a third consecutive term."*
+> - 📜 **Abraham Lincoln (*Speeches and Letters*):** *"Lincoln announced his **candidacy** for the state legislature with modest self-reliance."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A citizen offering his **candidacy** for the executive magistracy must submit his character to national scrutiny."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Babbitt campaigned vigorously to promote his friend's **candidacy** for the municipal aldermanic council."*

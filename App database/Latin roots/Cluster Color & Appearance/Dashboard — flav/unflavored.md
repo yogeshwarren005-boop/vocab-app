@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without flavoring added.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without flavoring added.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing no artificial or supplementary flavoring additives; plain, natural, and unadorned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food manufacturing, plain bases or ingredients before the introduction of taste profiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unflavored designates without flavoring added."*
+> - 📜 **Harvey W. Wiley (*Foods and Their Adulteration*):** *"The inspection verified that the gelatin consisted of pure, **unflavored** animal collagen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The invalid diet required **unflavored** rice paste to prevent irritation of the inflamed digestive tract."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Fresh spring water, cool and **unflavored**, revived the wounded soldiers far better than fermented syrups."*

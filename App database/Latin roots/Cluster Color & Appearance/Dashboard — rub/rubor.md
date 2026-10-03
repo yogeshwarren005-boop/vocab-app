@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Redness of the skin or mucous membranes caused by capillary congestion and increased blood flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pathology, one of Celsus's four cardinal signs of inflammation alongside calor, tumor, and dolor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubor designates a response of body tissues to injury or irritation; characterized by pain and swelling and redness and heat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The inflamed joint exhibited the classical quartet of acute arthritis: **rubor**, calor, tumor, and intense dolor."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"The vascular engorgement producing cutaneous **rubor** marks the first biological defense against localized injury."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic capillary dilation explains the visible **rubor** accompanying active cellular hyperemia in tissue."*

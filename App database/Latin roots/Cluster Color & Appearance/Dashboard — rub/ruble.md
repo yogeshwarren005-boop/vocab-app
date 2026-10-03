@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in tajikistan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in russia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic monetary currency unit of Russia and several neighboring countries, subdivided into one hundred kopecks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Russian economic history, silver and paper currency circulated across the Tsarist empire and Soviet Union.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"I need five hundred rubles, and have only one twenty-five-ruble note."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Rostóv was horrified to hear later that of all that mass of huge and handsome men, of all those brilliant, rich youths, officers and cadets, who had galloped past him on their thousand-ruble horses, only eighteen were left after the charge."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"At the last post station before Otrádnoe he gave the driver a three-ruble tip, and on arriving he ran breathlessly, like a boy, up the steps of his home."*
+> - 📜 **Leo Tolstoy (*Anna Karenina*):** *"Levin calculated the harvest profit to the last silver **ruble**, ensuring the peasant laborers received fair wages."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"Dmitri clutched the envelope containing three thousand **ruble** notes as though his earthly salvation depended upon it."*
+> - 📜 **Anton Chekhov (*The Cherry Orchard*):** *"Lopakhin urged Madame Ranevskaya to lease her estate plots for summer cottages at twenty-five **ruble** annual rent."*

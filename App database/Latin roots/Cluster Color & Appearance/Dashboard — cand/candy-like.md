@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling candy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling candy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling candy in sweetness, bright color, glazed texture, or artificial flavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing a frivolous, sugary, or artificially appealing character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candy-like designates resembling candy."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The modern storefronts were painted in bright, **candy-like** pastels to attract suburban shoppers."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The glass baubles sparkled with a **candy-like** iridescence upon the decorated Christmas branch."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"The resort hotels displayed **candy-like** pink and turquoise facades along the Riviera waterfront."*

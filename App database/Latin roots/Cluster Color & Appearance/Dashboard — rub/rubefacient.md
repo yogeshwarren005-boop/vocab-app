@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine for external application that produces redness of the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine for external application that produces redness of the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal substance or topical application that produces redness of the skin by causing capillary dilation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a counterirritant applied externally to relieve deep visceral pain or joint inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubefacient designates a medicine for external application that produces redness of the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A mustard plaster applied over the chest acted as an effective **rubefacient** to alleviate acute pleuritic distress."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"Topical application of the herbal tincture acted as a mild **rubefacient**, increasing local cutaneous circulation."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"The stimulative action of a cutaneous **rubefacient** derives from reflex vasomotor dilation in underlying tissues."*

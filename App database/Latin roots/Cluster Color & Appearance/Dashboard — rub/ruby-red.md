@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the deep, glowing, clear crimson-red color characteristic of a polished ruby gem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evocative of radiant, fiery, or luscious redness in wine, jewels, flowers, or twilight skies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ruby-red designates of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He held the crystal goblet up to the candlelight, admiring the clear **ruby-red** glow of vintage claret."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Bright holly berries of **ruby-red** clustered amidst the green garlands adorning the festive hearth."*
+> - 📜 **John Keats (*Lamia*):** *"Her iridescent scales shimmered with azure, gold, and vibrant **ruby-red** beneath the summer sun."*

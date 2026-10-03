@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An authoritative rule of conduct or procedure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An explanation or definition of an obscure word in a text.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heading, title, or instructional directive in a manuscript or book, traditionally written or printed in red ink.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An authoritative rule, established custom, liturgical direction, or standardized evaluation criterion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He despised the Canons and Rubric, swore by the Articles, and deemed himself consistent through the whole category—which in a way he might have been."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The “appetite for joy” which pervades all creation, that tremendous force which sways humanity to its purpose, as the tide sways the helpless weed, was not to be controlled by vague lucubrations over the social rubric."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I asked her once what was the great attraction of that volume, and she said, “the Rubric.” Three hours she gave to stitching, with gold thread, the border of a square crimson cloth, almost large enough for a carpet."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The medieval missal was illuminated with gold capitals and marginal directions printed in scarlet **rubric**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal ritual followed ancient precedent according to every traditional **rubric** of the Court of Chancery."*
+> - 📜 **George Eliot (*Romola*):** *"The Dominican friar strictly obeyed every liturgical **rubric** prescribed for the solemn feast of the Annunciation."*

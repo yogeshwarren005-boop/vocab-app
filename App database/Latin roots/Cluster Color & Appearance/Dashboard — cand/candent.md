@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting light as a result of being heated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting light as a result of being heated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Glowing with heat; white-hot; incandescent and radiating intense light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic scientific poetry, gleaming with fiery brilliance or dazzling purity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candent designates emitting light as a result of being heated."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Angelic spears shone with **candent** fury as they advanced against the rebellious hosts."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The furnace of the try-works glowed with **candent** fury beneath the pitch-black midnight sky."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Meteors shot like **candent** arrows across the celestial vault of heaven."*

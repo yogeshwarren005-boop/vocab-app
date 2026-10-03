@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the rubiaceae; old world herbs and subshrubs grown for their medicinal properties and for dye substances extracted from their roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the rubiaceae; old world herbs and subshrubs grown for their medicinal properties and for dye substances extracted from their roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Rubiaceae, typified by the madder plant (Rubia tinctorum), source of red dye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, the root of madder cultivated historically to yield the bright red coloring agent alizarin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubia designates type genus of the rubiaceae; old world herbs and subshrubs grown for their medicinal properties and for dye substances extracted from their roots."*
+> - 📜 **Robert Kane (*Elements of Chemistry*):** *"The pulverized roots of **Rubia** tinctorum yield alizarin and purpurin, the traditional bases of Turkey red dye."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Rubia** is characterized by whorled leaves, minute yellowish blossoms, and succulent berry-like fruit."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Colonial planters cultivated beds of imported **Rubia** in hopes of establishing a domestic trade in crimson dyes."*

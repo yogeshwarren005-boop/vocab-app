@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Full of flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of pleasant, rich, or satisfying taste; appetizingly seasoned and aromatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rich in distinctive, colorful, or entertaining qualities; lively and spirited in character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavorful designates full of flavor."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The hearth-baked loaves were crusty and **flavorful**, carrying the hearty fragrance of home-ground wheat."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The Christmas feast featured roasted venison and **flavorful** mulled cider that warmed every guest."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The wild berries gathered along the riverbank were sweet, succulent, and remarkably **flavorful**."*

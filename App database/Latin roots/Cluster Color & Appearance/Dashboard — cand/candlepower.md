@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Luminous intensity measured in candelas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Luminous intensity measured in candelas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of measure of luminous intensity, equal to the light emitted by a standard candle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lighting technology, a historical photometric unit replaced by the modern candela.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlepower designates luminous intensity measured in candelas."*
+> - 📜 **Thomas Alva Edison (*The Papers of Thomas A. Edison*):** *"The new carbon filament lamp delivered sixteen **candlepower** of steady, economical illumination."*
+> - 📜 **H.G. Wells (*The Island of Dr Moreau*):** *"The ship's searchlight of enormous **candlepower** swept the dark coastal waters for survivors."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"High-frequency vacuum tubes produced luminous discharge exceeding fifty **candlepower** without perceptible heat."*

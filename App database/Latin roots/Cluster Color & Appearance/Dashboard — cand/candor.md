@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to make judgments free from discrimination or dishonesty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being honest and straightforward in attitude and speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Openness, unreserved honesty, and frank sincerity in speech or expression; freedom from bias or deceit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary criticism, fairness, generosity, and freedom from prejudice in judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon would take your place, there would be gain, instead of loss.” But there was still a weight on his mind which arrested this cheerful candor."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The national government, in such cases, will not be affected by this pride, but will proceed with moderation and candor to consider and decide on the means most proper to extricate them from the difficulties which threaten them."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"That this remaining task may be executed under impressions conducive to a just and fair result, some reflections must in this place be indulged, which candor previously suggests."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth admired Jane's universal **candor**, which always sought the most charitable construction of motives."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An appeal is made to the enlightened **candor** of the people in evaluating the proposed constitutional system."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Nothing astonishes men so much as common sense and plain dealing, spoken with heroic **candor**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes or sells candles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes or sells candles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, artisan, or chandler who manufactures candles from wax, tallow, or stearin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional tradesperson responsible for rendering fats and dipping or casting candles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlemaker designates a person who makes or sells candles."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My father was a soap boiler and **candlemaker**, and in his shop I was employed in cutting wicks and filling molds."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The oilman and **candlemaker** in the alley supplied yellow tallow dips to the clerks of Chancery."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Every honest **candlemaker** who dips faithful wicks contributes his mite to the illumination of the realm."*

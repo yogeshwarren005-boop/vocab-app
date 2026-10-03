@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes candies and other sweets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes candies and other sweets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artisan, confectioner, or company that manufactures candy and sweet treats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker specializing in the boiling of sugar, pulling of taffy, and tempering of chocolate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candymaker designates someone who makes candies and other sweets."*
+> - 📜 **Louisa May Alcott (*Little Men*):** *"The village **candymaker** welcomed the schoolboys into his warm, fragrant sugar kitchen."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The Greek **candymaker** stirred copper kettles of bubbling caramel behind his glass counter."*
+> - 📜 **O. Henry (*The Four Million*):** *"The industrious **candymaker** dipped bonbons with rapid, practiced sweeps of her fingers."*

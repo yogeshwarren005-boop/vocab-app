@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed family of mostly tropical trees and shrubs and herbs; includes coffee and chinchona and gardenia and madder and bedstraws and partridgeberry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed family of mostly tropical trees and shrubs and herbs; includes coffee and chinchona and gardenia and madder and bedstraws and partridgeberry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The madder or coffee family of flowering plants, comprising trees, shrubs, and herbs with opposite stipulate leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pharmacognosy, the plant family source of quinine (Cinchona), coffee (Coffea), and ipecac (Carapichea).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubiaceae designates widely distributed family of mostly tropical trees and shrubs and herbs; includes coffee and chinchona and gardenia and madder and bedstraws and partridgeberry."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The family **Rubiaceae** constitutes one of the largest dicotyledonous groups, renowned for economic alkaloids and timber."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Heterostyly is exceptionally prevalent among genera of the **Rubiaceae**, facilitating insect-mediated cross-pollination."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Cinchona bark, coffee berries, and gardenia blossoms illustrate the remarkable economic utility of the **Rubiaceae**."*

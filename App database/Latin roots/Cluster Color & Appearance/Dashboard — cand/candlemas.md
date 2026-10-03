@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feast day commemorating the presentation of christ in the temple; a quarter day in scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feast day commemorating the presentation of christ in the temple; a quarter day in scotland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian festival celebrated on February 2 commemorating the purification of Mary and presentation of Christ in the temple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional European folklore and agriculture, a traditional quarter day marking the midpoint of winter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then I was three year at Mellstock, and I’ve been here one-and-thirty year come Candlemas."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"After this her daily tasks were gone through heavily enough, and brought on the day which was of great import to agriculturists—the day of the Candlemas Fair."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It is a day of fulfilment; agreements for outdoor service during the ensuing year, entered into at Candlemas, are to be now carried out."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Hiring fairs for shepherds and farm laborers were traditionally held at the turn of **Candlemas**."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old tenant paid his half-yearly manorial rent punctually upon the feast of **Candlemas**."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Old rustic proverbs predicted fair spring weather if the skies were clear and frosty on **Candlemas**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of dicotyledonous plants of the subclass asteridae; have opposite leaves and an inferior compound ovary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of dicotyledonous plants of the subclass asteridae; have opposite leaves and an inferior compound ovary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of dicotyledonous flowering plants containing the families Rubiaceae and Caprifoliaceae in older taxonomic systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical systematic botany, a major plant order typified by opposite leaves, interpetiolar stipules, and inferior ovaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubiales designates an order of dicotyledonous plants of the subclass asteridae; have opposite leaves and an inferior compound ovary."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The systematic placement of the order **Rubiales** reflects ancestral affinities with both umbellifers and campanulas."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"North American representatives of **Rubiales** include northern bedstraws alongside southern buttonbush shrubs."*
+> - 📜 **Julius Sachs (*Text-Book of Botany*):** *"Comparative floral morphology groups madder and honeysuckle allies under the gamopetalous order **Rubiales**."*

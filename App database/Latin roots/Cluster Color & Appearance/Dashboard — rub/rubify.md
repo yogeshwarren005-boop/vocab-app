@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make ruby red.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make ruby red.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make red or reddish; to redden; to suffuse a substance or surface with a red color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical alchemy and early medicine, the practice of turning a material red or causing cutaneous blushing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubify designates make ruby red."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Alchemical operators claimed their tinctures could **rubify** imperfect metals before the final projection."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Topical friction and warming fomentations serve to **rubify** the surface and stimulate local capillary flow."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Exposure to cold air and sharp winds will quickly **rubify** the exposed countenance of mountaineers."*

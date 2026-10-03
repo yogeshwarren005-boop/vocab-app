@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without flavoring added.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without flavoring added.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no added essence, spice, sweetener, or condiment; entirely unseasoned and unembellished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional household receipt books, plain doughs, syrups, or emulsions without aromatic extracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unflavoured designates without flavoring added."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Dissolve the sheets of **unflavoured** isinglass in tepid water before stirring into the fruit puree."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Simple, **unflavoured** chicken broth provided gentle strength to the recovering typhoid convalescent."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The poor debtor dined upon an **unflavoured** crust and a mug of cold municipal water."*

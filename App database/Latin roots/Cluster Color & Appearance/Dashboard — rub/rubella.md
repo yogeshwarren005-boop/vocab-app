@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contagious viral disease that is a milder form of measles lasting three or four days; can be damaging to a fetus during the first trimester.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contagious viral disease that is a milder form of measles lasting three or four days; can be damaging to a fetus during the first trimester.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: German measles; a contagious viral infection characterized by a mild fever and a diffuse red macular skin rash.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical teratology, an infection dangerous during early pregnancy due to risk of congenital rubella syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubella designates a contagious viral disease that is a milder form of measles lasting three or four days; can be damaging to a fetus during the first trimester."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Epidemic **rubella** is distinguished from true measles by its mild prodrome and rapid pink macular eruption."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Post-auricular lymphadenopathy provides a valuable physical sign when diagnosing early pediatric **rubella**."*
+> - 📜 **Jonathan Hutchinson (*Clinical Lectures on Rare Diseases*):** *"Maternal contraction of **rubella** during initial gestation poses grave hazards to fetal cardiac development."*

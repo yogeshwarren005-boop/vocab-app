@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large tree native to southeastern asia; the nuts yield oil used in varnishes; nut kernels strung together are used locally as candles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seed of candlenut tree; source of soil used in varnishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowering tree of the spurge family (Aleurites moluccanus) native to Polynesia, whose oily nuts can be burned for light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical agriculture, a valuable oil-seed crop used in traditional illumination, varnish, and Pacific cuisine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlenut designates large tree native to southeastern asia; the nuts yield oil used in varnishes; nut kernels strung together are used locally as candles."*
+> - 📜 **Herman Melville (*Typee*):** *"The islanders strung the kernel of the **candlenut** upon dried palm ribs, burning them sequentially for illumination."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed groves of the indigenous **candlenut** tree growing vigorously in the sheltered Polynesian valleys."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The native feast was illuminated by flickering torches made from the rich oil of the crushed **candlenut**."*

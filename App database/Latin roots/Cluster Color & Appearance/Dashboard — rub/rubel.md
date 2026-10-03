@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in belarus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in belarus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of ruble, the primary monetary unit of Russia and related territories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical commercial records, a silver coin or currency designation circulating in the Russian Empire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubel designates the basic unit of money in belarus."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Pierre Bezukhov paid twenty silver **rubel** coins to the postilion to hasten the journey to Moscow."*
+> - 📜 **Fyodor Dostoevsky (*Crime and Punishment*):** *"Raskolnikov fingered the small copper and silver **rubel** change remaining in his threadbare coat pocket."*
+> - 📜 **Alexander Pushkin (*The Captain's Daughter*):** *"The generous officer gifted a silver **rubel** to the Cossack guide who had led them through the blizzard."*

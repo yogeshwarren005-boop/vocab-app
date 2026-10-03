@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with something sweet, such as a hard sugar glaze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Encrusted with sugar or syrup.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserved, encrusted, or cooked with sugar, syrup, or a sweet glaze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative literature, deceptively flattering, sweet-sounding, or insincere in tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, let the candied tongue lick absurd pomp, And crook the pregnant hinges of the knee Where thrift may follow fawning."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ’twere a kibe, ’Twould put me to my slipper: but I feel not This deity in my bosom: twenty consciences That stand ’twixt me and Milan, candied be they And melt ere they molest!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will the cold brook, Candied with ice, caudle thy morning taste To cure thy o’ernight’s surfeit?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Let the **candied** tongue lick absurd pomp, and crook the pregnant hinges of the knee where thrift may follow fawning."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The shop windows displayed pyramids of **candied** orange peel, plums, and spiced pastries."*
+> - 📜 **John Keats (*The Eve of St. Agnes*):** *"Porphyro brought delicacies of **candied** apple, quince, and plum, and jellies smoother than creamy curd."*

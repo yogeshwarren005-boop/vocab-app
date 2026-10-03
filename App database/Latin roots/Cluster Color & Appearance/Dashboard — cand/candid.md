@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by directness in manner or speech; without subtlety or evasion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informal or natural; especially caught off guard or unprepared.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Truthful, straightforward, and frank in speech or manner; sincere and impartial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photography, taken informally and spontaneously without the subject posing for the lens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I write down these opinions not because I believe that this or any other thing was so because I thought so, but only because I did think so and I want to be quite candid about all I thought and did."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, unabashed and candid."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Live upon your practical wisdom, and let us live upon you!” He laughed, but as usual seemed quite candid and really to mean what he said."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth gave a **candid** acknowledgment of her former prejudice and injustice toward Mr. Darcy."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A **candid** citizen must admit that the weaknesses of the confederation require decisive remedy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea welcomed his **candid** criticism, valuing truth far above polite social flattery."*

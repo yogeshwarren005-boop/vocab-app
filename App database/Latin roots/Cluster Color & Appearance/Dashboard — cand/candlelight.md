@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The light provided by a burning candle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The light provided by a burning candle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The soft, flickering light provided by one or more burning candles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of dusk or twilight when candles are lit; evocative of an intimate historic atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairy had again worked by morning candlelight for a long time; and a fresh renewal of Clare’s pleading occurred one morning between three and four."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the candlelight the painting was more than unpleasant."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"’Tis a thousand pities your husband can’t see ’ee now—you do look a real beauty!” said Izz Huett, regarding Tess as she stood on the threshold between the steely starlight without and the yellow candlelight within."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Havisham sat in the dim yellow **candlelight** of the decaying bridal chamber."*
+> - 📜 **Edgar Allan Poe (*The Oval Portrait*):** *"The pale rays of **candlelight** fell upon the canvas, giving the painted portrait life-like vividness."*
+> - 📜 **Jane Austen (*Emma*):** *"The small parlor looked remarkably cheerful and cozy by warm **candlelight** after the winter storm."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin cand within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of cand in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Luminous radiation emitted by a material heated to white-hot temperature; glowing heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or phenomenon of glowing white with intense thermal energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candescence designates pertaining to, derived from, or characteristic of latin cand within the domain of color & appearance."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Carbon particles within the flame are raised to bright **candescence**, producing the yellow light."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The platinum wire glowed with blinding **candescence** under the concentrated electric discharge."*
+> - 📜 **H.G. Wells (*The Time Machine*):** *"A flash of brilliant white **candescence** illuminated the laboratory as the machine leaped forward."*

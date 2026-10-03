@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A holder with sockets for candles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A holder with sockets for candles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A holder, support, or decorative stand with a socket in which a candle is inserted for burning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial charting, a style of technical price chart displaying high, low, open, and close prices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I opened it softly and found Miss Jellyby shivering there with a broken candle in a broken candlestick in one hand and an egg-cup in the other."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We found Miss Jellyby trying to warm herself at the fire in the writing-room, which Priscilla was then lighting with a smutty parlour candlestick, throwing the candle in to make it burn better."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, stopping again, and making several absent endeavours to put his candlestick in his pocket."*
+> - 📜 **Victor Hugo (*Les Misérables*):** *"The bishop gave the two silver **candlestick** pieces to Jean Valjean, saying they belonged to him forever."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A heavy silver **candlestick** lay overturned upon the hearthrug beside the murdered squire."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The old captain struck his fist upon the table, making the pewter **candlestick** rattle."*

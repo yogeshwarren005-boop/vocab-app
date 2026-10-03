@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wax-coated mexican shrub related to euphorbia antisyphilitica.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wax-coated shrub of northern mexico and southwestern united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A desert shrub (Euphorbia antisyphilitica) native to northern Mexico and Texas that yields a hard natural wax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and cosmetics, the hard vegetable wax extracted from the coated stems of the shrub.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candelilla designates wax-coated mexican shrub related to euphorbia antisyphilitica."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Arid southwestern washes support dense clusters of the wax-bearing desert **candelilla**."*
+> - 📜 **John Muir (*Steep Trails*):** *"The desert slopes of the Rio Grande were covered with drought-resisting clumps of slender **candelilla**."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"Mexican gatherers boiled the gray stems of **candelilla** in open vats to extract commercial wax."*

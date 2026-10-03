@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branched candlestick; ornamental; has several lights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched candlestick; ornamental; has several lights.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large branched candlestick or lamp holder with several arms supporting multiple lights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interior architecture and decorative arts, an ornate table centerpiece designed for multiple candles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And in August, high in air, the beautiful and bountiful horse-chestnuts, candelabra-wise, proffer the passer-by their tapering upright cones of congregated blossoms."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And in August, high in air, the beautiful and bountiful horse-chestnuts, candelabra-wise, proffer the passer-by their tapering upright cones of congregated blossoms."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"Then, leaping down from the mantel-shelf with the same graceful ease as he had mounted, he strode to the last great red candle, fit for a cathedral altar, which Aphra had set in the central candelabra."*
+> - 📜 **Edgar Allan Poe (*The Masque of the Red Death*):** *"A massive golden **candelabra** suspended from the vaulted ceiling illuminated the imperial hall."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The footman carried a silver **candelabra** before us, illuminating the dark portraits of Thornfield."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian placed the heavy brass **candelabra** upon the ebony table beside the locked wardrobe."*

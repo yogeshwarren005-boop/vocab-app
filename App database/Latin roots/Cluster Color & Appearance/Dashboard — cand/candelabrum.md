@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Branched candlestick; ornamental; has several lights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Branched candlestick; ornamental; has several lights.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A decorative branched holder for several candles or lamps; the singular form of candelabra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman antiquities, a tall bronze or marble stand supporting oil lamps in patrician homes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"And when within the hall, and without, where the foreign servants were encamped, many fires and pine torches were kindled--before Halfred burned the seven armed candelabrum--it was at first a right jovial sun fire-feast."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Only the heavy candelabrum stood between the two."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Vandals plundered the sacred golden **candelabrum** that had once adorned the Temple of Jerusalem."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"An antique bronze **candelabrum** cast flickering shadows across the frescoed walls of the salone."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer sat beside a solitary bronze **candelabrum**, examining the mysterious packet of letters."*

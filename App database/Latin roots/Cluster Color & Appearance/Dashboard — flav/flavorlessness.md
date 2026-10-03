@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having no flavor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having no flavor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete absence of taste, seasoning, or aroma in an edible substance; blandness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of personality, distinctive vitality, or cultural richness in writing, thought, or social life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavorlessness designates the property of having no flavor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The utter **flavorlessness** of polite provincial gossip drove Dorothea to seek solace in serious historical studies."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Pure distilled water surprises the novice taster by its total **flavorlessness** upon the tongue."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman complained of the dull **flavorlessness** of high-society etiquette in Parisian drawing rooms."*

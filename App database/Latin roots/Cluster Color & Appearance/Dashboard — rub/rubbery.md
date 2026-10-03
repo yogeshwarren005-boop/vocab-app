@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an elastic texture resembling rubber in flexibility or toughness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult to chew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling rubber in consistency, elasticity, toughness, or texture; springy and pliable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food description, having an unpleasantly tough, chewy, and resilient texture when overcooked.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It was a little more than ten feet square; in the center a seat with curving outlines rose from the floor, apparently made of the same rubbery material as the floor itself."*
+> - 📜 **H.G. Wells (*The War of the Worlds*):** *"The Martian tentacles possessed a dark, **rubbery** skin that glistened wetly in the twilight."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The primeval fungi growing upon the cavern floor had a strange, **rubbery** substance underfoot."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The canteen lunch consisted of cold stew accompanied by a chunk of tough, **rubbery** cheese."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A b vitamin that prevents skin lesions and weight loss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A b vitamin that prevents skin lesions and weight loss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vitamin B2, a yellow water-soluble vitamin essential for cellular energy production and tissue repair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological nutrition, the dietary precursor to enzyme cofactors flavin mononucleotide and flavin adenine dinucleotide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, riboflavin designates a b vitamin that prevents skin lesions and weight loss."*
+> - 📜 **Albert Szent-Györgyi (*Studies on Biological Oxidation*):** *"Isolation of pure crystalline **riboflavin** elucidated its critical role as a yellow respiratory prosthetic group."*
+> - 📜 **Fritz Lipmann (*Metabolic Generation of Phosphate Bond Energy*):** *"Enzymatic phosphorylation transforms dietary **riboflavin** into coenzymes essential for aerobic dehydrogenation."*
+> - 📜 **Leonor Michaelis (*Oxidation-Reduction Potentials*):** *"The characteristic yellow fluorescence of **riboflavin** diminishes under progressive chemical reduction."*

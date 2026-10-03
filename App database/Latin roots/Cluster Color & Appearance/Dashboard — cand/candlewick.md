@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The wick of a candle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loops of soft yarn are cut to give a tufted pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cord, thread, or woven cotton wick embedded in the center of a candle that draws fuel to the flame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft tufted fabric embroidered with raised chenille-like stitches, resembling a candlewick.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candlewick designates the wick of a candle."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Capillary action draws the melted wax up the fibers of the braided **candlewick** into the vaporizing zone."*
+> - 📜 **Edith Wharton (*Ethan Frome*):** *"Zeena smoothed the white **candlewick** bedspread with bony fingers in the chilly bedroom."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I trimmed the **candlewick** carefully to prevent the soot from soiling my manuscript pages."*

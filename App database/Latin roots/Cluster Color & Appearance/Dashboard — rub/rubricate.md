@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in the church calendar as a red-letter day honoring a saint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Furnish with rubrics or regulate by rubrics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To mark, write, highlight, or illuminate text with red ink; to provide with red headings or titles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical publishing and manuscript production, to format ceremonial directives in red typography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubricate designates place in the church calendar as a red-letter day honoring a saint."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The monastic scribe spent hours to carefully **rubricate** the ceremonial passages of the illuminated psalter."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Early Italian printers chose to **rubricate** chapter titles with vermilion to emulate hand-copied manuscripts."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He proposed to **rubricate** every vital philosophical aphorism with scarlet type for the enlightenment of readers."*

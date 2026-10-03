@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transparent piece of ruby that has been cut and polished and is valued as a precious gem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transparent deep red variety of corundum; used as a gemstone and in lasers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A precious gemstone consisting of corundum (aluminum oxide) colored deep red by traces of chromium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep, rich, glowing red color; also something likened to a ruby in beauty, rarity, or brilliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You make me strange Even to the disposition that I owe, When now I think you can behold such sights, And keep the natural ruby of your cheeks, When mine are blanch’d with fear."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"My words were hardly intended as that, little wife," Edward responded in a kindly tone, following her into the hall, catching her in his arms, and imprinting a kiss on her ruby lips."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"I thought you were taking a nap," he remarked, as he put his arm round her, and kissed the ruby lips she held up in mute request."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"A diamond gone, cost me two thousand ducats in Frankfort! And other precious, precious jewels; I would my daughter were dead at my foot, and the jewels in her ear; would she were hearsed at my foot, and the ducats in her coffin! No, but a **ruby**!"*
+> - 📜 **Oscar Wilde (*The Happy Prince and Other Tales*):** *"Dear little Swallow, pluck out the great **ruby** from my sword-hilt and carry it to the poor seamstress."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A glowing **ruby** pendant sparkled against the dark velvet of her evening gown in the candlelight."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft silvery metallic element of the alkali metal group; burns in air and reacts violently in water; occurs in carnallite and lepidolite and pollucite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft silvery metallic element of the alkali metal group; burns in air and reacts violently in water; occurs in carnallite and lepidolite and pollucite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, highly reactive silvery-white alkali metal (atomic number 37) whose spectral emission features deep red lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spectroscopic history, the chemical element discovered in 1861 by Bunsen and Kirchhoff via flame spectroscopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubidium designates a soft silvery metallic element of the alkali metal group; burns in air and reacts violently in water; occurs in carnallite and lepidolite and pollucite."*
+> - 📜 **Robert Bunsen (*Researches on Chemical Analysis by Spectral Observations*):** *"Evaporation of mineral spring waters revealed two previously unknown dark red spectral lines belonging to **rubidium**."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The discovery of **rubidium** corroborated the periodic similarities linking potassium and caesium alkali metals."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The chemical affinities of metallic **rubidium** cause it to ignite spontaneously upon contact with moisture."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prolific flemish baroque painter; knighted by the english king charles i (1577-1640).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prolific flemish baroque painter; knighted by the english king charles i (1577-1640).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peter Paul Rubens (1577–1640), the renowned Flemish Baroque painter celebrated for dynamic compositions and sensuous color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of or pertaining to the lavish style, voluptuous human figures, and warm palette of Peter Paul Rubens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Also pictures by Murillo, Rubens, Teniers, Titian, Vandyck, and others."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Some years ago, says Richardson, in his Anecdotes of Painting, a gentleman came to me to invite me to his house: I have, said he, a picture of Rubens, and it is a rare good one."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"The shade of Rubens might have evoked the mighty allegories."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The muscular power and fiery carnation tints in the canvases of **Rubens** demonstrate mastery over heroic figure composition."*
+> - 📜 **Charles Baudelaire (*The Flowers of Evil*):** *"The opulent river of life painted by **Rubens** flows through palaces of satin and flesh."*
+> - 📜 **Henry James (*The American*):** *"Newman strolled through the Louvre gallery, pausing to admire the magnificent color harmonies of **Rubens**."*

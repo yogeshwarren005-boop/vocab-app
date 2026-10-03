@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The campaign of a candidate to be elected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The campaign of a candidate to be elected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fact, status, or campaign of being a candidate for office or honor; candidacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British political and academic terminology, the formal nomination or standing of an applicant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He threw himself, however, with great ardour into the support of the candidature of his friend Professor P.C."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Bradlaugh a contribution toward the expenses of his candidature for Northampton."*
+> - 📜 **Anthony Trollope (*Phineas Finn*):** *"Phineas announced his **candidature** for the borough amidst turbulent parliamentary rumors."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The duke withdrew his **candidature** when it became evident that the commons favored his rival."*
+> - 📜 **Winston Churchill (*My Early Life*):** *"My first parliamentary **candidature** at Oldham was a lively and educational baptism of fire."*

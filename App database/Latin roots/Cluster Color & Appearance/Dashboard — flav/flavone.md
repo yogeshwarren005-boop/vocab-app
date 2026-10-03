@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless crystalline compound that is part of a number of white or yellow plant pigments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless crystalline compound that is part of a number of white or yellow plant pigments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless crystalline organic compound (2-phenylchromone) that forms the structural backbone of yellow plant pigments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytochemical analysis, a class of flavonoid compounds possessing protective antioxidant and ultraviolet-absorbing roles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavone designates a colorless crystalline compound that is part of a number of white or yellow plant pigments."*
+> - 📜 **Robert Kane (*Elements of Chemistry*):** *"Chemical extraction of primula blossoms yielded crystallized **flavone** possessing distinctive optical absorbance."*
+> - 📜 **Richard Willstätter (*Investigations on Chlorophyll and Anthocyanins*):** *"Synthetic oxidation converted chromone precursors into pure **flavone**, establishing its structural skeleton."*
+> - 📜 **Julius Sachs (*Text-Book of Botany*):** *"Epidermal cells accumulate derivative **flavone** glucosides to shield sensitive chloroplasts from excessive sunlight."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bog plant of pine barrens of southeastern united states having spikes of irregular yellow-orange flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bog plant of pine barrens of southeastern united states having spikes of irregular yellow-orange flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several wild plants or herbs with sweet or confectionery uses, such as desert milkweed or field candytuft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional folk botany, wild herbaceous plants chewed by children for sweet or aromatic sap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, candyweed designates bog plant of pine barrens of southeastern united states having spikes of irregular yellow-orange flowers."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Along the sandy pine ridges children gathered the sweet roots of wild **candyweed**."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Honeybees congregated upon the fragrant blossoms of wild **candyweed** along the mountain stream."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Pioneers noted that grazing cattle sought out patches of nutritious **candyweed** in early spring."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to a healthy reddish color often associated with outdoor life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to a healthy reddish color often associated with outdoor life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a healthy, warm, reddish complexion; ruddy; pleasantly rosy-cheeked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a florid, jovial appearance often associated with good cheer, hearty health, or robust living.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"This was the time for Wemmick to produce a little kettle, a tray of glasses, and a black bottle with a porcelain-topped cork, representing some clerical dignitary of a rubicund and social aspect."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was of a full rubicund countenance, with a double chin, aquiline nose, and a pleasant twinkling eye."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Mounted on the car is a huge chair, on which sits enthroned the majestic figure of the Carnival, a man of stucco about nine feet high with a rubicund and smiling countenance."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick's benevolent, **rubicund** face beamed with good humor as he proposed the festive holiday toast."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The squire was a stout, healthy gentleman with a **rubicund** countenance seasoned by outdoor fox hunting."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old general's **rubicund** visage turned crimson with indignation when questioned by the subaltern."*

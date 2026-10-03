@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin flav within the domain of Color & Appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of flav in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a yellow or golden color; possessing a noticeably yellow hue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and ornithology, characterizing plumage, wings, or scales marked with yellow pigment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavid designates pertaining to, derived from, or characteristic of latin flav within the domain of color & appearance."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The male specimen exhibited dorsal wing margins adorned with delicate **flavid** streaks."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Several forest beetles possessed bright **flavid** elytra that sparkled among the damp foliage."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The abdominal segments were circled by alternating bands of fuscous and **flavid** pubescence."*

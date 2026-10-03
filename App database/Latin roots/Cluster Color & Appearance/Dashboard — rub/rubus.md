@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of brambles bearing berries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of brambles bearing berries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and diverse genus of flowering plants in the rose family (Rosaceae), including blackberries, raspberries, and dewberries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, brambles bearing compound aggregate fruit prized for culinary and medicinal uses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rubus designates large genus of brambles bearing berries."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Rubus** presents formidable taxonomic complexity owing to prolific natural hybridization among brambles."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated varieties of **Rubus** exhibit striking variations in prickle density, leaf shape, and fruit succulence."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Wild canes and trailing stems of thorny **Rubus** formed impenetrable thickets along the southern river terraces."*

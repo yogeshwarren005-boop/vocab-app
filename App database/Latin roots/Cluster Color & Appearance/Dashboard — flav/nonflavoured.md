@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without flavoring added.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without flavoring added.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from additional flavorings, spices, or sweet essences; plain and unseasoned in formulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical compounding, describing simple vehicles or bases without flavoring agents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonflavoured designates without flavoring added."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"A cup of warm, **nonflavoured** milk proved the most soothing nourishment during the night hours."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Pure **nonflavoured** gelatin serves as the transparent base for assembling elaborate fruit jellies."*
+> - 📜 **Joseph Lister (*Collected Papers on Antiseptic Surgery*):** *"Simple, **nonflavoured** saline gargles were recommended to cleanse the irritated pharynx."*

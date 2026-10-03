@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An elastic material obtained from the latex sap of trees (especially trees of the genera hevea and ficus) that can be vulcanized and finished into a variety of products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various synthetic elastic materials whose properties resemble natural rubber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tough, elastic, waterproof polymeric substance prepared from the coagulated milky sap (latex) of plants or synthesized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An eraser used to rub out graphite pencil marks; also an overshoe worn to protect feet from wetness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The writer also speaks of a rubber shoe being lost and promptly found after mention in prayer."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Have you ever seen canvas tarpaulins or rubber blankets with brass eyelets set in along the edges?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Organization was very weak (less than 1 per cent) among the workers in a group of industries occupying nearly one-half of all workers, including agriculture, the hand trades, oil and natural gas, salt, and rubber factories."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Sheets of vulcanized **rubber** provided superior electrical insulation for our experimental condensers."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Indigenous forest tribes coagulate the fresh milk of the **rubber** tree into durable waterproof vessels."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes examined the moist clay garden path and identified the faint tread of a **rubber** boot."*

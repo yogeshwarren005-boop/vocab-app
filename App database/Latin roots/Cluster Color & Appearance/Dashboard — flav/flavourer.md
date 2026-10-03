@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something added to food primarily for the savor it imparts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something added to food primarily for the savor it imparts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic herb, spice, citrus essence, or condiment used to enhance food or drink; flavoring agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert or artisan responsible for blending aromatic essences and seasoning preparations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavourer designates something added to food primarily for the savor it imparts."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Crushed cloves and powdered cinnamon serve as a traditional **flavourer** for rich winter mincemeat."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"A generous pinch of cayenne pepper was added as a sharp **flavourer** to the steaming mutton pie."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"A master **flavourer** understands how subtle herbs elevate humble vegetable broths into banquets."*

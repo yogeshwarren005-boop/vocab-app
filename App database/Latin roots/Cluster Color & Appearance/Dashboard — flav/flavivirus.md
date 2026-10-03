@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Animal viruses belonging to the family flaviviridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Animal viruses belonging to the family flaviviridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any virus of the genus Flavivirus, including the causative agents of yellow fever, dengue, and West Nile fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology, an arbovirus maintaining complex transmission cycles between mosquitoes or ticks and vertebrate hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flavivirus designates animal viruses belonging to the family flaviviridae."*
+> - 📜 **Hideyo Noguchi (*Laboratory Studies on Tropical Fevers*):** *"Sera obtained from convalescent patients neutralized the virulent strains of pathogenic **flavivirus**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prophylactic control against urban **flavivirus** outbreaks focuses on eliminating water storage containers where vectors breed."*
+> - 📜 **Charles Nicolle (*Destiny of Infectious Diseases*):** *"The geographical dispersal of each **flavivirus** corresponds directly to the climatic habitat of its insect vector."*

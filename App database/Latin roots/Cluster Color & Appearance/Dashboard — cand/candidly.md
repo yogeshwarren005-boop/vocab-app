@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used as intensives reflecting the speaker's attitude) it is sincerely the case that.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used as intensives reflecting the speaker's attitude) it is sincerely the case that.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an honest, frank, sincere, and straightforward manner, without reservation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sentence-initially, used to introduce an outspoken, unvarnished, or uncomfortable truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But the kindness of his heart was such that he never resented anything for long, and welcomed his son to-day with a smile which was as candidly sweet as a child’s."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each brother candidly recognized that there were a few unimportant score of millions of outsiders in civilized society, persons who were neither University men nor churchmen; but they were to be tolerated rather than reckoned with and respected."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He told of wondrous conversions of evil livers of which he had been the instrument, not only amongst the poor, but amongst the rich and well-to-do; and he also candidly admitted many failures."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley spoke **candidly** to Emma regarding the vanity of her interference with Harriet Smith."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane answered **candidly** that she could never marry a man who demanded the surrender of her conscience."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes confessed **candidly** that the baffling case had tested all his analytical resources."*

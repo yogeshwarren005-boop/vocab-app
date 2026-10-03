@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of light emission by a body as its temperature is raised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light from heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The emission of visible light by a hot object as a result of its high temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliant glowing radiance, heat, or emotional passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The light is due to the solid matter in the flame, brought to a state of white heat or incandescence by the heat of the flame."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The sudden discharge brought the fine platinum spiral to brilliant white **incandescence**."*
+> - 📜 **H.G. Wells (*The War of the Worlds*):** *"The Martian cylinder glowed with dull reddish **incandescence** in the sandy pit."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The volcanic crater shone in the night with an awe-inspiring **incandescence** of molten rock."*

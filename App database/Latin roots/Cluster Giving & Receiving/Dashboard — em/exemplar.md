@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something to be imitated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something to be imitated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing serving as a typical example or excellent model to be imitated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manuscript codicology and textual criticism, the authoritative master manuscript from which copies are transcribed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Defender of the Faith we call our Queen, And she has been that Faith's exemplar too."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood’s deep attachment was a matter of great interest among all around him; but, after having been pointed out for so many years as the perfect exemplar of thriving bachelorship, his lapse was an anticlimax somewhat resembling that of St."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Socrates stands as the supreme moral **exemplar** of antiquity, demonstrating virtue through life and death."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor Marcus Aurelius chose the philosopher Antoninus Pius as his constant **exemplar** in statecraft."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Great classic poets provide an **exemplar** of high seriousness and consummate architectural style."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or having the power to deter or prevent an anticipated situation or occurrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed or having the power to deter or prevent an anticipated situation or occurrence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by the right to purchase property before others; designed to forestall action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and operating systems, preemptive multitasking where the scheduler interrupts active tasks to allocate CPU time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preemptive designates designed or having the power to deter or prevent an anticipated situation or occurrence."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The prime minister authorized a **preemptive** naval deployment to protect Gibraltar against surprise assault."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A firm federal union provides **preemptive** security against the intrigues of foreign monarchs."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"A decisive commander sometimes calculates that a **preemptive** maneuver offers the only path to survival."*

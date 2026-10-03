@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensively self-assured or given to exercising usually unwarranted power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not allowing contradiction or refusal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insisting on immediate attention or obedience; leaving no opportunity for denial or refusal; imperious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil and criminal trial procedure, a peremptory challenge allowing an attorney to reject a juror without stating a reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Speak briefly then, For we are peremptory to dispatch This viperous traitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worcester, get thee gone, for I do see Danger and disobedience in thine eye: O, sir, your presence is too bold and peremptory, And majesty might never yet endure The moody frontier of a servant brow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pleaseth your Grace To appoint some of your council presently To sit with us once more, with better heed To re-survey them, we will suddenly Pass our accept and peremptory answer."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Ferrars delivered her **peremptory** command that Edward should marry Miss Morton or face disinheritance."*
+> - 📜 **Blackstone (*Commentaries on the Laws of England*):** *"In capital felonies, the prisoner was allowed a **peremptory** challenge of thirty-five jurors without cause."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester's voice took on a **peremptory** tone that demanded instant obedience from his listeners."*

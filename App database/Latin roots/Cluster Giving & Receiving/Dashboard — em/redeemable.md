@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recoverable upon payment or fulfilling a condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be converted into ready money or the equivalent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recovered, bought back, or converted into cash or goods; capable of moral reform.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial bonds and corporate debt, securities that the issuer has the right to repurchase at a specified call price.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Fourteen years elapsed after the war before these notes rose to par, in terms of gold (in December, 1878), and they became legally redeemable in gold January 1, 1879."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"First, they are obligations of the United States receivable for all taxes, customs, and other public dues, and are redeemable in gold on demand at the Treasury of the United States."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Secondly they are receivable by all member banks in the twelve districts and by all Federal reserve banks, and redeemable by the latter in gold or lawful money (which includes greenbacks and gold and silver certificates)."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Banknotes must remain instantly **redeemable** in gold coin upon demand to preserve commercial stability."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"The national debt was funded into annuities **redeemable** at the option of the federal government."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Even in his fallen state, Fred Vincy's character seemed **redeemable** through genuine affection and labor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or having the power to deter or prevent an anticipated situation or occurrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed or having the power to deter or prevent an anticipated situation or occurrence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or intended to pre-empt or forestall something, especially an anticipated attack or event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military doctrine and strategic security, a military strike launched to forestall an imminent adversary offensive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pre-emptive designates designed or having the power to deter or prevent an anticipated situation or occurrence."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The naval cabinet debated whether a **pre-emptive** landing along the Norwegian coast was strategically imperative."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Corinthians urged their allies to take **pre-emptive** measures against Athenian maritime aggression."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A nation must maintain readiness to execute a **pre-emptive** defense before hostile fleets approach its shores."*

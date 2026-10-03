@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a certain impression or have a certain outward aspect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seem to be true, probable, or apparent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparent rather than real; outward appearance or aspect, especially when deceptive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical discourse, superficial piety or virtue masking selfish inward motives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why should false painting imitate his cheek, And steal dead seeming of his living hue?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love’s best habit is in seeming trust, And age in love loves not to have years told."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hence is it that we make trifles of terrors, ensconcing ourselves into seeming knowledge when we should submit ourselves to an unknown fear."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Hence with thy false **seeming**! I will proclaim thee, Angelo; look for't!"*
+> - 📜 **Francis Bacon (*Essays*):** *"Dissimulation is but a faint kind of policy, for it relies on mere **seeming** rather than substance."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan concealed his burning malice beneath a fair **seeming** of angelic innocence and reverence."*

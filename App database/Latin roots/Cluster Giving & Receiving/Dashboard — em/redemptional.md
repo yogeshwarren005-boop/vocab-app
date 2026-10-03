@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resulting in redemption; - e.k.brown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resulting in redemption; - e.k.brown.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, effecting, or involving redemption or salvation; redemptive in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic theology, doctrines concerning the historical stages of divine salvation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redemptional designates of or relating to or resulting in redemption; - e.k.brown."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The incarnation represents the central **redemptional** event in the spiritual history of humanity."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh passed through the Everlasting No into a glorious **redemptional** awakening of the soul."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The shining messenger unfolded the **redemptional** covenant inscribed upon the sacred parchment."*

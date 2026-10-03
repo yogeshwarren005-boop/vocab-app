@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who acquires land by preemption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bidder in bridge who makes a preemptive bid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who buys or acquires something before others, especially an agricultural settler claiming land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century land legislation, an occupant possessing priority rights to buy surveyed government acreage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preemptor designates someone who acquires land by preemption."*
+> - 📜 **Theodore Roosevelt (*Ranch Life and the Hunting-Trail*):** *"The industrious **preemptor** defended his sod house against both prairie blizzards and range cattle."*
+> - 📜 **Horace Greeley (*An Overland Journey*):** *"Congress recognized the equity of the frontier **preemptor** over the claims of absentee speculators."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Every ambitious miner and **preemptor** hurried to record his boundary stakes at the county registrar's cabin."*

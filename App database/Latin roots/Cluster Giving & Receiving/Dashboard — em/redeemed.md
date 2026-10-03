@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Save from sins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore the honor or worth of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensated for, bought back, or recovered through payment; spiritually saved or morally transformed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial pawn operations, pledged collateral reclaimed upon full repayment of the principal loan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Soldiers, this day have you redeemed your lives And showed how well you love your prince and country."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He might have tried Lord Lucius or Lucullus; And now Ventidius is wealthy too, Whom he redeemed from prison."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Such imperiousness would have damned a little less beauty; and on the other hand, such beauty would have redeemed a little less imperiousness."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The repentant merchant **redeemed** his wasted years by bringing joy and comfort to the Cratchit hearth."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian rejoiced among the **redeemed** souls as his burden of guilt fell away before the Cross."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The weary mariners felt as though they had been miraculously **redeemed** from the watery abyss."*

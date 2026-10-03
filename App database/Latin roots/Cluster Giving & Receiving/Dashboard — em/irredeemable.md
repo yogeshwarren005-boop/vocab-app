@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insusceptible of reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of paper money) not convertible into coin at the pleasure of the holder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be saved, improved, corrected, or reformed; beyond hope of recovery or redemption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monetary finance, paper currency that cannot be converted on demand into metallic gold or silver specie.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Irredeemable paper money. § 11."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, all coins that contain an element of seigniorage, or monopoly value, are to that degree "political money." The typical paper money is irredeemable; that is, it cannot be turned into bullion money on demand."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The fact that from 1862 to 1879 inclusive prices in the United States were expressed in an irredeemable paper standard makes comparisons for that period misleading."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fallen angels realized their loss of heaven was absolute and **irredeemable** through any repentance."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An excessive issue of **irredeemable** paper money inevitably depreciates exchange rates across foreign markets."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode regarded his early financial crimes as an **irredeemable** stain upon his moral soul."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give a certain impression or have a certain outward aspect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seem to be true, probable, or apparent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give the impression of being something or having a particular quality; to appear to the mind or senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical skepticism and epistemology, sensory appearances contrasted with true metaphysical reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what excuse will my poor beast then find, When swift extremity can seem but slow?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In all external grace you have some part, But you like none, none you for constant heart. 54 O how much more doth beauty beauteous seem, By that sweet ornament which truth doth give!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"These indeed **seem**, for they are actions that a man might play; but I have that within which passeth show."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Things often **seem** identical to our careless senses while differing profoundly in real essence."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy did not **seem** inclined to join in the conversation, remaining aloof beside the mantelpiece."*

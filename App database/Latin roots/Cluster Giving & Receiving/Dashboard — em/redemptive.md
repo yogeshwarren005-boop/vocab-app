@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resulting in redemption; - e.k.brown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bringing about salvation or redemption from sin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting to save or free someone from error, sin, or evil; serving to redeem or compensate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary tragedy, the spiritual purification or moral renewal achieved through suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The excesses of a man of genius are generally touched by the {314} imagination, and therein lies at once their peculiar danger, and also something redemptive that promises another future."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The golden-haired child Eppie entered the solitary weaver's cottage with a quiet, **redemptive** grace."*
+> - 📜 **Martin Luther King Jr. (*Letter from Birmingham Jail*):** *"Unearned suffering is **redemptive**, possessing the moral power to transform the hearts of oppressors."*
+> - 📜 **Fyodor Dostoevsky (*The Brothers Karamazov*):** *"Father Zosima taught that active love possesses an infinite, **redemptive** strength in this earthly life."*

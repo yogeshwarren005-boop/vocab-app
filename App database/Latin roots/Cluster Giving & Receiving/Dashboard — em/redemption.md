@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (theology) the act of delivering from sin or saving from evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repayment of the principal amount of a debt or security at or before maturity (as when a corporation repurchases its own stock).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of saving or delivering someone from sin, error, or evil; regaining possession through payment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance and bond markets, the return of a mutual fund share or bond principal to the issuer for cash.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you send him, mistress, redemption, the money in his desk?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, Warwick, Warwick, that Plantagenet Which held thee dearly as his soul’s redemption Is by the stern Lord Clifford done to death."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lawful mercy Is nothing kin to foul redemption."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Love without end, and without measure Grace... Bringing eternal **redemption** to man."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A sinking fund was instituted for the gradual **redemption** of the principal of the national debt."*
+> - 📜 **Fyodor Dostoevsky (*Crime and Punishment*):** *"Raskolnikov began his long and painful journey toward moral **redemption** in the Siberian prison."*

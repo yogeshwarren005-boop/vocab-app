@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be characteristic of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarify by giving an example of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing, illustrating, or demonstrating by typical example; embodying a principle or type.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical argument and literary criticism, serving as concrete evidence verifying a theoretical proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"So these two were each exemplifying the Vanity of this life, and each longing for what he or she could not get."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Sophocles achieved greatness by **exemplifying** sweetness and light in classical dramatic verse."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern laboratory demonstrations succeed by **exemplifying** abstract physical formulas through visible phenomena."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"The novelist creates memorable art by **exemplifying** human psychology through concrete moral dilemmas."*

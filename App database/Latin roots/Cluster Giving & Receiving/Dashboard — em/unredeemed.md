@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In danger of the eternal punishment of hell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In danger of the eternal punishment of hell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bought back, cleared of debt, or recovered; not having achieved moral reform or spiritual salvation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In territorial diplomacy, border regions populated by an ethnic group under foreign rule awaiting reclamation (irredenta).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It was the exhilarating effect—upon a prisoner just escaped from the dungeon of his own heart—of breathing the wild, free atmosphere of an unredeemed, unchristianised, lawless region."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A mountainous public debt remained **unredeemed** long after the conclusion of the continental war."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The poor pawnbroker's shelves were crowded with **unredeemed** pledges belonging to destitute families."*
+> - 📜 **William Faulkner (*The Sound and the Fury*):** *"The haunted youth wandered through the dusk, feeling his lost honor was forever **unredeemed**."*

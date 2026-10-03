@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of imitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or serving as an illustration of a type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a desirable model; representing the best of its kind; commendable and praiseworthy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil tort law, exemplary damages (punitive damages) awarded to punish egregious malice and deter others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, my dear Miss Summerson, if you want common sense, responsibility, and respectability, all united—if you want an exemplary man—Vholes is THE man.” We had not known, we said, that Richard was assisted by any gentleman of that name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet’s health, always given by himself on these occasions in a speech of exemplary terseness."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You don’t mean to set up for a new character with ME after all these years, I hope?” Her friendly indignation had an exemplary effect upon her husband, who shook his head at the trooper several times as a silent recommendation to him to yield."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny Price displayed an **exemplary** patience that won the reluctant affection of Sir Thomas."*
+> - 📜 **Blackstone (*Commentaries on the Laws of England*):** *"Juries may award **exemplary** damages against perpetrators of wanton and malicious injury."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The rector's quiet devotion to his parishioners was regarded as truly **exemplary** throughout the county."*

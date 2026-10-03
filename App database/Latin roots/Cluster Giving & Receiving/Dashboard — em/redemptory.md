@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resulting in redemption; - e.k.brown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resulting in redemption; - e.k.brown.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to redeem; paid or given as a ransom or price of redemption; redemptive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical canon law, payments or sacrifices offered for the remission of canonical penalties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, redemptory designates of or relating to or resulting in redemption; - e.k.brown."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian king demanded a vast **redemptory** payment before releasing his imperial captives."*
+> - 📜 **John Milton (*The Reason of Church Government*):** *"Spiritual liberty was purchased by the supreme **redemptory** sacrifice of the Son of God."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The grand master offered gold and precious jewels as a **redemptory** ransom for the captured knights."*

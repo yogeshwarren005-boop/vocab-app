@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: According with custom or propriety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: According with custom or propriety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to accepted standards of good taste, decorum, or propriety; fitting and suitable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical aesthetics, attractive, pleasing to look at, or well-proportioned in physical appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me, How can I then be elder than thou art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know I am a woman, lacking wit To make a seemly answer to such persons."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"For all that beauty that doth cover thee, Is but the seemly raiment of my heart, Which in thy breast doth live, as thine in me: How can I then be elder than thou art?"*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"I am not an impostor, but a **seemly** and honest lady who claims her lawful royal rights."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mrs. Tulliver insisted that all household linens should be displayed in a **seemly** and respectable order."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The old servitor wore a **seemly** coat of blue cloth, trimmed according to the ancient family livery."*

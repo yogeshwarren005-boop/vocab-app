@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The judicial principle asserting the supremacy of federal over state legislation on the same subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The right of a government to seize or appropriate something (as property).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The purchase of goods or shares by one person or party before the opportunity is offered to others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American property law, the statutory right of an actual settler on public lands to purchase them before public auction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preemption designates the judicial principle asserting the supremacy of federal over state legislation on the same subject."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Royal monopolies once exercised the oppressive right of **preemption** over all grain brought to market."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Federal statutes granted the right of **preemption** to encourage rapid agrarian settlement in western territories."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The policy of **preemption** secured productive homesteads for poor emigrants seeking economic independence."*

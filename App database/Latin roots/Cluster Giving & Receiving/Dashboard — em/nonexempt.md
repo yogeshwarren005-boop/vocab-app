@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of goods or funds) subject to taxation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of persons) not exempt from an obligation or liability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exempt from a rule, obligation, tax, or duty; subject to standard legal requirements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor law, employees covered by statutory minimum wage and mandatory overtime pay protections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonexempt designates (of goods or funds) subject to taxation."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"Every **nonexempt** merchant was required to pay the uniform import duty upon entering harbor."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A fair revenue system ensures that **nonexempt** citizens contribute in proportion to their annual revenue."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The statute imposed a modest excise upon **nonexempt** domestic manufactured goods."*

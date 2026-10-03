@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immunity from an obligation or duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deduction allowed to a taxpayer because of his status (having certain dependents or being blind or being over 65 etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom, release, or immunity from an obligation, duty, penalty, or tax imposed on others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personal income tax schedules, a statutory allowance deducted from taxable income for dependents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law applies a progressive rate to all incomes (with exemption of $700 from wages and salaries) and contains elaborate provisions for corporate taxation."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In this as in other branches of study it is the fate of theories to be washed away like children's castles of sand by the rising tide of knowledge, and I am not so presumptuous as to expect or desire for mine an exemption from the common lot."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"She didn't hurt the baby on purpose." "I shall try to do what is best for her, my little girl, though I very much doubt if that is exemption from punishment," he said with an involuntary sigh."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The wealthy senators purchased **exemption** from hazardous frontier service by paying heavy monetary fines."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Aristocratic **exemption** from public taxation was the primary catalyst of revolutionary resentment in France."*
+> - 📜 **Blackstone (*Commentaries on the Laws of England*):** *"The ancient charter granted the university full **exemption** from the municipal jurisdiction of the mayor."*

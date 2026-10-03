@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing by example.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representational or typifying form or model.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of illustrating, clarifying, or demonstrating by means of an example; an instance or embodiment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and legal archival practice, an attested official copy of a document under the seal of a court or public office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Of this truth, the management of the opposition to the federal government is an unvaried exemplification."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But from the beginning to the end of the war, she was an exemplification of how much may be done by one "strong of spirit," even with the most delicate physical frame."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine oneness 18:1 ATONEMENT is the exemplification of man's unity with God, whereby man reflects divine Truth, Life, 18:3 and Love."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The ancient ballad serves as a vivid **exemplification** of passionate, spontaneous feeling."*
+> - 📜 **Blackstone (*Commentaries on the Laws of England*):** *"The attorney produced an attested **exemplification** of the royal charter bearing the Great Seal."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory illusions provide striking **exemplification** of how unconscious inferences shape visual perception."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insusceptible of reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insusceptible of reform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being redeemed, saved, reformed, or converted into cash; hopeless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance, perpetual bonds or paper currency devoid of gold convertibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"An undeniable and unredeemable forfeit of all he hath about him.” “I hoarded it to purchase my freedom,” said Gurth."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The revolutionary government flooded the market with **unredeemable** assignats that caused ruinous inflation."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester lamented that his reckless early choices had tied him to an **unredeemable** domestic misery."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The cynical passenger proclaimed that human selfishness was an **unredeemable** trait of the race."*

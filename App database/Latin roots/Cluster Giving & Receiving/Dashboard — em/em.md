@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quad with a square body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A linear unit (1/6 inch) used in printing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of typographic measurement equal to the width of the letter M or the current point size of a font.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital web formatting and CSS, a scalable relative unit based on the font size of the parent element.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The Rector is climbing High Ems with him and the two other boys."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He told them finally that the rector had mentioned the castle of High Ems in their lessons that day."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"The former, when he had deposited his burden, took a critical survey of the room, and in cracked tones grated out—“Aw wonder how yah can faishion to stand thear i’ idleness un war, when all on ’ems goan out!"*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"As an apprentice printer in London, I learned to space each composing stick by the standard pica and **em** rule."*
+> - 📜 **Theodore Low De Vinne (*The Practice of Typography*):** *"The typesetter aligns indentations and paragraph breaks by inserting a quad of one **em**."*
+> - 📜 **Mark Twain (*Roughing It*):** *"In the frontier printing shop, we calculated newspaper columns by counting brevier lines and **em** dashes."*

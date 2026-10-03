@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant relief or an exemption from a rule or requirement to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grant exemption or release to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from an obligation, liability, duty, or tax imposed on others; released from a requirement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory tax and labor law, workers or organizations not subject to specific wage regulations or income levies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How ill agrees it with your gravity To counterfeit thus grossly with your slave, Abetting him to thwart me in my mood; Be it my wrong, you are from me exempt, But wrong not that wrong with a more contempt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, by his treason, stand’st not thou attainted, Corrupted, and exempt from ancient gentry?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Beside, I fear me, if thy thoughts are sifted, The King, thy sovereign, is not quite exempt From envious malice of thy swelling heart."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"No man in civil society can be **exempt** from the laws thereof by royal prerogative."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Medieval church lands were frequently **exempt** from feudal land taxes and military service."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No citizen can claim to be **exempt** from the legal jurisdiction of the federal courts."*

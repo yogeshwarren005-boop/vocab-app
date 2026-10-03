@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of consideration for others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of consideration for others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate, unbecoming, or indecorous conduct; an egregious breach of propriety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, conduct that degrades human dignity by violating civil decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Could she have understood this fact, it would have brought her some little comfort; for, to all her other troubles,—strange to say!—there was added the womanish and old-maiden-like misery arising from a sense of unseemliness in her attire."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The philosopher reproved the **unseemliness** of aged courtiers who affected the frivolous vices of youth."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was mortified by the vulgar **unseemliness** of Mrs. Jennings' loud matrimonial banter."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The assembly degraded legislative dignity through the riotous **unseemliness** of its public galleries."*

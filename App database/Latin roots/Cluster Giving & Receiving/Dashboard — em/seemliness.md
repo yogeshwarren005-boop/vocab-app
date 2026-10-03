@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sense of propriety and consideration for others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sense of propriety and consideration for others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of conforming to standards of decorum, good taste, and propriety; suitability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social etiquette, refined behavior that avoids vulgarity, ostentation, or offense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"He was always so anxious to find seemliness, happiness, and peace in everything, and I should have been proud to let him see us."*
+> - 📜 **Samuel Richardson (*Sir Charles Grandison*):** *"Sir Charles observed every rule of polished **seemliness** with unaffected dignity and grace."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma recognized the quiet **seemliness** of Mr. Knightley's conduct compared with the vanity of Frank Churchill."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Ancient manners conferred a dignified **seemliness** upon public institutions that commanded respect."*

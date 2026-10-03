@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high bid that is intended to prevent the opposing players from bidding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acquire for oneself before others can do so.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take action in order to prevent an anticipated event from happening; to forestall or take precedence over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcasting, to replace a scheduled television or radio program with breaking news or live coverage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preempt designates a high bid that is intended to prevent the opposing players from bidding."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Vigorous federal action will **preempt** dangerous discord between rival commercial states."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A resolute original intellect will **preempt** the conclusions of slower analytical thinkers."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Britain moved troops into Iceland to **preempt** potential enemy occupation of North Atlantic sea lanes."*

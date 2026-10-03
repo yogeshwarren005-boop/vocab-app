@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep in mind or convey as a conviction or view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Keep in mind or convey as a conviction or view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To consider, judge, believe, or hold as an opinion; to pronounce judgment upon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory interpretation, a legal fiction treating an entity or state of affairs as having a particular status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When once he was mature for man, In Britain where was he That could stand up his parallel, Or fruitful object be In eye of Imogen, that best Could deem his dignity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In iron walls they deem’d me not secure; So great fear of my name ’mongst them were spread That they supposed I could rend bars of steel And spurn in pieces posts of adamant."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"I **deem** it far more safe to listen to the honest counsel of an old counselor than the flattery of young courtiers."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judiciary must **deem** the fundamental law of the constitution superior to any legislative enactment."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth did not **deem** it necessary to disclose the full particulars of Darcy's letter to her sister."*

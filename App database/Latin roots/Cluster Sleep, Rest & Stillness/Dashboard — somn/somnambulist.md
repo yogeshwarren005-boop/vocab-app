@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who walks about in their sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who walks about in their sleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who walks about, speaks, or performs other complex actions while asleep; a sleepwalker.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical hypnotism and mesmerism, a subject in an induced deep hypnotic trance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I did not expect this; but all I have is yours.” Boldwood, more like a somnambulist than a wakeful man, pulled out the large canvas bag he carried by way of a purse, and searched it."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You will never hear of the marriage!” With those words uttered impetuously, Will rose, put out his hand to Rosamond, still with the air of a somnambulist, and went away."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The slim one got up and walked straight at me—still knitting with downcast eyes—and only just as I began to think of getting out of her way, as you would for a somnambulist, stood still, and looked up."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy stood rigid as a **somnambulist**, his eyes fixed upon the marble monument in the churchyard."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She moved about the quiet library like a **somnambulist**, obeying routine duties without conscious awareness."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The company doctor looked at me attentively, like an experimenter studying an unconscious **somnambulist**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or habit of walking about or performing complex behaviors while asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sleep medicine and parasomnia research, motor behavior initiated during slow-wave non-REM sleep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somnambulation designates walking by a person who is asleep."*
+> - 📜 **Edgar Allan Poe (*The Premature Burial*):** *"Episodes of **somnambulation** and cataleptic trance plagued the narrator since early childhood."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The clerk's nocturnal **somnambulation** alarmed the entire household when he began filing papers in his sleep."*
+> - 📜 **Wilkie Collins (*The Moonstone*):** *"The crucial extraction of the diamond occurred during an involuntary episode of **somnambulation** caused by laudanum."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uttering speech while asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uttering speech while asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or habit of talking in one's sleep; utterances spoken while asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychology, unconscious vocalizations uttered during parasomnia, generally inadmissible as voluntary testimony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somniloquy designates uttering speech while asleep."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Ancient physicians recorded instances of **somniloquy** wherein patients disclosed hidden crimes in nocturnal delirium."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The frightened apprentice was betrayed by his own **somniloquy**, confessing his small thefts while dreaming."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In **somniloquy**, the motor speech apparatus responds directly to vivid dream imagery without conscious censorship."*

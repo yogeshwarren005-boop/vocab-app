@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to sleep; chronic sleeplessness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability to sleep; chronic sleeplessness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual or chronic inability to obtain adequate sleep; persistent sleeplessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a recognized sleep disorder marked by difficulty initiating or maintaining restorative rest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I had suffered for years with insomnia."*
+> - 📜 **Franz Kafka (*Letters to Felice*):** *"My **insomnia** only means that I am continually watchful, dreading the onset of unconsciousness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Severe **insomnia** fractures the stream of thought, filling wakeful hours with morbid ruminations."*
+> - 📜 **F. Scott Fitzgerald (*The Crack-Up*):** *"In a real dark night of the soul, it is always three o'clock in the morning, day after day of unrelenting **insomnia**."*

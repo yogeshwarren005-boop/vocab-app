@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uttering speech while asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uttering speech while asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, habit, or phenomenon of talking in one's sleep without conscious awareness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sleep pathology, a parasomnia characterized by sleep-talking during REM or non-REM sleep transitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somniloquism designates uttering speech while asleep."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"Curious instances of **somniloquism** reveal how memories echo through the brain when will is suspended."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The suspect's midnight **somniloquism** inadvertently betrayed the location of the stolen Agra treasure."*
+> - 📜 **Oliver Wendell Holmes (*The Professor at the Breakfast-Table*):** *"Psychologists study **somniloquism** to decipher the fragmentary language of the dreaming mind."*

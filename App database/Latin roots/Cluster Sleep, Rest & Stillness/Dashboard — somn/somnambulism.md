@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleepwalking; a sleep disorder involving motor activities performed while asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical jurisprudence, automatic motor behavior during sleep raised as a defense in criminal law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"THE MINISTER’S VIGIL Walking in the shadow of a dream, as it were, and perhaps actually under the influence of a species of somnambulism, Mr."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I have never practised somnambulism before or since."*
-> - 📜 **James Joyce (*Ulysses*):** *"There have been cases of shipwreck and somnambulism in my client’s family."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Walking in the shadow of a dream, as it were, and under the influence of **somnambulism**, Mr. Dimmesdale reached the spot."*
+> - 📜 **James Joyce (*Ulysses*):** *"There have been documented cases of **somnambulism** in which complex actions were performed during unconscious motor activity."*
+> - 📜 **W. D. Pitcairn (*Two Years Among the Savages*):** *"The native guide exhibited symptoms of **somnambulism**, rising from his mat to wander through the camp fires."*

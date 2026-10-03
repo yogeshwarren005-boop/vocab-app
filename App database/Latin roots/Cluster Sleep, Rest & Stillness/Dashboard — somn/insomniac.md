@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who cannot sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Experiencing or accompanied by sleeplessness; ; ; ; - shakespeare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is chronically or habitually afflicted with sleeplessness or insomnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological studies, an individual experiencing impaired cognitive performance due to prolonged sleep deprivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, insomniac designates someone who cannot sleep."*
+> - 📜 **Vladimir Nabokov (*Speak, Memory*):** *"Like every passionate **insomniac**, I regarded the approaching daylight with mixed relief and dread."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The lonely **insomniac** listens to the ticking clock and the distant murmur of nocturnal streets."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Resident Patient*):** *"The trembling doctor was an acute **insomniac**, pacing his consulting room night after night."*

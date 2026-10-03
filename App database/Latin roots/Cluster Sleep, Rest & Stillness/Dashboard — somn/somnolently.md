@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a drowsy manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a drowsy manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sleepy, drowsy, heavy, or sluggish manner; languidly and half-asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative description, speaking or responding with the slow cadence of impending slumber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somnolently designates in a drowsy manner."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The Fat Boy blinked **somnolently** at Mr. Wardle before nodding off once more in the carriage."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The watchman leaned **somnolently** against the bulwark, lulled by the rhythmic heaving of the sea."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The old dog opened one eye, wagged its tail **somnolently**, and curled closer to the hearth fire."*

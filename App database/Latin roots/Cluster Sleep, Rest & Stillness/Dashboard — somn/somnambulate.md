@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walk in one's sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walk in one's sleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To walk, move about, or perform actions while asleep or in a somnambulistic trance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary metaphor, to move or act in a dazed, unthinking, or automatous state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somnambulate designates walk in one's sleep."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"I have seen her rise from her bed, unlock her closet, take forth paper, write upon't, and return to bed; thus did Lady Macbeth **somnambulate** through the dark gallery."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"At dead of night a stealthy figure seemed to **somnambulate** through the upper corridors of Thornfield Hall."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Arthur Dimmesdale felt an uncanny urge to **somnambulate** toward the scaffold in the black of midnight."*

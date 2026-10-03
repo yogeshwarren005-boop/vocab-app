@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very sleepy state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very sleepy state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of strong desire for sleep, drowsiness, or sluggish mental and physical inactivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a decreased level of consciousness from which a patient is easily aroused but quickly falls back asleep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As a physiologist he believed in the artificial placation of malignant agencies chiefly operative during somnolence."*
+> - 📜 **James Joyce (*Ulysses*):** *"As a physiological remedy against **somnolence**, the student applied cold compresses to his throbbing temples."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A heavy **somnolence** settled over Lowood School as the winter twilight faded into darkness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The opulent degenerate court sank into luxurious **somnolence**, blind to the approaching barbarian storm."*

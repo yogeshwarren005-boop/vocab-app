@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who talks while asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who talks while asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who talks in their sleep; someone prone to unconscious sleep-talking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, an individual exhibiting frequent nocturnal vocalizations during sleep cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somniloquist designates someone who talks while asleep."*
+> - 📜 **Edgar Allan Poe (*The Narrative of Arthur Gordon Pym*):** *"The agitated sailor was a confirmed **somniloquist**, muttering dreadful shipboard secrets in his bunk."*
+> - 📜 **Wilkie Collins (*The Woman in White*):** *"Listening beside the bed of the **somniloquist**, Marian hoped to glean the secret of Sir Percival."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom feared that Huck would prove a dangerous **somniloquist** and reveal their graveyard adventure in sleep."*

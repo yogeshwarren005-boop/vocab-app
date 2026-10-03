@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleep inducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sleep inducing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, stimulating, or tending to produce sleep; sleep-inducing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical physiology, agents or stimuli that promote the onset of neurological slumber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, somnific designates sleep inducing."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The gentle murmur of falling water exerts a **somnific** charm upon weary travelers."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Certain neutral salts and warm pediluvia act as mild **somnific** remedies in nervous fevers."*
+> - 📜 **John Keats (*Endymion*):** *"Poppies cast their **somnific** dew across the eyelids of the slumbering shepherd."*

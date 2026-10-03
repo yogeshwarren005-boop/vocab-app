@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleep inducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sleep inducing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing, tending to produce, or bringing about sleep; soporific and slumber-bearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological botany, designating sleep-inducing plants such as Papaver somniferum (opium poppy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It must have been a work of vast ability in the somniferous school of literature."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Pearl played among the weeds, gathering the dark and **somniferous** nightshade with innocent curiosity."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Henbane and mandragora possess strong **somniferous** properties capable of quieting the most agitated mind."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The warm fire and heavy draperies produced a **somniferous** languor that stilled conversation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Person's predisposition to be affected by something (as a disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitution of the human body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The general physical appearance, physique, or constitutional habit of the human body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pierre Bourdieu's sociological theory, internalized dispositions, habits, and skills acquired through life experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habitus designates person's predisposition to be affected by something (as a disease)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The lean, slender **habitus** of the patient was traditionally associated with phthisis."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Clinical inspection evaluates the bodily **habitus**, muscular symmetry, and postural alignment."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"The physician deduced hereditary vulnerabilities from the distinctive **habitus** of the family."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fit for habitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fit for habitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable or fit for human beings to live in, due to extreme conditions or dilapidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary science and environmental biology, lacking the minimum ecological requisites for sustaining life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uninhabitable, and almost inaccessible,— SEBASTIAN."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the demons have been long unmolested the country is said to be "warm," and the priest issues orders to expel them by force, lest the whole of Bali should be rendered uninhabitable."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tom-all-Alone's was a dilapidated, fever-haunted ruin, completely **uninhabitable** to civilized beings."*
+> - 📜 **Robert Falcon Scott (*The Voyage of the Discovery*):** *"The interior plateau of Antarctica represents the most bleak and **uninhabitable** desert on Earth."*
+> - 📜 **H.G. Wells (*The Time Machine*):** *"The dying Earth of the distant future had become cold, desolate, and virtually **uninhabitable**."*

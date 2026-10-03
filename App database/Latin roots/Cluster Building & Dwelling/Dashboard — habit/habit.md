@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An established custom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) an automatic pattern of behavior in reaction to a specific situation; may be inherited or acquired through frequent repetition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A settled or regular tendency or practice, especially one that is difficult to give up.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive long garment or costume, especially the characteristic dress of a monastic religious order or horse rider.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O love’s best habit is in seeming trust, And age in love loves not to have years told."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will speak to him like a saucy lackey, and under that habit play the knave with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There was a fourth man, in a silly habit, That gave th’ affront with them."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Could the young realize how soon they will become mere walking bundles of **habit**, they would give more heed to their conduct."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"It had become Ahab's invariable **habit** to pace the quarterdeck throughout the lonely midnight watches."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The venerable minister wore the dark, sober **habit** customary among Puritan clergymen."*

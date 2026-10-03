@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fit for habitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fit for habitation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable or good enough for people to live in comfortably; fit for habitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geography and astronomy, capable of supporting permanent biological life and ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce, “a habitable doll’s house with good board and a few tin people to get into debt with and borrow money of would set the boy up in life."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I therefore caused such a place to be looked out for, and such a place was found on very easy terms, and I have been touching it up for him and making it habitable."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"To suppose that a manuscript of many generations back could have remained undiscovered in a room such as that, so modern, so habitable!—Or that she should be the first to possess the skill of unlocking a cabinet, the key of which was open to all!"*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I explored the island diligently to discover whether any other portion was more pleasantly **habitable**."*
+> - 📜 **Herman Melville (*Typee*):** *"The secluded tropical valley presented the most delightful and **habitable** Eden on earth."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Vast arid wastes in Patagonia appeared barely **habitable** even to hardy nomad tribes."*

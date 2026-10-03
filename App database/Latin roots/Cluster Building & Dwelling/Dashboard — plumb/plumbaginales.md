@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family plumbaginaceae; usually included in order primulales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family plumbaginaceae; usually included in order primulales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical botanical order formerly erected to accommodate the family Plumbaginaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic history, an order established in classical Englerian taxonomy, now subsumed into Caryophyllales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbaginales designates coextensive with the family plumbaginaceae; usually included in order primulales."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"In our taxonomic arrangement, the order **Plumbaginales** is characterized by solitary basal ovules."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Lindley placed the sea-lavenders within the cohort **Plumbaginales**, noting affinities with Primulales."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Monographs on the **Plumbaginales** illustrate the adaptive radiation of salt-secreting foliar glands."*

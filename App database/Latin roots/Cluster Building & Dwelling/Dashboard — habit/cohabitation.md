@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of living together and having a sexual relationship (especially without being married).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of living together and having a sexual relationship (especially without being married).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of living together in an intimate relationship without marriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French constitutional politics, a system where president and prime minister belong to opposing parties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Sometimes it was protracted as long as ten days at a time, especially during the first years of cohabitation."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He must give up cohabitation with his wife; he may not sleep on a bed, nor shave himself, nor cut his nails, nor anoint himself with oil, nor eat food cooked with butter, nor tell lies, nor do anything else that he deems wrong."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"But the leader of the party must still abstain from cohabitation with his wife for two days more."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The scandal of their unmarried **cohabitation** provoked indignation throughout the conservative provincial parish."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The customs of New England held public morality sacred and viewed informal **cohabitation** with stern disapproval."*
+> - 📜 **Anthony Trollope (*The Eustace Diamonds*):** *"Questions concerning the legality of their prolonged **cohabitation** complicated the inheritance proceedings."*

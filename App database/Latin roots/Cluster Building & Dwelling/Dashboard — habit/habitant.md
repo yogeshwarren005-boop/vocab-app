@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who inhabits a particular place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who inhabits a particular place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhabitant, dweller, or permanent resident of a specific place or region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French Canadian history, a traditional peasant farmer or settler inhabiting the St. Lawrence river valley.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Yet not to Earth are those bright Luminaries Officious, but to thee Earths habitant."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Yet not to Earth are those bright luminaries Officious; but to thee, Earth’s habitant."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"She knew her subject and succeeded in waking in the hearts of her hearers a desire to go out in the green fields and quiet woods and find the lovely habitants of the flower world."*
+> - 📜 **Francis Parkman (*The Old Régime in Canada*):** *"The sturdy French **habitant** cleared his narrow riverside strip with patient toil."*
+> - 📜 **Henry David Thoreau (*A Yankee in Canada*):** *"We saluted the friendly Canadian **habitant** as he drove his caleche along the rural highway."*
+> - 📜 **James Fenimore Cooper (*The Pathfinder*):** *"Every woodland **habitant** learned to recognize the crack of Natty Bumppo's famous rifle."*

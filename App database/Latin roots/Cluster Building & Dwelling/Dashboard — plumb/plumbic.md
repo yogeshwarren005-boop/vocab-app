@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of lead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of lead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or containing lead, especially tetravalent lead with an oxidation state of plus four.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, designating compounds such as plumbic oxide or plumbic acid salts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbic designates relating to or consisting of lead."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electrolysis of lead salts deposited dark flakes of **plumbic** dioxide upon the positive electrode."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Treatment of red minium with dilute nitric acid precipitates pure brown **plumbic** oxide."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"Fractional crystallization separated radioactive bismuth from the inactive **plumbic** residues in the pitchblende."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put a habit on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dressed in a habit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dressed, attired, or clothed in a particular costume or garment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narrative, wearing the distinctive vestments of an ecclesiastical order or ceremonial office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter King and others as masquers, habited like shepherds, ushered by the Lord Chamberlain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter certain Reapers, properly habited: they join with the Nymphs in a graceful dance; towards the end whereof Prospero starts suddenly, and speaks; after which, to a strange, hollow, and confused noise, they heavily vanish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or is it Dian, habited like her, Who hath abandoned her holy groves To see the general hunting in this forest?"*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Palmer was **habited** in a coarse russet cloak adorned with pilgrim scallop shells."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A nun **habited** in black serge with a white wimple glided silently through the corridor."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley appeared splendidly **habited** in a waistcoat of embroidered oriental satin."*

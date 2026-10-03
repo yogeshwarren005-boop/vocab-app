@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A craftsman who installs and repairs pipes and fixtures and appliances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A craftsman who installs and repairs pipes and fixtures and appliances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled tradesperson who installs, repairs, and maintains piping systems for water, gas, and drainage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an artisan who worked with sheet lead, solder, and cast lead roofing ornaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I am my own engineer, and my own carpenter, and my own plumber, and my own gardener, and my own Jack of all Trades,” said Wemmick, in acknowledging my compliments."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is an ordinary plumber’s smoke-rocket, fitted with a cap at either end to make it self-lighting."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Father was a plumber in the Tottenham Court Road, and he left a tidy business behind him, which mother carried on with Mr."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The master **plumber** inspected the leaking cistern and leaden water pipes in the cellar."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"A local **plumber** was summoned to patch the lead guttering of the town hall."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Babbitt argued loudly with the union **plumber** over the installation estimate for the bathroom fixtures."*

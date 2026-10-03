@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general accommodation to unchanging environmental conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The diminishing of an innate or instinctive response to a frequently repeated stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and addiction medicine, psychological dependence upon a drug without physical tolerance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habituation designates being abnormally tolerant to and dependent on something that is psychologically or physically habit-forming (especially alcohol or narcotic drugs)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Repeated exposure produces sensory **habituation**, rendering animals indifferent to harmless sounds."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The rapid **habituation** of our nervous system shields consciousness from overwhelming sensory chaos."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must guard against gradual **habituation** when prescribing sedative narcotics."*

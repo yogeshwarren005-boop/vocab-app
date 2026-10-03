@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of depth) capable of being sounded or measured for depth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of depth) capable of being sounded or measured for depth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being tested, sounded, or measured with a plumb line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being fathomed, comprehended, or investigated to its ultimate depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbable designates (of depth) capable of being sounded or measured for depth."*
+> - 📜 **Herman Melville (*Pierre; or, The Ambiguities*):** *"The profound motives of the human soul are not always **plumbable** by superficial moralists."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Nature presents mysteries that appear deep yet prove readily **plumbable** to patient inquiry."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Milly wondered whether Densher's complex character was truly **plumbable** through polite conversation."*

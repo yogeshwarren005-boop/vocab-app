@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular patron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A regular patron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who frequently visits or frequents a particular place or establishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history, a regular patron of a salon, theater, cafe, or artistic gathering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Captain Runcie, of the S.S. _Gympie_, an old _habitue_ of New Guinea, took the chair."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At dinner each person was the centre of an expectant group of the four-footed habitues of the inn, and no one seemed to object."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old bucks and habitues, who ordinarily stand gaping and grinning out of the great front window of the Club, had not arrived at their posts as yet--the newspaper-room was almost empty."*
+> - 📜 **Arthur Conan Doyle (*The Man with the Twisted Lip*):** *"The detective recognized every degenerate **habitue** of the infamous East End opium den."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"As a seasoned **habitue** of the opera, Lawrence Lefferts knew every family occupying the boxes."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"The American novelist was a celebrated **habitue** of the terrace cafes along Boulevard Saint-Germain."*

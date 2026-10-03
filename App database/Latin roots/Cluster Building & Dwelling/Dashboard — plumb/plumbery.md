@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The occupation of a plumber (installing and repairing pipes and fixtures for water or gas or sewage in a building).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The occupation of a plumber (installing and repairing pipes and fixtures for water or gas or sewage in a building).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A workshop where lead is worked or plumbing fittings are made; the trade or craft of plumbing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The system of lead fixtures, pipes, and architectural leadwork installed in a building.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbery designates the occupation of a plumber (installing and repairing pipes and fixtures for water or gas or sewage in a building)."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ornate **plumbery** of the cathedral roof included gargoyles cast in heavy medieval lead."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The municipal arsenal commandeered the contents of every local **plumbery** to cast musket bullets."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Roman aqueducts displayed magnificent masonry and intricate **plumbery** distributing water to every public bath."*

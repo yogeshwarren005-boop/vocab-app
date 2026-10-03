@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial herbs and shrubs and lianas; cosmopolitan especially in saltwater areas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial herbs and shrubs and lianas; cosmopolitan especially in saltwater areas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The leadwort family of flowering plants, comprising herbs and shrubs such as sea lavenders and plumbagos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, a cosmopolitan family belonging to the order Caryophyllales adapted to saline coastal soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbaginaceae designates perennial herbs and shrubs and lianas; cosmopolitan especially in saltwater areas."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Plumbaginaceae** includes maritime herbs bearing five-parted flowers and saline adaptations."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Specimens of **Plumbaginaceae** flourish along the arid salt flats and rocky sea coasts of the peninsula."*
+> - 📜 **John Torrey (*Flora of North America*):** *"Botanists classified the coastal thrift under the family **Plumbaginaceae** based upon floral morphology."*

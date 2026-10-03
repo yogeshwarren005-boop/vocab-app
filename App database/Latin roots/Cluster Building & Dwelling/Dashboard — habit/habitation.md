@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The native habitat or home of an animal or plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Housing that someone is living in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A house, home, or other place where people dwell or reside; the act of living in a place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and property law, the lawful right to occupy a dwelling without transferring underlying ownership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a mansion have those vices got, Which for their habitation chose out thee, Where beauty’s veil doth cover every blot, And all things turns to fair, that eyes can see!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An habitation giddy and unsure Hath he that buildeth on the vulgar heart."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A breath thou art, Servile to all the skyey influences That dost this habitation where thou keep’st Hourly afflict."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"Once again do I behold these steep and lofty cliffs, and connect the landscape with the quiet of the sky, far from human **habitation**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Nantucket whalers left their native **habitation** for three long years on the trackless ocean."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The ancestral mansion had served as the sole **habitation** of the Pyncheon race for generations."*

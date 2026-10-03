@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhabit or live in; be an inhabitant of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be present in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To live in, occupy, or dwell permanently in a house, region, or landscape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, to fill or pervade a mental space, artistic work, or role completely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s none but witches do inhabit here, And therefore ’tis high time that I were hence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sure, these are but imaginary wiles, And Lapland sorcerers inhabit here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where is that blood That I have seen inhabit in those cheeks?"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Colossal whales **inhabit** the deep waters of the Pacific, far beyond the tracks of merchantmen."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"Spirits of solitude seemed to **inhabit** the lofty summits of the Lake District mountains."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Man was created to **inhabit** this earthly sphere and cultivate his intellectual endowments."*

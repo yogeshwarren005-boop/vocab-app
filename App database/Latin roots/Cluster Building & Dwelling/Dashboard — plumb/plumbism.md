@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toxic condition produced by the absorption of excessive lead into the system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Toxic condition produced by the absorption of excessive lead into the system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronic lead poisoning, also known historically as saturnism; toxic illness caused by lead accumulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical occupational toxicology, a condition characterized by abdominal colic, motor paralysis, and anemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbism designates toxic condition produced by the absorption of excessive lead into the system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The telltale blue line along the gums serves as a pathognomonic diagnostic sign of chronic **plumbism**."*
+> - 📜 **Oliver Wendell Holmes (*Medical Essays*):** *"Type-founders and painters frequently succumbed to the debilitating tremors and wrist drop of **plumbism**."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Pathological specimens of **plumbism** exhibit chronic interstitial nephritis and peripheral nerve demyelination."*

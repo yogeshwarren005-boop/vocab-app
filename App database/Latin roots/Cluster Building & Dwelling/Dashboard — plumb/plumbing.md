@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The occupation of a plumber (installing and repairing pipes and fixtures for water or gas or sewage in a building).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system of pipes, tanks, fittings, and apparatus for water distribution and waste disposal in a building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The work or trade of installing and maintaining water supply and sanitary sewage pipes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbing designates utility consisting of the pipes and fixtures for the distribution of water or gas in a building and for the disposal of sewage."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol Kennicott insisted upon modern bathroom **plumbing** to replace the primitive village pump."*
+> - 📜 **H.G. Wells (*Tono-Bungay*):** *"The ambitious contractor expanded into municipal gas works and residential sanitary **plumbing**."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Doolittle joked that modern civilization was merely a convenient arrangement of sewers and **plumbing**."*

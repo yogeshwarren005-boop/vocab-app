@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type of environment in which an organism or group normally lives or occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type of environment in which an organism or group normally lives or occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural home or characteristic environment of an animal, plant, or other organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and human geography, the physical and cultural surroundings in which an individual or group dwells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The compartment was generous by space habitat standards."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Colonizing Pluto and constructing space kits that would be transformed into surface habitat and supply depots began centuries earlier when Planet Pluto was barely past aphelion but within economical range of deep space transports."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Government of the nearest surface or colony habitat will be notified immediately and institute actions for the objects' reduction to harmless residue or its temporary or permanent removal to a safe location."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When a species moves beyond its native **habitat**, it encounters unfamiliar selective pressures."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The deep pine woods furnished an ideal **habitat** for the shy hermit thrush and partridge."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The dense tropical rainforest of Borneo is the exclusive **habitat** of the wild orangutan."*

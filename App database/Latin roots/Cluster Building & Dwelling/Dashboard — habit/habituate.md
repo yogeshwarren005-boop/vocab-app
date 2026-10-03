@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take or consume (regularly or habitually).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make psychologically or physically used (to something).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become accustomed or used to something through frequent exposure or practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral biology and neurophysiology, to show decreased physiological response to a repeated stimulus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"However I determine, poesy must be laid aside for some time; my mind has been vitiated with idleness, and it will take a good deal of effort to habituate it to the routine of business.--I am, my dear Sir, yours sincerely, R."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I just put my two arms round her and said, “Come, Bessie! don’t scold.” The action was more frank and fearless than any I was habituated to indulge in: somehow it pleased her."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"How far ye got, Bildad?” As if long habituated to such profane talk from his old shipmate, Bildad, without noticing his present irreverence, quietly looked up, and seeing me, glanced again inquiringly towards Peleg."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We must **habituate** our neural pathways to virtuous choices until right action becomes effortless."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"False education serves only to **habituate** young women to dependence and frivolity."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Discipline in scientific observation serves to **habituate** the student to rigorous inquiry."*

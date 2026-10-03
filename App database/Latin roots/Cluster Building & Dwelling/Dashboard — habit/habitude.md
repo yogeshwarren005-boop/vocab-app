@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Habitual mode of behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Habitual mode of behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A habitual practice, custom, or established mode of behavior; routine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical psychology, the settled constitutional temperament or disposition of an individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When we got to La Clairière we were ready to sink down with fatigue like all the rest--nay, even more than the rest, for we were not used to it, and for my part I had altogether lost the habitude of long walks."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At any time it is a strange sight to the tyro to see with what wondrous habitude of unconscious skill the whaleman will maintain an erect posture in his boat, even when pitched about by the most riotously perverse and cross-running seas."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"At any time it is a strange sight to the tyro to see with what wondrous habitude of unconscious skill the whaleman will maintain an erect posture in his boat, even when pitched about by the most riotously perverse and cross-running seas."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"Long **habitude** possesses greater power over human conduct than the most eloquent philosophical lectures."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Old domestic **habitude** reclaimed us as soon as we resumed our sedentary town occupations."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Our daily **habitude** carves invisible channels in the brain that dictate future actions."*

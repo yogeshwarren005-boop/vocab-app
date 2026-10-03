@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of lead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of lead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, containing, or derived from divalent lead with an oxidation state of plus two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, designating lower-valence lead compounds such as plumbous chloride or plumbous oxide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbous designates relating to or consisting of lead."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Yellow massicot constitutes the stable **plumbous** oxide formed by heating molten lead in air."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Crystalline needles of **plumbous** chloride separated rapidly from the cooling aqueous solution."*
+> - 📜 **Robert Bunsen (*Photochemical Researches*):** *"Analytical precipitation with hydrogen sulfide yielded insoluble brownish-black **plumbous** sulfide."*

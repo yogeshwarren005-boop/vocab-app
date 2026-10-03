@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitability for living in or on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitability for living in or on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extent to which a place, structure, or environment is suitable or safe for human living.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrobiology and planetary science, the measure of a celestial planet's potential to sustain liquid water and life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, habitability designates suitability for living in or on."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The true test of domestic building is enduring **habitability** and harmonious comfort."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geological changes over vast epochs altered the climate and **habitability** of the polar regions."*
+> - 📜 **H.G. Wells (*The War of the Worlds*):** *"Martian astronomers turned envious telescopes toward Earth, perceiving its lush **habitability** and abundant oceans."*

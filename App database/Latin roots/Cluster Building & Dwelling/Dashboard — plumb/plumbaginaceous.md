@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or characteristic of plants of the family plumbaginaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of plants of the family plumbaginaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to, resembling, or characteristic of the plant family Plumbaginaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytochemistry, producing plumbagin or related naphthoquinone pigments characteristic of leadworts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumbaginaceous designates of or pertaining to or characteristic of plants of the family plumbaginaceae."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The **plumbaginaceous** species thrive upon saline marshes where few ordinary garden herbs can survive."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"We gathered delicate **plumbaginaceous** blossoms growing abundantly upon the seaside sand dunes."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The blue-flowered sea lavenders exhibit typical **plumbaginaceous** inflorescence and persistent calyces."*

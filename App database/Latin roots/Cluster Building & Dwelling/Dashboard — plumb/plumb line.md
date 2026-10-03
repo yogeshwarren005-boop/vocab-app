@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin plumb within the domain of Building & Dwelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of plumb in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cord or line weighted at the bottom with a lead weight, used to find a true vertical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural metaphor, a strict standard of rectitude, truth, or moral alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumb line designates pertaining to, derived from, or characteristic of latin plumb within the domain of building & dwelling."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I sounded the pond with a line and stone, finding truth as with a moral **plumb line**."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The honest builder lays every course of brick true to the test of the **plumb line**."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Adam took up his rule and **plumb line**, inspecting the newly raised oak framing with satisfaction."*

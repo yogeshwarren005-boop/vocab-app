@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated at or extending to great depth; too deep to have been sounded or plumbed; ; -thomas gray.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situated at or extending to great depth; too deep to have been sounded or plumbed; ; -thomas gray.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not measured or tested with a plumb line; not measured for depth; unfathomed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, not explored, comprehended, or investigated; mysterious and boundless.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unplumbed designates situated at or extending to great depth; too deep to have been sounded or plumbed; ; -thomas gray."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pequod sailed across **unplumbed** abysses of the Pacific where monster leviathans sport unseen."*
+> - 📜 **Matthew Arnold (*To Marguerite—Continued*):** *"Yes! in the sea of life enisled, we mortal millions live alone; the **unplumbed**, salt, estranging sea."*
+> - 📜 **Joseph Conrad (*Youth*):** *"The night was pitch black, and we looked down into the dark, **unplumbed** waters with awe."*

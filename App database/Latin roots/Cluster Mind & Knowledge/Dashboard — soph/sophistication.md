@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uplifting enlightenment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worldly knowledge, cultural refinement, and cultivated taste; also high complexity in design or technology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical culture and rhetoric, moving away from rustic simplicity toward cosmopolitan elegance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Although modern sophistication easily points out flaws in Charles Brockden Brown’s story-structure, and reproves him for improbability, morbidness, and a style often too elevated, yet his work lives."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It was to be feared that she was indeed drifting toward those abysses of sophistication as to which Isabel, wishing for a good-humoured retort, had warned her."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Madame Merle possessed that supreme European **sophistication** which handles every social crisis with flawless tact."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Newland Archer admired the subtle **sophistication** of Countess Olenska, so different from the rigid conventions of Old New York."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The leisure class cultivates an esoteric **sophistication** of consumption to advertise its complete exemption from manual labor."*

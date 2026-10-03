@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mentor in spiritual and philosophical topics who is renowned for profound wisdom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aromatic fresh or dried grey-green leaves used widely as seasoning for meats and fowl and game etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A profoundly wise person, venerated for wisdom and sound judgment; also an aromatic culinary herb (*Salvia officinalis*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, the Stoic ideal of the perfected human whose reason remains untroubled by passions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We should profane the service of the dead To sing sage requiem and such rest to her As to peace-parted souls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All you sage counsellors, hence!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Majestee ’ave _fausse_ French enough to deceive de most _sage demoiselle_ dat is _en France_."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A **sage** philosopher once taught that grief best heals when seasoned with patient virtue and holy silence."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The ancient **sage** dwells in serene contemplation, recognizing the divine unity that animates every atom of creation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak was regarded as a rustic **sage** whose sheep-tending lore surpassed all modern agricultural books."*

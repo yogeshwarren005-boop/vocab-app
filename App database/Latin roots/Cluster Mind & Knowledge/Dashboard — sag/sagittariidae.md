@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secretary birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Secretary birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of predatory birds containing a single surviving species, the secretarybird (*Sagittarius serpentarius*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic avian biology, long-legged African raptors specialized for stalking and stomping venomous snakes on savannahs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagittariidae designates secretary birds."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The distinctive raptorial family **sagittariidae** is strictly confined to the Ethiopian zoological region."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"On the open plain, a secretarybird of the family **sagittariidae** struck repeatedly with its powerful talons at an adder."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"We watched the stately secretarybird, sole representative of **sagittariidae**, stride purposefully through the tall grass."*

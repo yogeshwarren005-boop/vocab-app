@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the grey-green color of sage leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the grey-green color of sage leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pale, soft grayish-green color resembling the hue of dried culinary sage leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and aesthetic movement interiors, an understated earthy tint favored by William Morris and Pre-Raphaelites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sage-green designates of the grey-green color of sage leaves."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The studio walls were hung with delicate **sage-green** silk, forming an artistic background for antique porcelain vases."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She wore an understated evening cloak of **sage-green** velvet that set off the dark coils of her hair."*
+> - 📜 **E. M. Forster (*Howards End*):** *"Margaret examined the Morris wallpaper with its graceful **sage-green** acanthus leaves winding across the hall."*

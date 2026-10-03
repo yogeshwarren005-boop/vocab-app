@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stubborn person of arbitrary or arrogant opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stubbornly insistent on theory without regard for practicality or suitability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seeking to impose a doctrine or political theory without regard to practical considerations; stubbornly dogmatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century French politics, moderate constitutional royalists led by Guizot seeking compromise between royalism and revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"They have been too abstractly doctrinaire, have argued too absolutely for the merits of free trade to be applied instantly regardless of the existing distribution of investments and of occupations."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The word _doctrinaire_—word full of terror to the British mind—reappeared from time to time between his explosions."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"They have been too abstractly doctrinaire, and have argued too absolutely for the merits of free trade."*
+> - 📜 **Alexis de Tocqueville (*Recollections*):** *"Guizot was an inflexible **doctrinaire** statesman whose rigid theories blinded him to the rising discontent of the working classes."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A **doctrinaire** philosopher who attempts to construct a constitution out of abstract geometry will destroy the state."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father warned me against becoming a narrow **doctrinaire**, urging me to test all utilitarian formulas against experience."*

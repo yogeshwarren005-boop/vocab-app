@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Geometrid moths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geometrid moths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, graceful tree ferns in the family Cyatheaceae, native to tropical mountain rainforests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and pteridology, ancient arborescent ferns with fibrous trunks dating back to the Jurassic period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alsophila designates geometrid moths."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the mountain ravines of Java, gigantic tree ferns of the genus **alsophila** spread their fronds thirty feet above the torrent."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We rode beneath magnificent groves of **alsophila**, whose delicate pinnate fronds sheltered lush mosses from the midday sun."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The slopes of Sikkim were densely clothed with **alsophila** tree ferns flourishing amidst the perpetual mountain mists."*

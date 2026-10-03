@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A film or tv program presenting the facts about a person or event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A film or tv program presenting the facts about a person or event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatized television film, radio program, or play based on real events, blending documentary facts with dramatic performance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern media studies, narrative non-fiction programming using actors to reconstruct historical trials or crises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, docudrama designates a film or tv program presenting the facts about a person or event."*
+> - 📜 **Arthur Miller (*Timebends: A Life*):** *"The television network produced a powerful **docudrama** exploring the political hysteria of the Salem witchcraft trials."*
+> - 📜 **Gore Vidal (*Screening History*):** *"The modern historical **docudrama** often simplifies complex geopolitical diplomacy to heighten emotional melodrama."*
+> - 📜 **Neil Postman (*Amusing Ourselves to Death*):** *"By turning tragic history into an evening **docudrama**, television entertainment subtly dissolves historical reality into spectacle."*

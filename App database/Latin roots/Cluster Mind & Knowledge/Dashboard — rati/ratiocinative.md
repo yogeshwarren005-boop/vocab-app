@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on exact thinking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on exact thinking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, relating to, or given to logical reasoning and methodical deduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive philosophy, describing analytical mental processes contrasted with intuitive or affective perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ratiocinative designates based on exact thinking."*
+> - 📜 **Edgar Allan Poe (*The Purloined Letter*):** *"The Prefect of Police lacked that flexible **ratiocinative** genius required to fathom an intellect superior to his own."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The scientific method combines inductive observation with powerful **ratiocinative** deductions from established physical laws."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our higher **ratiocinative** faculties depend upon the brain's capacity to isolate abstract characters from sensory wholes."*

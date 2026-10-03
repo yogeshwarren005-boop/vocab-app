@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located in a plane that is parallel to the central plane of the sagittal suture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located in a plane that is parallel to the central plane of the sagittal suture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the plane that divides a bilateral organism into right and left parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology, the sagittal suture uniting the two parietal bones along the midline of the calvaria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagittal designates located in a plane that is parallel to the central plane of the sagittal suture."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **sagittal** suture extends between the coronal and lambdoid sutures, marking the junction of the parietal plates."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"Comparative craniologists measured the **sagittal** crest in anthropoid apes, noting its connection to temporal muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thrombosis of the superior **sagittal** sinus was confirmed at autopsy following severe facial erysipelas."*

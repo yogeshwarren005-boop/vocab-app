@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking legal authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking legal authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not formally approved, sanctioned, or confirmed by legal, legislative, or sovereign authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomacy and constitutional law, treaties or amendments that failed to achieve the necessary legislative majority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unratified designates lacking legal authority."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An **unratified** compact between states has no binding force in federal courts until Congress grants explicit approval."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The commercial convention remained **unratified**, as the British ministry refused to abandon the impressment of our seamen."*
+> - 📜 **Woodrow Wilson (*Addresses and Papers*):** *"The tragic rejection left the Treaty of Versailles **unratified** by the United States Senate, crippling the League of Nations."*

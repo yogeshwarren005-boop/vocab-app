@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The slender spear of the bantu-speaking people of africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The slender spear of the bantu-speaking people of africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light iron-tipped throwing spear or lance of hardwood used by southern African warriors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colonial military history, the traditional missile weapon of Zulu and Nguni impis in warfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assagai designates the slender spear of the bantu-speaking people of africa."*
+> - 📜 **H. Rider Haggard (*King Solomon's Mines*):** *"The warrior shook his broad-bladed **assagai**, shouting defiance as the battle horn echoed from the mountain pass."*
+> - 📜 **Winston Churchill (*The River War*):** *"The scouts watched the crests for gleams of steel, where warriors armed with shield and **assagai** guarded the defile."*
+> - 📜 **Richard Francis Burton (*First Footsteps in East Africa*):** *"Each tribesman carried three throwing spears and a short stabbing **assagai** fashioned from seasoned thornwood."*

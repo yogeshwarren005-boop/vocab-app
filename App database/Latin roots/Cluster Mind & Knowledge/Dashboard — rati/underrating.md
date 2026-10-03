@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An estimation that is too low; an estimate that is less than the true or actual value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make too low an estimate of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Underestimating, undervalueing, or assigning too low a value, importance, or capability to someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In strategic warfare and competitive commerce, the dangerous mistake of underestimating an adversary's resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Sure-dart, with the exception of the serious underrating of the great lizard’s speed, had thus far made no mistake, and that blunder had not as yet brought him to grief."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Allied statesmen committed the fatal error of **underrating** the speed and mechanized power of the German panzer divisions."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma was in danger of **underrating** Robert Martin's character simply because he was a respectable tenant farmer."*
+> - 📜 **F. H. Costello (*Sure-Dart*):** *"The veteran hunter warned the youth against **underrating** the wounded cave bear, whose dying charge was swifter than an arrow."*

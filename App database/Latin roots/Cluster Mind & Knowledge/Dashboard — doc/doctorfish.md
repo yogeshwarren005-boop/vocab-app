@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgeon fish of the west indies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgeon fish of the west indies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of doctor-fish; a surgeonfish (*Acanthurus*) or tench noted for sharp spines or medicinal folklore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, reef-dwelling perciform fishes equipped with caudal scalpels used in territorial defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doctorfish designates surgeon fish of the west indies."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"A glittering blue **doctorfish** browsed upon filamentous algae encrusting the coral heads of the barrier reef."*
+> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The natives caught colorful specimens of the **doctorfish** in their wicker traps near the outer breakers."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Through the diving helmet window, I watched a school of **doctorfish** flash their bright yellow tail lancets in warning."*

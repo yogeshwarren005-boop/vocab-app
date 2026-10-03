@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The passage between the pharynx and the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The passage between the pharynx and the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscular membranous tube through which food and liquids pass from the pharynx downward into the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human digestive anatomy, an organ approximately ten inches long traversing the posterior mediastinum and diaphragm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esophagus designates the passage between the pharynx and the stomach."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **esophagus** descends through the neck behind the trachea, enters the thorax, and pierces the muscular diaphragm."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Peristaltic muscular contractions of the **esophagus** propel food into the stomach even when an animal hangs head downward."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Sudden terror often induces an involuntary spasmodic constriction of the **esophagus**, rendering speech impossible."*

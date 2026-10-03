@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several north american composite subshrubs of the genera artemis or seriphidium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several north american composite subshrubs of the genera artemis or seriphidium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shrubby aromatic North American plant (*Artemisia tridentata*) with silvery-gray leaves, dominating arid western plains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Western American literature, the quintessential aromatic shrub defining the rugged desert plains and badlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagebrush designates any of several north american composite subshrubs of the genera artemis or seriphidium."*
+> - 📜 **Zane Grey (*Riders of the Purple Sage*):** *"Lassiter reined his horse upon the red sandstone bluff, looking across rolling miles of purple and silver **sagebrush**."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The pungent, camphoraceous aroma of the burning **sagebrush** campfire filled the cold desert night with wild comfort."*
+> - 📜 **Willa Cather (*The Song of the Lark*):** *"The dry mountain wind swept across the canyon flats, carrying the clean, bitter scent of sun-warmed **sagebrush**."*

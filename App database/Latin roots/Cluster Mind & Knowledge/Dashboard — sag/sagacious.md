@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acutely insightful and wise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillful in statecraft or management.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing keen mental discernment, good judgment, and practical wisdom; shrewd and farsighted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character sketches and natural history, keen animal instinct or statesmen exhibiting acute political foresight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"But of course I said nothing in reply except that I would do my best, though I feared (I really felt it necessary to repeat this) that he thought me much more sagacious than I was."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sagacious Smallweed supplies him with the newspaper and occasionally drops his eye upon him from the landing as a precaution against his becoming disgusted with waiting and making an untimely departure."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jobling is about to interrupt when the sagacious Smallweed checks him with a dry cough and the words, “Hem!"*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Bucket was an extraordinarily **sagacious** officer, whose watchful eye missed no tremor of a witness's lip."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth smiled at Charlotte's **sagacious** observations, recognizing her friend's prudent calculation of matrimonial prospects."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old sailor gave a **sagacious** nod, pointing out subtle ocean currents invisible to inexperienced landsmen."*

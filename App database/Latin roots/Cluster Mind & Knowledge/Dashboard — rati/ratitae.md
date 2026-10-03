@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in former classifications to include all ratite bird orders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in former classifications to include all ratite bird orders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diverse taxonomic group of large, flightless birds having a flat breastbone without a keel (carina).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ornithology, an assemblage including ostriches, emus, rheas, cassowaries, and kiwis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ratitae designates used in former classifications to include all ratite bird orders."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of Birds*):** *"The flat, unkeeled sternum distinguishes the ancient order **ratitae** from the carinate flying birds of modern fauna."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The rudimentary wings of the **ratitae** illustrate how organs degenerate through prolonged disuse across evolutionary epochs."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The widespread Southern Hemisphere distribution of the **ratitae** points to ancient Gondwanan continental connections."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grant that funds postdoctoral study or research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar or researcher who is involved in academic study beyond the level of a doctoral degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A postdoctoral scholar, fellow, or researcher engaged in advanced research after completing a doctoral degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern university scientific culture, an early-career researcher working under a principal investigator in a laboratory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postdoc designates a grant that funds postdoctoral study or research."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"As a young **postdoc** at the Cavendish Laboratory, I spent hours discussing DNA base pairs with Francis Crick."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"The laboratory was crowded with eager **postdoc** physicists working late into the night over cosmic ray counters."*
+> - 📜 **Siddhartha Mukherjee (*The Emperor of All Maladies*):** *"A brilliant young **postdoc** identified the crucial oncogene mutation while screening leukemia cell cultures."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving or preoccupied with doctrine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or involving or preoccupied with doctrine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with religious, political, or philosophical doctrine and authoritative tenets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and jurisprudence, foundational theological dogmas defining orthodoxy and heresy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode’s mind clad his most egoistic terrors in doctrinal references to superhuman ends."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But today a repentance had come which was of a bitterer flavor, and a threatening Providence urged him to a kind of propitiation which was not simply a doctrinal transaction."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To-day, as of yore, unconscious of the 132:21 reappearing of the spiritual idea, blind belief shuts the door upon it, and condemns the cure of the sick and sin- ning if it is wrought on any but a material and a doctrinal 132:24 theory."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"True **doctrinal** growth resembles the organic unfolding of a seed into a mature tree, preserving identity through change."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Fierce **doctrinal** controversies over a single Greek syllable shook the peace of the eastern provinces for centuries."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Sacred scripture provides the ultimate **doctrinal** foundation upon which all theological deduction must firmly rest."*

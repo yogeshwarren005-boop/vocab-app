@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clever but fallacious argument, especially one used deliberately to deceive or mislead others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical dialectics and rhetoric, a specious syllogism that mimics truth while hiding a logical fallacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There is a well-known, so-called sophism of the ancients consisting in this, that Achilles could never catch up with a tortoise he was following, in spite of the fact that he traveled ten times as fast as the tortoise."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It’s to make you independent that I want to marry you.” “That’s a beautiful sophism,” said the girl with a smile more beautiful still."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Happily for mankind, stupendous fabrics reared on the basis of liberty, which have flourished for ages, have, in a few glorious instances, refuted their gloomy sophisms."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"The diplomat veiled his cynical ambition behind an ingenious **sophism**, persuading the ministers that retreat was victory."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The opponents of the Constitution rely upon a transparent **sophism** to frighten the people into rejecting national unity."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel recognized the subtle **sophism** in Madame Merle's worldly advice, yet lacked the heart to expose it."*

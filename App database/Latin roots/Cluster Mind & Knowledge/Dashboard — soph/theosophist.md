@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in theosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in theosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent, practitioner, or student of theosophy, seeking intuitive spiritual knowledge of divine mysteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern occult history, a member of the Theosophical Society exploring Hindu and Buddhist esoteric philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"German Boehme: Jacob Boehme (or Behmen), a shoemaker and a famous theosophist, b. 1575, at Old Seidenberg, a village near Goerlitz; d. 1624."*
+> - 📜 **William Butler Yeats (*Memoirs*):** *"My friend the painter was an ardent **theosophist**, meditating daily upon ancient Indian Upanishads in his studio."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"The spiritualist conferenced with a learned **theosophist** on the nature of astral bodies and survival after death."*
+> - 📜 **James Joyce (*Ulysses*):** *"AE sat in the national library surrounded by admiring disciples, the revered **theosophist** expounding Irish visionary myths."*

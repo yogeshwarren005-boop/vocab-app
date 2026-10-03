@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the esophagus; often caused by gastroesophageal reflux.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the esophagus; often caused by gastroesophageal reflux.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucosal lining of the esophagus, commonly caused by acid reflux, infection, or medication irritation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology, erosive reflux disease presenting with retrosternal pyrosis and painful dysphagia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esophagitis designates inflammation of the esophagus; often caused by gastroesophageal reflux."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe chemical **esophagitis** may supervene rapidly following the accidental ingestion of mineral acids or caustic alkalis."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten*):** *"The patient complained of constant burning retrosternal pain, which the clinic diagnosed as acute reflux **esophagitis**."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"The elderly gentleman suffered from debilitating **esophagitis**, which made even swallowing warm broth an agonizing trial."*

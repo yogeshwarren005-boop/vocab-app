@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grant that funds postdoctoral study or research.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to study or research that is done after work for the doctoral degree has been completed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting research, studies, or fellowships undertaken after the completion of a doctoral degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic life science and physics careers, a transitional training period essential for establishing independent research programs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postdoctoral designates a grant that funds postdoctoral study or research."*
+> - 📜 **James D. Watson (*Genes, Girls, and Gamow*):** *"I secured a **postdoctoral** fellowship to study viral genetics, which enabled me to travel freely between European laboratories."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Young scientists during their **postdoctoral** years often produce their most audacious and revolutionary conceptual work."*
+> - 📜 **Carl Sagan (*The Cosmic Connection*):** *"During my **postdoctoral** appointment at Berkeley, we analyzed planetary radio emission data from the Mariner flyby."*

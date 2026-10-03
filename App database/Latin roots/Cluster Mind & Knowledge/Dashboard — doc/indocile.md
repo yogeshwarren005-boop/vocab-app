@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of persons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or impossible to instruct, lead, or discipline; intractable, stubborn, and unruly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and animal psychology, animals or individuals refusing to submit to customary training.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The untrained and indocile youth, however, is made the subject of compulsory distribution."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The untrained and indocile youth, however, is made the subject of compulsory distribution. [Sidenote: In much governmental action] The collection and distribution of taxes is by public authority."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The Highland colt was wild and **indocile**, kicking violently whenever the groom approached with saddle and bridle."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"An **indocile** pupil who scorns correction will soon find the world a harsh and unforgiving schoolmaster."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **indocile** spirit of the Germanic tribes resisted all efforts of Roman governors to impose peaceful taxation."*

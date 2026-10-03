@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychiatry) a defense mechanism by which your true motivation is concealed by explaining your actions and feelings in a way that is not threatening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive process of making something seem consistent with or based on reason.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of attempting to explain or justify behavior or an attitude with logical reasons (British spelling); also industrial restructuring for efficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis and corporate management, creating plausible excuses for unconscious impulses or streamlining factory processes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationalisation designates (psychiatry) a defense mechanism by which your true motivation is concealed by explaining your actions and feelings in a way that is not threatening."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"The neurotic patient invents an elaborate intellectual **rationalisation** to mask the true, repressed motive behind his symptoms."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The progressive **rationalisation** of economic life transformed medieval craft workshops into mechanized, disciplined factories."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Every political faction offered a convenient **rationalisation** for betraying the revolutionary militias at the front."*

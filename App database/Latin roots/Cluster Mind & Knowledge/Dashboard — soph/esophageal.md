@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the esophagus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the esophagus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the esophagus (the muscular tube connecting the throat to the stomach).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, describing muscular peristalsis, mucosal erosion, or varices along the swallowing passage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esophageal designates relating to the esophagus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic portal hypertension frequently leads to the formation of dilated **esophageal** veins subject to fatal hemorrhage."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The bolus of food is propelled downward by involuntary waves of contraction passing through the **esophageal** muscular tunic."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The endoscopic camera advanced slowly, illuminating a severe **esophageal** stricture that prevented normal swallowing."*

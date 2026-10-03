@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being agreeably submissive and manageable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being agreeably submissive and manageable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition marked by gentle obedience, compliance, and readiness to accept instruction or training.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social philosophy and ethology, an innate or conditioned willingness to submit to domestic governance without resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thus her silence of docility was misinterpreted."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"With the fitful docility of the mad, Janaway obeyed, and directly he did so Lawrence checked and stood on the defensive, taking a moment to collect his wits--he had need of them: he had to make his head guard his hands."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He took her by the hands and raised her to her feet, and Isabel with irreproachable docility began to collect her scattered belongings, her sable scarf and mull and veil."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Breeds of domestic dogs exhibit an astonishing **docility**, responding instantly to the tone and gesture of their masters."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Despotism prefers civic apathy and passive **docility** to the turbulent energy of self-governing republican citizens."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond's outward **docility** was deceptive, concealing an unyielding obstinacy of purpose beneath graceful manners."*

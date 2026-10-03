@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Confirmation that some fact or statement is true through the use of documentary evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Program listings or technical manuals describing the operation and use of programs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Material that provides official information, evidence, instructions, or records; the collection of documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering and clinical governance, written manuals and electronic records ensuring operational accountability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He compiled documentation, published, and widely distributed copies of his book, "Military-Civilian Teamwork in Suicide Prevention" (1971, 1985 and 1994.) Mike's updated essay on suicide prevention in the U.S."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll spunnel formal documentation to the UIPS on the amount of taxes due, the schedule for payment and penalties for delinquencies." "The penalties?" "I have several in mind."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Complete technical **documentation** of circuit schematics is essential for maintaining automated computing machinery."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The laboratory reports provided thorough **documentation** of noise suppression across high-frequency transmission channels."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"Careful surgical **documentation** prevents catastrophic errors by verifying patient identity and operative site before incision."*

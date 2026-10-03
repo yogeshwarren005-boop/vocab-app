@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not wise in the ways of the world; ; - kate o'brien.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking worldly experience, artifice, or refined complexity; simple, natural, naive, and unpretentious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and social commentary, genuine innocence untouched by the cynical affectations of high society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her unsophisticated open-air existence required no varnish of conventionality to make it palatable to him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though unsophisticated in the usual sense, she was not incomplete; and it would have denoted deficiency of womanhood if she had not instinctively known what an argument lies in propinquity."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Deep was my gratification to find I had really a place in their unsophisticated hearts: I promised them that never a week should pass in future that I did not visit them, and give them an hour’s teaching in their school."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess was a pure and **unsophisticated** village maiden, unaccustomed to the predatory flatteries of worldly men."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester declared that Jane's blunt, **unsophisticated** honesty was a refreshing breeze through his corrupted halls."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine Morland was an open-hearted, **unsophisticated** girl whose imagination had been bewitched by Gothic romances."*

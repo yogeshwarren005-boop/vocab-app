@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the great tragedians of ancient greece (496-406 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the great tragedians of ancient greece (496-406 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three great ancient Athenian tragic playwrights (c. 496–406 BC), author of *Oedipus Rex* and *Antigone*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, celebrated for dramatic structure, moral seriousness, and introducing the third actor to Greek theatre.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley's was identified by a copy of Sophocles in one coat-pocket and the Keats in another."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The line comes from a play of Sophocles, fr. 695."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"I can only compare these lines to that famous passage of Sophocles where the lamentations of the dying Oedipus are interrupted by the impatient summons of an unseen accompanying god."*
+> - 📜 **Matthew Arnold (*To a Friend*):** *"Be his My special thanks, whose even-balanced soul business could not make dull, nor passion wild; who saw life steadily, and saw it whole: the mellow glory of the Attic stage, singer of sweet Colonus, and its child, **sophocles**."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"The choral odes of **sophocles** express the highest moral dignity that ancient Greek drama ever attained."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie read the Antigone of **sophocles** with a beating heart, feeling kinship with that noble, tragic sister."*

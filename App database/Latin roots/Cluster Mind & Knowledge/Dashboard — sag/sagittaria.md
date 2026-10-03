@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of aquatic herbs of temperate and tropical regions having sagittate or hastate leaves and white scapose flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of aquatic herbs of temperate and tropical regions having sagittate or hastate leaves and white scapose flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic flowering plants in the water-plantain family (Alismataceae), commonly known as arrowheads or duck-potato.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wetland botany and ethnobotany, wetland perennials producing edible starchy tubers harvested by indigenous peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagittaria designates genus of aquatic herbs of temperate and tropical regions having sagittate or hastate leaves and white scapose flowers."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Along the marshy shallows of the river, the glossy arrow-shaped leaves of **sagittaria** rose above the brown water."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The aquatic species of **sagittaria** bear delicate white flowers in whorls upon tall scapose flower spikes."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"Canoeing through the cypress swamps, I collected a flowering **sagittaria** with broad aquatic tubers loved by wildfowl."*

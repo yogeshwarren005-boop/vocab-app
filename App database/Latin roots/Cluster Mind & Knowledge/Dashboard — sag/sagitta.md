@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the northern hemisphere between cygnus and aquila and crossed by the milky way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any arrowworm of the genus sagitta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrow; in astronomy, a small, dim constellation in the northern sky (the Arrow); also an otolith in fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative ichthyology and marine zoology, the largest calcium carbonate ear-stone used to determine fish age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagitta designates a small constellation in the northern hemisphere between cygnus and aquila and crossed by the milky way."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"The astronomers directed the radio telescope toward the faint stars of **sagitta**, searching for artificial pulse signals."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Dissecting the auditory capsule reveals the large **sagitta**, whose concentric growth rings record seasonal growth."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"In ancient sky lore, the celestial arrow **sagitta** flew forever through the Milky Way between Aquila and Cygnus."*

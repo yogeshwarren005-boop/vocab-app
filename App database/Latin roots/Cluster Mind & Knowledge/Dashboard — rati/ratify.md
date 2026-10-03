@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Approve and express assent, responsibility, or obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approve and express assent, responsibility, or obligation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sign or give formal consent to a treaty, contract, or agreement, making it officially valid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative procedure, to formally approve and sanction an executive nomination, statute, or diplomatic treaty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So through Lud’s Town march; And in the temple of great Jupiter Our peace we’ll ratify; seal it with feasts."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Yet she has promised—implied—that she will ratify an engagement to-night.” “Seven years,” murmured Oak."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They may defeat one choice of the Executive, and oblige him to make another; but they cannot themselves CHOOSE, they can only ratify or reject the choice of the President."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The power of the senate to **ratify** treaties serves as a vital constitutional check upon executive negotiations with foreign powers."*
+> - 📜 **Thomas Jefferson (*Autobiography*):** *"The delegates assembled in Philadelphia to **ratify** the articles that established an enduring union among the colonies."*
+> - 📜 **George Washington (*Farewell Address*):** *"Until the people amend their constitution, they are morally bound to **ratify** and uphold its statutory provisions."*

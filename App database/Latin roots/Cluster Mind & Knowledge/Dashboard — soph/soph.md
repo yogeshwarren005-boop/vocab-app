@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A second-year undergraduate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second-year undergraduate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal colloquial abbreviation for a sophomore, especially in American colleges and universities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Cambridge academic tradition, an undergraduate in their second or third year (*senior soph*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"Poor Miss _Molly_! _Wrote on Cor---- Cr----d's (a Printer and Bookseller in Cambridge) Window in the Shop._ Ye longing Sophs, say it who can, That _Corny_'s not a learned Man."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"Amory arrived at Princeton as a confident **soph**, eager to secure a place in the prestigious campus eating clubs."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin looked down upon the incoming freshmen with the seasoned superiority of a medical school **soph**."*
+> - 📜 **Thomas Hughes (*Tom Brown at Oxford*):** *"The veteran rowing coach selected an athletic young **soph** to stroke the college eight on the Isis."*

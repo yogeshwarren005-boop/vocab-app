@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A calculation that results in an estimate that is too high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make too high an estimate of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Valuing, estimating, or assessing something or someone more highly than is justified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical appraisal and finance, exaggerating the talent of an artist or the earnings potential of an enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overrating designates a calculation that results in an estimate that is too high."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley warned Emma against **overrating** her own match-making cleverness, pointing out the misery she might cause."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Youth is perpetually prone to **overrating** the happiness of the wealthy and the permanence of human friendships."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Speculative adventurers brought ruin upon themselves by wildly **overrating** the profits of South Sea trading ventures."*

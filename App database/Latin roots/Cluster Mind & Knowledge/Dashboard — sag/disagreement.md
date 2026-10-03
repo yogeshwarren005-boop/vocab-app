@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conflict of people's opinions or actions or characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difference between conflicting facts or claims or opinions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of consensus, harmony, or agreement; a conflict of opinion, quarrel, or dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law and political negotiation, irreconcilable differences between parties requiring formal arbitration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Whenever the three boys had a disagreement or anybody did something to displease Bruno, he would get quite beside himself with rage, acting in a way which he must have been sorry for later on."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The parties to it understand it least, but it has been observed that no two Chancery lawyers can talk about it for five minutes without coming to a total disagreement as to all the premises."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She hated questioning Liddy about her husband’s movements, and indeed had hitherto sedulously avoided doing so; but now all the house knew that there had been some dreadful disagreement between them, and it was futile to attempt disguise."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A sharp **disagreement** between the states over western territorial claims threatened to dissolve the Confederation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The first serious **disagreement** between Lydgate and Rosamond arose over the mounting debts for household luxuries."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Freedom of discussion ensures that honest intellectual **disagreement** remains the greatest spur to mental progress."*

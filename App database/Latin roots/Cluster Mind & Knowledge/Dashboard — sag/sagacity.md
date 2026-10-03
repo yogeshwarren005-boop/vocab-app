@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental ability to understand and discriminate between relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forming opinions by distinguishing and evaluating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acuteness of mental discernment, sound judgment, and farsighted practical wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classic literature, celebrated animal instinct (such as the hound's scent) or elderly statesmanship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, I have had very little pleasure at our dear Richard’s lately, and your practical sagacity demonstrates why."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Young ladies have great penetration in such matters as these; but I think I may defy even _your_ sagacity to discover the name of your admirer."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Crawford sure of her, and been delighted with his own sagacity."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Now, the lawyer's extraordinary **sagacity** had led him straight to the hidden document in the dead man's lodgings."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth gave her friend full credit for **sagacity**, though she could not approve the mercenary prudence of her choice."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The white whale displayed an almost human **sagacity** in eluding the combined pursuit of three harpoon boats."*

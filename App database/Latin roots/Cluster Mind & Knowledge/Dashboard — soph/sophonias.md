@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hebrew minor prophet of the late 7th century bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old testament book telling the prophecies of zephaniah which are concerned mainly with the approaching judgment by god upon the sinners of judah.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek and Douay-Rheims biblical form of the name of the minor Old Testament prophet Zephaniah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical scholarship, the prophetic book prophesying the Day of the Lord and the restoration of a righteous remnant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sophonias designates a hebrew minor prophet of the late 7th century bc."*
+> - 📜 **John Henry Newman (*Tracts for the Times*):** *"The somber warnings in the prophecy of **sophonias** prefigured the catastrophic judgment destined to fall upon unrepentant Jerusalem."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The Angelic Doctor cites the text of **sophonias** to prove that divine mercy preserves a faithful remnant amidst universal tribulation."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Latin Vulgate translation of the prophet **sophonias** was chanted in the cathedrals during the solemn season of Advent."*

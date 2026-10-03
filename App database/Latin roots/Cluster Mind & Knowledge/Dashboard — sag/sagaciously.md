@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a shrewd manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a shrewd manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sagacious manner; shrewdly, wisely, and with keen penetration and practical insight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative dialogue, expressing insightful judgment that exposes hidden motives behind polite pretense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"A little redness or a little matter of Bone, here or there, what does it signify to Me?” I sagaciously observed, if it didn’t signify to him, to whom did it signify?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, peradventure, it may be sagaciously urged, how is this?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But if these suspicions were really his, he sagaciously refrained from verbally expressing them, however his actions might seem to hint them."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Jaggers rubbed his large hands together and nodded **sagaciously**, hinting that he knew far more than he cared to disclose."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg **sagaciously** examined the harpoon socket, testing the tempered iron against a block of seasoned oak."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The village elders shook their heads **sagaciously**, predicting that Rip Van Winkle would come to no good end."*

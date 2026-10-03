@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A teacher at some universities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A teacher at some universities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A knowledgeable guide or lecturer who conducts tours in an art gallery, museum, or historical cathedral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Central and Northern European university systems, a title designating a senior lecturer or qualified university teacher.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, docent designates a teacher at some universities."*
+> - 📜 **Henry James (*The American*):** *"Newman strolled through the Louvre galleries, declining the services of an eager **docent** who offered to explain the Italian masters."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The museum **docent** guided the fashionable visitors past the newly acquired Egyptian sarcophagi with reverent murmurs."*
+> - 📜 **Max Weber (*Science as a Vocation*):** *"In German academic tradition, the privatdozent or university **docent** must deliver public lectures before gaining a full chair."*

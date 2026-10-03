@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who reasons logically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who reasons logically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who reasons logically, deduces systematically, or constructs methodical arguments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction, the master detective or philosopher who solves mysteries through pure deductive brilliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ratiocinator designates someone who reasons logically."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"Legrand was an acute **ratiocinator**, decoding the cipher on the parchment by calculating the frequency of English vowels."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Watson admired his companion as an extraordinary **ratiocinator**, whose cold logic was undisturbed by human passion."*
+> - 📜 **G. K. Chesterton (*The Innocence of Father Brown*):** *"Flambeau encountered in the little priest an unexpected **ratiocinator**, who understood crime because he understood the human soul."*

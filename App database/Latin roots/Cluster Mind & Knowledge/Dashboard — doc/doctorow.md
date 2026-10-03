@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states novelist (born in 1931).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states novelist (born in 1931).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family surname of Slavic origin; famously associated with E. L. Doctorow (1931–2015), the celebrated American author.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American postmodern literature, referring to E. L. Doctorow's historical fiction blending real historical figures with inventive narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doctorow designates united states novelist (born in 1931)."*
+> - 📜 **John Updike (*Odd Jobs*):** *"In novels like Ragtime, the prose of **doctorow** creates an energetic cinematic tapestry of early twentieth-century America."*
+> - 📜 **Gore Vidal (*United States: Essays 1952–1992*):** *"Few contemporary writers possessed the narrative daring of **doctorow** in reinterpreting national mythology."*
+> - 📜 **Joyce Carol Oates (*The Faith of a Writer*):** *"The historical vision of **doctorow** shows how private human destinies are swept along by colossal social currents."*

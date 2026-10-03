@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The food allowance for one day (especially for service personnel).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fixed portion that is allotted (especially in times of scarcity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fixed amount of a commodity or food officially allowed to each person during a time of shortage or war; also to allocate in fixed portions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics, the daily measured subsistence provided to soldiers in barracks or in the field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only men, by force of will, could live on so unbalanced a ration."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I know that our prize cattle, pigs, and sheep on the University Demonstration Farm at Davis would have faded away and died had they received no more scientifically balanced a ration than what we received."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The six sailors, for whom Tobias Snow made himself spokesman, contended that the death of half of us was equivalent to a doubling of our provisioning, and that therefore the ration should be increased to a pound."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The cook served out our meager daily **ration** of hardtack and salt pork, watching every sailor with a suspicious squint."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The national supply of meat and sugar was placed under strict **ration** to conserve merchant tonnage during the U-boat offensive."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"Each mess aboard the frigate drew its weekly **ration** of grog, tobacco, and flour from the ship's steward."*

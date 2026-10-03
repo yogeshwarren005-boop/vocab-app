@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to theosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to theosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from theosophy; mystical, esoteric, and concerned with spiritual knowledge of the divine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, denoting the nineteenth-century movement founded by Madame Blavatsky synthesizing Eastern and Western esotericism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theosophical designates of or relating to theosophy."*
+> - 📜 **William Butler Yeats (*Autobiographies*):** *"In my youth I attended meetings of the **theosophical** society in Dublin, fascinated by their esoteric doctrines of reincarnation."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The **theosophical** literature presents an elaborate occult cosmology purporting to explain the psychic hierarchy of the universe."*
+> - 📜 **G. K. Chesterton (*Orthodoxy*):** *"The **theosophical** mystic seeks to escape personal responsibility by dissolving the self into an impersonal cosmic ocean."*

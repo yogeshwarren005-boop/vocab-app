@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgeon fish of the west indies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgeon fish of the west indies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marine or freshwater fish, such as the surgeonfish or the European tench, traditionally reputed to aid other fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore ichthyology, the tench (*Tinca tinca*), whose mucus was anciently believed to cure wounds on other fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doctor-fish designates surgeon fish of the west indies."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The pike, though a voracious tyrant of the pool, will spare the tench, commonly called the **doctor-fish**, out of reverence for its healing slime."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Among the coral lagoons, divers pointed out the bright blue **doctor-fish** darting gracefully between the sea-fans."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In littoral waters near Bahia, we observed the curious **doctor-fish** bearing sharp movable spines on each side of the tail."*

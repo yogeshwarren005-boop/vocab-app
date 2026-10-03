@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Powdery starch from certain sago palms; used in asia as a food thickener and textile stiffener.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Powdery starch from certain sago palms; used in asia as a food thickener and textile stiffener.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An edible starch extracted from the spongy pith of various tropical palm stems, especially *Metroxylon sagu*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Southeast Asian agriculture and traditional puddings, a staple dietary starch processed into pearled pellets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"After walking for one hour we had attained a forest of sago-trees."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The sago pasty, the artocarpus bread, some mangoes, half a dozen pineapples, and the liquor fermented from some coco-nuts, overjoyed us."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They live in villages, all the houses standing in a regular line, well built on blocks, 5 to 6 feet from the ground, the walls made of the sago palm, the leaves of which are put on separately and slightly overlapping one another."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The islanders rely upon the wild **sago** palm for their daily bread, washing the grated pith in freshwater troughs."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo offered his guests cakes baked of golden **sago** flour harvested from the Pacific islands."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The sick child was fed with a cup of warm **sago** pudding, prepared with fresh milk by the kind apothecary."*

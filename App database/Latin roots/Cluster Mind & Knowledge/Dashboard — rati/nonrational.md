@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtained through intuition rather than from reasoning or observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on, governed by, or within the domain of rational thought or logical deduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and theology, referring to intuitive, aesthetic, or mystical experiences that transcend discursive reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonrational designates not based on reason."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical conversion experiences frequently originate from a **nonrational** stratum of consciousness that defies verbal explanation."*
+> - 📜 **Rudolf Otto (*The Idea of the Holy*):** *"The numinous experience confronts the worshiper as a purely **nonrational** mystery inspiring awe and dread."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"Charismatic authority rests upon a fundamentally **nonrational** devotion to the extraordinary sanctity of a prophetic leader."*

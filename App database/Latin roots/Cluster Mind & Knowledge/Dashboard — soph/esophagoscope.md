@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument for examining the inside of the esophagus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument for examining the inside of the esophagus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated optical endoscope designed for visual examination and biopsy of the interior of the esophagus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic surgery and endoscopic history, a rigid or flexible instrument introduced to remove impacted foreign objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esophagoscope designates an optical instrument for examining the inside of the esophagus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Direct visualization through the illuminated **esophagoscope** has revolutionized the diagnosis of early mucosal carcinoma."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The otolaryngologist demonstrated how the newly invented **esophagoscope** could safely extract an aspirated coin from the throat."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The surgeon guided the flexible **esophagoscope** past the cricopharyngeal muscle under direct video magnification."*

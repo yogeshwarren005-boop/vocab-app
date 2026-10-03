@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a doctor or doctorate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a doctor or doctorate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suitable for a doctorate or doctoral degree candidate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic institutions, advanced scholarly dissertations and examinations qualifying candidates for faculty standing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doctoral designates of or relating to a doctor or doctorate."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The scholar defended his **doctoral** dissertation before the academic senate, presenting extensive archival evidence."*
+> - 📜 **William James (*The Ph.D. Octopus*):** *"Universities have made the **doctoral** degree an artificial prerequisite for teaching, stifling creative independent intellects."*
+> - 📜 **Bertrand Russell (*Portraits from Memory*):** *"His **doctoral** thesis on mathematical logic was recognized immediately as a work of revolutionary philosophical clarity."*

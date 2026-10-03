@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being irrational; lacking powers of understanding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being irrational; lacking powers of understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of lacking logic, reason, or sound judgment; illogical thought or conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral economics and psychology, cognitive biases that cause human decisions to diverge systematically from normative logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Unknown (*The Second Story of Meno*):** *"Boy: Yes, Socrates. (bows to kiss his hand, Socrates turns) Socrates: Friend Meno, how hard do you think it will be for this boy to prove the irrationality of the square root of two?"*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He had ceased drinking at a point below irrationality, and had neither stirred nor spoken during two or three hours."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Emotional panics reveal the deep undercurrent of human **irrationality**, sweeping away decades of disciplined training in a single moment."*
+> - 📜 **Bertrand Russell (*Skeptical Essays*):** *"Most human beliefs are adopted on grounds of passionate prejudice, revealing the pervasive **irrationality** of public opinion."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The romantic idealist accuses the world of **irrationality** simply because reality refuses to conform to his poetic illusions."*

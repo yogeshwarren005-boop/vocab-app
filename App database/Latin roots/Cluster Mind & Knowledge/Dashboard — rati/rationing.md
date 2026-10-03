@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rationing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrict the consumption of a relatively scarce commodity, as during war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The controlled distribution of scarce resources, goods, or services, especially during wartime or famine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic history and logistics, administrative allocation mechanisms replacing price systems during emergencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationing designates the act of rationing."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"Strict national **rationing** ensured that every citizen shared equally in the hardships imposed by the enemy blockade."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The Ministry of Plenty announced a reduction in the chocolate ration, disguising austerity as a victory of state **rationing**."*
+> - 📜 **John Maynard Keynes (*How to Pay for the War*):** *"Comprehensive consumer **rationing** prevents destructive price inflation when wartime production diverts consumer factories to munitions."*

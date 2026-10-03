@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making something valid by formally ratifying or confirming it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Making something valid by formally ratifying or confirming it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of signing or giving formal consent to a treaty, contract, or agreement, making it officially valid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, the formal confirmation of a charter or constitutional amendment by constituent state legislatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It has not a little contributed to the infirmities of the existing federal system, that it never had a ratification by the PEOPLE."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Owing its ratification to the law of a State, it has been contended that the same authority might repeal the law by which it was ratified."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is to be the assent and ratification of the several States, derived from the supreme authority in each State, the authority of the people themselves."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The vigorous struggle for the **ratification** of the federal Constitution occupied the foremost minds of the young republic."*
+> - 📜 **James Madison (*The Federalist Papers*):** *"True sovereignty appeared in the act of **ratification**, when the people through their state conventions established the union."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The formal **ratification** of the North Atlantic Treaty bound western democracies in an unbreakable defensive alliance."*

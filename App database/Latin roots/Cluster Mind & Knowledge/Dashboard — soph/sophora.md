@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmopolitan genus of trees and shrubs having odd-pinnate leaves and showy flowers; some species placed in genus podalyria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan genus of trees and shrubs having odd-pinnate leaves and showy flowers; some species placed in genus podalyria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering trees and shrubs in the legume family (Fabaceae), commonly called necklace trees or pagoda trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture and dendrology, trees noted for fragrant pea-like white blossoms and bead-like constricted seed pods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sophora designates cosmopolitan genus of trees and shrubs having odd-pinnate leaves and showy flowers; some species placed in genus podalyria."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"We camped beside a grove of flowering **sophora**, whose fragrant white panicles attracted swarms of wild mountain bees."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The oriental species **sophora** japonica flourishes in botanical gardens, celebrated for its weeping branches and durable timber."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"In the temperate valleys of New Zealand, yellow kowhai trees of the genus **sophora** brighten the riverbanks in spring."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to sophists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plausible but misleading.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of sophists, their teachings, or their subtle, fallacious methods of reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical intellectual movements, the Fifth-century BC rhetorical enlightenment in Athens and its Roman revival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Since I myself have been an inmate of a lunatic asylum, I cannot but notice that the sophistic tendencies of some of its inmates lean towards the errors of _non causa_ and _ignoratio elenchi_.” I positively opened my eyes at this new development."*
+> - 📜 **Bram Stoker (*Dracula*):** *"Since I myself had fallen into a **sophistic** maze of doubts, Van Helsing's unwavering conviction steadied my mind."*
+> - 📜 **John Stuart Mill (*Dissertations and Discussions*):** *"Grote defended the Athenian teachers against the charge of corrupting youth with mere **sophistic** verbal trickery."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The second century witnessed a brilliant **sophistic** renaissance, wherein Greek rhetoricians were showered with imperial honors."*

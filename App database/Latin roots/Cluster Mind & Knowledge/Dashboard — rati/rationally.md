@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rational manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rational manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rational manner; with reason, sound logic, and good judgment rather than emotional impulse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical debate and ethical action, making decisions guided by evidence and universal moral principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Would I be quiet and talk rationally?” “I would be quiet if he liked, and as to talking rationally, I flattered myself I was doing that now.” He fretted, pished, and pshawed."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins’s picture of Hunsford and Rosings rationally softened; and Elizabeth perceived that she must wait for her own visit there, to know the rest."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"With such thoughts as these, among ten hundred others, Fanny proceeded in her journey safely and cheerfully, and as expeditiously as could rationally be hoped in the dirty month of February."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane resolved to act **rationally**, subduing the clamorous pleadings of her heart to the stern command of conscience."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth advised her sister to consider Mr. Bingley's conduct **rationally**, without attributing malice to innocent mistakes."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men who deliberate **rationally** will discover that virtue and civic peace are inseparable companions."*

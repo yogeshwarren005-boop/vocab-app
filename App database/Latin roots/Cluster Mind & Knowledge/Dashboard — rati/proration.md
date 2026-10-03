@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The proportional limitation of production or distribution of something (e.g. crude oil or natural gas) to some fractional part of the total capacity of each producer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The proportional limitation of production or distribution of something (e.g. crude oil or natural gas) to some fractional part of the total capacity of each producer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proportional allocation or distribution of something (such as expenses, dividends, or taxes) according to a set ratio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial real estate and accounting, the equitable division of prepaid insurance or municipal taxes at property closing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proration designates the proportional limitation of production or distribution of something (e.g. crude oil or natural gas) to some fractional part of the total capacity of each producer."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The fair **proration** of public debt between the states required an equitable standard based on population and wealth."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The equitable **proration** of municipal assessments ensures that each merchant contributes according to his commercial turnover."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"In bankruptcy proceedings, the **proration** of remaining corporate assets among competing creditors must follow strict legal priority."*

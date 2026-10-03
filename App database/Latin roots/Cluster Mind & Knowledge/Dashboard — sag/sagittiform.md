@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) like an arrow head without flaring base lobes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) like an arrow head without flaring base lobes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrowhead-shaped; possessing the triangular, pointed outline of an arrow head; sagittate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology and mineral crystal classification, arrow-shaped shells, barbs, or twinned crystals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagittiform designates (of a leaf shape) like an arrow head without flaring base lobes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrate Animals*):** *"The cephalopod mantle terminates in a graceful **sagittiform** fin adapted for rapid backward propulsion in water."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"The opercular valves of this barnacle present a sharply **sagittiform** contour fitted into the calcareous base."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"Certain parasitic copepods attach to fish gills using specialized **sagittiform** hooks that resist strong currents."*

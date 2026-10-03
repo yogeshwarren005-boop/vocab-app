@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disagreeable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disagreeable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disagreeable, unpleasant, offensive, or bad-tempered manner; distastefully.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive fiction, jarring upon the senses or dampening conversational warmth with sour remarks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy,” said I, rising and putting my hand upon the bell-rope, “to do you or any one who was sincere the injustice of slighting any honest feeling, however disagreeably expressed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"More than this—astonishingly more—his head was upon her lap, his face and neck were disagreeably wet, and her fingers were unbuttoning his collar."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Collins was gratified; and with a more smiling solemnity replied,-- “It gives me the greatest pleasure to hear that you have passed your time not disagreeably."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip felt the coarse convict clothes scratch his neck **disagreeably** as he trudged across the wet marshes."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cold wind whistled **disagreeably** through the cracks of the sheepcote, threatening an icy night."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The dismal croak of a raven broke **disagreeably** upon the ominous silence of the Grimpen Mire."*

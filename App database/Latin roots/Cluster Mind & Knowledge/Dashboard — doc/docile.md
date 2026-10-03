@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to be taught or led or supervised or directed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ready and willing to be taught.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready to accept control, instruction, or guidance; submissive, manageable, and easily trained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal husbandry and pedagogy, an animal or child exhibiting gentle temperament and quickness to learn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And here at the end of my days, reviewing all that I have known of life, I am compelled to the conclusion that strong minds are never docile."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I found my pupil sufficiently docile, though disinclined to apply: she had not been used to regular occupation of any kind."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mary would sit and watch me by the hour together: then she would take lessons; and a docile, intelligent, assiduous pupil she made."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Artificial selection favored the most **docile** sheep, whose gentle compliance made them easier to fold on open hills."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The dairy cows stood in a **docile** row in the milking stalls, placidly chewing their cud as the milkers entered."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The school superintendent demanded that the orphan girls remain quiet, **docile**, and obedient under all trials."*

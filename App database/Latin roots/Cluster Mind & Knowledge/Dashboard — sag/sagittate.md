@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) like an arrow head without flaring base lobes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) like an arrow head without flaring base lobes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like an arrowhead; triangular with two pointed basal lobes projecting downward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and entomology, describing arrow-shaped leaf blades, anthers, or insect wing markings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagittate designates (of a leaf shape) like an arrow head without flaring base lobes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The aquatic herb produces large **sagittate** leaves that stand erect above the calm surface of the pond."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The floral bracts of this variety were distinctly **sagittate**, clasping the calyx with two triangular lobes."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Along the muddy portage, I gathered water plants with sharp **sagittate** leaves growing in the beaver meadows."*

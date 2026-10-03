@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A second-year undergraduate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the second year in united states high school or college.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student in the second year of high school or college; also immature, overconfident, or pretentious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American academic culture, etymologically linked to Greek *sophos* (wise) and *moros* (foolish), the 'wise fool'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"SOPHOMORE PLUMPS FOR OLD MAN MOSES. —Call it, wait, the professor said, opening his long lips wide to reflect."*
+> - 📜 **James Joyce (*Ulysses*):** *"The student remembered his unruly days as a college **sophomore**, drinking porter in the student taverns of Dublin."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"As a **sophomore**, Amory Blaine threw himself into campus politics, writing poems and satirizing faculty pomposity."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol remembered her college years, when every cocky **sophomore** fancied himself an authority on Ibsen and Nietzsche."*

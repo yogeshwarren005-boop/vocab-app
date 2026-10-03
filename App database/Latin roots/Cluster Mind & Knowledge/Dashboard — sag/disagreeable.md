@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not to your liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasant to interact with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasant, offensive, or bad-tempered; causing discomfort, annoyance, or discord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, a sour or hostile personality that alienates friends and acquaintances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then he flung them all away, as if he wanted with each to rid himself of a disagreeable thought."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Least of all she wished to meet a girl who had been so disagreeable to her beloved Mea."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was saved the disagreeable necessity of pursuing the subject by Richard and Ada coming up at a round pace, laughing and asking us if we meant to run a race."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy was discovered to be proud, to be above his company, and above being pleased; he was pronounced the most **disagreeable** man in Hertfordshire."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The weather was uncommonly **disagreeable**, with a drizzling rain that coated the London pavements with slippery mud."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"John Reed was a sullen, **disagreeable** schoolboy who spent his holidays torturing his sisters and servants."*

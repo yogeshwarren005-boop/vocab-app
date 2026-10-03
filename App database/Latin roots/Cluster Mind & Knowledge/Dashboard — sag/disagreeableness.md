@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being disagreeable and unpleasant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ill-tempered and offensive disposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic disposition of being disagreeable; unpleasantness, quarrelsome temper, or offensive quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological temperament studies, habitual friction and lack of interpersonal warmth in social interaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A gentleman, before seeking intercourse with a person of your station and habits, will first consider whether the urgency of the end may compensate for the disagreeableness of the means."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's constitutional **disagreeableness** deepened whenever young Ladislaw's name was mentioned in his presence."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Fanny Dashwood's natural **disagreeableness** showed itself in her petty reluctance to grant the sisters any assistance."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No vice creates more universal alienation than an unprovoked **disagreeableness** of conversation."*

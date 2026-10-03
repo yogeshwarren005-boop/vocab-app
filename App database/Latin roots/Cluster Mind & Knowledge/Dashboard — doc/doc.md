@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed medical practitioner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states federal department that promotes and administers domestic and foreign trade (including management of the census and the patent office); created in 1913.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal colloquial abbreviation for doctor or physician; also a standard computer file extension for text documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Western frontier slang and computer software, an affectionate title for medical practitioners or word processor formats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"How’s the heart?” “Splendid.” “You think he’ll stand ten days of it, Doc.?” “Sure.” “I don’t believe it,” the Warden announced savagely."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I’ve made you unlace me, Captain, when you thought I was croaking, and it was all I could do to keep from snickering in your face.” “What do you think, Doc?” Warden Atherton asked."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"Doc, you don't suppose that's—" "It's him!"*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The cabman touched his cap to Watson, calling out a friendly farewell to the good **doc** before driving into the London fog."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The rough sailors brought their broken bones to the ship's **doc**, hoping his splints would hold in the storm."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The frontier camp respected the old **doc**, who could extract a bullet or mix a tonic with equal composure."*

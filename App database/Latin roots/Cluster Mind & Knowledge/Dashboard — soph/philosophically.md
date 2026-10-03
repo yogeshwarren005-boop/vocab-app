@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a philosophic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to philosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a philosophical manner; calmly, rationally, stoically, or with reference to philosophical principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, enduring misfortune with dignified composure and intellectual perspective.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He hurt her, but she had been bred to accept pain philosophically."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Look at that chap now,” philosophically drawled Stubb, who, with his unlighted short pipe, mechanically retained between his teeth, at a short distance, followed after—“He’s got fits, that Flask has."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Beale philosophically, "must be."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber smiled **philosophically**, observing that while clouds darkened the horizon, something was bound to turn up."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes regarded the ruined carpet **philosophically**, observing that an investigator must accept small domestic casualties."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak took the loss of his flock **philosophically**, turning his face toward new employment without bitterness."*

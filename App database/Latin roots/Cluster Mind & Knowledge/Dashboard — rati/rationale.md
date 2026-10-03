@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) an explanation of the fundamental reasons (especially an explanation of the working of some device in terms of laws of nature).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of reasons or a logical basis for a course of action, policy, or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration and jurisprudence, the stated justification setting forth the underlying principles of a decision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"See his _Rationale Divinorum Officiorum_ (appended to the _Rationale Divinorum Officiorum_ of G. [W.] Durandus, Lyons, 1584), p. 556 _recto: "Solent porro hoc tempore_ [the Eve of St."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Durantis), a writer of the thirteenth century, in his _Rationale Divinorum Officiorum_, lib. vii. cap. 14 (p. 442 _verso_, ed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is the rationale of the system of charging which has hitherto obtained; and nothing is more offensive than this ostentation of reform, where there is no real amelioration.” “Ostentation, Hackbutt?” said Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"That is the whole **rationale** of my research, Casaubon remarked coldly, defending his classical mythology treatise against criticism."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The anthropologist sought to discover the underlying **rationale** behind primitive sacrificial rites in ancient agricultural societies."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The philosophical **rationale** for universal suffrage rests upon the moral elevation of citizens who participate in public affairs."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wise manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a wise manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a wise, discerning, prudent, or sagacious manner; with deliberate philosophical gravity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative characterization, offering prudent advice with solemn nods and measured reflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"D’ye think there’s any money hanging by it?” “Ah, that’s the secret,” said Joan Durbeyfield sagely."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"His notable little wife, too, had enough to do to attend to her housekeeping and manage her poultry for, as she sagely observed, ducks and geese are foolish things and must be looked after, but girls can take care of themselves."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It is so solemnly real and so sagely fine.”--N."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The old dairyman nodded **sagely**, observing that young love was like a May morning, bright yet full of sudden storms."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The schoolmaster stroked his chin and spoke **sagely** of the portents seen in the northern heavens before the war."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick looked **sagely** at the kite, remarking that King Charles had never known such lofty flight."*

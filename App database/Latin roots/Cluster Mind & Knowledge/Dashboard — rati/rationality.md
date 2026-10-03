@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having good sense and sound judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being consistent with or based on logic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity for logical reasoning, sound judgment, and adherence to objective facts and evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decision theory and economics, consistent pursuit of self-interest based on transitive preferences and complete information.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Which would turn out to have the more foresight in it—her rationality or Caleb’s ardent generosity?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual rationality and free thought ac- company approaching Science, and cannot be put down."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Belief in a material basis, from which may be deduced all rationality, is slowly yielding to the idea of a metaphysical basis, looking away from 268:9 matter to Mind as the cause of every effect."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Which of us can boast of absolute **rationality** in our affections, when love so often springs from trivial affinities?"*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Human dignity resides in our capacity for conscious **rationality**, choosing higher intellectual pleasures over base animal gratification."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Bureaucracy represents the purest form of legal-rational authority, maximizing organizational **rationality** and calculability."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of or derived from documents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or derived from documents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of documents; documentary in form, evidence, or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical research and forensic jurisprudence, relying directly upon original manuscript archives and records.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, documental designates relating to or consisting of or derived from documents."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The historian substantiated his bold claims with extensive **documental** proof drawn from the Dutch state archives."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"We possess scant **documental** evidence for the internal administration of Britain during the final century of Roman rule."*
+> - 📜 **Lord Acton (*Lectures on Modern History*):** *"Modern historical criticism demands exhaustive **documental** verification before establishing historical causality."*

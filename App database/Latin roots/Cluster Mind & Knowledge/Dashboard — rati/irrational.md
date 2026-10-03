@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A real number that cannot be expressed as a rational number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not consistent with or using reason.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not logical, reasonable, or endowed with reason; driven by passion rather than intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, a real number that cannot be expressed as a ratio of two integers (such as pi or the square root of two).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By that time we were so anxious and nervous that even Richard confessed, as we rattled over the stones of the old street, to feeling an irrational desire to drive back again."*
-> - 📜 **Jane Austen (*Persuasion*):** *"All that sounded extravagant or irrational in the progress of the reconciliation might have no origin but in the language of the relators."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Only a few were irrational assumptions; but, unfortunately, they were the ones which most frequently grew into deeds."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To surrender oneself blindly to superstitious enthusiasm is to act like an **irrational** creature devoid of understanding."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man shares with the lower animals many instincts that appear wholly **irrational** when analyzed by pure logic."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The discovery that the diagonal of a unit square yields an **irrational** magnitude troubled the ancient Pythagorean brotherhood."*

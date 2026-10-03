@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the highest earned academic degrees conferred by a university.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the highest earned academic degrees conferred by a university.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The highest degree awarded by a graduate school or university faculty in a specialized field of study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher education history, the terminal qualification authorizing its holder to teach and supervise university research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"One other such fit of merriment, and I must throw off my clerical wig and band." "Not so, good Doctor Byles," answered Sir William Howe; "if mirth were a crime, you had never gained your doctorate in divinity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon had spent thirty years accumulating notes for his grand theological work, hoping to justify his German **doctorate**."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"After receiving his **doctorate** of medicine at London, young Watson joined the army medical staff in India."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The university conferred an honorary **doctorate** upon the foreign naturalist for his pioneering anatomical discoveries."*

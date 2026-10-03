@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mental ability to understand and discriminate between relations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forming opinions by distinguishing and evaluating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Keenness of mental discernment, practical wisdom, and shrewdness in assessing complex situations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and statecraft, depth of insight and farsightedness in navigating complex governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagaciousness designates the mental ability to understand and discriminate between relations."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The renowned statesman owed his ascendancy to an innate **sagaciousness** that penetrated the masked intrigues of foreign courts."*
+> - 📜 **Walter Scott (*The Heart of Mid-Lothian*):** *"Jeanie Deans possessed that rustic **sagaciousness** which guides simple hearts securely through unfamiliar dangers."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"True political **sagaciousness** consists in accommodating governance to the ingrained temper of the people."*

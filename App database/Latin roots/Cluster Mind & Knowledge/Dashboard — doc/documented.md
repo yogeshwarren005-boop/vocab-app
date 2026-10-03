@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Record in detail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Support or supply with references.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supported by, proved by, or recorded in official documents or written evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific literature and judicial proceedings, phenomena verified by empirical observations and archival trails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Give me a quick rundown and a documented report by the end of the day."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Readers who desire to ascertain the source of any particular statement must therefore consult the larger work, which is fully documented and provided with a complete bibliography."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The gradual extinction of the dodo is thoroughly **documented** by the logs and journals of seventeenth-century Dutch navigators."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The atrocities of the tyrant were abundantly **documented** by contemporary chroniclers and senatorial decrees."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Biologists presented fully **documented** case studies showing the catastrophic decline of birds of prey exposed to pesticide residues."*

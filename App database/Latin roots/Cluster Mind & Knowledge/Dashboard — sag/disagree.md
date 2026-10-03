@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be of different opinions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be different from one another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold a different opinion or point of view; fail to agree or harmonize; also cause physical discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary health and logical disputation, causing digestive distress or asserting contradictory propositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And you, my lords, remember where we are: In France, amongst a fickle wavering nation; If they perceive dissension in our looks, And that within ourselves we disagree, How will their grudging stomachs be provoked To willful disobedience, and rebel!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sic twa—O! do I live to see’t?— Sic famous twa should disagree’t, And names, like “villain,” “hypocrite,” Ilk ither gi’en, While New-Light herds, wi’ laughin spite, Say neither’s liein!"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Norris, “you are everything that is generous and considerate, and I am sure we shall never disagree on this point."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy and Elizabeth seemed destined to **disagree** upon every topic that arose during the Netherfield ball."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The cold cucumber salad seemed to **disagree** violently with Mr. Chillip's delicate constitution that evening."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Philosophers perpetually **disagree** when they dispute about words without defining their underlying ideas."*

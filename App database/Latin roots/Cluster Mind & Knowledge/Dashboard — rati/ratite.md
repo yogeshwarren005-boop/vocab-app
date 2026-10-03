@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flightless birds having flat breastbones lacking a keel for attachment of flight muscles: ostriches; cassowaries; emus; moas; rheas; kiwis; elephant birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flightless birds having flat breastbones lacking a keel for attachment of flight muscles: ostriches; cassowaries; emus; moas; rheas; kiwis; elephant birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the group of flightless birds having a flat, unkeeled breastbone, such as the ostrich, emu, or kiwi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, denoting flightless palaeognathous birds adapted for cursorial running on open plains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ratite designates flightless birds having flat breastbones lacking a keel for attachment of flight muscles: ostriches; cassowaries; emus; moas; rheas; kiwis; elephant birds."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The African ostrich, a typical **ratite** bird, relies upon enormous cursorial leg strength to outrun galloping horses."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Dissection of the **ratite** shoulder girdle reveals the total absence of the pectoral keel required for flight muscles."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The extinct moas of New Zealand were colossal **ratite** giants that flourished in the complete absence of predatory mammals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical jargon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical jargon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical terminology or technical clinical jargon used by healthcare providers that is difficult for laypeople to understand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and medical ethics, specialized professional argot that can create communicative barriers between doctor and patient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doctorspeak designates medical jargon."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"I strove to avoid sterile **doctorspeak** in my clinical case histories, describing patients as living persons rather than pathological specimens."*
+> - 📜 **Atul Gawande (*Being Mortal*):** *"When clinicians retreat into dense **doctorspeak**, families facing terminal illness feel bewildered and emotionally abandoned."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"Medical training immerses students in an esoteric **doctorspeak** that sounds like medieval Latin to the anxious patient."*

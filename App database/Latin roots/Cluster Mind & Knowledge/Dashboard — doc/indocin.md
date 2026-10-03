@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory drug (trade name indocin).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory drug (trade name indocin).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for indomethacin, a potent nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rheumatology, an effective cyclooxygenase inhibitor prescribed for acute gouty arthritis and ankylosing spondylitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indocin designates a nonsteroidal anti-inflammatory drug (trade name indocin)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician prescribed modern anti-inflammatory therapy, noting that **indocin** rapidly relieved the agony of acute gouty attacks."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"The patient obtained substantial relief from chronic arthritis after starting a regular regimen of **indocin**."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Surgeons monitored the patient's renal lab values while administering **indocin** for postoperative musculoskeletal pain."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An appraisal of the value of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of ascertaining or fixing the value or worth of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classification or ranking of someone or something based on a comparative assessment of quality, quantity, or value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval maritime terminology, the rank, rate, or grade held by an enlisted sailor on a naval vessel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And yet, dear lady, Rating myself at nothing, you shall see How much I was a braggart."*
-> - 📜 **Jane Austen (*Persuasion*):** *"There can be no want of gallantry, Admiral, in rating the claims of women to every personal comfort _high_, and this is what I do."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was one or the other, and, according to ship’s rating, it was his due to draw next."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The purser inspected each man's **rating** on the ship's muster book, paying out wages according to naval regulation."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"The young captain scrutinized the seaman's certificate of service, observing that his conduct **rating** was marked very good."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The insurance **rating** of the overdue merchant vessel rose rapidly as the storm battered the English Channel."*

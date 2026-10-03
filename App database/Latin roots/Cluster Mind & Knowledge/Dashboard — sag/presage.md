@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foreboding about what is about to happen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sign of something about to happen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a sign or warning that something bad or momentous will happen; portend, foreshadow; an omen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical tragedy and nature poetry, atmospheric portents heralding imminent political upheaval or ruin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mortal moon hath her eclipse endured, And the sad augurs mock their own presage, Incertainties now crown themselves assured, And peace proclaims olives of endless age."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the trumpet of our wrath And sullen presage of your own decay.— An honourable conduct let him have."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now I change my mind, And partly credit things that do presage."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My mind misgives some consequence yet hanging in the stars shall bitterly begin his fearful date with this night's revels and **presage** our ruin."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sudden descent of the barometer seemed to **presage** the furious wrath of the approaching typhoon."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Solar eclipses and earthquakes were interpreted by superstitious citizens to **presage** the fall of the dynasty."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shape that sags.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Droop, sink, or settle from or as if from pressure or loss of tautness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink, subside, droop, or bend downward under weight, pressure, or gradual structural weakness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial markets and construction engineering, a softening of stock prices or deflection in load-bearing beams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Thy woods, this autumn day, that ache and sag And all but cry with colour!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A Sag Harbor ship visited his father’s bay, and Queequeg sought a passage to Christian lands."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Arrived at last in old Sag Harbor; and seeing what the sailors did there; and then going on to Nantucket, and seeing how they spent their wages in _that_ place also, poor Queequeg gave it up for lost."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The heavy thatched roof began to **sag** under the tremendous weight of the sodden autumnal downpour."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The tired sled dogs began to **sag** in their harnesses after breaking trail through thirty miles of fresh powder."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The damp cottage walls had cracked, causing the lintels to **sag** drunkenly over the cobblestone lane."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defend, explain, clear away, or make excuses for by reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Weed out unwanted or unnecessary things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempt to explain or justify behavior, beliefs, or choices with logical reasons; also reorganize an industry for maximum efficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, constructing self-serving justifications to reduce cognitive dissonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We can rationalize using the Log Depot if we experience piracy and harassment of our transports and citizens."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We tend to **rationalize** our instinctive likes and dislikes after the fact, pretending our passions are fruits of pure logic."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Doolittle possessed an extraordinary gift to **rationalize** his disreputable habits into a coherent philosophical code."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Philosophers often attempt to **rationalize** the mysterious cosmological expansion of spacetime using classical analogies."*

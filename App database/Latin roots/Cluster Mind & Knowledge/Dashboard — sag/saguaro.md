@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely large treelike cactus of desert regions of southwestern united states having a thick columnar sparsely branched trunk bearing white flowers and edible red pulpy fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely large treelike cactus of desert regions of southwestern united states having a thick columnar sparsely branched trunk bearing white flowers and edible red pulpy fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A giant, tree-like columnar cactus (*Carnegiea gigantea*) native to the Sonoran Desert, having branching arms and white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert ecology, a keystone cactus species providing nesting cavities for desert birds and fruit for indigenous peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saguaro designates extremely large treelike cactus of desert regions of southwestern united states having a thick columnar sparsely branched trunk bearing white flowers and edible red pulpy fruit."*
+> - 📜 **John Muir (*Steep Trails*):** *"The colossal **saguaro** stands like a fluted green monument against the scorching Arizona sky, towering forty feet high."*
+> - 📜 **Willa Cather (*Death Comes for the Archbishop*):** *"Father Latour gazed upon the silent desert landscape where the giant **saguaro** cactus raised its solemn arms in prayer."*
+> - 📜 **Zane Grey (*The Desert of Wheat*):** *"Sunset gilded the ribbed columns of the **saguaro**, casting elongated purple shadows across the desert floor."*

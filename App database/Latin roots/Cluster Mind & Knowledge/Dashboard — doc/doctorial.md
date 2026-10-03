@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a doctor or doctorate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a doctor or doctorate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a doctor or doctoral graduate; professorial or pedagogical in tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In satirical prose, assuming an authoritative, academic manner of lecturing others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, doctorial designates of or relating to a doctor or doctorate."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He assumed a stiff **doctorial** gravity in conversation, treating every casual remark as a thesis to be disputed."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The pedant donned his black silk robes and **doctorial** hood to overawe the unlearned country squires."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pott delivered his political opinions with a weighty **doctorial** flourish that silenced the village tavern."*

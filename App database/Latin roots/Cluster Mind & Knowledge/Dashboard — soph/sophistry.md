@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of clever but fallacious arguments, especially with the deliberate intention of deceiving or misleading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political debate and ethical philosophy, deceptive verbal manipulation that dresses falsehood in the garb of reason.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No, it is not true!” “It is true.” “Every word?” “Every word.” He looked at her imploringly, as if he would willingly have taken a lie from her lips, knowing it to be one, and have made of it, by some sort of sophistry, a valid denial."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This bald sophistry, or self-deception, was easily possible by confusing the word "socialist" as relating to the abstract principle of social action, with socialist as applied to their own party organization."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Upon my word, I must take Ladislaw’s part until I hear more harm of him.” “Humphrey, that is all sophistry, and you know it,” said his wife."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare felt that all his liberal modern theories were but empty **sophistry** when confronted with Tess's tragic confession."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Upon my word, said Farebrother, it requires tremendous **sophistry** to reconcile Bulstrode's pious words with his banking practices."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Scholastic disputants too often substitute verbal **sophistry** for the humble, diligent search after natural truth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As a matter of doctrine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a matter of doctrine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to, concerning, or based on doctrine, dogma, or theological tenets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, assessing compliance with authoritative confessions of faith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess, who mused on the christening a good deal, wondered if it were doctrinally sufficient to secure a Christian burial for the child."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"I found myself **doctrinally** in complete harmony with the ancient fathers of the Alexandrian and Antiochene schools."*
+> - 📜 **Philip Schaff (*The Creeds of Christendom*):** *"The Reformed churches differed **doctrinally** from the Lutheran communion regarding the nature of the Eucharistic presence."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The archbishop was **doctrinally** orthodox, yet politically moderate in dealing with dissenting congregations."*

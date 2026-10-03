@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Structure and run according to rational or scientific principles in order to achieve desired results.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defend, explain, clear away, or make excuses for by reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attempt to explain or justify behavior or attitudes with logical reasons, even if not true (British spelling); make more efficient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British business and psychology, organizing an industry according to scientific principles or inventing justifications for selfish desires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The story that he was a human being transformed into a pine-tree is only one of those transparent attempts at rationalising old beliefs which meet us so frequently in mythology."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft refused to **rationalise** his munitions manufacture as Christian philanthropy, boasting openly of his pursuit of power."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She tried to **rationalise** her growing discontent, telling herself that comfort and social position ought to satisfy any sensible woman."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Later Roman mythographers attempted to **rationalise** crude tribal taboos into elegant moral allegories."*

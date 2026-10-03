@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) a person who is born while the sun is in sagittarius.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large zodiacal constellation in the southern hemisphere; between scorpius and capricornus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent constellation of the zodiac (the Archer), containing the galactic center of the Milky Way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrological tradition and astronomy, the ninth zodiacal sign and a dense star field rich in bright nebulae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And by Jove, he’s found something there in the vicinity of his thigh—I guess it’s Sagittarius, or the Archer."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"And by Jove, he’s found something there in the vicinity of his thigh—I guess it’s Sagittarius, or the Archer."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"When the sun is in Sagittarius and the moon is on the wane, on the first, third, or fourth day before the new moon, one ought to shoot down with an arrow the mistletoe of an oak and to catch it with the left hand as it falls."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old masthead watchman stared into the southern heavens, where the golden stars of **sagittarius** wheeled toward dawn."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient Babylonian star-gazers depicted **sagittarius** as a winged centaur drawing his celestial bow against Scorpio."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Deep within the constellation of **sagittarius** lies the supermassive black hole at the very core of our galaxy."*

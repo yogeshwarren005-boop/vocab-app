@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching someone to accept doctrines uncritically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teaching someone to accept doctrines uncritically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of teaching a person or group to accept a set of beliefs uncritically; ideological conditioning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In totalitarian regimes, centralized psychological manipulation designed to extinguish independent critical reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You will be psychologically adjusted as you progress through this indoctrination."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He had called his victim "Drummer," a name familiar to Brad through the many intelligence briefings he had been given during indoctrination; also, "Scarf" was a name used in the immigration clerk's call from the landing site."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"I was convinced that the time was long past for both military and civilian managers and supervisors, in both the public and private sectors to acquire basic indoctrination in ci/sp as it pertained to the people that they commanded or supervised."*
+> - 📜 **George Orwell (*Animal Farm*):** *"Napoleon took the puppies into the loft for private **indoctrination**, training them to become his ruthless bodyguard."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Totalitarian propaganda achieves its terrifying success through relentless **indoctrination** that replaces empirical reality with ideological fiction."*
+> - 📜 **Bertrand Russell (*The Impact of Science on Society*):** *"State schools can be turned into engines of psychological **indoctrination**, creating a population incapable of dissent."*

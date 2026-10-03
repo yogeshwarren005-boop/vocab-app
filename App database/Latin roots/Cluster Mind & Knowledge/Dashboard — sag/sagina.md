@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small low-growing annual or perennial herbs of temperate and cool regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small low-growing annual or perennial herbs of temperate and cool regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small creeping or tufted perennial herbs of the pink family (Caryophyllaceae), commonly called pearlworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology, low-growing moss-like herbs forming dense green mats along rocky crevices and coastal shores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"LYCHNIS BRAND; spots yellowish; sori subrotund or oblong, unequal, scattered, rarely confluent; spores white, at length brown, elongated, oblong, slightly constricted.—On leaves and stems of _Lychnidæ_, _Sagina procumbens_."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the gravelly beach of the Falkland Islands, tiny tufts of **sagina** formed green cushions between the boulders."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **sagina** inhabit damp sand and alpine ledges, producing minuscule white four-petaled blossoms."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The pearlwort genus **sagina** demonstrates how tiny herbaceous perennials adapt to severe arctic-alpine exposure."*

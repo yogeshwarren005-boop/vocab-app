@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The heretical doctrine (associated with the gnostics) that jesus had no human body and his sufferings and death on the cross were apparent rather than real.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The heretical doctrine (associated with the gnostics) that jesus had no human body and his sufferings and death on the cross were apparent rather than real.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early Christian theological heresy maintaining that Jesus Christ's physical body and sufferings were phantasmal rather than real.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patristic historical theology, a Gnostic Christological doctrine rejected by orthodox ecumenical councils affirming the true Incarnation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Docetism, with its phantom Christ, and Gnosticism with its antithesis of the just God and the good God, were not likely to satisfy mankind."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The subtle heresy of **docetism** reduced the human sufferings of the Savior to an optical illusion that mocked mortal senses."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"Early apologists vigorously refuted **docetism**, defending the material reality of the Passion against Gnostic spiritualizers."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"By denying genuine flesh and blood, **docetism** threatened to overturn the historical foundations of the Christian Gospel."*

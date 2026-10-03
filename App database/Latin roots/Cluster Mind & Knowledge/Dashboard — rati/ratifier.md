@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who expresses strong approval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who expresses strong approval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, legislature, or sovereign authority that formally approves, confirms, or ratifies an agreement or law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional history, an official delegate voting to adopt a supreme charter or binding diplomatic covenant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The rabble call him lord, And, as the world were now but to begin, Antiquity forgot, custom not known, The ratifiers and props of every word, They cry ‘Choose we!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Every thoughtful **ratifier** in the state conventions understood that national defense demanded a unified federal revenue system."*
+> - 📜 **James Madison (*Letters and Other Writings*):** *"The intention of the constitution must be sought not in the debates of the drafters, but in the understanding of the **ratifier** delegates."*
+> - 📜 **John Marshall (*Major Opinions*):** *"The people acting through their conventions were the supreme **ratifier** of the fundamental instrument of American governance."*

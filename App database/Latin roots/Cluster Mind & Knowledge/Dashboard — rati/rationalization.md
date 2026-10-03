@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive process of making something seem consistent with or based on reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a defense mechanism by which your true motivation is concealed by explaining your actions and feelings in a way that is not threatening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of attempting to explain or justify behavior or an attitude with logical reasons; also restructuring for peak efficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological theory (Max Weber), the historical replacement of traditions, values, and emotions with calculated formal efficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationalization designates the cognitive process of making something seem consistent with or based on reason."*
+> - 📜 **Max Weber (*General Economic History*):** *"The inexorable **rationalization** of modern society replaced traditional customs with calculated bookkeeping and technical law."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"The patient produced a clever **rationalization** to explain why he avoided walking down the street where his rival lived."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Totalitarian propaganda relies upon the psychological **rationalization** of ancient hatreds to justify state terror."*

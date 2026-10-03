@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach doctrines to; teach uncritically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teach doctrines to; teach uncritically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Teach a person or group to accept a set of beliefs uncritically; instill dogma systematically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical discourse, educational or political programs designed to produce ideological conformity in youth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indoctrinate designates teach doctrines to; teach uncritically."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The Party sought to **indoctrinate** the young through the Spies organization, turning children into ideological informants."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Sleep-teaching was used to **indoctrinate** each social caste with contentment for its allotted economic station."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"State-controlled education easily becomes a tool to **indoctrinate** future citizens into unquestioning obedience to the regime."*

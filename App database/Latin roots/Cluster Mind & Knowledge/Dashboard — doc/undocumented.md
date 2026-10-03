@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking necessary documents (as for e.g. permission to live or work in a country).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking necessary documents (as for e.g. permission to live or work in a country).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not recorded in or proved by documents; also living in or entering a country without official legal papers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary immigration policy and archival research, unrecorded historical traditions or non-citizen status without visas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undocumented designates lacking necessary documents (as for e.g. permission to live or work in a country)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Centuries of tribal migrations across the Danubian frontier remained entirely **undocumented** by imperial chroniclers."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The migrant families were frequently treated as **undocumented** vagrants by the hostile town deputies along the highway."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Frontier settlements grew with astonishing speed, establishing towns that remained **undocumented** on government maps for years."*

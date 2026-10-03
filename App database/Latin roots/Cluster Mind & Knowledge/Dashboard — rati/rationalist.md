@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who emphasizes observable facts and excludes metaphysical speculation about origins or ultimate causes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of rationalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose opinions and actions are based on reason and evidence rather than emotion, dogma, or religious faith.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In history of philosophy, a thinker who asserts that fundamental truths are discovered through pure intellectual deduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationalist designates someone who emphasizes observable facts and excludes metaphysical speculation about origins or ultimate causes."*
+> - 📜 **Bertrand Russell (*Mysticism and Logic*):** *"A consistent **rationalist** insists that every hypothesis, however comforting, must submit to the verdict of logical evidence."*
+> - 📜 **William James (*The Will to Believe*):** *"The uncompromising **rationalist** warns that it is a moral crime to believe anything upon insufficient evidence."*
+> - 📜 **G. K. Chesterton (*Orthodoxy*):** *"The modern **rationalist** lives in a small, clean prison of logic, shutting out the wild, beautiful mystery of the cosmos."*

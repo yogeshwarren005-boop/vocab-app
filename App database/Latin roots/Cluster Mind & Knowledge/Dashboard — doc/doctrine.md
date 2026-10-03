@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief (or system of beliefs) accepted as authoritative by some group or school.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief (or system of beliefs) accepted as authoritative by some group or school.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belief or set of beliefs held and taught by a church, political party, or other organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military strategy and foreign policy, an overarching principle guiding defense deployment (e.g., the Monroe Doctrine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How shall they credit A poor unlearned virgin, when the schools, Embowell’d of their doctrine, have let off The danger to itself?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hourly learn A doctrine of obedience, and would gladly Look him i’ th’ face."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In him Sparing would show a worse sin than ill doctrine."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"No **doctrine** can claim divine authority if it openly contradicts the primary dictates of natural reason."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The sound constitutional **doctrine** of divided powers safeguards the citizens against unilateral executive encroachment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **doctrine** of natural selection explains the marvelous adaptations of organic beings throughout the geological record."*

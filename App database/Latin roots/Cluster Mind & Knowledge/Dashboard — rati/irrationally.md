@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irrational manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an irrational manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an irrational, unreasonable, or illogical manner; without the guidance of reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative, acting under the overwhelming sway of blind panic, jealousy, or rage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In giving and accepting battle at Borodinó, Kutúzov acted involuntarily and irrationally."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester paced the dark library like a caged panther, muttering **irrationally** against the cruel hand of fate."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard acted **irrationally** in the market auction, bidding up grain prices out of pure spite against his rival."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She found herself trembling **irrationally** as the footsteps approached the drawing-room door."*

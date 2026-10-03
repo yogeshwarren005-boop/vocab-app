@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An integer or a fraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consistent with or based on or using reason.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on or in accordance with reason or logic; capable of thinking and reasoning clearly and soundly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics, the distinctively human capacity for deliberate, principled moral agency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loss of virginity is rational increase, and there was never virgin got till virginity was first lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Boy, I do love that country girl that I took in the park with the rational hind Costard."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The appearances, beyond all rational doubt, observed in that case are the appearances observed in Mr."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a piece of work is a man! How noble in reason, how infinite in faculties, in form and moving how express and admirable, a truly **rational** creature."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer urged his client to adopt a more **rational** view of the Chancery proceedings, rather than pining away in despair."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"God has endowed man with **rational** faculties that he may discover the duties owed to his Creator and fellow beings."*

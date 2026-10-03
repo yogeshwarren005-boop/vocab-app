@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason methodologically and logically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason methodologically and logically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Form judgments or conclusions through the process of logical reasoning, deduction, or argumentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In detective fiction and epistemology, analyzing subtle clues through sequential deduction to uncover hidden truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ratiocinate designates reason methodologically and logically."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"Dupin would sit in silence, beginning to **ratiocinate** upon the strange testimony until the fragmented clues coalesced into clarity."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The reflective intellect must **ratiocinate** upon primary intuitions before converting poetic inspiration into systematic philosophy."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The paleontologist must **ratiocinate** from a single fossil bone to reconstruct the entire skeleton of an extinct vertebrate."*

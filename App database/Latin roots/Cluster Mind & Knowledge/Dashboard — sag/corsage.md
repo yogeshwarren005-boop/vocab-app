@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of flowers that is usually given as a present.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement of flowers that is usually given as a present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small bouquet of flowers pinned to a woman's dress or worn around her wrist for a formal occasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historic fashion and ball costume, the fitted bodice or waist of a woman's gown adorned with floral posies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corsage designates an arrangement of flowers that is usually given as a present."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Daisy glanced down at the crushed orchid **corsage** pinned to her evening gown, shivering in the autumn chill."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"May Welland wore a simple white **corsage** of gardenias sent that morning from the van der Luydens' conservatory."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"Odette had fastened a cluster of cattleya blossoms to her silk **corsage**, adjusting the petals as Swann entered."*

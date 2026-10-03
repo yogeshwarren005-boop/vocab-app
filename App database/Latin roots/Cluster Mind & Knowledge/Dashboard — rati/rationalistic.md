@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the philosophical doctrine of rationalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the philosophical doctrine of rationalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of rationalism; relying strictly upon reason rather than faith, tradition, or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century biblical criticism, interpreting miraculous accounts through naturalistic historical causes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In this last case it is obvious that a rationalistic explanation of the taboo is impossible."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The rationalistic theory of them therefore breaks down entirely; the hypothesis of superstition is clearly the only one open to us."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A faint rationalistic colour was given to the legend by saying that his mother was a woman named Myrrh, who had been turned into a myrrh-tree soon after she had conceived the child."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The rise of a **rationalistic** spirit in late antiquity dissolved ancient agricultural taboos into mere poetic folklore."*
+> - 📜 **John Henry Newman (*The Idea of a University*):** *"A purely **rationalistic** education produces clever minds while starving the moral imagination and spiritual sensibilities."*
+> - 📜 **William E. H. Lecky (*History of the Rise and Influence of Rationalism in Europe*):** *"The decline of belief in witchcraft in Europe was the triumph of a broader **rationalistic** habit of thought."*

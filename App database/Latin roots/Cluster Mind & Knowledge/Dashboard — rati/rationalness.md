@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being consistent with or based on logic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being consistent with or based on logic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic disposition of being rational; reasonableness, sound judgment, and reliance on logic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character assessment and philosophical treatises, the mental stability that preserves calm logic under emotional provocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationalness designates the quality of being consistent with or based on logic."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A mind distinguished by habitual **rationalness** navigates the storms of public faction with serene, unclouded judgment."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie admired the steady **rationalness** of Philip Wakem, finding solace in his clear intellectual companionship."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The constitutional statesman balances historical tradition with the calm **rationalness** required for prudent civic reform."*

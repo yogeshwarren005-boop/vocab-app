@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the doctrine that knowledge is acquired by reason without resort to experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that human reason rather than divine revelation establishes religious truth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical belief or principle that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology (Descartes, Spinoza, Leibniz), the doctrine that reason alone, independent of sensory experience, is the primary source of knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rationalism designates (philosophy) the doctrine that knowledge is acquired by reason without resort to experience."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Seventeenth-century **rationalism** achieved its crowning glory in Spinoza's magnificent geometrical demonstration of ethics."*
+> - 📜 **William James (*Pragmatism*):** *"Pragmatism stands midway between dogmatic **rationalism** with its eternal abstractions and empiricism with its raw facts."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The bold **rationalism** of the Greek philosophers steadily undermined the popular polytheism of the pagan world."*

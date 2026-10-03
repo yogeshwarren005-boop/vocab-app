@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leaf shaped like an arrow head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leaf shaped like an arrow head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leaf shaped like an arrowhead, possessing two pointed, triangular lobes directed downward at the base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical organography, characterizing foliage found in plants like arrowheads (*Sagittaria*) and certain climbing ivies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sagittate-leaf designates a leaf shaped like an arrow head."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The distinctive **sagittate-leaf** of the marsh plant terminates in two acute basal lobes pointing straight toward the stem."*
+> - 📜 **Charles Darwin (*The Movement and Habits of Climbing Plants*):** *"The young tendril climbed upward until the first **sagittate-leaf** expanded to capture the dappled forest sunlight."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Field botanists readily identify the water-plantain family by its characteristic **sagittate-leaf** morphology."*

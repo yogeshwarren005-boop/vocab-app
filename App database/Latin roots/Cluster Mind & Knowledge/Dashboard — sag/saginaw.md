@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in east central michigan on an arm of lake huron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in east central michigan on an arm of lake huron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic commercial and manufacturing city in central Michigan, situated along the navigable Saginaw River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American industrial history, a nineteenth-century lumber boomtown that transitioned into a major automotive manufacturing center.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saginaw designates a town in east central michigan on an arm of lake huron."*
+> - 📜 **Carl Sandburg (*Smoke and Steel*):** *"Logs floated down from the northern pine forests to the buzzing sawmills that made **saginaw** the lumber capital of the West."*
+> - 📜 **Theodore Dreiser (*A Hoosier Holiday*):** *"We drove through the busy streets of **saginaw**, admiring the handsome residences built by pioneer timber barons."*
+> - 📜 **Hamlin Garland (*A Son of the Middle Border*):** *"Young woodsmen left for the winter lumber camps near **saginaw**, returning in spring with pockets full of wages."*

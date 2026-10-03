@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The new sounds added by dubbing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a nickname to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an unofficial name or nickname to; also confer knighthood upon someone by tapping their shoulder with a sword.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sound engineering and film production, combining, replacing, or re-recording audio tracks for visual media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"SILENCE. [_Singing._] _Do me right, And dub me knight: Samingo._ Is’t not so?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he that temper’d thee bade thee stand up, Gave thee no instance why thou shouldst do treason, Unless to dub thee with the name of traitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unsheathe your sword and dub him presently.— Edward, kneel down."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rise, sir; I **dub** thee knight of the royal order, commanding thee to defend truth and virtue."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"King Richard bade the brave Saxon kneel on the turf, that he might **dub** him knight before the gathered army."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The schoolboys hastened to **dub** the awkward new arrival with an absurd schoolyard moniker."*

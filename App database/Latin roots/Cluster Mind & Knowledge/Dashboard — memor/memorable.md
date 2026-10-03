@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worth remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worth remembering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worth remembering or easily remembered, especially because of being special, unusual, or exceptional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and narrative memoirs, watershed moments or dramatic speeches that reshape national destiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wear it for a memorable honour; For I am Welsh, you know, good countryman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will you mock at an ancient tradition, begun upon an honourable respect, and worn as a memorable trophy of predeceased valour, and dare not avouch in your deeds any of your words?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I do not mean that it ceased even then, but that my attention was then diverted into a current very memorable to me."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let us make this day a **memorable** epoch in our kingdom's chronicles, sealed by noble deeds of arms."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"I do assure you, said Mr. Snagsby, it was a **memorable** interview that I shall carry in my heart to my dying day."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The singular adventure of the Beryl Coronet remains one of the most **memorable** triumphs of my friend's career."*

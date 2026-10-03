@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who learns by rote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who learns by rote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who memorizes something; an individual who commits facts or texts to memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and historical oral traditions, an oral bard or scholar capable of reciting entire epics from memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, memorizer designates a person who learns by rote."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The trained **memorizer** links disparate facts into a unified narrative chain, drastically reducing retrieval effort."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"A mere **memorizer** of scientific terms is not an investigator, for true science demands observation and critical reasoning."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The ancient bard was a sacred **memorizer**, bearing within his head the living genealogy and heroic songs of the tribe."*

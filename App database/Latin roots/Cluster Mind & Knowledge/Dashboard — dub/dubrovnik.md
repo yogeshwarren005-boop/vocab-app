@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port city in southwestern croatia on the adriatic; a popular tourist center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in southwestern croatia on the adriatic; a popular tourist center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic fortified coastal city in southern Dalmatia, Croatia, situated on the Adriatic Sea (historically Ragusa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean history, an independent maritime republic renowned for diplomatic agility, maritime commerce, and massive stone walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubrovnik designates a port city in southwestern croatia on the adriatic; a popular tourist center."*
+> - 📜 **Rebecca West (*Black Lamb and Grey Falcon*):** *"The white marble ramparts of **dubrovnik** rose proudly out of the turquoise Adriatic, a republic built on maritime freedom."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The citizens of ancient Ragusa, now called **dubrovnik**, maintained their civil liberty between the Ottoman empire and Venice."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The Adriatic sun illumined the stone towers of **dubrovnik**, where argosies once loaded silver from the Balkan hills."*

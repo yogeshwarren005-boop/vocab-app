@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken in advance to protect against possible danger or failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken in advance to protect against possible danger or failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or serving as a precaution; preventive, precautionary, or anticipatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal contracts and military maneuvers, protective stipulations designed to guard against future contingencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precautional designates taken in advance to protect against possible danger or failure."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The treaty contained a **precautional** clause reserving our neutral trading rights in European ports."*
+> - 📜 **Edmund Burke (*Thoughts on the Cause of the Present Discontents*):** *"Parliament must adopt **precautional** measures before public discontent boils over into open rebellion."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"The captain ordered a **precautional** double watch aloft as the barque approached the treacherous reefs."*

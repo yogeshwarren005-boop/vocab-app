@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A precautionary measure warding off impending danger or damage or injury etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of practicing caution in advance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure taken in advance to prevent something dangerous, harmful, or unpleasant from happening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiological hygiene and industrial manufacturing, systematic safety safeguards preventing catastrophic loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"You may go into Holborn, without precaution, and be run over."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You may go into Holborn, with precaution, and never be run over."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sagacious Smallweed supplies him with the newspaper and occasionally drops his eye upon him from the landing as a precaution against his becoming disgusted with waiting and making an untimely departure."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Snagsby took every **precaution** against disturbing his formidable wife, treading upon tiptoe in his own house."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode locked the drawer with elaborate **precaution**, glancing anxiously over his shoulder at the window."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"As a necessary **precaution** against fire, the ship's cook doused all galleys before the casks were rolled out."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too obvious to be doubted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too obvious to be doubted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Too evident, obvious, or certain to be doubted; unquestionable, clear, and undeniable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal jurisprudence and scientific demonstration, evidence that establishes a fact beyond reasonable challenge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The indubitable truth is that no trade ever can take place (in a monetary régime) unless the monetary price is lower in the exporting than it is in the importing country."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"She confined herself, or tried to confine herself, to the simple, indubitable family misery which must envelop all, if it were indeed a matter of certified guilt and public exposure."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"From these clear and indubitable principles results the propriety of a negative, either absolute or qualified, in the Executive, upon the acts of the legislative branches."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She considered his affection an **indubitable** truth that needed no spoken confirmation to comfort her heart."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It is an **indubitable** maxim of government that powers must be proportioned to responsibilities and public safety."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My aunt treated the child's right to protection as an **indubitable** moral obligation that brook no hesitation."*

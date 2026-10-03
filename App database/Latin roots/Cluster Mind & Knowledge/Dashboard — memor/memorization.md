@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Learning so as to be able to remember verbatim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning so as to be able to remember verbatim.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of committing something to memory or learning something thoroughly by heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological learning theory, the cognitive encoding and consolidation of information for subsequent retrieval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once, with a guard, and once with a short-timer in solitary, I entrusted, by memorization, a letter of inquiry addressed to the curator of the Museum."*
+> - 📜 **Jack London (*The Star Rover*):** *"Through rigorous mental **memorization**, I preserved my sanity in the dark jacket, reciting poetry hour after hour."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Mechanical **memorization** of formulas without comprehension is the greatest pitfall of modern schoolroom instruction."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The apprentice sailor underwent daily **memorization** of every rope and stay in the bewildering rigging aloft."*

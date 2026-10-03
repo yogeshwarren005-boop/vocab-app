@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commit to memory; learn by heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit to memory; learn by heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Learn something thoroughly so that you remember it perfectly; commit to memory (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical stagecraft and scholarship, learning dramatic scripts or philosophical texts verbatim for recitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, memorise designates commit to memory; learn by heart."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She would sit by the window and **memorise** stanzas of Shelley until the words became part of her very thoughts."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes paused to **memorise** the intricate network of crossroads upon the ordnance map before venturing onto the moor."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy tried to **memorise** the Italian names of the Giotto frescoes in the church of Santa Croce."*

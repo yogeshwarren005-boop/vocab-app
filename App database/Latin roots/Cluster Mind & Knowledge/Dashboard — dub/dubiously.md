@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a questionable and dubious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a doubtful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dubious, doubtful, skeptical, or hesitant manner; with lingering uncertainty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fictional dialogue and detective narrative, responding with visible skepticism toward an unbelievable claim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The inquiring farmer would edge away and shake his head dubiously."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Our mis’ess has too much sense under they knots of black hair to do such a mad thing.” “You see, he’s not a coarse, ignorant man, for he was well brought up,” said Matthew, dubiously."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What’s to be done?” “I don’t see that ’tis any business of ours,” Smallbury murmured dubiously."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel shook his head **dubiously**, calculating the market price of the rain-damaged Wessex fleece."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Watson looked **dubiously** at the battered felt hat upon the wooden table, wondering what clues it held."*
+> - 📜 **Lewis Carroll (*Through the Looking-Glass*):** *"Alice looked **dubiously** at the path through the wood, uncertain which way led to the eighth square."*

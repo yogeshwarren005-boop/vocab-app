@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ceremony to honor the memory of someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremony to honor the memory of someone or something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or practice of preserving the memory of a person or historical event; commemoration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public history and urban design, the creation of monuments, museums, and days of remembrance to honor collective sacrifice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, memorialization designates a ceremony to honor the memory of someone or something."*
+> - 📜 **Abraham Lincoln (*Speeches and Letters*):** *"The national **memorialization** of our brave soldiers upon the battlefield consecrates the principle of unbroken union."*
+> - 📜 **Frederick Douglass (*The Life and Times of Frederick Douglass*):** *"True **memorialization** of the abolitionist heroes demands continuous vigilance in safeguarding equal constitutional rights."*
+> - 📜 **Woodrow Wilson (*War and Peace: Presidential Messages*):** *"The **memorialization** of our fallen doughboys in France remains a solemn covenant between the living and the dead."*

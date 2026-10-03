@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in caution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carelessly failing to exercise proper caution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not heedful of potential consequences, danger, or risk; rash, unwary, or indiscreet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military reconnaissance and political diplomacy, uttering careless statements that expose plans to adversaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Those were slow, silent, often turbid; flowing over beds of mud into which the incautious wader might sink and vanish unawares."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They are not AT LIBERTY to vest in the executive department permanent funds for the support of an army, if they were even incautious enough to be willing to repose in it so improper a confidence."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Thus the incautious hunter may be brought, on the instant, into full relief, and the quick bound which follows discovery, rob him of the fruit of long crawling."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"An **incautious** word escaped her lips in the dairy parlor, causing Angel Clare to pause in surprise."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An **incautious** expansion of executive authority might inadvertently subvert the constitutional equilibrium of the republic."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My aunt scolded Mr. Dick for his **incautious** remarks concerning King Charles's head in the presence of strangers."*

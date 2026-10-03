@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A record of things worth remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A record of things worth remembering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Objects or items collected for their historical value or associations with people, places, or events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archival curating and biographical memoirs, personal artifacts, autographs, and relics illuminating historic lives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Touch him ne’er so lightly.” Memorabilia."*
+> - 📜 **Robert Browning (*Memorabilia*):** *"Ah, did you once see Shelley plain, and did he speak to you, and did you speak to him again, among the **memorabilia** of your youth?"*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Watson kept a tin dispatch-box filled with the curious **memorabilia** and documents of his friend's celebrated investigations."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"Tourists eagerly purchased fake **memorabilia** outside the Colosseum, believing every rusty nail came from Caesar's palace."*

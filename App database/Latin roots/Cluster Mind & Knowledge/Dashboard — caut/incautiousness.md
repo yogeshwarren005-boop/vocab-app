@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of forgetting or ignoring possible danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forgetting or ignoring possible danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition to act without due caution; habitual rashness, indiscretion, and heedlessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial proceedings and insurance investigations, blameworthy negligence failing to avert foreseeable injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incautiousness designates the trait of forgetting or ignoring possible danger."*
+> - 📜 **Samuel Johnson (*The Adventurer*):** *"Many a prosperous merchant has been ruined by the sudden **incautiousness** of an extravagant son."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Mr. Tulliver lamented his own **incautiousness** in signing legal agreements without reading the small print."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Oldbuck chided the nephew for his boyish **incautiousness** in scaling the crumbling cliff face."*

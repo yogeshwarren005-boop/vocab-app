@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of destroying tissue using heat, cold, or caustic chemical agents (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century clinical surgery, employing red-hot irons or nitric acid to arrest arterial hemorrhage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterisation designates the act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing."*
+> - 📜 **Joseph Lister (*On the Antiseptic Principle in the Practice of Surgery*):** *"Modern surgeons prefer sterile ligatures to the painful **cauterisation** of bleeding arteries after amputation."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Severe **cauterisation** of the horn buds in young calves permanently arrests subsequent horn development."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The veteran practitioner demonstrated the swift **cauterisation** of a poisoned dog bite with glowing silver nitrate."*

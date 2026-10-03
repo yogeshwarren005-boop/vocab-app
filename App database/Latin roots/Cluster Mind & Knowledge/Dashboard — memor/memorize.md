@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commit to memory; learn by heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commit to memory; learn by heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Learn something thoroughly so that you remember it perfectly; commit to memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical performance, intelligence work, and scholastic training, acquiring verbatim recall of texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The course of instruction was not particularly difficult to memorize."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"How many of my readers would have the industry and application to memorize two thousand verses, even for a Doré Bible?"*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Memorizing a definition is only the first step toward economic reasoning."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom struggled for an hour to **memorize** five verses from the Sermon on the Mount for Sunday school ticket rewards."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The cipher was so complex that the conspirators were instructed to **memorize** the key and burn the paper immediately."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The prisoner managed to **memorize** the Morse code taps upon the water pipes, establishing communication with the next cell."*

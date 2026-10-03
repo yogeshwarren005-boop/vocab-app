@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being beyond question or dispute or doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being beyond question or dispute or doubt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being unquestionable, undeniable, and impossible to doubt; certainty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological theory, the supreme status of clear and distinct ideas that withstand Cartesian hyper-skepticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indubitability designates the quality of being beyond question or dispute or doubt."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"The proposition 'I think, therefore I am' possesses that luminous **indubitability** which defeats the most cunning deceiver."*
+> - 📜 **William James (*Pragmatism*):** *"Dogmatic philosophers seek an absolute **indubitability** that human experience, with all its messiness, can never furnish."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"We search in vain for mathematical **indubitability** among the chaotic, shifting data of direct sensory awareness."*

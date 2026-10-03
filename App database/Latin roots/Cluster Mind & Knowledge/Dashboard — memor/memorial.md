@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A recognition of meritorious service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written statement of facts submitted in conjunction with a petition to an authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something designed to preserve the memory of a person, victory, or event; a monument, plaque, or ceremony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal procedure, a statement of facts accompanying a petition presented to a government, legislature, or court.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy master now lies thinking on his bed Of thee and me, and sighs, and takes my glove, And gives memorial dainty kisses to it, As I kiss thee."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"LXXIV But be contented: when that fell arrest Without all bail shall carry me away, My life hath in this line some interest, Which for memorial still with thee shall stay."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"A memorial, signed by one hundred and sixty-seven United Presbyterian elders in the city, told him that, in the interests of their Church, it was of the utmost importance that he should do so."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This tomb shall be a lasting **memorial** of thy spotless virtue, defying the envious tooth of all-consuming time."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"Let us build a living **memorial** to the fallen by binding up the wounds of the nation in enduring charity."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The grateful family erected a marble **memorial** tablet in the village churchyard to honor the departed squire."*

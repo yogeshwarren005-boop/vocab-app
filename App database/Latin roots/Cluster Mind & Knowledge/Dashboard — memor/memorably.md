@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a memorable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a memorable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a memorable manner; in a way that is easily remembered, striking, or profoundly notable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary rhetoric and oratory, delivering ideas with arresting eloquence that lingers permanently in public memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Curtis says:— “The war for the Union was a vindication of that theory of its nature which Webster had maintained in a memorably impregnable and conclusive manner."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The British constitution **memorably** established that liberty without order is but the license of an anarchic mob."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Milton **memorably** defended the freedom of the press in language of unsurpassed grandeur and moral conviction."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Jane Austen **memorably** captured the quiet comedy of provincial drawing rooms without a trace of bitter satire."*

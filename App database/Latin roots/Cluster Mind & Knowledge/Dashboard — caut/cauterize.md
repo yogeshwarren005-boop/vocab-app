@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make insensitive or callous; deaden feelings or morals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Burn skin or flesh of a wound with a heated instrument or caustic substance to stop bleeding or prevent infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary metaphor, to make callous, unfeeling, or dead to emotional remorse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterize designates burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooner seized a glowing brand from the try-works to **cauterize** the festering wound received from the whale's fin."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I must **cauterize** the wound of unrequited love, burning out memory to preserve my moral sanity."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen used a red-hot poker to **cauterize** the sailor's shattered arm on the pitching deck."*

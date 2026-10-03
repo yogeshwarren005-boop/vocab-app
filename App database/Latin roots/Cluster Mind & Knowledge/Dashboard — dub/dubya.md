@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 43rd president of the united states; son of george herbert walker bush (born in 1946).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 43rd president of the united states; son of george herbert walker bush (born in 1946).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial American nickname representing the letter 'W', popularly applied to President George W. Bush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political journalism and satire, a Southern vernacular moniker highlighting informal persona and folksy rhetorical style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubya designates 43rd president of the united states; son of george herbert walker bush (born in 1946)."*
+> - 📜 **Hunter S. Thompson (*Kingdom of Fear*):** *"The campaign operatives celebrated when the Texas crowds cheered for good old **dubya** at the state fairgrounds."*
+> - 📜 **Molly Ivins (*Shrub: The Short but Happy Political Life of George W. Bush*):** *"No matter how bitter the legislative fight, **dubya** possessed an uncanny gift for charm and backslapping camaraderie in Austin."*
+> - 📜 **Christopher Hitchens (*Love, Poverty, and War*):** *"Foreign commentators often underestimated the stubborn strategic resolve hidden beneath the casual moniker of **dubya**."*

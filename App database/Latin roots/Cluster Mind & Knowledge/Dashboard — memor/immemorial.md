@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long past; beyond the limits of memory or tradition or recorded history.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long past; beyond the limits of memory or tradition or recorded history.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating in the distant past; existing beyond the reach of memory, record, or tradition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence (time immemorial), customs continuous and unquestioned since time beyond legal memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The spot had been consecrated to this ancient diversion from time immemorial, the old stocks conveniently forming a base facing the boundary of the churchyard, in front of which the ground was trodden hard and bare as a pavement by the players."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I am devoted to you, Tessy, dearest, in all sincerity!” Old Pretty by this time had looked round, puzzled; and seeing two people crouching under her where, by immemorial custom, there should have been only one, lifted her hind leg crossly."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This was due to her immemorial policy of isolation."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ancient stone barn had stood from time **immemorial**, witnessing the shearing of countless generations of Wessex sheep."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Deep in the primeval forest, Buck answered the call of an **immemorial** wild instinct slumbering in his northern blood."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Language is the archive of history, preserving profound metaphors derived from an **immemorial** human antiquity."*

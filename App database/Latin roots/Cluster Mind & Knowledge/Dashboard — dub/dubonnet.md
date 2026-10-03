@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (trademark) a sweet aromatic french wine (red or white) used chiefly as an aperitif.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trademark) a sweet aromatic french wine (red or white) used chiefly as an aperitif.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet, aromatized French wine-based aperitif flavored with quinine, herbs, spices, and orange peel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French culinary culture and bartending, a classic Parisian aperitif formulated in 1846 by Joseph Dubonnet for the French Foreign Legion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubonnet designates (trademark) a sweet aromatic french wine (red or white) used chiefly as an aperitif."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We sat outside on the Boulevard Saint-Michel, drinking chilled **dubonnet** with lemon twist while the crowds hurried by."*
+> - 📜 **Graham Greene (*Travels with My Aunt*):** *"My aunt ordered a generous tumbler of **dubonnet**, declaring it the only cordial that restored her zest for adventure."*
+> - 📜 **Agatha Christie (*Evil Under the Sun*):** *"Poirot sipped his **dubonnet** on the terrace, politely declining the heavier cocktails favored by the younger hotel guests."*

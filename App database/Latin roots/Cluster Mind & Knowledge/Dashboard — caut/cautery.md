@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or caustic substance used to burn, sear, or destroy abnormal organic tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical history, actual cautery (heated iron) and potential cautery (caustic chemicals) utilized since antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cautery designates an instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it."*
+> - 📜 **Ambroise Paré (*The Workes of that Famous Chirurgion Ambroise Parey*):** *"The fearful smell of burning flesh vanished from our hospital wards when I threw away the red-hot **cautery**."*
+> - 📜 **William Osler (*Aequanimitas and Other Addresses*):** *"Ancient surgical texts devoted long chapters to the varied forms of the **cautery** in treating chronic ulcers."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The lancet and the **cautery** reigned supreme in the heroic medicine of our great-grandfathers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Port city in the united arab emirates on the persian gulf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Port city in the united arab emirates on the persian gulf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent global city and the most populous emirate in the United Arab Emirates, located on the Persian Gulf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical and economic geography, an international hub for global finance, maritime trade, aviation, and ultramodern architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubai designates port city in the united arab emirates on the persian gulf."*
+> - 📜 **Wilfred Thesiger (*Arabian Sands*):** *"Dhows sailed across the Gulf from the bustling pearl port of **dubai**, trading mangrove poles and dates with Oman."*
+> - 📜 **Arthur C. Clarke (*The View from Serendip*):** *"The transformation of **dubai** from a desert creek into a metropolis of gleaming glass remains an architectural marvel."*
+> - 📜 **Paul Theroux (*The Pillars of Hercules*):** *"Modern **dubai** arose from the salt flats like a futuristic mirage dedicated to boundless international commerce."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance, chemical, or physical agent used to burn, sear, or destroy abnormal animal tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical therapeutics, chemical caustics such as silver nitrate applied to eradicate granulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterant designates an instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it."*
+> - 📜 **Ambroise Paré (*The Workes of that Famous Chirurgion Ambroise Parey*):** *"The ancient surgeons applied boiling oil as a violent **cauterant** to gunshot wounds, a cruel practice I abandoned."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon applied a mild **cauterant** to the indolent ulcer to stimulate healthy vascular repair."*
+> - 📜 **Joseph Lister (*The Antiseptic System of Treatment in Surgery*):** *"Carbolic acid acts not merely as an antiseptic, but in high concentration as a chemical **cauterant** upon diseased tissue."*

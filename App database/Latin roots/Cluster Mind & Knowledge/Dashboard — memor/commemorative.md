@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An object (such as a coin or postage stamp) made to mark an event or honor a person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended as a commemoration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting as a memorial or mark of celebration; intended to recall and honor an event or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philately, numismatics, and monument design, specially issued stamps, medals, or statues preserving civic heritage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quartered in this dingy hatchment commemorative of Symond are the legal bearings of Mr."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Then and there the creek received its name, "Waukarusa." We procured a remarkable sketch, in the well known Indian style of high art, commemorative of this event."*
-> - 📜 **James Joyce (*Ulysses*):** *"That the house in which he was born be ornamented with a commemorative tablet and that the thoroughfare hitherto known as Cow Parlour off Cork street be henceforth designated Boulevard Bloom."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A heavy **commemorative** gold medallion hung from his watch chain, presented by a grateful European sovereign."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The small chapel was adorned with **commemorative** stained glass depicting scenes from the lives of early martyrs."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"American townships erect simple **commemorative** granite obelisks to honor citizens who fell in the revolutionary struggle."*

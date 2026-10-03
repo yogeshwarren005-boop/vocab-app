@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being worth remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being worth remembering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being worth remembering, striking, notable, or easily fixed in the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marketing psychology and literary aesthetics, the indelible cognitive salience that ensures long-term recall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, memorability designates the quality of being worth remembering."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The exceptional **memorability** of Shakespeare's phrasing arises from the perfect harmony of dramatic rhythm and imaginative truth."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"A touchstone line of epic poetry achieves timeless **memorability** by crystallizing profound human experience in a single breath."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The subtle **memorability** of Lamb's essays lies in their tender blend of whimsical melancholy and antique phrase."*

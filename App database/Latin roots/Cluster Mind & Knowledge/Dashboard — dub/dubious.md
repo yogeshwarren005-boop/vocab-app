@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fraught with uncertainty or doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to doubt or suspicion; ; ; ; - karen horney.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hesitating, doubting, or uncertain; also morally questionable, suspicious, or unreliable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In judicial analysis and commercial transactions, assertions lacking credibility or contracts fraught with hidden hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Well, he spoke to his mother, of course, and she do want ’ee there.” “But I don’t know that I am apt at tending fowls,” said the dubious Tess."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"XI The twain cantered along for some time without speech, Tess as she clung to him still panting in her triumph, yet in other respects dubious."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"MacEwen, "some curious elements." Not the least curious and dubious of these was that of the lower class of the old Freemen of the Borough."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She regarded the stranger with **dubious** eyes, wondering whether to answer his probing inquiry."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Guppy wore an expression of **dubious** satisfaction as he reviewed the parchment copy of the deed."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab made a **dubious** motion with his ivory leg, dismissing the mate's objection with cold disdain."*

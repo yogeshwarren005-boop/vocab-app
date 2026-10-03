@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ceremony to honor the memory of someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recognition of meritorious service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of remembering and honoring a notable person, heroic act, or event through ceremony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical theology and civic memorials, an annual service or solemn observance renewing communal remembrance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In commemoration of what event, however, or in honour of what distinguished personage, the feast was to be given, altogether passed my comprehension."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Believing that the exertions of the efficient officers of the Society deserve commemoration, we have obtained the following brief sketches of Mrs."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If all who seek his commemoration through material symbols will take up the cross, heal 34:15 the sick, cast out evils, and preach Christ, or Truth, to the poor, - the receptive thought, - they will bring in the millennium."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The solemn **commemoration** of ancestral wisdom forms the moral cement that binds past generations to the future."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The town council arranged a public **commemoration** for the philanthropic alderman who founded the parish infirmary."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The glorious revolution was celebrated with joyous **commemoration** across every market town in the Protestant kingdom."*

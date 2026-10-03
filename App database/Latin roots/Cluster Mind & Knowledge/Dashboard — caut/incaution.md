@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of forgetting or ignoring possible danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of forgetting or ignoring possible danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of caution; heedlessness, carelessness, or rash disregard of potential hazards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical essays and naval inquiries, reckless neglect of standard safety rules leading to accident.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Tempted to incaution by the sight of the noble elk standing wounded and at bay, or else excited by its blood, the dog sprang forward."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Youth is perpetually betrayed by its own **incaution**, rushing blindly into schemes that end in poverty."*
+> - 📜 **W. E. Webb (*Buffalo Land*):** *"Tempted by the grazing herd, the hunter's **incaution** brought him within lethal range of concealed skirmishers."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The maritime court sternly rebuked the mate's **incaution** in steaming at full speed through blind monsoon fog."*

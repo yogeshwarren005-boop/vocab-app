@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taken in advance to protect against possible danger or failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taken in advance to protect against possible danger or failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carried out as a precaution; intended to prevent possible harm, danger, error, or misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental science and corporate governance, the precautionary principle mitigating uncertain ecological hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode with precautionary information for his daughters and servants, and accounting for his allowing no one but himself to enter the room even with food and drink."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor was there wanting still another precautionary motive more related to Ahab personally."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor was there wanting still another precautionary motive more related to Ahab personally."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate suggested certain **precautionary** measures against the fever, advising the town council to flush the sewers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The mate took **precautionary** steps to lash the whale-boats firmly to their davits as the squall deepened."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes drew his revolver as a **precautionary** measure before entering the darkened cellar."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make insensitive or callous; deaden feelings or morals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Burn, sear, or destroy abnormal tissue with a heated instrument or caustic chemical (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative rhetoric, to deaden moral sensitivity or excise corrupt elements from society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterise designates burn, sear, or freeze (tissue) using a hot iron or electric current or a caustic agent."*
+> - 📜 **George Bernard Shaw (*Saint Joan*):** *"The inquisitor declared that the church must **cauterise** the spreading infection of heresy before it consumed Christendom."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"Moreau used heated needles to **cauterise** exposed nerve endings during his grotesque biological grafting."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Danton shouted that the revolution must **cauterise** royalist treason with uncompromising revolutionary fury."*

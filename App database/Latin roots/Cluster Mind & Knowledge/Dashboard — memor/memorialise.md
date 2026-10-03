@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Address in a memorial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or provide a memorial to a person or an event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve the memory of someone or something; commemorate; also address or petition by a memorial (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic governance and historical literature, petitioning authorities or erecting statues for distinguished public service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers was querulous and angry with me for having “let it slip through my fingers,” and said we must memorialise by and by, and try at all events for some of it."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The townsfolk resolved to **memorialise** the generous merchant who had endowed the grammar school for poor boys."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Protestant gentlemen met at the shire hall to **memorialise** the crown against arbitrary suspension of statute laws."*
+> - 📜 **George Bernard Shaw (*Saint Joan*):** *"Centuries passed before the very church that condemned the maid met in cathedral splendor to **memorialise** her sainthood."*

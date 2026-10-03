@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unmemorable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unmemorable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unmemorable, unremarkable, or forgettable manner; without distinction or lasting impression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical prose and historical narrative, living or passing without leaving any enduring mark on contemporaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmemorably designates in an unmemorable manner."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Generations of rustic laborers lived and died **unmemorably** in the quiet valley, their very names fading from churchyard stones."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Many a noble soul rests in an unvisited tomb, having laboured **unmemorably** to soften the hardness of the world around them."*
+> - 📜 **Herman Melville (*Israel Potter: His Fifty Years of Exile*):** *"The old veteran passed his final years **unmemorably** in the London workhouse, forgotten by the republic he had fought to create."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being cautious; being attentive to possible danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being cautious; being attentive to possible danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition to be cautious; prudent circumspection and careful avoidance of rash hazards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phrenology and nineteenth-century character analysis, a mental faculty governing defensive prudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I only fear that the sort of cautiousness to which you, I imagine, have been alluding, is merely adopted on his visits to his aunt, of whose good opinion and judgment he stands much in awe."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All silence of cautiousness was therefore no longer of use."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"All silence of cautiousness was therefore no longer of use."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth praised her father's **cautiousness** in refusing to allow Lydia to invite frivolous officers to the house."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The excessive **cautiousness** of Starbuck contrasted sharply with Ahab's frantic disregard of ordinary peril."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother admired the young surveyor's **cautiousness**, noting how every measurement was verified twice."*

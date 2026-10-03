@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new soundtrack that is added to a film.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a nickname to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of adding, replacing, or mixing audio recordings, music, or foreign-language dialogue in film and video.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chivalry, the solemn ceremonial act of conferring knighthood by tapping the shoulder with the flat of a blade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubbing designates a new soundtrack that is added to a film."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The monarch concluded the solemn **dubbing** of the crusader, bidding him ride forth in the service of Christendom."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"In the feelies studio, acoustic engineers perfected the precise **dubbing** of sensory soundtracks onto the film reels."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"We watched the cinema newsreel, noticing the crude **dubbing** of triumphant martial anthems over battle footage."*

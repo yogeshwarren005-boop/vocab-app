@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without caution or prudence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without caution or prudence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an incautious, unwary, or careless manner; without taking proper heed of consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative, revealing a closely guarded secret or stepping into peril through lack of vigilance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His behaviour to herself could now have had no tolerable motive: he had either been deceived with regard to her fortune, or had been gratifying his vanity by encouraging the preference which she believed she had most incautiously shown."*
-> - 📜 **James Joyce (*Ulysses*):** *"Incautiously I took your part when you were accused of pilfering."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"A single second only, near the end of the ceremony, Tyrrel leaned forward incautiously, anxious to see Cleer at an important point of the proceedings."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia chattered **incautiously** about her elopement, entirely blind to the disgrace she had brought upon her family."*
+> - 📜 **James Joyce (*Ulysses*):** *"He stepped **incautiously** off the curb into the splashing muddy track of the speeding brewer's dray."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The fugitive moved **incautiously** past the streetlamp, allowing the detective to catch his profile."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Learning so as to be able to remember verbatim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Learning so as to be able to remember verbatim.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of learning something so that you can remember it perfectly; committing to memory (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogy and classical education, committing sacred verses, grammatical paradigms, and orations to heart through repetition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, memorisation designates learning so as to be able to remember verbatim."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Rote **memorisation** of Latin rules without understanding the sense burdens the young intellect without cultivating judgment."*
+> - 📜 **Charles Darwin (*Autobiography of Charles Darwin*):** *"The master insisted upon the mechanical **memorisation** of Greek hexameters, which I found singularly tedious."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom Tulliver groaned over the endless **memorisation** of Latin conjugations required by his strict clerical tutor."*

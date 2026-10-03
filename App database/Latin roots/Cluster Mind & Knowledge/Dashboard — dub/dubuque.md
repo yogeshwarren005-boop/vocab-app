@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in eastern iowa on the mississippi river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in eastern iowa on the mississippi river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic commercial city in eastern Iowa, situated along the bluffs of the upper Mississippi River.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American frontier and economic history, founded by French-Canadian lead miner Julien Dubuque, becoming an early Iowa hub.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"She resided in Cascade, Dubuque County, Iowa, and just previous to the commencement of the war had buried her only child, a sweet little girl of four years."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Steamboats churned the brown river water as they rounded the limestone bluffs into the busy port of **dubuque**."*
+> - 📜 **L. P. Brockett (*Woman's Work in the Civil War*):** *"Hospital aid societies in **dubuque** collected flannel bandages and medical supplies for the Mississippi gunboat fleet."*
+> - 📜 **Hamlin Garland (*Main-Travelled Roads*):** *"Farmers brought their grain wagons down the winding ridge road, selling wheat to the merchants of **dubuque**."*

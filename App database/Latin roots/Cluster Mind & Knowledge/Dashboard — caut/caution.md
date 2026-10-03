@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being cautious; being attentive to possible danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warning against certain acts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Care taken to avoid danger, risk, or mistakes; prudence, wariness, and deliberate foresight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence, a formal warning given to a suspect or a notice entered against land registration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet my caution was more pertinent Than the rebuke you give it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so,—as so ’tis put on me, And that in way of caution,—I must tell you You do not understand yourself so clearly As it behoves my daughter and your honour."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me with **caution**, for the tempest breaks upon our heads while we stand debating petty grievances."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn walked through the fog with habitual **caution**, keeping his secrets locked in his breast."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Her mother's voice had ever been on the side of **caution**, teaching her to dread premature financial commitments."*

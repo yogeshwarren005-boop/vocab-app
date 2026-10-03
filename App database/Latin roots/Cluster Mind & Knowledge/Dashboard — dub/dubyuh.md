@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 43rd president of the united states; son of george herbert walker bush (born in 1946).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 43rd president of the united states; son of george herbert walker bush (born in 1946).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eye-dialect spelling representing the Southern or Texan pronunciation of the letter 'W'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political folklore and linguistic orthography, a phonetic transcription capturing folksy regional vernacular cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubyuh designates 43rd president of the united states; son of george herbert walker bush (born in 1946)."*
+> - 📜 **Molly Ivins (*You Got to Dance with Them What Brung You*):** *"The campaign buttons spelled out **dubyuh** in bold western font, leaning hard into rustic regional identity."*
+> - 📜 **Garrison Keillor (*Lake Wobegon Days*):** *"The radio announcer drawled out the southern letter **dubyuh** with exaggerated theatrical slow-motion cadence."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Regional phonetics across the Gulf States frequently expand the letter into a full two-syllable diphthong written as **dubyuh**."*

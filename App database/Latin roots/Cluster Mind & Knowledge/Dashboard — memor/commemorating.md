@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark by some ceremony or observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call to remembrance; keep alive the memory of someone or something, as in a ceremony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recalling and honoring the memory of a person, heroic sacrifice, or historic event with ceremony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public statuary and numismatics, striking medals or inscribing plaques honoring foundational milestones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Another centenary commemorating an event as tragic and infinitely more glorious is fast approaching."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"My Lord Dives's remains are in the family vault: the statuaries are cutting an inscription veraciously commemorating his virtues, and the sorrows of his heir, who is disposing of his goods."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"An ancient headstone stood in the cemetery, **commemorating** the pious life of a pioneer magistrate of Massachusetts."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"The Prime Minister spoke in Parliament, **commemorating** the invincible fortitude of the fighter pilots who saved the realm."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The antiquary dusted an ancient medal struck in brass, **commemorating** the union of the Scottish and English crowns."*

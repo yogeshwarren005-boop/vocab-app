@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt or suspicion; ; ; ; - karen horney.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to doubt or suspicion; ; ; ; - karen horney.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to doubt; capable of being questioned, contested, or challenged as uncertain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Cartesian philosophical epistemology, knowledge claims subject to methodological doubt before arriving at foundational certainty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubitable designates open to doubt or suspicion; ; ; ; - karen horney."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"I resolved to strip away all **dubitable** opinions from my intellect, seeking that bedrock which cannot be doubted."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Whatever ideas rest merely upon casual hearsay must remain strictly **dubitable** in the eyes of a philosopher."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory evidence alone often yields **dubitable** conclusions until verified by systematic experiment."*

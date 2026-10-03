@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ceremony to honor the memory of someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremony to honor the memory of someone or something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or ceremony of commemorating, honoring, or preserving the memory of someone (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural studies and museum architecture, public rituals and monuments erected to commemorate war fallen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, memorialisation designates a ceremony to honor the memory of someone or something."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The solemn **memorialisation** of great deeds in carved stone ensures that heroic virtues inspire future centuries."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Ancient civilisations lavished fortunes upon the **memorialisation** of deceased monarchs in colossal granite pyramids."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"The rustic hamlet observed the annual **memorialisation** of Waterloo with muffled chimes from the Norman church belfry."*

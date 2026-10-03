@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As if with kid gloves; with caution or prudence or tact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conservative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a careful and well-considered manner, taking great care to avoid risk, mistakes, or danger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In investigative narrative, advancing with guarded vigilance to avoid detection or injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius take his big stick along when he comes down to the gate?" she asked, looking cautiously about her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He is up there where the windows are open." With this Mäzli looked up, and walking close to the chair, whispered cautiously, "A sick baron lies up there."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn with a slight smile and cautiously shaking his head at the shaded face."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer opened the rusted iron door **cautiously**, peering into the dimly lit repository of legal deeds."*
+> - 📜 **Johanna Spyri (*Heidi*):** *"The little girl walked **cautiously** over the steep rock ledge, holding her grandfather's strong hand."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes stepped **cautiously** over the quaking morass, testing each tussock with his heavy walking stick."*

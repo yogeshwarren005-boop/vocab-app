@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not worth remembering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not worth remembering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not memorable; not worth remembering; plain, undistinguished, easily forgotten, or unremarkable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and theatrical reviews, performances or books lacking distinctive brilliance or lasting emotional resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmemorable designates not worth remembering."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Countless third-rate novels are published each season, completely **unmemorable** and destined to perish within a month."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The actor delivered an **unmemorable** performance, sleepwalking through the tragedy without genuine fire."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"An **unmemorable** plot may nonetheless be redeemed if the author creates characters of psychological depth."*

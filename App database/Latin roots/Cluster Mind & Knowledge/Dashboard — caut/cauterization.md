@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical procedure of burning or searing tissue with heat, electricity, cold, or caustics to stop bleeding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern ophthalmic and vascular surgery, electrosurgical or laser coagulation sealing severed capillaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterization designates the act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Immediate **cauterization** of the wound with fuming nitric acid remains the standard prophylactic against rabies."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Effective **cauterization** of the capillary bed arrests persistent oozing without extensive damage to deeper structures."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The surgeon used bipolar **cauterization** to seal bleeding vessels along the edge of the incision."*

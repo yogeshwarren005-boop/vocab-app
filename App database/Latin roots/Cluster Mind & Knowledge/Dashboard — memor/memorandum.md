@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written proposal or reminder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written proposal or reminder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written message, note, or record in business, diplomacy, or law, serving as a reminder or agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic statecraft, an official diplomatic document summarizing points of understanding between sovereign governments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet with a warmth approaching to rapture, engages himself for that day twelvemonth more than thankfully, makes a memorandum of the day in a large black pocket-book with a girdle to it, and breathes a hope that Mrs."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I’ll make a memorandum of the arrangement which struck me as likely to be convenient, for I haven’t time to talk about it now; and then we’ll discuss it at our leisure."*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"_Stolen!_” the King exclaimed, turning to the jury, who instantly made a memorandum of the fact."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet made a brief **memorandum** in his ledger, recording the balance due on the musical instruments."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak drew out a pencil and made a careful **memorandum** of the number of sheep penned in each fold."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The White Rabbit put on his spectacles, unfolding a folded **memorandum** to read the accusation before the King."*

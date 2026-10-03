@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unsure of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsure of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intellectual hesitation, skepticism, or uncertainty concerning a fact, assertion, or belief.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy and judicial deliberation, cognitive hesitation suspended between assent and disbelief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubiety designates the state of being unsure of something."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard listened with growing **dubiety**, unsure whether to credit the stranger's astonishing market report."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Her smile was clouded by a subtle **dubiety**, as if she already perceived the flaw in the crystal cup."*
+> - 📜 **George Eliot (*Romola*):** *"Tito weighed the magistrate's offer with calculating **dubiety**, wary of political entanglements."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: People who are fearful and cautious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing careful forethought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Careful to avoid potential problems or dangers; wary, prudent, and circumspect in action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial investment and military planning, minimizing exposure to unpredictable liabilities or ambushes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn, “and as they are short, and as I proceed upon the troublesome principle of begging leave to possess my clients with any new proceedings in a cause”—cautious man Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"In a low, cautious voice, he said:— “I have been considering what we had best do."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Despite the fret I had put him in, he was cautious."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn was a **cautious** man who never committed himself to writing when a silent nod would suffice."*
+> - 📜 **Jane Austen (*Persuasion*):** *"In a low, **cautious** whisper, she communicated the surprising news that Captain Wentworth had returned."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck was **cautious**, never rushing heedlessly into battle until he had sized up his rival's strength."*

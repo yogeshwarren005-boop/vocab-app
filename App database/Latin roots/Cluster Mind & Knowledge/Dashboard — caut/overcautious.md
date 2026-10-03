@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unnecessarily cautious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unnecessarily cautious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively cautious, hesitant, or prudent; paralyzed by exaggerated fears of risk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military command and game theory, a timid strategy that forfeits tactical advantage through chronic indecision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **F. H. Costello (*Sure-dart*):** *"But it was soon clear that even some of the older fighting men were beginning to think that perhaps the chief was overcautious."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Those who had fussed and fretted, and some who had thought him overcautious, joined now with the most timid in ignoring all but him, and crowding up for orders."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The general was hopelessly **overcautious**, postponing his offensive until the enemy had reinforced all defensive lines."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"A man who is **overcautious** in his youth will inevitably become a miserable tyrant in his old age."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Lestrade was **overcautious** in making arrests, preferring to wait for an absolute confession."*

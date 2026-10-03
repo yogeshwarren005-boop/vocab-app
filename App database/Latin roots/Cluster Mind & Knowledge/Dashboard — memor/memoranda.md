@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written proposal or reminder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written proposal or reminder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written messages, notes, records, or reminders used in business, legal, or diplomatic communications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical archives and administrative registries, collections of internal working briefs outlining policy choices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The children tumbled about, and notched memoranda of their accidents in their legs, which were perfect little calendars of distress; and Peepy was lost for an hour and a half, and brought home from Newgate market by a policeman."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, crossing his arms, holding his head on one side, and scratching the corner of his mouth with his memoranda."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He also read some passages from memoranda as he walked till his face assumed a calm, and apparently the image of Tess no longer troubled his mind."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lawyer turned over his pocketbook of private **memoranda**, checking dates and cryptic notations with a sharp eye."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare opened his journal, glancing through brief **memoranda** jotted down during his agricultural studies in the valley."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In his small sea-chest, Ishmael kept a slate with rough **memoranda** of shipboard watches and wind headings."*

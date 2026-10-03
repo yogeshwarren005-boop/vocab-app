@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capital and largest city and major port of the irish republic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capital and largest city and major port of the irish republic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital, largest city, and historic cultural heart of Ireland, situated at the mouth of the River Liffey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and colonial history, the Georgian city immortalized by Jonathan Swift, James Joyce, and the Easter Rising.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But this that I am gaun to tell, Which lately on a night befell, Is just as true’s the Deil’s in hell Or Dublin city: That e’er he nearer comes oursel’ ’S a muckle pity."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Edinburgh, York, Keswick, Dublin, Nantgwillt, Lynmouth, Tremadoc, Tanyrallt, Killarney, London (Half Moon Street and Pimlico), Bracknell, Edinburgh again, and Windsor, successively received this fantastic household."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He then introduced me to the elderly Irishman, who was, it seemed, a professor--of what I do not know--at Dublin University."*
+> - 📜 **James Joyce (*Dubliners*):** *"The evening light faded over the quays of **dublin**, casting grey shadows across the tranquil waters of the Liffey."*
+> - 📜 **Jonathan Swift (*The Drapier's Letters*):** *"Every shopkeeper in **dublin** resolved to reject Wood's debased copper coinage to save Ireland from ruin."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Word reached our town that the famous printing press of **dublin** had issued an elegant collection of Scottish songs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who learns by rote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who learns by rote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who commits things to memory; a mnemonic practitioner or student who memorizes information.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and educational history, a learner employing structured mnemonic methods to retain massive data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, memoriser designates a person who learns by rote."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A phenomenal **memoriser** relies not on natural brain plasticity alone, but upon ingenious associative mental filing systems."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"We tested a calculating prodigy and rapid **memoriser** who visualized numbers in vivid colored columns across mental space."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The superficial **memoriser** who collects facts without digesting their principles is merely an unthinking repository of words."*

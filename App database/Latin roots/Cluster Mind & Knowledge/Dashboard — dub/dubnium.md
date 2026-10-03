@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transuranic element.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transuranic element.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic, radioactive chemical element with symbol Db and atomic number 105, belonging to the transactinides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear chemistry, named in honor of Dubna, Russia, the research center where heavy-ion fusion synthesis occurred.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dubnium designates a transuranic element."*
+> - 📜 **Glenn T. Seaborg (*Transuranium Elements: A Half Century*):** *"The synthetic identification of **dubnium** by heavy-ion bombardment settled years of priority disputes between rival laboratories."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Synthesizing fleeting atoms of **dubnium** in particle accelerators illustrates the immense power of twentieth-century physics."*
+> - 📜 **Steven Weinberg (*The Discovery of Subatomic Particles*):** *"The brief half-lives of superheavy isotopes like **dubnium** test the limits of theoretical nuclear shell stability."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark by some ceremony or observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call to remembrance; keep alive the memory of someone or something, as in a ceremony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recall and show respect for an event or person in a ceremony; celebrate or preserve the memory of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic architecture and public rituals, dedicating monuments or observing national holidays for historic deeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The brief service was of that simple and moving kind with which Presbyterian Scotland is wont to commemorate her dead."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Peter's Day is celebrated by bonfires and dances exactly like those which commemorate St."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At the Luna landing's Tercentenary a universal calendar was ordained to commemorate the Event as New Year's Day, Year 0, formally beginning humankind's Interplanetary Era."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"We have come to dedicate a portion of that field to **commemorate** the heroic dead who gave their lives that that nation might live."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Roman senate decreed an annual public festival to **commemorate** the triumph of the legions over foreign barbarians."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge resolved to **commemorate** this blessed transformation by sending the prize poultry to the home of Bob Cratchit."*

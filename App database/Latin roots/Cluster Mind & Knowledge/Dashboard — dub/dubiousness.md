@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unsure of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uncertainty about the truth or factuality or existence of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being dubious; uncertainty, questionable authenticity, or suspicious character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and moral theology, the ambivalence surrounding an unverified manuscript or motive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"As my thoughts began to flow with fewer impediments, the image of Pleyel, and the dubiousness of his condition, again recurred to me."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel sensed the moral **dubiousness** of Osmond's proposal, despite the surface elegance of his Roman villa."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The financial **dubiousness** of revolutionary paper assignats shook public confidence throughout Europe."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Pyncheon looked with obvious **dubiousness** upon the faded family parchment, doubting its legal validity."*

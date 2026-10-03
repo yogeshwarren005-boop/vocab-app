@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Address in a memorial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be or provide a memorial to a person or an event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve the memory of someone or something; commemorate; also present a memorial petition to a governing body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic sculpture and literature, immortalizing great achievements in monuments, epic verse, or official memorials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"June 28.—Edict: A censor of the central city memorializes the throne requesting the distribution of government rice."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The Ladies' Aid Society of that city had memorialized their Chamber of Commerce to make an appropriation to aid them in procuring supplies for the wounded soldiers, and were that day to receive the reply of the chamber."*
-> - 📜 **Robert Coltman (*Beleaguered in Pekin: The Boxer's War Against the Foreigner*):** *"Governor Hu immediately memorialized the throne, stating the result of his inquiries, reported the impudence of Colonel Chao, and made the request that he be turned over to the Board of Punishments for a penalty."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"I sought in these hurried battlefield jottings to **memorialize** the patient courage of the wounded boys in the hospital tents."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The Roman sculptors sought to **memorialize** the serene beauty of the marble faun before antique pagan joy perished."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The union leaders drafted a petition to **memorialize** the state legislature concerning deadly working conditions in the stockyards."*

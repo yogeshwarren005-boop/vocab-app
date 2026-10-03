@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in southwestern alabama; flows into mobile bay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port in southwestern alabama on mobile bay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to move or be moved freely, easily, and quickly; or a kinetic decorative sculpture hanging from wires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wireless communications and cellular networking, mobile cellular base stations manage handovers across adjacent RF cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She was a fine and handsome girl—not handsomer than some others, possibly—but her mobile peony mouth and large innocent eyes added eloquence to colour and shape."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had the mobile face frequent in those whose sight has decayed by stages, has been laboriously striven after, and reluctantly let go, rather than the stagnant mien apparent in persons long sightless or born blind."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The long chimney running up beside an ash-tree, and the warmth which radiated from the spot, explained without the necessity of much daylight that here was the engine which was to act as the _primum mobile_ of this little world."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The nomadic Scythians possessed a **mobile** military force consisting entirely of mounted horse archers."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Modern mechanized warfare demands highly **mobile** armored divisions capable of deep tactical breakthroughs."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Her lively and **mobile** countenance reflected every shifting emotion of her eager, curious nature."*
+

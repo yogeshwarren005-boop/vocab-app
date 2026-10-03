@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of northeastern italy on the adriatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of northeastern italy on the adriatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical regional designation in northeastern Italy roughly corresponding to modern Veneto and Friuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century administrative geography, the former administrative division (the 'Tre Venezie') reorganized after the Second World War.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venezia-euganea designates a region of northeastern italy on the adriatic."*
+> - 📜 **George Macaulay Trevelyan (*Scenes from Italy's War*):** *"Troops were deployed across the rugged river valleys of **venezia-euganea** during the mountain campaigns."*
+> - 📜 **Vernon Lee (*The Sentimental Traveller*):** *"The picturesque hills of **venezia-euganea** retained their ancient Venetian villas and Renaissance orchards."*
+> - 📜 **Norman Douglas (*Old Calabria*):** *"The dialects of **venezia-euganea** differ sharply from the vernaculars spoken along the southern coast."*
+

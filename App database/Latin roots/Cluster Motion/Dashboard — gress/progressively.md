@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advancing in amount or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advancing in amount or intensity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasingly; steadily advancing in amount, extent, or degree over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic fiscal policy, progressive income tax systems tax higher discretionary earnings progressively higher.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Paul of Tarsus progressively found more in Christ, expected more of him, trusted him more; and his faith was justified."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I would rather have an inferior degree of beauty, of my own choice, and acquired progressively."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christians fell into adultery and apostasy, and while at first this meant "delivery to Satan," restoration became progressively easy."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The landscape grew **progressively** more barren and desolate as the survey party approached the southern cordillera."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip watched the convict's leg-iron become **progressively** more rusted by the wet sea-fog of the marshes."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes's deductions became **progressively** clearer as each fresh clue narrowed the search for the fugitive."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to further or encourage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to further or encourage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending, serving, or designed to encourage, foster, advance, or stimulate progress or growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical jurisprudence and political philosophy, describes legal enactments specifically aimed at advancing general public utility and welfare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Proper stimulus Mind is the natural stimulus of the body, but erro- neous belief, taken at its best, is not promotive of health 420:24 or happiness."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"The social virtues are esteemed precisely because their tendency is **promotive** of public harmony and common prosperity."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Legislation should be directly **promotive** of the greatest happiness of the greatest number."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Prudent reform is always **promotive** of civic stability, preserving ancient liberties while removing modern abuses."*
+

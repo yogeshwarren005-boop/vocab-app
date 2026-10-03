@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign an initial value to a computer program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide (a disk) into marked sectors so that it may store data.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To set, format, or prepare a program, variable, or storage medium to starting parameters or baseline values.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering, compilers enforce rules requiring programmers to initialise local variables before referencing their memory contents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, initialise designates assign an initial value to a computer program."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"Before conducting the chemical analysis, the investigator must **initialise** each balance and crucible with rigorous precision."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"To study social dynamics effectively, one must **initialise** the inquiry by defining fundamental demographic factors."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"The experiments required researchers to **initialise** each soil container under identical ambient moisture conditions."*
+

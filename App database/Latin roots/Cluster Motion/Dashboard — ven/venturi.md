@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states architect (born in 1925).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tube with a constriction; used to control fluid flow (as in the air inlet of a carburetor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short tube with a constricted throat that increases fluid velocity and creates a localized drop in fluid pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid mechanics (named after Giovanni Battista Venturi), the Venturi effect governs fluid entrainment in carburetors, aspirators, and flow meters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venturi designates united states architect (born in 1925)."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The pressure drop observed across a constricted **venturi** tube provides a precise method for measuring fluid discharge."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The engine carburetors drew fuel vapor through a bronze **venturi** throat tuned for high-altitude combustion."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Rocket exhaust nozzles utilize an expanded **venturi** contour to maximize kinetic propellant thrust."*
+

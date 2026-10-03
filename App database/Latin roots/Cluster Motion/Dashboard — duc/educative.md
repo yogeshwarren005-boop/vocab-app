@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resulting in education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resulting in education.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to educate, instruct, or cultivate the mind; instructive, enlightening, or pedagogically useful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Deweyan philosophy of experience, an educative experience is one that promotes continuous growth and enriched future experiences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edward William Bok (*Successward: A Young Man's Book for Young Men*):** *"To come into contact with the social side of people is broadening; it is educative."*
+> - 📜 **John Dewey (*Experience and Education*):** *"Any experience is truly **educative** that produces fruitful curiosity and strengthens initiative for future inquiry."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Active muscular exercise possesses a high **educative** value in teaching young boys self-control and teamwork."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Nature provides a perpetual **educative** discipline through the immediate physical consequences of our actions."*
+

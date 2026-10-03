@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being painful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being painful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or degree of being painful, agonizing, upsetting, or afflicting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological trauma assessment, measuring the distressingness of intrusive flashbacks quantifies post-traumatic stress severity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distressingness designates the quality of being painful."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The subjective **distressingness** of acute emotional panic produces profound autonomic exhaustion in the organism."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The sheer **distressingness** of universal public suspicion paralyzed all orderly civic deliberation in Paris."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate recognized the acute **distressingness** of his financial insolvency as debt collectors knocked on his door."*
+

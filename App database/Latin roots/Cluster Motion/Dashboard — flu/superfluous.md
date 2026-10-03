@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving no useful purpose; having no excuse for being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More than is needed, desired, or required.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceeding what is sufficient, necessary, or normal; wasteful, redundant, or unnecessary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory interpretation, the surplusage canon instructs jurists to avoid readings that would render any statutory clause superfluous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar, ’tis his schoolmaster— An argument that he is plucked, when hither He sends so poor a pinion of his wing, Which had superfluous kings for messengers Not many moons gone by."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O my dear Gertrude, this, Like to a murdering piece, in many places Gives me superfluous death. [_A noise within._] QUEEN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It were superfluous, for his apparel is built upon his back, and the whole frame stands upon pins."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O my dear Gertrude, this, like to a murdering-piece, in many places gives me **superfluous** death."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Most of the luxuries, and many of the so-called comforts of life, are not only not indispensable, but positive hindrances to the elevation of mankind; they are **superfluous** baggage."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt that any further apology on Mr. Collins's part would be entirely **superfluous**."*
+

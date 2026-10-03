@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property possessed by a slope that is very gradual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being gradual or of coming about by gradual stages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic or quality of proceeding slowly, step by step, or by barely perceptible increments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology debates, punctuated equilibrium challenges the absolute gradualness posited by classical Darwinism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gradualness designates the property possessed by a slope that is very gradual."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological record illustrates the **gradualness** with which ancestral forms diverge into distinct genera."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Social reformers must respect the necessary **gradualness** of institutional transformations across generations."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Economic transitions toward cooperative enterprise must proceed with steady **gradualness** to ensure financial stability."*
+

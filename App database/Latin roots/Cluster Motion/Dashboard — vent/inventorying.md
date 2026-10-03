@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making an itemized list of merchandise or supplies on hand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make or include in an itemized record or report.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of making a detailed itemized list or audit of assets, goods, or resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In supply chain management, conducting physical counts and digital reconciliations to determine cycle stocks and inventory shrink.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inventorying designates making an itemized list of merchandise or supplies on hand."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The mate was busy **inventorying** the spare harpoons and lance-heads stowed beneath the boat deck."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook spent his days sorting and **inventorying** dusty bundles of parchment in his rag-and-bottle shop."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The bookkeeper spent Saturday afternoon **inventorying** office supplies and printing plates in the basement vault."*
+

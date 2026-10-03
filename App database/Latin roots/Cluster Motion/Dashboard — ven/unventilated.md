@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not ventilated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not ventilated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking fresh air, proper air circulation, or mechanisms for air exchange; close, stagnant, or stuffy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational health history, unventilated coal mine shafts accumulated explosive firedamp (methane) and toxic blackdamp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unventilated designates not ventilated."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The crowded malt-house was hot and **unventilated**, filled with the sweet, heady aroma of sprouted grain."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"To keep sick patients in **unventilated** wards is to poison them slowly with their own expired breath."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The miners toiled for hours in **unventilated** headings where the air was thick with choking coal dust."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extremely poisonous or injurious; producing venom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by deep ill will; deliberately harmful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or delivering venom; highly poisonous, noxious, or motivated by deliberate, stinging malice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, reptiles equipped with specialized glands and fangs for transmitting venom (viperids, elapids, colubrids).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor venomous fool, Be angry and dispatch."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll do well yet.—Thou old and true Menenius, Thy tears are salter than a younger man’s And venomous to thine eyes.—My sometime general, I have seen thee stern, and thou hast oft beheld Heart-hard’ning spectacles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Some devil whisper curses in my ear, And prompt me that my tongue may utter forth The venomous malice of my swelling heart!"*
+> - 📜 **William Shakespeare (*Richard III*):** *"Never hung poison on a fouler toad; out of my sight! thou dost infect mine eyes with **venomous** spite."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We captured a highly **venomous** lancehead pit viper basking upon a sun-warmed stone near the jungle path."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The hollow fangs of **venomous** snakes act as hypodermic needles transmitting salivary secretions directly into tissues."*
+

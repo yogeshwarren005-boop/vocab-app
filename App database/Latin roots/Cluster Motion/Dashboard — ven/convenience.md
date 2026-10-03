@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being suitable or opportune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being useful and convenient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The suitability, usefulness, or practical ease afforded by an arrangement; freedom from discomfort or difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial economics, goods or retail stores designed to reduce shopping effort and transaction friction for consumers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll beat him, by my life, if I can meet him with any convenience, an he were double and double a lord."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such is his noble purpose, and, believe’t, The duke will lay upon him all the honour That good convenience claims."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s further think of this, Weigh what convenience both of time and means May fit us to our shape."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins consulted his own **convenience** in every arrangement for the journey to Hunsford."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Money facilitates the **convenience** of exchange among merchants, banishing the clumsy obstacles of barter."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"We considered it conducive to the general **convenience** of all parties that the lodging should be taken."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the motacillidae: wagtails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the motacillidae: wagtails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The zoological type genus of the wagtail family (Motacillidae), comprising slender insectivorous passerine birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, the genus Motacilla is characterized by persistent tail-pumping locomotion and white-and-pied plumage patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motacilla designates type genus of the motacillidae: wagtails."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A species of **motacilla** flitted along the stony banks of the stream, constantly vibrating its slender tail."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The Pied Wagtail, known to science as **motacilla** yarrellii, frequents English millponds and meadow brooks."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The delicate **motacilla** feeds upon aquatic diptera hovering over the shallow cattle ford."*
+

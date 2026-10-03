@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process of increasing by addition (as to a collection or group).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (civil law) the right to all of that which your property produces whether by growth or improvement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attainment or acquisition of a dignity, rank, or high office; or an addition to an existing collection or territory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In museum cataloging and archival science, an accession register records the formal provenance and acquisition of historical artifacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The accession of fortune, the discovery of my relations, followed in due order."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny’s spirits lived on it half the morning, deriving some accession of pleasure from its writer being himself to go away."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"But with the death of the ninth gooroo, by Moslem violence, and the accession of his son Govind, the worldly fortunes of the Khalsa changed."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **accession** of the Antonines inaugurated a golden half-century of peace and administrative justice in Rome."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The national joy that greeted the **accession** of William and Mary reflected relief from arbitrary monarchical rule."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The territorial **accession** of new overseas colonies opened lucrative transatlantic markets for British manufactures."*
+

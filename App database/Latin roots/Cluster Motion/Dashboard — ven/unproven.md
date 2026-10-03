@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not proved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not proved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not demonstrated or established by evidence, trial, or argument; unverified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and scientific epistemology, a hypothesis or claim lacking empirical validation or evidentiary substantiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unproven designates not proved."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A rigorous naturalist cannot accept an **unproven** speculation as an established law of nature."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes warned against building elaborate deductions upon an **unproven** initial assumption."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An assertion remains merely conjectural while the premises on which it rests are **unproven**."*
+

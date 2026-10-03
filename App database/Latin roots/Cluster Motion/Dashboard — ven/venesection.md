@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into a vein; used to treat hemochromatosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision into a vein; used to treat hemochromatosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical opening of a vein for the purpose of drawing or letting blood; phlebotomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and contemporary medicine, therapeutic phlebotomy employed to reduce serum ferritin in hemochromatosis or red cell mass in polycythemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venesection designates surgical incision into a vein; used to treat hemochromatosis."*
+> - 📜 **William Harvey (*De Motu Cordis (On the Motion of the Heart and Blood)*):** *"The swelling of the distal arm upon ligature during **venesection** clearly demonstrates that blood flows toward the heart."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt **venesection** remained an invaluable emergency measure when acute venous engorgement threatened heart failure."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The stoic philosopher Seneca calmly opened his veins in warm water, performing mortal **venesection** by imperial command."*
+

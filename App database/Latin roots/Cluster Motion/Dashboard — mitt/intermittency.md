@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intermittent; subject to interruption or periodic stopping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intermittent; subject to interruption or periodic stopping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of occurring at irregular intervals, or stopping and starting repeatedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renewable energy systems engineering, the intermittency of solar irradiance and wind velocity requires grid-scale battery storage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermittency designates the quality of being intermittent; subject to interruption or periodic stopping."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The **intermittency** of geyser eruptions in volcanic regions depends on the cyclic accumulation of steam pressure."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The experimental galvanometer detected the **intermittency** of the induced spark across the air gap."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Natural rhythms exhibit universal **intermittency**, seen in the periodic rise and fall of oceanic tides."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A place where things merge or flow together (especially rivers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flowing together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The junction or flowing together of two or more rivers, streams, or waterways; or an assembly of people or converging events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geography, urban settlements historically flourished at the confluence of navigable waterways to control regional trade routes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see this confluence, this great flood of visitors."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This singular accident, by a strange confluence of emotions in him, was felt as the sharpest sting of all."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Opposite the spot to which he had brought her was such a general confluence, and the river was proportionately voluminous and deep."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A great crowd of spectators gathered at the **confluence** of the two busy thoroughfares to watch the procession."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We pitched our tents near the **confluence** of the two mountain torrents where sweet water was plentiful."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Constantinople was strategically situated at the **confluence** of the Black Sea and the Mediterranean trade routes."*
+

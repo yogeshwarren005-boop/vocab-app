@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being lengthened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being lengthened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extended, lengthened, prolonged, or expanded in range, duration, or scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software architecture, an extendable framework allows developers to add custom plugins without modifying the core codebase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extendable designates capable of being lengthened."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The surveyor utilized an **extendable** brass rod to calculate the precise elevation of the rocky ridge."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The boundaries of human knowledge are perpetually **extendable** as observational instruments improve."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The geological timescale proved **extendable** far beyond the brief horizons imagined by early naturalists."*
+

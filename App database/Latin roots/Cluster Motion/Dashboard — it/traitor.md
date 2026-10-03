@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who betrays his country by committing treason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who says one thing and does another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who betrays a trust, duty, friend, cause, or country by committing treason or disloyalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English legal history, the Treason Act of 1351 defined an attainted traitor as one who levied war against the king or adhered to the king's enemies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A traitor you do look like, but such traitors His majesty seldom fears; I am Cressid’s uncle, That dare leave two together."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet your mistrust cannot make me a traitor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she be a traitor, Why, so am I."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"What is a **traitor**? Why, one that swears and lies, and breaks his sacred allegiance."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Stand forth, false knight and **traitor**, and answer before this assembly for thy base treachery!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Senate unanimously condemned the disgraced general as a public **traitor** to the republic."*
+

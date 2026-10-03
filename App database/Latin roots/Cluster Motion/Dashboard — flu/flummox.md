@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be a mystery or bewildering to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be a mystery or bewildering to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perplex, bewilder, baffle, confound, or thoroughly confuse someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English dialectology, the colloquial verb flummox originated in nineteenth-century regional vernacular before entering literary slang via Dickens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flummox designates be a mystery or bewildering to."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The unexpected cross-examination did so **flummox** the elderly witness that he contradicted his own affidavit."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The contradictory tracks around the garden wall seemed destined to **flummox** the Scotland Yard detectives."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The sudden arrival of the rival corn factor managed to **flummox** Henchard's commercial schemes."*
+

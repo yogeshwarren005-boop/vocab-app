@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that propels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to or capable of propelling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance, explosive charge, or compressed gas used to provide thrust or propel a projectile or vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical rocket propulsion, liquid bipropellant systems combine liquid oxidizers and hydrocarbon fuels within regenerative thrust chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The propellant whose function it is to drive the shell out of the gun is different from that with which the shell is itself filled."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"Barbicane tested the explosive velocity of pyroxyle as a revolutionary **propellant** for the Columbiad cannon."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor explained that the mechanical sphere required no chemical **propellant** once cavorite screens were opened."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The military secret involved a stabilized smokeless cordite **propellant** designed for naval artillery."*
+

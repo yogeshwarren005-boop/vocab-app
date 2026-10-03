@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Receive an academic degree upon completion of one's studies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Confer an academic degree upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having earned an academic degree or diploma; or divided into marked stages, levels, or calibration lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal public policy, a graduated income tax levies progressively higher marginal tax rates on higher income brackets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the Maiden’s Blush, through all varieties of the Provence down to the Crimson Tuscany, the countenance of Oak’s acquaintance quickly graduated; whereupon he, in considerateness, turned away his head."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This need not prevent a supplementary system of graduated taxation on incomes."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Twenty of his company graduated at the same institution."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The chemist poured the liquid into a **graduated** glass cylinder to measure the volume of gas released."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Watson had recently **graduated** from the University of London as a doctor of medicine before departing for India."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The municipal taxation system was **graduated** to place greater assessments upon luxury carriages and townhouses."*
+

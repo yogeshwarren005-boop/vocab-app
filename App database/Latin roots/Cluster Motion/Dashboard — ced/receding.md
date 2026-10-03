@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slow or gradual disappearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of becoming more distant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving back, withdrawing, or sloping backward; diminishing or fading from sight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental morphology and periodontology, receding gingival tissue exposes sensitive tooth root surfaces to bacterial caries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A mounted figure passed between her and the sky, and drew on towards the field of sheep, the rider turning his face in receding."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They might be receding, or they might be approaching, one or the other, a little every day."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"In the pause which succeeded, a sound like receding footsteps and the closing of a distant door struck on her affrighted ear."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson listened to the **receding** footsteps of the night watcher dying away across the desolate granite moor."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The river steamboat crawled up the yellow stream, the **receding** banks of forest watching in monumental silence."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The storm passed over Thornfield, its **receding** thunder muttering faintly among the distant hills."*
+

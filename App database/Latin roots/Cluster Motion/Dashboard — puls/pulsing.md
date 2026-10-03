@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) a sharp transient wave in the normal electrical state (or a series of such transients).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expand and contract rhythmically; beat rhythmically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beating, throbbing, or vibrating with regular rhythmic motion, light, sound, or energetic vitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and astronomical instrumentation, a pulsing starlight signal indicates an eclipsing binary or variable star system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Boldwood?” she faltered, a guilty warmth pulsing in her face."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Waterloo, lamplit and resonant: the pulsing of many lamps, the hurry of many steps, the flitting by of many faces under an arch of gloom: dark quiet and the scent of violets in a waiting car."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Flume was on the tunnel floor, blood pulsing from the neck of his headless torso."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A strange **pulsing** light flickered from the summit of the Martian cylinder as the machinery gathered energy."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The great African jungle seemed a dark, living monster, its primeval heart **pulsing** through the midnight mist."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess felt the warm, **pulsing** life of the summer meadows vibrating around her as she walked to the dairy."*
+

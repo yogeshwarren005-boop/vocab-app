@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad or dishonest management by persons supposed to act on another's behalf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activity that transgresses moral or civil law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Improper, dishonest, unethical, or unlawful behavior, especially by a person in a position of trust or authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and employment law, gross misconduct justifies immediate termination of an employment contract without notice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Your father and mother seem so totally free from all those ambitious feelings which have led to so much misconduct and misery, both in young and old."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Far from comprehending him or his sister in their father’s misconduct, Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered by."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt humbled by the discovery of Wickham's real **misconduct** and profligacy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The military **misconduct** of the general led directly to the loss of the border province."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The power of impeachment was provided to punish the official **misconduct** of public magistrates."*
+

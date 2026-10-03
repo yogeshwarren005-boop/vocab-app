@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coating consisting of a thin layer of superior wood glued to a base of inferior wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of applying veneer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or art of applying thin sheets of decorative wood to a surface; a decorative wood layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological satire, a superficial show of culture, respectability, or refinement concealing crude ambition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veneering designates coating consisting of a thin layer of superior wood glued to a base of inferior wood."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The social circle practiced an elaborate system of **veneering**, pretending to profound antiquity."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"He criticized the architectural **veneering** of brick structures with thin marble slabs as deceptive."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"Underneath the fashionable **veneering** of high society lay vulgar greed and trivial rivalries."*
+

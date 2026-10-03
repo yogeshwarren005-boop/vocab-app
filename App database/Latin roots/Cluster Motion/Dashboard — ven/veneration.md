@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of profound respect for someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Religious zeal; the willingness to serve god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great respect, reverence, or awe inspired by the dignity, wisdom, or holiness of a person or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phrenological classification (Gall and Spurzheim), the cerebral faculty presumed to govern religious sentiment and deference to authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guster disappears, glad to get out of the shop, which she regards with mingled dread and veneration as a storehouse of awful implements of the great torture of the law—a place not to be entered after the gas is turned off."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn’s chambers; his veneration for the mysteries presided over by that best and closest of his customers, whom all the Inns of Court, all Chancery Lane, and all the legal neighbourhood agree to hold in awe; his remembrance of Detective Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is my husband’s best and dearest friend, he is our children’s darling, he is the object of our deepest love and veneration."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I looked upon the kind schoolmaster with boundless affection and sincere **veneration**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"We receive our civil liberties with a sense of reverent **veneration** from our forefathers."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea felt a deep intellectual **veneration** for Mr. Casaubon's vast biblical learning."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of venting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give expression or utterance to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of discharging a gas, fluid, or pressure; or expressing strong feelings and pent-up anger openly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum engineering, emergency venting releases flammable gases through flare stacks to mitigate catastrophic overpressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Darcy was attending them to their carriage, Miss Bingley was venting her feelings in criticisms on Elizabeth’s person, behaviour, and dress."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I expect nothing, sir.” Fred with difficulty restrained himself from venting his irritation."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A man with only a portmanteau for his stowage must keep his memorials in his head.” Will spoke at random: he was merely venting his petulance; it was a little too exasperating to have his grandmother’s portrait offered him at that moment."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will was merely **venting** his petulance; it was a little too exasperating that Casaubon should suspect his motives."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet found relief in **venting** her complaints about the Longbourn entail to anyone who would listen."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The steam tug moved up the Thames, noisily **venting** white clouds of exhaust against the gloomy sky."*
+

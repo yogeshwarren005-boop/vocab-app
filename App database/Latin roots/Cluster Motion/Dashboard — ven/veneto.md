@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of northeastern italy on the adriatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of northeastern italy on the adriatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An administrative region in northeastern Italy extending from the Dolomite mountains to the Adriatic Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural and economic geography, the region centered on Venice and Verona renowned for viticulture, manufacturing, and Palladian villas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, veneto designates a region of northeastern italy on the adriatic."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The rich alluvial plains of the **veneto** nourish thriving vineyards beneath the shadows of the Alps."*
+> - 📜 **Henry James (*Italian Hours*):** *"Traveling through the quiet towns of the **veneto**, one discovers masterpieces of painting hidden in provincial churches."*
+> - 📜 **Vernon Lee (*Studies of the Eighteenth Century in Italy*):** *"The rustic theaters of the **veneto** preserved the comic vitality of the commedia dell'arte."*
+

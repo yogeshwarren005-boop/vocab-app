@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of removing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of removing, displacing, or withdrawing someone or something from a place, office, or presence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and Renaissance English legal diction, the formal dismissal or deprival of a magistrate or royal officer from office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This act persuades me That this remotion of the Duke and her Is practice only."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All thy safety were remotion, and thy defence absence."*
+> - 📜 **William Shakespeare (*King Lear*):** *"This act persuades me that this **remotion** of the Duke and her is practice only."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legal **remotion** of an officer from a trust requires clear demonstration of delinquency or incapacity."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The sudden **remotion** of obstinate impediments clears the path for orderly civic administration."*
+

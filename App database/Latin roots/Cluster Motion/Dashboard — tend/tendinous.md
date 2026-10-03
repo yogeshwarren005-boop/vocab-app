@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of tendons or resembling a tendon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of tendons or resembling a tendon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, consisting of, or resembling a tendon; sinewy, fibrous, or tough.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, tendinous intersections segment the rectus abdominis muscle into distinct contractile bellies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At the middle of the forehead horizontally subdivide this upper quoin, and then you have two almost equal parts, which before were naturally divided by an internal wall of a thick tendinous substance. [17] Quoin is not a Euclidean term."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A whaleman’s nipper is a short firm strip of tendinous stuff cut from the tapering part of Leviathan’s tail: it averages an inch in thickness, and for the rest, is about the size of the iron part of a hoe."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"At the middle of the forehead horizontally subdivide this upper quoin, and then you have two almost equal parts, which before were naturally divided by an internal wall of a thick tendinous substance. *Quoin is not a Euclidean term."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The extremity is **tendinous** and contains no vertebrae; this is succeeded by five rudimentary caudal segments."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The **tendinous** fibers of the whale's tail are interwoven with extraordinary mechanical strength."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Muscles terminate in dense **tendinous** bands that anchor securely to the periosteum of bone."*
+

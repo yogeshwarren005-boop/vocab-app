@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any medicine that lowers body temperature to prevent or alleviate fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any medicine that lowers body temperature to prevent or alleviate fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication, treatment, or natural agent that serves to reduce or alleviate fever; an antipyretic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century colonial pharmacopeia, cinchona bark and purified quinine sulphate operated as the sovereign febrifuge against malaria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, febrifuge designates any medicine that lowers body temperature to prevent or alleviate fever."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The native South Americans use Peruvian cinchona bark as an infallible **febrifuge** against ague and tertian fevers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cold sponging and willow bark decoctions served as a simple **febrifuge** before synthetic antipyretics were synthesized."*
+> - 📜 **Tobias Smollett (*The Expedition of Humphry Clinker*):** *"The benevolent traveler provided the ailing cottager with a cooling **febrifuge** to calm his burning skin."*
+

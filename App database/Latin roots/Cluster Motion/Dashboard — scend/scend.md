@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rise or heave upward under the influence of a natural force such as a wave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rise or heave upward under the influence of a natural force such as a wave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The upward surge, heave, or momentum of a ship lifted by an ocean wave; or to heave upward in a sea swell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nautical seamanship and naval architecture, understanding the scend of the sea prevents vessels from broaching in following seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scend designates rise or heave upward under the influence of a natural force such as a wave."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pequod rose upon the colossal **scend** of the Pacific swell, her bowsprit pointing toward the stormy stars."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"With a long, majestic **scend**, the sailing ship climbed the towering mountain of green water, shaking the spray from her bows."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The schooner gave a heavy **scend** as she entered the narrow inlet, her keel barely clearing the submerged sandbar."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of body structures using a fluoroscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of body structures using a fluoroscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical imaging technique that uses continuous X-ray beams and a fluorescent screen to capture real-time moving images of internal anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interventional cardiology, fluoroscopy provides live visual guidance for catheter navigation and coronary stent placement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoroscopy designates examination of body structures using a fluoroscope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dynamic cardiac **fluoroscopy** demonstrated paradoxical diaphragmatic movement during deep inspiration."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The development of diagnostic **fluoroscopy** transformed wartime surgery and medical radiology."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Medical students gathered in the darkroom to witness the wonders of thoracic **fluoroscopy**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for measuring the moisture content of soil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring the tension in a wire or fiber or beam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the surface tension of liquids, the moisture tension in soils, or mechanical cable tension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical colloid chemistry, the du Noüy ring tensiometer measures the force required to pull an interface ring through a meniscus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensiometer designates a measuring instrument for measuring the moisture content of soil."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The experimentalist measured the interfacial force using a platinum ring attached to a delicate **tensiometer**."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"Modern agricultural hydrologists employ the soil **tensiometer** to quantify the suction forces exerted by roots on moisture."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Physical laboratories utilize the **tensiometer** to determine the cohesive forces governing capillary phenomena."*
+

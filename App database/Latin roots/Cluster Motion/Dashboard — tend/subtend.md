@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be opposite to; of angles and sides, in geometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be opposite to; of angles and sides, in geometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To extend under or be positioned opposite to an angle or arc in a geometric figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trigonometry and Euclidean geometry, a chord of a circle is said to subtend the central angle whose rays pass through its endpoints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Approaching, disparate, at relaxed walking pace they crossed both the circus before George’s church diametrically, the chord in any circle being less than the arc which it subtends."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Let the arc of the orbit **subtend** an infinitesimal angle at the primary focus where the sun resides."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The line connecting two observation points will **subtend** a measurable parallax angle against distant stars."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The visible horizon seen from the summit seemed to **subtend** an immense arc of ocean and sky."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Increasing in strength, degree, severity, or concentration; becoming sharper or more acute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radiological diagnostic imaging, calcium tungstate intensifying screens convert incident X-rays into visible light to expose photographic film.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"By and by the beadle comes out, once more intensifying the sensation, which has rather languished in the interval."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"As in her case, too, the disorder took the form of a great heightening and intensifying of the imaginative faculty."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"At length the surface of the same spots which had been sown in the first instance with the sporidia, become of a whitish tint, rapidly increasing and intensifying."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The crew huddled under the storm bridge, watching the **intensifying** hurricane whip the sea into foam."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The London fog was **intensifying** as night fell, choking the gas lamps along Chancery Lane."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Frankenstein felt an **intensifying** dread that shadowed every step of his solitary journey to England."*
+

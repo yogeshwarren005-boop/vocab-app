@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpleasantly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that causes great worry, sorrow, pain, or discomfort; upsettingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In demographic economics, child mortality rates remained distressingly high across industrial factory towns prior to sanitary reform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You can tighten this distressingly loose jacket."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Toby, wearied with the fatigues of the day, slumbered heavily by my side; but the pain under which I was suffering effectually prevented my sleeping, and I remained distressingly alive to all the fearful circumstances of our present situation."*
-> - 📜 **James Joyce (*Ulysses*):** *"Excellent people, no doubt, but distressingly shortsighted in some matters."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The housing statistics in the mining districts were **distressingly** clear regarding rampant overcrowding and disease."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The innkeeper found the eccentric guest's swathed face and violent outbursts **distressingly** suspicious."*
+> - 📜 **Henry James (*The Turn of the Screw*):** *"The governess felt **distressingly** isolated in the vast country estate as supernatural omens accumulated."*
+

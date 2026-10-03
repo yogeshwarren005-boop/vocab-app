@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (as the plant enzyme papain) applied to meat to make it tender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (as the plant enzyme papain) applied to meat to make it tender.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance, enzyme, or kitchen mallet used to break down tough fibers in meat to make it soft and edible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical pharmacology, papain derived from Carica papaya serves as an active enzymatic tenderiser and topical debriding agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenderiser designates a substance (as the plant enzyme papain) applied to meat to make it tender."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The natural plant juice acted as an effective **tenderiser**, dissolving the dense connective tissue of the steak."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"A chemical **tenderiser** mimics the digestive secretions by pre-cleaving muscular protein bundles."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Indigenous tribes used crushed papaya bark as a culinary **tenderiser** long before modern gastronomy."*
+

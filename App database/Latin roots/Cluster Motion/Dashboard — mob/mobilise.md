@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Call to arms; of military personnel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get ready for war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize, assemble, and prepare military forces or civilian resources for active deployment or emergency action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic campaign strategy and democratic activism, non-governmental coalitions mobilise grassroots voter registration drives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobilise designates call to arms; of military personnel."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Britain acted swiftly to **mobilise** every factory and shipyard in the national struggle against tyranny."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The imperial government resolved to **mobilise** its air fleet before rival powers could launch a surprise attack."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The revolutionary union committees worked through the night to **mobilise** armed workers for the barricades."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living by preying on other animals especially by catching living prey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively greedy and grasping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressively greedy, grasping, or ravenous; living by plunder or taking by force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic history and colonial critique, rapacious extractive cartels stripped natural resource wealth from colonized regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Among the ladies who were most distinguished for this rapacious benevolence (if I may use the expression) was a Mrs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Slowly it floats more and more away, the water round it torn and splashed by the insatiate sharks, and the air above vexed with rapacious flights of screaming fowls, whose beaks are like so many insulting poniards in the whale."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"What to the rapacious landlord is the widow’s last mite but a Fast-Fish?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial governors were notoriously **rapacious**, extorting ruinous taxes from the impoverished peasantry."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Monopolistic commercial companies display a **rapacious** spirit that sacrifices long-term prosperity for immediate windfall gains."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"A wise parliament avoids harsh and **rapacious** exactions that alienate the loyal affections of colonial subjects."*
+

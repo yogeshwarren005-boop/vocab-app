@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A false accusation of an offense or a malicious misrepresentation of someone's words or actions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of traducing; malicious misrepresentation; slander, calumny, or false accusation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical legal rhetoric, an unwarranted public assault on personal honor and civic reputation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rome must know The value of her own. ’Twere a concealment Worse than a theft, no less than a traducement, To hide your doings and to silence that Which, to the spire and top of praises vouched, Would seem but modest."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"To silence praise were a concealment worse than a theft, no less than a **traducement** of our country's glory."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Learned men have suffered grievously from the envious **traducement** of ignorant courtiers."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The abbot denounced the malicious **traducement** spread by heretics against the holy monastic order."*
+

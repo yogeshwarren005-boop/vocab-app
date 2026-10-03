@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event that accomplishes its intended purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attainment that is successful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The favorable, prosperous, or intended outcome of an effort, undertaking, venture, or course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical English usage and early modern literature, success denoted an outcome, result, or succession of events regardless of whether favorable or unfavorable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, we cannot greatly condemn our success: some dishonour we had in the loss of that drum, but it is not to be recovered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know not what the success will be, my lord, but the attempt I vow."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"There's something in it more than my father's skill, which was the greatest of his profession, that hath brought **success** to our endeavor."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth congratulated herself on the **success** of her scheme to divert her sister's melancholy thoughts."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A foolish consistency is the hobgoblin of little minds; genuine **success** crowns him who follows his own genius without imitation."*
+

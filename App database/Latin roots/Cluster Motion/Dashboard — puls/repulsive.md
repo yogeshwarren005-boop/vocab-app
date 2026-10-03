@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive to the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing the ability to repel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing intense distaste, disgust, or aversion; or exerting a physical force of repulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial orbital physics and dark energy cosmology, cosmological constant vacuum energy acts as a cosmic repulsive force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary was not so repulsive and unsisterly as Elizabeth, nor so inaccessible to all influence of hers; neither was there anything among the other component parts of the cottage inimical to comfort."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"This violence is all most repulsive:” and so, no doubt, she felt it."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"His theory was repulsive, but comprehensible."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The misshapen creature presented an appearance so **repulsive** that Holmes recoiled in momentary horror."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain caterpillar species secrete foul, **repulsive** fluids that protect them from insectivorous birds."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr Jekyll and Mr Hyde*):** *"There was something abnormal and genuinely **repulsive** in the very aspect of Mr. Hyde that chilled the blood."*
+

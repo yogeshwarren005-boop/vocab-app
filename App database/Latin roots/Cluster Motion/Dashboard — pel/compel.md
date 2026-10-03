@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force somebody to do something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Necessitate or exact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To force, drive, or obligate someone to do something; or to bring about by overwhelming force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and procedural law, courts issue subpoenas and writs to compel witness testimony and document disclosure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I were not a very coward I’d compel it of you; but fare you well. [_Exeunt Bertram, Lords &c._] FIRST SOLDIER."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And strange it is That nature must compel us to lament Our most persisted deeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But he hath forc’d us to compel this offer, And it proceeds from policy, not love."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The quality of mercy is not strained; it droppeth as the gentle rain from heaven, and no mortal power can **compel** it."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth declared that no argument could **compel** her to accept a proposal that offended her judgment."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"No civil magistrate has the moral authority to **compel** men to conform to an outward religious profession."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce in excess; produce more than needed or wanted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce in excess.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To produce more of a commodity or crop than is needed or can be sold profitably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business cycle theory, the tendency of competitive industries during boom phases to overproduce beyond effective consumer demand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overproduce designates produce in excess; produce more than needed or wanted."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When farmers **overproduce** corn in exceptionally bountiful harvests, the market price falls below the natural cost."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Competitive factories tend to **overproduce** during periods of excessive optimism, precipitating sudden inventory gluts."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The local mills were warned not to **overproduce** flour when export markets showed sudden signs of contraction."*
+

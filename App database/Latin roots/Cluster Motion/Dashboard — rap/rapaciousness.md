@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme gluttony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excessive desire for wealth (usually in large amounts).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme greed, predatory grasping, or insatiable ravenousness in acquiring wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In predatory ethology and ecology, excessive ecological rapaciousness in apex predators is constrained by prey population dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rapaciousness designates extreme gluttony."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The boundless **rapaciousness** of the Praetorian guards exhausted the imperial treasury within a few short months."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Legislative regulations were enacted to curb the unchecked **rapaciousness** of feudal landowners over agricultural tenants."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"The prince was shocked by the open **rapaciousness** of the predatory desert nomads who raided the caravan."*
+

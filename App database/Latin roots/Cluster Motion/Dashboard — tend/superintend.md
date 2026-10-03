@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Watch and direct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watch and direct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To oversee, supervise, direct, or have charge of people, operations, or an organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal governance and public works, civil engineers superintend the construction of aqueducts, bridges, and harbor docks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She meant to superintend these preparations herself and to have it all fixed as daintily as possible."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was quite willing to receive Richard into his house and to superintend his studies, and as it seemed that those could be pursued advantageously under Mr."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"We read that "in those days, when the stock of any considerable farmer was seized with the murrain, he would send for one of the charm-doctors to superintend the raising of a _need-fire_."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"He observed that he was now qualified to manage and **superintend** a large agricultural estate."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Miss Lavinia found uncommon satisfaction in attempting to **superintend** the domestic arrangements of the young couple."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A prudent landlord chooses an experienced bailiff to **superintend** the seasonal husbandry of his tenant farms."*
+

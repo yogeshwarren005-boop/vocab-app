@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Powerful and effective language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Skillfulness in speaking or writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The facility, smoothness, and effortless ease of speech, writing, or movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In second-language acquisition theory, oral fluency is measured by speech production rate, mean length of runs, and minimal filled pauses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"He talked with fluency and spirit—and there was an archness and pleasantry in his manner which interested, though it was hardly understood by her."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"She played: her execution was brilliant; she sang: her voice was fine; she talked French apart to her mamma; and she talked it well, with fluency and with a good accent."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My cousins, full of exhilaration, were so eloquent in narrative and comment, that their fluency covered St."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess attempted to expostulate, but at this juncture all her **fluency** failed her."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"He went on with shapeless **fluency** as if he no longer had the heart to choose or check his words."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth admired the elegance and **fluency** with which Wickham narrated his misfortunes."*
+

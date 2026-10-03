@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uneventful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an uneventful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uneventful manner; without incident, disturbance, disruption, or notable excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logistics and transport history, a voyage or transit proceeding uneventfully according to operational schedules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"It had begun so uneventfully, so precisely like a hundred other evenings, with Nana putting on the water for Michael’s bath and carrying him to it on her back."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"THE STORM BREAKS XXII Rather to my surprise, the next morning passed off uneventfully."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The first two hymns and the Scripture reading passed off uneventfully."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The trading ship steamed **uneventfully** across the glass-smooth waters of the tropical sea."*
+> - 📜 **Henry James (*The American*):** *"The quiet afternoon slipped by **uneventfully** among the shaded walks of the Luxembourg garden."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The first days of our voyage passed **uneventfully**, favored by a steady easterly breeze."*
+

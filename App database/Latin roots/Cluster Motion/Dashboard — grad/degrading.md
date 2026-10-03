@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce the level of land, as by erosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in worth or character, usually verbally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing a loss of self-respect or social standing; humiliating; or breaking down matter into simpler components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical critique and labor economics, sweatshop working conditions subject factory laborers to degrading environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He thought it a very degrading alliance; and Lady Russell, though with more tempered and pardonable pride, received it as a most unfortunate one."*
-> - 📜 **Jane Austen (*Persuasion*):** *"If Mrs Clay were a very beautiful woman, I grant you, it might be wrong to have her so much with me; not that anything in the world, I am sure, would induce my father to make a degrading match, but he might be rendered unhappy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To her and her like, birth itself was an ordeal of degrading personal compulsion, whose gratuitousness nothing in the result seemed to justify, and at best could only palliate."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The extreme squalor of the coal-mining tenements had a deeply **degrading** effect upon the health of the families."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane refused to accept a dependent position that she regarded as morally **degrading** to an honest mind."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The monotonous drudgery of the Coketown mills was pronounced a **degrading** influence upon the human spirit."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With distress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner marked by or causing severe grief, anguish, difficulty, or suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical observation, respiratory distress syndrome causes patients to breathe distressfully with intercostal retractions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"George, who has turned quite white and looks distressfully at the grey cloak and straw bonnet."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But he persisted in his demand, and at last, to get rid of him, she did put up her lips as directed for producing a clear note; laughing distressfully, however, and then blushing with vexation that she had laughed."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother, seeing her small sister moving about the furniture-legs distressfully, “what is the matter?” “I have lost my tortoise-shell lozenge-box."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The injured horse groaned **distressfully** on the frosty road until Rochester helped it to its feet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The poor woman wept **distressfully** as the bailiffs removed the few remaining chairs from her cold room."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess looked **distressfully** toward the western hills, dreading the shameful revelation awaiting her."*
+

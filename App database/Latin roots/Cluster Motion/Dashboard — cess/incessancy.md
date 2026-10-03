@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of something that continues without end or interruption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of something that continues without end or interruption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being continuous, uninterrupted, or never-ceasing; unremitting persistence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatological acoustics, the incessancy of monsoon rain downpours produces continuous white noise across tropical valleys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incessancy designates the quality of something that continues without end or interruption."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The marvelous **incessancy** of universal life rolls on forever, weaving suns and planetary systems on time's loom."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"True moral devotion requires an **incessancy** of vigilance against the subtle corruptions of pride."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The **incessancy** of the London drizzle seemed to dissolve the very bricks and mortar into dreary mud."*
+

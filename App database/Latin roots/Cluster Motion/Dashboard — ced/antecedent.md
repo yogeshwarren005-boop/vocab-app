@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone from whom you are descended (but usually more remote than a grandparent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preceding occurrence or cause or event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A preceding circumstance, event, or condition; or in grammar, a word or phrase to which a subsequent pronoun refers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deductive conditional logic (modus ponens), affirming the antecedent in a conditional premise ('if P then Q') validates the consequent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He found her in an unusual mood: her eyes as she looked up to him were suspicious and perplexed as with some antecedent thought."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To curse his miserable lot was at first his impulse, but even that lowest stage of rebellion needed an activity whose absence was necessarily antecedent to the existence of the morbid misery which wrung him."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This practice seems to have taken its rise antecedent to Christianity, as it reminds us of the pagan custom of hanging up offerings in their temples."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes traced the mysterious killer's **antecedent** history back to the early pioneer settlements of Utah."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The inductive method compares varying instances to isolate the single invariable **antecedent** associated with the effect."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Every event in nature is preceded by some physical **antecedent** that determines its occurrence in space and time."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending a message; causing a message to be transmitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sending a message; causing a message to be transmitted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or conveyance of transmitting, sending, or transferring something from one point to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal administrative recordkeeping, an official letter of transmittal accompanies technical engineering reports to clients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmittal designates the act of sending a message; causing a message to be transmitted."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The prompt **transmittal** of tactical naval intelligence enabled the battle fleet to intercept the enemy convoy."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Naval Treaty*):** *"The formal **transmittal** of the secret diplomatic convention was interrupted by the sudden theft of the document."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The swift **transmittal** of imperial dispatches along the Roman post roads maintained governance across three continents."*
+

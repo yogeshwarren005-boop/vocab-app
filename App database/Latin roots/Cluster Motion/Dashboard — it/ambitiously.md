@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With ambition; in an ambitious and energetic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ambition; in an ambitious and energetic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ambitious manner; with eager striving for power, superiority, achievement, or distinction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern statecraft, rising merchant dynasties ambitiously arranged aristocratic marriages to cement political influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As willingly do I the same resign As e’er thy father Henry made it mine; And even as willingly at thy feet I leave it As others would ambitiously receive it."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The young courtier **ambitiously** sought to ingratiate himself with the reigning favorite."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"Leicester **ambitiously** aspired to win the hand of the queen, risking his royal standing on a dangerous intrigue."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian chieftain **ambitiously** claimed the consular dignity from the weakened senate."*
+

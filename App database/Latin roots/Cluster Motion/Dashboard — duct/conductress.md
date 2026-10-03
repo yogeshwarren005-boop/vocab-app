@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman conductor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman conductor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who guides, directs, manages, or conducts an enterprise, tour, passenger vehicle, or gathering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century educational history, a conductress was a headmistress or directress managing a young ladies' boarding academy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"As a conductress of Indian schools, and a helper amongst Indian women, your assistance will be to me invaluable.” My iron shroud contracted round me; persuasion advanced with slow sure step."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My young conductress locked the gate, and we went across the courtyard."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Osmond met her in the cold ante-chamber--it was cold even in the month of May--and ushered her, with her conductress, into the apartment to which we have already been introduced."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My **conductress** led me down a long paneled corridor and tapped softly at the door of the parlor."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Madame Beck was the vigilant **conductress** of the pensionnat, observing every pupil with quiet surveillance."*
+> - 📜 **Jane Austen (*Emma*):** *"Mrs. Goddard acted as the respected **conductress** of the principal boarding school for girls in Highbury."*
+

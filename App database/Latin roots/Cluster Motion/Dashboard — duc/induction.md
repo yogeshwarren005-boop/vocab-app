@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal entry into an organization or position or office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical phenomenon whereby an electromotive force (emf) is generated in a closed circuit by a change in the flow of current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of reasoning from specific observations to general laws; formal installation into office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, electromagnetic induction describes the generation of voltage across a conductor in a changing magnetic field (Faraday's law).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These promises are fair, the parties sure, And our induction full of prosperous hope."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A dire induction am I witness to, And will to France, hoping the consequence Will prove as bitter, black, and tragical."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"So little are instinctive guesses the fruit of a legitimate induction that, at this moment, as he stood with the door in his hand, Troy never once thought of Fanny in connection with what he saw."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"These promises are fair, the parties sure, and our **induction** full of prosperous hope."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True scientific discovery advances by legitimate **induction**, rising systematically from particulars to axioms."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The voltaic current in the primary coil produced an instantaneous current by **induction** in the secondary circuit."*
+

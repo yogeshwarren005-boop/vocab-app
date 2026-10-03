@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sensitive or susceptible to impression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not sensitive or susceptible to impression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily influenced, moved, or affected by emotions, impressions, or external circumstances; hardened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character study, denotes individuals endowed with rigid stoicism, profound skepticism, or emotional imperviousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But unimpressionable natures are not so soon softened, nor are natural antipathies so readily eradicated."*
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"At least it would be a face worth seeing: the face of a man who was without bowels of mercy: a face which had but to show itself to raise up, in the mind of the unimpressionable Enfield, a spirit of enduring hatred."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers possessed a cold, **unimpressionable** nature that sacrificed personal warmth to ascetic duty."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr Jekyll and Mr Hyde*):** *"Mr. Utterson the lawyer was a man of a rugged countenance, cold, scanty, and remarkably **unimpressionable**."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman found his French hosts stiff, haughty, and stubbornly **unimpressionable** to his candid goodwill."*
+

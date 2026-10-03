@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of driving an automobile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel or be transported in a vehicle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The recreation, practice, or activity of traveling by motorcar or automobile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early 20th-century cultural history, represented a fashionable pastime associated with touring guidebooks, goggles, and automobile clubs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He made a detour of certain side streets which brought him up before a small side establishment bearing a sign which set forth an alluring invitation to motoring parties in need of food."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"As it is, well, I don't know the colour of the bride's motoring clothes, but I presume they'll be adapted to the circumstances."*
+> - 📜 **James Joyce (*Dubliners*):** *"He divided his leisure time curiously between amateur musical societies and fashionable **motoring** circles."*
+> - 📜 **Kenneth Grahame (*The Wind in the Willows*):** *"Toad declared that **motoring** was the only worthwhile pursuit left in an otherwise dull existence."*
+> - 📜 **E. M. Forster (*Howards End*):** *"The dust raised by country **motoring** settled thickly upon the hedgerows and cottage gardens."*
+

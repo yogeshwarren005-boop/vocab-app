@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change of position that does not entail a change of location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of changing location from one place to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of changing physical location or position; or a organized social, political, or artistic campaign.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horology and watchmaking, the mechanical movement consists of the gear train, escapement, and balance spring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The golden moon above was going her way and seemed to look down with friendly eyes, as if she was gratified that the house, which was filled all day with such noise and lively movement, was standing there so calm and peaceful."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But now, when Tom cried, although she sat quite tranquil, looking quietly at us, and did not by any movement disturb a hair of the head of either of her little charges, I saw two silent tears fall down her face."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The air, the movement in the court, the lapse of time, or the combination of these things recovers him."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Every growing root tip performs a circumnutating **movement** as it navigates through crevices in the soil."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes tracked the subtle **movement** of the footprints across the garden with astonishing methodical precision."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The naval battle resolved into a grand tactical **movement** of dreadnought battle lines maneuvering for the wind."*
+

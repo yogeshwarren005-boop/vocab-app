@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kingfishers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kingfishers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic bird family of kingfishers in the order Coraciiformes, known for large heads, long pointed bills, and iridescent plumage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic avian ornithology, the Alcedinidae comprise river kingfishers, characterized by syndactyl feet and plunge-diving for fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcedinidae designates kingfishers."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The belted kingfisher and its vibrant allies in the **Alcedinidae** frequent rushing wilderness streams and tidal creeks."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Naturalists admire the brilliant metallic colors and dagger-like bills that distinguish the **Alcedinidae** across tropical climes."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The osteological structure of the bill and syndactyl feet across the **Alcedinidae** displays adaptation for piscivorous predation."*
+

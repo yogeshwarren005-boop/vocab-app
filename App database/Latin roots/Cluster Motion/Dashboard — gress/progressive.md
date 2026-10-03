@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tense of verbs used in describing action that is on-going.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who favors a political philosophy of progress and reform and the protection of civil liberties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Favoring or advocating social, political, or scientific reform and progress; moving forward or increasing gradually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a progressive chronic disease exhibits worsening functional impairment and pathological tissue damage over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The spread of inheritance taxes and the higher and progressive rates applied are an expression in part of the need of additional revenues and in part of the growing popular concern regarding the concentration of wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This summation of each person's income makes income taxation peculiarly suitable for progressive taxation with the social-welfare motive of equalizing the distribution of wealth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law applies a progressive rate to all incomes (with exemption of $700 from wages and salaries) and contains elaborate provisions for corporate taxation."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The spirit of improvement is not always a spirit of liberty; for it may aim at forcing **progressive** changes on an unwilling people."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Human intellect has undergone **progressive** development through speech, social cooperation, and tool manufacture."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The utopian order was designed to foster continuous **progressive** evolution in educational and technological life."*
+

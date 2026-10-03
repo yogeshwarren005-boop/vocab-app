@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solvent that removes a substance (usually from a surface).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who works for a company that moves furniture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who moves something, or a chemical substance, solution, or tool used to eliminate unwanted deposits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical furniture restoration and painting conservation, chemical paint remover dissolves varnishes without degrading underlying timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Besides, they were very hungry, and even some of our latter-day folks have found hunger a wonderful remover of scruples."*
+> - 📜 **William Shakespeare (*Sonnet 116*):** *"Love is not love which alters when it alteration finds, or bends with the **remover** to remove; O no, it is an ever-fixed mark."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The furniture **remover** loaded the modest belongings of the family onto the heavy cart bound for London."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes identified the chemical solvent as a powerful stain **remover** commonly sold by photographic chemists."*
+

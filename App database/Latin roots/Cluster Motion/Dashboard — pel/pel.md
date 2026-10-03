@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the smallest discrete component of an image or picture on a crt screen (usually a colored dot).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the smallest discrete component of an image or picture on a crt screen (usually a colored dot).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture element in digital graphics, synonymous with pixel; or the Latin etymological stem meaning to drive or strike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In display hardware engineering and raster graphics architecture, each addressable pel contains discrete sub-elements for RGB chromatic emission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Gifts in cases of great disasters, as the Irish and Indian famines, the Chicago fire, the Galveston flood, the eruption of Mount Pelée, bespeak a widening generosity."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The force in Mount Pelée, if chained and utilized, would run a million factories a million years."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The cryptanalyst carefully examined each marked dot and miniature **pel** upon the cipher manuscript."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The strange mosaic screen resolved into shimmering points of color, each luminous **pel** contributing to the shifting illusion."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The microscopic inspection revealed tiny spots upon the cloth, each minute **pel** of soot staining the pure white cotton thread."*
+

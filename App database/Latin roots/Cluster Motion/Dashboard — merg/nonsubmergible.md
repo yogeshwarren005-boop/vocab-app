@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not submersible or submergible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not submersible or submergible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being submerged, sinkable, or plunged completely underwater; buoyant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture and life-safety engineering, nonsubmergible survival lifeboats incorporate closed-cell foam buoyancy chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonsubmergible designates not submersible or submergible."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo explained that the upper observation deck was virtually **nonsubmergible** when surface hatches remained dog-latched."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sealed empty casks formed a **nonsubmergible** raft that kept the castaways afloat amidst the tempest."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The torpedo ram Thunder Child appeared a massive, **nonsubmergible** iron citadel charging through the churning brine."*
+

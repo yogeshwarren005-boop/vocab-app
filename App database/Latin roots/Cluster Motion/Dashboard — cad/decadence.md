@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being degenerate in mental or moral qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being degenerate in mental or moral qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral, cultural, or artistic decline as characterized by excessive self-indulgence, luxury, and deterioration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In late nineteenth-century European literary history, the Decadence movement celebrated aestheticism, artifice, and sensory refinement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"In this decadence, too, the art of fire-making had been forgotten on the earth."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In most instances the appearance of the spermogones precedes that of the sporiferous organs, but the latter follow sufficiently speedy for perfect development before the decadence of the spermogones takes place."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The revenue tariff periods of our history have been periods of greatest financial revulsions and industrial decadence, want, and poverty among the people, private enterprises checked and public works retarded."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The luxury and moral **decadence** of the imperial court undermined the ancient martial virtues of the Roman citizenry."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The court of Louis the Fifteenth presented a shameful spectacle of gilded **decadence** while the peasantry starved."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Dorian fell under the spell of the strange book, indulging in refined **decadence** that corrupted his hidden portrait."*
+

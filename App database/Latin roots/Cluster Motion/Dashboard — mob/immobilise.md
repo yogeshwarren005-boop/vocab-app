@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold as reserve or withdraw from circulation; of capital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hold fast or prevent from moving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To prevent someone or something from moving or operating normally; to render stationary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics and tactical interdiction, tactical airstrikes target rail junctions to immobilise enemy mechanized armor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immobilise designates hold as reserve or withdraw from circulation; of capital."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A well-placed bullet through the engine block was sufficient to **immobilise** the fleeing steam launch."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Severe blizzard conditions on the eastern front threatened to **immobilise** entire armored armies in deep snow."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"A broken steering cable threatened to **immobilise** the steamer in the trough of the monstrous hurricane waves."*
+

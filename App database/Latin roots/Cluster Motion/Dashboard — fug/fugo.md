@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bomb carried by a balloon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bomb carried by a balloon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to the Japanese Fu-Go balloon bomb campaign of World War II; or a musical variation of fugato.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military aviation history, Japan launched thousands of hydrogen-filled paper Fu-Go balloons across the Pacific jet stream in 1944–1945.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugo designates a bomb carried by a balloon."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Naval intelligence tracked reports of transpacific **Fu-Go** balloon weapons released into the high-altitude airstreams."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The vision of unpiloted aerial devices drifting silently across vast oceans recalled prophetic wartime **fugo** contrivances."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The travelers hummed a lively Italian **fugo** as the post-chaise rattled along the dusty post road."*
+

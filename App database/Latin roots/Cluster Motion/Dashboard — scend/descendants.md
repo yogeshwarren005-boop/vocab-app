@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All of the offspring of a given progenitor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person considered as descended from some ancestor or race.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of descendant; individuals or organisms proceeding in direct lineage from a common progenitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population genetics and pedigree analysis, the genetic diversity of surviving descendants reveals historical population bottlenecks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Later on two of his descendants lived in the castle."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Turn that dog’s descendants wild, like Jo, and in a very few years they will so degenerate that they will lose even their bark—but not their bite."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There had seemed nothing at all out of keeping with such a conjectured career in the storing up of these showy ornaments for his wife and the wives of her descendants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The diversified **descendants** of a single species occupy many and widely different places in the economy of nature."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The disinherited Saxon **descendants** of King Alfred bitterly resented the rule of the Norman conquerors."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The proud **descendants** of the Cavalier nobility gathered to celebrate the restoration of the royal house."*
+

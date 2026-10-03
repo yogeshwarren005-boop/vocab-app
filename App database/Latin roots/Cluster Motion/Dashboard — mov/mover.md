@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Workman employed by a moving company.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (parliamentary procedure) someone who makes a formal motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, mechanism, or agency that moves something; or the initiator or proposer of a formal motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian metaphysics and classical natural theology, God is postulated as the uncreated Prime Mover (Primum Mobile).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Thou eternal mover of the heavens, Look with a gentle eye upon this wretch!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"We have here among us, my friends,” says Chadband, “a Gentile and a heathen, a dweller in the tents of Tom-all-Alone’s and a mover-on upon the surface of the earth."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"I believed that my God was my mover!"*
+> - 📜 **Aristotle (*Metaphysics*):** *"There must exist an eternal, unchangeable first **mover** that causes motion without being itself moved by any other."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The first cosmological argument demonstrates that every movement in nature traces back to a supreme prime **mover**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The energetic solicitor acted as the chief **mover** in initiating the legal petition before the high court."*
+

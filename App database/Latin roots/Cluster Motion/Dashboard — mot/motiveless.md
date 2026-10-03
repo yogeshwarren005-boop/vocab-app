@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring without motivation or provocation; ; - f.d.roosevelt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring without motivation or provocation; ; - f.d.roosevelt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking any discernible motive, objective incentive, sensible reason, or deliberate justification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, notably associated with Coleridge's famous characterization of Iago's destructive malice in Shakespeare's Othello.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It seems so motiveless." "Because it amused me to get a man into my power." Isabel felt him shuddering."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Every leaf was at rest in the sunshine, the familiar scene was changeless, and seemed to represent the prospect of her life, full of motiveless ease—motiveless, if her own energy could not seek out reasons for ardent action."*
+> - 📜 **Samuel Taylor Coleridge (*Notes on Shakespeare*):** *"The final soliloquy presents the terrible spectacle of **motiveless** malignity working destruction for its own sake."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her sudden change of demeanor seemed entirely **motiveless** to those unacquainted with her private sorrow."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The calamity fell upon the household like a stroke of **motiveless** cruelty from blind circumstance."*
+

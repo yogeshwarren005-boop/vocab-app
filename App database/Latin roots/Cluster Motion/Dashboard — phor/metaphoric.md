@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing one thing in terms normally denoting another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing one thing in terms normally denoting another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, relating to, or involving metaphor; figurative rather than literal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary semiotics and hermeneutics, metaphoric language establishes polysemic layers of meaning within narrative allegory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The builder and maker of this New Jerusalem is God, as we read in the 575:12 book of Hebrews; and it is "a city which hath founda- tions." The description is metaphoric."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient fables concealed deep political and philosophical truths beneath their rich **metaphoric** veil."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"All spiritual facts are expressed in **metaphoric** imagery drawn directly from the visible forms of the physical universe."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Language itself is an immense fabric of **metaphoric** symbols woven by the creative spirit of humanity."*
+

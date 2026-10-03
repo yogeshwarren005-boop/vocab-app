@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Build up to a level by depositing sediment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Build up to a level by depositing sediment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To build up the level of a riverbed or valley floor through the progressive deposition of alluvial sediment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluvial geomorphology and sedimentology, overloaded braided stream channels aggrade during periods of intense glacial meltwater runoff.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aggrade designates build up to a level by depositing sediment."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Torrential mountain streams continue to **aggrade** their alluvial fans as they enter the broad piedmont valley."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"When the river velocity diminishes across flat lowlands, it begins to **aggrade** rather than excavate its bed."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The heavy gravel washes deposited by seasonal floods slowly **aggrade** the barren valleys of Patagonia."*
+

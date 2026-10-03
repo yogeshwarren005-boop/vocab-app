@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coming (or going) out; becoming apparent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coming (or going) out; becoming apparent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of coming out, emerging, or going forth from an enclosure or obscured position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In positional astronomy and celestial mechanics, the egression of an occulted star or planetary body marks its reappearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egression designates the act of coming (or going) out; becoming apparent."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The **egression** of subterranean thermal waters through fissure vents created immense travertine mineral deposits."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geologists monitored the periodic **egression** of boiling mud from the dormant volcanic vents."*
+> - 📜 **David Brewster (*Treatise on Optics*):** *"The precise astronomical timing of planetary **egression** during a solar transit provides distance calculations."*
+

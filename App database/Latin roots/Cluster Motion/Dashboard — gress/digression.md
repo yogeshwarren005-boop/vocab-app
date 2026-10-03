@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that departs from the main subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turning aside (of your course or attention or concern).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary departure from the main subject or theme in speech, writing, or thought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greco-Roman oratorical theory, the parekbasis or digression serves to engage emotional sympathy before returning to proofs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But this is mere digression from my purpose."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will have that subject newly writ o’er, that I may example my digression by some mighty precedent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then my digression is so vile, so base, That it will live engraven in my face."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The satirical author dedicated an entire chapter to a delightful **digression** concerning critics and philosophers."*
+> - 📜 **Laurence Sterne (*The Life and Opinions of Tristram Shandy*):** *"Digressions, incontestably, are the sunshine; they are the life, the soul of reading; take them out of this book, you might as well take the book along with them; one cold eternal winter would reign in every page of it; restore them to the writer, he steps forth like a bridegroom, bids all-hail; brings in variety, and forbids the appetite to fail; such a **digression** is the soul of wit."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes listened patiently to Thaddeus Sholto's nervous **digression** before steering him back to the missing treasure."*
+

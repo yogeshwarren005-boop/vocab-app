@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who leads a musical group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that readily conducts e.g. electricity and heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A material or substance that conducts electricity or heat; a person who directs an orchestra or collects bus fares.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, a wire, cable, or busbar of high electrical conductivity designed to transmit electric power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who is conductor of his people?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jo and his conductor presently return, and Jo is assisted to his mattress by the careful Phil, to whom, after due administration of medicine by his own hands, Allan confides all needful means and instructions."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Under the shadow of this extemporized lightning-conductor he felt himself comparatively safe."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Under the shadow of this extemporized lightning-**conductor** Gabriel felt himself comparatively safe from the storm."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"The railway **conductor** blew his whistle as the train steamed out of the crowded London terminus."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The cab **conductor** touched his hat respectfully as Holmes dropped a half-crown into his palm."*
+

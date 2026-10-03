@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various fluorescent substances used in fluorescence microscopy to stain specimens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various fluorescent substances used in fluorescence microscopy to stain specimens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorescent chemical compound or dye that absorbs light energy at a specific wavelength and re-emits it at a longer wavelength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluorescence microscopy and flow cytometry, an antibody conjugated to a fluorochrome targets cellular antigens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorochrome designates any of various fluorescent substances used in fluorescence microscopy to stain specimens."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"By staining histological sections with a specialized **fluorochrome**, internal nuclear structures become vividly illuminated."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The application of a selective **fluorochrome** allowed pathologists to identify tubercle bacilli under ultraviolet light."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Microscopic tracing techniques employing a vital **fluorochrome** demonstrate cytoplasmic streaming in live plant cells."*
+

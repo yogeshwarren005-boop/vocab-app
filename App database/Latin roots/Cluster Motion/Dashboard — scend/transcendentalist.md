@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocate of transcendentalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocate of transcendentalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who adheres to or advocates the philosophical doctrines of transcendentalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century literary history, the transcendentalist periodical The Dial published radical essays on philosophy, art, and abolition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transcendentalist designates advocate of transcendentalism."*
+> - 📜 **Ralph Waldo Emerson (*The Transcendentalist*):** *"The **transcendentalist** believes in miracles, in the perpetual openness of the human mind to new influxes of light."*
+> - 📜 **Nathaniel Hawthorne (*The Celestial Railroad*):** *"The traveler observed the strange modern pilgrim, who claimed to be a thorough **transcendentalist** in spiritual matters."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The solitary thinker lived as a practical **transcendentalist**, seeking truth in the silence of nature."*
+

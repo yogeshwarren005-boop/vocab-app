@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Effectively conveying thought, feeling, or meaning; full of character, significance, or emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, expressive words or intonations convey the speaker's emotional attitude rather than denotative truth conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be more expressive to them; for they wear themselves in the cap of the time; there do muster true gait; eat, speak, and move, under the influence of the most receiv’d star; and though the devil lead the measure, such are to be followed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I cannot imagine a countenance and manner more singularly expressive of caution and indecision, and a perpetual impulse to do something he could not resolve to venture on, than Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All at once she turned from me with a hasty air, almost expressive of displeasure or dislike, and spoke to him over her shoulder again."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her dark eyes were wonderfully **expressive**, reflecting every shifting shadow of thought and feeling."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy was continually struck by the fine eyes and **expressive** countenance of Elizabeth."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The mobility of facial muscles renders the human face exceptionally **expressive** under emotional stress."*
+

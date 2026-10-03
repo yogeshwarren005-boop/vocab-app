@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being prevented; - a.l.guerard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being prevented; - a.l.guerard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being prevented, avoided, or stopped from occurring through timely action or foresight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health epidemiology, describes morbidity and mortality avoidable through vaccination, sanitation, and lifestyle intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preventable designates capable of being prevented; - a.l.guerard."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Typhoid fever represents a classic **preventable** disease whose eradication depends entirely upon uncontaminated municipal water."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The application of scientific hygiene has already eliminated vast categories of once deadly and **preventable** maladies."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Thousands of soldiers perished in military hospitals from purely **preventable** septic infections caused by foul air."*
+

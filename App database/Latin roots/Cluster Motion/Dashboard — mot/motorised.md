@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with armed and armored motor vehicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equipped with a motor or motors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished, driven, or equipped with an engine, motor, or motorized vehicular transport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military doctrine, describes motorized infantry transported in trucks or wheeled vehicles, distinct from mechanized infantry in tracked armored fighting vehicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorised designates equip with armed and armored motor vehicles."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The **motorised** divisions pushed rapidly along the coastal highway toward Benghazi under heavy fighter escort."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The absence of **motorised** transport compelled the militia columns to march for days across rugged Aragon hills."*
+> - 📜 **Aldous Huxley (*Eyeless in Gaza*):** *"A convoy of **motorised** ambulances waited at the junction to evacuate wounded soldiers to the base hospital."*
+

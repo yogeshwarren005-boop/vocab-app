@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not expressive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not expressive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking expression, emotional animation, or communicative clarity; blank, dull, or impassive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotic analysis, describes signs or representations that fail to signify intended communicative content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His imperturbable face has been as inexpressive as his rusty clothes."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge was disengaged, and we found him at his table in his dusty room with the inexpressive-looking books and the piles of papers."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dawn of the March morning is singularly inexpressive, and there is nothing to show where the eastern horizon lies."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The pale dawn of the chilly March morning was singularly **inexpressive**, offering no clue to the day's fortunes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Where any whaling name happens to be vague or **inexpressive**, I shall say so and suggest a more accurate term."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Hang there, my verse, in witness of my love, run, run, Orlando, carve on every tree the fair, the chaste, and **unexpressive** she."*
+

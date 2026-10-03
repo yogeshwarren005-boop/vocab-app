@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exercising influence or power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or exercising influence or power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exercising great influence, power, authority, or effect upon others; prominent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social network graph theory, highly connected hub nodes serve as influential opinion leaders accelerating information diffusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Of these that of which Cairns was the minister was the most influential and the largest, having a membership of about six hundred."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The two systems that are the most typical and influential examples are those of the German Empire and of Great Britain, the former local and the latter national in organization."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This view still is unconsciously taken by the members of a small but influential class, and is echoed without independent thought by many other persons."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"My dear aunt's **influential** acquaintances were producing an unexpected effect upon the company directors."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The wealthy London merchants formed an **influential** political bloc in the House of Commons."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The legal profession constitutes the most **influential** aristocratic element in the American republic."*
+

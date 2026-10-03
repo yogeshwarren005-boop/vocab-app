@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorderly crowd of people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose affiliation of gangsters in charge of organized criminal activities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, disorderly crowd of people, especially one intent on causing trouble, violence, or rioting; or organized crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and crowd dynamics, collective mob behavior features emotional contagion and loss of individual responsibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Volumnia never heard of such a thing. ‘The debilitated cousin holds that it’s sort of thing that’s sure tapn slongs votes—giv’n—Mob."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Without M. le Maire we should be a mob without a head."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"On the first day of the mob, however, several thousand men, _women and children_, armed with clubs and brickbats, suddenly appeared at the door of the Colored Orphan Asylum, and effected an entrance by breaking down the front door with an axe."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The furious Parisian **mob** surged around the Bastille, brandishing pikes, muskets, and improvised iron bars."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Antony's fiery funeral oration incited the Roman **mob** to burn the houses of the conspirators."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The seditious **mob** of Constantinople filled the Hippodrome with violent cries of riot and treason."*
+

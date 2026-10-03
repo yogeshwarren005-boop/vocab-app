@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not seductive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not seductive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not alluring, charming, or tempting; lacking seductive qualities; unattractive or austere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, characterizes stark, unembellished physical surroundings or uncompromising moral doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unseductive designates not seductive."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's austere scholarly chamber was an intensely **unseductive** retreat for a vibrant young bride."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The damp, cheerless stone masonry of the ecclesiastical yard presented an **unseductive** prospect in November."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John offered her a life of heroic missionary duty, but in a manner cold, severe, and wholly **unseductive**."*
+

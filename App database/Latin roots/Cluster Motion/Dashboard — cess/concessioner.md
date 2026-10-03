@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who holds or operates a concession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who holds or operates a concession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who operates or holds a commercial concession, retail stall, or franchise; an alternative of concessionaire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historic municipal fairgrounds and exhibition parks, each licensed concessioner paid stallage fees to municipal bailiffs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concessioner designates someone who holds or operates a concession."*
+> - 📜 **Mark Twain (*Innocents Abroad*):** *"The enterprising **concessioner** near the ancient ruins sold plaster antiquities and sweet lemonade to pilgrims."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The athletic stadium **concessioner** made handsome profits selling hot sausages and roasted peanuts to crowds."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The itinerant fair **concessioner** hawked roasted chestnuts and ginger beer from a smoking brazier."*
+

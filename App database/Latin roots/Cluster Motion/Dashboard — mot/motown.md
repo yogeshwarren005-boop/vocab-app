@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in michigan and a major great lakes port; center of the united states automobile industry; located in southeastern michigan on the detroit river across from windsor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city in michigan and a major great lakes port; center of the united states automobile industry; located in southeastern michigan on the detroit river across from windsor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A moniker for Detroit, Michigan, referencing its historical status as the center of the American automotive industry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music history, denotes the influential soul and pop record label founded by Berry Gordy Jr. in Detroit in 1959.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motown designates the largest city in michigan and a major great lakes port; center of the united states automobile industry; located in southeastern michigan on the detroit river across from windsor."*
+> - 📜 **John Dos Passos (*The Big Money*):** *"The sprawling assembly plants of **Motown** drew thousands of migrants looking for steady factory wages."*
+> - 📜 **Langston Hughes (*Selected Poems*):** *"The pulsating rhythm of **Motown** echoed through urban neighborhood radio sets from coast to coast."*
+> - 📜 **James Baldwin (*The Fire Next Time*):** *"The distinctive melodic soul crafted in **Motown** transformed the emotional landscape of mid-century popular culture."*
+

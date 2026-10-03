@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large formal assembly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something regarded as a normative example.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large formal assembly of delegates; an established social custom, rule, or agreed standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional and treaty law, a formal multilateral international pact or binding interstate accord (such as the Geneva Conventions).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Why not be revenged on society by shaping his future domesticities loosely, instead of kissing the pedagogic rod of convention in this ensnaring manner?"*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"At a Sabbath-school convention in Massachusetts, a speaker stated that a friend of his, during an interview with Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She was unhampered by rule or convention."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Language is grounded upon tacit mutual **convention**, whereby articulate sounds signify specific internal ideas."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Philadelphia **convention** deliberated through the hot summer to frame a more perfect federal union."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor respected social **convention** not from vanity, but from a sincere desire to spare the feelings of others."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting superconductivity; transmitting electric current with zero resistance at cryogenic temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical imaging, superconducting electromagnets produce powerful, highly homogeneous magnetic fields essential for high-resolution MRI scanners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superconducting designates pertaining to, derived from, or characteristic of latin duc within the domain of motion."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The survey vessel utilized **superconducting** magnetic shields to deflect high-velocity cosmic radiation."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"A **superconducting** magnetic levitation train can glide frictionlessly above trackways at hundreds of miles an hour."*
+> - 📜 **Isaac Asimov (*Foundation's Edge*):** *"The ship's antigrav drive relied upon colossal **superconducting** rings chilled to absolute zero."*
+

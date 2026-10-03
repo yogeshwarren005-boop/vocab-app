@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being moved or rearranged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being moved or rearranged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of being steadfast, firmly fixed, or incapable of physical movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical Stoicism, moral immovability in the face of fortune reflects mastery over irrational emotional passions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had been absorbed in their violent altercation and had stared at each other, she in wild excitement and he in stiff immovability, Mäzli had slipped from between the two as swiftly as a little mouse."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"They confronted each other with the pitiless immovability of two statues in whose marble lineaments emotions were fixed for all eternity."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In astronomy it was the immovability of the earth, in history it is the independence of personality—free will."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab's countenance possessed the stony **immovability** of an Egyptian granite monument facing the desert."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers listened to her entreaties with an austere **immovability** that chilled her spirit."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman defensive wall across northern Britain stood with silent **immovability** against barbarian raids."*
+

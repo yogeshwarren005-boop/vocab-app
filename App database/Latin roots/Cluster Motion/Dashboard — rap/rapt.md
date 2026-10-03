@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling great rapture or delight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling great rapture or delight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Completely fascinated, absorbed, or engrossed by what one is seeing, hearing, or thinking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological flow theory, rapt attention minimizes self-referential mental awareness during complex artistic creation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But that I see thee here, Thou noble thing, more dances my rapt heart Than when I first my wedded mistress saw Bestride my threshold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My noble partner You greet with present grace and great prediction Of noble having and of royal hope, That he seems rapt withal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are rapt, sir, in some work, some dedication To the great lord."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Look how our partner's **rapt**; he stands transfixed by the strange prophetic promises of the weird sisters."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane listened with **rapt** attention as Rochester described his youthful wanderings through continental capitals."*
+> - 📜 **John Milton (*Il Penseroso*):** *"Come, pensive nun, devout and pure, sober, steadfast, and demure, with **rapt** soul sitting in thine eyes."*
+

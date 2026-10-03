@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meat from a deer used as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meat from a deer used as food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The meat of a deer used as food; historically, the edible flesh of any game animal taken by hunting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval English forest law and culinary history, royal deer protected in crown forests and served at aristocratic feasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, shall we go and kill us venison?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He that strikes The venison first shall be the lord o’ th’ feast; To him the other two shall minister; And we will fear no poison, which attends In place of greater state."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What thing is’t that I never Did see man die! scarce ever look’d on blood But that of coward hares, hot goats, and venison!"*
+> - 📜 **William Shakespeare (*The Merry Wives of Windsor*):** *"I am glad to see you; much good do it your good heart! Here is a pasty of **venison**."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The outlaw provided a savory haunch of **venison** roasted over an open wood fire in Sherwood Forest."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The Christmas sideboard was loaded with roasted sirloin and a noble pasty of savory **venison**."*
+

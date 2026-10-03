@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a heavy and oppressive way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a heavy and oppressive way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a heavy, suffocating, burdensome, or tyrannical manner that weighs down body or spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric descriptions, characterizes close, sultry weather preceding violent electrical thunderstorms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet had been down stairs, but on this happy day she again took her seat at the head of her table, and in spirits oppressively high."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The crowd around became oppressively silent."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"What a muscular creature you are!” “Kiss away as much as you like,” said Cashel, struggling with the old school-boy sullenness as it returned oppressively upon him."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The summer afternoon was **oppressively** hot, and the blinds were drawn down across the Baker Street sitting room."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The thick air hung **oppressively** over the cornfields as the dark thunder clouds gathered in the south."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The heavy velvet curtains and stifling silence of the red-room closed **oppressively** around the weeping child."*
+

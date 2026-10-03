@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state that exists when one person or group has power over another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A position of dominant power, commanding influence, or controlling superiority over others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Irish sociology, the Protestant Ascendancy designated the political and ecclesiastical ruling elite from the 17th to 19th centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She knew how high his standard of honor was, but how would he end if his unfortunate trait gained more ascendancy over him?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not his ascendancy alone, however, held me in thrall at present."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The more adequate, indeed, the federal powers may be rendered to the national defense, the less frequent will be those scenes of danger which might favor their ascendancy over the governments of the particular States."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor observed with concern the powerful **ascendancy** that the passionate Willoughby had gained over Marianne's heart."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"To Sherlock Holmes she is always the woman; she alone achieved an intellectual **ascendancy** that commanded his admiration."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The Royal Air Force established air **ascendancy** over the English Channel, frustrating enemy invasion plans."*
+

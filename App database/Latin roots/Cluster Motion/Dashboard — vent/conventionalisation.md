@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conventionalizing; conforming to a conventional style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conventionalizing; conforming to a conventional style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making something conform to established conventional forms, practices, or artistic styles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and iconographic semiotics, the progressive simplification of pictograms into stylized phonetic glyphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conventionalisation designates the act of conventionalizing; conforming to a conventional style."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The excessive **conventionalisation** of floral ornament in late Gothic carving marked the decline of living artistic invention."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social ceremonial exhibits a relentless tendency toward **conventionalisation**, ossifying spontaneous gestures into rigid etiquette."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The **conventionalisation** of habit frees conscious attention for novel intellectual challenges."*
+

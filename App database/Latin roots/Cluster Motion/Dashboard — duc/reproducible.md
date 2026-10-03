@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reproduced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being reproduced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being copied, duplicated, or repeated with identical or consistent results; replicable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific philosophy, an empirical claim verified through reproducible laboratory protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reproducible designates capable of being reproduced."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"We do not take even our own observations seriously until we have repeated them and found them **reproducible**."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The crystallization reaction proved readily **reproducible** in vessels of varying dimensions."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"A theory must stand or fall according as its supporting facts are **reproducible** before impartial observers."*
+

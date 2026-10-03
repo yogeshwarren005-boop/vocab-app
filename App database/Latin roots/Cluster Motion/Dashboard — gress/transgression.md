@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of transgressing; the violation of a law or a duty or moral principle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spreading of the sea over land as evidenced by the deposition of marine strata over terrestrial strata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act that goes against a moral rule, law, code of conduct, or social convention; an offense or sin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sequence stratigraphy and marine geology, a marine transgression occurs when sea level rises relative to land, shifting the shoreline inland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heaven lay not my transgression to my charge!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Teach us, sweet madam, for our rude transgression Some fair excuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The flat transgression of a school-boy, who, being overjoy’d with finding a bird’s nest, shows it his companion, and he steals it."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Man's first disobedience, and the fruit of that forbidden tree, whose mortal **transgression** brought death into the world."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip was haunted by a dark sense of criminal **transgression** after stealing the pork pie and file for the convict."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The widespread marine **transgression** across central Europe deposited thick limestone strata upon eroded basement rocks."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being at hand when needed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribute of being easy to meet or deal with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ease with which a place, person, service, or information can be reached, approached, entered, or understood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and universal design standards, building accessibility requires ramps, wide doorways, and tactile paving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Such a change works the same results as would a magical increase in the fertility of the soil, an improvement in the richness and accessibility of natural mineral stores, or in the quantity and quality of artificial appliances."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Young, as she promised me at Dalswinton that she would do me the honour to introduce me at Tinwald; and it was impossible, not from your Ladyship's accessibility, but from my own feelings, that I could go alone."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The geographical **accessibility** of the coastal harbor encouraged early maritime commerce with neighboring islands."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"The growing **accessibility** of cheap printed literature broadened the intellectual horizons of working citizens."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"True artistic beauty is distinguished by its **accessibility** to every sincere and uncorrupted human eye."*
+

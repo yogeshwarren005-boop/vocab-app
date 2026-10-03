@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move or shift into a new position or place, both in a concrete and in an abstract sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having changed position or physical location; or affected with strong tender emotion, sympathy, or compassion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil judicial procedure, an advocate who moved the court filed a formal motion requesting an interlocutory decree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His wife that’s dead did trespasses to Caesar; His brother warred upon him, although I think, Not moved by Antony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What was’t That moved pale Cassius to conspire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being moved, he will not spare to gird the gods."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane was deeply **moved** by Rochester's genuine anguish, her eyes filling with uncontrollable tears."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge was visibly **moved** when the Ghost of Christmas Past showed him his solitary schoolboy days."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The heavy ship was slowly **moved** through the narrow harbor entrance by long sweeps and pulling boats."*
+

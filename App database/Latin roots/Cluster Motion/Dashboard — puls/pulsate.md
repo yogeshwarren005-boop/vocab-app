@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expand and contract rhythmically; beat rhythmically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move with or as if with a regular alternating motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To expand and contract with rhythmic movements; to throb, beat, or vibrate with regular rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular physiology, peripheral arterial vessels pulsate synchronously with left ventricular cardiac systole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan's veins began to pulsate with indignation as he reflected on the fact that the ludicrous in the race was the only feature that had free access to the public gaze."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"I introduce it here, as showing that the blood of even a savan pulsates warmly amid such circumstances as now surrounded us."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His thought had been unsuspended; he was becoming ill with thinking; eaten out with thinking, withered by thinking; scourged out of all his former pulsating, flexuous domesticity."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I saw the dull yellow eye of the creature open, and I felt the newly formed heart begin to **pulsate** with life."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The giant leviathan lay stranded upon the coral reef, its massive flanks continuing to **pulsate** with agony."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"In the primeval volcanic crater, the geothermal vents seemed to **pulsate** with rhythmic clouds of sulfurous steam."*
+

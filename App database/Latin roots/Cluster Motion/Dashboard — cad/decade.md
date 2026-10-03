@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of 10 years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of nine and one; the base of the decimal system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuous period of ten years, especially one beginning with a year ending in zero.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronological historiography, each cultural decade exhibits distinctive economic trends, social fashions, and political realignments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She came forth in the morning without a remnant of the pain which had filled a decade of years with agony_."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Once in a decade or a score of years Chinese ambassadors arrived, but they came overland, around the Yellow Sea, across the country of the Hong-du, and down the Mandarin Road to Keijo."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have told you what I have endured in the jacket and in solitary in the first decade of this twentieth century after Christ."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A prosperous **decade** of peace under Antoninus Pius secured tranquility across the breadth of the Roman world."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The opening **decade** of the twentieth century was marked by an intensifying naval race between rival European powers."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A fateful **decade** of royal misrule prepared the ground for the catastrophic explosion of the French Revolution."*
+

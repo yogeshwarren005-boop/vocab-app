@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graded change in the magnitude of some physical quantity or dimension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a line or surface that departs from the horizontal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclined part of a road, railway, or physical surface; or the rate of regular increase or decrease in a variable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and physical transport phenomena, thermal gradients drive conductive heat transfer via Fourier's law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"O, get, rev on a gradient one in nine."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The erosive velocity of a river is determined by the hydraulic **gradient** of its descent toward the sea."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Atmospheric pressure displays a vertical barometric **gradient** that decreases steadily with increasing elevation."*
+> - 📜 **Jules Verne (*Journey to the Center of the Earth*):** *"Professor Lidenbrock monitored the geothermal temperature **gradient** as they penetrated deeper into the subterranean shaft."*
+

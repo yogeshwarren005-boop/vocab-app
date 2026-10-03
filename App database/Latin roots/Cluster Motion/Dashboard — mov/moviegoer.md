@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who goes to see movies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who goes to see movies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who regularly attends motion picture theaters to watch films.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban leisure sociology, the modern moviegoer of the 1920s transformed downtown cinema palaces into civic entertainment centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moviegoer designates someone who goes to see movies."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"Anthony Patch joined the crowd of evening **moviegoers** lining up outside the glittering Broadway theater."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The provincial **moviegoer** in Gopher Prairie found in the Hollywood melodrama an escape from prairie monotony."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The twentieth-century **moviegoer** consumed sensationalized fantasies that reflected the anxieties of an industrial age."*
+

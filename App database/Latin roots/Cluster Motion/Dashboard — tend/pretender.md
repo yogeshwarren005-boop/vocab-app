@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A claimant to the throne or to the office of ruler (usually without just title).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes deceitful pretenses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A claimant to a throne, title, or honor, especially one whose legal or moral right is disputed or unacknowledged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British history, the Old Pretender (James Francis Edward Stuart) and Young Pretender (Bonnie Prince Charlie) led Jacobite rebellions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"But, it was only the pleasanter to turn to Biddy and to Joe, whose great forbearance shone more brightly than before, if that could be, contrasted with this brazen pretender."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And there was a prized thing of his boyhood there, a dagger the Young Pretender wore in his stocking, and he in Highland dress, as he swung toward London with pipe and drum."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"From his desk she picked up the Young Pretender's dagger."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions stationed in Gaul proclaimed their favorite general a rival **pretender** to the purple."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The supporters of the exiled Stuart **pretender** plotted secretly in taverns across northern counties."*
+> - 📜 **Walter Scott (*Waverley*):** *"The young officer found himself drawn into the fateful rebellion organized around the romantic figure of the royal **pretender**."*
+

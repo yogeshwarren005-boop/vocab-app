@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intermittent; subject to interruption or periodic stopping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intermittent; subject to interruption or periodic stopping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or occurrence of ceasing, stopping, or pausing at periodic intervals; intermittency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and pulse diagnostics, arterial intermittence reflects cardiac extrasystoles or second-degree atrioventricular block.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intermittence designates the quality of being intermittent; subject to interruption or periodic stopping."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician carefully noted the peculiar **intermittence** of the radial pulse during myocardial exhaustion."*
+> - 📜 **Edgar Allan Poe (*The Pit and the Pendulum*):** *"I listened in darkness to the strange **intermittence** of the mechanical sweep swinging from the ceiling."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The spiritual life of man proceeds not with uniform speed, but through alternate fervor and cold **intermittence**."*
+

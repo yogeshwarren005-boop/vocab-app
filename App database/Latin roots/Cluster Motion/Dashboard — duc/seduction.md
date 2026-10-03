@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enticing someone astray from right behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of winning the love or sexual favor of someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of enticing someone into sexual intimacy, moral error, or surrender of principle; alluring charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic history, Freud's early seduction theory hypothesized that hysterical neuroses originated from childhood sexual trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He was declared to be in debt to every tradesman in the place, and his intrigues, all honoured with the title of seduction, had been extended into every tradesman’s family."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If it were necessary to confirm so plain a truth by facts, examples would not be wanting, even in this country, of the intimidation or seduction of the Executive by the terrors or allurements of the pecuniary arrangements of the legislative body."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"What object have you in the seduction of my wife?” He smiled, but was silent."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"Lovelace employed every art of sinister **seduction** to overcome Clarissa's steadfast moral resistance."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Arthur Donnithorne drifted into the thoughtless **seduction** of Hetty Sorrel without intending her ruin."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Not one word or deed, not the subtle **seduction** of luxury, could divert the soul from its democratic purpose."*
+

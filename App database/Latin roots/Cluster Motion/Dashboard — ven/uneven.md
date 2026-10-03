@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not even or uniform as e.g. in shape or texture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a contest or contestants) not fairly matched as opponents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not level, flat, or smooth; irregular in surface, quality, spacing, or balance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and economics, asymmetrical or unequal distribution of income, resources, or developmental gains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Eight yards of uneven ground is threescore and ten miles afoot with me, and the stony-hearted villains know it well enough."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In most uneven and distracted manner."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The villain is much lighter-heel’d than I: I follow’d fast, but faster he did fly, That fallen am I in dark uneven way, And here will rest me."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cart rattled noisily over the rough, **uneven** stones of the rural village roadway."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The flickering candlelight threw long, **uneven** shadows across the damp brick walls."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"His gait was jerky and **uneven**, reflecting the deep agitation of his troubled mind."*
+

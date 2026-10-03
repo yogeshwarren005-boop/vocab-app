@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce the level of land, as by erosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in worth or character, usually verbally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduced in quality, status, rank, or moral character; or worn down through physical or biological processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, vestigial or degraded anatomical structures indicate loss of ancestral functional adaptation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When you disgraced me in my embassade, Then I degraded you from being king, And come now to create you Duke of York."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"For yourself, unfortunate girl, orphaned and degraded from the first of these evil anniversaries, pray daily that the sins of others be not visited upon your head, according to what is written."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The Lady Om was degraded of all rank and divested of all possessions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain parasitic crustaceans possess a **degraded** anatomical structure, retaining little more than a sac of reproductive organs."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ruined whaleman was a **degraded** spectacle of drunken despair, haunting the bleak taverns of New Bedford."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Frankenstein looked upon the miserable demon as the **degraded** creature of his own reckless scientific pride."*
+

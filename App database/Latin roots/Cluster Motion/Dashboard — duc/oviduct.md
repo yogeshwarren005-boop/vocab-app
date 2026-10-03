@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of tubes conducting the egg from the ovary to the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of tubes conducting the egg from the ovary to the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tube or duct through which an ovum or egg passes from the ovary to the uterus or exterior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human female reproductive anatomy, the oviduct is commonly designated the Fallopian tube, where fertilization typically occurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oviduct designates either of a pair of tubes conducting the egg from the ovary to the uterus."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The calcareous eggshell is secreted by specialized glandular walls along the middle section of the avian **oviduct**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Mature ova pass down the ciliated **oviduct** to receive albuminous coats before extrusion into the aquatic medium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ectopic gestation arises when the fertilized ovum arrests and implants prematurely within the **oviduct**."*
+

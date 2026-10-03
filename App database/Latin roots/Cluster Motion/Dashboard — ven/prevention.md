@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of preventing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of preventing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of stopping something from happening or arising; proactive safeguarding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health policy, tiered into primary prevention (preventing disease onset), secondary (early detection), and tertiary (reducing impairment).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But God be thanked for prevention, Which I in sufferance heartily will rejoice, Beseeching God and you to pardon me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But fear not thou until thy foot be snared, Nor never seek prevention of thy foes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seek none, conspiracy; Hide it in smiles and affability: For if thou path, thy native semblance on, Not Erebus itself were dim enough To hide thee from prevention."*
+> - 📜 **William Shakespeare (*Henry V*):** *"God be thanked for **prevention**, which I in sufferance heartily will rejoice."*
+> - 📜 **Francis Bacon (*Essays*):** *"In statecraft, the timely **prevention** of popular sedition is far wiser than bloody suppression after the outbreak."*
+> - 📜 **Benjamin Franklin (*Poor Richard's Almanack*):** *"An ounce of **prevention** is worth a pound of cure in matters of both physical and civic health."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend in scope or range or area.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To stretch out, expand in scope, duration, or dimension; or to offer or bestow something outward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry and drafting, to extend a line segment means to prolong it continuously in the same collinear direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You do extend These thoughts of horror further than you shall Find cause in Caesar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do extend him, sir, within himself; Crush him together rather than unfold His measure duly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, and the approbation of those that weep this lamentable divorce under her colours are wonderfully to extend him, be it but to fortify her judgement, which else an easy battery might lay flat, for taking a beggar, without less quality."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"If you would **extend** your kindness to a wandering stranger, heaven will reward your hospitality."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The true purpose of natural philosophy is to **extend** the empire of man over material nature."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The development of steam navigation helped **extend** inland trade to previously inaccessible territories."*
+

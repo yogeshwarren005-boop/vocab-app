@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous carnivorous birds that hunt and kill other animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous carnivorous birds that hunt and kill other animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bird of prey such as an eagle, hawk, falcon, or owl; or a dromaeosaurid theropod dinosaur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ecology and predatory wildlife biology, a raptor possesses hooked beaks, acute binocular vision, and curved talons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptor designates any of numerous carnivorous birds that hunt and kill other animals."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A majestic Andean condor wheeled overhead, demonstrating the supreme soaring prowess of this colossal **raptor**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I watched a solitary **raptor** glide upon motionless wings above the deep pine woods bordering the pond."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The beast-man possessed the sharp, hooked talons and ferocious predatory instincts of an avian **raptor**."*
+

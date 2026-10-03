@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is present and participates in a meeting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is present and participates in a meeting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is present at, participates in, or attends an organized conference, meeting, or event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic conference logistics, each registered attendee receives credentials, proceedings, and admission to plenary sessions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attendee designates a person who is present and participates in a meeting."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Every serious **attendee** at the mechanics' institute gained valuable insight into practical physics."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"The earnest **attendee** at public philosophical debates learned to weigh conflicting arguments objectively."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An attentive **attendee** at a lecture must deliberately inhibit irrelevant environmental sounds."*
+

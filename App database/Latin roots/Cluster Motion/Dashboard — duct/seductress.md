@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who seduces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who seduces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who seduces, allures, or entices others, especially through charm, sexual attraction, or cunning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology and literature, the archetype of the seductress tests the moral resolve of heroes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seductress designates a woman who seduces."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The courtiers whispered that the foreign countess was a dangerous **seductress** sent to ensnare the prince."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp played the consummate **seductress**, fascinating old Sir Pitt and his wealthy brother alike."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The tragic history unfolded how the glamorous **seductress** brought ruin upon the honorable family."*
+

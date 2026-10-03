@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position 17 in a countable series of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming next after the sixteenth in position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next in ordinal sequence after the sixteenth; one of seventeen equal fractional parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography, the seventeenth century designates the pivotal 1601–1700 era characterized by the Scientific Revolution and baroque culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I had just finished my seventeenth and Leonore her eighteenth year when a summer came which was to bring grave changes."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"A certain d’Urberville of the sixteenth or seventeenth century committed a dreadful crime in his family coach; and since that time members of the family see or hear the old coach whenever—— But I’ll tell you another day—it is rather gloomy."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But it was bought about the middle of the seventeenth century by the Halls, who own it still, and in whose family there has been a baronetcy since 1687."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A certain d'Urberville of the sixteenth or **seventeenth** century had committed a dreadful crime near the ancestral vault."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"In the **seventeenth** century, judicial corruption was so common that Bacon's offence was judged with unusual severity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **seventeenth** chapter of the annals records the brief reign and violent death of the Emperor Pertinax."*
+

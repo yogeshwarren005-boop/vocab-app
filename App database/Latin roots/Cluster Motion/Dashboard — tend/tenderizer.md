@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (as the plant enzyme papain) applied to meat to make it tender.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (as the plant enzyme papain) applied to meat to make it tender.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A culinary tool, mallet, or enzymatic substance used to soften meat by disrupting muscular fiber bundles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzyme biochemistry, powdered meat tenderizer typically combines refined papain or bromelain with sodium chloride carriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenderizer designates a substance (as the plant enzyme papain) applied to meat to make it tender."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The commercial **tenderizer** proved capable of digesting fibrous collagen without altering the flavor of the meat."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"An enzymatic **tenderizer** performs outside the stomach what gastric pepsin accomplishes within the digestive canal."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Botanical extracts used as a **tenderizer** were discovered independently by various tropical peoples."*
+

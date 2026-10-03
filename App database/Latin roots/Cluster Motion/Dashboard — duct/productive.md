@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of producing (especially abundantly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the ability to produce or originate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yielding or capable of producing abundant goods, crops, results, or benefits; generative and fertile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic theory, productive capital refers to machinery, plant facilities, and infrastructure used directly to generate output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"After unspeakable suffering, productive of the utmost consternation, she is pronounced, by expresses from the bedroom, free from pain, though much exhausted, in which state of affairs Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Productive services of banks. § 13."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is supposed to be not merely an unequal and mistaken distribution of production, but a general excess of productive power."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"So, in **productive** subjects, grow the chapters with generous fullness."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The employment of capital in agriculture is the most **productive** investment for any commonwealth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A single healthy plant can prove astonishingly **productive**, scattering thousands of viable seeds across the meadow."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move back by force or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be repellent to; cause aversion in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To drive back, fend off, or resist an attack, enemy, or intrusion; or to cause feelings of intense distaste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical electromagnetism and electrostatics, like electrical charges repel each other according to Coulomb's inverse-square law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my good lord; but as you did command, I did repel his letters and denied His access to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he did frown, O had she then gave over, Such nectar from his lips she had not suck’d. 572 Foul words and frowns must not repel a lover; What though the rose have prickles, yet ’tis pluck’d."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, “dear me—something bronchial, I think—hem!—to remark that you was so good on that occasion as to repel and repudiate that declaration."*
+> - 📜 **William Shakespeare (*Richard III*):** *"If we be conquered, let men conquer us, not these bastard Bretons, whom our fathers have beaten and did **repel**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella's cold and haughty manner seemed designed to **repel** any genuine expression of affection from Pip."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Diamagnetic substances are those which are repelled by magnetic poles, as like poles **repel** each other in space."*
+

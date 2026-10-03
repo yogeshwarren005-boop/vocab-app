@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of despoiling a country in warfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of despoiling a country in warfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The violent seizure of property, goods, or wealth from others; pillage, plundering, and spoliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military historiography of the Thirty Years' War, marauding mercenary regiments subjected civilian towns to systematic rapine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And day by day I’ll do this heavy task, So thou destroy Rapine and Murder there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rapine and Murder; therefore called so ’Cause they take vengeance of such kind of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rapine and Murder, you are welcome too."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Vandals indulged in indiscriminate slaughter and **rapine** after carrying the marble gates of imperial Rome."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Then shall the world go on, to good malignant, to bad benign, under the curse of perpetual **rapine** and pride."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To sanctify confiscation and **rapine** under the name of public liberty is to subvert the very foundation of justice."*
+

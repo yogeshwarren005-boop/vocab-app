@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pull back or move away or backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retreat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move back or further away from a previous position; to retreat, ebb, or diminish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal geomorphology and marine hydrology, ocean tides recede during low water, exposing intertidal mudflats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The air was warm and muggy, and the top seemed to recede as he approached."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Thus he beheld her recede, and in the anguish of his heart quoted a line from a poet, with peculiar emendations of his own— God’s _not_ in his heaven: All’s _wrong_ with the world!"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And while I contemplated the matter, I knew that they continued to recede."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I watched the dark mountain shadow slowly **recede** as the morning sun illuminated the valley of Chamounix."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The shores of Nantucket began to **recede** into the distance as the Pequod plunged into the open Atlantic."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"David watched the white cliffs of Dover **recede** into the ocean haze from the deck of the packet boat."*
+

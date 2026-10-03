@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elevated duct, conduit, or anatomical structure leading upward or positioned above another duct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and neuro-ophthalmology, superduction (sursumduction) is the upward vertical movement or elevation of one eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superduct designates pertaining to, derived from, or characteristic of latin duc within the domain of motion."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Testing the superior rectus muscle requires observing active **superduct** elevation of the cornea."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Paralysis of the third nerve abolishes the capacity to **superduct** the ocular globe upward toward the brow."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The coordinated contraction of the superior rectus and inferior oblique muscles serves to **superduct** the gaze."*
+

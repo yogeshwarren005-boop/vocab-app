@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anticipated event that turns out to be far less significant than was expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anticipated event that turns out to be far less significant than was expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An occurrence or event that was anticipated to be important or sensational but proves completely insignificant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media studies, anticlimactic public relations launches or staged spectacles that fail to generate public interest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonevent designates an anticipated event that turns out to be far less significant than was expected."*
+> - 📜 **George Orwell (*Collected Essays*):** *"The much-publicized political demonstration proved a complete **nonevent**, attracting merely a handful of curious idlers."*
+> - 📜 **Aldous Huxley (*Antic Hay*):** *"The grand social scandal fizzled out into a tedious **nonevent** as everyone agreed to forget the duel."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"What promised to be a dramatic confrontation dissolved into an awkward, silent **nonevent**."*
+

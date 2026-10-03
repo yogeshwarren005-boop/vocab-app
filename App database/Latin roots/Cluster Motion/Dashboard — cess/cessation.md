@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stopping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stopping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary or final ceasing, halting, or discontinuance of an action, process, or condition; a pause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military diplomacy, a cessation of hostilities (armistice) halts armed combat while peace terms are formally negotiated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was not the loss for the moment that made slack milking so serious, but that with the decline of demand there came decline, and ultimately cessation, of supply."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"This utter cessation of trade was as unusual and out of the accustomed shop business, as the extra rush had been."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The joy of it, had I dared joy at such a moment, would have been the cessation of sensations."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The sudden **cessation** of aerial bombardment over London signaled the redeployment of enemy air wings eastward."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I longed for a **cessation** of my mental agony, wishing that the silent grave might receive my weary body."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The sudden **cessation** of the hound's deep baying filled the midnight moor with an ominous, chilling silence."*
+

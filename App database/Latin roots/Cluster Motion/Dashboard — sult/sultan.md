@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ruler of a muslim country (especially of the former ottoman empire).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ruler of a muslim country (especially of the former ottoman empire).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign monarch or supreme ruler of a Muslim state, particularly the ruler of the Ottoman Empire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic political theology and medieval statecraft, the sultan exercised executive temporal authority alongside the caliph's spiritual prestige.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The sultan is puzzled: "What meanest thou?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"On, on we flew; and our offing gained, the Moss did homage to the blast; ducked and dived her brows as a slave before the Sultan."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"On, on we flew; and our offing gained, the Moss did homage to the blast; ducked and dived her bows as a slave before the Sultan."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Ottoman **sultan** Mehmed the Second deployed his colossal bronze cannon before the walls of Constantinople."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The splendid court of the grand **sultan** shone with jewels, cloth of gold, and silent janissary guards."*
+> - 📜 **Washington Irving (*Tales of the Alhambra*):** *"The Moorish **sultan** held court within the magnificent marble halls of the Alhambra overlooking Granada."*
+

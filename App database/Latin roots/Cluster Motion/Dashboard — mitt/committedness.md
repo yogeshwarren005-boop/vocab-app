@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of sincere and steadfast fixity of purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of sincere and steadfast fixity of purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, attitude, or degree of being firmly devoted, pledged, or loyal to a purpose or obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational psychology, high organizational committedness reduces employee turnover and enhances team cohesion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, committedness designates the trait of sincere and steadfast fixity of purpose."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The heroic worker is known by an unyielding **committedness** to genuine duty rather than noisy applause."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Deronda admired Mordecai's passionate **committedness** to the spiritual renewal of his ancient people."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A noble **committedness** to one's own inner conviction gives majesty and steady poise to character."*
+

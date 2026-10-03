@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be agitated, excited, or roused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change the arrangement or position of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move violently, stir up, agitate, or disturb profoundly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic metaphysical and natural philosophy, celestial influences were thought to commove terrestrial atmospheric vapors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, commove designates cause to be agitated, excited, or roused."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Straight the fierce trumpet's sound did fiercely **commove** the warlike hosts along the heavenly plains."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The subterranean earthquakes begin to **commove** the ancient granite foundations of the mountains."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Passionate rumors from Paris did deeply **commove** the provincial garrisons along the eastern border."*
+

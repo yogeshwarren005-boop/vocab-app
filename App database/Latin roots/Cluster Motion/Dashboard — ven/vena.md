@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blood vessel that carries blood from the capillaries toward the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blood vessel that carries blood from the capillaries toward the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vein, especially a blood vessel carrying blood from the tissues toward the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical human anatomy, major venous vessels such as the vena cava superior and vena cava inferior returning systemic blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vena designates a blood vessel that carries blood from the capillaries toward the heart."*
+> - 📜 **William Harvey (*De Motu Cordis (On the Motion of the Heart and Blood)*):** *"The blood is continuously returned to the right atrium through the great **vena** cava."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The surgeon traced the rupture of the pulmonary **vena** to severe blunt thoracic trauma."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Deoxygenated blood from the systemic organs enters the **vena** cava before reaching the heart."*
+

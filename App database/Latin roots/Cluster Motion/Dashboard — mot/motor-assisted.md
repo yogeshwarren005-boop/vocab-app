@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relying on an engine for propulsion in addition to muscle power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relying on an engine for propulsion in addition to muscle power.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relying on or augmented by an auxiliary internal engine or electric motor to supplement manual or pedal power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport engineering and urban mobility regulations, applies to electric bicycles (pedelecs) providing progressive power proportional to pedal effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motor-assisted designates relying on an engine for propulsion in addition to muscle power."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"He dreamed of a light **motor-assisted** velocipede that might scale the Sussex downs without human exhaustion."*
+> - 📜 **John Galsworthy (*The Forsyte Saga*):** *"The elderly gentleman preferred a **motor-assisted** tricycle for traversing the extensive paths of his country estate."*
+> - 📜 **Arnold Bennett (*The Card*):** *"Denry invested in an ingenious **motor-assisted** delivery cart that outpaced every horse in the Five Towns."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphorical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a metaphorical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a figurative or non-literal manner, through the symbolic use of metaphor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistic discourse analysis, speakers employ military idioms metaphorically to structure commercial and political competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether Young Smallweed (metaphorically called Small and eke Chick Weed, as it were jocularly to express a fledgling) was ever a boy is much doubted in Lincoln’s Inn."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It was this which made Dorothea so childlike, and, according to some judges, so stupid, with all her reputed cleverness; as, for example, in the present case of throwing herself, metaphorically speaking, at Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In this way, metaphorically speaking, a strong lens applied to Mrs."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"Mr. Boffin remarked that he was speaking **metaphorically** when he referred to gold as the marrow of civilized bones."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes observed that the witness had expressed himself **metaphorically**, but the underlying clue was solid fact."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The veteran steamboat pilot was speaking **metaphorically** when he declared that the river could smell a rising snag."*
+

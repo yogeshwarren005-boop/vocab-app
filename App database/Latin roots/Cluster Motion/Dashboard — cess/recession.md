@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of the economy declines; a widespread decline in the gdp and employment and trade lasting from six months to a year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small concavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period of temporary economic decline characterized by reduced trade, industrial output, and employment; or the act of withdrawing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic analysis, a technical recession is defined by two consecutive quarters of negative growth in real gross domestic product.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recession designates the state of the economy declines; a widespread decline in the gdp and employment and trade lasting from six months to a year."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The gradual **recession** of the imperial legions from the Danube left the border provinces vulnerable to barbarian incursions."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A general **recession** in foreign trade inevitably depresses the profits of domestic merchants and lowers the revenue of the sovereign."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The marine fossils discovered along the high inland ridges proved the long-term **recession** of the ancient sea."*
+

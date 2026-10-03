@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grammatical relation created by a transitive verb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical property of taking a direct object; or the logical property where A implies B and B implies C means A implies C.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical graph theory, the transitivity of a directed graph measures the relative frequency of closed three-node triangles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitivity designates (logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The logical **transitivity** of equality forms the indispensable foundation of all deductive arithmetic."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Grammatical **transitivity** is an essential conceptual instrument for mapping intentional human actions onto language."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"Degrees of syntactic **transitivity** vary widely across unrelated linguistic families."*
+

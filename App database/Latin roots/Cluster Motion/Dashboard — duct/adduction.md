@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) moving of a body part toward the central axis of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) moving of a body part toward the central axis of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The movement of a limb, digit, or anatomical structure toward the median axis of the body or across the midline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dialectic and rhetoric, adduction is the act of citing, adducing, or bringing forward evidence and illustrative authorities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adduction designates (physiology) moving of a body part toward the central axis of the body."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The powerful **adduction** of the pectoral muscles enables birds to strike downward with great wing force."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The complete **adduction** of the human great toe is a specialized adaptation essential for erect bipedal walking."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The judicial **adduction** of historical precedents gives stability to statutory interpretation."*
+

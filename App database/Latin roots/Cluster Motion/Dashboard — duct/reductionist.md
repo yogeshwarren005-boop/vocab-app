@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the theory of reductionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the theory of reductionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, advocating, or characteristic of reductionism; or a person who explains complex phenomena through simpler constituents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, reductionist models focusing solely on selfish genes were contested by advocates of multi-level selection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductionist designates of or relating to the theory of reductionism."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The **reductionist** analysis of matter resolves solid physical objects into systems of mathematical relations."*
+> - 📜 **William James (*The Will to Believe*):** *"The dogmatic **reductionist** fails to appreciate that moral experiences possess an intrinsic qualitative validity."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"A thorough **reductionist** might view ethics as biological survival adaptations, yet moral duties transcend brute impulse."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remaining in place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not moving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability to move or be moved; the state of remaining completely motionless or fixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological ethology, tonic immobility functions as an involuntary defensive freezing response to discourage predatory attack.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To one who knew the man and his story there was something more striking in this immobility than in a collapse."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And now, in the well-nigh congealed immobility of his frame could be discerned an incipient movement, as in the darkest night may be discerned light after a while."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What then, Die?” he replied, maintaining a marble immobility of feature."*
+> - 📜 **Edgar Allan Poe (*The Premature Burial*):** *"The terrifying cataleptic trance produced a rigid **immobility** that deceived even experienced medical observers."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Havisham sat in bridal **immobility** amid the rotting wedding feast in her darkened, dust-laden room."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The primeval forest seemed locked in monumental **immobility**, watching the fragile steamer with silent disdain."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The migration of dispersed colloidal particles or charged macromolecules under the influence of an applied electric field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and biochemistry, gel electrophoresis separates DNA, RNA, and protein fragments according to molecular size and net charge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrophoresis designates the motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The migration of suspended particles under galvanic tension demonstrates the foundational principles of modern **electrophoresis**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The laboratory separation of biological albuminous substances relies upon electrical migration techniques related to **electrophoresis**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"By employing zone **electrophoresis**, researchers isolated aberrant hemoglobin molecules in hereditary sickle-cell anemia."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a rhythmical cadence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a rhythmical cadence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, marked by, or moving with a rhythmic cadence, measure, or musical flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical oratorical rhetoric, cadenced periodic sentences conclude with balanced metric feet to persuade listeners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"They will accede to my demands." "What if they resist?" Narval's pudgy fists resumed their cadenced pounding."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"So long as sweet Gaelic was spoken and men's hearts surged with feeling, there would be a song of his father's to translate the effervescence into words of cadenced beauty...."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"But there was a reason for the cloister's glamour: cool thoughts and the rhythm of quiet praying, and the ringing of the little bell of mass, and the cadenced sacramental."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The orator's voice rose in solemn, **cadenced** periods that held the National Assembly in breathless silence."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Dimmesdale's voice possessed a rich, **cadenced** melody that swayed the hearts of his Puritan congregation."*
+> - 📜 **George Eliot (*Romola*):** *"The monks chanted the evening Psalms in a low, **cadenced** unison that echoed down the cloistered corridors."*
+

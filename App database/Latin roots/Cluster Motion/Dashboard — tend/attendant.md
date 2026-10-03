@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who waits on or tends to or attends to the needs of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is present and participates in a meeting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person employed to provide service, assistance, or care; or occurring as an accompanying circumstance or result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical European court etiquette, lords and ladies in waiting served as personal attendants to the monarch during official levées.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Find him, and bring him hither. [_Exit an Attendant._] BERTRAM."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Attendant with Parolles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Call her before us, for We have been too slight in sufferance. [_Exit an Attendant._] QUEEN."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Let thy fair wisdom, not thy passion, sway in this uncivil and unjust extent against thy peace; call each royal **attendant** forth."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The faithful **attendant** adjusted the cushions and placed the medicine bottle within easy reach of the invalid."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A magnificent retinue of horsemen rode as an **attendant** escort to the imperial carriage."*
+

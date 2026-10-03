@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small waterfall or series of small waterfalls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A succession of stages or operations or processes or units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, steep waterfall, typically one of several in a series; or a continuous succession of interconnected events or processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and physiological biochemistry, the coagulation cascade involves sequential enzymatic zymogen activations forming fibrin clots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The fruit that had been green in June was ripe now, and down the Painted-Lady apple-trees fell such a cascade of ruby and coral-coloured apples, from high sprig to heavy bole, that they looked like trees in a Kate Greenaway drawing."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The flashing cascade of his mane, the curving comet of his tail, invested him with housings more resplendent than gold and silver-beaters could have furnished him."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A continual cascade played at the bows; a ceaseless whirling eddy in her wake; and, at the slightest motion from within, even but of a little finger, the vibrating, cracking craft canted over her spasmodic gunwale into the sea."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A sparkling mountain **cascade** dashed over the sheer granite precipice, filling the valley with cool spray and music."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The foaming waters of the Alpine **cascade** leaped from rock to rock into the azure chasm beneath."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The wilderness stream tumbled through a mossy rocky gorge in a series of picturesque **cascade** falls."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be flustered; behave in a confused manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be nervous or upset.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Agitated, nervous, confused, or unsettled by haste, surprise, or unexpected demands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral cognitive psychology, flustered subjects display impaired working memory performance and delayed decision latency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How thoughtful they are!” Tess looked a little flustered as she took it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dron Zakhárych, you!” meek and flustered voices here and there were heard calling and caps began to come off their heads."*
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"It shall be made into a song.” “That’s all r-right,” says Mark, flustered as could be."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess looked a little **flustered** as she took it, her fingers trembling slightly."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Well, I hardly know, sir, said the **flustered** guinea-pig in a feeble squeak."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I found myself in a dream, a **flustered**, happy, hurried dream from which I feared to awake."*
+

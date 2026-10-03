@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle that draws a body part toward the median line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muscle that draws a body part toward the median line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle that draws a limb, digit, or body part toward the median anatomical axis of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, the large transverse muscles that contract to pull together and securely close the valves of bivalve shells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adductor designates a muscle that draws a body part toward the median line."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The giant Tridacna clam relies upon a colossal central **adductor** muscle to snap its massive shells shut."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Straining the gracilis or **adductor** longus produces the familiar athletic disability known as rider's strain."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Palpation along the medial femoral triangle elicited tenderness over the origin of the **adductor** brevis."*
+

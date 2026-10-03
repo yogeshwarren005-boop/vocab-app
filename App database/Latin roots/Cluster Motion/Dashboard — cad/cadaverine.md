@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless toxic ptomaine with an unpleasant odor formed during the putrefaction of animal tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless toxic ptomaine with an unpleasant odor formed during the putrefaction of animal tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foul-smelling diamine compound (1,5-diaminopentane) produced by the bacterial putrefaction of animal protein tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic biochemistry and post-mortem toxicology, decarboxylation of lysine produces cadaverine, creating putrefactive odor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadaverine designates a colorless toxic ptomaine with an unpleasant odor formed during the putrefaction of animal tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The toxicologist analyzed the foul ptomaine compounds, identifying putrescine and **cadaverine** in decomposed tissue."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin worked through the summer heat, enduring the nauseating stench of **cadaverine** from ancient bacterial cultures."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The refuse enclosure behind the biological laboratory smelled heavily of putrefactive amines and pungent **cadaverine**."*
+

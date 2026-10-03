@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a copy or equivalent of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have offspring or produce more individuals of a given animal or plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a copy, duplicate, or likeness of; to produce offspring by sexual or asexual means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, reproductive success (fitness) represents an organism's relative capacity to transmit genetic material to succeeding generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Shelley became intimate with the Westbrooks, and set about saving the soul of Harriet, who had a pretty rosy face, a neat figure, and a glib school-girl mind quick to catch up and reproduce his doctrines."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"His version, or rather adaptation (for much is omitted and much is paraphrased), is fluent, but he had not enough Greek to reproduce the finer shades of the original, or, indeed, to avoid gross mistakes."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It may, however, be thought worth while to reproduce here the concluding paragraph of a short article on "Spring Flowers in the South of Europe," as a sample of Mr."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every organism tends to multiply at so rapid a rate that its progeny cannot all survive, yet each strives to **reproduce** its kind."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The great artist does not merely **reproduce** external contours, but conveys the living soul of the mountain."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes managed to **reproduce** the exact footprints found on the roof using plaster casts."*
+

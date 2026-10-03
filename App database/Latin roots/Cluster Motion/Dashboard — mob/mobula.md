@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the mobulidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the mobulidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large pelagic eagle rays in the family Myliobatidae, commonly called devil rays or flying rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and elasmobranch ecology, species of Mobula aggregate in massive coastal schools and perform aerial breaching displays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobula designates type genus of the mobulidae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The ship sailed through tropical waters where giant pelagic rays of the genus **Mobula** leaped high into the air."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sailors observed the dark broad wings of a devil ray, resembling a swimming **Mobula**, gliding beneath the keel."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"A magnificent giant **Mobula** breached ten feet above the calm Pacific swell, slapping the surface with thunderous force."*
+

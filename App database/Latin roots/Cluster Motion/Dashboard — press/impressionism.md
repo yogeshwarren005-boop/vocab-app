@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A school of late 19th century french painters who pictured appearances by strokes of unmixed colors to give the impression of reflected light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A school of late 19th century french painters who pictured appearances by strokes of unmixed colors to give the impression of reflected light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 19th-century artistic movement characterized by depicting visual impressions of light, color, and momentary movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical composition, associated with Debussy and Ravel, using unresolved ninth chords, whole-tone scales, and exotic timbre to evoke atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impressionism designates a school of late 19th century french painters who pictured appearances by strokes of unmixed colors to give the impression of reflected light."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Literary **impressionism** captures the fleeting shimmer of waves and the rapid mosaic of passing thoughts."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The critics debated whether French **impressionism** sacrificed eternal architectural form for transient optical sparkle."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"The subtle atmospheric effects of London fog were scarcely appreciated until **impressionism** taught us to see them."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive by reason of age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profoundly honored.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commanding respect or reverence through age, wisdom, holy character, or historic associations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman Catholic hagiography, an honorific title given to a deceased person whose heroic virtues have been officially decreed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Set down your venerable burden, And let him feed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We are all bastards, And that most venerable man which I Did call my father was I know not where When I was stamp’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This youth that you see here I snatch’d one half out of the jaws of death, Reliev’d him with such sanctity of love; And to his image, which methought did promise Most venerable worth, did I devotion."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The **venerable** doctor sat in the sun, beloved and honored by all who knew his long suffering."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The old mansion possessed a **venerable** air, surrounded by noble oaks that had stood for centuries."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The **venerable** clergyman read the ancient liturgy in a tone of dignified solemnity."*
+

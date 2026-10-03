@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to procedure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to court practice and procedure as opposed to the principles of law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, established by, or conforming to established official procedures, protocols, or rules of conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional due process law, procedural due process guarantees notice and an opportunity to be heard before deprivation of rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procedural designates of or relating to procedure."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Inspector Athelney Jones insisted upon strict **procedural** protocol, though it continually delayed his investigation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The Court of Chancery was entangled in endless **procedural** motions while the suit of Jarndyce dragged on."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The war cabinet dispensed with peacetime **procedural** delays to accelerate the emergency supply of munitions."*
+

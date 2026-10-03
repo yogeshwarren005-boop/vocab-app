@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking meat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking meat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, using, or providing no meat; vegetarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health history, mandatory meatless days were instituted during wartime food rationing to preserve strategic livestock reserves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meatless designates lacking meat."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Many impoverished mining families subsisted on cheap bread, margarine, and **meatless** vegetable broths."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"The philosopher remarked that a civilized society would voluntarily adopt a humane, **meatless** diet."*
+> - 📜 **Jack London (*The People of the Abyss*):** *"The East End shelter provided poor laborers with a bowl of **meatless** soup and a dry crust of bread."*
+

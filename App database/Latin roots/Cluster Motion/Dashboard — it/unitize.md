@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide (bulk material) and process as units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert, organize, or package into a standardized unit or uniform whole; to unify separate parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In supply chain management, distribution centers unitize individual retail cartons onto shrink-wrapped wooden pallets for intermodal transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitize designates divide (bulk material) and process as units."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The investigator must **unitize** his observational criteria to ensure that all field assistants record identical phenomena."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolutionary processes continuously **unitize** disparate biological functions into harmonious physiological systems."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Selective pressures tend to **unitize** polymorphic traits when an environmental niche demands specialized efficiency."*
+

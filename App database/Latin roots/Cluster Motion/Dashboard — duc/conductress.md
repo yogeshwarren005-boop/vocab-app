@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman conductor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman conductor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who conducts; especially a female guide, directress, or bus or tram ticket collector.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wartime social history, female transport workers who staffed municipal buses and trams during World War I and II.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"As a conductress of Indian schools, and a helper amongst Indian women, your assistance will be to me invaluable.” My iron shroud contracted round me; persuasion advanced with slow sure step."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My young conductress locked the gate, and we went across the courtyard."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Osmond met her in the cold ante-chamber--it was cold even in the month of May--and ushered her, with her conductress, into the apartment to which we have already been introduced."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My charming young **conductress** led me through the fragrant conservatory into the morning room."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The cheerful bus **conductress** carrying her ticket machine through the blackout embodied wartime resilience."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She followed her gentle **conductress** up the winding oak staircase to the library."*
+

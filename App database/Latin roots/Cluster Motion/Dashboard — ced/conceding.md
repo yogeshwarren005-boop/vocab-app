@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conceding or yielding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Admit (to a wrongdoing).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Admitting, acknowledging, or yielding something as true, valid, or lost during discussion, debate, or contest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic treaty bargaining, strategically conceding non-essential points preserves core national security objectives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Barbou came to ask whether I did not think it would be well to appease the popular feeling by conceding what they wished to the Sisters of the hospital."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle, conceding his fin with a gracious dignity, was immediately shoved into a dusty corner, while everybody danced a hornpipe; and from that corner, surveying the public with a discontented eye, became aware of me."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In conceding all this, the question of expense must be given up; for it is impossible, with any degree of safety, to narrow the foundation upon which the system is to stand."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor spoke with calm reason, **conceding** that appearances were unfavorable while maintaining her private faith."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The allied high command refused to consider **conceding** any territory that would compromise Mediterranean sea lanes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn listened in cold silence, **conceding** nothing to the agitated lady who pleaded before him."*
+

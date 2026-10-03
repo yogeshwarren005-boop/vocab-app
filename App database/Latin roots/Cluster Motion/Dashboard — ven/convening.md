@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of convening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet formally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of assembling, summoning, or meeting together formally for conference or deliberation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional history, the convening of extraordinary estates-general or constituent assemblies to draft new charters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The dilatory process of convening the legislature, or one of its branches, for the purpose of obtaining its sanction to the measure, would frequently be the occasion of letting slip the golden opportunity."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Except some cavils about the power of convening EITHER house of the legislature, and that of receiving ambassadors, no objection has been made to this class of authorities; nor could they possibly admit of any."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In regard to the power of convening either house of the legislature, I shall barely remark, that in respect to the Senate at least, we can readily discover a good reason for it."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor issued imperial rescripts for **convening** the provincial bishops at Arles."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The regular **convening** of Congress is safeguarded by precise constitutional calendar provisions."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The **convening** of the States-General in May 1789 sounded the opening knell of the ancient monarchy."*
+

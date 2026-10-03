@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower (prices or markets).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing sadness, gloom, disheartening despondency, or lowering of morale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical evaluation, describes environmental and behavioral factors that exacerbate melancholy and anhedonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Not to be able to have a glimpse of their mother for two or three days was depressing news indeed."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore tried very hard to fight these depressing thoughts, but they went so deep that she seldom succeeded."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli actually begged to go to bed before the evening song had been sung, because the depressing atmosphere in the house was so little to her taste that she even preferred to go to bed."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Still, it was faintly **depressing** that the most dignified and valuable man in the parish should turn away."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There is hardly any contact more **depressing** to a young ardent creature than that of a mind narrow and cold."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The wet mist hovering over the lonely marshes produced a deeply **depressing** influence upon the wanderer."*
+

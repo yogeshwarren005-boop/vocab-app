@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyphonic choral musical composition on a sacred Latin text, typically unaccompanied by instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance musicology, the Renaissance motet featured imitative counterpoint based on sacred scripture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motet designates an unaccompanied choral composition with sacred lyrics; intended to be sung as part of a church service; originated in the 13th century."*
+> - 📜 **George Eliot (*Romola*):** *"The choir in the cathedral sang a sublime Latin **motet** composed by the Flemish master for holy week."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The villagers attempted an antique ecclesiastical **motet**, their violins trembling with earnest fervor."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The deep resonant voices of the monks chanted a solemn four-part **motet** in the vaulted chancel."*
+

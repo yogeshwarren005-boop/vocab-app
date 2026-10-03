@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not in motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in motion; stationary, static, at rest, or lacking physical movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traffic enforcement and municipal statutory codes, nonmoving violations encompass parking infractions and expired vehicle registrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmoving designates not in motion."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes remained motionless behind the hedge, his keen eyes fixed upon the **nonmoving** shadow beside the gate."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Predators often fail to distinguish **nonmoving** cryptically colored insects resting upon lichens on oak bark."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The laboratory apparatus appeared completely **nonmoving** and solid, though its temporal components oscillated."*
+

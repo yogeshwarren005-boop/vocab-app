@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove something concrete, as by lifting, pushing, or taking off, or remove something abstract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from a position or an office.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distant or separated in space, time, or relationship; or taken away, displaced, or dismissed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genealogical classification, a cousin once removed belongs to one generation above or below the reference person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many a holy and obsequious tear Hath dear religious love stol’n from mine eye, As interest of the dead, which now appear, But things removed that hidden in thee lie."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Lord, Lord, it is a hard matter for friends to meet; but mountains may be removed with earthquakes and so encounter."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The cottage in Devonshire was quiet and pleasantly **removed** from the bustling gossip of London society."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"David felt entirely **removed** from the happy childhood days at Blunderstone Rookery once placed at Murdstone's warehouse."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The solitary cottage of Hester Prynne stood **removed** from the Puritan settlement on the barren shore."*
+

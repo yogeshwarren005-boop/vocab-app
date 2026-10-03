@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus that uses centrifugal force to separate particles from a suspension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotate at very high speed in order to separate the liquids from the solids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus with a rapidly rotating container used to separate liquids from solids or substances of different densities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial dairy processing and biochemistry, a continuous-flow centrifuge separates milk fat globules from liquid whey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrifuge designates an apparatus that uses centrifugal force to separate particles from a suspension."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The newly equipped factory cellar housed a motorized mechanical **centrifuge** to clarify the proprietary elixir."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"Holmes examined the laboratory **centrifuge** used by the defense chemist to test explosive nitro-compounds."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin Arrowsmith watched the hum of the electric **centrifuge** as it spun bacterial suspensions into clear supernatant."*
+

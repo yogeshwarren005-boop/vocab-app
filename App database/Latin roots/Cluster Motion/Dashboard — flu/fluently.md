@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fluent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fluent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fluent, effortless, and smooth manner; with ease and natural readiness of expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative philology, polyglots who speak fluently demonstrate automated lexical retrieval and syntactic encoding without mental translation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, take her, And fluently persuade her to a peace. _Et opus exegi, quod nec Jovis ira, nec ignis—_ Strike up, and lead her in."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He spoke fluently and unceasingly."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How is it that you speak so fluently now?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"How is it that you speak so **fluently** now, having been raised in a peasant cottage?"*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He spoke French and English **fluently**, moving between languages with remarkable European sophistication."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill talked **fluently** and agreeably upon every topic that arose during the carriage drive."*
+

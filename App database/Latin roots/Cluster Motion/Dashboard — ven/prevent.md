@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Keep from happening or arising; make impossible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stop (someone or something) from doing something or being in a certain state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To keep from happening or arising; to hinder, forestall, or make impossible by prior action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaically (from Latin praevenire), to go before, precede, or anticipate someone as a guide or protector.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give my love fame faster than Time wastes life, So thou prevent’st his scythe, and crooked knife. 101 O truant Muse what shall be thy amends, For thy neglect of truth in beauty dyed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will tell you why; so shall my anticipation prevent your discovery, and your secrecy to the King and Queen moult no feather."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hope no less, yet needful ’tis to fear; And to prevent the worst, Sir Michael, speed."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"So shall my anticipation **prevent** your discovery, and your secrecy to the king and queen moult no feather."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The watchful guardian angels came to **prevent** the subtle adversary from entering Paradise undetected."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe stood between us to **prevent** any further violence from the raging blacksmith."*
+

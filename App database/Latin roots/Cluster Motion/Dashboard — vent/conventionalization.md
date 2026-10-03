@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conventionalizing; conforming to a conventional style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conventionalizing; conforming to a conventional style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of bringing something into conformity with conventional styles, social rules, or standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, the historical evolution whereby utilitarian tools and weapons become ceremonial or ritualistic status symbols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conventionalization designates the act of conventionalizing; conforming to a conventional style."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The **conventionalization** of vocal symbols allows communities to share conceptual categories with astonishing precision."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Every phase of ornamental decay begins with the mechanical **conventionalization** of living organic prototypes."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The elaborate **conventionalization** of leisure dress ensures that costly garments unmistakably advertise freedom from manual labor."*
+

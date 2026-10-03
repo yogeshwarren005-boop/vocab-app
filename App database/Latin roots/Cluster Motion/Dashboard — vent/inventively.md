@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inventive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inventive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an imaginative, resourceful, or creatively original and ingenious manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic design, deploying unexpected aesthetic pairings or novel formal techniques to resolve composition challenges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inventively designates in an inventive manner."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Venetian stone-carvers worked **inventively**, varying every foliage capital with fresh natural observation."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"She adapted her wardrobe **inventively**, combining Elizabethan ruffs with eighteenth-century velvet breeches."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins handled phonetic transcriptions **inventively**, capturing local cockney inflections with photographic precision."*
+

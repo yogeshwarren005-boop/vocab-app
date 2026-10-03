@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonessential but helpful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonessential but helpful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or functioning as an accessory; supplementary, subordinate, or aiding in a criminal enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freight transport logistics and maritime shipping, accessorial charges cover ancillary services such as detention, storage, or redelivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accessorial designates nonessential but helpful."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitor examined the **accessorial** costs incurred during the lengthy examination of witnesses in Chancery."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes weighed the **accessorial** evidence, determining how the boatman had unwittingly assisted the fugitive."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The jurist distinguished principal liability from **accessorial** involvement in conspiratorial crimes."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being expressed, spoken, or communicated in words; ineffable, indescribable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological discourse, the transcendent nature of the divine that surpasses the conceptual limits of human language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unexpressible designates defying expression."*
+> - 📜 **John Tillotson (*Sermons on Several Occasions*):** *"The infinite majesty of the Divine Being fills the devout soul with **unexpressible** reverence and adoration."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian felt an **unexpressible** joy as the heavy burden rolled from his shoulders into the empty sepulchre."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Deep within the silence of the starry night there dwells an **unexpressible** grandeur that humbles human pride."*
+

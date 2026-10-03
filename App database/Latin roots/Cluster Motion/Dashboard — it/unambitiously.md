@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unambitious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unambitious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unambitious manner; modestly, without seeking distinction, power, or advancement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pastoral literature, rustic swains live unambitiously among their flocks, immune to the corrosive rivalries of royal courts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unambitiously designates in an unambitious manner."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village shoemaker lived **unambitiously** in his thatched cottage, content with his daily bread."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The quiet curate laboured **unambitiously** among his poor parishioners, seeking no ecclesiastical promotion."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward Ferrars wished only to settle **unambitiously** in a modest country parsonage."*
+

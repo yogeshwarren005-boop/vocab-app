@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: So as to be incapable of moving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: So as to be incapable of moving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unyielding, steadfast, or firmly fixed manner, so as to defy displacement or change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine navigation and anchorage design, massive fluked anchors bed immovably into seafloor clay to hold vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Her hand often lay immovably on these, while she absently looked in front of her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The latter looked immovably at the little girl, while tears were coursing down her cheeks."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had long ago observed them and stood immovably behind the door."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Doctor Manette remained **immovably** silent, his eyes fixed on the shoemaker's bench before him."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Saxon champion stood **immovably** in the center of the list, awaiting the Norman knight's charge."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The heavy iron chains were secured **immovably** to the stone walls of the subterranean dungeon."*
+

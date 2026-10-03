@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At the beginning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At the beginning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At the beginning; in an initial stage, degree, or manner; at first.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiological modeling, disease incidence initially accelerates along an exponential curve before contact saturation slows transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Note that while a copyright was initially claimed for the labor involved in digitization, that copyright claim is not consistent with current copyright requirements."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Initially in Earth orbit, later in lunar space and on Luna itself, they guided settlers in developing new lifestyles and colonizing skills, and showed them how to wrest and refine usable elements and minerals from nearby sources."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"A modified structure may **initially** serve a rudimentary purpose before being adapted to an entirely novel function."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The river basin was **initially** formed by tectonic faulting prior to millennia of fluvial erosion."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"New manufacturing techniques are **initially** guarded as lucrative trade secrets by enterprising masters."*
+

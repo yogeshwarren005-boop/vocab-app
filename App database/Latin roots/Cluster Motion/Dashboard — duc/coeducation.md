@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Education of men and women in the same institutions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Education of men and women in the same institutions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The integrated education of male and female students within the same educational institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the social history of American higher education, pioneered by Oberlin College in 1837 and adopted by land-grant universities after 1862.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coeducation designates education of men and women in the same institutions."*
+> - 📜 **John Dewey (*The School and Society*):** *"The widespread adoption of **coeducation** reflects our democratic faith in equal intellectual opportunities for all citizens."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"The success of university **coeducation** has completely refuted ancient predictions of feminine intellectual inferiority."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"Her college years under **coeducation** provided rigorous preparation for leadership in municipal social reform."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that compresses gasses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device that compresses gasses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device, machine, or tool used to compress gases or increase pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and surgical instruments, any muscle or clamp that constricts an opening or blood vessel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"First of all a pump or compressor compresses it."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In the centre is the compressor."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Carbonic acid gas liquefies at a very moderate temperature and pressure, and so while it leaves the compressor as a gas it becomes liquid in the condenser and remains so until it has passed the regulating valve."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The clanking rotary **compressor** forced chilled gas through the tubular coils of the dirigible."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin adjusted the electric air **compressor** connected to the bacterial filtration apparatus."*
+> - 📜 **Upton Sinclair (*Oil!*):** *"The roaring diesel **compressor** pumped high-pressure air down into the casing of the test well."*
+

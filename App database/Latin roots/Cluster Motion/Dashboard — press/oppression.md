@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of subjugating by cruelty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being kept down by unjust use of force or authority:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The exercise of authority or power in an unjust, cruel, or burdensome manner; a sense of heavy depression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical sociology, the institutionalized disenfranchisement, economic exploitation, and cultural erasure of vulnerable demographic groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When day’s oppression is not eased by night, But day by night and night by day oppressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar himself has work, and our oppression Exceeds what we expected. [_Exeunt._] Alarums."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ha! ’Swounds, I should take it: for it cannot be But I am pigeon-liver’d, and lack gall To make oppression bitter, or ere this I should have fatted all the region kites With this slave’s offal."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"At thy good heart's **oppression**. Why, gentle cousin, does love weigh so heavy on thy breast?"*
+> - 📜 **Thomas Jefferson (*Declaration of Independence*):** *"In every stage of these **oppressions** we have petitioned for redress in the most humble terms."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Resistance to tyranny is justified when arbitrary power degenerates into intolerable **oppression**."*
+

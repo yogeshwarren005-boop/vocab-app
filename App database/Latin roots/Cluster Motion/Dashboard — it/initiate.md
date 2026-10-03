@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone new to a field or activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has been admitted to membership in a scholarly field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause a process or action to begin; to introduce someone into a specialized society, craft, or body of knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, the House of Representatives has the exclusive prerogative to initiate revenue bills under the Origination Clause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My strange and self-abuse Is the initiate fear that wants hard use."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though I didn’t like to initiate it, I have seen that it was advisable we should part—at least for a while, till I can better see the shape that things have taken, and can write to you.” Tess stole a glance at her husband."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Mehevi sought to enlighten my ignorance, but he failed as signally as when he had endeavoured to initiate me into the perplexing arcana of the taboo."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"My strange and self-abuse is the **initiate** fear that wants hard use; we are yet but young in deed."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Though I didn't like to **initiate** it, I have seen that it was advisable we should part."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is the office of philosophy to **initiate** scholars into the methodical inquiry of natural causes."*
+

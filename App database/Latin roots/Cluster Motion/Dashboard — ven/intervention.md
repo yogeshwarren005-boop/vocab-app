@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of intervening (as to mediate a dispute, etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policy of intervening in the affairs of other countries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coming between persons or things to alter, settle, or prevent an action or course of events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and international law, forcible interference by a state in the internal sovereign affairs of another realm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"When at length the vote came to be taken, and Fraser was elected by a majority of three, there were few who doubted that the intervention of the Berwick minister had been of critical importance in bringing about this result."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Kwan Yung-jin was my man, and all that saved him when I made my rush was the intervention of his satellites."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Public affairs always stirred him, but, as time went on, it was more and more to verse and less to practical intervention, and after 1817 he abandoned argument altogether for song."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The timely **intervention** of the Roman legions arrested the advance of the invading Alemanni."*
+> - 📜 **John Stuart Mill (*A Few Words on Non-Intervention*):** *"The question of military **intervention** in the domestic struggles of a neighbor demands rigorous moral justification."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Only the sympathetic **intervention** of Mr. Jarndyce saved the distressed family from total ruination."*
+

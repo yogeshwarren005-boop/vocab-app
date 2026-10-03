@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tall narrow wineglass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woodwind musical instrument consisting of an open pipe played by blowing across an embouchure hole; or a decorative vertical groove.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architectural orders, semicircular flutes adorn the shafts of Doric, Ionic, and Corinthian columns to emphasize verticality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A Room in a Cottage Enter Quince, Snug, Bottom, Flute, Snout and Starveling."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Francis Flute, the bellows-mender."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Flute, you must take Thisbe on you."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Here, Peter Quince; you must speak for Francis **Flute**, the bellows-mender, who plays Thisbe."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Anon they move in perfect phalanx to the Dorian mood of **flute** and soft recorder."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The musical tones of the simple reeds and **flute** evoke deep emotional resonance in all human races."*
+

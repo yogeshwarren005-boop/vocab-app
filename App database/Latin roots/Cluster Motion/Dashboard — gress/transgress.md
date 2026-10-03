@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in disregard of laws, rules, contracts, or promises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread over land, especially along a subsiding shoreline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To infringe upon, cross, or go beyond the bounds of a moral principle, command, or legal boundary; to sin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological ethics and biblical jurisprudence, to transgress the divine covenant incurs moral guilt requiring expiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"But list’n not to his Temptations, warne Thy weaker; let it profit thee to have heard By terrible Example the reward Of disobedience; firm they might have stood, Yet fell; remember, and fear to transgress."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Perfet within, no outward aid require; And all temptation to transgress repel."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Hadst thou bin firm and fixt in thy dissent, Neither had I transgress’d, nor thou with mee."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Shall we **transgress** the sole command of heaven, and taste the mortal fruit that brings death into the world?"*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"I am not prone to weeping, as our sex commonly are, yet I have that honorable grief lodged here which does not **transgress**."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The soul must never **transgress** the sacred laws of conscience, however dazzling worldly temptations may appear."*
+

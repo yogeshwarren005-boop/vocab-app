@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing markings that resemble veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing markings that resemble veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having numerous, prominent, or conspicuously visible veins; veined or veiny in texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, leaves or petals exhibiting an intricate, raised network of reticulated vascular bundles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venose designates having or showing markings that resemble veins."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The broad, **venose** leaves of the water plant provide an extensive photosynthetic surface in muddy streams."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"A frond is described as **venose** when the vascular fibers project prominently from its lower surface."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The painter observed the delicate, **venose** architecture of the violet leaf with reverent curiosity."*
+

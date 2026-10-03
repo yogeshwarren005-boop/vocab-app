@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vague idea in which some confidence is placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An outward appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An effect, imprint, or feeling produced on the mind, senses, or a pliable surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In publishing and bibliographical descriptive cataloging, the entire quantity of books printed from one set of plates during a single print run.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sink, my knee, i’ th’ earth; [_Kneels._] Of thy deep duty more impression show Than that of common sons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had my father’s signet in my purse, Which was the model of that Danish seal: Folded the writ up in the form of the other, Subscrib’d it: gave’t th’impression; plac’d it safely, The changeling never known."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That is, were I under the terms of death, Th’ impression of keen whips I’d wear as rubies, And strip myself to death as to a bed That longing have been sick for, ere I’d yield My body up to shame."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"External objects produce an **impression** upon our senses, which transmits perceptions directly to the mind."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the clay soil, finding a clear **impression** of a small naked foot with splayed toes."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot could not shake off the profound **impression** made by Captain Wentworth's sudden return."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising from inductance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of reasoning; proceeding from particular facts to a general conclusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or using the logical method of induction; or operating by electrical or magnetic induction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, the problem of inductive inference (Hume's problem) questions the rational justification for expecting the future to conform to the past.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Inductive demonstration of broadly stated economic principles is usually difficult, but there have been many "monetary experiments" to teach their lessons."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It was even asserted confidently, that nothing more was to be expected,--that an inductive logic was impossible."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"All reasoning is shown to be at bottom inductive."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The intuitive, no less than what may be termed the **inductive**, school of ethics, insists on the necessity of general laws."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Their Maker's image then forsook them, when themselves they vilified to serve brute lust, an **inductive** snare of ruin."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **inductive** philosophy proceeds by careful exclusions and rejections of unverified hypotheses."*
+

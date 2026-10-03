@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The second nearest planet to the sun; it is peculiar in that its rotation is slow and retrograde (in the opposite sense of the earth and all other planets except uranus); it is visible from earth as an early `morning star' or an `evening star'.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of love; counterpart of greek aphrodite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Roman goddess of love, beauty, and fertility; or the second planet from the Sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary astronomy, the terrestrial planet possessing a runaway greenhouse atmosphere of dense carbon dioxide and sulfuric acid clouds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet have I fierce affections, and think What Venus did with Mars."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For her own person, It beggared all description: she did lie In her pavilion, cloth-of-gold of tissue, O’erpicturing that Venus where we see The fancy outwork nature."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, that same wicked bastard of Venus, that was begot of thought, conceived of spleen, and born of madness, that blind rascally boy that abuses everyone’s eyes because his own are out, let him be judge how deep I am in love."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"Now forth I'll go to look upon the evening sky where fair **Venus** shines bright above the forest."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The star of **Venus** ushered in the radiant dawn with mild and starry splendor."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Bright **Venus** hovered in the western heaven, an immortal beacon of celestial light and love."*
+

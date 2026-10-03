@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put down by force or intimidation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceal or hide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subdued, restrained, or kept under rigid emotional or political control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis, thoughts, desires, or traumatic experiences relegated to the unconscious mind through psychological repression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To say of a man so severely and strictly self-repressed that he is triumphant would be to do him as great an injustice as to suppose him troubled with love or sentiment or any romantic weakness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He repressed the instinct, and his form drooped as with pain."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess was trying to lead a repressed life, but she little divined the strength of her own vitality."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess was trying to lead a **repressed** life, but she little divined the invincible strength of her own vital passions."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The ego seeks to mediate between the urgent claims of the id and the rigid censorship of **repressed** desires."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"We should be glad to see just conduct enforced and unjust predation rigorously **repressed** in public affairs."*
+

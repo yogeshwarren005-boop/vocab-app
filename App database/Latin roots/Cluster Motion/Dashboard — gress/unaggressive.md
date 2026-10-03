@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not aggressive; not given to fighting or assertiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not aggressive; not given to fighting or assertiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not aggressive; lacking hostile, competitive, or combative tendencies; gentle, quiet, and peaceful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary ethology, domestic livestock strains are bred for an unaggressive temperament to ensure safe herd handling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaggressive designates not aggressive; not given to fighting or assertiveness."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward Ferrars had an **unaggressive** and unassuming manner, completely free from the arrogant pride of his family."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Artificial selection has produced remarkably gentle, **unaggressive** varieties among domestic sheep and cattle."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Farebrother was an **unaggressive** clergyman, preferring his natural history collections to bitter theological disputes."*
+

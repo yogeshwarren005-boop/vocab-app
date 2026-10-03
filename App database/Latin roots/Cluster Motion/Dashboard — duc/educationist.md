@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in the theory of education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in the theory of education.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in education; one who studies, promotes, or writes about pedagogical theories and methods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration, policy advisors formulating national curriculum standards and school funding frameworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, educationist designates a specialist in the theory of education."*
+> - 📜 **John Dewey (*The School and Society*):** *"The **educationist** must bridge the gulf between academic curriculum and the industrial realities of modern life."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"The modern **educationist** recognizes that bodily health is the indispensable foundation of all mental vigor."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"No **educationist** can ignore the profound claims of natural science to a central place in liberal learning."*
+

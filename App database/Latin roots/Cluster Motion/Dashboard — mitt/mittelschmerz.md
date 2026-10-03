@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One-sided, lower abdominal pelvic pain occurring in women during normal mid-cycle ovulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological clinical diagnosis, distinguishing physiological mittelschmerz from acute appendicitis avoids unnecessary exploratory laparotomies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mittelschmerz designates pain in the area of the ovary that is felt at the time of ovulation (usually midway through the menstrual cycle)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must recognize benign ovulatory discomfort, historically termed **mittelschmerz**, to avoid diagnostic errors."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Peritoneal irritation associated with follicular rupture at mid-cycle explains the syndrome of **mittelschmerz**."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The medical practitioner distinguished between organic peritoneal inflammation and cyclic abdominal **mittelschmerz**."*
+

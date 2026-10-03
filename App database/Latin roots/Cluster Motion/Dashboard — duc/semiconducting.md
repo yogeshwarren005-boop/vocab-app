@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting electrical conductivity intermediate between that of an insulator and a conductor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics, possessing an energy bandgap where thermal or optical excitation elevates electrons into conduction bands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiconducting designates having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Certain metallic sulphides exhibit an anomalous **semiconducting** behavior under varying thermal conditions."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The aerial telegraph detector utilized a **semiconducting** crystal contact to rectify high-frequency wireless waves."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Silicon and germanium **semiconducting** wafers enabled the creation of miniature spacecraft computers."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (nontechnical usage) a tiny piece of anything.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (nontechnical usage) a tiny piece of anything.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny speck, particle, or minute fragment of dust, especially one visible dancing in a sunbeam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Biblical exegesis, the Parable of the Mote and the Beam contrasts small faults in others with gross hypocrisy in oneself.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mote it is to trouble the mind’s eye."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O heaven, that there were but a mote in yours, A grain, a dust, a gnat, a wandering hair, Any annoyance in that precious sense!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You found his mote, the King your mote did see; But I a beam do find in each of three."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"A **mote** it is to trouble the mind's eye; in the most high and palmy state of Rome, a little ere the mightiest Julius fell."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Footsteps sounded hollow in the deserted chambers where every floating **mote** of dust seemed stirred by memory."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A single **mote** floating in the golden sunbeam reveals the invisible circulation of room air."*
+

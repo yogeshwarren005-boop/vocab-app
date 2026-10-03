@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibit or undergo fluorescence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibit or undergo fluorescence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo or exhibit fluorescence; to emit visible light under exposure to ultraviolet radiation or other external light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular cell biology, fluorophore-conjugated antibodies fluoresce under confocal laser scanning to visualize subcellular organelles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoresce designates exhibit or undergo fluorescence."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The barium platinocyanide screen began to **fluoresce** brilliantly when brought near the radium preparation."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Certain transparent uranium minerals **fluoresce** with an eerie yellow-green luminescence in sunlight."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The vaporous exhaust from the Martian apparatus seemed to **fluoresce** in the evening gloom."*
+

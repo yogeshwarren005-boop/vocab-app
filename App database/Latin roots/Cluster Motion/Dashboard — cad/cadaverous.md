@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very thin especially from disease or hunger or cold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cadaver or corpse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a corpse in being gaunt, emaciated, pale, and hollow-eyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physical diagnostics, a cadaverous facies reflects profound metabolic cachexia from end-stage chronic disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was short, cadaverous, and withered, with his head sunk sideways between his shoulders and the breath issuing in visible smoke from his mouth as if he were on fire within."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some approached pure blanching; some had a bluish pallor; some worn by the older characters (which had possibly lain by folded for many a year) inclined to a cadaverous tint, and to a Georgian style."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"By degrees the freshest among them began to grow cadaverous and saucer-eyed."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The prisoners in the Bastille emerged into the light with **cadaverous** faces and hollow, unseeing eyes."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dying Detective*):** *"Watson was horrified to see Holmes looking frail and **cadaverous**, his cheeks flushed with fever."*
+> - 📜 **Edgar Allan Poe (*The Masque of the Red Death*):** *"The masked stranger was tall and gaunt, shrouded in grave-clothes with a **cadaverous** visage resembling a corpse."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not influential.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not influential.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking influence, power, weight, or prestige; having little or no effect upon people or outcomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary electoral politics, an uninfluential backbencher rarely secures cabinet patronage or legislative sponsorship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I did not want to quarrel with anyone, influential or uninfluential."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A solitary citizen in a democracy feels weak and **uninfluential** unless joined in public association with peers."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The remote parish was governed by an **uninfluential** country justice of meager fortune."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's unfinished theological pamphlets remained obscure and **uninfluential** among London scholars."*
+

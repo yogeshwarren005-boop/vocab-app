@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use again after processing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use again after processing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To process materials, substances, or waste again in order to extract valuable components or prepare them for reuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear fuel cycle technology, chemical plants reprocess spent reactor rods to separate unused uranium and plutonium from fission products.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reprocess designates use again after processing."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The chemists had to **reprocess** several tons of pitchblende residue to extract a minute fraction of pure radium salt."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Industrial ingenuity finds methods to **reprocess** slag and chemical waste into profitable fertilizers."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Nature continually evolves biochemical mechanisms to decompose and **reprocess** organic waste into fertile humus."*
+

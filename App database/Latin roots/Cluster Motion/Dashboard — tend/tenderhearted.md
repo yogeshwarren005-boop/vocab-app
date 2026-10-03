@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily moved to love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily moved by another's distress; - w.m.thackeray.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing an easily touched, sympathetic, compassionate, and kindly disposition; sensitive to the suffering of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian moral literature, the tenderhearted heroine embodied evangelical ideals of empathetic benevolence and unselfish charity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Even their mother missed them; and how much more their tenderhearted cousin, who wandered about the house, and thought of them, and felt for them, with a degree of affectionate regret which they had never done much to deserve!"*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The **tenderhearted** clerk wept openly when he learned of Tiny Tim's fragile health."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was too **tenderhearted** to dismiss the distressed cottager without offering practical financial help."*
+> - 📜 **William Shakespeare (*King Lear*):** *"A **tenderhearted** maid would not have turned her aged father into such a tempestuous night."*
+

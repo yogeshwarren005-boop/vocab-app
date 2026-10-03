@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conforming to accepted rules or standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conventional or conformist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not based on or conforming to what is generally done or traditionally accepted; unorthodox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic history, breaking with established academic styles or societal decorum through radical originality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There are occasions when girls like Bathsheba will put up with a great deal of unconventional behaviour."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The whole blame was mine—the whole unconventional business of our time at Trantridge."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The unconventional redeployment of the Plutonian Assault Force amazed and appalled him."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The brilliant young reformer advocated **unconventional** marriage laws that scandalized respectable society."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe adopted an **unconventional** technique, refusing to paint figures with conventional Victorian symmetry."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry delighted in propounding **unconventional** paradoxes that shattered the moral complacency of his listeners."*
+

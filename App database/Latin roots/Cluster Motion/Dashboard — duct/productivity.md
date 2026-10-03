@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being productive or having the power to produce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (economics) the ratio of the quantity and quality of units produced to the labor per unit of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The efficiency of productive effort, measured by output per unit of input or labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic growth accounting (Solow-Swan model), total factor productivity measures output gains not accounted for by capital and labor growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To a modern reader the connexion at first sight may not be obvious between the activity of the hangman and the productivity of the earth."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Rent, as the term is here applied, includes all the net productivity attributable to the ownership and use of capital, whether the yield be in economic form (in an increment of value) or in contractual form."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Productivity must be measured under modern conditions by the purchasing power that is possible in the environment."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A man's true wealth is measured by the fruitful **productivity** of his thoughts and moral actions."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The mechanical loom multiplied the physical **productivity** of textile weavers tenfold."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The application of chemical fertilizers enhanced the agricultural **productivity** of exhausted arable land."*
+

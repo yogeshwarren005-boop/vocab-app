@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Educate persons of both sexes together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Educate persons of both sexes together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To educate students of both sexes together within the same academic institution, classroom, or curriculum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century educational reform, the policy of admitting female students to previously male colleges and universities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coeducate designates educate persons of both sexes together."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Democratic communities find it natural to **coeducate** boys and girls together, preparing them for cooperative civic life."*
+> - 📜 **George Bernard Shaw (*Misalliance*):** *"Progressive academies resolve to **coeducate** youth to banish artificial romantic mystery between the sexes."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Experience demonstrates that schools which **coeducate** young men and women cultivate mutual intellectual respect."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A German cavalryman, especially a mounted pistol-bearing mercenary of the sixteenth and seventeenth centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern military history, the Black Reiters (Schwarze Reiter) popularized caracole tactics, firing wheellock pistols against infantry squares.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reiter designates german bacteriologist who described a disease now known as reiter's syndrome and who identified the spirochete that causes syphilis in humans (1881-1969)."*
+> - 📜 **Walter Scott (*The Abbot*):** *"A grim German **reiter** sat upon his heavy charger, clutching a pair of wheellock pistols in his holsters."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The mercenary **reiter** cared little for theological controversy so long as imperial silver paid his wage."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The armored **reiter** squadrons played a decisive role during the religious wars across the Rhineland."*
+

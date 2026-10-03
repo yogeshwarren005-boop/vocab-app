@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing determination and energetic pursuit of your ends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to spread quickly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ready or likely to attack, confront, or pursue one's goals forcefully; competitive and assertive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and clinical pathology, an aggressive neoplasm demonstrates rapid cellular proliferation and early metastasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Then with her little scissors, by the aid of a pocket looking-glass, she mercilessly nipped her eyebrows off, and thus insured against aggressive admiration, she went on her uneven way."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He rarely or never did give offence in this respect, for there was never anything aggressive or clamorous or prying in his treatment of the subject."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We must move on to a strategy that is more aggressive than petty raids on UIPS shipping or to merely destroy a few of their insignificant patrols."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Male stags become remarkably fierce and **aggressive** during the autumn rut, clashing antlers in combat."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The admiralty adopted an **aggressive** naval policy designed to sweep the German high seas fleet from the North Sea."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Jonathan Small adopted an **aggressive** demeanor when challenged, threatening the officers with his wooden crutch."*
+

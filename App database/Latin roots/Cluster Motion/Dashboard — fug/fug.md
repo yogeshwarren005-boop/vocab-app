@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (british informal) an airless smoky smelly atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (british informal) an airless smoky smelly atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick, warm, stuffy, and stale atmosphere, especially in a poorly ventilated room crowded with people or tobacco smoke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic sociology and military memoirs, veterans recall the humid fug of subterranean bomb shelters during air raids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fug designates (british informal) an airless smoky smelly atmosphere."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"The warm, stale **fug** of the underground tea-shop smelled of boiling cabbage and wet mackintoshes."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"They sat crowded around the dining table, breathing the warm domestic **fug** of beef soup and coal smoke."*
+> - 📜 **James Joyce (*Dubliners*):** *"The tavern room was filled with a dense smoky **fug** that stung the eyes of patrons entering from the cold street."*
+

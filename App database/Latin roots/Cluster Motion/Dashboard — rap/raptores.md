@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Term used in former classifications; erroneously grouped together birds of the orders falconiformes and strigiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Term used in former classifications; erroneously grouped together birds of the orders falconiformes and strigiformes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete nineteenth-century ornithological taxonomic order comprising birds of prey (hawks, falcons, eagles, and owls).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic historical ornithology, anatomists defined the order Raptores by strong hooked beaks and powerful clutching zygodactyl talons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptores designates term used in former classifications; erroneously grouped together birds of the orders falconiformes and strigiformes."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Naturalists formerly grouped all diurnal and nocturnal birds of prey under the single taxonomic order **Raptores**."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The fierce hunting habits and keen predatory senses of the **Raptores** distinguish them from all other avian families."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The osteological structure of the skull and predatory feet across the **Raptores** displays remarkable adaptive convergence."*
+

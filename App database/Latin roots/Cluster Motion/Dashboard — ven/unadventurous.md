@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in boldness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in boldness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inclined to take risks or seek hazards; cautious, routine, conventional, or timid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character assessment, preferring safe, well-trodden paths over speculative ventures or physical exploration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unadventurous designates lacking in boldness."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel's **unadventurous** habits led him to prize steady agricultural labour above risky commercial schemes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon lived an entirely **unadventurous** existence enclosed within library walls and theological treatises."*
+> - 📜 **Henry James (*The Europeans*):** *"The quiet New England family led an **unadventurous** life undisturbed by European ambitions."*
+

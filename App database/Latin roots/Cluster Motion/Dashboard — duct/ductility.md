@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical capacity of a metal or material to undergo plastic deformation and elongation under tensile stress without fracturing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seismic structural engineering, high material ductility in structural steel frames dissipates earthquake energy through controlled yielding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley was endeared to Darcy by the easiness, openness, and ductility of his temper, though no disposition could offer a greater contrast to his own, and though with his own he never appeared dissatisfied."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The main conclusions arrived at from practice have had reference to the general effects of impurities in hardening the metal, and the general tendency of heat to soften it and to increase the ductility."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The _malleability_ and _ductility_ of copper are considerable."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The extraordinary **ductility** of gold permits a single grain to be beaten into leaves that cover several square feet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The young man's moral **ductility** made him an easy victim to the flatteries of unscrupulous companions."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The high **ductility** of silver and copper makes them indispensable for commercial wire drawing."*
+

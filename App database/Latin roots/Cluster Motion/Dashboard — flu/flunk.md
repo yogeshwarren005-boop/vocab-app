@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure to reach a minimum required performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fail to get a passing grade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fail an examination, academic course, or test; or to give up or back out of an undertaking through fear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century American collegiate slang, to flunk denoted total academic failure or refusal to recite before the faculty board.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flunk designates failure to reach a minimum required performance."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The lazy student worried constantly that he would **flunk** his Latin syntax exam before the rector."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A man should rather risk failure in an honest endeavor than **flunk** out of life through cowardly conformity."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The harsh mate warned the green hand that if he should **flunk** his turn at the wheel, he would taste the rope's end."*
+

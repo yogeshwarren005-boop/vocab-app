@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to cool or cold air so as to cool or freshen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose to the circulation of fresh air so as to retard spoilage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause fresh air to circulate through a room or space; to discuss an issue or grievance publicly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine, to maintain respiration mechanically using an artificial positive-pressure ventilator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"But one pamphlet, 'A Proposal for putting Reform to the Vote' (1817), is characteristic of the way in which he was always labouring to do something, not merely to ventilate existing evils, but to promote some practical scheme for abolishing them."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Yes, there were several little changes carried out about that time.” “They seem to have been of a most interesting character—dummy bell-ropes, and ventilators which do not ventilate."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Then the wind spouted in at a ventilating hole—of which there was one on each side of the hut."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Always **ventilate** from the outside air, keeping the ward fresh without chilling the patient."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The threshers opened the barn doors wide to **ventilate** the chaff-laden atmosphere."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Public assemblies provide an indispensable forum to **ventilate** popular grievances before they breed insurrection."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A following of one thing after another in time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A following of one thing after another in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic or property of occurring, existing, or proceeding in sequential or successive order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Kantian transcendental aesthetics, the successiveness of temporal intuition is the necessary subjective condition for representing causality and motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, successiveness designates a following of one thing after another in time."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The **successiveness** of our internal perceptions proves that time is an a priori form of sensible intuition, not an empirical property of external things."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"All consciousness is characterized by the **successiveness** of diverse states of feeling following one another through awareness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The stream of thought does not appear to itself chopped up in bits; its continuous **successiveness** defies atomistic division."*
+

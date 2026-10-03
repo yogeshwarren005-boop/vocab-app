@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or ability to move.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Self-propelled movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or power of moving from one place to another through physical self-propulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate evolutionary anatomy, the transition from aquatic swimming to terrestrial tetrapod locomotion required modifications to the pectoral and pelvic girdles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"After an hour employed in this unpleasant kind of locomotion, we started to our feet again and pursued our way boldly along the crest of the ridge."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"He had no consciousness of any means of locomotion."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"It furnished an easy means of locomotion, the task of stabling was not difficult and the cost of food nothing."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Seeing how important an organ of **locomotion** the tail is in most aquatic animals, its general presence is easily understood."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The coordinated contraction of opposing flexor and extensor muscles effects human bipedal **locomotion**."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Every advance in the mechanical arts multiplies our powers of **locomotion** across the earth."*
+

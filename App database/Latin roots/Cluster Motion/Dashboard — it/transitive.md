@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verb (or verb construction) that requires an object in order to be grammatical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating a verb that requires a direct object to complete the meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by transition or passage; or describing a verb that requires one or more direct objects to complete its meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abstract algebra and relational logic, a relation R is transitive if a R b and b R c necessarily imply a R c.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitive designates a verb (or verb construction) that requires an object in order to be grammatical."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Certain operations of nature have a **transitive** virtue, passing their influence directly into adjacent bodies."*
+> - 📜 **Max Müller (*The Science of Language*):** *"In grammatical analysis, a **transitive** verb requires a direct patient upon which its action is expended."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The shift from an intransitive verb to a causative **transitive** form is common across ancient tongues."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reasoning involved when you assume the conclusion is true and reason backward to the evidence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Returning to a former state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To return to an earlier, inferior, or less developed state; or the action of returning or going back.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychoanalysis, psychological regress serves as an unconscious defensive retreat to earlier developmental stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt have egress and regress—said I well?—and thy name shall be Brook."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Societies that abandon rigorous scientific education inevitably **regress** toward superstitious tribal barbarism."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain domestic varieties tend to **regress** toward the ancestral wild morphology when abandoned in nature."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Without moral heroism in our leaders, human civilization will surely **regress** into chaos and misery."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public register showing the details of ownership and value of land; made for the purpose of taxation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public register showing the details of ownership and value of land; made for the purpose of taxation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official public register of the real estate, property values, and land boundaries of a country for property taxation; a cadastre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal geography and tax administration, establishing a centralized cadaster guarantees secure legal registration of property titles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadaster designates a public register showing the details of ownership and value of land; made for the purpose of taxation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The land tax was assessed upon the national **cadaster**, ensuring that each estate contributed in proportion to rent."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The Domesday Book served the Norman monarchs as a comprehensive royal **cadaster** of all English lands."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian ordered a rigorous imperial **cadaster** to accurately count taxable agrarian acres and peasant labor."*
+

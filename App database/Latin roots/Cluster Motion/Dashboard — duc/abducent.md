@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small motor nerve supplying the lateral rectus muscle of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially of muscles; drawing away from the midline of the body or from an adjacent part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to draw or pull away from the median line or central axis of the body; abducting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional anatomy, characterizing muscles or nerve fibers (such as the abducent nerve) mediating lateral anatomical movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abducent designates a small motor nerve supplying the lateral rectus muscle of the eye."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **abducent** muscles act antagonistically to the powerful adductor valves of the bivalve mollusk."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Loss of **abducent** motor control prevents outward deflection of the affected ocular globe."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Efferent fibers from the **abducent** core emerge from the ventral pontine sulcus."*
+

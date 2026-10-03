@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retire from military service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retire from military service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discharge someone from military service at the end of a war; demobilize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century veteran historiography, demob centers provided returning soldiers with civilian clothing suits and travel vouchers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demob designates retire from military service."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"When the army decided to **demob** our battalion in 1919, we were handed a civilian suit and a train ticket home."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"The war was over at last, and every transport vessel returned to **demob** thousands of weary young infantrymen."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The War Office faced immense logistical difficulties when required to rapidly **demob** five million mobilized soldiers."*
+

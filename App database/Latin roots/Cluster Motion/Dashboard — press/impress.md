@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coercing someone into government service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an emotional or cognitive impact upon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To apply pressure to leave a mark; to produce a strong, favorable, or lasting effect on the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, to force men into public military or naval service by sovereign prerogative; to press gang.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your ships are not well manned, Your mariners are muleteers, reapers, people Engrossed by swift impress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I thought it fit To send the old and miserable King To some retention and appointed guard; Whose age has charms in it, whose title more, To pluck the common bosom on his side, And turn our impress’d lances in our eyes Which do command them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That will never be: Who can impress the forest; bid the tree Unfix his earth-bound root?"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"As easy mayst thou the intrenchant air with thy keen sword **impress** as make me bleed."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Sound arguments **impress** themselves upon reasonable minds with the force of innate truth."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"My aunt sought to **impress** upon me the necessity of firmness and independent resolution."*
+

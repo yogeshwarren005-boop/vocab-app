@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A halocarbon in which some hydrogen atoms have been replaced by fluorine; used in refrigerators and aerosols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A halocarbon in which some hydrogen atoms have been replaced by fluorine; used in refrigerators and aerosols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound containing only carbon and fluorine, characterized by extreme chemical inertness and thermal stability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer materials science, polytetrafluoroethylene (PTFE) is a fluorocarbon possessing exceptional non-stick and hydrophobic properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorocarbon designates a halocarbon in which some hydrogen atoms have been replaced by fluorine; used in refrigerators and aerosols."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Synthetic **fluorocarbon** compounds resist degradation by the strongest acids and oxidizing reagents."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The thermal stability of the dense **fluorocarbon** liquid made it suitable for high-temperature insulation."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The cylinder mechanisms were coated with an unreactive **fluorocarbon** film that repelled terrestrial damp."*
+

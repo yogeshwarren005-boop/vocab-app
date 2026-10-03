@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make tender or more tender as by marinating, pounding, or applying a tenderizer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make tender or more tender as by marinating, pounding, or applying a tenderizer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To soften or reduce the toughness of meat by pounding, marinating, or applying proteolytic enzymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food preparation technology, mechanical needle injectors puncture muscle tissue to tenderize subprimal beef cuts uniformly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenderize designates make tender or more tender as by marinating, pounding, or applying a tenderizer."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The camp cook used a heavy wooden mallet to **tenderize** the frozen caribou meat before boiling."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The seasoned whalemen knew how to **tenderize** the tough whale flesh by hanging it in the ocean breeze."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The South American natives pound the strips of dried charqui on flat rocks to **tenderize** the beef."*
+

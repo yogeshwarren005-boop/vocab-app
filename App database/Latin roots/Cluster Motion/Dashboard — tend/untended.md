@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking care and attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking care and attention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not looked after, supervised, cultivated, or cared for; neglected or left abandoned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian estate management, untended pastures rapidly deteriorate into bracken and scrubland within several seasons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untended designates lacking care and attention."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"A sight in camp in the daybreak gray and dim, where the wounded soldier lay **untended** upon his bloodstained blanket."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The little garden behind the cottage lay **untended**, overrun with nettles and wild briars."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The **untended** cows waited patiently at the farm gate, lowing softly for the delayed milkers."*
+

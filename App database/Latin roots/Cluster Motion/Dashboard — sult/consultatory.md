@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving advice; ,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving advice; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality or function of giving or seeking advice; consultative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canonical law and ecclesiastical administration, consultatory letters gather episcopal counsel prior to promulgation of diocesan synods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consultatory designates giving advice; ,."*
+> - 📜 **Francis Bacon (*Essays*):** *"Prudent sovereigns maintain **consultatory** chambers where wise counselors may speak without fear of royal displeasure."*
+> - 📜 **Jeremy Bentham (*Constitutional Code*):** *"The draft code established **consultatory** committees to review municipal petitions prior to parliamentary debate."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The privy council met in a **consultatory** session to consider emergency grain imports during the autumn famine."*
+

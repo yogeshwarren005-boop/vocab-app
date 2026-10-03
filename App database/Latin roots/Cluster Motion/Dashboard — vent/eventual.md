@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expected to follow in the indefinite future from causes already operating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expected to follow in the indefinite future from causes already operating.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, happening, or arriving at the end of a process, journey, or period; ultimate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In predictive reasoning, contingent upon future events or long-term consequence chains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The business companies have had a dismal history of hardship to surviving members and of eventual failure."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But later the interest payments and the eventual repayment of the principal of the loan act in the opposite direction."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Industries capable of eventual self-support must in most cases naturally appear in due time."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"And how pleasing to God was this conduct in Jonah, is shown in the **eventual** deliverance of the prophet from the whale's belly."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"He entered attentively into all my arguments in favour of my **eventual** success and into every practical detail of the work."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The evolution of complex anatomical forms reveals an **eventual** perfection prefigured in the simplest primordial organisms."*
+

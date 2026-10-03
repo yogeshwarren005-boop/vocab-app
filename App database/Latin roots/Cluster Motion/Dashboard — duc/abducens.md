@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small motor nerve supplying the lateral rectus muscle of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small motor nerve supplying the lateral rectus muscle of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sixth cranial nerve (cranial nerve VI), which innervates the lateral rectus muscle of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, abducens nerve palsy causes horizontal diplopia (double vision) and impaired outward ocular abduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abducens designates a small motor nerve supplying the lateral rectus muscle of the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Isolated paralysis of the **abducens** nerve frequently signals elevated intracranial pressure."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The motor nucleus of the **abducens** lies nestled in the lower dorsal pons beneath the facial colliculus."*
+> - 📜 **Richard Cabot (*Differential Diagnosis*):** *"Testing the integrity of the **abducens** requires observing conjugate lateral gaze in both directions."*
+

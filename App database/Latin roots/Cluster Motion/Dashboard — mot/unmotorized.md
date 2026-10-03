@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no motor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no motor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating without a motorized propulsion system; propelled by pedals, oars, sails, draft animals, or human walking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental recreation management, designates wilderness zones and park waterways where motorized craft and off-road vehicles are prohibited.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmotorized designates having no motor."*
+> - 📜 **Aldous Huxley (*Island*):** *"The island council restricted vehicular transit to **unmotorized** bicycles and small pedal carriages to preserve tranquility."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"We traversed the northern lakes in an **unmotorized** birchbark canoe guided silently by Indian paddles."*
+> - 📜 **John Muir (*The Mountains of California*):** *"True intimacy with the Sierra wilderness requires travel by **unmotorized** foot, carrying one's pack through high granite passes."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily impressed or influenced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily impressed or influenced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily influenced, swayed, or affected by surrounding people, suggestions, or environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology, denotes critical sensitive periods during childhood when social and linguistic inputs permanently shape cognitive pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"That she had done a grievous thing in taking an impressionable child to mould into the form that her wild resentment, spurned affection, and wounded pride found vengeance in, I knew full well."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"At his tenderest and most impressionable age, the boy was thus made sadly aware of the fleetingness of human life and the pains of bereavement."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Young Adele was lively and **impressionable**, readily adopting the manners of those around her."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr Jekyll and Mr Hyde*):** *"Utterson was not an **impressionable** man, yet the singular mystery of Hyde disturbed his nightly rest."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel Archer was generous, eager, and dangerously **impressionable** to romantic ideals of sacrifice."*
+

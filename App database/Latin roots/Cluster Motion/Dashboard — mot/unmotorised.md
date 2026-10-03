@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no motor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no motor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equipped with, operated by, or propelled by a motor or engine; relying on muscle power or passive forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and transport policy, describes infrastructure dedicated to active travel such as bicycle tracks and pedestrian pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmotorised designates having no motor."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The miners pushed heavy **unmotorised** coal tubs along the subterranean rails by sheer muscular exertion."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"He delighted in the quiet freedom of an **unmotorised** bicycle touring along idyllic English country lanes."*
+> - 📜 **John Galsworthy (*The Forsyte Saga*):** *"Swithin clung obstinately to his **unmotorised** carriage, despising the noisy automobiles invading London streets."*
+

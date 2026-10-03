@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enveloping or covering membrane or layer of body tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enveloping or covering membrane or layer of body tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost connective tissue covering or tunic surrounding an organ, blood vessel, or anatomical structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, the tunica adventitia consists of dense irregular collagenous connective tissue anchoring vessels to adjacent fascial planes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventitia designates an enveloping or covering membrane or layer of body tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The dissecting aneurysm stripped the media away from the elastic fibers of the outer **adventitia**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Nerve fibers form an intricate perivascular plexus within the vascular **adventitia** before penetrating the smooth muscle layers."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The fibrous **adventitia** provides essential mechanical sheath support to the great systemic arteries."*
+

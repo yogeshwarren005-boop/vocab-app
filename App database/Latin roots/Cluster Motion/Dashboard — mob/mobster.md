@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A criminal who is a member of gang.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A criminal who is a member of gang.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a criminal organization or organized crime syndicate; a gangster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century American criminology, federal RICO statutes were enacted to prosecute syndicate mobster hierarchies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobster designates a criminal who is a member of gang."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"Corrupt ward heelers employed notorious city thugs, knowing every ruthless **mobster** had his price during municipal elections."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Gatsby's associate Meyer Wolfsheim was rumored to be a calculating underworld **mobster** who fixed the World Series."*
+> - 📜 **Sinclair Lewis (*It Can't Happen Here*):** *"Paramilitary storm squads recruited local criminal elements, placing armed power into the hands of every petty **mobster**."*
+

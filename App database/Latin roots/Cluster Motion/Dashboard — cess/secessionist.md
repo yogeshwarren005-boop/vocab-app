@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate of secessionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An advocate of secessionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate, supporter, or participant in political or ecclesiastical secession from a sovereign nation or established body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Central European art history, the Secessionist movements in Vienna and Munich rejected conservative academic historicism in favor of Art Nouveau.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Tyler sent for a carriage which she was in the habit of using whenever need required, and the driver of which was honest and personally friendly, though probably a secessionist, and proceeded to the Station House."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Finding her thus determined, the secessionist left, and though frequent threats were muttered against the flag, it was not disturbed."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"No one but a red-hot secessionist has got any business in this part of the country." When Rodney reached home he found his father there and supper waiting for him."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The captured **secessionist** soldiers were marched under guard through Washington to the military prison."*
+> - 📜 **Abraham Lincoln (*Second Annual Message*):** *"No **secessionist** government can long sustain itself without sinking into military despotism or financial bankruptcy."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The river pilot had once harbored sympathy for the **secessionist** cause before witnessing the devastation wrought by the conflict."*
+

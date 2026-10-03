@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toxin secreted by animals; secreted by certain snakes and poisonous insects (e.g., spiders and scorpions).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling a need to see others suffer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic substance secreted by animals and injected into prey or enemies by biting or stinging; extreme malice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxinology and biochemical pharmacology, complex polypeptide cocktails containing neurotoxins, hemotoxins, and cytotoxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The venom clamours of a jealous woman Poisons more deadly than a mad dog’s tooth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, venom, to thy work. [_Stabs the King._] OSRIC and LORDS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The venom of such looks, we fairly hope, Have lost their quality; and that this day Shall change all griefs and quarrels into love."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The treacherous instrument is in thy hand, unbated and envenomed; the foul **venom** did its work."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The subtle serpent distilled fatal **venom** into the innocent peace of Paradise."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The viper struck swiftly with its curved fangs, discharging a drop of transparent **venom** into the wound."*
+

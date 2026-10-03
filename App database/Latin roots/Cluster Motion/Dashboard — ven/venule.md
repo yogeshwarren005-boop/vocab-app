@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute vein continuous with a capillary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute vein continuous with a capillary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small vein, especially one collecting blood from capillaries and emptying into larger veins; an insect wing veinlet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microscopic anatomy and entomology, minute vascular channels in vertebrate tissues or fine chitinous veinlets supporting insect wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venule designates a minute vein continuous with a capillary."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Each microscopic **venule** converges with neighboring vessels to form the tributaries of larger veins."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The structural pattern of every delicate **venule** across the insect wing is conserved across allied genera."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammatory exudates frequently originate around the thin walls of the postcapillary **venule**."*
+

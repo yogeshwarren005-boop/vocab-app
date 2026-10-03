@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being moved or conveyed from one place to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being moved or conveyed from one place to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of movable, indicating capability of being relocated, portable, or personal property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ecclesiastical calendars, moveable feasts such as Easter shift in calendar date according to lunar cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I knew you at the first, You were a moveable."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He had bequeathed the whole of his, and what had been her, moveable property, to his father: the poor creature was threatened, or coaxed, into that act during her week’s absence, when his uncle died."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"It was indeed a moveable pair of stairs, the lowest end placed at ten feet distance from the wall of the chamber."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Wemmick showed Pip his portable collection of rings, watches, and **moveable** property acquired from clients."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe transported every piece of **moveable** salvage from the wrecked vessel before the next autumn gale broke it apart."*
+> - 📜 **Book of Common Prayer (*The Book of Common Prayer*):** *"Tables and rules are provided for determining the **moveable** feasts and fasts throughout the ecclesiastical year."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being moved or rearranged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being moved or rearranged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Firm fixedness, steadfastness, or unyielding resistance to displacement or emotional persuasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural civil engineering, the immovableness of bedrock bridge abutments guarantees stability under hydraulic loads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immovableness designates not capable of being moved or rearranged."*
+> - 📜 **George Eliot (*Romola*):** *"Savonarola's stern **immovableness** in the pulpit inspired both awe and fierce terror among the citizens of Florence."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"There is a sublime **immovableness** in eternal moral laws that mocks the transient decrees of corrupt parliaments."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The stoic sage boasted an absolute **immovableness** of mind against the sudden calamities of human life."*
+

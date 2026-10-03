@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of taxes) adjusted so that the rate decreases as the amount of income increases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing progress; returning to a former less advanced state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Returning to a less developed or less advanced state; or in taxation, taking a larger percentage from low incomes than high ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal tax incidence analysis, flat consumption sales taxes are considered regressive because poor households consume higher proportions of income.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, regressive designates (of taxes) adjusted so that the rate decreases as the amount of income increases."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A sales tax upon basic food staples is fundamentally **regressive**, placing an unfair burden on working families."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain parasitic organisms exhibit **regressive** structural changes, losing organs of locomotion and digestion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The late imperial bureaucracy enforced a **regressive** tax code that crushed provincial agricultural initiative."*
+

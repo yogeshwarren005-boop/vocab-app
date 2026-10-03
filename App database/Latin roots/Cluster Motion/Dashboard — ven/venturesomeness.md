@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being adventurous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being adventurous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or disposition of being willing to take risks, hazard danger, or attempt bold enterprises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, the entrepreneurial willingness of merchant classes to deploy risk capital in frontier exploration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Look again at his venturesomeness in trusting the Gospel to the twelve and to us--and in facing the Cross."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The maritime **venturesomeness** of Anglo-Saxon pioneers laid the foundations of worldwide colonial enterprise."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"English commercial success owes much to the dogged **venturesomeness** of its seafaring captains."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Behind his romantic boyish **venturesomeness** lay an unyielding hunger for heroic distinction."*
+

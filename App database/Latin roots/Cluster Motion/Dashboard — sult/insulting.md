@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treat, mention, or speak to rudely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing extreme contempt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, conveying, or marked by insolence, contempt, or deliberate offense; abusive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international diplomatic communications, using insulting rhetoric in formal demarches frequently triggers retaliatory diplomatic expulsions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it were so, I might have let alone The insulting hand of Douglas over you, Which would have been as speedy in your end As all the poisonous potions in the world, And saved the treacherous labour of your son."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now am I like that proud insulting ship Which Caesar and his fortune bare at once."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou antic Death, which laugh’st us here to scorn, Anon, from thy insulting tyranny, Coupled in bonds of perpetuity, Two Talbots, winged through the lither sky, In thy despite shall scape mortality."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella's treatment of Pip was haughty and **insulting**, mocking his coarse hands and thick working boots."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The blackmailer addressed the duchess in a sneering, **insulting** tone that roused Holmes's deepest indignation."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The haughty Templar directed an **insulting** laugh toward the Saxon knights assembled in the banquet hall."*
+

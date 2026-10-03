@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a tendon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a tendon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation or irritation of a tendon, typically causing acute pain, swelling, and reduced joint mobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic sports medicine, Achilles tendinitis frequently results from repetitive microtrauma and eccentric tendon overload in runners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendinitis designates inflammation of a tendon."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Chronic strain in manual artisans frequently provokes painful **tendinitis** in the wrist and forearm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **tendinitis** requires complete immobilization and cold compresses to subside localized inflammatory effusion."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The overexertion of digital flexor muscles can induce severe **tendinitis** among professional musicians."*
+

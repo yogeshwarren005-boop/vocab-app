@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Draw a limb towards the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Drawing, pulling, or moving an anatomical part or limb toward the central sagittal plane of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vocal fold physiology, adducting the vocal cords brings them into apposition at the midline to enable phonation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adducting designates draw a limb towards the body."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The animal snarled, **adducting** its ears backward against its skull in preparation for battle."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"By steadily **adducting** the thigh, the equestrian maintains a firm grip upon the saddle."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The muscular reflex of **adducting** the limbs protects vulnerable abdominal organs during impact."*
+

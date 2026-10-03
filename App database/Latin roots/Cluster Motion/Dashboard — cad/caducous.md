@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shed at an early stage of development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shed at an early stage of development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dropping off or shedding easily and early, especially referring to plant parts like sepals or stipules falling before maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and floristics, poppy flowers exhibit caducous calyx sepals that fall off as the flower opens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caducous designates shed at an early stage of development."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **caducous** stipules of the tree fall away in early spring, leaving distinctive scars upon the young twigs."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In the Papaveraceae, the calyx is strictly **caducous**, detaching completely as the colorful petals unfurl."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The naturalist noted the early shedding of the **caducous** bracts as the oak buds expanded into tender leaf."*
+

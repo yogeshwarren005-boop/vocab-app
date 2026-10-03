@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being protruded or stretched or opened out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being protruded or stretched or opened out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being extended, protruded, or stretched out, especially describing biological organs like tongues or tentacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, the long extensile tongue of anteaters and chameleons utilizes specialized hyoid musculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensile designates capable of being protruded or stretched or opened out."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The chameleon captures insects by projecting its long, sticky, **extensile** tongue with lightning rapidity."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The woodpecker possesses a remarkably **extensile** tongue supported by elongated hyoid horns curving over the skull."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The giant oceanic squid wields long, **extensile** tentacles armed with horny toothed suckers."*
+

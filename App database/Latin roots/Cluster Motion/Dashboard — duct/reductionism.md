@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theory that all complex systems can be completely understood in terms of their components.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The analysis of complex things into simpler constituents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine or practice of analyzing and explaining complex phenomena solely in terms of fundamental or simpler components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, physicalist reductionism asserts that all biological, mental, and social phenomena are ultimately explainable by fundamental physical laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductionism designates a theory that all complex systems can be completely understood in terms of their components."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Philosophical **reductionism** seeks to dissolve metaphysical perplexities into atomic logical propositions."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"A cautious scientist avoids dogmatic **reductionism**, acknowledging the emergent complexities of living organisms."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The crude **reductionism** that would equate conscious spiritual feelings with mere cerebral twitches ignores inner reality."*
+

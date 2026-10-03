@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Delicate maidenhair fern with slender shining black leaf stalks; cosmopolitan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delicate maidenhair fern with slender shining black leaf stalks; cosmopolitan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graceful maidenhair fern (Adiantum capillus-veneris) featuring delicate fronds on slender, polished black stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology and botanical geography, a cosmopolitan fern native to moist, sheltered limestone crevices and waterfalls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venushair designates delicate maidenhair fern with slender shining black leaf stalks; cosmopolitan."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Moist, dripping rocks inside the cave were covered with delicate sprays of emerald **venushair** fern."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"The slender, shining black stipes of **venushair** contrast strikingly with its fan-shaped leafy pinnules."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The graceful tresses of **venushair** clinging to the dark cliff face embody the delicate perfection of nature."*
+

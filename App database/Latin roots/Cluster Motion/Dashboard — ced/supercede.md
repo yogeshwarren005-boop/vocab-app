@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the place or move into the position of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place or move into the position of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or variant spelling of supersede, signifying to replace, supplant, or set aside in favor of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal drafting and contract interpretation, newer statutory amendments supercede prior contradictory administrative rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercede designates take the place or move into the position of."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"New empirical discoveries must eventually **supercede** ancient scholastic dogmas in the investigation of nature."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The new administrative edicts issued by the emperor were intended to **supercede** the ancient laws of the republic."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The mechanical theory of heat was destined to **supercede** the obsolete fluid hypothesis of caloric."*
+

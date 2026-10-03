@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form an arch or curve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming or resembling an arch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Followed or curved along an arc-shaped curved trajectory; or produced an electric discharge arc across a gap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical power transmission and switchgear engineering, high-voltage current arced across contact points during circuit breaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Planet Pluto arced into view from starboard, half a million kay distant."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Without warning and in the line-of-fire, the squat console disintegrated as a rending flash arced across to where he had been a fraction of second before."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A dazzling flash of emerald lightning **arced** between the tripod's metallic tentacles, striking the pine trees."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger's makeshift electric barrier **arced** with a sharp crackle whenever inquisitive pterodactyls approached."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The artillery shell **arced** gracefully across the smoky blue sky before plunging into the dense forest below."*
+

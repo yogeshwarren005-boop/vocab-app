@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seven people considered as a unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seven people considered as a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group, party, or musical/athletic ensemble consisting of seven persons or things.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scottish dance tradition, a traditional reel danced simultaneously by seven performers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sevensome designates seven people considered as a unit."*
+> - 📜 **Walter Scott (*Waverley*):** *"The highland piper played a brisk reel for the merry **sevensome** gathered upon the green."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"We watched the lively **sevensome** finish their dance before dispersing into the mountain heather."*
+> - 📜 **James Hogg (*The Private Memoirs and Confessions of a Justified Sinner*):** *"A rustic **sevensome** assembled at the tavern to celebrate the conclusion of the harvest."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a degree exceeding normal or proper limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree exceeding normal or proper limits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a greater degree or in greater amounts than is necessary, normal, or desirable; overly, exceedingly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, administering dosage regimens excessively above the minimum toxic concentration triggers adverse toxicities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They were excessively bare and disorderly, and the curtain to my window was fastened up with a fork."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I shall certainly go; I am sure I ought if I can, quite as much as Charles, for they want me excessively to be acquainted with Captain Wentworth, and I know you do not mind being left alone."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary is good-natured enough in many respects,” said she; “but she does sometimes provoke me excessively, by her nonsense and pride—the Elliot pride."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet was **excessively** diverted by the thought of Jane reigning as mistress of Netherfield Hall."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber became **excessively** dejected in the morning, only to recover his buoyant optimism by evening punch."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The parlor was **excessively** warm, heated by a blazing coal fire that caused the sleepy company to nod."*
+

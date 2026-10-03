@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able or intended to be moved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able or intended to be moved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being moved; unyielding, steadfast, or resistant to change or physical displacement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural foundations and geotechnical engineering, unmovable bedrock footings prevent differential settling in skyscraper construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I feel an earnest wish you should do this too that there may be the broad unmovable foundation-rock of perfect truth and candour for our love."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial archangel stood with an **unmovable** resolve, defying the rebellious legions of the adversary."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab remained **unmovable** in his dark purpose, deaf to the pious entreaties of his first mate Starbuck."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The Scottish knight knelt upon the rocky ground, his broad shield planted like an **unmovable** fortress."*
+

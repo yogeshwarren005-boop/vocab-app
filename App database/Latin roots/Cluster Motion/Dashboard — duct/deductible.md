@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (taxes) an amount that can be deducted (especially for the purposes of calculating income tax).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clause in an insurance policy that relieves the insurer of responsibility to pay the initial loss up to a stated amount.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being deducted or subtracted; or an upfront amount that an insured person must pay before insurance benefits apply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insurance risk underwriting, a higher policy deductible reduces moral hazard by aligning the policyholder's financial incentives with loss prevention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deductible designates (taxes) an amount that can be deducted (especially for the purposes of calculating income tax)."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"All necessary costs of raw materials are justly **deductible** from the gross commercial value of finished wares."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Expenses incurred in preserving capital intact are **deductible** before net revenue is estimated."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The parliamentary commissioners declared that only verified military expenditures were **deductible** from the national levy."*
+

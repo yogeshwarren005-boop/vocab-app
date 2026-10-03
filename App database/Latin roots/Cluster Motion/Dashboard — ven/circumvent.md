@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surround so as to force to give up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beat through cleverness and wit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To find a way around an obstacle, restriction, or rule; to bypass or outwit through strategy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military maneuver warfare, to envelop or encircle an enemy fortification rather than mounting a frontal assault.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This might be the pate of a politician which this ass now o’er-offices, one that would circumvent God, might it not?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Minchin might be better able to detect it lurking and to circumvent it."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"I had to watch the steering, and circumvent those snags, and get the tin-pot along by hook or by crook."*
+> - 📜 **Francis Bacon (*Essays*):** *"Cunning men know how to **circumvent** the laws by subtle ambiguities in phrasing."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian cavalry sought to **circumvent** the Roman flank through the dense marshes of Pannonia."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"Holmes realized that the conspirators would try to **circumvent** the police cordon by escaping along the canal."*
+

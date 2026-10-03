@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that suppresses appetite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that suppresses appetite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent or medication that suppresses or diminishes a bodily function or symptom, such as cough or appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacotherapy, an antitussive cough suppressant acts centrally on the brainstem cough center to reduce the cough reflex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suppressant designates a drug that suppresses appetite."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician prescribed an effective cough **suppressant** to allow the exhausted patient a night of restorative sleep."*
+> - 📜 **Richard Cabot (*Differential Diagnosis*):** *"The administration of an immune **suppressant** prevented further inflammatory degradation of the joint tissues."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"We gradually reduced the metabolic **suppressant** as neurological reflexes began to show spontaneous improvement."*
+

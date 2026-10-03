@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sultry and sensual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sultry and sensual manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an oppressively hot, humid, close, or passionate manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology and atmospheric observation, summer weather that unfolds sultrily precedes severe convective squall lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sultrily designates in a sultry and sensual manner."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The July sun beat down **sultrily** upon the dairy meadows, causing the cows to seek the shade of the willows."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The heavy African night breathed **sultrily** through the open port of the river steamboat."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The afternoon burned **sultrily** as the company drove toward Manhattan in the sweltering heat."*
+

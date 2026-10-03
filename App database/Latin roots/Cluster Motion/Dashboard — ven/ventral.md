@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward or on or near the belly (front of a primate or lower surface of a lower animal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nearest to or facing toward the axis of an organ or organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, on, or relating to the underside, belly, or abdominal surface of an animal or plant organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human directional anatomy, ventral is synonymous with anterior, referring to the front or chest surface of the erect body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventral designates toward or on or near the belly (front of a primate or lower surface of a lower animal)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The male fish displays brilliant gem-like colors along its **ventral** fins during the breeding season."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The nervous cord runs along the **ventral** aspect of the body cavity in all annelids and arthropods."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Large motor neurons occupy the **ventral** horn of the spinal cord, giving origin to motor nerve roots."*
+

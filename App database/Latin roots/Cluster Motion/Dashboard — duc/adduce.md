@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advance evidence for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advance evidence for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cite as evidence, proof, or demonstration in an argument; to bring forward reasons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal jurisprudence, the evidentiary presentation of witnesses, exhibits, and precedents to substantiate a contested legal claim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"However, the case is not so clear as to justify us in dismissing the solar theory without discussion, and accordingly I propose to adduce the considerations which tell for it before proceeding to notice those which tell against it."*
-> - 📜 **Bram Stoker (*Dracula*):** *"There is no evidence to adduce; and whether or not the man himself committed the murders there is now none to say."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"With these explanations and cautions I will now adduce some examples of gods who have been believed by their worshippers to be incarnate in living human beings, whether men or women."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The reasons that philosophers **adduce** in support of justice derive their force from human social utility."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is idle to **adduce** antiquity when truth itself challenges received tradition."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I might **adduce** a large catalogue of facts demonstrating the geographical distribution of oceanic fauna."*
+

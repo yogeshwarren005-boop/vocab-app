@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affluent person; a person who is financially well off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch that flows into the main stream.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a great deal of money or property; wealthy; or flowing freely in copious streams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and hydrology, an affluent stream or tributary flows directly into a larger mainstem river.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"They cannot endure doctrines, which level all vain distinctions, and require the noble, the affluent, and the learned, to assume the same station of penitence and contrition, with the lowliest peasant."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I had the happiness to know you in former times, and the Drama has ever had a claim which has ever been acknowledged, on the noble and the affluent.” Meanwhile, Mr."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"She was understood to be wretchedly poor, and seemed to make it her choice to remain so; inasmuch as her affluent cousin, the Judge, had repeatedly offered her all the comforts of life, either in the old mansion or his own modern residence."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In an **affluent** and civilized society, even the common day-laborer enjoys accommodations superior to an African king."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The broad river was fed by many an **affluent** brook descending from the snowcapped cordillera."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Bulstrode was the most **affluent** citizen in the borough, exerting extensive financial control."*
+

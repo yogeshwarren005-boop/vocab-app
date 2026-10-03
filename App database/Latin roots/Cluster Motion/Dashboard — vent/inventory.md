@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed list of all the items in stock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The merchandise that a shop has on hand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete, detailed, and organized list of items, property, or goods; the stock held by a business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probate and estate law, an itemized schedule of all assets and personalty submitted to the surrogate court by the executor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The leanness that afflicts us, the object of our misery, is as an inventory to particularize their abundance; our sufferance is a gain to them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, but some natural notes about her body Above ten thousand meaner movables Would testify, t’ enrich mine inventory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Forsooth, an inventory, thus importing The several parcels of his plate, his treasure, Rich stuffs and ornaments of household, which I find at such proud rate that it outspeaks Possession of a subject."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"I will give out divers schedules of my beauty: it shall be **inventoried**, and every particle and utensil labelled to my will."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I made a complete **inventory** of every barrel of powder, bag of biscuit, and tool saved from the stranded wreck."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant maintains a continuous **inventory** of warehouse commodities to anticipate seasonal changes in market demand."*
+

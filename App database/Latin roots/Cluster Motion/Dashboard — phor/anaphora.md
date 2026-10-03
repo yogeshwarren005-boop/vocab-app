@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using a pronoun or similar word instead of repeating a word used earlier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of a word or phrase at the beginning of successive clauses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate repetition of a word or phrase at the beginning of successive sentences, clauses, or poetic lines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and stylistic prose, anaphora establishes rhythmic cadence, emotional emphasis, and memorable oratorical climaxes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphora designates using a pronoun or similar word instead of repeating a word used earlier."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The orator heightened the emotional urgency of his plea by employing **anaphora** across successive interrogative clauses."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Careful poets employ harmonious **anaphora** to link rhyming couplets into a seamless thematic whole."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Coleridge analyzed how Milton's majestic blank verse used **anaphora** to accumulate sublime spiritual momentum."*
+

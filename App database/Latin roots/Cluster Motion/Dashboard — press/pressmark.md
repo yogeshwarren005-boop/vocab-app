@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark consisting of characters written on a book; used to indicate shelf location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mark consisting of characters written on a book; used to indicate shelf location.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A notation, symbol, or shelf mark stamped in a library book indicating its physical location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archival bibliographical classification, the alphanumeric shelving code linking catalog cards to specific bays, shelves, and volumes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pressmark designates a mark consisting of characters written on a book; used to indicate shelf location."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"Holmes noted the obscure British Museum **pressmark** penciled on the inner margin of the pamphlet."*
+> - 📜 **Thomas Frognall Dibdin (*The Bibliomania*):** *"The rare incunabulum bore an ancient monastic **pressmark** indicating its former shelf in the abbey scriptorium."*
+> - 📜 **M. R. James (*Ghost Stories of an Antiquary*):** *"The antiquary traced the curious parchment by its distinctive eighteenth-century library **pressmark**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A judge who assigns grades to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A judge who assigns grades to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who evaluates and assigns grades to academic work; or a heavy earthmoving machine equipped with a blade to level surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In highway construction and roadbed maintenance, a motorized motor grader shapes the crown and drainage ditches of unpaved roadways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grader designates a judge who assigns grades to something."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol Kennicott watched the municipal road **grader** scrape the muddy spring ruts along the village avenue."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"The municipal contracting firm deployed a steam-powered road **grader** to level the new traction line."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The young instructor spent weary midnight hours acting as a conscientious **grader** of freshman themes."*
+

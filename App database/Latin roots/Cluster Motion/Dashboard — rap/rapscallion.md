@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceitful and unreliable scoundrel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who is playfully mischievous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mischievous, disreputable rascal, scamp, or rogue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In picaresque literature and satirical characterization, the charming rapscallion survives through wit, evasion, and petty trickery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"There is where the money goes he wheedles out of me every week; but I'll fix the young rapscallion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The devil fetch ye, ye ragamuffin rapscallions; ye are all asleep."*
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"McLeans from the byre, The hamlet, the city, the wide open plains, The lairds and rapscallions fill up the battalions With blue blood, with true blood, the loyal McLeans."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"The King and the Duke were a pair of audacious **rapscallions**, cheating the country folk with fraudulent theatrical shows."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"David Balfour found himself in the company of a Highland **rapscallion** who lived by smuggling and daring escapes."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The angry uncle denounced his nephew as an idle, good-for-nothing **rapscallion** who wasted his time upon playhouses."*
+

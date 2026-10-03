@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or constituting an accession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or constituting an accession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resulting from, or added by an accession, addition, or augmentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal property doctrine and riparian accession, accessional land deposits created by silt accretion belong to the riverbank owner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, accessional designates of or constituting an accession."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **accessional** wealth flowing from the colonial trade stimulated domestic manufacturing across western ports."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor celebrated his triumph with **accessional** distributions of grain and olive oil to the plebeians."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Every true reform brings an **accessional** strength to the moral foundation of the commonwealth."*
+

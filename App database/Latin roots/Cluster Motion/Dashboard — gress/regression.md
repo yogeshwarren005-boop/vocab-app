@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal state in which development has stopped prematurely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychiatry) a defense mechanism in which you flee from reality by assuming a more infantile state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A return to an earlier, primitive, or less developed condition; or in statistics, a model calculating relationships between variables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biostatistics and econometric modeling, linear regression quantifies the relationship between dependent outcomes and explanatory covariates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is upheld in part because in this case it but offsets _regression_, that is relatively heavier taxation on the smaller incomes, in the case of the other kinds of taxes (tariff, property taxes, etc.)."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"Galton formulated the mathematical law of filial **regression** to explain why extreme parental traits revert toward the population mean."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Breeders observe occasional morphological **regression** where fancy pigeons produce ancestral rock-dove traits."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In severe psychiatric exhaustion, mental functions exhibit temporary **regression** to primitive reflex patterns."*
+

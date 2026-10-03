@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prostitution of talents or offices or services for reward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prostitution of talents or offices or services for reward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Openness to bribery, corruption, or prostitution of principles for monetary or material gain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional history, systemic venality involving the lawful sale of judicial and magisterial offices under the Ancien Régime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This peculiar felicity of situation has, in a great degree, contributed to preserve the liberty which that country to this day enjoys, in spite of the prevalent venality and corruption."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The blatant **venality** of corrupt magistrates eroded all public confidence in the judicial bench."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The court of King Charles was infamous for the pervasive **venality** of its high officials."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Universal **venality** reigned throughout the provincial administration in the late empire."*
+

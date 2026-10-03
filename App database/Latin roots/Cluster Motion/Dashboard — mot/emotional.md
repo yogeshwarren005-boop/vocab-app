@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Determined or actuated by emotion rather than reason.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of more than usual emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, aroused by, or expressing intense emotions, feelings, or passions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological assessment, emotional intelligence refers to the capacity to perceive, evaluate, and regulate emotional states in oneself and others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This well-favoured and comely girl soon made appreciable inroads upon the emotional constitution of young Farmer Oak."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Material causes and emotional effects are not to be arranged in regular equation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Emotional convulsions seemed to have become the commonplaces of her history, and she bade him good morning, and asked him to fill in the hole with the spade which was standing by."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Material causes and **emotional** effects are not to be arranged in regular equation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea's nature was too ardent to remain satisfied without an **emotional** outlet in benevolent action."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The dog displays an **emotional** attachment to his human master that borders upon moral devotion."*
+

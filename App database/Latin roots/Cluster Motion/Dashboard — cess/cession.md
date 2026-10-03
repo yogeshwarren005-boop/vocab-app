@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of ceding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of ceding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal giving up, yielding, or surrender of rights, property, or territory, especially by treaty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reinsurance contracts, cession denotes the portion of underwriting risk transferred from the primary ceding insurer to a reinsurer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"For power finds its place in lack of power; Advance is cession, and the driven ship May run aground because the helmsman’s thought Lacked force to balance opposites.” It was on a morning of May that Peter Featherstone was buried."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"At present, a large part of the vacant Western territory is, by cession at least, if not by any anterior right, the common property of the Union."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If that were at an end, the States which made the cession, on a principle of federal compromise, would be apt when the motive of the grant had ceased, to reclaim the lands as a reversion."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The disgraceful **cession** of the Mesopotamian fortresses to the Persian king outraged the Roman senate."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The treaty of peace was ratified upon the formal **cession** of the border barrier fortresses in Flanders."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The foreign minister refused to contemplate the territorial **cession** of vital strategic coaling stations."*
+

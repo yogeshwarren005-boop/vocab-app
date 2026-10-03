@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme excess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme excess.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess, superabundance, or quantity greater than needed; redundancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical moral philosophy, the Stoics condemned luxurious superfluity as corrupting spiritual tranquility and self-reliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they would yield us but the superfluity while it were wholesome, we might guess they relieved us humanely."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then we shall ha’ means to vent Our musty superfluity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Superfluity come sooner by white hairs, but competency lives longer."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"If they would yield us but the **superfluity** while it were wholesome, we might guess they relieved us humanely."*
+> - 📜 **Francis Bacon (*Essays*):** *"Seek not proud riches, but such as thou mayest get justly; the rest is but **superfluity**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Superfluous wealth can buy superfluities only; money is not required to buy one **superfluity** of the soul."*
+

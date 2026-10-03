@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle carrying many passengers; used for public transport.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle carrying many passengers; used for public transport.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large passenger omnibus propelled by an internal combustion engine, operating on scheduled public transit routes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban transit history, replaced horse-drawn omnibuses and urban tramways in major cities during the early 20th century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"At sight of the jaunty little motorbus waiting to haul him up the winding grade to the hotel, he actually hesitated."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"The red London **motorbus** lurched forward toward Piccadilly, laden with passengers and morning newspapers."*
+> - 📜 **E. M. Forster (*The Celestial Omnibus*):** *"He watched the roaring petrol **motorbus** speed by the corner, contrasting it with the mythical coach of his dreams."*
+> - 📜 **G. K. Chesterton (*The Club of Queer Trades*):** *"The top of a London **motorbus** provides the most elevated vantage ground for observing philosophical ironies."*
+

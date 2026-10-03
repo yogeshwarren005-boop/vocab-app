@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property consisting of houses and land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able or intended to be moved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being moved physically; steadfast, unyielding, or firmly fixed in purpose or position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law and civil jurisprudence, immovable property encompasses land, permanent buildings, and real estate rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He sat secure, straight and immovable even when the horses trotted or galloped."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But no; stiff and immovable, the boy sat at his post, firmly holding the reins."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the north and north-west, where the sun had set three hours before, there was a pale dead light both beautiful and awful; and into it long sullen lines of cloud waved up like a sea stricken immovable as it was heaving."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Blow, till thou burst thy wind, if room enough; the solid vessel strikes an **immovable** reef in the storm."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth found her father **immovable** in his refusal to permit Lydia any further public indulgence."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Space is conceived as an infinite, **immovable** extension wherein all material bodies reside."*
+

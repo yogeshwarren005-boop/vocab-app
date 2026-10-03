@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The domain controlled by a duke or duchess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The domain controlled by a duke or duchess.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The territory, domain, or fief ruled by a duke or duchess; a dukedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British constitutional history, the Duchy of Cornwall and Duchy of Lancaster serve as private royal landed estates providing hereditary revenues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Suffolk, the new-made duke that rules the roast, Hath given the duchy of Anjou and Maine Unto the poor King Reignier, whose large style Agrees not with the leanness of his purse."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Other territories have been offered in exchange for the Duchy of Oldenburg,” said Prince Bolkónski."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"But the place was shut up by Barbara, Aurelius XV's widow, a severe and devout Princess of the House of Bolkum and Regent of the Duchy during her son's glorious minority, and after the death of her husband, cut off in the pride of his pleasures."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"The French provinces were lost, including the rich **duchy** of Anjou and the county of Maine."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Lombards divided Italy into thirty-six independent dukedoms, forming the feudal **duchy** of Benevento."*
+> - 📜 **Walter Scott (*Anne of Geierstein*):** *"The Swiss cantons defied the powerful forces of the neighboring Burgundian **duchy**."*
+

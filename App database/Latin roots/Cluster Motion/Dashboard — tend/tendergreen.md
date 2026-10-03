@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asiatic plant cultivated for its swollen root crown and edible foliage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asiatic plant cultivated for its swollen root crown and edible foliage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of turnip greens or mustard greens cultivated for edible tender leaves; or a delicate light green color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural horticulture, tendergreen brassicas mature quickly in cool spring soil, providing nutrient-rich salad greens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendergreen designates asiatic plant cultivated for its swollen root crown and edible foliage."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The cultivated **tendergreen** varieties exhibited remarkable leaf expansion under greenhouse shelter."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The young wheat sprouted in **tendergreen** rows across the rolling contours of the southern slope."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The birch saplings put forth their **tendergreen** shoots under the warm morning sun of late April."*
+

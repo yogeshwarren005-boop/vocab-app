@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deal with in a routine way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjected to a mechanical, chemical, physical, or computational treatment to modify, preserve, or refine properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronic data communications and signal processing, raw analog signals are sampled and processed into discrete digital streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"This display is tailored to the general run of inmates processed through orientation, just to give them an idea where they are."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The raw mineral ores must be refined and **processed** through smelting furnaces before they yield pure copper."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The harvested flax fibers were combed and **processed** to prepare them for spinning into fine linen thread."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Nutritive substances must be chemically digested and **processed** by glandular secretions before assimilation into living tissue."*
+

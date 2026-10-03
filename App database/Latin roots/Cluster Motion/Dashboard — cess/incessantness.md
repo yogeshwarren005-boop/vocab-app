@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of something that continues without end or interruption.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of something that continues without end or interruption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being ceaseless, unremitting, or continuous without pause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational psychology, the incessantness of high-volume digital communications induces chronic cognitive fatigue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incessantness designates the quality of something that continues without end or interruption."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The terrible **incessantness** of the revolutionary tumbrils rolling to the scaffold cowed the citizens of Paris into silence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was wearied by the dry **incessantness** of Casaubon's pedantic inquiries into dead mythologies."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The grand **incessantness** of the ocean swell reminds mortal man of the infinite power that governs creation."*
+

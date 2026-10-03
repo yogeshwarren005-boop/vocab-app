@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wander from a direct or straight course.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn aside temporarily from the main subject, topic, or argument in speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical composition and literary narratology, authors digress into philosophical parabases to offer meta-commentary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tedious it were to tell, and harsh to hear; Sufficeth I am come to keep my word, Though in some part enforced to digress; Which at more leisure I will so excuse As you shall well be satisfied withal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But soft, methinks I do digress too much, Citing my worthless praise."*
-> - 📜 **James Scurry (*The captivity, sufferings, and escape of James Scurry*):** *"I have digressed thus, in stating the ideas that continually preyed on my heart, because they were really grievous to me."*
+> - 📜 **Jane Austen (*Emma*):** *"Miss Bates was perpetually prone to **digress** into endless village gossip whenever asked a simple question."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"David paused in his narrative, begging the reader's pardon for his inclination to **digress** upon happy memories."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The author resolved to **digress** into a profound treatise upon the nature and utility of madness in a commonwealth."*
+

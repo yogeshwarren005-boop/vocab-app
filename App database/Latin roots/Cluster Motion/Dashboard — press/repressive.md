@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restrictive of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restrictive of action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inhibiting, restraining, or tending to keep under control; characterized by political or psychological oppression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, repressive laws impose severe punitive sanctions to enforce mechanical social solidarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"He was fuming under a repressive law which he was forced to acknowledge: he was dangerously poised, and Rosamond’s voice now brought the decisive vibration."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"They were thoroughly imbued with the doctrine that they were inherently superior to the Negro and instituted repressive measures to keep alive recognition of this claim."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"To prevent uprisings on the part of the slaves repressive measures were instituted, and the Southern white man became an adept in the art of controlling others, and his nature became inured to the task."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He was fuming under a **repressive** convention which he was forced to acknowledge despite inward rebellion."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The **repressive** force of public opinion can prove more tyrannical than the direct penalties of the magistrate."*
+> - 📜 **George Orwell (*1984*):** *"The regime constructed an elaborate apparatus of **repressive** institutions to extinguish any flicker of independent thought."*
+

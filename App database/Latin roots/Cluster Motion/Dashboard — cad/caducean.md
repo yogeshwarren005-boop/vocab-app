@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a caduceus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a caduceus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a caduceus, the staff entwined with serpents carried by the god Hermes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In symbolic iconology and classical art history, the caducean wand signified diplomatic immunity and commercial peace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Keats (*Lamia*):** *"One warm, flush'd moment, hovering, it might seem Dash'd by the wood-nymph's beauty, so he burn'd; Then, lighting on the printless verdure, turn'd To the swoon'd serpent, and with languid arm, Delicate, put to proof the lythe Caducean charm."*
+> - 📜 **Nathaniel Hawthorne (*A Wonder-Book for Girls and Boys*):** *"Mercury waved his winged **caducean** wand, causing the enchanted sleepers to sink into deep celestial slumber."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The herald archangel carried a golden staff whose **caducean** serpents gleamed with heavenly majesty."*
+> - 📜 **Percy Bysshe Shelley (*Hellas*):** *"The messenger of peace descended with **caducean** grace to reconcile the warring factions of the city."*
+

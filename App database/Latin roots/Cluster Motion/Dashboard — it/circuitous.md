@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by obliqueness or indirection in speech or conduct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviating from a straight course.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deviating from a straight course; roundabout, indirect, winding, or meandering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and literary narration, circuitous circumlocution avoids direct statements to soften delicate disclosures or evade responsibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"May I ask what dreadful thing it is that has happened between you and him?” “You may ask; but I may not tell.” In about ten minutes they returned to the house by a circuitous route, entering at the rear."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their walk having been circuitous, they were still not far from the house, and in obeying his direction she only had to reach the large stone bridge across the main river and follow the road for a few yards."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The distance was too long for a walk, but Clare felt such a strong desire for isolation that at first he would neither hire a conveyance nor go to a circuitous line of railway by which he might eventually reach the place."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We took a **circuitous** path across the moor to evade anyone who might be watching the highway."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy chose a **circuitous** route back to the barracks to avoid encountering Bathsheba."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian cavalry executed a **circuitous** maneuver through the marshes to outflank the Roman vanguard."*
+

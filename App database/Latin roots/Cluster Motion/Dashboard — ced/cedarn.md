@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or made of cedar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or made of cedar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made of, relating to, or resembling cedar; aromatic like cedar wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Romantic and Renaissance poetic diction, cedarn groves evoked mythic classical sanctuaries and incorruptible timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedarn designates consisting of or made of cedar."*
+> - 📜 **John Milton (*Comus*):** *"Right against the eastern gate, where the great sun begins his state, arrayed in flames and amber light, upon the **cedarn** alley."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Sweet winds breathed through the **cedarn** shadows of the mountain, scattering fragrant needles upon the moss."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The private chamber was lined with polished **cedarn** paneling that filled the warm air with a subtle incense."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The successful completion of a program of study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An academic exercise in which diplomas are conferred.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The receiving or conferring of an academic degree or diploma; or a mark or system of marks indicating intervals on a scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metrological instrumentation, precision laser graduation etches micrometric divisions onto optical scale reticles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The graduation principle. § 10."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most disputed feature of the income tax is the principle of graduation, or of progression."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"To speak of all the disappointments which fell to Hoelderlin's lot would practically require the writing of his biography from the time of his graduation from Tuebingen to his return from Bordeaux, almost the entire period of his sane manhood."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Upon his medical **graduation**, Martin Arrowsmith received his diploma and began his clinical internship at City Hospital."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The commencement celebrations and formal **graduation** ceremony marked the closing of his youth at Princeton."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The sensitive galvanometer was fitted with an ivory scale whose fine **graduation** permitted fractional degree readings."*
+

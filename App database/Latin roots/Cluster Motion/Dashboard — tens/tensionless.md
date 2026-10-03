@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from tension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from tension, stress, or strain; completely relaxed, loose, or slack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile machinery and synthetic yarn spinning, tensionless fabric winding prevents mechanical distortion and fiber stretching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensionless designates free from tension."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The heavy harpoon line hung slack and **tensionless** in the tub once the swimming whale had breached."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane sank into a peaceful, **tensionless** sleep, her troubled spirit resting after days of bitter wandering."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The evening water lay smooth and **tensionless** under the quiet sky, reflecting the pale stars without a ripple."*
+

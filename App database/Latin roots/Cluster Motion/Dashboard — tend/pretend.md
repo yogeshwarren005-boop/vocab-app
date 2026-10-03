@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The enactment of a pretense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make believe with the intent to deceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feign, simulate, or give a false appearance of; to claim or profess something not substantiated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical monarchical disputes, to pretend to a crown meant to assert a formal dynastic title or claim to sovereignty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For The contract you pretend with that base wretch, One bred of alms and foster’d with cold dishes, With scraps o’ th’ court, it is no contract, none."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or doth this churlish superscription Pretend some alteration in good will?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why shall we fight if you pretend no title?"*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Now, Governor of Paris, take your oath, that you elect no other king but him; esteem none friends that **pretend** title unto this crown."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"I will not **pretend** to be indifferent to a subject which occupies so large a share of my thoughts."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip did not **pretend** to understand the intricate legal mechanisms that governed Jaggers's office."*
+

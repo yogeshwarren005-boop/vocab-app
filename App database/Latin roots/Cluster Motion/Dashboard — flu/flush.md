@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of greatest prosperity or productivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rosy color (especially in the cheeks) taken as a sign of good health.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To turn red in the face from emotion or heat; or to cleanse by a sudden rush of water; or level and even with an adjacent surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poker card game combinations, a flush consists of five cards of the identical suit regardless of numerical sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Many hot inroads They make in Italy—the borders maritime Lack blood to think on’t—and flush youth revolt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He took my father grossly, full of bread, With all his crimes broad blown, as flush as May; And how his audit stands, who knows save heaven?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the time is flush, When crouching marrow, in the bearer strong Cries of itself, “No more!” Now breathless wrong Shall sit and pant in your great chairs of ease, And pursy insolence shall break his wind With fear and horrid flight."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth felt a sudden **flush** overspread her cheeks as she caught Mr. Darcy's intent gaze."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The morning sun brought a warm **flush** across the dewy fields of the valley."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip saw the angry **flush** mount into Estella's forehead as Miss Havisham reproached her."*
+

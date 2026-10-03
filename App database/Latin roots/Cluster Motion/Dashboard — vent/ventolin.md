@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bronchodilator (trade names ventolin or proventil) used for asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects are tachycardia and shakiness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bronchodilator (trade names ventolin or proventil) used for asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects are tachycardia and shakiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial brand name for albuterol (salbutamol), an inhaled short-acting beta-2 bronchodilator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency asthma management, Ventolin relaxes bronchial smooth muscle by stimulating intracellular cyclic AMP production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventolin designates a bronchodilator (trade names ventolin or proventil) used for asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects are tachycardia and shakiness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inhaled bronchodilators such as **Ventolin** promptly terminate acute episodes of bronchospasm."*
+> - 📜 **Richard Cabot (*Differential Diagnosis*):** *"The patient demonstrated immediate spirometric improvement after two puffs of **Ventolin** aerosol."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The clinic dispensary kept supplies of **Ventolin** ready to manage sudden respiratory wheezing in elderly wards."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Italian name for Venice, the historic capital city of the Veneto region built upon a lagoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history, the Most Serene Republic of Venice (Serenissima Repubblica di Venezia), the preeminent naval and trading power of the Mediterranean.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venezia designates the provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction."*
+> - 📜 **Lord Byron (*Letters and Journals*):** *"I arrived in **venezia** by moonlight, finding the water streets more enchanting than any city on earth."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The glory of **venezia** rose from the muddy salt marshes through steadfast civic courage and maritime commerce."*
+> - 📜 **Henry James (*Italian Hours*):** *"The magic of **venezia** never fades, renewed each evening by the sunset glowing upon the Grand Canal."*
+

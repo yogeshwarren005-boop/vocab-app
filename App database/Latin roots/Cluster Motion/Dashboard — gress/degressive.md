@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Going down by steps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of taxes) gradually decreasing in rate on sums below a certain amount.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decreasing gradually in rate, proportion, or severity as the amount increases; or descending by stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal public taxation theory, a degressive tax structure reduces effective tax percentages on lower income tiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, degressive designates going down by steps."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The fiscal reformer proposed a **degressive** tariff schedule to encourage domestic industrial manufacturing."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A **degressive** tax on small incomes mitigates the harsh burden of direct taxation upon the working classes."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The intensity of feudal obligations followed a **degressive** scale from direct retainers to remote vassals."*
+

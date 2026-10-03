@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A retailer of meat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retailer of meat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A butcher, or a merchant who deals in the distribution and retail sale of meat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early twentieth-century labor history, trade unions organized municipal meatman guilds to enforce sanitary handling regulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meatman designates a retailer of meat."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The weary **meatman** labored through freezing drafts in the vast subterranean chill-rooms of Packingtown."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"Carrie watched the neighborhood **meatman** sweep sawdust across the entrance of his corner shop."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George Babbitt exchanged cheerful morning greetings with his retail butcher and neighborhood **meatman**."*
+

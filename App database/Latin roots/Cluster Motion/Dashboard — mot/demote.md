@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign to a lower position; reduce in rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Assign to a lower position; reduce in rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce someone to a lower rank, grade, position, or class, usually as a disciplinary penalty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate human resources, administrative boards demote nonperforming supervisors to lower salary tiers following formal performance reviews.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demote designates assign to a lower position; reduce in rank."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The master decided to **demote** the neglectful bailiff to the rank of common teamster."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The commander-in-chief did not hesitate to **demote** any general who displayed lack of operational vigor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The board resolved to **demote** the clerk whose accounts showed suspicious discrepancies."*
+

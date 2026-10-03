@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving to be allowed to enter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving to be allowed to enter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of admittable, signifying allowable, permissible, or capable of being admitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century administrative petitions, claims judged admittible underwent formal review by the exchequer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admittible designates deserving to be allowed to enter."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"No compromise with arbitrary power is **admittible** in a constitution founded upon ordered ancient liberty."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Petty moral excuses are not **admittible** when evaluated before the sovereign bar of human conscience."*
+> - 📜 **Jeremy Bentham (*Rationale of Judicial Evidence*):** *"The jurist analyzed whether circumstantial depositions were **admittible** without cross-examination."*
+

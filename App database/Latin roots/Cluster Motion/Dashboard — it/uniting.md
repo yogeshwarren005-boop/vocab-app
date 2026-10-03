@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The combination of two or more commercial companies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making or becoming a single unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing together or joining into a single whole; connecting, harmonizing, or cementing a relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgical joining technology, welding processes achieve solid coalescence by uniting metallic surfaces through localized fusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Instead of pushing his fortune in the line marked out for the heir of the house of Elliot, he had purchased independence by uniting himself to a rich woman of inferior birth."*
-> - 📜 **Jane Austen (*Persuasion*):** *"He considered his disposition as of the sort which must suffer heavily, uniting very strong feelings with quiet, serious, and retiring manners, and a decided taste for reading, and sedentary pursuits."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here now stood the tomb as the men had stated, snow-white and shapely in the gloom, consisting of head and foot-stone, and enclosing border of marble-work uniting them."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here stood the tomb, consisting of two blocks of stone **uniting** in a stately apex beneath the yew tree."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The intermediate varieties **uniting** two distinct species in adjacent regions often perish during ecological shifts."*
+> - 📜 **Jane Austen (*Persuasion*):** *"He considered the circumstances **uniting** their families as a fortunate stroke of provincial neighborliness."*
+

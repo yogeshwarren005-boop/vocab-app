@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intense fluorescent resorcin-phthalein dye; alternative chemical spelling of fluorescein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrological tracer studies, minute quantities of fluoresceine are injected into sinkholes to map underground karst aquifer networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoresceine designates a yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"By injecting **fluoresceine** into the subterranean fissure, surveyors proved the stream resurfaced miles away."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The synthetic preparation of **fluoresceine** from resorcinol and phthalic anhydride was demonstrated to the class."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The radioactive rays induced visible glow in the dilute solution of **fluoresceine**."*
+

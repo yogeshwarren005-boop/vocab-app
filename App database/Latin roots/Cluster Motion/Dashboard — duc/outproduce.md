@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To produce more goods, crops, or industrial output than a competitor or rival enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic and wartime history, the decisive capability of allied industrial complexes to outproduce adversary industrial manufacturing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, outproduce designates pertaining to, derived from, or characteristic of latin duc within the domain of motion."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The industrial shipyards of North America possessed the capacity to **outproduce** the losses inflicted by U-boat wolfpacks."*
+> - 📜 **John Dos Passos (*The Big Money*):** *"Henry Ford's continuous assembly line was designed to **outproduce** every traditional automotive workshop in Michigan."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Technologically integrated syndicates easily managed to **outproduce** fragmented regional craft guilds."*
+

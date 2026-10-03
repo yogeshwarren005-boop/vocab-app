@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of acting compulsively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of acting compulsively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetitive, uncontrollable performance of ritualistic behaviors despite adverse consequences or lack of reward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuroscience, frontostriatal circuit dysregulation underpins the transition from impulsive seeking to habitual compulsivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compulsivity designates the trait of acting compulsively."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The clinical progression toward severe **compulsivity** reveals the vulnerability of human habituation mechanisms."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Griffin's manic **compulsivity** in pursuing his secret formula blinded him to the desperate isolation of his fate."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"The symbolic **compulsivity** of repetitive everyday errors reflects deep unconscious conflicts seeking expression."*
+

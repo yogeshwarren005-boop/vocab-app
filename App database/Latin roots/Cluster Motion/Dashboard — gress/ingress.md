@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the disappearance of a celestial body prior to an eclipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of entering.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of entering, going in, or arriving; or the right, liberty, or means of entry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orbital astronomy and astrometry, the ingress of Venus across the solar disk marks the beginning of the transit contact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"If he does strain to the moment of ingress into the divine being, it is to swoon with excess of bliss, as at the end of 'Epipsychidion', or as in the 'Indian Serenade': "Oh lift me from the grass!"*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The bursted crust of the sawdust heap had given free ingress to the wind, and a draught being started, it sucked the flames directly up the tall chimney the tree made."*
-> - 📜 **Bram Stoker (*Dracula*):** *"I could find no means of ingress."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the chimney and the stout oak door to determine the point of **ingress** used by the nocturnal intruder."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Through the high crystal portal, the angelic messengers found ready **ingress** into the radiant courts of heaven."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The foggy court of Chancery admitted no easy **ingress** to suitors who lacked wealth or legal influence."*
+

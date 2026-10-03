@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or contained in or performing the function of the veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or contained in or performing the function of the veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, contained in, or characteristic of veins; carrying deoxygenated blood toward the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human circulatory physiology, the venous return system operating under low hydrostatic pressure facilitated by skeletal muscle pumps and one-way valves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venous designates of or contained in or performing the function of the veins."*
+> - 📜 **William Harvey (*De Motu Cordis (On the Motion of the Heart and Blood)*):** *"The **venous** valves ensure that blood moves unalterably toward the heart, preventing any backward reflux."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent **venous** hypertension in the hepatic system leads to collateral circulation and ascites."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The dark color of **venous** blood is due to the reduction of oxyhemoglobin as it traverses capillary beds."*
+

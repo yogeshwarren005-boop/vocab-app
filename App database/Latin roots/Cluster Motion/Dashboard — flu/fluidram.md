@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british imperial capacity measure (liquid or dry) equal to 60 minims or 3.5516 cubic centimeters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of capacity or volume in the apothecary system equal to one eighth of a fluid ounce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of liquid measure equal to one-eighth of a fluid ounce (approximately 3.7 milliliters); a fluid dram.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical apothecary posology, a fluidram contained sixty minims of liquid medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluidram designates a british imperial capacity measure (liquid or dry) equal to 60 minims or 3.5516 cubic centimeters."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A dose of one **fluidram** of aromatic syrup of rhubarb was administered to calm gastric distress."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"The poisoner had added less than a **fluidram** of alkaloid extract to the decanter of wine."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The nurse measured out a **fluidram** of camphorated spirit to rub upon the child's chest."*
+

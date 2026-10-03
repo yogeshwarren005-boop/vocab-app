@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of beginning something new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first section of a communication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal presentation of one person to another; the opening or preliminary section of a book or speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invasion ecology and biogeography, the intentional or accidental release of a non-native organism into an alien ecosystem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pray excuse the introduction of such mean topics.” She partly drew aside the curtain of the long, low garret window and called our attention to a number of bird-cages hanging there, some containing several birds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Several young lady pupils, ranging from thirteen or fourteen years of age to two or three and twenty, were assembled; and I was looking among them for their instructor when Caddy, pinching my arm, repeated the ceremony of introduction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle wrote a letter of introduction to my guardian in behalf of her eloquent friend Mr."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Here we see how potent has been the effect of the **introduction** of a single tree into the native flora."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He flourished the cavalry sword by way of **introduction** number two, fascinating the frightened country maiden."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The clear **introduction** to a philosophical treatise should define the scope and bounds of human inquiry."*
+

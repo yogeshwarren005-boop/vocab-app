@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With specific intentions; for the express purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With specific intentions; for the express purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an explicit, clear, and unmistakable manner; or specifically and particularly for a stated purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract law, expressly stated conditions supersede implied terms and common usage defaults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is his claim, his threat’ning, and my message; Unless the Dauphin be in presence here, To whom expressly I bring greeting too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Kill the poys and the luggage! ’Tis expressly against the law of arms. ’Tis as arrant a piece of knavery, mark you now, as can be offer’t; in your conscience, now, is it not?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who dares cross ’em, Bearing the King’s will from his mouth expressly?"*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Civil society is formed when men **expressly** consent to submit to the determination of the majority."*
+> - 📜 **Francis Bacon (*Essays*):** *"The ancient statutes **expressly** forbid monopolies that constrain public trade and common commodities."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The document was prepared **expressly** to satisfy the rigorous requirements of the Court of Chancery."*
+

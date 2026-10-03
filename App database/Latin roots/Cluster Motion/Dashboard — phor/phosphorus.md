@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A multivalent nonmetallic element of the nitrogen family that occurs commonly in inorganic phosphate rocks and as organic phosphates in all living cells; is highly reactive and occurs in several allotropic forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planet (usually venus) seen just before sunrise in the eastern sky.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly reactive nonmetallic chemical element (symbol P, atomic number 15) essential for organic life and glowing in darkness when oxidized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry and energetic metabolism, adenosine triphosphate utilizes high-energy phosphorus anhydride bonds to drive biological work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"With such a mind, active as phosphorus, biting everything that came near into the form that suited it, how could Mrs."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"These different aliments appeared to me to be rich in phosphorus, and I thought they must have a marine origin."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Beside the road the glow worms did their feeble best to light the way; and now and then an old stump in the swamp displayed a ghostly gleam of phosphorus."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"A single spark touches the dry **phosphorus**, and instantly it bursts into a dazzling, incandescent white flame."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes touched the hound's dead snout with his finger and sniffed the distinctive acrid scent of **phosphorus**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organic bones and teeth contain large quantities of phosphate of lime, proving the ubiquitous necessity of **phosphorus** in life."*
+

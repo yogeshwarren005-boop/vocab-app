@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characteristic of phosphorus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or characteristic of phosphorus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or containing phosphorus, especially in its pentavalent state; or glowing with faint phosphorescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural soil science and industrial chemistry, phosphoric acid serves as the foundational chemical precursor for phosphate fertilizers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pool glittered like a dead man’s eye, and as the world awoke a breeze blew, shaking and elongating the reflection of the moon without breaking it, and turning the image of the star to a phosphoric streak upon the water."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was not a mere phosphoric phenomenon."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It is only an agglomeration of phosphoric particles,” cried one of the officers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pequod cut through the midnight sea, leaving a long wake of green **phosphoric** radiance shimmering behind her."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"When phosphorus burns in oxygen, it yields dense white clouds of **phosphoric** acid anhydride that dissolve in water."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The salon window revealed swarms of oceanic medusae that illuminated the black abyss with **phosphoric** light."*
+

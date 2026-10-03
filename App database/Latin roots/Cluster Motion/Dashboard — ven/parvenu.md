@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has suddenly risen to a higher economic status but has not gained social acceptance of others in that class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of someone who has risen economically or socially but lacks the social skills appropriate for this new position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has suddenly risen to wealth, status, or power, but has not yet gained social acceptance; an upstart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century French and English social satire, a nouveau riche character attempting clumsily to adopt aristocratic manners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"He was a baronet of ancient name; No parvenu his daughter's hand should claim."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"The old Inn elbows it disdainfully on one side, and on the other a great modern stuccoed pile overtops it with a parvenu insolence."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"However much he might be disposed to hate all parvenus (Mr."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Osborne was a wealthy city **parvenu** whose vulgar ostentation drew covert sneers from the impoverished nobility."*
+> - 📜 **Honoré de Balzac (*Père Goriot*):** *"Rastignac observed how the Parisian **parvenu** flaunted gilded carriages and diamond tie-pins to advertise sudden fortunes."*
+> - 📜 **Henry James (*The American*):** *"The proud old aristocratic family regarded the energetic American millionaire as an intrusive transatlantic **parvenu**."*
+

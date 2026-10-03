@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being ascended.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being ascended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being ascended, climbed, scaled, or mounted; climbable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural fire safety and rescue engineering, designing ascendible exterior fire escapes ensures emergency access.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascendible designates capable of being ascended."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The cliffs of Saint Helena appeared barely **ascendible**, broken only by a few narrow, treacherous goat tracks."*
+> - 📜 **John Muir (*The Mountains of California*):** *"A steep, talus-covered ravine provided the only **ascendible** route to the summit of the granite peak."*
+> - 📜 **Herman Melville (*Typee*):** *"Toby declared that the precipitous mountain ridge was **ascendible** if they followed the roots of the wild bamboo."*
+

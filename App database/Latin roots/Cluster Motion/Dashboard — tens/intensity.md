@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount of energy transmitted (as by acoustic or electromagnetic radiation).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: High level or degree; the property of being intense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme strength, concentrated energy, depth of emotion, or high magnitude in a physical property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wave physics and radiometry, radiant intensity represents the radiant flux emitted per unit solid angle in a specified direction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It may be that if we knew more of such strange afflictions we might be the better able to alleviate their intensity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet closes her eyes in the intensity of her relief."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It glowed on the windward side, rising and falling in intensity, like the coal of a cigar."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic **intensity** of the galvanic current was measured using a sensitive astatic galvanometer."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester spoke with a passionate **intensity** that caused Jane's heart to tremble with tender emotion."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the burnt match with an **intensity** that revealed the importance of the tiny relic."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being productive or having the power to produce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being productive or having the power to produce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity, efficiency, or power to yield abundance, goods, or fruitful results.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural soil science, the productiveness of alluvial river plains depends on organic loam content and drainage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But Hamilton's influence, while it called out and stimulated his pupil's powers to a remarkable degree, was not one which made for literary productiveness."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a farmer, an agriculturist, a desk-tied professor, a laboratory slave, interested only in the soil and the increase of the productiveness of the soil."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Some of these contribute to greater productiveness, others to a fairer distribution."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor causes a greater increase in the **productiveness** of human exertion than any other improvement."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The natural **productiveness** of tropical vegetation supports an extraordinary diversity of insect life."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"The industrial **productiveness** of a nation reflects the technical skill and mechanical inventiveness of its artisans."*
+

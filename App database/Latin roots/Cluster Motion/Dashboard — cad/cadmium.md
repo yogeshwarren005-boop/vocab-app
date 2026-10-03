@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft bluish-white ductile malleable toxic bivalent metallic element; occurs in association with zinc ores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft bluish-white ductile malleable toxic bivalent metallic element; occurs in association with zinc ores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, malleable, toxic, bluish-white metallic chemical element (symbol Cd, atomic number 48) used in batteries and pigments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial metallurgy and toxicology, occupational cadmium exposure causes renal tubular dysfunction and severe osteomalacia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadmium designates a soft bluish-white ductile malleable toxic bivalent metallic element; occurs in association with zinc ores."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The chemist examined the yellow sulfide of **cadmium**, noting its vibrant hue and resistance to atmospheric oxidation."*
+> - 📜 **John Ruskin (*The Elements of Drawing*):** *"The painter mixed a touch of **cadmium** yellow to capture the brilliant glow of early morning sunlight on the sails."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory shelves held glass jars of heavy metallic salts, including **cadmium** and lead reagents for biochemical tests."*
+

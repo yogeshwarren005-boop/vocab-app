@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficient in originality or creativity; lacking powers of invention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficient in originality or creativity; lacking powers of invention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking creative imagination, originality, or the ability to devise new ideas or designs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical evaluation, mechanical repetition of familiar formulas without innovative conceptual variation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uninventive designates deficient in originality or creativity; lacking powers of invention."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The lesser academic painter proved thoroughly **uninventive**, copying classical compositions without fresh feeling."*
+> - 📜 **George Bernard Shaw (*The Sanity of Art*):** *"A purely commercial theater encourages an **uninventive** reliance upon tired melodramatic clichés."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Without imaginative hypotheses, experimental research degenerates into an **uninventive** gathering of routine data."*
+

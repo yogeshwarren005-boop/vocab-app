@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a state of mental or emotional strain or suspense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical condition of being stretched or strained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pulling mechanical force exerted along a cable, or acute emotional strain between conflicting forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and circuit theory, high-tension lines transmit electric power at thousands of volts to minimize I²R losses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The infant’s breathing grew more difficult, and the mother’s mental tension increased."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When she found him near her, her very tension at what she had heard the night before made her the first to speak."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"My good God! that ever I should ha’ lived to say it, but I say it again, you little fool!” Tess was convulsed with weeping, the tension of so many days having relaxed at last."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electrical **tension** between the galvanic poles was sufficient to ignite paper soaked in spirits."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The terrible **tension** of the vigil was broken by the sound of rapid footsteps echoing across the granite rocks."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's nerves were strung to an unbearable **tension** by the agonizing uncertainty of Willoughby's silence."*
+

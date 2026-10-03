@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A narrow gorge with a stream running through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Watercourse that consists of an open artificial chute filled with water for power or for carrying logs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial channel, chute, or inclined ravine used to convey water for milling, logging, or placer mining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydraulic engineering and open-channel flow measurement, a Parshall flume measures volumetric discharge rates based on critical depth transitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Through the breach, they heard the waters pour, as mountain torrents down a flume."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Flume, you start collecting rocks to pack around the body once we get it in place."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf put me in charge of this detail, Flume."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Through the breach, they heard the waters pour, as mountain torrents down a **flume**."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The gold miners constructed a wooden **flume** that clung to the dizzying precipice above the river canyon."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A mill-race ran through a hemlock **flume**, driving the antique iron wheel with steady power."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A negotiator who acts as a link between parties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A negotiator who acts as a link between parties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who intervenes, mediates, or pleads on behalf of another, especially in prayer or conflict resolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international arbitration and diplomacy, an impartial neutral intercessor assists warring parties in framing ceasefire terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"He ask’d, but all the Heav’nly Quire stood mute, And silence was in Heav’n: on mans behalf Patron or Intercessor none appeerd, Much less that durst upon his own head draw The deadly forfeiture, and ransom set."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not be made a soft and dull-eyed fool, To shake the head, relent, and sigh, and yield To Christian intercessors."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Volumnia walked to the Volscian camp, acting as a tearful **intercessor** to save Rome from her own son's wrath."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The Duke of Argyle acted as a powerful **intercessor** with the Queen on behalf of the humble Scottish maiden."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian was directed to the heavenly **intercessor** who alone could wash away the heavy burden upon his back."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be bitter or resentful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add poison to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To poison, taint with venom, or embitter; to infuse malice or hatred into feelings or speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary tragedy, toxic passions or malicious slander that poison intimate relationships and family harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, this report of his Did Hamlet so envenom with his envy That he could nothing do but wish and beg Your sudden coming o’er to play with him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In thee there is not half an hour of life; The treacherous instrument is in thy hand, Unbated and envenom’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Envenom him with words, or get thee gone, And leave those woes alone which I alone Am bound to underbear."*
+> - 📜 **William Shakespeare (*King John*):** *"Whose tongue soe'er speaks false, not truly speaks; who speaks not truly, lies. Do not **envenom** your words with spite."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan sought to **envenom** the peaceful minds of innocent angels with rebellious pride."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Jealous suspicions served only to **envenom** his heart and distort every innocent action of his wife."*
+

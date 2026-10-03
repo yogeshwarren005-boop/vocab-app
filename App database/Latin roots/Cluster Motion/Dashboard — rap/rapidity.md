@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate that is rapid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rate that is rapid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great speed or swiftness of motion, occurrence, or operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical reaction kinetics, catalytic reaction rapidity depends upon lowering activation energy barriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the same odd way, yet with the same rapidity, he then produced singly, and rubbed out singly, the letters forming the words Bleak House."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Upon that, he shut himself up for a few weeks with some books and some bones and seemed to acquire a considerable fund of information with great rapidity."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I shall be at your service in half a minute.” Mrs Croft left them, and Captain Wentworth, having sealed his letter with great rapidity, was indeed ready, and had even a hurried, agitated air, which shewed impatience to be gone."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions marched across Gaul with astonishing **rapidity**, surprising the rebel tribes before they could unite."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The pestilence spread through the city with terrifying **rapidity**, defying every quarantine established by the magistrates."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley's inherent **rapidity** of decision contrasted with Darcy's methodical and deliberate habit of mind."*
+

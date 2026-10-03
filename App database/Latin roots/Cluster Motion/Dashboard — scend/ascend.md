@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel up,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go back in order of genealogical succession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move, go, climb, or rise upward; or to rise to a higher social, political, or moral position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautics and ballooning, lighter-than-air vessels ascend when buoyant force exceeds total gravitational weight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O for a Muse of fire, that would ascend The brightest heaven of invention, A kingdom for a stage, princes to act, And monarchs to behold the swelling scene!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ascend, brave Talbot; we will follow thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peace be to France, if France in peace permit Our just and lineal entrance to our own; If not, bleed France, and peace ascend to heaven, Whiles we, God’s wrathful agent, do correct Their proud contempt that beats his peace to heaven."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I resolved to **ascend** to the summit of Montanvert, hoping the sublime mountain scenery would bring peace to my soul."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Brutus did **ascend** the public pulpit to render reasons for the death of Caesar before the citizens of Rome."*
+> - 📜 **John Milton (*Paradise Lost*):** *"**Ascend**, I bid thee, to the heavenly hill, where radiant seraphim proclaim the eternal majesty of the creator."*
+

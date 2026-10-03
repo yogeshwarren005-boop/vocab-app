@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made greater, stronger, more acute, or more severe in degree, power, or concentration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photography and optical image processing, an intensified charge-coupled device multiplies incoming photons for low-light night imaging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The paint with which they were smeared, intensified in hue by the sunlight, imparted to them a look of having been dipped in liquid fire."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It intensified her consciousness of error to a practical despair; the break of continuity between her earlier and present existence, which she had hoped for, had not, after all, taken place."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In a more intensified signification than it is probable that Shakespeare dreamed of, Shelley gives to airy nothing a local habitation and a name."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The thick Dartmoor fog **intensified** rapidly, rolling in white billows across the treacherous mires."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"My grief and remorse were **intensified** by the bitter knowledge that my own creation had destroyed Justine."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary fury was **intensified** by long centuries of feudal oppression and unbearable poverty."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold spellbound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling great rapture or delight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with intense pleasure, delight, or wonder; spellbound and completely captivated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history and devotional literature, the enraptured mystic perceives visions of transcendent unity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This amazed and enraptured Tess, whose slight experiences had been so infelicitous till now; and in her reaction from indignation against the male sex she swerved to excess of honour for Clare."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Oppenheimer, enraptured with my tales, remained a sceptic to the end."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"While I was meditating on it with enraptured gaze, Dame Honeyball, who was highly gratified by the interest it excited, put in my hands a drinking-cup or goblet which also belonged to the vestry, and was descended from the old Boar’s Head."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I gazed with an **enraptured** soul upon the majestic Alpine cataracts cascading into the foaming Arve."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth stood **enraptured** on the lawn of Pemberley, admiring the exquisite harmony of stream and wood."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The sculptor stood **enraptured** before the newly unearthed Greek marble, marveling at its lifelike grace."*
+

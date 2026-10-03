@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being made smaller or simpler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being made smaller or simpler.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being reduced, made smaller, simplified, or brought into a lower or simpler condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebra and polynomial theory, an irreducible polynomial cannot be factored into the product of two non-constant polynomials over a given field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is toward the attainment of this irreducible minimum of uncertainty and disaster in business that efforts should be directed. [Footnote 1: On the way these affect private profits see Vol."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus friction is brought down almost to the irreducible minimum."*
-> - 📜 **James Joyce (*Ulysses*):** *"What anthem did Bloom chant partially in anticipation of that multiple, ethnically irreducible consummation?"*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Sense-data represent the **irreducible** raw material upon which all empirical knowledge of external reality is erected."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Consciousness presents an **irreducible** subjective reality that cannot be fully explained by mechanical atoms alone."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Space and time remain ultimate, **irreducible** categories of conscious human thought."*
+

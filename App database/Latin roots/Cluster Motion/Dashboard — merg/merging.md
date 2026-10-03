@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of joining together as one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flowing together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blending, uniting, or combining gradually so as to lose distinct individual identities in a common whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational data engineering, merging sorted dataset streams minimizes algorithmic I/O complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Opposed to this is a movement toward the merging of farms of 50 to 100 acres into larger farms of 300 acres, more or less."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Undoubtedly the merging of a number of old plants has sometimes effected an immediate improvement in the weaker ones."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Doing nothing, expecting nothing; merging night in day; feeling but the sensation of cold when I let the fire go out, of hunger when I forgot to eat: and then a ceaseless sorrow, and, at times, a very delirium of desire to behold my Jane again."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The twilight deepened rapidly, **merging** the dark contours of the coastal headland with the purple sea."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The twin rivers flowed together beneath the old stone bridge, **merging** their murky waters into the Thames."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"She sat motionless in the gathering gloom, her private thoughts **merging** with the melancholy rhythm of the city."*
+

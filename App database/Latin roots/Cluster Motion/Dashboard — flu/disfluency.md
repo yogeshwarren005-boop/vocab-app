@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of skillfulness in speaking or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of skillfulness in speaking or writing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An involuntary break, interruption, repetition, or irregularity in the smooth and continuous flow of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speech-language pathology and psycholinguistics, childhood disfluency encompasses speech sound prolongations, blockages, and syllable repetitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disfluency designates lack of skillfulness in speaking or writing."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A sudden surge of emotional embarrassment provokes noticeable speech **disfluency** in nervous public speakers."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The child's transient **disfluency** disappeared as his linguistic vocabulary expanded and confidence grew."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Under intense fear, vocal **disfluency** and stammering reflect respiratory dysregulation."*
+

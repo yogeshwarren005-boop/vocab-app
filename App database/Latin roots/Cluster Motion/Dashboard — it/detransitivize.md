@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intransitivize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intransitivize.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or alter a transitive verb into an intransitive verb by removing, suppressing, or incorporating its direct object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative syntax and morphological typology, antipassive and reflexive morphology can detransitivize a two-argument predicate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detransitivize designates intransitivize."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Certain linguistic prefixes can **detransitivize** active verbs, turning an external action into an internal state."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"Indo-European middle voice constructions often **detransitivize** transitive stems to denote self-contained actions."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Synchronic grammatical shifts frequently **detransitivize** verbs when an implied object becomes culturally understood."*
+

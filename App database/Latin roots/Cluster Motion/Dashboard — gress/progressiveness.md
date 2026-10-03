@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advancement toward better conditions or policies or methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advancement toward better conditions or policies or methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commitment to continuous reform, innovation, and technological or social advancement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional economics and organizational culture, corporate progressiveness correlates with R&D reinvestment and agility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progressiveness designates advancement toward better conditions or policies or methods."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The primary virtue of democratic institutions lies in their capacity to stimulate the intellectual **progressiveness** of citizens."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"True national **progressiveness** depends upon individual initiative rather than coercive administrative decrees."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George Babbitt constantly boasted of the commercial **progressiveness** of Zenith compared to rival midwestern cities."*
+

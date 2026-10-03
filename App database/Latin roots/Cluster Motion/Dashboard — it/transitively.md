@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transitive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a transitive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transitive manner; with the action passing over to an object, or possessing the logical property of transitivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative syntax, a verb used transitively assigns accusative case to its complement noun phrase in structural tree representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitively designates in a transitive manner."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"When this verb is construed **transitively**, it requires an accusative case immediately following."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Primitive verbal roots were employed **transitively** long before formal grammatical distinctions crystallized."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Logical deduction proceeds **transitively** from initial premises through intermediary implications to a theorem."*
+

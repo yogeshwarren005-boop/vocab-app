@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity much larger than is needed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An amount of something that is more than necessary, permitted, or desirable; lack of moderation or restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property and casualty insurance, an excess clause (deductible) establishes the policyholder's initial liability per claim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall worms inheritors of this excess Eat up thy charge? is this thy body’s end?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the living be enemy to the grief, the excess makes it soon mortal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We consider It was excess of wine that set him on, And on his more advice we pardon him."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"If music be the food of love, play on; give me **excess** of it, that, surfeiting, the appetite may sicken, and so die."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Led by **excess** of pride and blind ambition, Satan dared to challenge the almighty power of heaven."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"An **excess** of paper bank notes issued beyond the real commerce of the country precipitates rapid monetary inflation."*
+

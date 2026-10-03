@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fugal style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a fugal style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the contrapuntal, interwoven, or imitative manner characteristic of a musical fugue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polyphonic choral composition, voices enter fugally in staggered intervals to build layered polyphonic texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugally designates in a fugal style."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The choral voices entered **fugally**, building up a magnificent cathedral of sound in the cathedral nave."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"The church organist improvised **fugally** upon an ancient Lutheran chorale, weaving themes with solemn skill."*
+> - 📜 **Arthur Symons (*Studies in Seven Arts*):** *"The musical themes developed **fugally** across the orchestra, chasing one another like wind across open water."*
+

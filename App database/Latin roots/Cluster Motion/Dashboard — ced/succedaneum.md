@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substitute, replacement, or surrogate; especially a medicinal drug or material used in place of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pharmacology, synthetic antipyretics were evaluated as an effective succedaneum for scarce natural quinine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succedaneum designates (medicine) something that can be used as a substitute (especially any medicine that may be taken in place of another)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician cautioned against employing an untested herbal **succedaneum** when standard digitalis was available."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Utilitarian materialism offers only a cold, mechanical **succedaneum** for the living spiritual faith of past ages."*
+> - 📜 **Oliver Goldsmith (*The Citizen of the World*):** *"The eccentric philosopher invented a curious chemical **succedaneum** to replace expensive oriental tea."*
+

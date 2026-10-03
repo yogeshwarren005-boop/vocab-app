@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of moving freely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of moving freely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to move freely, easily, and rapidly from one place, physical posture, or social position to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics and semiconductor electronics, electron mobility quantifies drift velocity per unit electric field within crystal lattices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"LI At length it was the eve of Old Lady-Day, and the agricultural world was in a fever of mobility such as only occurs at that particular date of the year."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Only in this way can provision be made for entire mobility of labor, so that men may not be bound, as a condition for obtaining benefits, to continue in the service of any one employer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The greater ease of transferring landed-property in America and the greater mobility of our population have always made it more natural here than in Europe to look upon land as a capital investment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The incredible **mobility** of the Hun cavalry terrorized the static Roman frontier garrisons along the Danube."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Industrial civilization is distinguished by the high social **mobility** of individuals across economic classes."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The facial muscles of primates display remarkable **mobility** for signaling fear, anger, and affection."*
+

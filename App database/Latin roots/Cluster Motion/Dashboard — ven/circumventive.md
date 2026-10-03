@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ven within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ven in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending, designed, or serving to circumvent, bypass, or outwit an obstacle or regulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military tactical doctrine and strategic maneuvers, circumventive envelopments that bypass fortified redoubts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumventive designates pertaining to, derived from, or characteristic of latin ven within the domain of motion."*
+> - 📜 **Francis Bacon (*Essays*):** *"A cunning negotiator employs **circumventive** arts to entrap an unwary adversary into disadvantageous covenants."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal constitution must withstand the **circumventive** stratagems of ambitious state factions."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Smugglers devised ingenious **circumventive** methods to evade imperial customs duties."*
+

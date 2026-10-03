@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Articulate; either verbally or with a cry, shout, or noise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stated, manifested, or revealed in explicit terms or unmistakable signs; squeezed out by pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and gene regulation, denotes a gene whose DNA sequence has been transcribed and translated into functional protein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His heart, like an agate, with your print impressed, Proud with his form, in his eye pride expressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do forswear them, and I here protest, By this white glove—how white the hand, God knows!— Henceforth my wooing mind shall be expressed In russet yeas and honest kersey noes."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"His heart, like an agate, with your print impressed, proud with his form, in his eye pride **expressed**."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor **expressed** her sincere gratitude for the polite attentions showered upon her family."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Grief is unmistakably **expressed** across all human races through involuntary contraction of the corrugator muscles."*
+

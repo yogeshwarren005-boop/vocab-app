@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circular movement of a limb or eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circular movement of a limb or eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The circular or conical movement of a body limb or eye whereby the distal end describes a circle while the proximal end remains fixed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ball-and-socket synovial joint mechanics (such as the glenohumeral joint), circumduction combines flexion, abduction, extension, and adduction in sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumduction designates a circular movement of a limb or eye."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The ball-and-socket shoulder joint allows complete **circumduction** of the arm through a wide conical arc."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The revolving nutation of twining stems closely resembles the **circumduction** observed in animal limb joints."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The orthopedic examination demonstrated painful limitation of **circumduction** in the affected hip joint."*
+

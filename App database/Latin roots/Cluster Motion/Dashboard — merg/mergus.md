@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mergansers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mergansers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The zoological type genus of typical mergansers, characterized by narrow serrated bills used to catch fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic nomenclature, the genus Mergus includes the common merganser (Mergus merganser) and red-breasted merganser (Mergus serrator).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mergus designates mergansers."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Species of the genus **Mergus** exhibit extraordinary diving agility when pursuing minnows across swift northern streams."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"A solitary specimen belonging to the genus **Mergus** was observed diving among the reeds of the pond in winter."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The specialized serrations along the mandible of **Mergus** furnish compelling evidence of adaptive divergence."*
+

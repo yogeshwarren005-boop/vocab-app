@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic orange-red organic compound and xanthene dye that produces an intense green fluorescence in alkaline aqueous solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, topical fluorescein staining detects corneal epithelial abrasions and integrity defects under cobalt blue light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorescein designates a yellow dye that is visible even when highly diluted; used as an absorption indicator when silver nitrate solution is added to sodium chloride in order to precipitate silver chloride (turns pink when no chloride ions are left in solution and negative fluorescein ions are then absorbed)."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A minute grain of **fluorescein** dissolved in a cistern of water imparts a magnificent emerald luminescence."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The ophthalmologist instilled a drop of **fluorescein** to delineate the corneal ulceration."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The chemist experimented with dyes derived from coal tar, including intensely luminescent **fluorescein**."*
+

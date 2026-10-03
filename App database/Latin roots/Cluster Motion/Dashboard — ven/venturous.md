@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to venture or take risks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to venture or take risks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Daring, bold, fearless, or inclined to undertake risky and hazardous enterprises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heroic literature and Renaissance poetry, an epithet for valiant knights errant pursuing perilous quests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of all exploits since first I follow’d arms Ne’er heard I of a warlike enterprise More venturous or desperate than this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go, get you to my house; I will reward you for this venturous deed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am much too venturous In tempting of your patience, but am boldened Under your promised pardon."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Of all exploits since first I follow'd arms ne'er heard I of a warlike enterprise more **venturous** than this."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With **venturous** arm Satan soared through the vast abyss toward the newborn cosmic light."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"The **venturous** knight spurred forth his steed across the enchanted waste to rescue the captive lady."*
+

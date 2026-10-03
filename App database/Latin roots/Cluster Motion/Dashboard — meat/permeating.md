@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spread or diffuse through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass through.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffusing, spreading, or penetrating throughout every part of a substance, environment, or atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental geology, contaminants permeating unconfined aquifers pose severe long-term risks to municipal groundwater wells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill exhibited such genuine and profound religion--so permeating his whole life, and so engrossing his every action--as can hardly be looked for in any other man of this generation."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Cleanthes described him as permeating all things."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The sun’s rays are veiled, And the earth is cooled; The cloud lowers and spreads As if it might be caught and gathered; Its rain everywhere equally Descends on all sides, Streaming and pouring unstinted, Permeating the land."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The heavy fragrance of boiling sperm oil hung **permeating** every timber and sail of the Pequod."*
+> - 📜 **George Eliot (*Silas Marner*):** *"A gentle sense of domestic peace came **permeating** through the lonely cottage after Eppie arrived."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The bitter smoke from the Coketown chimneys hung **permeating** the air of every narrow alley."*
+

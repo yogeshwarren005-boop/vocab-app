@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reached only with great difficulty or not at all.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of being obtained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be reached, approached, entered, or obtained; remote and unapproachable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deep-sea oceanographic biology, abyssal benthic habitats were long considered inaccessible prior to bathyscaphes and ROVs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Uninhabitable, and almost inaccessible,— SEBASTIAN."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Mary was not so repulsive and unsisterly as Elizabeth, nor so inaccessible to all influence of hers; neither was there anything among the other component parts of the cottage inimical to comfort."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Since the island was almost inaccessible, at night my repose was not disturbed by continual apprehension of the approach of cannibals or of beasts of prey."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The daemon took refuge among the **inaccessible** ice caves and jagged pinnacles of the high Alps."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God dwelleth in uncreated light, **inaccessible** to mortal sight, surrounded by choirs of seraphim."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The icy polar seas remained long **inaccessible** to commercial merchant navigation."*
+

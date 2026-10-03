@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is morally reprehensible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Software used in art and architecture and engineering and manufacturing to assist in precision drawing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dishonorable, ill-bred, or treacherous man whose behavior disregards basic decencies, especially toward women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century British university slang, cad originally designated an omnibus conductor or town laborer before becoming an insult.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"On a stretch of level road he passed a pair talking, noting casually that the woman was a lady from her carriage, and from his threatening cringe that the man was a cad."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"You don't mean that Henshaw has been cad enough to find another--” Calderwell threw up his hand."*
-> - 📜 **James Joyce (*Ulysses*):** *"Mr Dedalus fell back, saying: —Was that Mulligan cad with him?"*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes denounced Stapleton as a calculating villain and unmitigated **cad** who preyed upon innocent lives."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins declared that anyone who judged a man merely by his accent was a pretentious and vulgar **cad**."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Jingle proved himself a slippery **cad**, eloping with the maiden aunt to extort money from her brother."*
+

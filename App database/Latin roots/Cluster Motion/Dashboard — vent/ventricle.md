@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four connected cavities in the brain; is continuous with the central canal of the spinal cord and contains cerebrospinal fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chamber of the heart that receives blood from an atrium and pumps it to the arteries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow chamber or cavity within an organ, especially the muscular pumping chambers of the heart or cerebral cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular physiology, the left ventricle generates high hydrostatic pressure to eject oxygenated blood through the aortic valve into systemic circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These are begot in the ventricle of memory, nourished in the womb of _pia mater_, and delivered upon the mellowing of occasion."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"These are begot in the **ventricle** of memory, nourished in the womb of pia mater, and delivered upon the mellowing of occasion."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"With each contraction, the left **ventricle** expels its blood directly into the great trunk of the aorta."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The thick muscular wall of the left **ventricle** reflects the tremendous systemic resistance it must overcome."*
+

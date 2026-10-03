@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to serving as publicity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to advancement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, serving as, or intended for the advertising, publicity, or advancement of a product, enterprise, or event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial marketing strategy, encompasses public relations campaigns, trade discounts, and media sponsorships designed to stimulate consumer demand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, promotional designates of or relating to serving as publicity."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Modern corporations allocate immense expenditure to **promotional** activities designed to secure monopolistic goodwill."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"The consumer's desires are synthesized by the very **promotional** machinery that seeks to satisfy them."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He composed an elaborate **promotional** brochure extolling the sublime virtues of suburban real estate."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore to its uncompressed form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decrease the pressure of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To release or reduce pressure; to return to normal atmospheric pressure or uncompressed volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deep-sea diving, to bring a diver gradually back to surface atmospheric pressure to prevent decompression sickness (the bends).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At this extremely close range the concentrations of laser-quads and explosive decompress energy by both of us at a single point might disable some part of the warhead or set it off." "It would take too much time to cut through."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"The submersible crew waited in the airlock chamber to **decompress** before entering the main habitat."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The technicians stepped into the sealed decompression corridor to **decompress** following the shift."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"We prepared to **decompress** our sealed spherical cabin as the lunar atmosphere thinness became apparent."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to expressionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to expressionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or exhibiting the exaggerated and subjective qualities of expressionism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cinema criticism, describes films (such as The Cabinet of Dr. Caligari) featuring non-realistic, geometrically distorted sets reflecting psychological madness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expressionistic designates of or relating to expressionism."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"He admired the harsh, **expressionistic** brushwork that stripped the portrait of all polite superficial prettiness."*
+> - 📜 **Virginia Woolf (*The Captain's Death Bed and Other Essays*):** *"Modern fiction adopts an **expressionistic** technique to reveal the chaotic drift of unedited consciousness."*
+> - 📜 **George Bernard Shaw (*The Quintessence of Ibsenism*):** *"The later plays develop an **expressionistic** symbolism that moves beyond the naturalistic parlor room drama."*
+

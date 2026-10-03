@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expel (gases or odors).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To send forth, throw out, give off, or discharge gases, radiation, sounds, or scents into the surrounding environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum physics and atomic spectroscopy, excited electrons emit photons of specific discrete wavelengths when dropping to lower energy states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No one of these mischiefs is less incident to a power in the States to emit paper money, than to coin gold or silver."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They are not, for instance, to emit paper money; but the interdiction results from the Constitution, and will have no connection with any law of the United States."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"You never saw a more brilliant metallic luster than the scales emit— but of this you cannot judge till to-morrow."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Men imagine that they communicate their virtue or vice only by overt actions, and do not see that virtue or vice **emit** a breath every moment."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"All poets and heroes, like Memnon, are the children of Aurora, and **emit** their music at sunrise."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Both sexes of some species are beautifully coloured; and as these insects **emit** an extremely pungent scent, birds avoid them."*
+

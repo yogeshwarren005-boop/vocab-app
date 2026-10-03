@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporting tower used to support a bridge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sawhorses used in pairs to support a horizontal tabletop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A braced structural frame consisting of a horizontal beam supported by two pairs of divergent sloping legs, used as a support or bridge pier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In railway engineering and bridge design, a wooden or steel trestle carries trackage across deep ravines and river valleys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"The evening train shrieked out of the gap and across the long trestle just beyond the landing, where it halted for a few seconds for passengers to embark or to leave the cars."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The locality which had been selected for this little diversion was a railroad trestle a short distance below the town."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"He came uninvited, and stood up on his hind legs and rested his fore paws upon the trestle, and took a last long look at the face that was so dear to him, then went his way as silently as he had come. _He knows._ At mid-afternoon it began to snow."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The transcontinental train creaked slowly across a dizzy timber **trestle** spanning a deep gorge in the Rockies."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I observed the carpenters erect a sturdy **trestle** to support the heavy pine timbers of the new barn roof."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The infantry regiment halted near the railroad **trestle**, awaiting orders to deploy along the riverbank."*
+

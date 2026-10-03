@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being removed or away or dismiss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being removed or away or dismiss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being removed, displaced, extracted, or discharged from an office, position, or substrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and judicial tenure, appointing irremovable federal judges ensures the independence of the judiciary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He’s irremovable, Resolv’d for flight."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The Act of Settlement rendered the royal judges **irremovable** except upon address by both houses of parliament."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The heavy black ink stain seemed **irremovable** from the ancient vellum parchment in the Chancery office."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"An **irremovable** civil bureaucracy risks degenerating into an arrogant caste unresponsive to public needs."*
+

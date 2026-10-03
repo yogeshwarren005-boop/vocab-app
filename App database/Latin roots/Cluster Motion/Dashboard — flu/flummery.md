@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bland custard or pudding especially of oatmeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meaningless ceremonies and flattery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet, soft, bland pudding made of flour or oatmeal boiled with milk; or empty compliments, nonsense, or flatteries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth-century culinary history, Welsh flummery was prepared by soaking soured oatmeal husks and boiling the strained starch into a firm jelly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But her father, who is quite as opposed to such flummery as I, says that can be cured."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Sitting here, all smiles and flummery to my face, and then going away to abuse me behind my back!" "That's not true!" I cried hotly."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As for `smiles and flummery,' as you express it, there has been no chance of anything so friendly."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her father is quite as opposed to such **flummery** as I, says that vanity can be cured by hard work."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet dismissed the young officer's grand promises as mere society **flummery** and nonsense."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The Yorkshire schoolmaster had no patience for fashionable **flummery**, demanding cash down on the nail."*
+

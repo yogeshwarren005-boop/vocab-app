@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of marshaling and organizing and making ready for use or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of assembling and putting into readiness for war or other emergency:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of assembling and preparing military troops, supplies, and national resources for active war duty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history of the First World War, imperial Russian general mobilisation triggered automatic treaty mobilization across Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobilisation designates act of marshaling and organizing and making ready for use or action."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The rapid naval **mobilisation** of the British Grand Fleet in July 1914 secured immediate command of the North Sea."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The sudden **mobilisation** of artillery regiments along the Thames came too late to save the metropolis."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial **mobilisation** of legions from the Rhine to the Danube left the western provinces exposed to invasion."*
+

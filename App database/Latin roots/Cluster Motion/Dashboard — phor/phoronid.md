@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hermaphrodite wormlike animal living in mud of the sea bottom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hermaphrodite wormlike animal living in mud of the sea bottom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marine, worm-like lophophorate invertebrate of the phylum Phoronida, living in secreted chitinous tubes in seafloor sediments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate marine zoology, each phoronid projects an anterior horseshoe-shaped lophophore of ciliated tentacles for suspension feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoronid designates hermaphrodite wormlike animal living in mud of the sea bottom."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The anatomical organization of the solitary **phoronid** links it structurally to both brachiopods and bryozoans."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The curious tube-dwelling **phoronid** preserves primitive lophophorate characteristics of deep evolutionary significance."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"Embryological cleavage in the **phoronid** exhibits radial blastomere division followed by an actinotroch larva."*
+

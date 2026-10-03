@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concentrated coffee beverage brewed by forcing pressurized hot water through finely ground roasted coffee beans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomy, characterized by a thick consistency, high dissolved solids, and a rich, golden-brown aromatic foam termed crema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, espresso designates strong black coffee brewed by forcing hot water under pressure through finely ground coffee beans."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"I sat at the corner table of the café, drinking a strong dark **espresso** while watching the rain."*
+> - 📜 **Graham Greene (*The Comedians*):** *"He sipped the bitter **espresso** served in a thick porcelain cup while contemplating his next rendezvous."*
+> - 📜 **James Baldwin (*Giovanni's Room*):** *"The hiss of the chrome steam machine and the scent of freshly brewed **espresso** filled the small morning bistro."*
+

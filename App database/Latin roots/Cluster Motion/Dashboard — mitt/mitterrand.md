@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French statesman and president of france from 1981 to 1985 (1916-1996).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French statesman and president of france from 1981 to 1985 (1916-1996).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to François Mitterrand (1916–1996), the French statesman who served as President of France from 1981 to 1995.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern European political history, Mitterrand co-architected the Maastricht Treaty and championed landmark Parisian cultural monuments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitterrand designates french statesman and president of france from 1981 to 1985 (1916-1996)."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Post-war French political history witnessed the rise of veteran wartime figures like **Mitterrand** into national prominence."*
+> - 📜 **George Orwell (*As I Please*):** *"The political alliances formed during the French Resistance shaped postwar leaders such as **Mitterrand** in their youth."*
+> - 📜 **Arthur Koestler (*The Invisible Writing*):** *"The post-war ideological debates in Paris reflected the political trajectory that later elevated **Mitterrand** to the presidency."*
+

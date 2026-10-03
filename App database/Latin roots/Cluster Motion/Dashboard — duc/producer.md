@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who manufactures something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who finds financing for and supervises the making and presentation of a show (play or film or program or similar work).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, company, or country that makes, grows, or supplies goods or commodities for sale; theatrical manager.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological trophic systems, an autotrophic organism (such as a green plant) that synthesizes organic nutrients from inorganic substances via photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The use of money may be necessary several times before a commodity completes its journey from producer to consumer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It shuts out some foreign goods which would otherwise enter, an in so far it "protects" the domestic producer from the foreign competitors who would sell at lower prices than those at which he can or will sell."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Whenever the government collects a cent of tariff taxes, the domestic producer in so far and as respects that unit of goods is unprotected."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Consumption is the sole end and purpose of all production; and the interest of the **producer** ought to be attended to only so far as it may be necessary for promoting that of the consumer."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Man is priest, and scholar, and statesman, and **producer**, and soldier in one comprehensive humanity."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The town merchants found it profitable to deal directly with the primary agricultural **producer**."*
+

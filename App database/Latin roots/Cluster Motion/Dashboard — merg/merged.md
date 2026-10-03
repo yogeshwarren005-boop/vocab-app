@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mix together different elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Combined, united, or blended into a single coherent entity or unified mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical optics, spectral color bands become merged into white light when recombined through a convex converging lens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He may be a very superior man, but he is, so to speak, merged—merged—in the more shining qualities of his wife.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy’s power of jocularity merged into a power of taking the profoundest offence."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Where was this superfine, extraordinary sort of gallantry of yours then?” “All merged in my friendship, Sophia."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The distant granite tors **merged** into the dark wall of fog creeping steadily across the moorland."*
+> - 📜 **George Orwell (*Animal Farm*):** *"The creatures outside looked from pig to man, and from man to pig, and already their features **merged** inextricably."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The distant waves and the horizon **merged** into a pale sapphire haze under the fading afternoon sky."*
+

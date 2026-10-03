@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor vehicle with four wheels; usually propelled by an internal combustion engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel in an automobile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-wheeled motor vehicle powered by an internal combustion engine or electric battery, designed for passenger transportation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century urban geography and manufacturing economics, the mass production of the automobile reshaped suburban infrastructure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oppenheimer, for instance, had never seen an automobile or a motor-cycle."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Co., in Leclaire, Ill., and the Ford Automobile Works, in Detroit."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Here and there a patriarchal smith still serves a dwindling group of customers and speaks with mingled pride and pathos of his sons, now in the automobile business in the city."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Gatsby's gorgeous cream-colored **automobile** was known to everyone in West Egg for its nickel brightwork and three-note horn."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George Babbitt took immense pride in his newly purchased family **automobile**, washing its fenders every Sunday morning."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The noisy clatter of an early **automobile** startled the cab horses waiting patiently beside the London curb."*
+

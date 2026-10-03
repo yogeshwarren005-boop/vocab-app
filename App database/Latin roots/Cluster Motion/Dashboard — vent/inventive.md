@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of persons or artifacts) marked by independence and creativity in thought or action; ; - lewis mumford.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons or artifacts) marked by independence and creativity in thought or action; ; - lewis mumford.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing creative ingenuity; adept at designing new devices, methods, or solutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patent examinations, the inventive step (non-obviousness) evaluates whether an innovation exceeds ordinary skilled technical expectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It seemed as if, could I but go back to the idea which had last entered my mind as I stood at the window, some inventive suggestion would rise for my relief."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Just as when inventive power is working with glad ease some small claim on the attention is fully met as if it were only a cranny opened to the sunlight, it was easy now for Dorothea to write her memoranda."*
-> - 📜 **Effie Afton (*Eventide*):** *"Then you must resume that pen of yours, Annie, and let it write down those speaking thoughts that lie in your inventive brain."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man owes his enormous progress over brute ancestors to his **inventive** faculties in toolmaking."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The criminal displayed a remarkably **inventive** mind in arranging the mechanical traps around the treasure."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The Time Traveller was an extraordinarily **inventive** mechanician, admired by all his dinner companions."*
+

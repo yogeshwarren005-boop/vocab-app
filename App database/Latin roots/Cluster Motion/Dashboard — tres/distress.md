@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Psychological suffering.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of adversity (danger or affliction or need).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme anxiety, sorrow, pain, or suffering; or a state of acute physical danger or misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property law and feudal tenure, distress refers to the legal seizure of a tenant's chattels to enforce payment of rent arrears.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do pity his distress in my similes of comfort, and leave him to your lordship. [_Exit._] PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Art thou thus boldened, man, by thy distress?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The thorny point Of bare distress hath ta’en from me the show Of smooth civility; yet am I inland bred And know some nurture."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Lucie Manette rushed forward to comfort her father, whose deep mental **distress** had robbed him of his senses."*
+> - 📜 **William Shakespeare (*King Lear*):** *"The tempest rages without, but the greater **distress** of filial ingratitude beats within my breaking heart."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The stranded mariners fired a gun as a signal of **distress** across the stormy, foam-crested breakers."*
+

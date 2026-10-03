@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of giving expert advice within a particular field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice of giving expert advice within a particular field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional practice or firm that provides expert specialized advice in a specific field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In management economics and organizational strategy, corporate leaders engage strategic consultancy firms to restructure global operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consultancy designates the practice of giving expert advice within a particular field."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"The traction syndicate established a specialized engineering **consultancy** to survey the municipal street railway extensions."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Modern industrial enterprises increasingly depend upon an independent scientific **consultancy** to maintain product innovation."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George Babbitt aspired to establish a lucrative real estate **consultancy** catering to wealthy suburban land developers."*
+

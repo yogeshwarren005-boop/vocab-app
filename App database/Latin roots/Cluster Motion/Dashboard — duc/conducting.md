@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The way of administering a business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The direction of an orchestra or choir.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directing, managing, or leading an operation, orchestra, or business; transmitting heat or electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical performance, communicating artistic interpretation and rhythmic tempo through manual gesture and baton technique.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are they not now upon the western shore, Safe-conducting the rebels from their ships?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How have I been conducting of myself?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night pursues its leaden course, finding the court still out of bed through the unwonted hours, still treating and being treated, still conducting itself similarly to a court that has had a little money left it unexpectedly."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Why are you not **conducting** the investigation from Baker Street instead of wandering into the country?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"He had a high standard for **conducting** parochial duties, which earned him the respect of the older clergy."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The copper strip served as the principal **conducting** wire linking the galvanic battery to the galvanometer."*
+

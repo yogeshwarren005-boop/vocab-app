@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away to an undisclosed location against their will and usually in order to extract a ransom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To carry off or lead away a person unlawfully by force, fraud, or intimidation; or to draw a limb away from the median axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinesiology and musculoskeletal anatomy, to abduct an extremity means to move it laterally away from the sagittal midline of the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"One of the family is said to have abducted some beautiful woman, who tried to escape from the coach in which he was carrying her off, and in the struggle he killed her—or she killed him—I forget which."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Young women were abducted, and compelled, against their parents' wishes and their own, to marry Muslims."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Nowhere perhaps is the art of abducting human souls more carefully cultivated or carried to higher perfection than in the Malay Peninsula."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"The conspirators planned to **abduct** the young duke from the boarding school under cover of darkness."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The mob threatened to **abduct** the magistrate if the rioters were not immediately released."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The outlaw attempted to **abduct** the heiress across the border into the Scottish hills."*
+

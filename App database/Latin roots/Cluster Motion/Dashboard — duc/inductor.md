@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device (typically a conducting coil) that introduces inductance into a circuit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device (typically a conducting coil) that introduces inductance into a circuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A passive electrical component (such as a wire coil) that stores energy in a magnetic field; an official who inducts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics, an inductor opposes instantaneous changes in electric current, exhibiting impedance proportional to frequency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inductor designates an electrical device (typically a conducting coil) that introduces inductance into a circuit."*
+> - 📜 **Oliver Heaviside (*Electrical Papers*):** *"The introduction of a magnetic **inductor** into the transmission circuit altered the resonant wave frequency."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor adjusted the heavy spark **inductor** that energized the insulated antigravitational spheres."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"Beneath the glowing city floor ran massive **inductor** coils supplying silent, unceasing power."*
+

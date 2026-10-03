@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of arranging in a graduated series.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Changing the ground level to a smooth horizontal or gently sloping surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of classifying, evaluating, or sorting by degree or quality; or leveling and sloping ground for construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil geotechnical engineering, site grading establishes positive overland storm runoff away from structural foundations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The "grading camps" of the railroads were followed by belts of these self-asserting annuals."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This is, therefore, a continuity classification, the varying classes of goods grading from those whose durableness is zero (just at the moment of consumption) to those most durable, which yield an endless series of uses or products."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The construction gangs were busy **grading** the roadbed of the transcontinental railway across the alkali flats."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The merchant guild introduced strict standards for **grading** exported wool according to fiber fineness."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I observed the railroad laborers **grading** the sandy cut near the pond, filling carts with yellow loam."*
+

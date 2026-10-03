@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to a recession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to a recession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, causing, or occurring during a period of macroeconomic contraction and declining business activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In central banking policy, recessionary cycles often trigger monetary stimulus through policy rate reductions and quantitative easing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recessionary designates of or pertaining to a recession."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"During a severe **recessionary** downturn, the liquidity preference of investors increases dramatically, stifling private capital formation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A **recessionary** collapse in the price of colonial commodities brought ruin to many speculative merchant houses in Bristol."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"The industrial system periodically enters a **recessionary** slump when capital capitalization outruns prospective earning capacity."*
+

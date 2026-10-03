@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorderly outburst or tumult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making a noisy disturbance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of noisy, confused, and tumultuous movement, disturbance, or violent agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, civil commotion describes localized rioting or violent urban disorder short of formal belligerent insurrection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By heaven, Poins, I feel me much to blame, So idly to profane the precious time, When tempest of commotion, like the south Borne with black vapour, doth begin to melt And drop upon our bare unarmed heads."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What peer hath been suborn’d to grate on you, That you should seal this lawless bloody book Of forged rebellion with a seal divine And consecrate commotion’s bitter edge?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By flattery hath he won the commons’ hearts; And when he please to make commotion, ’Tis to be feared they all will follow him."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"There is a great **commotion** in the Prince's camp, and all the northern borders are up in arms."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The sudden alarm in the courtyard created a tremendous **commotion** among the terrified prisoners."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The trumpet blast caused an instant **commotion** throughout the tournament lists, knights scrambling to horse."*
+

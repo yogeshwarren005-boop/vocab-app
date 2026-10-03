@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without motivation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without motivation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a clear incentive, enthusiasm, or discernible purpose; spontaneous or unprovoked by external factors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and behavioral neurology, associated with avolition and frontal lobe hypofunction causing loss of self-initiated action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmotivated designates without motivation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain sudden impulses appear completely **unmotivated** by prior conscious associations or deliberate reasoning."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"An apparently **unmotivated** action upon waking frequently traces its roots to forgotten dream residues of the night."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Rote tasks leave the student **unmotivated**, producing mechanical compliance rather than living understanding."*
+

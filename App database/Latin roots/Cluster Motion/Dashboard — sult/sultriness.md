@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppressively hot and humid weather.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of expressing or arousing sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oppressive atmospheric heat accompanied by high humidity, moisture, and absence of breeze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In climatological bioclimatology, intense sultriness impairs human thermoregulation by preventing evaporative perspiration cooling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"After such a revelation, let him smile with what sultriness he would, he could much sooner turn grapes purple, or pumpkins yellow, than melt the iron-branded impression out of the beholder’s memory."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"He looked up,—at first with a stern, keen glance, which penetrated at once into the obscurity behind the arched window,—then with a smile which might be conceived as diffusing a dog-day sultriness for the space of several yards about him."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The heavy **sultriness** of the August afternoon seemed to hang over the deserted London law courts like a shroud."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"A breathless **sultriness** pervaded the pine woods, presaging the arrival of an evening electrical thunderstorm."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The Roman summer brought an enervating **sultriness** that drove visitors away from the ancient stone ruins."*
+

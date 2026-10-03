@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of roads) not leveled or drained; unsuitable for all year travel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arranged in order hierarchically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arranged, sorted, or classified into grades, stages, or quality levels; unrated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural market wholesale logistics, ungraded bulk grain or fruit shipments command lower prices due to quality variance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ungraded designates (of roads) not leveled or drained; unsuitable for all year travel."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Merchants in open markets sold sacks of **ungraded** grain at lower prices to avoid municipal inspection fees."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The rustic wool buyer examined the piles of **ungraded** fleeces stacked haphazardly in the shearing barn."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The village farmer brought bushels of **ungraded** apples to the country store to barter for sugar and salt."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing new life or offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing new life or offspring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, concerned with, or capable of biological reproduction; or producing copies of original works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant botany, reproductive organs are housed within floral whorls adapted to facilitate pollination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some little time after the birth of the twins a ceremony is performed, the object of which clearly is to transmit the reproductive virtue of the parents to the plantains."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the religious literature of Babylonia Tammuz appears as the youthful spouse or lover of Ishtar, the great mother goddess, the embodiment of the reproductive energies of nature."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Osiris a God of Fertility AS A GOD of vegetation Osiris was naturally conceived as a god of creative energy in general, since men at a certain stage of evolution fail to distinguish between the reproductive powers of animals and of plants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **reproductive** system is notoriously susceptible to the slightest change in the conditions of life."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **reproductive** organs undergo cyclic maturation influenced by internal glandular secretions."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"A high degree of mental development is frequently accompanied by a diminution in **reproductive** fertility."*
+

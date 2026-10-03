@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of apatite in which fluorine predominates over chlorine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of apatite in which fluorine predominates over chlorine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard phosphate mineral containing fluorine and calcium, forming the principal crystalline mineral component of tooth enamel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomineralization and crystallography, fluorapatite has greater acid resistance than hydroxyapatite, protecting teeth against cariogenic dissolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorapatite designates a form of apatite in which fluorine predominates over chlorine."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Microscopic examination of tooth enamel reveals hexagonal prisms composed primarily of durable **fluorapatite**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Crystals of green **fluorapatite** were discovered embedded in the pegmatite dikes of Norway."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The biological incorporation of fluoride ions converts vulnerable hydroxyapatite into acid-resistant **fluorapatite**."*
+

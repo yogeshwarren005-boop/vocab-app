@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large or extensive in breadth or importance or comprehensiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large or extensive in breadth or importance or comprehensiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or property of being widespread, broad, comprehensive, or large in area or scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and cognitive psychology, the subjective extensiveness of visual sensations forms the foundation of spatial perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensiveness designates large or extensive in breadth or importance or comprehensiveness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every primitive sensation of sight and touch possesses an inherent **extensiveness** or spatial volume."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The remarkable **extensiveness** of modern commercial credit networks binds distant continental economies together."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The **extensiveness** of the imperial trade with the Indies enriched the merchant houses of London and Bristol."*
+

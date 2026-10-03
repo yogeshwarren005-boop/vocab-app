@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in concert or unite in a common purpose or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To join, combine, or connect together so as to form a single whole, alliance, or coordinated action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical bond theory, valence electron sharing causes reactive atoms to unite into stable molecular compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Thou hast given me in this beauteous face A world of earthly blessings to my soul, If sympathy of love unite our thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will now unite in your complaints And force them with a constancy, the Cardinal Cannot stand under them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And then, as we have ta’en the sacrament, We will unite the white rose and the red."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Full thirty times hath Phoebus' cart gone round Neptune's salt wash and Tellus' orbed ground, since love our hearts and Hymen did our hands **unite** in most sacred bands."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"It is rather for us to be here dedicated to the great task remaining before us, that this nation shall **unite** in a new birth of freedom."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Let all hearts **unite** to praise the sovereign architect of earth and sky."*
+

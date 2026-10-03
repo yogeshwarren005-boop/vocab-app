@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Too much production or more than expected.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too much production or more than expected.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of more of a commodity or good than can be sold or consumed; excessive output leading to surplus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Marxist macroeconomic crisis theory, capitalist competition leads inevitably to overproduction and falling profit margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overproduction designates too much production or more than expected."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A temporary **overproduction** of manufactured cottons depressed wholesale market prices throughout the Midlands."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The enormous **overproduction** of offspring in every species creates a perpetual struggle for existence."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A general **overproduction** of all commodities simultaneously is a commercial impossibility, though partial gluts occur."*
+

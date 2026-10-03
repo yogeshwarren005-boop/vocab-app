@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being four more than seventy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being four more than seventy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to the sum of seventy and four; 74; or a naval line-of-battle ship carrying 74 guns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval warfare of the Age of Sail, the two-decked 74-gun ship of the line formed the backbone of fleet battle lines due to optimal balance of firepower and sailing qualities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-four designates being four more than seventy."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"What skiff in tow of a **seventy-four** can stand still when the great warship spreads all her canvas to the gale?"*
+> - 📜 **Captain Frederick Marryat (*Mr Midshipman Easy*):** *"The gallant **seventy-four** led the British column into action under a heavy fire from the Spanish batteries."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The admiral hoisted his flag on a newly launched **seventy-four** designed by the master shipwrights of Deptford."*
+

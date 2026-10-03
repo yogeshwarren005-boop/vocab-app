@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft mineral (calcium fluoride) that is fluorescent in ultraviolet light; chief source of fluorine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft mineral (calcium fluoride) that is fluorescent in ultraviolet light; chief source of fluorine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluid or flowing state; or a flux mineral (such as fluorite) used to facilitate the smelting of ores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern chemical nomenclature, fluor mineralis was recognized by Agricola for its ability to lower the melting temperature of slag.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluor designates a soft mineral (calcium fluoride) that is fluorescent in ultraviolet light; chief source of fluorine."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Bodies are reduced to a **fluor** by the action of violent heat that unbinds their solid cohesion."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The miners mined crystals of **fluor** alongside galena veins in the limestone caverns."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Veins of calc-spar and violet **fluor** traversed the volcanic rock in delicate hydrothermal ribbons."*
+

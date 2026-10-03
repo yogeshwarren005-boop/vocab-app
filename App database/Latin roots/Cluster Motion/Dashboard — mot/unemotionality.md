@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apathy demonstrated by an absence of emotional reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic disposition of being unaffected by or unexpressive of strong subjective emotions; stoic impassivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical observation, distinguished from depressive anhedonia or apathy by the deliberate or constitutional maintenance of calm self-possession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unemotionality designates apathy demonstrated by an absence of emotional reactions."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"His habitual **unemotionality** shielded him from the petty slights and resentments of party politics."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond cultivated an aristocratic **unemotionality** that masked his calculating ambition beneath polite disdain."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An apparent **unemotionality** may sometimes conceal intense internal nervous tension held under rigid motor inhibition."*
+

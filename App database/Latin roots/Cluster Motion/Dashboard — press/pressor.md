@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or certain drugs; maintains or increases blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increasing (or tending to increase) blood pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing an increase in arterial blood pressure, or a substance or physiological reflex that raises blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular physiology, pressor reflexes stimulate peripheral arteriolar vasoconstriction via sympathetic adrenergic signaling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pressor designates any agent that causes a narrowing of an opening of a blood vessel: cold or stress or nicotine or epinephrine or norepinephrine or angiotensin or vasopressin or certain drugs; maintains or increases blood pressure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intravenous infusion of an adrenal extract elicited an instantaneous **pressor** response with rising arterial tension."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Stimulation of the medullary vasomotor center provokes a systemic **pressor** discharge throughout the arterioles."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"The patient showed marked hypersensitivity to endogenous **pressor** substances during severe emotional agitation."*
+

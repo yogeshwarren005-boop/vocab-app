@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unconventional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unconventional manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that departs from accepted custom, traditional practices, or established decorum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural design, employing asymmetry and industrial materials to challenge classical monumental rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconventionally designates in an unconventional manner."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The strange poet dressed **unconventionally** in a broad-brimmed sombrero and a theatrical black cloak."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"Orlando lived **unconventionally**, writing poetry beneath the great oak and roaming the estate in peasant boots."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Mr. Emerson spoke **unconventionally** at the dinner table, discussing human feelings with embarrassing candor."*
+

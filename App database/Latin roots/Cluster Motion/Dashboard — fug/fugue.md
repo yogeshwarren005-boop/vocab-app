@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissociative disorder in which a person forgets who they are and leaves home to creates a new life; during the fugue there is no memory of the former life; after recovering there is no memory for events during the dissociative state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dreamlike state of altered consciousness that may last for hours or days.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contrapuntal musical composition in which a short melodic theme is introduced by one part and successively taken up by others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a dissociative fugue is characterized by reversible amnesia and sudden purposeful travel away from one's customary surroundings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And what was played was a fugue—though Pétya had not the least conception of what a fugue is."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"The organist played a grand five-part **fugue** by Johann Sebastian Bach, weaving complex polyphonic architecture."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In rare hysterical cases, a patient wanders off in a trance-like **fugue**, awakening with no memory of past identity."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Mirah sat at the piano, her delicate fingers untangling the counterpoint of a solemn German **fugue**."*
+

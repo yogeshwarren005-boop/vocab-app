@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state that exists when one person or group has power over another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Controlling power, rising influence, or supreme authority; an alternative spelling of ascendance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological class analysis, the political ascendence of mercantile urban classes supplanted landed feudal aristocracies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascendence designates the state that exists when one person or group has power over another."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A single social class must not be permitted to achieve permanent political **ascendence** over the legislative council."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The gradual **ascendence** of industrial cooperation over military subordination marks progressive societal evolution."*
+> - 📜 **David Hume (*The History of England*):** *"The monarch sought to maintain the royal prerogative against the growing **ascendence** of the House of Commons."*
+

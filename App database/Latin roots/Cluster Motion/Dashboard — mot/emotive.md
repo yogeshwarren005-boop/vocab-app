@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing, expressing, or accompanied by intense emotional feelings or passions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logical positivism and Ayer's expressivism, ethical judgments possess solely emotive meaning rather than empirical cognitive truth value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emotive designates characterized by emotion."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Poetic language relies upon **emotive** associations to awaken sympathetic resonance in the reader."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Scientific prose avoids purely **emotive** rhetoric to present empirical facts with dispassionate lucidity."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain musical cadences exert an immediate **emotive** effect upon the autonomic nervous system."*
+

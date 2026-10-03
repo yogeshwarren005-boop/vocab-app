@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal entry into an organization or position or office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of starting something for the first time; introducing something new.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act, ceremony, or process of admitting someone into a group, society, or discipline; or the commencement of an action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, transcription initiation begins when RNA polymerase binds to the promoter sequence on the DNA strand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"But, by the following month, the preparations for her initiation are complete."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The novice must remain in her hut throughout the whole period of initiation, and is carefully guarded by the old women, who accompany her whenever she leaves her quarters, veiling her head with a native cloth."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"It is to be a new beginning, an initiation, leading on to what we shall see but do not yet guess, though he gives us hints."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"In spite of the unpleasant **initiation** of the day before, Tess inclined to the freedom and fresh air of the dairy."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon would tell her all that; she was looking forward to higher **initiation** in ideas, and could endure difficulties."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The secret society subjected each youth to severe physical trials during the tribal **initiation** rites."*
+

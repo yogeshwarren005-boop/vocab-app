@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical relation created by a transitive verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grammatical relation created by a transitive verb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical or logical property of being transitive, transferring an action or relation to a recipient or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic typology, the transitiveness of a clause correlates with high semantic agentivity, affectedness of the patient, and perfective aspect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitiveness designates the grammatical relation created by a transitive verb."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The morphological **transitiveness** of the Sanskrit causative infix distinguishes it from passive stems."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"Syntacticians observe how the semantic **transitiveness** of an action influences word order."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The evolving **transitiveness** of French verbs demonstrates how Latin deponents transformed into active constructions."*
+

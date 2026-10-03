@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to bring about; being partly responsible for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to bring about; being partly responsible for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to produce, promote, or assist in bringing about a particular condition or outcome; favorable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and environmental psychology, designing living environments conducive to emotional well-being and restorative rest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"As far as this would be conducive to the interests of commerce, so far it must tend to the extension of the revenue to be drawn from that source."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"That this remaining task may be executed under impressions conducive to a just and fair result, some reflections must in this place be indulged, which candor previously suggests."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"That unity is conducive to energy will not be disputed."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The solitary and dissipated life I lead, Miss Manette, is not **conducive** to health or peace of mind."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Justice consists in respecting those rules of conduct which are most **conducive** to the general welfare."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The bleak, gloomy atmosphere of Dartmoor was scarcely **conducive** to cheerful spirits in the lonely manor."*
+

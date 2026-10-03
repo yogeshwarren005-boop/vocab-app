@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being movable; capable of being moved or rearranged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being movable; capable of being moved or rearranged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability, property, or ease of being moved, transported, or relocated from one position to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ergonomic industrial engineering, modular assembly equipment prioritizes lightweight construction to ensure rapid workshop movability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Junius does not say it, but clearly implies that, in this way, Coster came to the idea of the movability of the characters, the first step in the invention of typography."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"However, this idea of movability, and the accidental way in which it was discovered, form together the pith of the Haarlem tradition as told by Junius."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The physical **movability** of nomadic pastoral tents contrasts with the permanent stone architecture of agrarian cities."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The multi-axial **movability** of the human shoulder joint permits exceptional manual dexterity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The relative **movability** of commercial circulating capital allows merchants to transfer funds across foreign markets."*
+

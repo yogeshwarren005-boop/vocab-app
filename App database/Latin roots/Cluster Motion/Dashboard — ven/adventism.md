@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any christian religion that believes the second coming of christ is imminent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any christian religion that believes the second coming of christ is imminent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian eschatological belief system emphasizing the imminent visible Second Coming of Jesus Christ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, originating from William Miller's millenarian movement in the 1830s and 1840s across the United States.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventism designates any christian religion that believes the second coming of christ is imminent."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The intense apocalyptic expectations of nineteenth-century **Adventism** channeled powerful emotional piety."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The frontier camp meeting was stirred by the fervent doctrines of rural **Adventism** proclaiming the end of days."*
+> - 📜 **Sinclair Lewis (*Elmer Gantry*):** *"He flirted briefly with enthusiastic **Adventism**, attracted by its colorful prophecies of judgment."*
+

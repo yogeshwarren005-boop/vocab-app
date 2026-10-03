@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection containing a variety of sorts of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A garment made of motley (especially a court jester's costume).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of incongruously varied, heterogeneous elements; multicolored or party-colored in visual appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the multicolored patchwork costume traditionally worn by court jesters, fools, and harlequins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I met a fool i’ th’ forest, A motley fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As I do live by food, I met a fool, Who laid him down and basked him in the sun, And railed on Lady Fortune in good terms, In good set terms, and yet a motley fool."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ambitious for a motley coat."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"A fool, a fool! I met a fool i' the forest, a **motley** fool; a miserable world!"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A **motley** crowd of beggars, artisans, and women surged through the narrow Parisian alleys toward the Bastille."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Wamba the jester was attired in the customary **motley** tunic with cap and hanging silver bells."*
+

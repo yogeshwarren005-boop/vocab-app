@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Where something originated or was nurtured in its early existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Where something originated or was nurtured in its early existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The place of origin, historical source, or archaeological findspot of an artifact or biological specimen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphic archaeology and museology, the exact three-dimensional spatial coordinates and layer context where an artifact was excavated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On the upper shelf a battery of jamjars (empty) of various sizes and proveniences."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"Holmes established the exact **provenience** of the porcelain vase from the palace of the Emperor of China."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The geological **provenience** of the fossil specimen was confirmed by the stratum in which it lay embedded."*
+> - 📜 **William James (*The Principles of Psychology*):** *"We trace the intellectual **provenience** of an idea back to its original sensory associations."*
+

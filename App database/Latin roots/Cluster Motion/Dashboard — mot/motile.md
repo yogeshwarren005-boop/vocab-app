@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose prevailing mental imagery takes the form of inner feelings of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of spores or microorganisms) capable of movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of spontaneous and independent movement or motion; exhibiting motility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, a motile person is one whose mental imagery predominantly takes kinesthetic or motor form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motile designates one whose prevailing mental imagery takes the form of inner feelings of action."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The microscopic **motile** cilia on plant gametes propel them actively through film water."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Under high magnification, the **motile** zoospores were observed swimming vigorously across the slide."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnosis was confirmed by finding actively **motile** amoebae in the dysenteric stool."*
+

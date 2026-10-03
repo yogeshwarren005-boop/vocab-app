@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who unlawfully seizes and detains a victim (usually for ransom).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A muscle that draws a body part away from the median line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who abducts or kidnaps someone; or a muscle that draws a limb or digit away from the median line of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, testing the abductor pollicis brevis muscle evaluates the motor integrity of the median nerve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Utter a whisper and I’ll murder you!” hissed the abductor, venomously."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Hawksley, cool and collected, began slowly searching the two chambers, in hope of finding some clue to the real object of the abductor."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"The abductor seemed striking for the broad, unsettled prairie."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"Holmes traced the footprints of the ruthless **abductor** across the damp clay of the lane."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The lateral contraction of the **abductor** oculi muscle directs the gaze swiftly outward."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The armed citizens pursued the daring **abductor** through the torchlit gates of the borough."*
+

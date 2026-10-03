@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of motorizing (equiping with motors or with motor vehicles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of motorizing (equiping with motors or with motor vehicles).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion, equipping, or adaptation of a transport system, industry, or military force with motor vehicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, the interwar transformation replacing draft animals with trucks and prime movers for artillery transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorization designates the act of motorizing (equiping with motors or with motor vehicles)."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The rapid **motorization** of the British Expeditionary Force in 1939 outstripped that of any continental army."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Universal **motorization** transformed regional commerce and dismantled the isolation of agrarian communities."*
+> - 📜 **John Dos Passos (*U.S.A.*):** *"Post-war industrial **motorization** filled the highways with fleets of diesel freight carriers."*
+

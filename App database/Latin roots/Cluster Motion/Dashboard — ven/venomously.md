@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very malevolent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a very malevolent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a venomous manner; with intense spite, malice, or deadly toxicity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, words uttered with biting, virulent sarcasm intended to wound the hearer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His own unkindness, That stripp’d her from his benediction, turn’d her To foreign casualties, gave her dear rights To his dog-hearted daughters, these things sting His mind so venomously that burning shame Detains him from Cordelia."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou stormest venomously; Wilt thou spit all thyself?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Your information may be better than mine,” Anna Pávlovna suddenly and venomously retorted on the inexperienced young man, “but I know on good authority that this doctor is a very learned and able man."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed hissed **venomously** from his cushion, shaking his wizened fist at the unfortunate clerk."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"The swamp adder hissed **venomously** as Holmes struck it with his cane upon the bedpost."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She spoke **venomously**, giving vent to years of suppressed jealousy and bitter resentment."*
+

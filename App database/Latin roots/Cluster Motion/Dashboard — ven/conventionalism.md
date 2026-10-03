@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Orthodoxy as a consequence of being conventional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orthodoxy as a consequence of being conventional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adherence to or advocacy of conventional rules, formal social usages, or traditional artistic forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and philosophy of science (associated with Henri Poincaré), the view that scientific laws and geometric axioms are convenient human conventions rather than empirical facts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Such crystallization, such conventionalisms, yield only to the dissolving power of the spiritual warmth of life-full personalities."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Yet, free as she was by nature, bound by no conventionalisms, she was the most courageous of women; more than queenly; of high aspect in the best sense."*
+> - 📜 **Bertrand Russell (*Our Knowledge of the External World*):** *"The geometric **conventionalism** advocated by Poincaré treats physical axioms as disguised operational definitions."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"A society suffocated by unthinking **conventionalism** extinguishes the individual genius that drives human progress."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate despised provincial **conventionalism**, little anticipating how tenaciously it would encircle his career."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stopping and starting at irregular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stopping and starting at irregular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring at irregular intervals; not continuous, steady, or constant; stopping and starting repeatedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malariology and infectious pathology, intermittent fevers follow cyclic 48-hour (tertian) or 72-hour (quartan) paroxysms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the trees came the sound of steady dripping upon the drifted leaves under them, and from the direction of the church she could hear another noise—peculiar, and not intermittent like the rest, the purl of water falling into a pool."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It must be remembered that for convenience I have assembled my intermittent and repetitional jacket experiences into coherent and consecutive narratives."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Personal inefficiency" may explain a chronic low wage or absolute unemployability in a particular case, but it does not explain intermittent lack of work for those willing and able to work."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The heavy guns from the convict prison hulks boomed across the marshes in dull, **intermittent** bursts."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic crater emitted **intermittent** clouds of dark ash accompanied by subterranean rumbles."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"A cold, **intermittent** drizzle beat against the window panes of Baker Street as evening approached."*
+

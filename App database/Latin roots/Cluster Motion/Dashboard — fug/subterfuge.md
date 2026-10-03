@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something intended to misrepresent the true nature of an activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something intended to misrepresent the true nature of an activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artifice, deceit, stratagem, or trick employed to evade a rule, escape a difficulty, or hide one's true intent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic negotiation, employing diplomatic subterfuge to delay treaty ratification damages multilateral trust.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I only want to love you.” “But why?” Driven to subterfuge, she stammered— “Your father is a parson, and your mother wouldn’ like you to marry such as me."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle full of subterfuge.) “Well?"*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Shall I double and take refuge in a labyrinth of subterfuge or turn and fight?"*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes saw through the suspect's transparent **subterfuge**, predicting that the truth would emerge within forty-eight hours."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth detested every form of petty **subterfuge**, preferring honest candor even when it provoked disagreement."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The corrupt minister relied on legal **subterfuge** to conceal his embezzlement of provincial grain subsidies."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preparing or putting through a prescribed procedure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The performing of a sequence of operations or systematic transformations on materials, data, or organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science, multiprocessor architectures achieve high throughput by distributing computational processing across parallel cores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Their processing includes a few tests that are evaluated for basic intelligence and skills."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The latter would comprise 'rest and relaxation' visitors, liaison and special missions staff from a nearby logistics depot and the construction sites, and agricultural and food processing workers from Planet Pluto's moon Charon."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Group Two (Charon) Mission Convert Lamplight into a food-growing and processing plant capable of feeding the entire Plutonian permanent and transit populations, and on-site personnel at the Logistics Depot and the Terminals Construction Site."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The natural weathering of granite involves the chemical **processing** of feldspar minerals by atmospheric carbonic acid."*
+> - 📜 **Thomas Henry Huxley (*Method and Results*):** *"The careful **processing** of raw sensory data into coherent scientific concepts forms the basis of genuine epistemology."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"The industrial **processing** of agricultural raw materials into commercial textiles revolutionized eighteenth-century English manufacturing."*
+

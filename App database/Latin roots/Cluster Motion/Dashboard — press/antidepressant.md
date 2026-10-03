@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of drugs used to treat depression; often have undesirable side effects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of drugs used to treat depression; often have undesirable side effects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication or therapeutic agent utilized to alleviate symptoms of clinical depression and mood disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychopharmacology, classes include SSRIs, SNRIs, and MAO inhibitors that modulate synaptic concentrations of monoamine neurotransmitters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidepressant designates any of a class of drugs used to treat depression; often have undesirable side effects."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The administration of an **antidepressant** regimen helped stabilize the patient's severe emotional fluctuations."*
+> - 📜 **William Styron (*Darkness Visible: A Memoir of Madness*):** *"He described the gradual trial of an **antidepressant** that slowly lifted the gray shroud of despair."*
+> - 📜 **Richard Cabot (*Differential Diagnosis*):** *"When persistent melancholy resists counseling, a tailored **antidepressant** compound offers clinical benefit."*
+

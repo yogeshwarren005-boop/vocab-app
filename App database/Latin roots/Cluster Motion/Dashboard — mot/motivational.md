@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to motivation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to motivation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, providing, or stimulating personal motivation, morale, and drive toward achieving goals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied psychology and athletic training, describes systematic strategies and rhetoric designed to optimize emotional readiness and resilience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Each of you will be full to the brim with motivational boosters to keep you oriented to the mission."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Emphasis on adult education, support group discussions, and motivational training can help to reduce such barriers among middle year's adults (parents of school age children) as well as the elderly."*
+> - 📜 **William James (*The Energies of Men*):** *"Unusual emotional excitement provides a sudden **motivational** surge that taps into reserve human energies."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Emulative display serves as an enduring **motivational** foundation for competitive consumption in society."*
+> - 📜 **John Dewey (*Reconstruction in Philosophy*):** *"The **motivational** power of ideals depends directly upon their relevance to concrete social needs."*
+

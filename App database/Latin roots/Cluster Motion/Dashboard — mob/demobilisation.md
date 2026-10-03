@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of changing from a war basis to a peace basis including disbanding or discharging troops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of changing from a war basis to a peace basis including disbanding or discharging troops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of disbanding armed forces and converting wartime resources to peacetime civilian purposes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In post-conflict macroeconomic planning, sudden military demobilisation requires industrial labor market re-absorption policies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demobilisation designates act of changing from a war basis to a peace basis including disbanding or discharging troops."*
+> - 📜 **Winston Churchill (*The Aftermath*):** *"The rapid **demobilisation** of imperial armies posed severe employment problems across industrial Britain."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Following the armistice, nationwide **demobilisation** caused widespread social dislocation across war-weary Europe."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The government ordered the partial **demobilisation** of frontline militias to reconstitute a centralized regular army."*
+

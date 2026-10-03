@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unimpressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unimpressive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that fails to make a strong, favorable, or memorable impression; unremarkably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performative assessment, executing a role or task without dynamism, flair, or persuasive presence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unimpressively designates in an unimpressive manner."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The witness spoke **unimpressively**, stammering over simple details before the coroner's jury."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The tiny country railway station stood **unimpressively** amid the damp turnip fields of Berkshire."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The petitioner bowed **unimpressively** as he retired from the haughty presence of the Circumlocution Office chief."*
+

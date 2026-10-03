@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Going from better to worse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going from better to worse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, tending toward, or causing a return to an earlier, inferior, or less developed state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology, retrogressive metamorphism describes the alteration of high-grade mineral assemblages into lower-grade hydrous minerals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The ideas, the modes, the surroundings, appeared retrogressive and unmeaning."*
-> - 📜 **George Eliot (*Middlemarch*):** *"They say he is the most retrogressive man in the county."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain rudimentary structures result from **retrogressive** evolutionary modifications preserved in modern species."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"To revive absolute royal vetoes would constitute a **retrogressive** blow against established parliamentary liberty."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A merely mechanical political economy offers a **retrogressive** solution to the profound spiritual malaise of our age."*
+

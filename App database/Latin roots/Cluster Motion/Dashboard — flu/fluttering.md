@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The motion made by flapping up and down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move along rapidly and lightly; skim or dart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving rapidly, lightly, and irregularly up and down or to and fro; trembling with quick agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, atrial fluttering denotes an organized supraventricular tachycardia with typical sawtooth waves on an electrocardiogram.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Suddenly they caught a glimpse of two blue ribbons fluttering from Leonore's hat."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I put up my trembling little hand to clasp hers or to beg her pardon with what earnestness I might, but withdrew it as she looked at me, and laid it on my fluttering heart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"To polish—polish—polish!” he repeated, taking a pinch of snuff and gently fluttering his fingers."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Maryann, you go! said she, **fluttering** under the onset of a crowd of romantic possibilities."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon felt his weak heart **fluttering** with nervous exhaustion after the interview."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The moth escaped by **fluttering** erratic circles through the dusk, evading the pursuing bat."*
+

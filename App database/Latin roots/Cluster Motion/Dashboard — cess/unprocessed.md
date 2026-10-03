@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not refined or processed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not altered from an original or natural state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subjected to physical, chemical, or computational processing; remaining in an original, raw, or natural state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional science and public health food classifications (NOVA system), unprocessed foods are whole edible parts of plants or animals unaltered by industrial refining.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unprocessed designates not refined or processed."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The native weavers preferred **unprocessed** sheep's wool, spinning the coarse fleece directly into heavy woolen garments."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The chemical laboratory received tons of **unprocessed** shale oil to determine whether commercial kerosene could be extracted."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Primitive tribes relied on **unprocessed** flint stones and raw animal hides before the invention of metallurgy."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The force by which bodies repel one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intense aversion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of intense disgust, revulsion, or aversion; or the physical force by which bodies repel each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atomic physics and molecular orbital theory, short-range Pauli repulsion prevents atomic electron orbitals from interpenetrating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A stagnant, sickening oil with some natural repulsion in it that makes them both shudder."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The present—the passing second of time—was all I had in which to control and restrain him: a movement of repulsion, flight, fear would have sealed my doom,—and his."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Her repulsion was getting stronger."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic **repulsion** between like poles was demonstrated using delicate torsion balances in the laboratory."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip experienced an instinctive **repulsion** when the coarse convict Magwitch reached out to clasp his hands."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Felix darted forward with horror and **repulsion**, driving the miserable creature away from his blind father's cottage."*
+

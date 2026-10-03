@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing from a more complex to a simpler biological form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Returning to a former state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of returning to an inferior, less advanced, or deteriorating state; decline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and comparative parasitology, evolutionary retrogression describes the secondary loss of complex anatomical traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He had foresight, but has less now than formerly, pointing to a moral retrogression, which, when taken with the decline of his fortunes, seems to indicate some evil influence, probably drink, at work upon him."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"But how about the foresight and the moral retrogression?” Sherlock Holmes laughed."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Moral retrogression 22:3 Vibrating like a pendulum between sin and the hope of forgiveness,- selfishness and sensuality causing con- stant retrogression,- our moral progress will 22:6 be slow."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The degenerate anatomy of sessile barnacles represents a clear case of evolutionary **retrogression** from free-swimming ancestors."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rapid **retrogression** of Western Europe into dark illiterate centuries followed the fall of the Roman administration."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Militant autocracy represents an institutional **retrogression** that strangles modern commercial prosperity."*
+

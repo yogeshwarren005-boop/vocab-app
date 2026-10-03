@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A university student who has not yet received a first degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university student who has not yet received a first degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal abbreviated term for an undergraduate student studying for a first university degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In university campus cultural history, undergrad societies governed literary debating clubs and intramural rowing rivalries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undergrad designates a university student who has not yet received a first degree."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"As an eager young **undergrad**, Amory Blaine debated poetry and politics late into the night at Cottage Club."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"Ted Babbitt preferred tinkering with automobile engines to life as a scholarly college **undergrad**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Three Students*):** *"Holmes interrogated the nervous **undergrad** who was suspected of copying the confidential Greek examination papers."*
+

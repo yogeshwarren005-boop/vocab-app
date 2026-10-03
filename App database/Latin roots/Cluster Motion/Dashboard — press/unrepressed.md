@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not repressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not repressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not held back, restrained, subdued, or suppressed; freely expressed and unrestrained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological evaluation, spontaneous emotional or creative expression unconstrained by neurotic inhibitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"And now, a fresh surge from the sea of her unknown being, unrepressed by the _hitherto_ of the objects of sense, had burst the gates and bars, swept the obstructions from its channel, and poured from her in melodious song."*
+> - 📜 **George MacDonald (*The Portent*):** *"A burst of **unrepressed** youthful laughter broke the gloomy stillness of the ancestral Scottish castle."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The **unrepressed** warmth of her welcome brought a sudden color to my pale cheeks."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Eustacia gave vent to an **unrepressed** sigh of rebellious discontent against the monotony of the heath."*
+

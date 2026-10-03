@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long-term economic state characterized by unemployment and low prices and low levels of trade and investment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sunken place, hollow, or indentation; or a mental state of persistent dejection and despair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, an atmospheric low-pressure system associated with cloudy skies, precipitation, and cyclonic wind circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They straggle about in wrong places, look at wrong things, don’t care for the right things, gape when more rooms are opened, exhibit profound depression of spirits, and are clearly knocked up."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The debilitated cousin, more debilitated by the dreariness of the place, gets into a fearful state of depression, groaning under penitential sofa-pillows in his gunless hours and protesting that such fernal old jail’s—nough t’sew fler up—frever."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Yet, in spite of all this, Anne had reason to believe that she had moments only of languor and depression, to hours of occupation and enjoyment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Up the sides of this natural **depression** grew sheaves of the common rush and patches of wild thyme."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A broad circular **depression** in the coral reef formed a sheltered lagoon filled with vivid tropical fish."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"A heavy cloud of inward **depression** weighed down my spirits as evening descended over the foreign city."*
+

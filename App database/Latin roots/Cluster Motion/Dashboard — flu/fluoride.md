@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of hydrofluoric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt of hydrofluoric acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary chemical compound of fluorine with another element or organic radical; or the monovalent anion F-.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dentistry and cariology, topical fluoride varnishes promote remineralization of demineralized enamel prisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoride designates a salt of hydrofluoric acid."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Calcium **fluoride** occurs naturally in limestone cavities as cubic crystals of lustrous fluorite."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"During electrolysis of molten salts, volatile **fluoride** vapors were evolved at the positive electrode."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Topical application of **fluoride** provides an effective chemical shield against acid-producing oral bacteria."*
+

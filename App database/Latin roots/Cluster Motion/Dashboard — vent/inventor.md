@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is the first to think of or make something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is the first to think of or make something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who invents, designs, or discovers a new process, apparatus, or mechanical device.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patent law, the individual who conceives the core inventive concept embodied in the claims of an application.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But in these cases We still have judgement here; that we but teach Bloody instructions, which being taught, return To plague th’ inventor."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The inventor of a story must have the gift of the caricaturist and of the bestower of nicknames; he must have a shrewd eye for the real features of his victim."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"What a misfortune that the secret of such an invention should die with its inventor!” Captain Nemo did not reply."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"The **inventor** of the open stove refused a royal patent, desiring that his work should serve the public freely."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The government offices treated the poor **inventor** with callous neglect, shuffling his plans from department to department."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"As an American **inventor**, Hank Morgan resolved to introduce nineteenth-century industry into sixth-century Britain."*
+

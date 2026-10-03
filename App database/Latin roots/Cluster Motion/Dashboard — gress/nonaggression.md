@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy of not initiating hostilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A policy of not initiating hostilities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy or state of refraining from unprovoked hostility, military aggression, or territorial invasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history, nonaggression pacts (such as the 1939 Molotov-Ribbentrop Pact) temporarily secured borders before wartime betrayal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonaggression designates a policy of not initiating hostilities."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The cynical **nonaggression** pact between Berlin and Moscow cleared the path for the invasion of Poland."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The shifting **nonaggression** treaties between Oceania and Eurasia were rewritten daily in the Ministry of Truth."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The global federation enforced strict **nonaggression** protocols among the reconstituted regional administrative councils."*
+

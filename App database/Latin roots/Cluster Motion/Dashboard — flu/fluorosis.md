@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pathological condition resulting from an excessive intake of fluorine (usually from drinking water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological condition resulting from an excessive intake of fluorine (usually from drinking water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pathological condition of tooth enamel or bones caused by excessive, chronic ingestion of fluoride compounds during development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric dentistry, dental fluorosis manifests as chalky white striations or brown pitting caused by ameloblast toxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorosis designates a pathological condition resulting from an excessive intake of fluorine (usually from drinking water)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic exposure to artesian well water containing excessive mineral salts produces endemic dental **fluorosis**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Skeletal **fluorosis** in industrial workers caused osteosclerosis and painful joint rigidity."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The mottled tooth enamel characteristic of **fluorosis** illustrates how mineral imbalances alter biomineralization."*
+

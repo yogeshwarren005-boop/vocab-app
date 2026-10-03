@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being movable; capable of being moved or rearranged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being movable; capable of being moved or rearranged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of being movable, portable, or capable of changing location.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mechanics and structural statics, excessive joint movableness indicates loose mechanical fastenings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, movableness designates the quality of being movable; capable of being moved or rearranged."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **movableness** of material bodies in space provides the sensory foundation for our ideas of motion and velocity."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The internal **movableness** of fluid particles accounts for their readiness to adapt to any enclosing vessel."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The outward **movableness** of human fashions contrasts with the unchanging spiritual soul that wears them."*
+

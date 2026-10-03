@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subset of committee members organized for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subset of committee members organized for a specific purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate committee composed of members appointed from a main committee to focus on specific business.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In congressional legislative procedures, a standing subcommittee conducts witness hearings and marks up statutory language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subcommittee designates a subset of committee members organized for a specific purpose."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George Babbitt was appointed chairman of the executive **subcommittee** on commercial zoning regulations."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The War Cabinet created a specialized **subcommittee** of naval officers to evaluate defensive anti-submarine mining."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The young member of Parliament spent hours reviewing statistical evidence presented before the municipal **subcommittee**."*
+

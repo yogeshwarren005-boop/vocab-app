@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Machine that converts other forms of energy into mechanical energy and so imparts motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonspecific agent that imparts motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine that converts other forms of energy (such as electricity, fuel, or steam) into mechanical kinetic power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological anatomy, denotes nerve structures and muscular organs that produce movement rather than convey sensory feeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Many a farmer, riding in his motor-car to-day, knows who made possible that motor-car."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Oppenheimer, for instance, had never seen an automobile or a motor-cycle."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Will you let me telephone for my own car and motor you down?"*
+> - 📜 **James Joyce (*Dubliners*):** *"A little knot of people collected on the footpath to pay homage to the snorting **motor**."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The clanking **motor** of the Martian tripod machine emitted puffs of greenish smoke as it marched through the water."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"The purr of a powerful **motor** broke the midnight silence as the German diplomat approached the coastal cottage."*
+

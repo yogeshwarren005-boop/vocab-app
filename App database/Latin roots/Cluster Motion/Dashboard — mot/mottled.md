@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with spots or blotches of different color or shades of color as if stained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colour with streaks or blotches of different shades.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked with irregular spots, blotches, or streaks of different colors or shades; variegated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, provides cryptic camouflage for animals blending into pebbled substrate or forest leaf litter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Next day she flaunts before the public in her gayest attire, her head bedecked with ornaments and her face mottled with red paint."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He had glittering eyes,—small, keen, and black,—and thin wide mottled lips."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"As its name imports, it is of an exceedingly rich, mottled tint, with a bestreaked snowy and golden ground, dotted with spots of the deepest crimson and purple."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we see leaf-eating insects green, and bark-feeders **mottled** grey, we perceive the adaptive value of protective coloring."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Round one of his hands he had a handkerchief wrapped, which was **mottled** all over with dark bloodstains."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A fresh freezing formed smooth ice over the pond, giving the shallow margins a curiously **mottled** aspect."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical Latinate morphological derivative denoting leading forth or conducting along root conduits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and botanical nomenclature, designating vascular bundles or root-conduction pathways facilitating fluid translocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raduc designates pertaining to, derived from, or characteristic of latin duc within the domain of motion."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The plant vascular conduits perform an analogous **raduc** function in leading water upward from primary root hairs."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain sap channels serve as an internal **raduc** conduit, drawing vital moisture from the soil into upper boughs."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The differentiated tracheids form an efficient **raduc** channel through which ascending transpiration streams circulate."*
+

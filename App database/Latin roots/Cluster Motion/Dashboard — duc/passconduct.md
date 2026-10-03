@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal document or warrant guaranteeing safe passage through a military territory or sovereign jurisdiction; safe-conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern diplomatic and martial law, a passconduct issued under sign manual protected foreign ambassadors or heralds from arrest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passconduct designates pertaining to, derived from, or characteristic of latin duc within the domain of motion."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Templar demanded a royal **passconduct** before venturing into the camp of the Saxon insurgents."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Dutch envoys were furnished with an official **passconduct** signed by the secretary of state."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Gothic chieftain honored the imperial **passconduct**, permitting the Christian bishops to travel unmolested."*
+

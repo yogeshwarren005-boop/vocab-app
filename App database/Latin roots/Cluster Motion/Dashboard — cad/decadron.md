@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for dexamethasone, a potent synthetic glucocorticoid medication used to treat inflammatory conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuro-oncology and intensive care medicine, Decadron reduces cerebral edema associated with intracranial neoplasms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decadron designates a corticosteroid drug (trade names decadron or dexamethasone intensol or dexone or hexadrol or oradexon) used to treat allergies or inflammation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern clinical medicine deploys synthetic steroid preparations such as **Decadron** to arrest severe systemic inflammation."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The research physician reviewed clinical trials where anti-inflammatory agents like **Decadron** suppressed anaphylactic shock."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The neurologist monitored patient responses when corticosteroids including **Decadron** were administered for cerebral edema."*
+

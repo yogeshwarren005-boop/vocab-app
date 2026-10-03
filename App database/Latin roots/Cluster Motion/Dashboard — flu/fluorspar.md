@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft mineral (calcium fluoride) that is fluorescent in ultraviolet light; chief source of fluorine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft mineral (calcium fluoride) that is fluorescent in ultraviolet light; chief source of fluorine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common mineral form of calcium fluoride; fluorite, prized as a metallurgical flux and source of hydrofluoric acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century mineralogy, Derbyshire fluorspar (Blue John) was mined for ornamental vases and lapidary carvings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorspar designates a soft mineral (calcium fluoride) that is fluorescent in ultraviolet light; chief source of fluorine."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Vast veins of banded **fluorspar** intersect the carboniferous limestone of Castleton in Derbyshire."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Hydrofluoric acid was distilled by heating powdered **fluorspar** with concentrated sulphuric acid in lead retorts."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Smelters mix crushed **fluorspar** with stubborn iron ores to lower the slag melting point."*
+

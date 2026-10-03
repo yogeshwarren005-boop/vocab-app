@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing or capable of producing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not producing desired results.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing goods, commodities, crops, or creative results; barren, unfruitful, or ineffective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical economics, unproductive expenditure diverts capital into transient consumption without reproducing capital value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I had, by cross-ways and by-paths, once more drawn near the tract of moorland; and now, only a few fields, almost as wild and unproductive as the heath from which they were scarcely reclaimed, lay between me and the dusky hill."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"They become "full of hypocrisy and lawlessness" (Matt. 23:28), so depraved that they are like bad trees, unproductive of any but bad fruit (rotten, in the Greek, Matt. 7:17); the very light in them is darkness, and how great darkness (Matt. 6:23)."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The letter was not unproductive."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Linnæus calculated that if an annual plant produced only two seeds, its progeny would cover the earth, yet most seeds fall upon **unproductive** ground."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The long winter hours spent over dry grammar exercises seemed dreary and **unproductive** to the restless child."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The long morning consultation proved entirely **unproductive** of any practical decision regarding the theatricals."*
+

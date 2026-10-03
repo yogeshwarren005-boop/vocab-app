@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities offered for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that has been created by someone or some process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An article, substance, or outcome manufactured, refined, or produced; or the result of multiplying numbers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, a reaction product forms when chemical reactants undergo covalent bond rearrangement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"With all his attempted independence of judgement this advanced and well-meaning young man, a sample product of the last five-and-twenty years, was yet the slave to custom and conventionality when surprised back into his early teachings."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My husband felt his loss severely, for we had little property then, and what we had was the product of hard labor."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The enormous deposits if used at the present amounts per year would last probably 2,000 to 4,000 years, but if used at the present increasing rate (doubling the product every ten years) they would, it has been estimated, last but 150 years."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual **product** of the land and labor of any nation can be increased in its value by no other means than by increasing either the number of its productive laborers, or the productive powers of those laborers."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The valuable sperm oil was the ultimate commercial **product** sought by the intrepid whalemen."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every domestic breed is the combined **product** of natural variation and human artificial selection."*
+

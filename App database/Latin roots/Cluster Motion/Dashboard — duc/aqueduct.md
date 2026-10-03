@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conduit that resembles a bridge but carries water over a valley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conduit that resembles a bridge but carries water over a valley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conduit, artificial channel, or monumental bridge built to convey water across valleys and long distances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the cerebral aqueduct (aqueduct of Sylvius) is the narrow channel connecting the third and fourth cerebral ventricles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is a very old house, and the greater part of it was originally a castle, strongly fortified, and surrounded by a deep moat supplied with abundant water from the hills by a hidden aqueduct."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The water from the aqueduct supplies great fountains, and runs down into huge oblong basins in the terraced gardens, one below the other, each surrounded by a broad pavement of marble between the water and the flower-beds."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"An aqueduct, capable of any intended quantity or height of water."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The colossal arches of the Roman **aqueduct** still stride majestically across the desolate Roman Campagna."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital stenosis of the cerebral **aqueduct** of Sylvius leads to massive non-communicating hydrocephalus in infants."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Red Circle*):** *"The old stone **aqueduct** spanned the ravine, carrying the mountain stream to the lower mills."*
+

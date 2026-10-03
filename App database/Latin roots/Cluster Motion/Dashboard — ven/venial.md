@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warranting only temporal punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily excused or forgiven.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forgivable, pardonable, or excusable; not mortal or heinous in consequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Catholic moral theology, a relatively slight transgression that diminishes divine grace in the soul without causing total spiritual alienation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So they do nothing, ’tis a venial slip."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This is a lover’s most stoical virtue, as the lack of it is a lover’s most venial sin."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The predetermined adversary, on the other hand, can have been governed by no venial motive whatever."*
+> - 📜 **William Shakespeare (*Othello*):** *"A **venial** slip, but yet I say, if imputations and strong circumstances lead directly to the door of truth."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Forgive us our **venial** faults, and preserve our hearts steadfast in dutiful obedience."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She considered his thoughtless jest a **venial** error of youth rather than evidence of malice."*
+

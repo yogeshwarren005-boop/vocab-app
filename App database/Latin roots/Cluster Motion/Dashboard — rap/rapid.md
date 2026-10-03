@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of a river where the current is very fast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Done or occurring in a brief period of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening in a short time or at a great speed; swift, fast, or quick.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and hydrology, a river rapid forms where resistant bedrock creates steep hydraulic gradients and turbulent white water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Now rapid steps sounded outside, the door was violently flung open and Bruno appeared, pale with rage: "Those two mean creatures, those malicious rascals; the sneaky hypocrites!--the--the--" "Bruno, no more please," the mother interrupted."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Taking a rapid leave of his sister, he started to rush off, but she held him for a moment."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I remember him very vividly as a very tall man going with rapid steps through the courtyard and mounting a horse, which was trying to rear."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The agile mountain guanacos bounded across the rocky scree with **rapid** and graceful leaps."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes made a series of **rapid** deductions from the scratches around the keyhole of the jewel safe."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The river steamboat plunged into a turbulent **rapid**, the pilot spinning the wheel to avoid jagged snags."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being expressive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being expressive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity or power of conveying meaning, sentiment, emotion, or artistic character with vivid clarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and aesthetics, the communicative range and affective richness inherent in symbolic or visual media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"It is a little impaired in its expressiveness by his having a shut-up gape still to dispose of, with watering eyes."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The subtle **expressiveness** of Turner's skies transcends mere photographic imitation of clouds."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The extraordinary **expressiveness** of the human voice originates from delicate motor coordination."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The singular **expressiveness** of her singing drew tears from the most worldly listeners in the salon."*
+

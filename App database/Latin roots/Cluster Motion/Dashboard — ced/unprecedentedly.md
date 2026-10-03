@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unprecedented manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unprecedented manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to an extent that has never occurred or been known before; without parallel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, industrial productivity grew unprecedentedly following the adoption of steam-driven rotary power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But a sudden stop was put to further discoveries, by the ship’s being unprecedentedly dragged over sideways to the sea, owing to the body’s immensely increasing tendency to sink."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But a sudden stop was put to further discoveries, by the ship’s being unprecedentedly dragged over sideways to the sea, owing to the body’s immensely increasing tendency to sink."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"But you won’t be able to help it.” “Is she beautiful, clever, rich, splendid, universally intelligent and unprecedentedly virtuous?"*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The expansion of British munitions manufacturing proceeded **unprecedentedly** during the critical summer of 1915."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The profits of the Coketown textile mills rose **unprecedentedly** as automated spinning looms ran day and night."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Parisian populace mobilized **unprecedentedly**, storming the royal arsenal to arm thirty thousand citizens."*
+

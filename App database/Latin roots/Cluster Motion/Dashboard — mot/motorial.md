@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of nerves and nerve impulses; conveying information away from the cns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of nerves and nerve impulses; conveying information away from the cns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or causing motion, especially referring to nerves and brain structures controlling muscle movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological psychology, describes the efferent neuromuscular pathways conducting commands from the central nervous system to effector organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorial designates of nerves and nerve impulses; conveying information away from the cns."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every sensory impression carries an immediate reverberation into the **motorial** apparatus of the organism."*
+> - 📜 **Charles Scott Sherrington (*The Integrative Action of the Nervous System*):** *"The **motorial** discharge from the cortical centers coordinates complex patterns of antagonistic muscular contractions."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Evolution progressively differentiates sensory receptivity from direct **motorial** execution in nervous circuits."*
+

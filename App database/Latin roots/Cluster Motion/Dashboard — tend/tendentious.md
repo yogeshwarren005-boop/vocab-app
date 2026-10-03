@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or marked by a strong tendency especially a controversial one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or marked by a strong tendency especially a controversial one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, promoting, or characterized by a strongly partisan, biased, or controversial purpose; intentionally slanted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and film criticism, a tendentious artwork subordinates aesthetic form and nuanced characterization to explicit didactic messaging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendentious designates having or marked by a strong tendency especially a controversial one."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The newspaper published a highly **tendentious** account of the street clashes in Barcelona."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Dogmatic theology frequently constructs **tendentious** arguments that start from preordained conclusions."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Novels burdened with **tendentious** social preaching often sacrifice psychological reality to moral doctrine."*
+

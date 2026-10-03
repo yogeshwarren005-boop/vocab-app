@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mix together different elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine, unite, or blend together gradually into a single unified whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and antitrust regulation, commercial entities merge to consolidate market share and achieve operational economies of scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These various kinds so merge into each other that they cannot always be distinguished in practice."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Simplify your complicated interests, feelings, thoughts, wishes, aims; merge all considerations in one purpose: that of fulfilling with effect—with power—the mission of your great Master."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode had gone on to particulars in the expectation that these would work strongly on Ladislaw, and merge other feelings in grateful acceptance."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The soft evening shadows seemed to **merge** with the gloomy woods bordering the quiet country road."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The foaming white wakes of the racing whaleboats appeared to **merge** into one broad track of boiling spray."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The dusk advanced until earth and sky seemed to **merge** into one vast, undifferentiated expanse of twilight."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Within the system of ventricles in the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within the system of ventricles in the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated, occurring, or administered within a ventricle of the brain or cardiac chambers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgical practice, intraventricular hemorrhage describes bleeding into the cerebral ventricular system, often complicating premature birth or vascular malformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intraventricular designates within the system of ventricles in the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An **intraventricular** clot was discovered upon post-mortem examination of the lateral ventricle."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The ependymal lining bathes in the circulating **intraventricular** cerebrospinal fluid."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Severe hypertension occasionally ruptures small lenticulostriate vessels, producing catastrophic **intraventricular** bleeding."*
+

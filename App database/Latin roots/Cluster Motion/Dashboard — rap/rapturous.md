@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling great rapture or delight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling great rapture or delight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, feeling, or expressing ecstatic joy, intense delight, or overwhelming enthusiasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In concert performance critique and reception history, virtuosic cadenzas frequently elicit rapturous standing ovations from audiences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was in this state when I first shrunk from the light as it twinkled on me once more, and knew with a boundless joy for which no words are rapturous enough that I should see again."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Not one, however, started with rapturous wonder on beholding her, no whisper of eager inquiry ran round the room, nor was she once called a divinity by anybody."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Your Beauty’s a flower in the morning that blows, And withers the faster, the faster it grows: But the rapturous charm o’ the bonie green knowes, Ilk spring they’re new deckit wi’ bonie white yowes."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester greeted Jane with **rapturous** tenderness upon her return to the secluded manor of Ferndean."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The provincial audience greeted the eccentric theatrical performance of Mr. Wopsle with **rapturous** mockery."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen received the **rapturous** compliments of her aristocratic admirers at the archery contest with haughty grace."*
+

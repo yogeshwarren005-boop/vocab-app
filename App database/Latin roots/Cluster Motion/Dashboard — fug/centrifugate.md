@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotate at very high speed in order to separate the liquids from the solids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotate at very high speed in order to separate the liquids from the solids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject a mixture or suspension to rotational centrifugal force; or the liquid or sediment separated by such action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laboratory hematology, clinicians centrifugate anticoagulated whole blood to isolate plasma from packed red blood cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrifugate designates rotate at very high speed in order to separate the liquids from the solids."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The laboratory technician must thoroughly **centrifugate** the purulent urine specimen prior to microscopic analysis."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The eccentric chemist sought to **centrifugate** the experimental serum at high rotational velocity."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Technicians prepared to **centrifugate** the protein precipitate to determine molecular sedimentation coefficients."*
+

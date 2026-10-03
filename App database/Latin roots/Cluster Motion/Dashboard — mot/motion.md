@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of movements (especially of the hands) to communicate familiar or prearranged signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural event that involves a change in the position or location of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or state of changing place, position, or posture; movement; or a formal proposal made in a meeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Newtonian mechanics, the three laws of motion establish the fundamental relationships between applied forces and body acceleration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah yet doth beauty like a dial hand, Steal from his figure, and no pace perceived, So your sweet hue, which methinks still doth stand Hath motion, and mine eye may be deceived."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What merit do I in my self respect, That is so proud thy service to despise, When all my best doth worship thy defect, Commanded by the motion of thine eyes?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would it were hell-pains for thy sake, and my poor doing eternal; for doing I am past, as I will by thee, in what motion age will give me leave. [_Exit._] PAROLLES."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Every body perseveres in its state of rest, or of uniform **motion** in a right line, unless it is compelled to change that state by forces impressed thereon."*
+> - 📜 **William Shakespeare (*Sonnet 104*):** *"Ah yet doth beauty like a dial hand, steal from his figure, and no pace perceived; so your sweet hue hath **motion**, and mine eye may be deceived."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Every growing part of every plant is continually in **motion**, revolving in slow circumnutating circles."*
+

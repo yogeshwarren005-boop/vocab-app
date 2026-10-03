@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instance of misfortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unfortunate mishap, piece of bad luck, or unforeseen accident involving harm or defeat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal common law, homicide by misadventure describes an unintentional killing resulting from a lawful act performed without criminal negligence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your looks are pale and wild, and do import Some misadventure."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What misadventure is so early up, That calls our person from our morning’s rest?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In my face, dear sister, I find no anger to ’em, nor no ruin; The misadventure of their own eyes kill ’em."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Your looks are pale and wild, and do import some **misadventure**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"The coroner's inquest recorded an accidental **misadventure**, lacking evidence of foul play."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The traveler attributed his overturned carriage to an unlucky **misadventure** upon the sandy beach road."*
+

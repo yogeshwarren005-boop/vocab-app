@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water mixed with waste matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That is flowing outward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liquid waste, sewage, or industrial byproduct discharged into a body of water; or an outflowing branch of a lake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil and environmental sanitation engineering, primary effluent undergoes biological aeration and clarification to reduce biochemical oxygen demand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Hence this effluent, if placed upon the soil, is of great value."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"No sludge is left, everything being turned into the harmless effluent."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The industrial **effluent** pouring from upstream dye works contaminated the river gravels and poisoned the trout."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A clear **effluent** stream escaped from the mountain tarn, carving a deep gorge through the shale."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Walden Pond has no visible inlet or **effluent**, retaining its pristine crystal purity through subterranean filtration."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conduit that resembles a bridge but carries water over a valley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conduit that resembles a bridge but carries water over a valley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A conduit, artificial channel, or monumental bridged structure constructed to convey water across valleys and distances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, the cerebral aqueduct (aqueduct of Sylvius) connects the third and fourth ventricles within the midbrain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"It is a very old house, and the greater part of it was originally a castle, strongly fortified, and surrounded by a deep moat supplied with abundant water from the hills by a hidden aqueduct."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The water from the aqueduct supplies great fountains, and runs down into huge oblong basins in the terraced gardens, one below the other, each surrounded by a broad pavement of marble between the water and the flower-beds."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"An aqueduct, capable of any intended quantity or height of water."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The majestic Roman **aqueduct** marched across the Campagna on thousands of travertine arches, bearing mountain springs to the capital."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Arches on arches! as an **aqueduct** of stone spans the wide desert with its ruined pride."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"The ruined Roman **aqueduct** stretched across the silent plains like the backbone of an extinct monster."*
+

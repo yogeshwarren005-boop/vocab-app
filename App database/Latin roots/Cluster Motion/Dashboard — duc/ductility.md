@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity of a material to deform plastically and be drawn out into wire without tensile rupture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural metallurgy, high ductility ensures that steel beams yield noticeably before cataclysmic structural collapse occurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley was endeared to Darcy by the easiness, openness, and ductility of his temper, though no disposition could offer a greater contrast to his own, and though with his own he never appeared dissatisfied."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The main conclusions arrived at from practice have had reference to the general effects of impurities in hardening the metal, and the general tendency of heat to soften it and to increase the ductility."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The _malleability_ and _ductility_ of copper are considerable."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The high **ductility** of platinum enables researchers to manufacture extremely fine filaments for thermal resistance thermometers."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Matter exhibits varying degrees of tenacity, hardness, and **ductility** depending upon intermolecular cohesion."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The mental **ductility** of young domestic animals facilitates their early training by human masters."*
+

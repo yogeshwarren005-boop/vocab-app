@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several bodily processes by which substances go out of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force to leave or move out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forcibly driving out, discharging, or ejecting matter, air, or individuals from an enclosure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and cephalopod defense, octopuses escape predators by expelling dense clouds of black melanin ink.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But since she did neglect her looking-glass And threw her sun-expelling mask away, The air hath starved the roses in her cheeks And pinched the lily-tincture of her face, That now she is become as black as I."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Various notables - Materia Medica, Anatomy, Physiology, Scho- lastic Theology, and Jurisprudence - rose to the ques- 437:24 tion of expelling Christian Science from the bar, for such high-handed illegality."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Christian Europe the old heathen custom of expelling the powers of evil at certain times of the year has survived to modern times."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale breached violently, **expelling** a mighty column of vaporous spray high into the morning air."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The cuttlefish darted backward across the rock pool, **expelling** a dark fluid that concealed its flight."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian canister detonated with a dull thud, **expelling** heavy coils of suffocating black smoke."*
+

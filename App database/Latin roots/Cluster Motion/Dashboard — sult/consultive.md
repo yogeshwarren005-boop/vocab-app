@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving advice; ,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving advice; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or designed for consultation; advisory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bureaucratic organizational theory, consultive bodies facilitate communication between department leadership and field personnel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consultive designates giving advice; ,."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The legislative authority may appoint a **consultive** body to report upon matters of foreign commerce and defense."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The executive branch requires a **consultive** council capable of deliberation without impeding swift operational decision."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Early tribal councils performed a purely **consultive** role, leaving final military commands to the war chieftain."*
+

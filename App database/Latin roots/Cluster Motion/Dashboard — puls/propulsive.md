@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power to propel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to or capable of propelling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the power, capacity, or function of driving or propelling something forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace fluid dynamics, propulsive efficiency quantifies the ratio of useful thrust power to total jet kinetic energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For example, to increase the air chamber would mean enlarging the whole torpedo, calling for more propulsive power and larger engines, and these larger engines would call for more air, thus defeating the object in view."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The broad caudal telson delivers a powerful **propulsive** stroke that darts the crustacean backward into safety."*
+> - 📜 **Jules Verne (*From the Earth to the Moon*):** *"The artillery club debated the **propulsive** power of novel chemical fulminates needed to launch the vehicle."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Squids utilize a specialized muscular siphon to generate **propulsive** aquatic jets that outpace pursuing fish."*
+

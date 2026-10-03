@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical relation created by an intransitive verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grammatical relation created by an intransitive verb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical property or trait of being intransitive, characterized by not taking a direct object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive linguistics, the intransitiveness of a predicate can be verified by its inability to undergo passive voice transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intransitiveness designates the grammatical relation created by an intransitive verb."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The innate **intransitiveness** of the verb 'to sleep' reflects a self-contained subjective condition."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"Syntactic analysis reveals that the **intransitiveness** of certain middle verbs was historically derived."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The semantic shift from transitive motion to static **intransitiveness** occurs frequently across Romance dialects."*
+

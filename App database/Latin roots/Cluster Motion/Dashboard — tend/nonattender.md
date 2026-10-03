@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who shirks duty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who shirks duty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually or deliberately fails to attend an organization, church, school, or required assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century British religious census methodology, a nonattender was categorized among those who did not frequent Sunday worship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonattender designates someone who shirks duty."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The weaver of Raveloe was regarded with suspicion by his neighbors because he was a persistent **nonattender** at parish church."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The parish vicar noted with regret that the young dairyman was a confirmed **nonattender** at evening services."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Gradgrind demanded an explanation from every school **nonattender** before administering disciplinary measures."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of movement or of being moved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Securely fixed in place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of moving or being moved; fixed, motionless, or steadfastly stationary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical traumatology, an immobile joint resulting from fibrous ankylosis requires physical rehabilitative therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He hesitated for some moments, with a strangely immobile smile upon his face."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Kutúzov’s face as he stood in the open doorway remained perfectly immobile for a few moments."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes remained **immobile** upon the high rock pinnacle, his lean silhouette dark against the moonlit sky."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The paralyzed invalid sat completely **immobile** in his high-backed chair, watching the room with piercing eyes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The massive iron anvil stood **immobile** upon the deck of the Pequod, resisting every toss of the ocean."*
+

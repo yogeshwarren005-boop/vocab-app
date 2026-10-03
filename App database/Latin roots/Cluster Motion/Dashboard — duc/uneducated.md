@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a good education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a good education.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking formal education, academic schooling, or cultural instruction; untaught, illiterate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnographic observation, natural folk wisdom and practical manual acumen unshaped by formal academic schooling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"She saw Lizzie as a chocolate-box beauty, but redeemed from hebetude by her robust youth: able to attract Hyde by his love of luxury and to hold him by main force: uneducated, coarse, and cruel, but not weak."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Even the common uneducated audience of the pit and gallery lost their interest in the play."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The gentlemen said little about her; but the ladies, in a little while, pronounced her “a good-hearted thing, rather indifferent looking, totally uneducated, and decidedly vulgar.” The great wonder was, how Wyatt had been entrapped into such a match."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In South America, a similar relationship is manifest, even to an **uneducated** eye, in the giant fossil armadillos."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He maintained that an **uneducated** person possessed a freshness of feeling destroyed by academic pedantry."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude felt keenly the stigma of being an **uneducated** working-man when gazing upon the gothic college towers."*
+

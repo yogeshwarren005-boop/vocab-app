@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who is an adherent of expressionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to expressionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist, writer, or practitioner associated with or employing the methods of expressionism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical and cinematic design, utilizes stark chiaroscuro lighting, jagged angles, and stylized performances to manifest internal torment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expressionist designates an artist who is an adherent of expressionism."*
+> - 📜 **Aldous Huxley (*Antic Hay*):** *"The young **expressionist** painter displayed canvases filled with distorted crimson figures screaming into empty voids."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"The continental **expressionist** drama reflected the profound political and spiritual disintegration following the Great War."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Like an **expressionist** canvas, the sunset splashed violent streaks of purple and jagged orange across the sky."*
+

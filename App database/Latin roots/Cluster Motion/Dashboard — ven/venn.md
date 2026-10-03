@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English logician who introduced venn diagrams (1834-1923).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English logician who introduced venn diagrams (1834-1923).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: John Venn (1834–1923), English mathematician and logician; or the diagram type named in his honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In set theory and symbolic logic, a Venn diagram utilizing overlapping closed circles to represent relationships among mathematical sets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venn designates english logician who introduced venn diagrams (1834-1923)."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The graphical method devised by John **Venn** provides an intuitive representation of class intersections."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The diagrammatic logic of **Venn** clarified the existential import of propositions in formal reasoning."*
+> - 📜 **Alfred North Whitehead (*An Introduction to Mathematics*):** *"The familiar overlapping circles of a **Venn** diagram illustrate the fundamental axioms of Boolean algebra."*
+

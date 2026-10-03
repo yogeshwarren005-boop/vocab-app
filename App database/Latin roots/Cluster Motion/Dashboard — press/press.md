@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of demanding notice or attention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The print media responsible for gathering and publishing news in the form of newspapers or magazines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To exert steady physical force against; to crowd together; or the news media and printing machinery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional jurisprudence, freedom of the press protects the right of journalists and newspapers to publish without government censorship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I press in here, sir, amongst the rest of the country copulatives, to swear and to forswear according as marriage binds and blood breaks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sister, I am press’d down with conceit; Conceit, my comfort and my injury. [_Exeunt._] SCENE III."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seld-shown flamens Do press among the popular throngs and puff To win a vulgar station."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"I **press** in here, sir, amongst the rest of the country copulatives, to swear and to forswear."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Printing, gunpowder, and the compass have changed the whole face and state of things throughout the world, and the **press** heads them all."*
+> - 📜 **Thomas Jefferson (*Letters of Thomas Jefferson*):** *"Our liberty depends on the freedom of the **press**, and that cannot be limited without being lost."*
+

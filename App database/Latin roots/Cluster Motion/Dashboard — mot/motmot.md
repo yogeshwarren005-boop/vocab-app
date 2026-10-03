@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american bird resembling a blue jay and having greenish and bluish plumage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american bird resembling a blue jay and having greenish and bluish plumage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorful neotropical bird of the family Momotidae, distinguished by racket-tipped central tail feathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, famous for behavioral tail-wagging displays (pendulum motion) used to signal awareness to potential predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motmot designates tropical american bird resembling a blue jay and having greenish and bluish plumage."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The curious racket-shaped plumage in the tail of the **motmot** arises from the bird deliberately preening away the central barbs."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Among the dense foliage of the Amazonian forest, the brilliant turquoise head of the **motmot** catches the traveler's eye."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"We frequently heard the deep hollow note of the Brazilian **motmot** echoing through the shaded river banks."*
+

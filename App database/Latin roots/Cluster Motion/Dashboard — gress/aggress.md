@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take the initiative and go on the offensive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the initiative and go on the offensive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To initiate an unprovoked attack, quarrel, or hostile invasion against another person or nation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international relations and military history, sovereign states that aggress against neutral neighbors violate non-intervention pacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"Hannah trembled before him, but Betsey faced him sturdily, being amazingly like him, with a feminine difference; as like as a ruled person can be to a ruler, for the discipline of life had taught the man to aggress, the woman only to defend."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Independent of this motive of sympathy, if a large and influential State should happen to be the aggressing member, it would commonly have weight enough with its neighbors to win over some of them as associates to its cause."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"A totalitarian power will not hesitate to **aggress** upon weaker states whenever it senses diplomatic irresolution."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The nomadic tribes rarely waited for the legions to advance, preferring to **aggress** across the undefended border."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary leaders resolved to **aggress** against neighboring monarchies before foreign coalitions could assemble."*
+

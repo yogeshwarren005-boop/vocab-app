@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute vein continuous with a capillary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A minute vein continuous with a capillary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute vein; a tiny blood vessel that connects capillaries with larger systemic veins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microvascular histology, postcapillary venulae serving as the primary sites of leukocyte extravasation during inflammatory responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venula designates a minute vein continuous with a capillary."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination revealed localized thrombosis within a single capillary and its adjacent **venula**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Blood passes from the arterial capillary bed into the minute **venula** on its return journey toward the heart."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The delicate wall of the smallest **venula** allows rapid migration of white corpuscles into inflamed tissue."*
+

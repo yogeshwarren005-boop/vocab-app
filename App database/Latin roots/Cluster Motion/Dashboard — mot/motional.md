@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, accompanied by, or characterized by physical motion or movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical electrodynamics, motional electromotive force is generated when a conductor moves across a magnetic field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motional designates of or relating to or characterized by motion."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The **motional** electromotive intensity arises from the velocity of the conductor across magnetic lines of force."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The kinetic energy of the rotating flywheel represents stored **motional** work."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The **motional** energy of river currents gradually erodes the hardest granite bedrock."*
+

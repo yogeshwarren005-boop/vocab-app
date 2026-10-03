@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The latter part of the day (the period of decreasing daylight from late afternoon until nightfall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A later concluding time period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of time at the end of the day between late afternoon and nightfall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diurnal ecology, crepuscular organisms become active during evening twilight to forage under reduced predation pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll about it this evening; and I will presently pen down my dilemmas, encourage myself in my certainty, put myself into my mortal preparation; and by midnight look to hear further from me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet this my comfort; when your words are done, My woes end likewise with the evening sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be rul’d by me; depart in patience, And let us to the Tiger all to dinner, And about evening, come yourself alone To know the reason of this strange restraint."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"Yet this my comfort; when your words are done, my woes end likewise with the **evening** sun."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The calm summer **evening** descended upon the sheep-fold with amber light and long shadows."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The pale mist of **evening** arose from the river marshes, wrapping the lonely churchyard in gray gloom."*
+

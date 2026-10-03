@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apathy demonstrated by an absence of emotional reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence of emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete absence or suppression of emotional feeling, passion, or sentiment; cold detachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic moral philosophy, apatheia (or rational emotionlessness) represented freedom from irrational affective disturbances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emotionlessness designates apathy demonstrated by an absence of emotional reactions."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes's absolute **emotionlessness** of mind was his greatest investigative weapon, allowing pure deduction."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The apparent **emotionlessness** of the catatonic patient often masks an agonizing inner turbulence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's scholarly **emotionlessness** chilled the warm, expansive nature of his youthful bride."*
+

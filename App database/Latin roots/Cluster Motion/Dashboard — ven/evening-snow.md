@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small california annual with white flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small california annual with white flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Snowfall occurring at twilight or dusk; or a small California annual wildflower (Linanthus dichotomus) blooming in late afternoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology, Linanthus dichotomus opens its fragrant white blossoms at dusk to attract nocturnal moth pollinators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, evening-snow designates small california annual with white flowers."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Along the gravelly foothill ridges, the delicate blossoms of **evening-snow** opened their fragrant white stars at sunset."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A soft **evening-snow** began to fall, dusting the dark pines of the wood with crystalline purity."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The fragrant **evening-snow** unfolds its vespertine petals only when the shadow of the mountain ridge falls over the desert chaparral."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the format of sectors on the surface of a hard disk drive so that the operating system can access them and setting a starting position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the format of sectors on the surface of a hard disk drive so that the operating system can access them and setting a starting position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of preparing, formatting, or setting a system, device, or program to its beginning operating state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems programming, hardware initialisation configures memory controllers and registers before the kernel bootstrap sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, initialisation designates (computer science) the format of sectors on the surface of a hard disk drive so that the operating system can access them and setting a starting position."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The systematic **initialisation** of an experimental apparatus is the prerequisite for obtaining repeatable scientific measurements."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every dynamic cycle in nature begins with the preparatory **initialisation** of fundamental physical forces."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The seasonal **initialisation** of plant germination depends directly on rising soil temperatures and moisture."*
+

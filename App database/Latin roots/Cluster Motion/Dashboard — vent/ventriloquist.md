@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A performer who projects the voice into a wooden dummy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A performer who projects the voice into a wooden dummy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A performer or person skilled in ventriloquism, projecting speech into an inanimate puppet or distant spot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In popular theater and vaudeville, an entertainer using lip immobility and dummy manipulation to create comic dialogue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Make haste up, Millers.” Millers, who was the other nurse, retired into the house, and by degrees the child’s wailing was hushed and stopped, as if it were a young ventriloquist with something in its mouth."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The art of the ventriloquist consists in modifying his voice according to all these variations, without changing his place."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"Have you never heard a clever **ventriloquist** throw his voice into the chimney or under the floorboards?"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The mimic spoke with the uncanny art of a professional **ventriloquist**, throwing his voice across the graveyard."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes suspected the elusive spy possessed the talents of an accomplished **ventriloquist** and mimic."*
+

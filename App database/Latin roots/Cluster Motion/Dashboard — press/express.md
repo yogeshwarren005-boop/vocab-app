@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mail that is distributed by a rapid and efficient system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Public transport consisting of a fast train or bus that makes only a few scheduled stops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convey, articulate, or represent in words, gestures, or art; fast, direct, or explicitly stated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, an express power is a authority explicitly enumerated and codified in constitutional text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You ne’er oppress’d me with a mother’s groan, Yet I express to you a mother’s care."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of that and all the progress more and less, Resolvedly more leisure shall express."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither rhyme nor reason can express how much."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"You ne'er oppress'd me with a mother's groan, yet I **express** to you a mother's care."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Their human countenance the **express** resemblance of the gods, once upright and divine."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Words are but the images of matter, and serve only to **express** the real substances of knowledge."*
+

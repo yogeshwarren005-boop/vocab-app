@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking place by degrees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking place by degrees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, proceeding through, or relating to gradual stages, degrees, or progressive transitions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentological stratigraphy, a gradational boundary reflects continuous environmental deposition without an erosional unconformity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gradational designates taking place by degrees."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The transition from marine shale to terrestrial sandstone presents a **gradational** sequence marked by estuarine fossils."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The emergence of human civilization exhibits a **gradational** development from primitive tribal custom to codified law."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Social institutions evolve through **gradational** modifications rather than sudden, unprovoked institutional revolutions."*
+

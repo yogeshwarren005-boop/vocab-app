@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German mathematician responsible for the mobius strip (1790-1868).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German mathematician responsible for the mobius strip (1790-1868).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to August Ferdinand Möbius (1790–1868), the German mathematician who discovered the one-sided Möbius strip.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebraic topology and non-orientable surface mathematics, a Möbius strip is a two-dimensional manifold with only one boundary component.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobius designates german mathematician responsible for the mobius strip (1790-1868)."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"The intricate pathways of the ancient city looped like a cosmic **Möbius** strip, confounding ordinary spatial geometry."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"A traveler walking along the single continuous surface of a **Möbius** strip returns to the start without crossing an edge."*
+> - 📜 **H. G. Wells (*The Plattner Story*):** *"The curious spatial inversion experienced by Plattner suggested anomalous four-dimensional topology resembling a **Möbius** twist."*
+

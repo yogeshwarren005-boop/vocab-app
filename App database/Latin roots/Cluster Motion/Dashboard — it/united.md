@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act in concert or unite in a common purpose or belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Joined together in purpose, action, or physical connection; forming a harmonious and cohesive union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international treaty law, the United Nations Charter obligates member states to preserve collective peace and security.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ARCHBISHOP. ’Tis very true, And therefore be assured, my good Lord Marshal, If we do now make our atonement well, Our peace will, like a broken limb united, Grow stronger for the breaking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And here it rests, that you’ll procure the vicar To stay for me at church, ’twixt twelve and one, And, in the lawful name of marrying, To give our hearts united ceremony."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You peers, continue this united league."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"That done, dissever your **united** strengths, and part your mingled colours once again."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A **united** America will command respect from foreign empires that would otherwise exploit our divisions."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The Cratchit family sat around the hearth, **united** in affection and cheerful contentment."*
+

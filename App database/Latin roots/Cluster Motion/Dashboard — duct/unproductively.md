@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unproductive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unproductive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unproductive, ineffective, or fruitless manner; without generating useful results, goods, or profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public finance, allocating government revenues unproductively to lavish courtly display drains national capital resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The anxious interval wore away unproductively."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The anxious interval wore away **unproductively**, leaving Anne in the same state of suspense and regret."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A prodigal heir spends his inheritance **unproductively** on luxury menials, squandering the wealth accumulated by his ancestors."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"When capital is consumed **unproductively**, it perishes without creating an equivalent fund for future employment."*
+

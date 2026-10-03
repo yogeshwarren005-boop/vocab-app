@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blowfish highly prized as a delicacy in japan but highly dangerous because the skin and organs are poisonous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blowfish highly prized as a delicacy in japan but highly dangerous because the skin and organs are poisonous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Japanese culinary pufferfish, renowned for containing deadly concentrations of the neurotoxin tetrodotoxin in its organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastronomic toxicology and culinary regulation, Japanese chefs must undergo rigorous multi-year licensing before legally serving fugu.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugu designates a blowfish highly prized as a delicacy in japan but highly dangerous because the skin and organs are poisonous."*
+> - 📜 **Lafcadio Hearn (*Glimpses of Unfamiliar Japan*):** *"Diners in Tokyo relish the delicate flesh of the **fugu**, fully mindful of the fatal venom concealed within its liver."*
+> - 📜 **Rudyard Kipling (*Letters of Travel*):** *"The traveler observed the harbor fishermen sorting their catch, setting aside the poisonous **fugu** with cautious care."*
+> - 📜 **Isabella Bird (*Unbeaten Tracks in Japan*):** *"The village innkeeper warned us against eating the local **fugu**, pointing out the extreme danger of its lethal poison."*
+

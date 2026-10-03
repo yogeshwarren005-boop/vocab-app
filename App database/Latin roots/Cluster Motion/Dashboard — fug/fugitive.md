@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who flees from an uncongenial situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is sought by law officers; someone trying to elude justice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has fled from custody, persecution, or military confinement; or fleeting and evanescent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and statutory jurisprudence, fugitive slave laws compelled the apprehension and rendition of escaped laborers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble Ventidius, Whilst yet with Parthian blood thy sword is warm, The fugitive Parthians follow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O Antony, Nobler than my revolt is infamous, Forgive me in thine own particular, But let the world rank me in register A master-leaver and a fugitive."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When Talbot hath set footing once in France, And fashion’d thee that instrument of ill, Who then but English Henry will be lord, And thou be thrust out like a fugitive?"*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"The courage of a noble Roman should never stoop to the miserable condition of a wandering **fugitive**."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The escaped **fugitive** Selden hid among the ancient stone huts of the desolate Dartmoor wasteland."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"Life, like a dome of many-coloured glass, stains the white radiance of eternity until death tramples its **fugitive** hues."*
+

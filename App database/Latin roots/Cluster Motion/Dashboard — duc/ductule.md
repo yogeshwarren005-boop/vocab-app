@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very small duct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very small duct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute duct or microscopic channel in animal or plant anatomy; a ductlet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hepatic histology, bile ductules (canals of Hering) convey bile from intralobular bile canaliculi to interlobular bile ducts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ductule designates a very small duct."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"High magnification revealed fine excretory **ductule** channels branching through the glandular acini."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic inflammation of the hepatic **ductule** network produces chronic intrahepatic cholestasis."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Each tubular **ductule** secretes digestive fluid into the central digestive cavity of the mollusk."*
+

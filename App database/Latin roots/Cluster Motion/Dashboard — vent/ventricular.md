@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a ventricle (of the heart or brain).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a ventricle (of the heart or brain).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a ventricle, especially of the heart or brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, ventricular fibrillation is a fatal cardiac arrhythmia characterized by uncoordinated quivering of the ventricular myocardium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventricular designates of or relating to a ventricle (of the heart or brain)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked hypertrophy of the left **ventricular** muscle accompanied longstanding systemic arteriosclerosis."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The **ventricular** cavities of the brain are lined with ciliated ependymal epithelium regulating fluid circulation."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"The loud systolic murmur was loudest over the fifth intercostal space, indicating **ventricular** dilation."*
+

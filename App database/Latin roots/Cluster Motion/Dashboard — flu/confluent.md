@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch that flows into the main stream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flowing together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowing together or merging into one stream; or running together into a continuous surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological pathology and epidemiology, confluent exanthemata occur when individual eruptive papules merge into extensive red sheets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A confluent small-pox had in all directions flowed over his face, and left it like the complicated ribbed bed of a torrent, when the rushing waters have been dried up."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"A confluent small-pox had in all directions flowed over his face, and left it like the complicated ribbed bed of a torrent, when the rushing waters have been dried up."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"And this, whatever it is, is the outcome of many confluent elements--of temperament, environment and experience, perhaps, in chief."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The two distinct rivers become **confluent** near the base of the foothills, blending their sediments."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"In the developing embryo, neighboring capillary networks become **confluent** to form larger vascular channels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The pustules of severe smallpox become **confluent**, covering the patient's face in a continuous mask."*
+

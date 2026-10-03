@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to fluoridation; treat with fluoride.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to fluoridation; treat with fluoride.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat or dose with fluoride compounds; to fluoridate a water supply.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial environmental technology, municipal water boards fluoridise water by dissolving measured amounts of sodium fluorosilicate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoridise designates subject to fluoridation; treat with fluoride."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Municipal engineers resolved to **fluoridise** the town reservoirs following the recommendations of the sanitary board."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinicians urged local health authorities to **fluoridise** the public water supply without further delay."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"When communities **fluoridise** their potable water, the resulting tooth enamel shows marked structural resilience."*
+

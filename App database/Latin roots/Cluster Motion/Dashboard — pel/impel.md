@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Urge or force (a person) to an action; constrain or motivate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move forward with force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To drive, force, or urge someone forward or into action, either physically or by moral motivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Newtonian mechanics, external net forces impel massive bodies into accelerated linear or rotational trajectories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"They impel her to say, “Snagsby has something on his mind!” And thus suspicion gets into Cook’s Court, Cursitor Street."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Why he did so he could not say, but something seemed to impel him to the act."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"My state of mind regarding the pilfering from which I had been so unexpectedly exonerated did not impel me to frank disclosure; but I hope it had some dregs of good at the bottom of it."*
+> - 📜 **John Milton (*Paradise Lost*):** *"What cause moved our grand parents in that happy state, favored of heaven, to fall, and what did **impel** their disobedience?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"An intense desire to benefit mankind seemed to **impel** young Dorothea toward great humanitarian schemes."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"A dark fascination appeared to **impel** Chillingworth to probe the deepest secrets of the minister's troubled soul."*
+

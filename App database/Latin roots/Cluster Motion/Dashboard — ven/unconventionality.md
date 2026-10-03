@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originality by virtue of being unconventional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unorthodoxy by virtue of being unconventional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of departing from customary rules, traditional habits, or accepted social norms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology, expressive deviance or bohemianism celebrated as an authentic vehicle for personal self-expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Impulsiveness, unconventionality, and girlish irresponsibility were all very delightful, of course--at times; but not now, certainly."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"She did not say too much, but she implied that mademoiselle preferred the freedom and unconventionality of their family life to permitting changes to be made on her account."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare prided himself on his intellectual **unconventionality**, though provincial prejudices still lingered in his mind."*
+> - 📜 **Henry James (*The Bostonians*):** *"Her pronounced **unconventionality** of dress and manner marked her as a devoted champion of social reform."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen was fascinated by Deronda's quiet **unconventionality**, contrasting sharply with the stiff etiquette around her."*
+

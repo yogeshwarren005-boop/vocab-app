@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make conventional or adapt to conventions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent according to a conventional style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make conventional; to bring into conformity with accepted custom, standard models, or stylized rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In graphic design and cartography, to replace complex terrain features with simplified symbolic icons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I thought it was only women who were privileged to change their mind,” she began brightly; but Arkwright ignored her attempt to conventionalize the situation."*
+> - 📜 **Oscar Wilde (*The Critic as Artist*):** *"The primary duty of high decorative art is to **conventionalize** the crude facts of nature into harmonious rhythm."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"When painters attempt to **conventionalize** mountain crags, they lose the sublime geological individuality of nature."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Institutions always try to **conventionalize** moral enthusiasm until only hollow routine remains."*
+

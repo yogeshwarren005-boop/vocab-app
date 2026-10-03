@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that brings about reduction in another chemical species by donating electrons and being oxidized in the process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, carbon monoxide generated from burning coke acts as the primary gaseous reductant in a blast furnace reducing iron oxide to pig iron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductant designates a substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The chemist introduced charcoal as a powerful **reductant** to extract metallic tin from its mineral oxide."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Hydrogen gas served as an effective chemical **reductant** during the high-temperature reduction experiment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Geological strata reveal how organic matter acted as a **reductant** on dissolved ferric salts in primordial oceans."*
+

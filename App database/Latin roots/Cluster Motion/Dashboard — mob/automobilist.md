@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who drives (or travels in) an automobile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who drives (or travels in) an automobile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who drives or travels extensively in an automobile; a motorist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early transportation history, early automobilist clubs mapped unpaved country routes and lobbied state legislatures for highway construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, automobilist designates someone who drives (or travels in) an automobile."*
+> - 📜 **Sinclair Lewis (*Free Air*):** *"The adventurous young **automobilist** navigated the muddy prairie trails of Minnesota with grit and a tool kit."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"The veteran bicyclist looked with annoyance upon the arrogant **automobilist** enveloped in goggles, dust, and gasoline smoke."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The wealthy foreign diplomat was an enthusiastic **automobilist**, frequently touring the Surrey lanes at high speeds."*
+

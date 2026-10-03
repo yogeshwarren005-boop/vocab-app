@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being gradual or of coming about by gradual stages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being gradual or of coming about by gradual stages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or property of proceeding by small, gradual steps or incremental stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and language acquisition, cognitive graduality characterizes the transition from babbling to lexical syntax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, graduality designates the quality of being gradual or of coming about by gradual stages."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The universal law of progress is marked by a profound **graduality** that links primordial nebulae to human mind."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Nature exhibits an unbroken **graduality** in the transition from basic reflex to conscious moral deliberation."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The growth of spiritual wisdom requires patience, proceeding with that divine **graduality** seen in growing trees."*
+

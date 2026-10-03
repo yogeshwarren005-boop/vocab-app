@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Changing to a lower state (a less respected state).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A low or downcast state; - h.l.menchken.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of reducing something to a lower rank, quality, status, or moral character; or the geological wearing down of land surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer chemistry and environmental science, photo-thermal degradation cleaves synthetic macromolecular polymer chains over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter could not have borne the degradation of being known to design letting his house."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Place her in safety and comfort: shelter her degradation with secrecy, and leave her.’ “I acted precisely on this suggestion."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They fell into deeper shame and degradation—if there can be deeper—and ruin.” “Are they alive now?” “I don’t know.” “You said just now that Estella was not related to Miss Havisham, but adopted."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Atmospheric weathering and rain cause continuous geological **degradation** of the highest granite mountain ranges."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip felt a painful sense of moral **degradation** while associating with the coarse company at the Blue Boar."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The gradual **degradation** of the Roman legions into undisciplined peasant militia invited barbarian invasion."*
+

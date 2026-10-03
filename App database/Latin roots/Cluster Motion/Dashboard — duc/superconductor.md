@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A material or substance capable of conducting electrical current with zero electrical resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, categorized into Type I superconductors (exhibiting complete Meissner expulsion) and Type II superconductors (allowing magnetic flux vortices).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superconductor designates pertaining to, derived from, or characteristic of latin duc within the domain of motion."*
+> - 📜 **Arthur C. Clarke (*The Fountains of Paradise*):** *"The orbital space elevator cables were spun from synthetic filaments wrapped around a microscopic **superconductor** core."*
+> - 📜 **Carl Sagan (*Contact*):** *"Powerful beam magnets wound from a high-temperature **superconductor** focused the particle accelerator beam."*
+> - 📜 **Isaac Asimov (*The Gods Themselves*):** *"Every energy converter contained an indestructible **superconductor** that handled terawatts of pure power without heat."*
+

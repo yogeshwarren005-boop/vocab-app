@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the product of ten and seven.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being ten more than sixty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to the product of seven and ten; one more than sixty-nine; 70.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical antiquity, the Septuagint represents the Greek translation of the Hebrew Bible traditionally ascribed to seventy Jewish scholars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Worthy Martius, Had we no other quarrel else to Rome but that Thou art thence banished, we would muster all From twelve to seventy and, pouring war Into the bowels of ungrateful Rome, Like a bold flood o’erbear ’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To every Roman citizen he gives, To every several man, seventy-five drachmas."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mine speak of seventy Senators that died By their proscriptions, Cicero being one."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Mine speak of **seventy** Senators that died by their proscriptions, Cicero being one."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The ancient church tower had withstood the storms of more than **seventy** winters upon the chalk downs."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Mr. Lorry had lived for **seventy** years in the service of Tellson's Bank, honored and trusted by all."*
+

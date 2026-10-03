@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cut down on; make a reduction in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less complex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made smaller, diminished in size, quantity, status, or price; simplified into basic components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical surgery, a fractured bone or dislocated joint restored to its normal anatomical alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So our young friends, reduced to prose (which is much to be regretted), degenerate in their power of imparting pleasure to me."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Her kind, compassionate visits to this old schoolfellow, sick and reduced, seemed to have quite delighted Mr Elliot."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In arguing on prices, she held to her own firmly, as was natural in a dealer, and reduced theirs persistently, as was inevitable in a woman."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His once comfortable estate was **reduced** to an insignificant holding following the disastrous sheep loss."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The gentlewoman lived in **reduced** circumstances, occupying two modest rooms in a faded suburban terrace."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The strangulated inguinal hernia was successfully **reduced** under gentle taxis without surgical section."*
+

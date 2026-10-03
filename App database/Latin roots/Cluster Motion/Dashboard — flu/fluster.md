@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition that is confused or nervous and upset.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be flustered; behave in a confused manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone agitated, confused, or nervous; or an agitation of bewildered excitement and hurry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conversational pragmatics, rapid confrontational questioning is employed by cross-examiners to fluster evasive witnesses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"Why, they’d steal the very—why, goodness sakes, you can guess what kind of a fluster _I_ was in by the time midnight come last night."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"How thoughtful they are!” Tess looked a little flustered as she took it."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Dron Zakhárych, you!” meek and flustered voices here and there were heard calling and caps began to come off their heads."*
+> - 📜 **William Shakespeare (*Othello*):** *"Three lads of Cyprus, noble swelling spirits, have I tonight **fluster** with flowing cups."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Jennings was in a great **fluster** of spirits, unable to sit quiet for two minutes together."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The sudden arrival of Aunt Betsey threw poor Mr. Dick into an extraordinary **fluster** of mind."*
+

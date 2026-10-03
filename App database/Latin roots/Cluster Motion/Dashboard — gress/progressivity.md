@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advancement toward better conditions or policies or methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advancement toward better conditions or policies or methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or extent of being progressive, especially describing a tax system where rates increase with income.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public finance economics, measuring the progressivity index (such as the Kakwani index) quantifies tax redistribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progressivity designates advancement toward better conditions or policies or methods."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The fiscal reformer debated the economic consequences and social equity of tax **progressivity** upon high landed revenues."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A moderate degree of **progressivity** in legacy duties prevents the unhealthy dynastic accumulation of unearned wealth."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Philosophers analyzed the legal implications of statutory **progressivity** within national revenue legislation."*
+

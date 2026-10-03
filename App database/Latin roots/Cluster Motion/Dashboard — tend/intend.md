@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have in mind as a purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Design or destine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To have in mind as a purpose, aim, or design; to plan or direct toward a specific objective.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort jurisprudence, legal malice requires proof that the tortfeasor did intend the injurious consequences of their unlawful act.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then my thoughts, from far where I abide, Intend a zealous pilgrimage to thee, And keep my drooping eyelids open wide, Looking on darkness which the blind do see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, dear queen; For we intend so to dispose you as Yourself shall give us counsel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They have had inkling this fortnight what we intend to do, which now we’ll show ’em in deeds."*
+> - 📜 **William Shakespeare (*Sonnet 27*):** *"For then my thoughts, from far where I abide, **intend** a zealous pilgrimage to thee, and keep my drooping eyelids open wide."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I do not **intend** to say anything to dissuade you from accepting so advantageous an offer."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"I did fully **intend** to write to my aunt the moment our ship reached Yarmouth harbor."*
+

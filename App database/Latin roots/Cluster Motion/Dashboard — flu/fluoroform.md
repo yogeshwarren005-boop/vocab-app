@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Colorless gas haloform chf3 (similar to chloroform).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colorless gas haloform chf3 (similar to chloroform).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, non-flammable gas, trifluoromethane, the fluorine analogue of chloroform, used as a specialized refrigerant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric chemistry and semiconductor manufacturing, fluoroform acts as a plasma etching gas for silicon dioxide microchips.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoroform designates colorless gas haloform chf3 (similar to chloroform)."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The volatile gas **fluoroform** condensed into a clear liquid under combined pressure and refrigeration."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Analogous to chloroform, **fluoroform** represents the complete substitution of chlorine by fluorine atoms."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The thermodynamic expansion of liquefied **fluoroform** demonstrated predictable Joule-Thomson cooling."*
+

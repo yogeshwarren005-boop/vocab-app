@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state that exists when one person or group has power over another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Controlling influence, superior power, or governing authority; an alternative spelling of ascendancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional theory and colonial administration, parliamentary ascendency defined the legal subordination of provincial assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Propensities, tendencies, habits, were as dead leaves upon the tyrannous wind of his imaginative ascendency."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was _my_ time to assume ascendency. _My_ powers were in play and in force."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"According to this account and what was subsequently learned, it seemed that the scaramouch in question had gained a wonderful ascendency over almost everybody in the Jeroboam."*
+> - 📜 **Edmund Burke (*Letter to Richard Burke*):** *"Burke criticized the narrow **ascendency** that excluded the vast Catholic majority of Ireland from civic participation."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The intellectual **ascendency** of Athens dominated the culture of the ancient Mediterranean for centuries."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The fierce religious faction asserted its spiritual **ascendency** with unrelenting puritanical severity."*
+

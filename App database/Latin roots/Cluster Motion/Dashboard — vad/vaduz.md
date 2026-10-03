@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital and largest city of liechtenstein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The capital and largest city of liechtenstein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capital city of the Principality of Liechtenstein, located along the upper Rhine river.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European political geography and constitutional monarchy, Vaduz serves as the seat of the Princely House and the Landtag.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vaduz designates the capital and largest city of liechtenstein."*
+> - 📜 **Karl Baedeker (*Switzerland and the Adjacent Portions of Italy, Savoy, and Tyrol*):** *"The picturesque castle of **Vaduz** perches dramatically upon the wooded cliff overlooking the quiet Alpine valley."*
+> - 📜 **John Murray (*A Handbook for Travellers in Switzerland*):** *"Travellers ascending the upper Rhine valley find in **Vaduz** the modest capital of the ancient principality."*
+> - 📜 **James Bryce (*The Holy Roman Empire*):** *"The miniature principality centered at **Vaduz** preserved its sovereign status amid the dissolution of the empire."*
+

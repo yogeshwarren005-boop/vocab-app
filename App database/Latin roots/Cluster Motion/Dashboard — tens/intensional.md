@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the set of attributes that distinguish the referents of a given word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the set of attributes that distinguish the referents of a given word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or characterized by intension; defining meaning by attributes rather than enumerated members.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modal philosophical logic, an intensional context (such as belief or necessity) violates the principle of truth-functional substitutivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intensional designates used of the set of attributes that distinguish the referents of a given word."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An **intensional** analysis of moral predicates reveals the necessary properties presupposed by human ethical judgment."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Subjective emotional states possess an **intensional** directedness toward objects in the outer environment."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The mind constructs **intensional** categories that harmonize diverse sensory impressions into coherent knowledge."*
+

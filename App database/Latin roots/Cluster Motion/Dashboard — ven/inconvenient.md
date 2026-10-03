@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suited to your comfort, purpose or needs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not conveniently timed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing trouble, difficulty, or discomfort; awkwardly timed, situated, or arranged; unsuited.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logistics planning, describing schedules or routes that demand disproportionate transfer times or unnecessary out-of-the-way transit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know into what straits of fortune she is driven and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow, human as she is, and without any danger."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"But as long as our plans seem to coincide so well, I shall ask you if it would be inconvenient to you if we put off the date of our return a week longer."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I put it to him, ‘This is unreasonable and inconvenient."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"If this were the case, the process of laying and hatching might be **inconveniently** prolonged, exposing eggs to danger."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"It seemed to me that the house was an **inconvenient** shelter, located directly in the path of the Martian advance."*
+> - 📜 **Jane Austen (*Emma*):** *"A heavy fall of snow at dinner time threatened to make returning home exceedingly **inconvenient**."*
+

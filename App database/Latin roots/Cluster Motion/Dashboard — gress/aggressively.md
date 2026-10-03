@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an aggressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an aggressive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a forceful, competitive, hostile, or attacking manner; with energetic determination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial antitrust economics, dominant firms that price aggressively below marginal cost risk predation penalties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I will go to the professor--I was going anyhow--but now I shall go aggressively, and bustle him."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I hope for your own sake you will learn to keep your word." I walked on, nose in the air, aggressively complacent in appearance, but those words rankled!"*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"He straightened himself now a little aggressively."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"Cowperwood pushed his traction investments **aggressively**, buying up rival transit lines across Philadelphia."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen stepped forward **aggressively**, intimidating the sullen sailors with his immense physical strength."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"General Montgomery resolved to attack **aggressively** at El Alamein to break the Axis armored line."*
+

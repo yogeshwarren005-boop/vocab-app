@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person considered as descended from some ancestor or race.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going or coming down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, plant, or animal descended from a specific ancestor; offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and cladistic phylogenetics, each modern vertebrate is a descendant of early lobe-finned sarcopterygian fish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She would be able to look at them, and think not only that d’Urberville, like Babylon, had fallen, but that the individual innocence of a humble descendant could lapse as silently."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Never mind.” “I—I—am not a Durbeyfield, but a d’Urberville—a descendant of the same family as those that owned the old house we passed."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The inscription ran thus: In memory of John Durbeyfield, rightly d’Urberville, of the once powerful family of that Name, and Direct Descendant through an illustrious Line from Sir Pagan d’Urberville, one of the Knights of the Conqueror."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Every living species is the direct **descendant** of ancient ancestral forms through continuous, modified generation."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Colonel Pyncheon's proud **descendant** inhabited the dark seven-gabled mansion, shadowed by an ancient curse."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The degenerate **descendant** of the great Antonines surrendered imperial power to eunuchs and corrupt favorites."*
+

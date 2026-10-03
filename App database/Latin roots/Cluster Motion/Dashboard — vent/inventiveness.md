@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power of creative imagination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power of creative imagination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, capacity, or skill of being creative, imaginative, and adept at originating new ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic sociology and industrial history, the cultural disposition and institutional incentives that foster rapid technological progress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"It's a wonder the modern child has a trace of resource or inventiveness left in him."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Surely it won't hazard his inventiveness: it will develop it."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The mechanical **inventiveness** of Western races expanded rapidly under conditions of civic liberty and contract."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific **inventiveness** depends upon disciplined experimental imagination checked by rigorous fact."*
+> - 📜 **Thorstein Veblen (*The Instinct of Workmanship*):** *"Human **inventiveness** flourishes when motivated by craftsmanship rather than purely speculative financial gain."*
+

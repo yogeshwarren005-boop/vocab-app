@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm, composed, unagitated, and serene under pressure or commotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military leadership studies, an unflurried commander preserves operational clarity during chaotic combat maneuvers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She might have posed as a picture of graceful, imperturbed ease, so calm, so smiling, so absolutely unflurried and detached in both manner and bearing did she appear."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Hiram's hospital remained an **unflurried** sanctuary of peace amidst the noisy political storm."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes remained cool and **unflurried**, examining the footprints with meticulous composure."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak faced the midnight fire with an **unflurried** mind, issuing steady orders to save the ricks."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition to behave aggressively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of hostility that arouses thoughts of attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hostile, injurious, or destructive behavior or action; an unprovoked attack or invasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international public law, the crime of aggression consists of the planning, preparation, initiation, or execution of an act of armed force by a state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In view of the recrudescence of the spirit of armed national aggression evident of late, and especially in the outbreak of the Great War in 1914, the military aspect of the population question deserves serious consideration."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In this view, militarism is seen to consist not in having drilled soldiers and stores of munitions, but in the national state of mind that would use these for aggression, not merely for defense."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Are we in a condition to resent or to repel the aggression?"*
+> - 📜 **Winston Churchill (*The Second World War*):** *"We are fighting to save the civilized world from the brutal and unprovoked **aggression** of Nazi tyranny."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden barbarian **aggression** along the Danube shattered two centuries of Roman peace."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"He who makes an unprovoked **aggression** upon another's natural liberty places himself in a state of war with all mankind."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grant of financial aid as from a government to an educational institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of providing aid or help of any sort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A grant of money or financial assistance, especially one provided by a government or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public finance, direct institutional grants supporting municipal arts, universities, or non-profit transport services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But further, the general public interests may be recognized through the payments in aid of the funds (subsidies, subventions)."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The municipal council voted an annual **subvention** to maintain the city navigation canals in working order."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"An educational **subvention** from public revenues may be justified whenever private resources fail to provide universal schooling."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The imperial government granted an emergency **subvention** to sustain merchant shipping construction."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reached.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being read with comprehension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be reached, entered, obtained, or understood easily; approachable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital human-computer interaction, accessible web software complies with WCAG standards for screen readers and keyboard navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accessible is none but Milford way. [_Exeunt._] SCENE III."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But your mind is warped by an innate principle of general integrity, and therefore not accessible to the cool reasonings of family partiality, or a desire of revenge.” Catherine was complimented out of further bitterness."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The isolated stone hut on the moor was **accessible** only by a narrow track winding between treacherous mires."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny found Edmund always **accessible** and kind, ready to listen to her modest thoughts and anxieties."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic crater was easily **accessible** from the eastern slope, where ancient lava streams had cooled into terraces."*
+

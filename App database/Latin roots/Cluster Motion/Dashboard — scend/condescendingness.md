@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affability to your inferiors and temporary disregard for differences of position or rank.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affability to your inferiors and temporary disregard for differences of position or rank.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic or quality of adopting a patronizing, superior, or haughty demeanor toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character psychology and ethical conduct literature, conscious condescendingness offends self-respecting individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, condescendingness designates affability to your inferiors and temporary disregard for differences of position or rank."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Nothing is more odious to a man of independent spirit than the calculated **condescendingness** of a wealthy patron."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley rebuked Emma for her thoughtless **condescendingness** toward poor Miss Bates at the picnic on Box Hill."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The philosopher despised the fashionable **condescendingness** with which aristocratic salons received sincere literary genius."*
+

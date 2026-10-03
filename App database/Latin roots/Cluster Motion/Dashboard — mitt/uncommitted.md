@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bound or pledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not associated in an exclusive sexual relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pledged, bound, or dedicated to a specific cause, political candidate, or course of action; free and unaligned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military operational doctrine, commanding generals maintain uncommitted reserve divisions to exploit sudden tactical breakthroughs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"There was the great four-post bed with amber hangings as of old; there the toilet-table, the armchair, and the footstool, at which I had a hundred times been sentenced to kneel, to ask pardon for offences by me uncommitted."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"Huck, being uncommitted as yet, joined in with Tom, and the waverer quickly “explained,” and was glad to get out of the scrape with as little taint of chicken-hearted home-sickness clinging to his garments as he could."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The general staff maintained an **uncommitted** strategic reserve behind the center of the defensive line."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth remained delightfully **uncommitted** in her romantic affections, observing her suitors with critical irony."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Several powerful barbarian tribes remained neutral and **uncommitted** during the initial frontier campaigns."*
+

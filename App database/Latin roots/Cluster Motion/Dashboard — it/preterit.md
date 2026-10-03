@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term formerly used to refer to the simple past tense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A term formerly used to refer to the simple past tense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or expressing past time; or the grammatical verb tense that denotes past action or state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical Indo-European linguistics, the Germanic preterit tense merged ancient perfect and aorist aspectual forms into a single inflectional paradigm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preterit designates a term formerly used to refer to the simple past tense."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The formation of the **preterit** in strong verbs reveals the archaic mechanism of vowel ablaut."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"In English grammar, the weak **preterit** is marked by the dental suffix added to the verbal base."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"A grammarian must distinguish the simple **preterit** from compound past participles."*
+

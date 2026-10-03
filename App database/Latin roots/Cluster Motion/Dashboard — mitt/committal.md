@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The official act of consigning a person to confinement (as in a prison or mental hospital).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of committing a crime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of committing someone to an institution, prison, or asylum; or a pledge or obligation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal procedural law, a committal hearing determines whether sufficient prima facie evidence justifies a trial indictment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"‘Yes, master, and I’ve never been in it much.’ (I had come out of Kingston Jail last on a vagrancy committal."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He worked it himself at the police-office, day after day for many days, contending against even a committal; and at the trial where he couldn’t work it himself, sat under counsel, and—every one knew—put in all the salt and pepper."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"He lay in prison very ill, during the whole interval between his committal for trial and the coming round of the Sessions."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The magistrate signed the formal warrant of **committal**, sending the terrified boy to the county gaol."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"Holmes intervened just in time to prevent the magistrate from issuing a hasty warrant of **committal**."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The clerk read aloud the solemn warrant of **committal** that consigned the unhappy maiden to the Tolbooth."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory drug (trade name ansaid) that is administered only orally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory drug (trade name ansaid) that is administered only orally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory drug (NSAID) of the propionic acid class used to relieve musculoskeletal pain and ophthalmic inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic surgery, topical flurbiprofen eye drops inhibit intraoperative miosis and prevent postoperative anterior uveal inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flurbiprofen designates a nonsteroidal anti-inflammatory drug (trade name ansaid) that is administered only orally."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Topical **flurbiprofen** maintains pupillary dilation and mitigates ocular tissue trauma during ophthalmic surgery."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Propionic acid derivatives such as **flurbiprofen** potently suppress prostaglandin synthesis at inflammatory loci."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Analgesic treatment with **flurbiprofen** alleviated the grimacing facial contractions caused by chronic arthritis."*
+

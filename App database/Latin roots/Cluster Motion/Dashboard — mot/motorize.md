@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with a motor vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equip with a motor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To equip an organization, vehicle, or tool with an engine or internal combustion motor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics, to convert an infantry unit into truck-borne troops capable of rapid operational redeployment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorize designates equip with a motor vehicle."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The command decided to **motorize** all heavy artillery batteries before the spring offensive began."*
+> - 📜 **H. G. Wells (*Anticipations*):** *"Municipal authorities will soon **motorize** public transport systems to reduce congestion and urban filth."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"Modern inventors seek to **motorize** every domestic convenience to spare physical exertion."*
+

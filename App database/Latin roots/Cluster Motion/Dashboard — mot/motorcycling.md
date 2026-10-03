@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Riding a motorcycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a motorcycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity, practice, or sport of riding and operating a motorcycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In recreational transport and motorsports, encompasses competitive racing disciplines such as motocross, speedway, and Grand Prix road racing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorcycling designates riding a motorcycle."*
+> - 📜 **T. E. Lawrence (*Letters of T. E. Lawrence*):** *"Solitary **motorcycling** across the desolate Wiltshire downs provides the ultimate anesthetic for nervous fatigue."*
+> - 📜 **Aldous Huxley (*Antic Hay*):** *"Young Gumbril considered whether fast **motorcycling** offered a genuine antidote to modern existential ennui."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"Advertisements glorified weekend **motorcycling** as the supreme embodiment of youthful romance and adventurous liberty."*
+

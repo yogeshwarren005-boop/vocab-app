@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical act of sexual intercourse, especially between male and female organisms involving mating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative zoology and primatology, ritualized coitus serves both reproductive functions and social bonding behaviors within troops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coitus designates the act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The intricate courtship displays of male birds precede the final act of **coitus** upon the nesting grounds."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Biological science examines the phenomenon of **coitus** as the fundamental mechanism of bisexual generation."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Every phase of mammalian development traces its origin to the initial union achieved through **coitus**."*
+

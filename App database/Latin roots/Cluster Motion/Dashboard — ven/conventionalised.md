@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make conventional or adapt to conventions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using artistic forms and conventions to create effects; not natural or spontaneous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted, altered, or stylized to conform to established social or artistic conventions; not spontaneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and architectural ornament, stylized floral forms (such as the fleur-de-lis) whose anatomical origins have been abstracted into rigid emblems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In some instances the tiled roof of the tower is represented by tile-mouldings on the shoulder; but in this instance the form is entirely conventionalised into a cylindrical vase supported by three bear-shaped feet."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"A third theory supposed the crooked line upon the prow of the ship to be a **conventionalised** thunderbolt."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The capitals displayed beautifully **conventionalised** acanthus foliage carved with extraordinary crispness."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"She observed the **conventionalised** courtship rituals of the eighteenth-century drawing room with satirical amusement."*
+

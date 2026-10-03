@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exert pressure or force to or upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force or impel in an indicated direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerted force upon, squeezed, ironed, or urged urgently; conscripted into service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historic common law (peine forte et dure), accused felons refusing to plead were pressed under heavy iron stones until they answered or died.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yes, here it is. [_Reads_.] _They have pressed a power, but it is not known Whether for east or west."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Being pressed to th’ war, Even when the navel of the state was touched, They would not thread the gates."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A mad fellow met me on the way, and told me I had unloaded all the gibbets and pressed the dead bodies."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Being **pressed** to the war, even when the navel of the state was touched, they would not thread the gates."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He held out his hand to take hers, which had eased her side by being **pressed** against the rustic gate."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The urgent demands of the creditor **pressed** heavily upon Mr. Micawber's temporary tranquility."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the alcedinidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the alcedinidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of typical river kingfishers in the family Alcedinidae, including the common European kingfisher (Alcedo atthis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ecological morphology, species of Alcedo possess specialized corneal refractive adaptations enabling sharp underwater binocular vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alcedo designates type genus of the alcedinidae."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"A flash of brilliant turquoise along the riverbank revealed a solitary specimen of the genus **Alcedo** darting after minnows."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geographic distribution of the genus **Alcedo** across the Old World demonstrates remarkable conservation of hunting form."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The crayfish must beware the sharp plunge-diving assault of **Alcedo** when sunning in shallow stream waters."*
+

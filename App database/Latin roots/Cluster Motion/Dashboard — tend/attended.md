@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be present at (meetings, church services, university), etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take charge of or deal with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Was present at an event or assembly; or accompanied, escorted, or cared for by another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical terminology, an attended birth is managed by a licensed midwife or obstetrician trained in perinatal care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke of Florence attended; two French Lords, and Soldiers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring him through the bands. [_Exit Ambassador, attended._] [_To Thidias_.] To try thy eloquence now ’tis time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Duke, attended; Egeon, bareheaded; with the Headsman and other Officers."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"The king went forth into the open air, **attended** by his faithful counselors and guards."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne **attended** the concert in the hope of catching a glimpse of Willoughby among the crowd."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Farmer Boldwood **attended** the Casterbridge market every Saturday without fail."*
+

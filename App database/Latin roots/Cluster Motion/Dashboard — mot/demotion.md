@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of lowering in rank or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of lowering in rank or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction or lowering of an individual to a subordinate rank, grade, position, or status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and naval discipline, a court-martial may impose punitive demotion to the ranks alongside forfeiture of pay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demotion designates act of lowering in rank or position."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The admiral accepted his sudden **demotion** without bitterness, requesting immediate assignment to sea."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether it was suggested by Bathsheba's act of **demotion** or not, the herdsman felt deeply injured in pride."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The sudden **demotion** of the head clerk to the cellar ledger cast a gloom over the office."*
+

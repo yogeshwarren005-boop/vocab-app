@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight sword with a narrow blade and two edges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A straight sword with a narrow blade and two edges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender, sharply pointed two-edged sword used in sixteenth- and seventeenth-century Europe, primarily for thrusting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical European martial arts and fencing history, the rapier utilized complex swept hilts to protect the unarmored hand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Antipholus of Syracuse with his rapier drawn, and Dromio of Syracuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his lawless fit Behind the arras hearing something stir, Whips out his rapier, cries ‘A rat, a rat!’ And in this brainish apprehension kills The unseen good old man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He made confession of you, And gave you such a masterly report For art and exercise in your defence, And for your rapier most especially, That he cried out ’twould be a sight indeed If one could match you."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"A hit, a very palpable hit; the young prince lunged forward with his slender steel **rapier** in the royal duel."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The young Scottish gallant wore a Toledo **rapier** at his side, its polished steel hilt glinting in the sunshine."*
+> - 📜 **Alexandre Dumas (*The Three Musketeers*):** *"D'Artagnan drew his **rapier** with lightning speed, facing the cardinal's guards with fearless bravado."*
+

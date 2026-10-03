@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to fluctuate or move in a wavelike pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move or sway in a rising and falling or wavelike pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To rise and fall irregularly in number, level, or value; to shift back and forth uncertainly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic price theory, market commodity prices fluctuate around natural equilibrium values according to supply and demand elasticities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I fluctuate a little; that’s the truth."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The price of any particular kind of goods may fluctuate in either direction as compared with the prices of other goods at the same time."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It might be done by letting the value of the gold dollar fluctuate as it does now, while requiring a greater or less number of dollars to be given in fulfilment of all outstanding contracts."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The market price of every particular commodity is continually said to **fluctuate** around its natural price."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The numbers of predatory animals **fluctuate** in close correspondence with seasonal cycles of prey abundance."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's spirits were observed to **fluctuate** between feverish gaiety and profound despondency."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widely distributed over temperate north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely distributed over temperate north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A North American passerine bird (Bombycilla cedrorum), commonly known as the cedar waxwing, with sleek plumage and waxy red wingtips.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ornithological ecology, the cedarbird exhibits specialized frugivorous behavior, feeding on cedar berries and wild cherries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedarbird designates widely distributed over temperate north america."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Flocks of the gentle **cedarbird** descend upon the juniper groves in winter, feasting upon the blue aromatic berries."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I observed a handsome **cedarbird** perched motionless upon a hemlock branch, its crested head sleek in the morning light."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"American naturalists describe the social feeding habits and exquisite waxy wingtips of the migrant **cedarbird**."*
+

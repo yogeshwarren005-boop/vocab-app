@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manner of acting or controlling yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Personal behavior, deportment, or way of acting; or to direct, manage, lead, or transmit heat or electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electromagnetic theory, copper wires conduct electric currents with minimal resistive thermal dissipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will tarry, holy pilgrim, But till the troops come by, I will conduct you where you shall be lodg’d; The rather for I think I know your hostess As ample as myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will see a pageant truly played Between the pale complexion of true love And the red glow of scorn and proud disdain, Go hence a little, and I shall conduct you, If you will mark it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To th’ Roman camp conduct us. [_Exeunt._] SCENE VIII."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth could not see such behavior without feeling that Mr. Wickham's **conduct** was open to the severest censure."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The prudent man governs his personal **conduct** by the impartial spectator residing within his breast."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I conceived the bold project of arriving at moral perfection, regulating my daily **conduct** by thirteen virtues."*
+

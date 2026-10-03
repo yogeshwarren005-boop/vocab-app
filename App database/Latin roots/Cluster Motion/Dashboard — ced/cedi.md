@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in ghana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in ghana.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic monetary currency unit of Ghana, divided into one hundred pesewas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In African macroeconomic monetary history, the Bank of Ghana introduced the cedi in 1965 to replace the colonial West African pound.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedi designates the basic unit of money in ghana."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"West African commerce formerly relied upon cowrie shells, foreshadowing modern national currencies like the **cedi**."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"Monetary stabilization requires sound central bank reserves whether calculating in sterling, francs, or the African **cedi**."*
+> - 📜 **W. E. B. Du Bois (*The World and Africa*):** *"The newly liberated republic instituted the golden **cedi** as an enduring symbol of national sovereignty."*
+

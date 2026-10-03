@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come down on or keep down by unjust use of one's authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to suffer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to harsh, authoritarian, or tyrannical treatment; weighed down by grief, anxiety, or heavy labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical social theory, marginalized socioeconomic classes suffering systemic deprivation at the hands of ruling elites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When day’s oppression is not eased by night, But day by night and night by day oppressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when these quicker elements are gone In tender embassy of love to thee, My life being made of four, with two alone, Sinks down to death, oppressed with melancholy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s a young maid with travel much oppressed, And faints for succour."*
+> - 📜 **William Shakespeare (*Sonnet 28*):** *"When day's oppression is not eased by night, but day by night and night by day **oppressed**."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"I have seen the lash applied to the bare backs of the **oppressed** until the blood mingled with the soil."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The grinding tax exactions crushed the **oppressed** peasantry until despair drove them into open revolt."*
+

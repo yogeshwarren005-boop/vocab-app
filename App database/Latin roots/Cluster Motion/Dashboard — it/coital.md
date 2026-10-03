@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to coitus or copulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to coitus or copulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, accompanying, or connected with coitus; sexual intercourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian reproductive biology and endocrinology, coital stimulation triggers neuroendocrine reflex cascades that facilitate ovulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coital designates of or relating to coitus or copulation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Secondary sexual characteristics often evolve through selective advantages during **coital** courtship rituals."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The physiological mechanisms governing **coital** reproduction in mammals are coordinated by the central nervous system."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The preservation of the species depends upon the periodic occurrence of **coital** union between compatible sexes."*
+

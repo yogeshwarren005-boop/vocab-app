@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not preventable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not preventable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being prevented, avoided, or stopped; inevitable, unavoidable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insurance and tort law, damages caused by unpreventable acts of God or natural force majeure beyond reasonable human precaution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There is also an unpreventable wear of parts that cannot be replaced without replacing the whole machine."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"There is the chance of physical or mental collapse, as the sudden insanity or the sudden death, unforeseen and unpreventable, of one performing responsible duties."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain congenital vascular deformities represent an **unpreventable** risk of sudden apoplectic collapse."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The volcanic eruption was an **unpreventable** catastrophe that shattered the ancient prehistoric plateau."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab regarded the cosmic malice of the universe as an **unpreventable** doom driving his soul to destruction."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transmits a message.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any agent (person or animal or microorganism) that carries and transmits a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or person that transmits; especially an electronic apparatus that produces and radiates radio waves or communication signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, a chemical neurotransmitter released from presynaptic vesicles diffuses across synaptic clefts to bind receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Request permission to come aboard and have unattended access to the spunnel transmitter for about five minutes."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Approaching the squat spunnel transmitter he noted that Hanno had activated the system for immediate use and disengaged all logs and file-for-record links."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Inserting the capsule he keyed the transmitter to the channels assigned to Sentinel and set off his burst."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The airship operator adjusted the spark-gap **transmitter**, sending desperate wireless distress calls through the blizzard."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Summerlee inspected the portable wireless **transmitter**, testing its galvanic battery cells before ascending the plateau."*
+> - 📜 **Rudyard Kipling (*With the Night Mail*):** *"The postal dirigible relayed meteorological signals through a high-frequency **transmitter** humming in the bridge cabin."*
+

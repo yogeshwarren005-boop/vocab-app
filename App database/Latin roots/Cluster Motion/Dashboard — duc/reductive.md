@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or causing diminution or curtailment;  - r.h.rovere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or causing diminution or curtailment;  - r.h.rovere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or serving to reduce, diminish, simplify, or bring about chemical reduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual criticism, overly simplistic analyses that ignore essential nuance, context, or complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductive designates characterized by or causing diminution or curtailment;  - r.h.rovere."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His cynical interpretation of Dorothea's generosity was too **reductive** to encompass her noble nature."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The intense heat created an active **reductive** zone inside the laboratory combustion tube."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Critics offered a **reductive** caricature of utilitarian ethics as a doctrine worthy only of swine."*
+

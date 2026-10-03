@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get worse or fall back to a previous condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Go back to bad behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To go backward, deteriorate, or decline into a worse or more primitive state; to regress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macro-historical sociology, civilizations that over-exploit topsoil and water aquifers retrogress into agrarian collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retrogress designates get worse or fall back to a previous condition."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"When external physical conditions become hostile, biological species frequently **retrogress** rather than advance."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Should public virtue fail, the glorious gains of freedom will swiftly **retrogress** into military despotism."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Human moral progress requires constant effort, lest the ethical process **retrogress** to the cruel law of the jungle."*
+

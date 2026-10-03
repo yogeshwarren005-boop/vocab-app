@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clever remark.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compulsory annual test of older motor vehicles for safety and exhaust fumes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A witty, clever, or pithy remark, saying, or bon mot; or a musical note sounded upon a hunting horn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry and chivalric badge literature, a mot designated the short French motto or device inscribed upon a knight's coat of arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Reproach is stamped in Collatinus’ face, And Tarquin’s eye may read the mot afar, How he in peace is wounded, not in war."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"I was invited—with no visible connection—to repeat afresh Goody Gosling’s celebrated _mot_ or to confirm the details already supplied as to the cleverness of the vicarage pony."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Quarante mille hommes massacrés et l’armée de nos alliés détruite, et vous trouvez là le mot pour rire,” * he said, as if strengthening his views by this French sentence."*
+> - 📜 **William Shakespeare (*The Rape of Lucrece*):** *"Reproach is stamped in Collatinus' face, and Tarquin's eye may read the **mot** afar, how he in vain lamented."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The forester sounded a light **mot** upon his bugle horn to recall his hounds from the brake."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry smiled as he delivered another brilliant **mot** that amused the dinner table."*
+

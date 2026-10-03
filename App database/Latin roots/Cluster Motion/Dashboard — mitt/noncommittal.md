@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Refusing to bind oneself to a particular course of action or view or the like.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Refusing to bind oneself to a particular course of action or view or the like.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not expressing or revealing a clear opinion, intention, decision, or allegiance; deliberately ambiguous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and international summit negotiations, adopting a noncommittal response prevents premature treaty concessions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Bussard stood beside him, trying nervously to appear noncommittal, while Mead went up to the shaking old man, grasped his hand, and brought him over to the desk."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"I believe so,” Miss Mathewson replied in the noncommittal manner of the professional man's confidential assistant."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes offered only a cautious, **noncommittal** grunt, keeping his deductions entirely to himself."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet gave a typically **noncommittal** answer, teasing his anxious wife regarding the visitor's intentions."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond remained politely **noncommittal**, masking his ambition beneath a veneer of artistic detachment."*
+

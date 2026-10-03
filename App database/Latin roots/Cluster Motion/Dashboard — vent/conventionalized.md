@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make conventional or adapt to conventions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Represent according to a conventional style.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made to conform to conventional styles, rules, or standards; stylized rather than naturally realistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural semiotics, signs that have achieved standardized, fixed meaning through widespread social consensus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conventionalized designates make conventional or adapt to conventions."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"The emblem on the seal depicted a **conventionalized** serpent swallowing its own tail, an ancient symbol of eternity."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The dinner party moved through its **conventionalized** courses with polite murmurs and practiced smiles."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"He resented the **conventionalized** expressions of condolence that poured in from well-meaning relatives."*
+

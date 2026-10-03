@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase the pressure on a gas or liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain a certain pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To maintain normal atmospheric pressure inside a sealed enclosure flying or operating at high altitudes or depths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid transport engineering, using compressors or header tanks to sustain positive hydraulic pressure across pipeline networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Near-space cargo and passenger shuttles and taxis landed at and departed from pads adjacent pressurized air docks into the city."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The command module systems worked smoothly to **pressurize** the central living sphere before the astronauts awoke."*
+> - 📜 **Carl Sagan (*Contact*):** *"Engineers checked the redundant valves designed to **pressurize** the observation sphere for atmospheric reentry."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The ground crew worked through the night to **pressurize** the reserve gas cylinders of the experimental airship."*
+

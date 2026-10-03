@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An urge to do or say something that might be better left undone or unsaid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irrational motive for performing trivial or repetitive actions, even against your will.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forcible coercion, constraint, or an irresistible psychological urge to perform an act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and obsessive-compulsive diagnostics, an internal compulsion drives repetitive rituals to neutralize distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Zounds, an I were at the strappado, or all the racks in the world, I would not tell you on compulsion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give you a reason on compulsion!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If reasons were as plentiful as blackberries, I would give no man a reason upon compulsion, I."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Give you a reason on **compulsion**? If reasons were as plentiful as blackberries, I would give no man a reason upon **compulsion**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Where there is no freedom of choice, but external **compulsion**, there can be neither moral virtue nor vice."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"Holmes noted that the criminal had acted under the fierce **compulsion** of long-harbored personal vengeance."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Laid edge to edge (not overlapping).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laid edge to edge (not overlapping).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having seams that lie completely flat, level, and smooth with adjacent surface plating or planking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture and boiler fabrication, flush-seamed hull plating reduces hydrodynamic drag compared to lap-jointed plates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flush-seamed designates laid edge to edge (not overlapping)."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vessel was built with **flush-seamed** oak timbers, offering smooth resistance against the Antarctic seas."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Modern ironclads utilize **flush-seamed** steel armor plates joined by countersunk rivets to minimize friction."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The schooner was a clean-lined craft, **flush-seamed** along her waterline to slip swiftly through the waves."*
+

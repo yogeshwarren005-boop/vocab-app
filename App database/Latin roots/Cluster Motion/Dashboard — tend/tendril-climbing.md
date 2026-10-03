@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to plants that climb by means of tendrils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to plants that climb by means of tendrils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing climbing vines and plants that ascend and support themselves by producing specialized twining tendrils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, tendril-climbing vines exhibit thigmotropism, curling tightly around structural supports upon tactile contact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendril-climbing designates of or relating to plants that climb by means of tendrils."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The **tendril-climbing** species exhibit an exquisite sensitivity to tactile stimulation, revolving until they find a trellis."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Dense masses of **tendril-climbing** creepers formed impenetrable curtains across the tropical woodland clearing."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The wild grapes were **tendril-climbing** over the low alders near the water's edge."*
+

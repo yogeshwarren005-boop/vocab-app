@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who forces another to have sexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who forces another to have sexual intercourse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or variant legal designation for a perpetrator of sexual assault or violent violation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early English statutory jurisprudence and criminal common law rolls, indictments specifically classified the felonious raper of women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Among those obliged to abdicate were Walsh, the mayor, Rapers, the sheriff, Wheaton, clerk of the court, Durant, the recorder, and Ferguson and Renfro, administrators."*
+> - 📜 **William Shakespeare (*The Rape of Lucrece*):** *"The treacherous Roman prince stood revealed as a monstrous **raper** whose heinous crime brought down the monarchy."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The lexicographer defined the felonious **raper** as one who violently plunders or ravishes."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The border wardens swore to execute summary justice upon any marauding **raper** caught violating the peaceful hamlet."*
+

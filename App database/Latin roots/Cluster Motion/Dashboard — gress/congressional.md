@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to congress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to congress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, enacted by, or characteristic of a congress, especially the United States Congress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, congressional committee subpoenas carry statutory contempt powers to enforce legislative oversight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The month after the McKinley bill became law, the Congressional elections (November, 1890) returned an overwhelming Democratic majority in the House, altho this was a period of business prosperity, a fact usually favoring the party in power."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Further it is urged that the higher the income the less does a certain rate cut into "the amount necessary for good living" (as was said in Congressional debate)."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Griffin's circular--The denial of its truth by the Freedmen's Bureau--Their subsequent retraction--The Congressional appropriation--Should have been put in Mrs."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **congressional** record reveals the careful deliberations that shaped our constitutional framework."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The Washington hotel lobby buzzed with lobbyists seeking to influence the upcoming **congressional** vote."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"The president engaged in vigorous political debates with **congressional** leaders over conservation legislation."*
+

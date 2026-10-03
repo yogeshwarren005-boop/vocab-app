@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being one more than seventy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being one more than seventy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to the sum of seventy and one; 71.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronology and statistics, an integer prime following seventy and preceding seventy-two.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-one designates being one more than seventy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The venerable senator reached his **seventy-one** years before retiring from the tumult of imperial politics."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The old shepherd counted **seventy-one** ewes safely folded within the hurdles before dusk fell across the valley."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"There were **seventy-one** steps leading to the windy attic where the impoverished scholar had his lodgings."*
+

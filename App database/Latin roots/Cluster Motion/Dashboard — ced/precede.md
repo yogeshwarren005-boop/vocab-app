@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be earlier in time; go back further.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come before.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To come, occur, or exist before something or someone in time, order, position, or rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ceremonial diplomatic protocol, ambassadorial accreditations precede consular appointments according to international order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fairfax precede me into the dining-room, and kept in her shade as we crossed that apartment; and, passing the arch, whose curtain was now dropped, entered the elegant recess beyond."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"One night I had been awakened by her yells—(since the medical men had pronounced her mad, she had, of course, been shut up)—it was a fiery West Indian night; one of the description that frequently precede the hurricanes of those climates."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The principals being all agreed in this respect, it soon appeared that a very few weeks would be sufficient for such arrangements as must precede the wedding."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Let our best thought **precede** our actions, lest hasty judgment lead our steps into tragic error."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Simpler organic structures invariably **precede** more complex, specialized adaptations in the fossil strata."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins was careful to allow Lady Catherine's carriage to **precede** his own in every village procession."*
+

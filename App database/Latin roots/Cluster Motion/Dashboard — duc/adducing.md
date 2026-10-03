@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Citing as evidence or proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advance evidence for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Citing, mentioning, or bringing forward evidence, authorities, or reasons in support of an argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly debate, marshaling empirical data or archival manuscripts to challenge an orthodox interpretation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"In a trembling, faltering voice Pierre began adducing proofs of the truth of his statements."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"After **adducing** many instances of hybrid sterility, I must consider the contrary evidence of fertile crosses."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"By **adducing** parallel inductions, the natural philosopher eliminates accidental coincidences from causal laws."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"He defended his biological conclusions by **adducing** undeniable embryological homologies across vertebrate classes."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being corrupted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being corrupted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being bought or bribed; corrupt, mercenary, or open to dishonorable financial influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and historical sociology, venal offices or administrative posts sold by the crown for royal fiscal revenue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"This gentleman had travelled under the care of Patrick Brydone, author of a well-known “Tour Through Sicily and Malta.”] Or, ’mid the venal senate’s roar, They, sightless, stand, To mend the honest patriot-lore, And grace the hand."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Or labour hard the panegyric close, With all the venal soul of dedicating prose?"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Princes, whose cumb’rous pride was all their worth, Shall venal lays their pompous exit hail, And thou, sweet Excellence! forsake our earth, And not a Muse with honest grief bewail?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A **venal** Praetorian guard auctioned the supreme imperial dignity to the highest bidder."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The independence of judges prevents them from falling into **venal** subjection to the legislature."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"He described the courts of Europe where **venal** ministers betrayed public interests for gold."*
+

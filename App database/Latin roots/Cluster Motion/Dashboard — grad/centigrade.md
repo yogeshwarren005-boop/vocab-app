@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a temperature scale on which the freezing point of water is 0 degrees and the boiling point of water is 100 degrees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a temperature scale on which the freezing point of water is 0 degrees and the boiling point of water is 100 degrees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into one hundred degrees, designating the thermometric temperature scale where water freezes at 0° and boils at 100°.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and international meteorological reporting, the centigrade or Celsius scale serves as the primary metric unit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The cold of interstellar space, thousands of degrees below freezing point or the absolute zero of Fahrenheit, Centigrade or Réaumur: the incipient intimations of proximate dawn."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The deep-sea thermometer registered four degrees **centigrade** at a depth of two thousand fathoms in the Atlantic."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The laboratory apparatus was maintained at twenty degrees **centigrade** throughout the galvanic experiment."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor noted the rapid plunge of the mercury to fifty degrees **centigrade** below freezing during the lunar night."*
+

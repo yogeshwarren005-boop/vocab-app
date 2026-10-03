@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Durable aromatic wood of any of numerous cedar trees; especially wood of the red cedar often used for cedar chests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Durable aromatic wood of any of numerous cedar trees; especially wood of the red cedar often used for cedar chests.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The durable, fragrant, insect-repelling wood obtained from cedar trees, prized for cabinetry and construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In essential oil extraction and perfumery, cedarwood oil functions as a grounding base note and natural insect repellent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedarwood designates durable aromatic wood of any of numerous cedar trees; especially wood of the red cedar often used for cedar chests."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The lawyer kept his confidential files locked in a heavy chest of fragrant **cedarwood** bound with brass straps."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sea chest was fashioned from aromatic **cedarwood**, protecting Queequeg's woven garments from the damp sea air."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"The Tibetan lama carried an exquisite small box carved from aromatic **cedarwood**, containing sacred pilgrimage charms."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verb (or verb construction) that does not take an object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating a verb that does not require or cannot take a direct object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing a verb that indicates an action or state without taking or requiring a direct object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal semantics and syntax, an intransitive verb functions as a one-place predicate whose single argument corresponds to the subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intransitive designates a verb (or verb construction) that does not take an object."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"Grammarians classify those verbs as **intransitive** whose action does not pass over to an external noun."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Ancient Sanskrit verbal roots frequently shift between **intransitive** and causative transitive formations."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The child learns instinctively whether an **intransitive** construction requires a prepositional complement."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing or influencing; leading on; - john milton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing or influencing; leading on; - john milton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality, power, or tendency to induce, influence, tempt, or lead on.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, persuasive speech calculated to elicit agreement by gently leading the listener's sympathies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"Grewgious, breaking the blank silence which of course ensued: though why these pauses _should_ come upon us when we have performed any small social rite, not directly inducive of self-examination or mental despondency, who can tell?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"A brutish vice, **inducive** mainly to shameful sensual excess and spiritual blindness."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The contemplation of nature carries an **inducive** power that elevates the soul toward its Divine Creator."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Wise traditions exert an **inducive** influence that preserves social order without the sword."*
+

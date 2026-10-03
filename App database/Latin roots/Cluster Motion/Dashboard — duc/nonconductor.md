@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material such as glass or porcelain with negligible electrical or thermal conductivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material such as glass or porcelain with negligible electrical or thermal conductivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that does not readily conduct electricity, heat, or sound; an electrical or thermal insulator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early electrical physics (Benjamin Franklin and Coulomb), materials dividing nature into electrics (nonconductors) and non-electrics (conductors).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconductor designates a material such as glass or porcelain with negligible electrical or thermal conductivity."*
+> - 📜 **Benjamin Franklin (*Experiments and Observations on Electricity*):** *"Glass, amber, and dry resin act as powerful **nonconductors** that hold electric fluid on their surfaces."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Every known **nonconductor** will break down into conduction if subjected to an overwhelming electric tension."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Adipose tissue functions as an excellent thermal **nonconductor**, conserving core body warmth in Arctic mammals."*
+

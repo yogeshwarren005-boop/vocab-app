@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a remote manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a remote degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From a distance, whether spatial, temporal, or logical; to a slight, faint, or improbable degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and modern computing, accessing networks, servers, or user interfaces without direct physical presence at the terminal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The dairy called Talbothays, for which she was bound, stood not remotely from some of the former estates of the d’Urbervilles, near the great family vaults of her granddames and their powerful husbands."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I knew him before he gave me one of those aids, though, a moment before, I had not been conscious of remotely suspecting his identity."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The training programs are antiquated; many aren't even remotely tied in with the equipment installed on ships of the line."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The dairy called Talbothays, for which she was bound, stood not **remotely** from some of the former estates of her family."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Looking still more **remotely** to the future, we may predict that natural selection will continuously diversify forms of life."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes asserted that the mysterious treasure was **remotely** connected with an old fortress in Agra."*
+

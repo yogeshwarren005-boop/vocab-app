@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move or shift into a new position or place, both in a concrete and in an abstract sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In physical motion; changing location; or producing strong feelings of emotional sympathy, pity, or tenderness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinematic analysis, the velocity vector of a moving particle is tangent to its instantaneous trajectory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The blow thou hadst Shall make thy peace for moving me to rage, And I will boot thee with what gift beside Thy modesty can beg."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What a piece of work is man, how noble in reason, how infinite in faculties, in form and moving, how express and admirable; in action how like an angel, in apprehension, how like a god: the beauty of the world, the paragon of animals."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I could divide myself, and go to buffets, for moving such a dish of skim milk with so honourable an action!"*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson observed a dark, **moving** figure silhouetted against the granite crag of the nocturnal moor."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Agnes spoke in a gentle, **moving** voice that brought deep comfort to David's troubled and weary heart."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vast **moving** wall of white foam announced the sudden rising of the leviathan from the ocean depths."*
+

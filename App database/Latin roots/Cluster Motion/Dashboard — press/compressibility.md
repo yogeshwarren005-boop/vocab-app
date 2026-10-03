@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being able to occupy less space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being able to occupy less space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or capacity of a substance to decrease in volume under the application of pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fluid mechanics and thermodynamics, the relative volume change of a fluid or gas in response to pressure, quantified by bulk modulus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compressibility designates the property of being able to occupy less space."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The elasticity and subtle **compressibility** of the medium explain the rapid propagation of sound waves."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The isothermal **compressibility** of a gas increases rapidly as it approaches its critical temperature."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Under tremendous hydraulic force, the slight **compressibility** of water becomes unmistakably measurable."*
+

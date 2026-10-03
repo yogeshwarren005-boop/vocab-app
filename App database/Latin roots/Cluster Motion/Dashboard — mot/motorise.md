@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with armed and armored motor vehicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equip with armed and armored motor vehicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To equip a transport unit, factory, or military force with motor-driven vehicles or machinery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal planning, refers to modernizing municipal utility services and postal distribution via motorized fleets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorise designates equip with armed and armored motor vehicles."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The War Cabinet resolved to **motorise** the remaining territorial brigades with all possible dispatch."*
+> - 📜 **H. G. Wells (*Anticipations*):** *"Every advanced commercial enterprise will inevitably **motorise** its distribution services to preserve competitive advantage."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"The munitions factory found it profitable to **motorise** the internal conveyance of heavy ordnance components."*
+

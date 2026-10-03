@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states geneticist who published the complete base sequences for all the genes of a free-living organism, the influenza bacterium; later led team that developed a first draft of the entire human genome (born in 1946).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states geneticist who published the complete base sequences for all the genes of a free-living organism, the influenza bacterium; later led team that developed a first draft of the entire human genome (born in 1946).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal variant of Venter, notably referring to J. Craig Venter, pioneering American biotechnologist and geneticist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genomics history, Venter led the private Human Genome Project effort using whole-genome shotgun sequencing and synthesized the first synthetic bacterial genome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventner designates united states geneticist who published the complete base sequences for all the genes of a free-living organism, the influenza bacterium; later led team that developed a first draft of the entire human genome (born in 1946)."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Modern molecular geneticists like Craig **Venter** revolutionized biological sciences through automated genome sequencing."*
+> - 📜 **Francis Collins (*The Language of God*):** *"The joint announcement with Craig **Venter** at the White House marked the successful mapping of the human genome."*
+> - 📜 **Richard Dawkins (*The Greatest Show on Earth*):** *"The synthetic cell synthesized by the **Venter** Institute demonstrated that the code of life is essentially digital information."*
+

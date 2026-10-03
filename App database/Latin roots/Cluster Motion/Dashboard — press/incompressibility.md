@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being incompressible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being incompressible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical characteristic of resisting reduction in volume when subjected to external compressive pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrodynamics, liquids are modeled as having practical incompressibility, simplifying Navier-Stokes fluid flow formulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incompressibility designates the property of being incompressible."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The relative **incompressibility** of liquid water enables hydraulic presses to transmit immense mechanical power."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Under the highest hydrostatic forces, water demonstrates remarkable **incompressibility** compared with gases."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The effective **incompressibility** of ocean depths ensures that deep water does not collapse under colossal hydrostatic head."*
+

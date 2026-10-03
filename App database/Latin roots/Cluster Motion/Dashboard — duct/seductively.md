@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tempting seductive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tempting seductive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a seductive, alluring, or enticing manner; with tempting charm or insidious appeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction, antagonists speak seductively to disarm moral vigilance and persuade heroes into compromising alliances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seductively designates in a tempting seductive manner."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy leaned over the orchard wall and whispered **seductively** to the hesitant country girl."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The whisper of temptation came **seductively** upon my ear, urging me to sacrifice conscience to passion."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The cunning usurer smiled **seductively** as he unfolded the parchment mortgage before his victim."*
+

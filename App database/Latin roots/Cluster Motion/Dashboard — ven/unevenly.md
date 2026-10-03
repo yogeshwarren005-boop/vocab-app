@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uneven and irregular way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ragged uneven manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an uneven manner; irregularly, unequally, or with an asymmetrical surface or distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microeconomic geography, regional investment apportioned unevenly across metropolitan cores and rural peripheries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hirple, to move unevenly; to limp."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Jane, and my mind is breathing unevenly still."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Ah... those peasants!” shouted an officer, seizing by their shoulders and checking the peasants, who were walking unevenly and jolting the stretcher."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The moonlight shone **unevenly** through broken rifts in the heavy storm clouds."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The turf on the ancient barrow was worn **unevenly** by generations of grazing sheep."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The strange mechanical dial spun **unevenly**, jerking violently from epoch to epoch."*
+

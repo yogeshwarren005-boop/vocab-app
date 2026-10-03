@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of evading by going around.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of evading by going around.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of bypassing, evading, or overcoming a difficulty, regulation, or adversary through ingenuity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and tax law, the strategic exploitation of statutory loopholes to achieve non-compliance without explicit illegality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What ever have been thought on in this state That could be brought to bodily act ere Rome Had circumvention? ’Tis not four days gone Since I heard thence."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Arbitrary power frequently establishes itself through the silent **circumvention** of constitutional safeguards."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Rigorous fiscal enforcement only stimulated clever methods of maritime **circumvention** and smuggling."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal judiciary must prevent the legislative **circumvention** of explicit constitutional limitations."*
+

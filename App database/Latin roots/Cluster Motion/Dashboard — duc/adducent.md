@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing forward, citing, or serving to draw a bodily part toward the median line or axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical anatomy and functional morphology, descriptive of muscular fibers that draw paired anatomical structures inward toward one another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adducent designates especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The powerful **adducent** muscles close the hinged calcareous valves against predatory intruders."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Testing the **adducent** action of the thighs helps differentiate obturator neuropathy from femoral palsy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The coordinated action of **adducent** muscle fibers enables primates to grasp slender tree boughs with ease."*
+

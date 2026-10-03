@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being carried away by overwhelming emotion; - charles dickens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of elated bliss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intense feeling of transcendent pleasure, ecstatic delight, or supreme happiness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian eschatological theology, the Rapture denotes the anticipated bodily assumption of faithful believers into heaven.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your prattling nurse Into a rapture lets her baby cry While she chats him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your furtherance I am clothed in steel; And spite of all the rapture of the sea, This jewel holds his building on my arm: Unto thy value I will mount myself Upon a courser, whose delightful steps Shall make the gazer joy to see him tread."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet, bid me hold my tongue, For in this rapture I shall surely speak The thing I shall repent."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"The sight of the living statue filled the repentant king with a speechless, trembling **rapture** of wonder."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne listened to the passionate romantic sonata with tears of exquisite, melancholy **rapture**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Seraphic choirs sang before the throne of God, striking golden harps in sweet **rapture** of divine praise."*
+

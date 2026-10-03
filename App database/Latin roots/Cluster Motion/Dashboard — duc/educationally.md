@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an educational manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an educational manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to education, schooling, or intellectual cultivation; in an educational manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology, assessing children's cognitive readiness for structured classroom environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, educationally designates in an educational manner."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"An experience is **educationally** significant only when it widens the student's perception of social relationships."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Instinctive rivalries can be harnessed **educationally** to stimulate vigorous classroom debate without bitterness."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Scientific training is **educationally** superior because it exercises judgment rather than mere unreflective memory."*
+

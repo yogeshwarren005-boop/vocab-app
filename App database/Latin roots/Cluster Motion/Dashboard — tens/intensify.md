@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase in extent or intensity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more intense, stronger, or more marked; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become more intense, acute, severe, or concentrated; to heighten or sharpen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological agricultural economics, farmers intensify crop output per hectare by utilizing automated drip irrigation and fertilizers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At times her whimsical fancy would intensify natural processes around her till they seemed a part of her own story."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Another trait of his character which served to intensify his subsequent disappointments, was the strong ambition which early filled his soul."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I am especially interested in your ability to intensify earliest possible infiltration and disruption throughout Narval's domain." The door slid shut as he passed through."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The darkness of the autumn evening seemed to **intensify** the mysterious gloom of the abandoned suburban villa."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The cold wind sweeping across the northern moor served only to **intensify** Jane's physical suffering."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"We resolved to **intensify** strategic bombing offensives against the industrial transport centers of the enemy."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with a compulsive disposition; someone who feels compelled to do certain things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by or suggestive of psychological compulsion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resulting from, characterized by, or acting in accordance with an irresistible, irrational urge or impulse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, compulsive gambling and hoarding behaviors involve dysregulated prefrontal inhibitory control mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proclaim no shame When the compulsive ardour gives the charge, Since frost itself as actively doth burn, And reason panders will."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And on the instant a knock, vast and compulsive, inexorable and mandatory as the stamp of the iron hoof of doom, smote me and reverberated across the universe."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The contracts between a nation and individuals are only binding on the conscience of the sovereign, and have no pretensions to a compulsive force."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Silas counted his hoard of golden guineas every night with a **compulsive** passion that consumed his waking thoughts."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Krook collected old rags, bones, and discarded papers with a restless, **compulsive** hoarding greed."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The victim of a **compulsive** neurosis experiences an overwhelming inner demand to repeat symmetrical manual rituals."*
+

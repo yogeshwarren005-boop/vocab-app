@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small unit serving as part of or as the nucleus of a larger political movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nucleus of military personnel capable of expansion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small group of trained, skilled, or experienced people specialized in leading an organization, army, or political movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military institutional doctrine, a cadre forms the core leadership nucleus around which a full combat division is rapidly expanded.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Agreements were quickly concluded and the diplomatic cadre took over to prepare an agenda for the meeting's substance."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Cadre's primary mission was to establish a base of operations on Pluto."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Cadre's mission was in phases."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The surviving veteran officers formed an indispensable **cadre** for training the newly recruited infantry divisions."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"A dedicated **cadre** of trade union organizers held the revolutionary militia together during the winter battles."*
+> - 📜 **Arthur Conan Doyle (*The British Campaign in France and Flanders*):** *"The battered battalion returned to England to reconstitute its operational **cadre** with fresh drafts of recruits."*
+

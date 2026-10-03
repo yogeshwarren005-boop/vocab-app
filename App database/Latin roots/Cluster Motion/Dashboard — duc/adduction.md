@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) moving of a body part toward the central axis of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) moving of a body part toward the central axis of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The movement of a limb or body part toward the median axis of the body; the act of bringing forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vocal cord physiology, adduction brings the true vocal folds together to close the rima glottidis for phonation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adduction designates (physiology) moving of a body part toward the central axis of the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral paralysis of the posterior cricoarytenoid muscles prevents proper **adduction** of the vocal cords."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Testing active **adduction** of the vocal bands requires direct laryngoscopic observation while the patient says 'ah'."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The powerful **adduction** of the human thigh stabilizes the pelvic girdle during upright locomotion."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advance evidence for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advance evidence for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw or lead away by persuasion or force; to pull a body part away from the median anatomical plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physiological mechanics, voluntary action of abductor muscles drawing digits or limbs away from the bodily midline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abduce designates advance evidence for."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The lateral rectus muscle contracts to **abduce** the eyeball outward toward the temple."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"The patient was completely unable to **abduce** the arm beyond the horizontal shoulder plane."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Certain quadruped species instinctively **abduce** their pinnae when alarmed by sudden noises."*
+

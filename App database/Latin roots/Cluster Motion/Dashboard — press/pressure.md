@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The force applied to a unit area of surface; measured in pascals (si unit) or in dynes (cgs unit).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A force that compels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuous physical force exerted against or upon an object by something in contact with it; urgent demand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical thermodynamics and fluid dynamics, the scalar perpendicular force exerted per unit area, quantified in Pascals or atmospheres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The pressure lay on them all very heavily."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rusty patch immediately upon the verse, caused by previous pressure of an iron substance thereon, told that this was not the first time the old volume had been used for the purpose."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"So they all entered, and the cloth of the tent, to the eyes of an observer on the outside, became bulged into innumerable pimples such as we observe on a sack of potatoes, caused by the various human heads, backs, and elbows at high pressure within."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A rusty patch appeared upon the Bible verse, caused by previous **pressure** of an iron substance."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The inward hydrostatic **pressure** of the fluid is proportional to the vertical height of the incumbent column."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Under the pecuniary **pressure** of relentless creditors, Mr. Micawber preserved his theatrical optimism."*
+

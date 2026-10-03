@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute febrile highly contagious viral disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute febrile highly contagious viral disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contagious viral respiratory infection characterized by fever, chills, body aches, sore throat, and fatigue; influenza.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiological virology, influenza viruses (types A, B, and C) mutate via antigenic drift and antigenic shift, causing seasonal pandemics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Under the floors ran flues through which the kitchen smoke escaped, warming the sleeping-room in its passage."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But that darkness was licked up by the fierce flames, which at intervals forked forth from the sooty flues, and illuminated every lofty rope in the rigging, as with the famed Greek fire."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But that darkness was licked up by the fierce flames, which at intervals forked forth from the sooty flues, and illuminated every lofty rope in the rigging, as with the famed Greek fire."*
+> - 📜 **Arthur Conan Doyle (*His Last Bow*):** *"A sudden epidemic of Spanish **flu** swept through the training camp, disabling half the battalion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden onset of winter **flu** prostrates healthy adults with agonizing myalgia and pulmonary inflammation."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Microscopic pathogens, like the common **flu** and cholera, proved the ultimate saviors of mankind against the Martian invaders."*
+

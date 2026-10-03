@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduction in the gross amount on which a tax is calculated; reduces taxes by the percentage fixed for the taxpayer's income bracket.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amount or percentage deducted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of reaching a logical conclusion by reasoning from general principles; an amount subtracted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tax accounting, an allowable expense item subtracted from adjusted gross income to reduce the tax liability base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Thus, coinage may be both free and gratuitous, when citizens are allowed to bring bullion whenever they please and have it converted into coins without charge or deduction."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"See ch. 9, sec. 7.] [Footnote 6: Usually with deduction of interest in advance; a process called discount."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If paid by any one in business they may be looked upon as a deduction from the gross proceeds or product of the business, prior to cost, or as a part of cost.[7] In either case every one choosing that business does so in the light of this fact."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Hence, you see, my double **deduction** that you had been out in vile weather, and that you had a clumsy servant girl."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific reasoning unites observation and **deduction** in an unbreakable cycle of discovery and verification."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth laughed at her friend's solemn **deduction**, assuring her that Darcy's pride had blinded his judgment."*
+

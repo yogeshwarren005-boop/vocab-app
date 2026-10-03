@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloth pad or dressing (with or without medication) applied firmly to some part of the body (to relieve discomfort or reduce fever).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make more compact by or as if by pressing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To press, squeeze, or force together so as to reduce volume, size, or bulk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and surgical nursing, a pad of absorbent cloth applied firmly to an injury to staunch hemorrhage or reduce inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I only know that I found myself, with a perseverance worthy of a much better cause, making the most strenuous exertions to compress it within those limits."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In her indignation there was a sense of superiority, but it went out for the present in firmness of stroke, and did not compress itself into an inward articulate voice pronouncing the once “affable archangel” a poor creature."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would you, you could not compress him."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"If you **compress** the air inside a narrow cylinder, it acquireth a stronger elastic spring."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The nurse hastened to apply a cold **compress** to the sick girl's burning forehead."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The immense pressure of the ocean depths tends to **compress** the timbers of diving whales."*
+

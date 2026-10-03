@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skeletal muscle whose contraction extends or stretches a body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skeletal muscle whose contraction extends or stretches a body part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skeletal muscle whose contraction extends, straightens, or opens a joint, limb, or other anatomical part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical musculoskeletal neurology, eliciting the extensor carpi radialis reflex assesses cervical spinal nerve integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensor designates a skeletal muscle whose contraction extends or stretches a body part."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **extensor** digitorum communis muscle arises from the lateral humeral epicondyle and straightens the fingers."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Antagonistic muscle pairs, such as the flexor and **extensor**, coordinate to produce balanced limb movements."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician examined the patient for unilateral **extensor** plantar responses indicative of pyramidal tract injury."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a productive way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a productive way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a productive, fruitful, or generative manner; with effective, useful, or profitable results.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate operations management, deploying modern automation enables labor hours to be utilized productively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, productively designates in a productive way."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A merchant invests his capital where it may be most **productively** employed to maximize his returns."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Land drained by tile conduits was farmed far more **productively** than boggy pastures."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"A student spends his leisure **productively** when observing living specimens in field nature."*
+

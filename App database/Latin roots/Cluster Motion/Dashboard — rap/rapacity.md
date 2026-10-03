@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme gluttony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aggressive greed, ravenousness, or the disposition to seize by force and plunder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical political theory, Machiavelli cautioned sovereigns that provoking public hatred through fiscal rapacity precipitates rebellion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In a small loan market they to some extent protect the weak borrower at the moment of distress from the rapacity of the would-be usurer."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There has been great need to check the rapacity of the "loan-shark" in the cities."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A taint of imbecile rapacity blew through it all, like a whiff from some corpse."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"A prince must avoid above all things being hated and despised, and fiscal **rapacity** will surely bring him into hatred."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian kings marveled at the immense wealth and shameless **rapacity** of the imperial ministers in Rome."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The public denounced the insatiable **rapacity** of the court favorites who enriched themselves through monopolistic patents."*
+

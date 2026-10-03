@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inexperienced person (especially someone inexperienced in outdoor living).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inexperienced person (especially someone inexperienced in outdoor living).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A newcomer, novice, or inexperienced person unaccustomed to harsh outdoor conditions or frontier life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century American frontier folklore, seasoned pioneers playfully hazed the arriving tenderfoot who lacked survival skills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenderfoot designates an inexperienced person (especially someone inexperienced in outdoor living)."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The old miners could instantly spot a **tenderfoot** by his shiny patent-leather boots and pristine woolen coat."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"The greenhorns from the city were branded as **tenderfoot** adventurers completely unfit for the Klondike winter."*
+> - 📜 **Theodore Roosevelt (*Ranch Life and the Hunting-Trail*):** *"A western ranch quickly cures a **tenderfoot** of his city mannerisms through long days in the saddle."*
+

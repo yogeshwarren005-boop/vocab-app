@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct, identifiable component, section, or division that forms part of a larger structured unit or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural biochemistry, a protein subunit is an individual polypeptide chain that associates with others to form an oligomeric protein complex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subunit designates a monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Each microscopic **subunit** of the glandular tissue contributes to the manufacture of digestive fluid."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"A biological aggregate consists of multiple integrated parts, each functional **subunit** cooperating toward systemic survival."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The colonial zoophyte consists of thousands of identical polyps, each individual **subunit** sharing nourishment through common tubes."*
+

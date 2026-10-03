@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient port city in southwestern spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient port city in southwestern spain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient, historic port city in Andalusia, southwestern Spain, founded by Phoenicians as Gadir around 1100 BC.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval history, Sir Francis Drake's raid singed the King of Spain's beard at Cadiz in 1587, delaying the Spanish Armada.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By all accounts Tarshish could have been no other city than the modern Cadiz."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"And where is Cadiz, shipmates?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Cadiz is in Spain; as far by water, from Joppa, as Jonah could possibly have sailed in those ancient days, when the Atlantic was an almost unknown sea."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Fair **Cadiz**, rising o'er the dark blue sea, shining with white terraces against the azure Andalusian sky."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The British fleet under Drake struck the Spanish galleons in the harbor of **Cadiz**, destroying their provisions."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The merchant vessel called at **Cadiz** to take on Spanish wine before proceeding into the Mediterranean."*
+

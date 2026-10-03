@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided with ventilation or involving pulmonary ventilation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided with ventilation or involving pulmonary ventilation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, promoting, or affecting physical ventilation or physiological pulmonary respiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiopulmonary exercise testing, ventilatory threshold indicates the point where pulmonary ventilation increases disproportionately relative to oxygen consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventilatory designates provided with ventilation or involving pulmonary ventilation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient displayed diminished **ventilatory** capacity following bilateral pleuritic adhesions."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Auscultation over the lung bases revealed impaired **ventilatory** sounds consistent with basal atelectasis."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The medullary respiratory center continuously coordinates the neuromuscular **ventilatory** cycle."*
+

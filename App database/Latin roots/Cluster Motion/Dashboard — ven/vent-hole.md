@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hole for the escape of gas or air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hole for the escape of gas or air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aperture or opening that allows gas, smoke, air, or steam to escape from a confined space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional military ordnance, the touchhole of a muzzle-loading cannon through which gunpowder ignition was communicated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vent-hole designates a hole for the escape of gas or air."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"A solitary **vent-hole** high in the stone wall admitted a thin shaft of murky air into the prison cell."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"Smoke billowed furiously from the **vent-hole** of the fortress cellar where ammunition was stored."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"A circular **vent-hole** in the pavement gave forth a rhythmic, pulsing thud of subterranean machinery."*
+

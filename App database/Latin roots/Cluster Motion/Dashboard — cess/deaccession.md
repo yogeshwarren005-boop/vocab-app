@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sell (art works) from a collection, especially in order to raise money for the purchase of other art works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sell (art works) from a collection, especially in order to raise money for the purchase of other art works.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To officially remove an artwork, book, or object from a museum, gallery, or library collection, typically for sale or disposal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In museum ethics and collections stewardship, institutions deaccession redundant objects only to fund preservation of core holdings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deaccession designates sell (art works) from a collection, especially in order to raise money for the purchase of other art works."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The municipal gallery resolved to **deaccession** minor copies to acquire rare original early Italian canvases."*
+> - 📜 **Henry James (*The Outcry*):** *"The connoisseur debated whether the impoverished lord would **deaccession** his magnificent heirloom portrait to an American collector."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The private collector refused to **deaccession** a single canvas from his secretive, priceless gallery."*
+

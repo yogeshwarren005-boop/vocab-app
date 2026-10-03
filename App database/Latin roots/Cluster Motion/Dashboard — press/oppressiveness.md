@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of being oppressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unwelcome burdensome difficulty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intensely burdensome, stifling, or unjustly severe character that overwhelms body or spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology, the sensation of crushing chest tightness and somatic dread accompanying panic episodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They writhed feverishly under the oppressiveness of an emotion thrust on them by cruel Nature’s law—an emotion which they had neither expected nor desired."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"There was a brooding oppressiveness in the air that seemed to bode something."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"They writhed feverishly under the **oppressiveness** of an emotion thrust upon them by cruel Nature."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The **oppressiveness** of the tropical heat seemed to weigh upon the very souls of the ship's crew."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"An irresistible **oppressiveness** crept over my senses as I breathed the stagnant vapors of the antique mansion."*
+

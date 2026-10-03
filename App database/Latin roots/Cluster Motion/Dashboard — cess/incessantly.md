@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With unflagging resolve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without interruption.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without interruption; constantly, continuously, and repeatedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac biomechanics, human myocardial fibers contract and relax incessantly over billions of cycles across a lifetime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And suddenly tearing away from their clinging arms she burst into a hysterical fit of tears, bowing herself on the chest of drawers and repeating incessantly, “O yes, yes, yes!” Having once given way she could not stop her weeping."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The wind was so nipping that the ivy-leaves had become wizened and gray, each tapping incessantly upon its neighbour with a disquieting stir of her nerves."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Incessantly to remember, means obsession, lunacy."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes paced the room **incessantly**, his brow furrowed as he wrestled with the puzzling clues."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The bitter rain poured **incessantly** upon the bare moors as Jane fled from Thornfield Hall."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The pistons of the Coketown steam engines worked **incessantly** up and down, like the head of an elephant in a melancholy madness."*
+

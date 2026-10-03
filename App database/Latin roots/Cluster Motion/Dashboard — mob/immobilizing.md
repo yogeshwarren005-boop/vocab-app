@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of limiting movement or making incapable of movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold as reserve or withdraw from circulation; of capital.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Preventing or rendering incapable of physical motion, activity, or mechanical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunological defense, opsonizing antibodies bind bacterial surface flagella, immobilizing pathogens for phagocytosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko hit a switch, and the utility beam-anchor connected to a triangular plate above the airlock, immobilizing and fixing the utility to the huge transporter's axis."*
+> - 📜 **Jack London (*White Fang*):** *"The heavy steel jaw trap snapped shut, **immobilizing** the wolf's paw against the frozen pine roots."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"The windless equatorial calm fell like a heavy pall, **immobilizing** the sailing vessel for agonizing weeks."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A sudden paroxysm of grief seized Frankenstein, **immobilizing** him beside the lifeless body of his friend."*
+

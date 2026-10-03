@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to arise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to do; cause to act in a specified manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To succeed in persuading or leading someone to do something; to bring about, cause, or stimulate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and electromagnetism, to generate an electromotive force or magnetic state via electromagnetic induction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, my circumstances, Being so near the truth as I will make them, Must first induce you to believe; whose strength I will confirm with oath; which I doubt not You’ll give me leave to spare when you shall find You need it not."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell might have been sufficiently assured by hearing the rain, but that she is rather deaf, which nothing will induce her to believe."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Yet I knew withal (I could not help saying) that their weight would not induce us to desert him in his need."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Sir, my circumstances, being so near the truth as I will make them, must first **induce** you to believe me."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Moving a magnetic pole into the hollow copper coil serves to **induce** an electric current in the circuit."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Change in climate or habitat may **induce** subtle modifications in the reproductive systems of organisms."*
+

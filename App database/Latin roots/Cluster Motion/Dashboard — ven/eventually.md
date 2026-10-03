@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: After an unspecified period of time or an especially long delay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: After an unspecified period of time or an especially long delay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the end; after an extended period of time or series of developments; ultimately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative structure and historical analysis, marking the long-term resolution of cumulative underlying tensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"When you had the presence of mind to suggest that Benwick would be the properest person to fetch a surgeon, you could have little idea of his being eventually one of those most concerned in her recovery.” “Certainly I could have none."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, not being the least in love with him, was eventually able to look calmly at his offer."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Introduced as lymph on the dart of Eros, it eventually permeated and coloured her whole constitution."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Varieties rarely intercross in a state of nature, and **eventually** diverge into distinct and stable species."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He trusted that patient constancy would **eventually** win the regard of her rebellious heart."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Every thread of the mysterious crime **eventually** led back to the Andaman convict settlement."*
+

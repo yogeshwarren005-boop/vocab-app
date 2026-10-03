@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that represses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that represses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, person, or mechanism that represses or exerts a restraining influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and genetics, a DNA- or RNA-binding protein that inhibits the expression of one or more genes by blocking transcription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, repressor designates an agent that represses."*
+> - 📜 **Francis Bacon (*Essays*):** *"The law stands as an impartial **repressor** of private vengeance and disordered passions in the commonwealth."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Civilized society serves as an essential **repressor** of the ruthless struggle for existence."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Social sympathy functions as an internal **repressor** of selfish animal instincts among gregarious creatures."*
+

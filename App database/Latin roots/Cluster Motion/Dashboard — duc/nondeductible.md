@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not allowable as a deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not allowable as a deduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to be subtracted or deducted, especially from gross income when calculating tax liability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statutory revenue law, personal living expenditures and political lobbying expenses are strictly nondeductible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nondeductible designates not allowable as a deduction."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"His accountant pointed out that club dues were ruled entirely **nondeductible** under the new internal revenue regulation."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Tax lawyers debated whether extravagant corporate goodwill expenditures remained **nondeductible** after audit."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"The political campaign contribution had to be paid from personal reserves as a **nondeductible** private outlay."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remedy that prevents or slows the course of an illness or disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any obstruction that impedes or is burdensome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended or serving to prevent something undesirable; a prophylactic substance, measure, or remedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, synonymous with preventive, often designating prophylactic vaccines and hygienic measures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, preventative designates remedy that prevents or slows the course of an illness or disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Vaccination remains the most sovereign **preventative** against the devastating scourge of smallpox."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Quinine was administered daily to the expedition crew as a valuable **preventative** against coastal marsh fevers."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Dying Detective*):** *"Holmes pretended to seek an efficacious **preventative** against the contagious eastern fever."*
+

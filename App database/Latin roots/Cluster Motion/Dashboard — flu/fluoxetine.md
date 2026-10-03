@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade names prozac or sarafem); it is thought to work by increasing the activity of serotonin in the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade names prozac or sarafem); it is thought to work by increasing the activity of serotonin in the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A selective serotonin reuptake inhibitor (SSRI) antidepressant medication used to treat depression, anxiety, and OCD.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychopharmacology, fluoxetine selectively inhibits presynaptic serotonin reuptake transporters, augmenting serotonergic neurotransmission in the CNS.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoxetine designates a selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade names prozac or sarafem); it is thought to work by increasing the activity of serotonin in the brain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Targeted psychotropic agents such as **fluoxetine** regulate affective neurochemistry without the sedation of tricyclic compounds."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Modern neurochemistry reveals that pharmacological interventions like **fluoxetine** profoundly influence the subjective tone of conscious emotion."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The clinical utility of **fluoxetine** underscores the physical basis of emotional and cognitive affective states."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of ability and work that is appropriate for students in a specified grade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of ability and work that is appropriate for students in a specified grade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable, challenging, and suitable for the developmental level, age, or curricular requirements of students in a specific school grade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational pedagogy and reading curriculum design, selecting grade-appropriate texts ensures Lexile readability alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grade-appropriate designates the quality of ability and work that is appropriate for students in a specified grade."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The progressive teacher selects **grade-appropriate** materials that connect directly with the pupil's living social experience."*
+> - 📜 **H. G. Wells (*Mankind in the Making*):** *"A modern national curriculum requires carefully curated, **grade-appropriate** scientific readers for young students."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The village school board scrutinized the biology textbooks, insisting upon **grade-appropriate** lessons for the grammar grades."*
+

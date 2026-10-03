@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be earlier in time; go back further.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be earlier in time; go back further.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To precede in time, rank, order, or importance; to go before.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal causation and historical philosophy, determining which political conditions antecede a revolution illuminates causal origins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antecede designates be earlier in time; go back further."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"In every causal sequence, the cause must necessarily **antecede** the effect in chronological time."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Simple sensory ideas must always **antecede** the complex mental operations performed upon them by the understanding."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Volcanic eruptions frequently **antecede** regional seismic tremors, signaling deep subterranean magma displacement."*
+

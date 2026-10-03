@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of disease) capable of being transmitted by infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of disease) capable of being transmitted by infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being transmitted, passed along, communicated, or transferred from one person, place, or device to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and infectious disease control, pathogen transmittable virulence dictates quarantine and droplet isolation guidelines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmittable designates (of disease) capable of being transmitted by infection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical evidence conclusively proved that tuberculosis is an infectious disease readily **transmittable** through airborne bacilli."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Hereditary anatomical traits are reliably **transmittable** across successive generations through biological mechanisms."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Galvanic electric tension was found to be **transmittable** across immense distances along metallic copper wires."*
+

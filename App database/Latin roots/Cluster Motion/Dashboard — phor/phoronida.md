@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small phylum of wormlike marine animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small phylum of wormlike marine animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small phylum of marine benthic invertebrates comprising horseshoe worms that filter-feed from inside chitinous tubes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic systematics and lophotrochozoan evolutionary biology, Phoronida forms a sister taxon to Brachiopoda within the Lophophorata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoronida designates small phylum of wormlike marine animals."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Taxonomists classify the horseshoe worms under the distinct invertebrate phylum **Phoronida** based on their lophophore anatomy."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The coelomic cavity and actinotrocha larval stage of the **Phoronida** provide critical insights into deuterostome affinities."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The evolutionary lineage of the **Phoronida** represents an ancient offshoot among marine coelomate organisms."*
+

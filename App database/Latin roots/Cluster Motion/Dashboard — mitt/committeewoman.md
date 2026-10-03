@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a member of a committee.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a member of a committee.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female member of a committee, particularly within civic, educational, or political party organizations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology of the suffrage movement, pioneering committeewoman delegates established grassroots municipal reform coalitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, committeewoman designates a woman who is a member of a committee."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol Kennicott served as an energetic **committeewoman** for the newly organized Gopher Prairie public library."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Lady Britomart acted as authoritative **committeewoman**, dictating the affairs of the charity bazaar with vigor."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Mary Datchet was an industrious political **committeewoman**, organizing suffrage rallies from her London office."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intransitivize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intransitivize.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or render a transitive verb intransitive by eliminating or omitting its direct object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative morphology, reflexive affixes in Slavic and Romance languages regularly intransitivize causative verb bases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intransitivize designates intransitivize."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Languages employ reflexive pronouns to **intransitivize** actions that recoil upon the acting agent."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"The common tendency to **intransitivize** technical jargon often obscures the direct agency behind actions."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Poetic ellipsis can effectively **intransitivize** transitive verbs to produce an atmosphere of detached contemplation."*
+

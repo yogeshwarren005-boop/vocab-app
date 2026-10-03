@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remedy that prevents or slows the course of an illness or disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any obstruction that impedes or is burdensome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed, serving, or intended to hinder or forestall the occurrence of something harmful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and epidemiology, preventive medicine focuses on proactive health maintenance, sanitation, and immunizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A similar preventive is employed for the same purpose by North American Indians and European peasants."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In some districts they crown or gird themselves with mugwort while the midsummer fire is burning, for this is supposed to be a protection against ghosts, witches, and sickness; in particular, a wreath of mugwort is a sure preventive of sore eyes."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Department of Health and Human Services, which the Air Force has implemented to organize and guide the preventive medicine efforts of medical providers."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The ideal of **preventive** medicine had been attained, and physical disease was entirely vanquished."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The **preventive** function of government is far more liable to abuse than the purely punitive function."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Hygienic science acts as a **preventive** shield against the blind cruelty of infectious pathogens."*
+

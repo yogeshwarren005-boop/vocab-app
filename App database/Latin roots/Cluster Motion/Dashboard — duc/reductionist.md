@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the theory of reductionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the theory of reductionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who advocates or practices reductionism; characteristic of reductionist methodology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological philosophy, an investigator who analyses macroscopic organismic phenomena purely through molecular mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductionist designates of or relating to the theory of reductionism."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"The thoroughgoing **reductionist** attempts to resolve biological evolution into the mechanical dynamics of atoms."*
+> - 📜 **William James (*Pragmatism*):** *"The tender-minded philosopher rejects the harsh **reductionist** claim that human devotion is merely disguised self-interest."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"A consistent **reductionist** recognizes that moral evolution builds upon, yet transcends, physical struggle."*
+

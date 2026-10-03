@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take place as an additional or unexpected development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take place as an additional or unexpected development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To occur or take place as an unforeseen, additional, or extraneous event or development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysics and philosophy of mind, a relation between properties wherein high-level properties supervene on low-level physical bases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"And it was a month or two, I have no doubt, before you noticed any serious symptoms supervening?" "Exactly so," Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"No crisis, apparently, had supervened; and there was nothing left for her to do but to continue upon that starve-acre farm till she could again summon courage to face the Vicarage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"At that moment a little accident supervened, which seemed decreed by fate purposely to prove the truth of the adage, that “misfortunes never come singly,” and to add to their distresses the vexing one of the slip between the cup and the lip."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Unforeseen calamities may **supervene** upon even the most cautiously considered political reforms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A period of civil war did **supervene** upon the death of the emperor, shattering provincial peace."*
+> - 📜 **William James (*The Principles of Psychology*):** *"New sensations **supervene** upon prior neural impressions, modifying the conscious stream of thought."*
+

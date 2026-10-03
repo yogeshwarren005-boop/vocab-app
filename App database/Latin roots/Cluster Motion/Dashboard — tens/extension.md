@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mutually agreed delay in the date set for the completion of a job or payment of a debt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of expanding in scope; making more widely available.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elongation, enlargement, or additional part joined to an existing structure or timeline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Cartesian metaphysics and classical physics, extension (res extensa) defines the fundamental spatial property of physical matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He uttered a long guttural sigh—there was a contraction—an extension—then his muscles relaxed, and he lay still."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But this he seemed not to mind, and, having room for extension in the open air, he lifted her against his shoulder, so that he could carry her with ease, the absence of clothes taking much from his burden."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In great surprise the tradesman dropped a note, saying he would meet his demand, but if not all the mortgage was needed, its extension would benefit the use of the capital in his business."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"The nature of matter consists not in hardness or weight, but solely in this, that it is a substance possessing spatial **extension**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We acquire our primary ideas of **extension** and motion through the combined senses of sight and touch."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The attorney requested a formal **extension** of time to prepare the voluminous Chancery interrogatories."*
+

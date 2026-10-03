@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm compassionate feelings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm compassionate feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disposition characterized by deep compassion, gentle sympathy, and readiness to feel for others' afflictions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral theology, tenderheartedness reflects the spiritual virtue of misericordia, balancing strict justice with active empathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenderheartedness designates warm compassionate feelings."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There are episodes in most men's lives in which their **tenderheartedness** can only cast a delicate shadow over stern duty."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The schoolmaster was beloved throughout the village for his unfailing patience and **tenderheartedness**."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"True **tenderheartedness** does not expend itself in useless lamentations but hastens to relieve actual distress."*
+

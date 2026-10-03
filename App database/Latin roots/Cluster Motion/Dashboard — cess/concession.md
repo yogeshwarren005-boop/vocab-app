@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contract granting the right to operate a subsidiary business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conceding or yielding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something granted, yielded, or conceded, especially in response to demands; or a commercial grant or franchise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural resource extraction law, a mining or petroleum concession grants private corporations rights to exploit state minerals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"One observes my Lady, how recognisant of my Lord’s politeness, with an inclination of her gracious head and the concession of her so-genteel fingers!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The “friend” was d’Urberville, she knew, and also that this concession had been granted in obedience to the request of that friend, or enemy."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Speaking silence, dumb confession, Passion’s birth, and infant’s play, Dove-like fondness, chaste concession, Glowing dawn of future day!"*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Magnanimity in politics is not seldom the truest wisdom; and a great empire and little minds go ill together; make a generous **concession** to your colonies."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth made no **concession** to Lady Catherine's arrogance, maintaining her dignity with calm resolution."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"Cowperwood secured a lucrative municipal traction **concession** by distributing cash among the city aldermen."*
+

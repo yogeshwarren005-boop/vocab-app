@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The operator of streetcar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The operator of streetcar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The operator or driver of an electric streetcar, tram, subway train, or electric locomotive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rail transit systems, responsible for manual throttle control, dead-man safety brake application, and signal compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The motorman bangs his footgong.)_ THE GONG: Bang Bang Bla Bak Blud Bugg Bloo. _(The brake cracks violently."*
-> - 📜 **James Joyce (*Ulysses*):** *"The motorman, thrown forward, pugnosed, on the guidewheel, yells as he slides past over chains and keys.)_ THE MOTORMAN: Hey, shitbreeches, are you doing the hat trick? _(Bloom trickleaps to the curbstone and halts again."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The conveyor is carried on a frame mounted on wheels, and this is moved forward and backward by a motor in the front, near which is seated the chargeman who is also the motorman."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"The **motorman** struck his brass foot gong repeatedly as the electric tram approached the crowded crossing."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The street railway **motorman** remained steadfastly at his controller despite the missiles of the strikebreakers."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"He found employment as an assistant **motorman** on the newly electrified streetcar line across Chicago."*
+

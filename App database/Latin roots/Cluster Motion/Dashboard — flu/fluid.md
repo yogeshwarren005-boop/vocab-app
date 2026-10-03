@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that is fluid at room temperature and pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuous amorphous matter that tends to flow and to conform to the outline of its container: a liquid or a gas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that has no fixed shape and yields easily to external pressure, such as a liquid or gas; or flowing smoothly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport phenomena and Navier-Stokes hydrodynamics, a Newtonian fluid exhibits a direct linear proportionality between shear stress and strain rate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Carefully I covered my rock cisterns with flat stones so that the sun’s rays might not evaporate the precious fluid and in precaution against some upspringing of wind in the night and the sudden flying of spray."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"An ancient Hindoo method of securing prosperity was to swallow a portion of the menstruous fluid."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The fluid was applied by means of a wisp of straw, and the person who discharged this salutary office went round the house in the direction of the sun."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"As the world was plastic and **fluid** in the hands of God, so it is ever to so much of his attributes as we bring."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The apothecary claimed he had extracted a miraculous medicinal **fluid** possessing restorative virtues."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The circulatory system ensures that the vital nutritive **fluid** reaches every extremity of the body."*
+

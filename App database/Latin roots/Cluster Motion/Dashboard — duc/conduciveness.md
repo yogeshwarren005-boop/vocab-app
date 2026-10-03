@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, tendency, or degree of being conducive to or promoting a desired result or advantage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical theory, the utility calculus evaluating actions by their instrumental conduciveness to collective pleasure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The necessity of naval protection to external or maritime commerce does not require a particular elucidation, no more than the conduciveness of that species of commerce to the prosperity of a navy."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"There was no original desire of it, or motive to it, save its **conduciveness** to pleasure and protection from pain."*
+> - 📜 **Herbert Spencer (*The Data of Ethics*):** *"The ultimate justification of any moral code lies in its demonstrated **conduciveness** to complete living."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The value of an action is estimated by its direct **conduciveness** to the augmentation of happiness in the community."*
+

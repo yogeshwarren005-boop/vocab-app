@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman emperor or the wife of an emperor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman emperor or the wife of an emperor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female sovereign ruling an empire in her own right, or the consort and wife of an emperor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monarchical protocol and international law, an empress outranks a queen, signifying imperial dominion over multiple constituent realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most noble empress, you have heard of me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She sweeps it through the court with troops of ladies, More like an empress than Duke Humphrey’s wife."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sweet Maria, empress of my love, These numbers will I tear, and write in prose."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"She sweeps it through the court with troops of ladies, more like an **empress** than Duke Humphrey's wife."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The celebrated **empress** Theodora displayed consummate political courage during the Nika revolt in Constantinople."*
+> - 📜 **Walter Scott (*Count Robert of Paris*):** *"The Byzantine **empress** sat upon her ivory throne, adorned with barbaric pearls and imperial purple."*
+

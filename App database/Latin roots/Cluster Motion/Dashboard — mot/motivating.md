@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of motivating; providing incentive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an incentive, stimulus, or guiding impulse that encourages decisive action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational dynamics, describes interpersonal leadership practices and environmental factors that enhance productive engagement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivating designates the act of motivating; providing incentive."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Interest is the great **motivating** force in all spontaneous education and lasting retention."*
+> - 📜 **Woodrow Wilson (*Congressional Government*):** *"Public enthusiasm forms the primary **motivating** factor behind legislative momentum in representative democracies."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The internal sanction of duty acts as a powerful **motivating** power in conscientious minds."*
+

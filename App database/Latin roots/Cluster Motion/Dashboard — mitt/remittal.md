@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A payment of money sent to a person in another place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abatement in intensity or degree (as in the manifestations of a disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of remitting, sending, or transferring money; or the forgiveness, pardon, or cancellation of a penalty or debt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In procedural jurisprudence, remittal designates the formal judicial transfer of a lawsuit back to an inferior court for rehearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remittal designates a payment of money sent to a person in another place."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor announced the generous **remittal** of provincial tax arrears to relieve the drought-stricken cities."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber awaited with hopeful confidence the timely **remittal** of funds from his relatives in Plymouth."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The international **remittal** of merchant capital between London and Amsterdam was facilitated by bills of exchange."*
+

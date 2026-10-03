@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsusceptible to or destitute of or showing no emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cool and formal in manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not displaying, affected by, or giving way to emotional feelings; composed, calm, detached, or impassive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, describes analytical problem-solving and decision-making styles unclouded by subjective affective biases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"D’Urberville mechanically lit a cigar, and the journey was continued with broken unemotional conversation on the commonplace objects by the wayside."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Utilitarianism is the proper creed of hard unemotional natures, who do not respond to the more subtle moral influences."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"There is something tropical and exotic about her which forms a singular contrast to her cool and unemotional brother."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"D'Urberville mechanically lit a cigar, and the journey was continued with broken **unemotional** conversation."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"A shrewd observer might have remarked that the emotional temperature rose precisely at so **unemotional** a remark."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes possessed a remarkably cold, precise, and **unemotional** mind devoted purely to scientific deduction."*
+

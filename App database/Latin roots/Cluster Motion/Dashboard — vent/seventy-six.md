@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being six more than seventy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being six more than seventy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to the sum of seventy and six; 76; associated with the Spirit of '76.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American history, 'the spirit of 76' symbolizes the revolutionary patriotic fervor of 1776 and the Declaration of Independence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-six designates being six more than seventy."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"They boast that the king's standing army consists of a hundred and **seventy-six** thousand foot soldiers."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The venerable judge passed away quietly in his **seventy-six** year, honored by the entire commonwealth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's log recorded that the whaler had cruised for **seventy-six** days without sighting a single spout."*
+

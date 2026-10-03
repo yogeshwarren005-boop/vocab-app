@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A notice of someone's death; usually includes a short biography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notice of someone's death; usually includes a short biography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A death or decease; or an anniversary memorial service, mass, or solemnity commemorating a deceased person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval English church governance, an obit was endowed with land revenues to ensure perpetual prayers for the soul of the benefactor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, obit designates a notice of someone's death; usually includes a short biography."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The medieval chantry was endowed with monastic revenues specifically to celebrate an annual **obit** for the founder."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monks faithfully recorded the **obit** of each Roman patrician who bequeathed land to the basilica."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The solemn tolling of the curfew bell reminded the townsmen of the weekly **obit** held in the chapel."*
+

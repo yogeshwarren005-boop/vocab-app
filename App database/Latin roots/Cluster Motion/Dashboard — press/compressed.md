@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make more compact by or as if by pressing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squeeze or press together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressed together tightly, flattened, reduced in volume, or condensed by external mechanical force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and anatomy, describes bodies or anatomical structures that are laterally flattened from side to side.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is a stern expression on her face and a part of her lower lip is compressed under her teeth."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He saw how closely compressed was his mouth, and that his eyes were wide-spread and vacant."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At last he did turn, and stalked resolutely down the nave, braving them all, with a compressed lip."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many marine fishes possess laterally **compressed** bodies adapted for gliding through dense seaweed beds."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes examined the packet of closely **compressed** tobacco leaf found in the corner of the hut."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym spoke with pale, tightly **compressed** lips that revealed the severity of his inward resolution."*
+

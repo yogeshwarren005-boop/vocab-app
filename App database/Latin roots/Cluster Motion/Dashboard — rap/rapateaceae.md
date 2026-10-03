@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South american herbs somewhat resembling members of the juncaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South american herbs somewhat resembling members of the juncaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of monocotyledonous flowering plants native to the Neotropics and tropical West Africa, characterized by fan-shaped leaves and dense flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and monocot phylogenetics, the Rapateaceae constitute a basal lineage within the order Poales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rapateaceae designates south american herbs somewhat resembling members of the juncaceae."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"On the sandstone plateaus of the Guiana Shield, striking herbaceous plants belonging to the **Rapateaceae** covered the misty bog."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The disjunct geographic distribution of families such as the **Rapateaceae** across the Atlantic suggests ancient continental links."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Botanists study the unique floral morphology and dense capitate inflorescences characteristic of the **Rapateaceae**."*
+

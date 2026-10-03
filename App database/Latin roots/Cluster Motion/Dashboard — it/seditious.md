@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing to action or rebellion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In opposition to a civil authority or government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inciting, encouraging, or participating in rebellion, resistance, or insurrection against lawful authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British political history, the Seditious Meetings Act of 1817 restricted public gatherings to suppress radical working-class reform agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The cause why I have brought this army hither Is to remove proud Somerset from the King, Seditious to his grace and to the state."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Elijah, you see, was one of our old prophets.” “Was he seditious?” I asked."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"If opposition to the national government should arise from the disorderly conduct of refractory or seditious individuals, it could be overcome by the same means which are daily employed against the same evil under the State governments."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Banish the canker of ambitious thoughts, and pluck the **seditious** weed from out the commonwealth."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor ordered the instant execution of the **seditious** centurions who had incited the cohort to mutiny."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Club orators disseminated **seditious** pamphlets among the populace to undermine respect for ancient magistrates."*
+

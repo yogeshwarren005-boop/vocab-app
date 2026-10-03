@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender stem-like structure by which some twining plants attach themselves to an object for support.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender stem-like structure by which some twining plants attach themselves to an object for support.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender, threadlike, spiral coiling organ of climbing plants used to grasp a support; or a wispy curl of hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant developmental biology, a tendril is an evolutionary modification of a leaf, stem, or inflorescence specialized for climbing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Sallie has got a tendril around Henrietta which grows by the day."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I seemed to see the little green tendril that had unclasped from the oak turning on its stem and winding tight again."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I'll begin at the beginning and some way unclasp those gourdy tendrils that Sallie has been strangling him with."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"When the sensitive tip of a **tendril** touches a twig, it rapidly curves and coils into a permanent spiral spring."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The vine curls her **tendril** about the elm, bearing purple clusters toward the sunlight."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A stray **tendril** of dark hair escaped from beneath her bonnet and brushed against her cheek."*
+

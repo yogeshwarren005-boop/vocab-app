@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not directly productive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not directly productive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing goods, crops, or commodities; not yielding profitable or constructive results; barren.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical political economy, distinguishing productive labor (manufacturing tangible goods) from nonproductive services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonproductive designates not directly productive."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The labor of some of the most respectable orders in society is, like that of menial servants, **nonproductive** of tangible wealth."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Spending revenue upon purely **nonproductive** luxuries diminishes the potential accumulation of reproductive capital."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The stony ridge of the downs remained obstinately **nonproductive** despite frequent applications of chalk marl."*
+

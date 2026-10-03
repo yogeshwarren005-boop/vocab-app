@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like or containing meat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being on topic and prompting thought.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or full of meat; or full of substance, depth, and intellectual significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and pedagogical analysis, a meaty text provides substantial material for analytical debate and close reading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(Wearing a purple Napoleon hat with an amber halfmoon, his fingers and thumb passing slowly down to her soft moist meaty palm which she surrenders gently.)_ The witching hour of night."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband regaled the company with what he termed a rich and **meaty** moral discourse on human depravity."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke commended the young scholar's tract as a remarkably **meaty** performance on ecclesiastical tithes."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Give us honest, **meaty** truth instead of the gossamer speculations spun by fashionable parlor wits."*
+

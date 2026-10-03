@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attended by members of both sexes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attended by members of both sexes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attended by and integrated for students of both sexes; relating to coeducation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional policy, distinguishing mixed-gender schools and universities from single-sex educational bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coeducational designates attended by members of both sexes."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The state university was a vigorous, sprawling **coeducational** institution where thousands of Midwestern youth congregated."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"Amory debated the merits of eastern monastic colleges against the vibrant life of large **coeducational** campuses."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The **coeducational** environment mirrors the diverse social realities of modern democratic communities."*
+

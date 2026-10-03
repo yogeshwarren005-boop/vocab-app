@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition of vocal music that is appropriate for opening church services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A composition of vocal music that is appropriate for opening church services.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psalm, hymn, or antiphon sung or chanted at the opening of a Christian liturgical service, especially the Mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Western plainchant history, the introit constitutes the first musical item of the Proper of the Mass, composed in neumatic style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"CISSY CAFFREY: _(Her voice soaring higher.)_ She has it, she got it, Wherever she put it, The leg of the duck. _(Stephen, flourishing the ashplant in his left hand, chants with joy the_ introit _for paschal time."*
+> - 📜 **George Eliot (*Romola*):** *"The organ burst into solemn melody as the choir intoned the **introit** for the festival of the Ascension."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The ancient stone walls of the abbey echoed the low Gregorian **introit** sung by the cloistered monks."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The abbot paused at the chancel steps until the concluding verse of the **introit** had died away in the vaulted roof."*
+

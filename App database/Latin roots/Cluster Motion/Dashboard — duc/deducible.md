@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being deduced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being deduced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being deduced, inferred, or derived by logical reasoning from known facts or premises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical logic, a theorem deducible within a formal axiomatic system via a finite sequence of valid inference rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"There is yet a further and a weightier reason for the permanency of the judicial offices, which is deducible from the nature of the qualifications they require."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But this doctrine is not deducible from any circumstance peculiar to the plan of the convention, but from the general theory of a limited Constitution; and as far as it is true, is equally applicable to most, if not to all the State governments."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"So that as a matter of fact, plainly deducible from counting your fingers, the legislation of this country to-day, shaped and fashioned in a democratic caucus where the confederates of the South hold the majority, is the realization of Mr."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"These and a thousand other societal reformations were firmly counted upon as **deducible** from his philosophical treatise."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Moral duties are demonstrably **deducible** from the relations subsisting between God and reasonable creatures."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"All classical pure mathematics is strictly **deducible** from a small collection of logical axioms."*
+

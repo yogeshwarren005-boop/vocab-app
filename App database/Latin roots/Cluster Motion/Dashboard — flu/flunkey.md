@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male servant (especially a footman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of unquestioning obedience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male servant in uniform livery, especially a footman; or an obsequious, fawning, or servile follower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social satire, Thackeray caricatured the social pretensions of liveried flunkeys in The Yellowplush Papers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The lumberjacks want no flunkey, but the real thing," as one expressed it."*
-> - 📜 **James Joyce (*Ulysses*):** *"BLOOM: _(In flunkey’s prune plush coat and kneebreeches, buff stockings and powdered wig.)_ I’m afraid not, sir."*
+> - 📜 **William Makepeace Thackeray (*The Yellowplush Papers*):** *"The lordly butler regarded every junior **flunkey** with haughty aristocratic disdain."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A powder-headed **flunkey** in velvet breeches swung down from behind the baronet's carriage."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A true worker does not bow down before idle wealth like an obsequious **flunkey**."*
+

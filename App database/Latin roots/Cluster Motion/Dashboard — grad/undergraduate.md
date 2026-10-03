@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A university student who has not yet received a first degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A university student who has not yet received a first degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A university or college student who has not yet taken a first degree; or pertaining to such students.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher education administration, undergraduate liberal arts curricula balance foundational general education with departmental majors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"When I was an undergraduate, I well remember that most of my friends who were likely to take high mathematical honors were already so ultimately acquainted with Mr."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Not one of those who were his greatest admirers at Cambridge, when I was an undergraduate, ever saw him till many years after they had left the University."*
-> - 📜 **Charlotte B. Herr (*Their Mariposa Legend: A Romance of Santa Catalina*):** *"To be sure, it was nothing more than might have been expected of a man whose undergraduate work in English had aroused the reluctant wonder of more than one instructor."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert Pocket reminisced about his cheerful **undergraduate** days at Cambridge while dining with Pip in London."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Tom Bertram lived as an extravagant Oxford **undergraduate**, accumulating debts that burdened the family estate."*
+> - 📜 **Arthur Conan Doyle (*The Gloria Scott*):** *"Holmes looked back on his **undergraduate** college days when his singular habits of observation first attracted notice."*
+

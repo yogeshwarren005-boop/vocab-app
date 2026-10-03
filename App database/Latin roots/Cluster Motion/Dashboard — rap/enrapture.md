@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold spellbound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold spellbound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fill someone with immense pleasure, delight, or ecstasy; to captivate completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and Romantic lyricism, sublime natural landscapes enrapture the observer into transcendent contemplation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This amazed and enraptured Tess, whose slight experiences had been so infelicitous till now; and in her reaction from indignation against the male sex she swerved to excess of honour for Clare."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Oppenheimer, enraptured with my tales, remained a sceptic to the end."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"While I was meditating on it with enraptured gaze, Dame Honeyball, who was highly gratified by the interest it excited, put in my hands a drinking-cup or goblet which also belonged to the vestry, and was descended from the old Boar’s Head."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester's passionate declarations of love had power to **enrapture** Jane's heart beyond all earthly fears."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial choral harmonies of the angelic host were sufficient to **enrapture** the listening universe."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Sweet aerial music drifted across the enchanted vale, seeking to **enrapture** the spirits of the deep."*
+

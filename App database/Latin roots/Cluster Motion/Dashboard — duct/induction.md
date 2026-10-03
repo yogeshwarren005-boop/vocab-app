@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal entry into an organization or position or office.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical phenomenon whereby an electromotive force (emf) is generated in a closed circuit by a change in the flow of current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of inducting; or reasoning from observed specific cases to establish a general law or principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and electromagnetism, Faraday's law of electromagnetic induction states that a time-varying magnetic flux induces an electric field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These promises are fair, the parties sure, And our induction full of prosperous hope."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A dire induction am I witness to, And will to France, hoping the consequence Will prove as bitter, black, and tragical."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"So little are instinctive guesses the fruit of a legitimate induction that, at this moment, as he stood with the door in his hand, Troy never once thought of Fanny in connection with what he saw."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"These promises are fair, the parties sure, and our **induction** full of prosperous hope."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The true method of science begins with experience and ascends by methodical **induction** to universal axioms."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The movement of a permanent bar magnet within a copper helix causes instantaneous electrical **induction**."*
+

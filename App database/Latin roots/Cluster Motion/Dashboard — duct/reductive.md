@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or causing diminution or curtailment;  - r.h.rovere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or causing diminution or curtailment;  - r.h.rovere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to reduce, simplify, or minimize; or oversimplifying complex issues by ignoring nuances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic synthesis, reductive amination converts a carbonyl group into an amine via an imine intermediate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductive designates characterized by or causing diminution or curtailment;  - r.h.rovere."*
+> - 📜 **George Orwell (*Collected Essays*):** *"The political pamphlet presented a crude and **reductive** picture of the social crisis."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"A purely **reductive** view of human motivation reduces all historic heroism to economic self-interest."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Philistine criticism adopted a narrow, **reductive** standard that dismissed artistic refinement as useless."*
+

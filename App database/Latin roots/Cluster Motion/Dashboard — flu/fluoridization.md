@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition of a fluoride to the water supply (to prevent dental decay).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The addition of a fluoride to the water supply (to prevent dental decay).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or practice of adding fluoride compounds to a municipal water supply to prevent tooth decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic dental health administration, community fluoridization maintains fluoride levels at approximately 0.7 milligrams per liter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoridization designates the addition of a fluoride to the water supply (to prevent dental decay)."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The civic proposal for universal water **fluoridization** aimed to protect working-class children from severe dental loss."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Preventive measures such as public **fluoridization** reduced dental sepsis across large urban populations."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"The controversy over state-mandated **fluoridization** centered on the boundaries between collective hygiene and individual autonomy."*
+

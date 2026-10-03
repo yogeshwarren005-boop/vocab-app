@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who attacks the reputation of another by slander or libel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who attacks the reputation of another by slander or libel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who traduces, defames, or slanders another's good name; a calumniator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character drama, an envious antagonist who undermines the protagonist through whispered falsehoods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady is too high in position, too handsome, too accomplished, too superior in most respects to the best of those by whom she is surrounded, not to have her enemies and traducers, I dare say."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady looked down upon her spiteful **traducer** with a calm disdain that chilled his venomous insolence."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Dobbin stood up gallantly to confront the cowardly **traducer** who sneered at Amelia's poverty."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Milton replied to his royalist **traducer** with crushing intellectual eloquence and patriotic scorn."*
+

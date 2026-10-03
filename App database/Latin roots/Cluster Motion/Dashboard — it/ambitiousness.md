@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong drive for success.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong drive for success.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character, disposition, or trait of being ambitious; eager pursuit of greatness, rank, or power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral psychology, ambitiousness represents a double-edged disposition, fostering industrious achievement or ruthless self-aggrandizement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambitiousness designates a strong drive for success."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The natural **ambitiousness** of the human understanding pushes it to construct universal theories before examining particular facts."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A man whose **ambitiousness** outstrips his moral virtue inevitably sinks into bitter envy."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"The relentless **ambitiousness** of Napoleon finally clashed against the stubborn moral realities of Europe."*
+

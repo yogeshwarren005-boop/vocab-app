@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intravenous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intravenous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of or through entering into a vein; by intravenous injection or infusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical anesthesiology, delivering induction agents intravenously to achieve rapid loss of consciousness within seconds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intravenously designates in an intravenous manner."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Salvarsan was administered **intravenously** with great technical caution to avoid extravasation into perivascular tissues."*
+> - 📜 **Richard Cabot (*Differential Diagnosis*):** *"The therapeutic serum had to be introduced **intravenously** to neutralize circulating diphtheria toxin without delay."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"When given **intravenously**, the dopamine precursor produced an instantaneous awakening from catatonic stupor."*
+

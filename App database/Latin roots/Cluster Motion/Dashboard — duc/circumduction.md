@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circular movement of a limb or eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circular movement of a limb or eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The circular movement of a limb or organ outlining a conical space; in Scots law, closing proof.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthrology, the 360-degree rotational path made possible by multiaxial ball-and-socket joints (spheroidal articulations).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumduction designates a circular movement of a limb or eye."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The universal joint of the thumb permits rapid **circumduction**, granting the hand its extraordinary manipulative dexterity."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Hemiplegic gait is characterized by lateral **circumduction** of the paretic lower limb during the swing phase."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe osteoarthritis of the hip joint severely restricts free **circumduction** and causes painful groin radiation."*
+

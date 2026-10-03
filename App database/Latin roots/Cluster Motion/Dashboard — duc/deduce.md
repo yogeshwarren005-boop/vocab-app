@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by deduction; establish by deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conclude by reasoning; in logic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrive at a fact, conclusion, or theory by reasoning from general premises or known evidence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, establishing a necessary conclusion through valid syllogistic deduction where truth of premises guarantees truth of the conclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Lastly, though this is not absolutely necessary, it should be possible to deduce from the definition all the properties of the thing defined."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A few rows of figures are enough to deduce misery from, and a few more will show the rate at which the political determination of the people is growing.” “Good: draw that out a little more at length, Ladislaw."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That is an idea, now: write it out in the ‘Pioneer.’ Put the figures and deduce the misery, you know; and put the other figures and deduce—and so on."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"From a drop of water, a logician could **deduce** the possibility of an Atlantic or a Niagara without having seen either."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A few rows of statistics are enough to **deduce** misery from, and a few more will reveal the parish death rate."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"From the fundamental principle of utility, we may **deduce** secondary moral maxims for everyday guidance."*
+

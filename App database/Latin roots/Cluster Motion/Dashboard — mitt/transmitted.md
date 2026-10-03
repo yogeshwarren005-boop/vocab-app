@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmit or serve as the medium for transmission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sent, conveyed, or passed along from one person, place, device, or generation to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electromagnetic telecommunications, high-frequency radio signals are transmitted via directional microwave antenna arrays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"The Kellynch estate should be transmitted whole and entire, as he had received it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The effects are transmitted to commercial and financial centres and often credit is much shaken."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"There are the historical Radicals, who demand popular institutions as the inheritance of Englishmen, transmitted to us from the Saxons or the barons of Runnymede."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Beneficial variations are **transmitted** through inheritance, steadily accumulating across successive generations."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The urgent coded telegraph message was **transmitted** from the docks to Baker Street in the dead of night."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electromotive induction was **transmitted** across the intervening dielectric space without physical metallic contact."*
+

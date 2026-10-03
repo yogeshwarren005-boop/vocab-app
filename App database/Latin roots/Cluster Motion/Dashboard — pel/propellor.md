@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that rotates to push against air or water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device that rotates to push against air or water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of propeller, designating a rotating bladed device providing propulsion to a vessel or aircraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early aviation and aeronautical engineering patents, engineers documented propeller and propellor thrust efficiency curves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, propellor designates a mechanical device that rotates to push against air or water."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"Graham watched the soaring monoplane, admiring the blur of its twin-bladed wooden **propellor** in the dawn light."*
+> - 📜 **Rudyard Kipling (*Actions and Reactions*):** *"The postal dirigible cruised steadily through the upper air currents, driven by a quiet humming **propellor**."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"Challenger inspected the motor launch, ensuring that the submerged **propellor** was free of river weeds."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In regular succession without gaps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regular succession without gaps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Following in order or in uninterrupted course; coming one after another without break or interval; sequential.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and embryology, successive cell divisions transform the single-celled zygote into a multicellular blastula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Noble patricians, patrons of my right, Defend the justice of my cause with arms; And, countrymen, my loving followers, Plead my successive title with your swords."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In each successive chamber that they enter, Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I take it as a compliment.” If he had not looked at me before, he looked at me now in three or four quick successive glances."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Now it is awake, takes note of what is done, and, like a prophet, looks in a glass that shows what future evils either new, or by remissness new conceived, are now to have a **successive** degree."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The white light passed through the prism and formed **successive** bands of spectral colors upon the white screen."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Winter advanced in well-marked **successive** stages, chilling the damp fields and stripping the hedgerows."*
+

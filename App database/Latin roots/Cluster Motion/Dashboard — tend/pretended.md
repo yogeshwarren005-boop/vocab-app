@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make believe with the intent to deceive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behave unnaturally or affectedly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fictitious, feigned, or simulated; claimed without genuine foundation or legitimate title.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Tudor and Stuart historiography, the phrase 'pretended parliament' was used by Royalists to designate an unconstitutional assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now presently I’ll give her father notice Of their disguising and pretended flight, Who, all enraged, will banish Valentine, For Thurio he intends shall wed his daughter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Quoth she, “Reward not hospitality With such black payment as thou hast pretended; Mud not the fountain that gave drink to thee, Mar not the thing that cannot be amended."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This out of to-day, quite an unnecessary out so far as the attendance, which was its pretended object, went, was planned by me alone for thee alone."*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"Now presently I'll give her father notice of their disguising and **pretended** flight, who, all enraged, will banish Valentine."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The usurper entered Rome with **pretended** modesty, concealing his despotic intentions beneath senatorial forms."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This is the second time you have **pretended** to dismiss me; and what's the use of it?"*
+

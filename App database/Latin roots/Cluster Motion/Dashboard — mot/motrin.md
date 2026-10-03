@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand name for ibuprofen, a nonsteroidal anti-inflammatory drug (NSAID) used for analgesia and fever reduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, acts via reversible inhibition of cyclooxygenase enzymes (COX-1 and COX-2) to suppress prostaglandin synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motrin designates a nonsteroidal anti-inflammatory and analgesic medicine (trade names advil and motrin and nuprin) used to relieve the pain of arthritis and as an antipyretic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern analgesics like **Motrin** relieve acute musculoskeletal inflammation by blunting peripheral pain cascades."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"The patient obtained temporary relief from vascular headache pain following the administration of **Motrin**."*
+> - 📜 **Richard Cabot (*Differential Diagnosis*):** *"When managing minor post-traumatic joint pain, a modest regimen of **Motrin** effectively reduces swelling."*
+

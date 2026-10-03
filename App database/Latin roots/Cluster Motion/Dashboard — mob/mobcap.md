@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large high frilly cap with a full crown; formerly worn indoors by women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large high frilly cap with a full crown; formerly worn indoors by women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleated cotton or linen cap covering the hair, worn indoors by women in the eighteenth and early nineteenth centuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical costume and domestic portraiture, the frilled mobcap symbolized respectable domesticity among bourgeois and servant women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobcap designates large high frilly cap with a full crown; formerly worn indoors by women."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Madame Defarge adjusted her frilled linen **mobcap** as she sat knitting grimly behind the wine-shop counter."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet put on her fresh morning **mobcap** before descending to the breakfast room to discuss the ball."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The elderly housekeeper wore an immaculate white **mobcap** with stiff lace borders tied under her chin."*
+

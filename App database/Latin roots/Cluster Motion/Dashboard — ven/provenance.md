@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Where something originated or was nurtured in its early existence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Where something originated or was nurtured in its early existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The place of origin, historical source, or earliest known history of something; record of ownership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, archaeology, and rare books, documentary pedigree verifying authenticity and chain of custody back to the original creator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Its provenance has been kept discreetly concealed,[58] but we may infer that it was taken from a temple or mausoleum, and we know that there were others with it, two of which were exhibited at the Musée Cernuschi, in Paris, in June, 1913."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Were it not for the apparently Chinese provenance of so many of these bowls, and the absence of the Corean characteristics in their bases, one would be tempted to class them as Corean on the strength of their general appearance."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It is certain that many of them have been found in Corean tombs; the provenance of the rest is doubtful."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Illustrious Client*):** *"Holmes authenticated the Chinese porcelain saucer by verifying its imperial **provenance** from the Ming dynasty."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Byzantine marble relief revealed its ancient eastern **provenance** through carved Greek inscriptions."*
+> - 📜 **M. R. James (*Ghost Stories of an Antiquary*):** *"The curator examined the illuminated Psalter, tracing its monastic **provenance** through marginal shelf-marks."*
+

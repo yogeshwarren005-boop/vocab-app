@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: March aggressively into another's territory by military force for the purposes of conquest and occupation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To intrude upon, infringe, encroach on, violate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Entering a country, territory, or biological space forcefully and aggressively as an enemy or intrusive presence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics, sustained supply line security dictates the operational velocity of an invading army.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Some of Rouncewell’s hands have just knocked off for dinner-time and seem to be invading the whole town."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"These were surrounded by ornamental shrubbery, and it was to keep the sheep from invading this and the adjacent flower-borders that the services of the herd-boy were required."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Isabel's cheeks flew their scarlet flag before the invading enemy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Gothic chieftain led his **invading** host through the undefended passes of the Julian Alps."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The imperial fleet stood ready to intercept any **invading** naval armada attempting a channel crossing."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A dark presentiment of disaster pursued me, **invading** my quiet thoughts even in sleep."*
+

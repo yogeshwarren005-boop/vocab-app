@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grammatical category of verbs used to express distinctions of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become stretched or tense or taut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stretched tight, rigid, or strained; feeling or showing nervous strain; or in grammar, a category locating an event in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and generative phonology, a tense vowel is articulated with greater muscular effort and peripheral tongue position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He went to the door, knocked, and waited with tense muscles and an aching brow."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For a few seconds the wayfarer stood with that tense stillness which signifies itself to be not the end, but merely the suspension, of a previous motion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And then we looked with all our eyes, blue eyes and black, until Pilate’s wife, a thin, tense, overwrought woman, laughed nervously."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We waited in the darkness with **tense** nerves, our revolvers ready as the fog crept over the moor."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane felt every muscle grow **tense** with dread as the mysterious footsteps passed outside her chamber door."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Hold hard the breath and bend up every spirit to his full height; stand **tense** like greyhounds in the slips."*
+

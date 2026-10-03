@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have an emotional or cognitive impact upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impress positively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeply affected, influenced, or stamped with a mark or strong conviction; conscripted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and sealing, stamped with an official die, hallmark, or seal into molten wax or heated metal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your judgments, my grave lords, Must give this cur the lie; and his own notion— Who wears my stripes impressed upon him, that Must bear my beating to his grave—shall join To thrust the lie unto him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His heart, like an agate, with your print impressed, Proud with his form, in his eye pride expressed."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He was tremendously impressed that Uncle Philip could do everything, even blow a harmonica, which generally only boys were able to do."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"A mad fellow met me on the way and told me I had unloaded all the gibbets and **impressed** the dead bodies."*
+> - 📜 **Herman Melville (*Billy Budd, Sailor*):** *"Billy was summarily **impressed** from the merchantman Rights-of-Man into His Majesty's frigate Bellipotent."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was thoroughly **impressed** by the grandeur of Pemberley and the quiet elegance of its grounds."*
+

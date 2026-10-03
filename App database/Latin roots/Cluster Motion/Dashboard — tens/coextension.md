@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of extension or duration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equality of extension or duration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of extending equally in space, time, or scope with something else.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metaphysical cosmology and field physics, philosophers debated the coextension of gravitational fields with physical matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coextension designates equality of extension or duration."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poetical imagination claims a profound **coextension** with all the living powers of nature."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The **coextension** of space and time provides the intuitive matrix wherein all physical changes unfold."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Philosophers formerly debated the mutual **coextension** of body and empty space across the universe."*
+

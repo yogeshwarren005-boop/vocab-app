@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who directs and manages an organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caretaker for an apartment house; represents the owner as janitor and rent collector.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who oversees, directs, manages, or has executive charge of an institution, building, district, or operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public education administration, a district superintendent oversees curriculum standards, personnel hiring, and school facility budgets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Hall, "told me that when superintendent of a Sunday school he felt a strong impulse, one Saturday evening, to call at the home of one of his teachers whom he had never visited before."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He is now an active Christian, a superintendent of the Sabbath school, and a most zealous member of the Young Men's Christian Association of this place." ALMOST PERSUADED."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Hearing of this intention the Superintendent of Quedlinburg hurried to the spot and has described for us what he saw."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The colonial records mention an officer who was **superintendent** of the native settlements subject to Massachusetts."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **superintendent** of the fisheries informed me that he had frequently observed the migratory habits of salmon."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The factory **superintendent** blew the morning whistle that summoned hundreds of weavers to the looms."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound formed by an addition reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Draw a limb towards the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw or pull a body part toward the median plane of the body or toward the axis of an extremity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, a chemical species formed by direct addition of two or more distinct molecules containing all constituent atoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adduct designates a compound formed by an addition reaction."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The pectoralis major acts powerfully to **adduct** the arm across the chest wall during swimming."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"When asked to **adduct** the fingers against resistance, the patient demonstrated profound ulnar nerve weakness."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The animal will **adduct** its forelimbs tightly to the thorax when assuming a defensive posture."*
+

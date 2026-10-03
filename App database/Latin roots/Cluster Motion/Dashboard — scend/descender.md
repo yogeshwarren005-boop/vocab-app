@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who descends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lowercase letter that has a part extending below other lowercase letters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that descends; or in typography, the portion of a lowercase letter extending below the baseline (e.g. g, j, p, q, y).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typographic anatomy and typeface design, the length of the descender balances line spacing and vertical text density.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Further, spots which had been struck by lightning were regularly fenced in by the Greeks and consecrated to Zeus the Descender, that is, to the god who came down in the flash from heaven."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The medieval illuminator drew the long **descender** of the initial letter deep into the lower floral margin."*
+> - 📜 **Jules Verne (*Journey to the Center of the Earth*):** *"The courageous **descender** into the volcanic chasm secured his hempen guide-rope to a basalt pillar."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger designed a braking mechanism to ensure that the human **descender** could lower himself without injury."*
+

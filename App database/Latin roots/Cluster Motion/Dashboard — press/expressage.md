@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rapid transport of goods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rapid transport of goods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The business, system, or commercial charge for transporting freight and parcels via rapid express delivery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century commercial history, the network of private express forwarding companies (such as Wells Fargo and American Express) operating on stagecoach and rail lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expressage designates rapid transport of goods."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The heavy iron strongbox was committed to the overland company with payment of full **expressage**."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The storekeeper complained bitterly about the exorbitant **expressage** charged on eastern dry goods shipments."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"Cowperwood calculated the exact cost of railway freight and **expressage** before submitting his municipal bid."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowing inward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flowing inward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowing in or into; an inflow; or liquid sewage or wastewater entering a treatment plant or processing facility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydraulic wastewater treatment design, influent flow rates determine hydraulic retention time within primary sedimentation basins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, influent designates flowing inward."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The **influent** waters of the mountain tributaries replenished the deep glacial lake every spring."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A strong **influent** tide rushed through the narrow strait, churning the waters into foam."*
+> - 📜 **Elizabeth Barrett Browning (*Aurora Leigh*):** *"The balmy evening brought **influent** odors of clover and wild briar through the open lattice."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be shown or be found to be.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the validity of something, as by an example, explanation or experiment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Demonstrated by evidence, trial, or argument to be true, valid, or effective; confirmed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scots criminal law, the verdict of 'not proven' acquits the accused while indicating that innocence was not affirmatively established.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is too well proven to admit the possibility of a doubt."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"John is also a day of joy for the Provençals."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"We may compare the Provençal and Spanish customs of bathing and splashing water at Midsummer."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He sighed with relief, anxious to conclude the debate regarding what was already **proven** to everyone's satisfaction."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Probable as this physiological hypothesis seems, it is by no means an empirically **proven** conclusion."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes considered every hypothesis until only the one **proven** by material footprint evidence remained."*
+

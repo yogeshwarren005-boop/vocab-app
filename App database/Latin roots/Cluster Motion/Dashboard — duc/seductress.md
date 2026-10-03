@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who seduces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who seduces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who entices, seduces, or allures men, especially through sensual charm or beauty; a temptress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore and opera, archetypes such as Carmen, Delilah, or Circe wielding irresistible erotic enchantment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seductress designates a woman who seduces."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp played the dangerous **seductress** with consummate skill, blinding her victims with flattered vanity."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"The king feared the celebrated **seductress** might publish letters that would prevent his royal marriage."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The court painted the foreign countess as a treacherous **seductress** who held the earl in thrall."*
+

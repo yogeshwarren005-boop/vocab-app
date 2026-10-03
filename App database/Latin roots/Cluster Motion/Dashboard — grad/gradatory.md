@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking place by degrees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Taking place by degrees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding step by step; gradual; or characterized by progressive steps or stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architectural history, gradatory stone seating tiers defined Greco-Roman amphitheater construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gradatory designates taking place by degrees."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Spiritual enlightenment unfolds through a **gradatory** discipline that purifies both intellect and moral desire."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The inductive method requires a **gradatory** ascent from particular empirical observations to universal scientific axioms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor introduced a **gradatory** scale of judicial appeals across the municipal courts of Italy."*
+

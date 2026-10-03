@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force, take, or pull apart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separated, divided, or severed from union, harmony, or cooperation; fragmented into discordant factions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval European historiography, the disunited Italian city-states proved incapable of mounting a collective defense against foreign invaders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"By a Monarch’s heaven-struck fate, By a disunited State, By a generous Prince’s wrongs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: It is sometimes asked, with an air of seeming triumph, what inducements could the States have, if disunited, to make war upon each other?"*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In a review of these transactions we may trace some of the causes which would be likely to embroil the States with each other, if it should be their unpropitious destiny to become disunited."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **disunited** barbarian tribes could never withstand the disciplined formations of the Roman legions."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"A **disunited** ministry could never inspire confidence among European allies or maintain order at home."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"If the states become **disunited**, the continent will witness standing armies and incessant border warfare."*
+

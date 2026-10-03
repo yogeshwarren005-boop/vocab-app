@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: True cedars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True cedars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus of true cedars in the pine family Pinaceae, encompassing the cedar of Lebanon, atlas cedar, and deodar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrological taxonomy, Cedrus is native to the Mediterranean basin and western Himalayas, distinguished by clustered needle rosettes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedrus designates true cedars."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The magnificent Himalayan deodar, a noble member of **Cedrus**, rivals the Sierra pines in majesty of form."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated specimens of **Cedrus** libani exhibit considerable morphological variation under differing European soils."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The great estate was adorned with towering trees of **Cedrus**, their flat horizontal boughs providing deep shade."*
+

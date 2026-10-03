@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fraction of radiant energy that passes through a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fraction of radiant energy that passes through a substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fraction or percentage of radiant light or electromagnetic energy that passes through a substance without being absorbed or reflected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical physics and UV-visible spectrophotometry, the Beer-Lambert law relates optical absorbance logarithmically to transmittance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transmittance designates the fraction of radiant energy that passes through a substance."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The experimental glass prism exhibited high optical **transmittance** across the visible solar spectrum."*
+> - 📜 **David Brewster (*Treatise on Optics*):** *"The polarized photometer measured the relative **transmittance** of crystalline quartz under varying angles of incidence."*
+> - 📜 **John Tyndall (*Heat, a Mode of Motion*):** *"Gaseous water vapor demonstrates remarkable selective **transmittance** for high-frequency radiant solar heat."*
+

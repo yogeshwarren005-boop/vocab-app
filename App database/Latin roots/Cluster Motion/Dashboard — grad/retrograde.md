@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move backward in an orbit, of celestial bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move in a direction contrary to the usual one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directed or moving backward; declining to an earlier, inferior, or less developed state; inverse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, retrograde planetary motion describes the apparent westward looping movement of planets against background constellations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When he was retrograde, I think rather."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For your intent In going back to school in Wittenberg, It is most retrograde to our desire: And we beseech you bend you to remain Here in the cheer and comfort of our eye, Our chiefest courtier, cousin, and our son."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But, contrary to my expectations, the _Nautilus_ took a decided retrograde motion."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For your intent in going back to school in Wittenberg, it is most **retrograde** to our desire."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain parasitic lineages undergo **retrograde** development, losing sensory organs and locomotion possessed by ancestors."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The reign of the tyrant witnessed a **retrograde** collapse in constitutional liberties and imperial security."*
+

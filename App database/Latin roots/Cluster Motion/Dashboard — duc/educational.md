@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the process of education.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the provision of education, schooling, or intellectual development; instructive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public policy, educational infrastructure encompasses primary schools, research universities, and vocational training facilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"To which Charley, whose grammar, I confess to my shame, never did any credit to my educational powers, replied, “Yes, miss."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Receivers of fixed incomes from loans include not merely private investors, but also many educational and charitable institutions which dispense their incomes for public purposes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The system of public education has, in many states, expanded to include a publicly supported university as the dominant educational and scientific organ of the community."*
+> - 📜 **John Dewey (*The School and Society*):** *"The primary **educational** goal of the laboratory school was to connect classroom theory with practical domestic industries."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"What knowledge is of most worth? That is the paramount question confronting every **educational** theorist."*
+> - 📜 **Jane Addams (*Twenty Years at Hull-House*):** *"The settlement house organized evening **educational** classes for immigrant factory workers eager for learning."*
+

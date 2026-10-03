@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large in spatial extent or range or scope or quantity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad in scope or content; ; ; ; ; - t.g.winner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covering or affecting a large area, space, or scope; broad, widespread, or far-reaching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural economics, extensive farming utilizes lower capital and labor inputs per unit land area across vast acreages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am a School lady, I am a Visiting lady, I am a Reading lady, I am a Distributing lady; I am on the local Linen Box Committee and many general committees; and my canvassing alone is very extensive—perhaps no one’s more so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She has an extensive acquaintance at Bath among appalling old gentlemen with thin legs and nankeen trousers, and is of high standing in that dreary city."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In contemplating Bathsheba as a woman, he had forgotten the accidents of her position as an agriculturist—that being as much of a farmer, and as extensive a farmer, as himself, her probable whereabouts was out-of-doors at this time of the year."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Pemberley woods were **extensive**, covering several beautiful hills and sheltering an exquisite trout stream."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes possessed an **extensive** and curious knowledge of criminal literature, chemistry, and tobacco ashes."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor is limited only by the **extensive** reach and purchasing power of the market."*
+

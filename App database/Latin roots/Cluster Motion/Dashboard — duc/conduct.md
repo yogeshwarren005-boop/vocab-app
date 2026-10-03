@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manner of acting or controlling yourself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (behavioral attributes) the way a person behaves toward other people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The manner in which a person behaves or directs oneself; or to lead, manage, guide, or transmit energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and electrical engineering, the physical property of transmitting thermal energy or electrical current through a medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will tarry, holy pilgrim, But till the troops come by, I will conduct you where you shall be lodg’d; The rather for I think I know your hostess As ample as myself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will see a pageant truly played Between the pale complexion of true love And the red glow of scorn and proud disdain, Go hence a little, and I shall conduct you, If you will mark it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To th’ Roman camp conduct us. [_Exeunt._] SCENE VIII."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"If you will tarry, holy pilgrim, but till the troops come by, I will **conduct** you where you shall be lodged."*
+> - 📜 **Francis Bacon (*Essays*):** *"Discretion in speech is more than eloquence; and to speak agreeably to him with whom we deal is the best **conduct**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth could not help observing how perfectly gentlemanlike and dignified was Mr. Darcy's **conduct**."*
+

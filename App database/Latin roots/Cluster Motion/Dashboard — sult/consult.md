@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get or ask advice from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seek information from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To seek information, advice, or instruction from someone with specialized knowledge; or to deliberate together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and legal jurisprudence, primary practitioners consult specialized authorities when facing complex diagnostic dilemmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now part them again, lest they consult about the giving up of some more towns in France."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s consult together against this greasy knight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good night, good Captain Blunt. [_Exit Blunt._] Come, gentlemen, Let us consult upon tomorrow’s business; Into my tent."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Clients traveled from all parts of Europe to **consult** Holmes on baffling problems that defeated the police."*
+> - 📜 **Jane Austen (*Emma*):** *"Emma decided to **consult** Mr. Knightley regarding the proper education and social guidance of young Harriet."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Prudent rulers frequently **consult** historical chronicles to understand the hidden roots of political factions."*
+

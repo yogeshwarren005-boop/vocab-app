@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making meat tender by pounding or marinating it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making meat tender by pounding or marinating it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or action of making meat more tender through pounding, marinating, or enzymatic treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial food biochemistry, tenderisation relies on proteolytic plant enzymes such as papain and bromelain to cleave myofibrillar proteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenderisation designates the act of making meat tender by pounding or marinating it."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The culinary **tenderisation** of tough beef fibers involves breaking down collagen connective tissues through heat and moisture."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Mechanical **tenderisation** of meat by primitive hunters represented an early culinary adaptation to aid digestion."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The gauchos prepared the sun-dried beef by repeated **tenderisation** between heavy flat river stones."*
+

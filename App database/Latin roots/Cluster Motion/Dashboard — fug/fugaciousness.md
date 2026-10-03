@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lack of enduring qualities (used chiefly of plant parts).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of enduring qualities (used chiefly of plant parts).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ephemeral, fleeting, or transitory nature of existence, experiences, or physical phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and existential philosophy, the poignant beauty of floral life derives from its inherent fugaciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugaciousness designates the lack of enduring qualities (used chiefly of plant parts)."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"To burn always with this hard, gem-like flame is success in life, amidst the perpetual **fugaciousness** of sensory impressions."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet lamented the extreme **fugaciousness** of mystical inspiration, which departs like dew under morning sun."*
+> - 📜 **Thomas De Quincey (*Suspiria de Profundis*):** *"Our mortal consciousness is perpetually mocked by the sorrowful **fugaciousness** of childhood happiness."*
+

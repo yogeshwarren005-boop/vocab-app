@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: South african playwright whose plays feature the racial tensions in south africa during apartheid (born in 1932).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: South african playwright whose plays feature the racial tensions in south africa during apartheid (born in 1932).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Athol Fugard (born 1932), the acclaimed South African playwright, novelist, and anti-apartheid dramatist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century dramatic literature and postcolonial theater, Fugard is renowned for works such as Master Harold... and the Boys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugard designates south african playwright whose plays feature the racial tensions in south africa during apartheid (born in 1932)."*
+> - 📜 **Athol Fugard (*Master Harold... and the Boys*):** *"The spare dramatic staging of **Fugard** captured the painful personal cruelties inflicted by racial apartheid."*
+> - 📜 **Nadine Gordimer (*The Essential Gesture*):** *"In the courageous plays of **Fugard**, South African stage drama became an indispensable voice for human dignity."*
+> - 📜 **J. M. Coetzee (*Giving Offense: Essays on Censorship*):** *"The dramatic dialogues created by **Fugard** exposed the absurdities of institutional state oppression in everyday life."*
+

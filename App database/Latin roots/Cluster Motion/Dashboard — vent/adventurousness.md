@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being adventurous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being adventurous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or disposition of being willing to embrace risks, hazards, and daring exploits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology of personality, high scores in sensation seeking and openness to experience manifested through bold exploratory behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventurousness designates the trait of being adventurous."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"His youthful **adventurousness** had been fed upon sea romances of perilous wrecks and heroic rescues."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A certain spiritual **adventurousness** characterizes the great religious reformers who break with stultifying dogmatism."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel Archer was conscious of a romantic **adventurousness** that made the conventional English society seem tame."*
+

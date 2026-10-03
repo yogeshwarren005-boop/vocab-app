@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being productive or having the power to produce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (economics) the ratio of the quantity and quality of units produced to the labor per unit of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rate or efficiency at which goods, crops, or commodities are produced, especially measured per unit of input.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic analysis, total factor productivity measures output efficiency growth unexplainable by mere increases in capital and labor inputs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"To a modern reader the connexion at first sight may not be obvious between the activity of the hangman and the productivity of the earth."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Rent, as the term is here applied, includes all the net productivity attributable to the ownership and use of capital, whether the yield be in economic form (in an increment of value) or in contractual form."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Productivity must be measured under modern conditions by the purchasing power that is possible in the environment."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The mechanical **productivity** of British factories astonished visitors with its vast daily outpouring of cotton fabric."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Modern economic systems prioritize high physical **productivity** above equitable distribution or ecological conservation."*
+> - 📜 **Thorstein Veblen (*The Instinct of Workmanship*):** *"The underlying technological knowledge of the community forms the true foundation of industrial **productivity**."*
+

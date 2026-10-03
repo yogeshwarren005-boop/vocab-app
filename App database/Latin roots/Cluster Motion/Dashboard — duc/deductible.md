@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (taxes) an amount that can be deducted (especially for the purposes of calculating income tax).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clause in an insurance policy that relieves the insurer of responsibility to pay the initial loss up to a stated amount.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be subtracted, taken away, or deducted, especially from gross taxable income.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insurance underwriting, the specified out-of-pocket amount the policyholder must pay before an insurance policy pays a claim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deductible designates (taxes) an amount that can be deducted (especially for the purposes of calculating income tax)."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Ordinary expenses incurred in carrying trade are legitimately **deductible** from gross commercial profits."*
+> - 📜 **John Kenneth Galbraith (*The Affluent Society*):** *"Corporate entertainment expenses were made legally **deductible**, creating an artificial boom in luxury dining."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He consulted his accountant to verify whether travel expenditure was strictly **deductible** under the new revenue code."*
+

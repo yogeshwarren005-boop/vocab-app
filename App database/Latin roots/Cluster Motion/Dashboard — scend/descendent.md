@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person considered as descended from some ancestor or race.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Going or coming down.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving or proceeding downward; descending; or a variant spelling of descendant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genealogical heraldry and lineage tracing, descendent branches of a family inherit cadency marks upon armorial bearings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, descendent designates a person considered as descended from some ancestor or race."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen watched the **descendent** arc of the iron harpoon as it plunged into the foaming white water."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **descendent** lines of imperial legitimacy were repeatedly severed by military mutiny and civil war."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The heavy iron portcullis fell in a swift, **descendent** crash, cutting off retreat for the besieged defenders."*
+

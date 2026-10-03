@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pressing manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pressing manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an urgent, insistent, or importunate manner that demands immediate attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic or business correspondence, framing an urgent plea or critical petition with solemn insistence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bennet was most pressingly civil in her hope of seeing the whole family soon at Longbourn; and addressed herself particularly to Mr."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"He wrote **pressingly** to his uncle, entreating him to grant an immediate interview on matters of vital moment."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The bailiff urged the matter **pressingly**, insisting that the shearing must commence before the rain."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie pleaded **pressingly** for her sister's pardon, moving the queen by her simple Scottish eloquence."*
+

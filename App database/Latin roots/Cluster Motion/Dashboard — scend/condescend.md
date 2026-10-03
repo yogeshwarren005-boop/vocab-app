@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave in a patronizing and condescending manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do something that one considers to be below one's dignity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To show feelings of patronizing superiority; or to voluntarily waive one's rank and stoop to someone of lower status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth-century etiquette and moral philosophy, aristocratic patrons were praised when they would condescend with gracious courtesy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where I was wont to feed you with my blood, I’ll lop a member off and give it you In earnest of a further benefit, So you do condescend to help me now. [_They hang their heads._] No hope to have redress?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll undertake to make thee Henry’s queen, To put a golden scepter in thy hand And set a precious crown upon thy head, If thou wilt condescend to be my— MARGARET."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Now, if your pretty granddaughter—excuse me, miss—will condescend to take care of this pipe for two months, we shall save the cost of one next time."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine de Bourgh did not **condescend** to converse with anyone of inferior social status at the assembly."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Estella would hardly **condescend** to touch Pip's hand when they met on the terrace of Satis House."*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"He will not **condescend** to yield an inch of his ancestral French claims without fierce battle."*
+

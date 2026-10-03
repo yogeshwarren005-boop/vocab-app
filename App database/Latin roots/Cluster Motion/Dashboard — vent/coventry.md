@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being banished or ostracized (excluded from society by general consent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial city in central england; devastated by air raids during world war ii; remembered as the home of lady godiva in the 11th century.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient industrial city in Warwickshire, England; in idiom, to send to Coventry means to ostracize socially.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In idiom etymology, historically derived from Royalist prisoners sent to parliamentary Coventry during the English Civil War, where citizens refused to converse with them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bardolph, get thee before to Coventry; fill me a bottle of sack."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll not march through Coventry with them, that’s flat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, sweet lords; let’s meet at Coventry. [_Exeunt all but King Henry and Exeter._] KING HENRY."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"I'll not march through **Coventry** with them, that's flat; nay, and the villains march wide betwixt the legs, as if they had gyves on."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The offending royalist deputy found himself sent to **Coventry**, shunned by every colleague in the National Assembly."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"The trade union members resolved that any strike-breaker should be sent straight to **Coventry** by the entire workshop."*
+

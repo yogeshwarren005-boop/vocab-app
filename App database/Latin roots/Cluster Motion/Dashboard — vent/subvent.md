@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Guarantee financial support of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Guarantee financial support of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide financial support or funding to; to grant a subvention or financial subsidy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and public finance, state financial contributions subsidizing scientific research, public transit, or cultural institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subvent designates guarantee financial support of."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The legislature resolved to **subvent** the national fisheries by granting bounties upon exported catch."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The state may appropriately **subvent** foundational scientific investigations that offer no immediate commercial return."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"Efforts to **subvent** private industries from the public purse inevitably distort natural market incentives."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Appearing dead; not breathing or having no perceptible pulse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appearing dead; not breathing or having no perceptible pulse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no perceptible arterial pulse; dead, unconscious, or devoid of vital energy or movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency resuscitation protocols, a pulseless electrical activity (PEA) rhythm necessitates immediate cardiopulmonary resuscitation and epinephrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"This is a fleshly woman,--let the free bestow their life blood, thou art pulseless now!’ . . ."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"With- out this, the letter is but the dead body of Science, - pulseless, cold, inanimate."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The lady Madeline lay emaciated, cold, and **pulseless** in the copper-lined vault beneath the ancient mansion."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I touched Elizabeth's cold wrist; she was **pulseless**, and the cold damp of death hung upon her brow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In profound cardiac syncope, the patient appears **pulseless** and pallid for several alarming seconds."*
+

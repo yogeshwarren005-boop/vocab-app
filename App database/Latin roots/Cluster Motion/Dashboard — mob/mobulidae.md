@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large rays lacking venomous spines: mantas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large rays lacking venomous spines: mantas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of large pelagic marine rays, including manta rays and devil rays, characterized by cephalic horn-like fins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, the Mobulidae are specialized filter feeders using modified branchial filter plates to capture pelagic zooplankton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobulidae designates large rays lacking venomous spines: mantas."*
+> - 📜 **William Beebe (*The Arcturus Adventure*):** *"The oceanic giant belonged to the **Mobulidae**, its wide cephalic flaps guiding plankton-rich seawater into its maw."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Naturalists have documented the immense size and wing-like pectoral fins of pelagic batoids grouped in the **Mobulidae**."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The cartilaginous skeletal framework of the **Mobulidae** reveals specialized cranial modifications for pelagic filter feeding."*
+

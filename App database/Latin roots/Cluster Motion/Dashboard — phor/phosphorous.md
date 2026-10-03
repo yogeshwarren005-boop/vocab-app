@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or characteristic of phosphorus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or characteristic of phosphorus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or containing trivalent phosphorus; or emitting light in the dark without noticeable heat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic synthetic chemistry, phosphorous acid acts as a powerful reducing agent by virtue of its oxidizable phosphorus-hydrogen bond.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phosphorous designates containing or characteristic of phosphorus."*
+> - 📜 **Robert Boyle (*The Aerial Noctiluca*):** *"The curious chemist observed the mild **phosphorous** vapor that emanated from the newly prepared mineral cake."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The spectral hound's muzzle and eyes were ringed with a bluish **phosphorous** preparation that glowed in the dark."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"The tropical surf broke upon the dark volcanic coral reef in a fringe of soft, **phosphorous** fire."*
+

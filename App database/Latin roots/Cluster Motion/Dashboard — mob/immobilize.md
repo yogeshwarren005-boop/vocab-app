@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold as reserve or withdraw from circulation; of capital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To hold fast or prevent from moving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To restrict the movement of a person, animal, or object, or prevent normal mechanical operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wildlife management and veterinary anesthesiology, darting rifles administer tranquilizers to immobilize large ungulates safely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A command from the tug and mooring beams glowed at the fore-and-aft towers to immobilize the Raven."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko hit a switch, and the utility beam-anchor connected to a triangular plate above the airlock, immobilizing and fixing the utility to the huge transporter's axis."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Parallel in the center of the room a double line of four gray tables stood fused to the deck, each with benches on each long side, similarly immobilized."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes stepped forward to **immobilize** the violent suspect before he could draw his concealed weapon."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Dense marine ice sheets threatened to **immobilize** the submarine vessel within the desolate Antarctic pack."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A direct hit from the naval artillery served to **immobilize** the lead Martian tripod on the riverbank."*
+

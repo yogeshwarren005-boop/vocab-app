@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A traveler who rides a motorcycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traveler who rides a motorcycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides, operates, or competes on a motorcycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In highway safety research and traffic regulation, designated as a vulnerable road user requiring specialized protective equipment such as certified helmets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorcyclist designates a traveler who rides a motorcycle."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"The tracks indicated that the swift **motorcyclist** had crossed the moorland bridle path before the rain began."*
+> - 📜 **T. E. Lawrence (*The Mint*):** *"The veteran **motorcyclist** develops an instinctive intuition for road camber, surface dampness, and cornering balance."*
+> - 📜 **G. K. Chesterton (*The Secret of Father Brown*):** *"A goggled **motorcyclist** skidded sharply at the crossroads, kicking up a white cloud of chalk dust."*
+

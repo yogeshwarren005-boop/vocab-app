@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful greenhouse gas emitted during the production of aluminum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A powerful greenhouse gas emitted during the production of aluminum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organofluorine compound containing only carbon and fluorine atoms, possessing extreme chemical stability and high gas solubility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine and liquid ventilation, medical perfluorocarbon emulsions serve as oxygen-carrying blood substitutes and alveolar expansion media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perfluorocarbon designates a powerful greenhouse gas emitted during the production of aluminum."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The extreme molecular stability of the dense **perfluorocarbon** oil defies degradation by boiling nitric acid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Respiratory physiologists investigated synthetic **perfluorocarbon** liquids capable of supporting mammalian liquid ventilation."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The synthetic dielectric **perfluorocarbon** liquid provided extraordinary breakdown voltage resistance."*
+

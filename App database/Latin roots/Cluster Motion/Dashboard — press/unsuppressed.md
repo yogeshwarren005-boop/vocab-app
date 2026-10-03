@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Given vent to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given vent to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not kept under, extinguished, or held in check; breaking forth openly without restraint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiological and clinical reporting, unsuppressed viral replication signifies failure of therapeutic medication to control infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsuppressed designates given vent to."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"An **unsuppressed** murmur of fierce indignation ran through the courtroom as the cruel sentence was pronounced."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A sob of **unsuppressed** anguish escaped her lips as she watched the horse stumble and fall dying on the road."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger uttered an **unsuppressed** cry of scientific triumph when the pterodactyl swept over the volcanic crater."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being remote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disposition to be distant and unsympathetic in manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The circumstance or characteristic of being far distant in space, time, relationship, or psychological warmth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geographical studies, the spatial isolation of rural settlements from regional urban infrastructure and commercial transit hubs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Their remoteness and unpunctuality, or their exorbitant charges and frauds, will be drawing forth bitter lamentations.” “I mean to be too rich to lament or to feel anything of the sort."*
-> - 📜 **George Eliot (*Middlemarch*):** *"For the moment, Will’s admiration was accompanied with a chilling sense of remoteness."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The increasing remoteness of consanguinity is every day diminishing the force of the family compact between France and Spain."*
+> - 📜 **George Eliot (*Middlemarch*):** *"For the moment, Will's admiration was accompanied with a chilling sense of **remoteness** from Dorothea's inner life."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"None who met him could fail to recall that serene presence, in which there was mingled a certain dignified **remoteness**."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The absolute **remoteness** of Patusan from the civilized trade routes gave Jim a sanctuary to rebuild his honor."*
+

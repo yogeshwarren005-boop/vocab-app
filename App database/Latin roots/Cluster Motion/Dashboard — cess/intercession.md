@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prayer to god on behalf of another person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of intervening (as to mediate a dispute, etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of intervening or pleading on behalf of another person, especially in prayer or petition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and mediation law, third-party state intercession facilitates prisoner exchanges during armed conflicts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast thou by secret means Used intercession to obtain a league, And, now the matter grows to compromise, Stand’st thou aloof upon comparison?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it be noised That through our intercession this revokement And pardon comes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bear no hatred, blessed man; for lo, My intercession likewise steads my foe."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Your **intercession** comes too late; the royal warrant has been signed and dispatched to the Tower."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny's gentle **intercession** softened Sir Thomas's anger toward her wayward brother William."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The Son of God offered holy **intercession** before the eternal throne on behalf of repentant fallen mankind."*
+

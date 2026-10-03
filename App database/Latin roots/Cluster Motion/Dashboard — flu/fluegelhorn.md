@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brass instrument resembling a cornet but with a wider bore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brass instrument resembling a cornet but with a wider bore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brass wind instrument resembling a cornet or trumpet but possessing a wider, more conical bore and a mellow, warmer tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orchestral brass acoustics and jazz arrangement, the fluegelhorn provides a bridge between trumpet brightness and French horn roundness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluegelhorn designates a brass instrument resembling a cornet but with a wider bore."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village brass band featured a gleaming **fluegelhorn** whose mellow notes floated over the churchyard."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The wandering musicians played a plaintive tune, the deep voice of the **fluegelhorn** leading the melody."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"A street musician blew a mournful ballad upon his battered **fluegelhorn** beneath the gas lamps."*
+

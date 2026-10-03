@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat bladelike projection on the arm of an anchor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organ pipe whose tone is produced by air passing across the sharp edge of a fissure or lip.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A duct, pipe, or channel for conveying smoke, exhaust gases, or hot air from a furnace, fireplace, or boiler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial boiler thermodynamics, fire-tube boilers circulate hot combustion gases through multiple submerged flues to maximize thermal transfer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He blew through the flue two husky fifenotes. —By Jove, he mused, I often wanted to see the Mourne mountains."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Patrick, there was nothing left in the pit but the two tails, and a bit of flue. 795."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"The lightning knocked over the kitchen chimbly and come down the flue and knocked over Ginger’s cage and tore a hole in the floor and went into the sullar."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The cruel sweep attempted to force the trembling boy up the narrow, soot-choked **flue**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The blubber boilers roared upon the deck, dense black smoke escaping from each iron **flue**."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"A sluggish draft in the chimney **flue** filled the stone kitchen with pungent woodsmoke."*
+

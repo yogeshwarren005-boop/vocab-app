@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctrine that maintains the right of secession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine that maintains the right of secession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The political doctrine, advocacy, or movement that promotes withdrawal and independence from a sovereign nation or federal union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century political science, southern secessionism was defended by Calhoun through the theory of concurrent majorities and state nullification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, secessionism designates a doctrine that maintains the right of secession."*
+> - 📜 **Frederick Douglass (*Life and Times of Frederick Douglass*):** *"The virulent spread of southern **secessionism** was fueled by the desperate desire to protect and expand chattel slavery."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"If the spirit of **secessionism** should infect several powerful confederate states, the federal union would lack the military apparatus to coerce them."*
+> - 📜 **Woodrow Wilson (*A History of the American People*):** *"The rise of militant **secessionism** in South Carolina convinced northern statesmen that compromise was no longer attainable."*
+

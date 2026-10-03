@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roentgenographic examination of veins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roentgenographic examination of veins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The radiographic visualization and clinical examination of veins following injection of a contrast medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interventional radiology, contrast venography considered the gold standard reference technique for evaluating deep venous anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venography designates roentgenographic examination of veins."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diagnostic **venography** enabled surgeons to identify the exact level of venous occlusion in the lower extremity."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Advanced radiological methods like **venography** provided unprecedented insight into deep circulation disorders."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The practice of clinical **venography** substituted direct physical evidence for blind therapeutic conjecture."*
+

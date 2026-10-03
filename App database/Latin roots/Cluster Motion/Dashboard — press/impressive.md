@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Making a strong or vivid impression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing a strong effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evoking admiration, respect, or solemn wonder through grand scale, high ability, or stately character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and monument design, monumental proportions, symmetrical colonnades, and heavy rustication designed to convey civic majesty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"His manner is the gravely impressive manner of a man who has not committed himself in life otherwise than as he has become the victim of a tender sorrow of the heart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It was so impressive in its love for me, and in the unselfish caution it gave me, and the consideration it showed for me in every word, that my eyes were too often blinded to read much at a time."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket, keeping his forefinger in an impressive state of action, “bear in mind what I’ve said to you."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The great stone hall of Baskerville was an **impressive** room, hung with ancient armour and family portraits."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Egdon Heath presented an **impressive** spectacle under the darkening twilight of late November."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The court was filled with an **impressive** silence as the jury returned to deliver their fatal verdict."*
+

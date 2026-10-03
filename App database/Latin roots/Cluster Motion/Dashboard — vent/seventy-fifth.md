@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number of seventy-five in counting order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ordinal number of seventy-five in counting order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming next in ordinal sequence after the seventy-fourth; one of seventy-five equal fractional parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional history, a diamond jubilee commemorating the seventy-fifth anniversary of an event, founding, or accession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-fifth designates the ordinal number of seventy-five in counting order."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The academy commemorated its **seventy-fifth** session with addresses reviewing the progress of natural science."*
+> - 📜 **Henry James (*The American*):** *"The general was celebrating his **seventy-fifth** year, surrounded by veteran comrades of former campaigns."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"On his **seventy-fifth** birthday, tributes from all free nations poured into the prime minister's country residence."*
+

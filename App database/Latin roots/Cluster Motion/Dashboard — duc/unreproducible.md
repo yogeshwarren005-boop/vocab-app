@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to reproduce or duplicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to reproduce or duplicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to reproduce, duplicate, copy, or replicate with consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental metascience, results that cannot be replicated upon rigorous independent laboratory re-testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unreproducible designates impossible to reproduce or duplicate."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"Non-recurrent and **unreproducible** occurrences are of no significance to empirical physical science."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A sensational biological claim that remains stubbornly **unreproducible** must be treated with profound scientific skepticism."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The transient galvanic effect proved **unreproducible** when purer copper wire was substituted in the coil."*
+

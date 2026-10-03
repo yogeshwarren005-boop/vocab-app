@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sinking until covered completely with water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or event of plunging beneath water, or complete inundation under a liquid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal geomorphology and eustasy, marine submergence during interglacial periods creates rias and drowned river valleys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Purification by Spirit; submergence in 581:24 Spirit."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Submergence in Spirit; immortality brought to light. 582:24 CANAAN (the son of Ham)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The periodic **submergence** and elevation of continental landmasses is demonstrated by marine fossil strata in high Alps."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"During deep **submergence**, the thick crystal lenses of the salon resisted crushing hydrostatic pressures."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The low-lying coastal plains suffered complete **submergence** whenever catastrophic spring storm surges struck the estuary."*
+

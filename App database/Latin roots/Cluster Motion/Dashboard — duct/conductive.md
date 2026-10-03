@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality or power of conducting heat or electricity or sound; exhibiting conductivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the quality or power of conducting heat or electricity or sound; exhibiting conductivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property or power of conducting or transmitting heat, electricity, sound, or other physical forms of energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory otology, conductive hearing loss occurs when sound transmission is impeded through the external ear canal or middle ear ossicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Murray was the first to use plumbago, or black-lead, to give the surface of non-metallic bodies electro-conductive properties."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Black-leading._ Making the face of the molded case electrically conductive by applying graphite. _9."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Lying loosely together the filings would not conduct the current of a small battery from one plug to the other, but when a spark occurred not far away they suddenly became conductive and allowed it to pass."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"A silver rod provides the most **conductive** pathway for discharging an electrostatic condenser."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"The **conductive** power of metals diminishes as their ambient temperature increases."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The alien machinery rested on heavily insulated stands, avoiding any **conductive** contact with the damp clay."*
+

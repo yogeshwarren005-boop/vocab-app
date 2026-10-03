@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fall heavily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set (something or oneself) down with or as if with a noise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fall, drop, or sit down heavily, clumsily, or with a dull thudding sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In acoustic phonetics, the onomatopoeic word flump represents an expressive sound-symbolic phonestheme denoting abrupt, cushioned descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flump designates fall heavily."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"The exhausted traveler did **flump** down upon the tavern bench, breathing a heavy sigh of relief."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The heavy sack of barley slipped from the boy's grasp and went with a loud **flump** upon the barn floor."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The fat spaniel made a clumsy **flump** onto the hearthrug beside the weaver's loom."*
+

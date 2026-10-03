@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving advice; ,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giving advice; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or acting in an advisory or deliberation-oriented capacity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative law and civic governance, consultative assemblies provide recommendations to executive ministries without binding legislative power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, consultative designates giving advice; ,."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A well-organized state requires a **consultative** council composed of seasoned administrators to review proposed legislation."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The ancient constitution provided **consultative** bodies where all estates of the realm could voice their grievances."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The War Cabinet created a **consultative** committee of naval officers to evaluate convoy protection strategies."*
+

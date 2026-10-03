@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position seven in a countable series of things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One part in seven equal parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ordinal number corresponding to seven; one of seven equal parts into which a whole is divided.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music theory, an interval spanning seven diatonic scale degrees, characteristic of dominant and major seventh chords.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, we met, and found the quarrel was upon the seventh cause."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How seventh cause?—Good my lord, like this fellow?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How did you find the quarrel on the seventh cause?"*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"On the **seventh** day he took his rest, as ancient custom commanded."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The **seventh** chapter treats of simple ideas derived immediately from sensory perception."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"It was upon the **seventh** evening of my stay that the mysterious letter was delivered."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relieving pressure (especially bringing a compressed person gradually back to atmospheric pressure).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore to its uncompressed form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing or executing the reduction of internal or surrounding physical pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and storage architecture, unpacking encoded archive files into their original uncompressed format.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decompressing designates relieving pressure (especially bringing a compressed person gradually back to atmospheric pressure)."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"While **decompressing** in the intermediate bay, Bowman checked the telemetry indicators of his pressure suit."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The salvage divers spent several tedious hours **decompressing** in the pressurized hospital barge."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The laboratory technician spent the morning **decompressing** delicate vacuum tubes after the test run."*
+

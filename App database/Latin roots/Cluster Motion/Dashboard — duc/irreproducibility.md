@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being unreproducible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unreproducible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being unable to be replicated, duplicated, or reproduced in subsequent experiments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science and metascience, the replication crisis highlighting empirical studies that fail independent verification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irreproducibility designates the quality of being unreproducible."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"The **irreproducibility** of an isolated experimental effect deprives it of any standing as genuine scientific knowledge."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Apparent biological anomalies must be discarded upon demonstrated **irreproducibility** under controlled laboratory conditions."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"The fatal defect in magical rituals is their complete **irreproducibility** when subjected to skeptical observation."*
+

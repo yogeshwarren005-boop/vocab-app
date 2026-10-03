@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equip with a motor vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equip with a motor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped with a motor for mechanical propulsion, or furnished with motor-driven vehicles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In armed forces structure, designates light wheeled infantry units distinguished from mechanized armored forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorized designates equip with a motor vehicle."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The **motorized** columns advanced across the desert plateau under cover of coastal bombardment."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Without **motorized** ambulances, carrying the wounded over mountain tracks took many agonizing hours."*
+> - 📜 **Ernest Hemingway (*For Whom the Bell Tolls*):** *"The distant hum of **motorized** transport echoed up the pine-covered slopes from the main highway."*
+

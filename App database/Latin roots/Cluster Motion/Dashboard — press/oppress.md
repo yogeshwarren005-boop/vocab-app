@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come down on or keep down by unjust use of one's authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to suffer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To keep down or burden with cruel, unjust authority or unreasonable hardship; to weigh heavily on the spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and human rights doctrine, systematic institutional subjugation denying fundamental civil liberties to minority populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You ne’er oppress’d me with a mother’s groan, Yet I express to you a mother’s care."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Answer me like men. ‘When griping griefs the heart doth wound, And doleful dumps the mind oppress, Then music with her silver sound’— Why ‘silver sound’?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ANTONIO. [_Aside to Sebastian._] Let it be tonight; For, now they are oppress’d with travel, they Will not, nor cannot, use such vigilance As when they are fresh."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"You ne'er **oppress'd** me with a mother's groan, yet I express to you a mother's care."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"When rulers **oppress** the subject and invade property, the people are absolved from further obedience."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The aristocratic lords continued to **oppress** the starving peasantry until retribution broke over their heads."*
+

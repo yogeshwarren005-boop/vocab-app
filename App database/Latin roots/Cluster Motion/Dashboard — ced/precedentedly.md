@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With precedent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With precedent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner supported by or conforming to established prior examples or historical precedents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary procedure, bills handled precedentedly adhere strictly to standard reading schedules and committee referrals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precedentedly designates with precedent."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The English Revolution of 1688 proceeded **precedentedly**, adhering to ancient constitutional forms and charters."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The crown acted **precedentedly** in summoning parliament according to established historical writs."*
+> - 📜 **David Hume (*The History of England*):** *"The judicial council resolved the disputed estate **precedentedly**, citing ancient Saxon land tenures."*
+

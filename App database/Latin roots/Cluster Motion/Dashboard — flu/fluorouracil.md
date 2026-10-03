@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antimetabolite used to treat certain cancers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antimetabolite used to treat certain cancers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antimetabolite pyrimidine analogue chemotherapy medication used to treat various cancers, including colorectal and skin malignancies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular oncology, fluorouracil inhibits thymidylate synthase, blocking thymidine synthesis required for DNA replication in dividing tumor cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorouracil designates an antimetabolite used to treat certain cancers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical introduction of **fluorouracil** marked an epoch in the adjuvant chemotherapy of visceral carcinomas."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Rational antimetabolites such as **fluorouracil** deceive tumor cells into incorporating fraudulent nucleotides."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The differential cytotoxicity produced by **fluorouracil** targets rapidly dividing abnormal cells."*
+

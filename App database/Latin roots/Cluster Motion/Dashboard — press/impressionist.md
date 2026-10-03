@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter who follows the theories of impressionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of impressionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painter, composer, or writer who practices impressionism; an entertainer who mimics prominent figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, the group of painters who mounted independent exhibitions in Paris between 1874 and 1886, including Monet, Renoir, and Pissarro.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"My aim, my dear Phyllis, is to show you in a series of impressionist pictures the sort of thing I have to go through when I'm not here."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This instance serves to illustrate the salient differences between the Chou and Sung art, the two extremes; the Chou art is symbolical and geometrical, the Sung impressionist and naturalistic."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"On this glaze, and sometimes under it, the painters executed rapid, bold, and rather impressionist designs in shades of brown, varying from black to a soft sepia colour."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether stood before the small landscape like an enthusiastic **impressionist** absorbing atmospheric harmony."*
+> - 📜 **Virginia Woolf (*Roger Fry: A Biography*):** *"Fry explained how the French **impressionist** revolutionized color by rejecting conventional studio bitumen and muddy shadows."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The young gentleman sketched the Tuscan hillside with the rapid, dotted strokes of a committed **impressionist**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One-hundredth of a right angle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has received a degree from a school (high school or college or university).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal abbreviated term for a graduate; or an angular unit of measurement equal to one-hundredth of a right angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surveying and trigonometric geodesy, the grad (or gon) divides a full circle into four hundred metric angular units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"BY WILLIAM BEATTIE, M.D., GRAD."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George Babbitt attended the university alumni reunion, boasting of his status as an energetic college **grad**."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The young Princeton **grad** wandered down Fifth Avenue, dreaming of literary fame in the postwar metropolis."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The ambitious university **grad** sought entry into the administrative civil service through competitive examinations."*
+

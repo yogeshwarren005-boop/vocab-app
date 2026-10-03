@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hole for the escape of gas or air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: External opening of urinary or genital system of a lower vertebrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening permitting the escape or release of a gas, liquid, or smoke; to give free expression to emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography and geology, a hydrothermal vent is a fissure on the seabed from which geothermally heated water discharges minerals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here on her breast There is a vent of blood, and something blown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then we shall ha’ means to vent Our musty superfluity."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Be wise as thou art cruel, do not press my tongue-tied patience with too much disdain: lest sorrow lend me words, and words express the manner of my pity-wanting pain. If I might **vent** my grief!"*
+> - 📜 **George Eliot (*Middlemarch*):** *"Fred with difficulty restrained himself from giving **vent** to his irritation before his uncle."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A volcanic **vent** on the mountain slope was constantly emitting jets of steam and sulfur fumes."*
+

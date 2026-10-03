@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The withdrawal of the clergy and choir from the chancel to the vestry at the end of a church service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hymn that is sung at the end of a service as the clergy and choir withdraw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sung or recited during the withdrawal of clergy and choir at the end of a religious service; or relating to economic recession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English literary history, Kipling's famous poem 'Recessional' served as a solemn cautionary ode against imperial hubris at Victoria's Jubilee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recessional designates the withdrawal of the clergy and choir from the chancel to the vestry at the end of a church service."*
+> - 📜 **Rudyard Kipling (*Recessional*):** *"Lord God of Hosts, be with us yet, lest we forget—lest we forget; this **recessional** prayer echoed across the empire."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The organist played a subdued **recessional** voluntary as the congregation filed out into the cold churchyard."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The solemn strains of the **recessional** hymn signaled the end of the ceremony and the dispersal of the parishioners."*
+

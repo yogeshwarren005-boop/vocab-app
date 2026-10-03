@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is no longer alive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is no longer alive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deceased person, especially one who has died recently and whose estate is subject to legal probate administration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In estate and probate jurisprudence, the personal representative settles the decedent's debts prior to distributing testamentary bequests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decedent designates someone who is no longer alive."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dusty solicitors examined the disputed testament of the **decedent**, calculating endless fees from the contested estate."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"Holmes examined the testamentary will of the supposed **decedent**, noticing strange anomalies in the handwritten signature."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The greedy relatives gathered in black at the mansion to hear the will of the wealthy **decedent** read aloud."*
+

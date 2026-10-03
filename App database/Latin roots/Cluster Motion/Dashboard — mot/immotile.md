@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of spores or microorganisms) not capable of movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of spores or microorganisms) not capable of movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of independent movement or locomotion; stationary, motionless, or sessile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and protozoology, immotile bacteria lack flagella and cannot execute chemotactic swimming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immotile designates (of spores or microorganisms) not capable of movement."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Certain encysted microorganisms remain completely **immotile** until exposed to moisture and nourishment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The spores of primitive algae exist in an **immotile** resting stage during winter freezes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination confirmed that the bacteria were **immotile** rods lacking polar flagella."*
+

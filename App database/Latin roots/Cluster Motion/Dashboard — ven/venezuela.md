@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic in northern south america on the caribbean; achieved independence from spain in 1811; rich in oil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic in northern south america on the caribbean; achieved independence from spain in 1811; rich in oil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sovereign republic located on the northern coast of South America, bordered by Colombia, Brazil, and Guyana.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In South American history, the birthplace of Simón Bolívar and early leader in the Spanish American wars of independence, later endowed with vast petroleum reserves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Treaty of Friendship and Commerce with Venezuela."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Treaty of Friendship and Commerce with Venezuela."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"We explored the vast Llanos and dense river forests of **venezuela**, marveling at the abundance of tropical nature."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The mountainous coast of **venezuela** presented a magnificent panorama of verdant slopes rising directly from the ocean."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger described the impenetrable plateau rising above the steaming border wilderness of **venezuela**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superfluous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a superfluous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a superfluous or redundant manner; beyond what is necessary or useful; unnecessarily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical stylistics, multiplying synonyms superfluously weakens prose clarity and burdens the reader's attention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That may be, for you bear a many superfluously, and ’twere more honour some were away."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Hurst, poking the fire superfluously...."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I am perhaps talking rather superfluously; but a man likes to assume superiority over himself, by holding up his bad example and sermonizing on it.” Lydgate took Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Hurst sat near the hearth, poking the fire **superfluously** with the iron tongs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Doctor Sprague was **superfluously** tall, his long legs taking up an excessive share of the carriage space."*
+> - 📜 **William Shakespeare (*Henry V*):** *"That may be, for you bear a many **superfluously**, and 'twere more honour some were away."*
+

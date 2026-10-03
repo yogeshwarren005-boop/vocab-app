@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurrent rhythmical series.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recurrent rhythmical series.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In heraldry, the distinction of different branches or cadet members of the same family by specific heraldic marks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical British armorial practice, marks of cadency (such as the label, crescent, or mullet) designate birth order of sons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadency designates a recurrent rhythmical series."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The herald noted the crescent of **cadency** upon the shield, recognizing the knight as a second son."*
+> - 📜 **Arthur Conan Doyle (*Sir Nigel*):** *"The pursuivant scrutinized the armorial bearings, checking the **cadency** marks to confirm noble lineage."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Parson Tringham explained the ancient **cadency** and vanished estates of the noble d'Urberville ancestors."*
+

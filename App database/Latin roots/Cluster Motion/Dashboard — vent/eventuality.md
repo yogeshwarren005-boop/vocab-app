@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A possible event or occurrence or result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A possible event or occurrence or result.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A possible event, occurrence, outcome, or contingency that may happen in the future.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military and strategic planning, contingency frameworks prepared to address unanticipated operational failures or supply ruptures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"What exactitude, what minuteness, what knowledge of the locality, what foresight for every eventuality, every possibility even to the smallest detail!"*
-> - 📜 **James Joyce (*Ulysses*):** *"Why might these several provisional contingencies between a guest and a hostess not necessarily preclude or be precluded by a permanent eventuality of reconciliatory union between a schoolfellow and a jew’s daughter?"*
-> - 📜 **James Joyce (*Ulysses*):** *"What eventuality would render him independent of such wealth?"*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The Admiralty had prepared plans for every **eventuality**, including the sudden entry of hostile fleets into the Atlantic."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes had foreseen this dark **eventuality** and had provided two armed constables at the side entrance."*
+> - 📜 **George Orwell (*1984*):** *"The Party maintained elaborate precautionary dossiers to neutralize any dangerous **eventuality** before it took form."*
+

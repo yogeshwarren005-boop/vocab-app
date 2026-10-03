@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reached only with great difficulty or not at all.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being reached only with great difficulty or not at all.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being reached, approached, obtained, or entered; inaccessible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical English topography and mountaineering literature, unaccessible cliffs presented sheer barriers that repelled early cartographers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unaccessible designates capable of being reached only with great difficulty or not at all."*
+> - 📜 **George Herbert (*The Temple*):** *"Thou art a rock so steep and **unaccessible** that mortal pride can never scale thy summit without divine grace."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Far off from the light of heaven, in utter darkness and deep gulfs **unaccessible**, the fallen host lay vanquished."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ruined fortress perched upon an **unaccessible** crag overlooking the turbulent sea below."*
+

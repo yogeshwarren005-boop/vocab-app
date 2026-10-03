@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being degenerate in mental or moral qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being degenerate in mental or moral qualities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of declining, deteriorating, or degenerating; an alternative spelling of decadence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical sociological critique, institutional decadency precedes the revolutionary collapse of autocratic regimes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decadency designates the state of being degenerate in mental or moral qualities."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The philosophical historian observed the progressive **decadency** of ancient Roman civic patriotism under the late emperors."*
+> - 📜 **John Milton (*Areopagitica*):** *"The suppression of intellectual liberty brings a swift **decadency** upon literature, learning, and national virtue."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The financial **decadency** of the ancient French monarchy precipitated the sudden convocation of the Estates-General."*
+

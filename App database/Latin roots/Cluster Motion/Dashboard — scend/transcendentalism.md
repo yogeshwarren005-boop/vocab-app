@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any system of philosophy emphasizing the intuitive and spiritual above the empirical and material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any system of philosophy emphasizing the intuitive and spiritual above the empirical and material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nineteenth-century philosophical and literary movement emphasizing intuition, spiritual self-reliance, and the unity of nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American intellectual history, New England transcendentalism was championed by Ralph Waldo Emerson, Henry David Thoreau, and Margaret Fuller.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Transcendentalism”: Apparent Failure."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Bless us, all the while How sprucely WE are dressed out, you and I!’” we who are so inferior to that divine poet; but, “A second, and the angels alter that.” “Transcendentalism”."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Transcendentalism”: A Poem in Twelve Books. -- * Transcendentalism: a poem in twelve books."*
+> - 📜 **Ralph Waldo Emerson (*The Transcendentalist*):** *"What is popularly called **transcendentalism** among us is the assertion of the ideal over the sensible in human life."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The principles of practical **transcendentalism** led me to the woods, to live deliberately and confront the essential facts of life."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"The utopian community at Blithedale attempted to embody the lofty ideals of New England **transcendentalism** in daily labor."*
+

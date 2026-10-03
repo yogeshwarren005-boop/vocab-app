@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of six and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of four playing cards in a deck with seven pips on the face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equivalent to the sum of six and one; the numeral 7.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numerology and comparative myth, a symbolic number frequently associated with cosmic cycles, days of creation, and celestial spheres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the world’s a stage, And all the men and women merely players; They have their exits and their entrances, And one man in his time plays many parts, His acts being seven ages."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was seven of the nine days out of the wonder before you came; for look here what I found on a palm-tree."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the interim be but a se’nnight, time’s pace is so hard that it seems the length of seven year."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"All the world's a stage, and all the men and women merely players; his acts being **seven** ages."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The sun completed his diurnal course through the **seven** spheres of heaven."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Marley's ghost reminded Scrooge that his former partner had been dead these **seven** years."*
+

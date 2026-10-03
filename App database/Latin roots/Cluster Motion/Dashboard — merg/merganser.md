@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large crested fish-eating diving duck having a slender hooked bill with serrated edges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large crested fish-eating diving duck having a slender hooked bill with serrated edges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fish-eating diving duck characterized by a slender serrated bill and typically a crested head.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological ecology, the hooded merganser nests in tree cavities and uses specialized nictitating membranes for underwater foraging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merganser designates large crested fish-eating diving duck having a slender hooked bill with serrated edges."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"A startled **merganser** flew low along the glassy surface of the wilderness river, its crest raised in alarm."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The red-breasted **merganser** dives with astonishing velocity through tidal estuaries to capture small schooling fish."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The serrated bill of the **merganser** provides a classic anatomical adaptation for grasping slippery aquatic prey."*
+

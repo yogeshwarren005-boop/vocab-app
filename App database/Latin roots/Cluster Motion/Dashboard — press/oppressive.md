@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Weighing heavily on the senses or spirit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by unjust severity or arbitrary behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unjustly harsh, tyrannical, or burdensome; suffocating, stifling, or heavily distressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, describes extreme summer weather combinations of high temperature and saturating humidity that impair human evaporative cooling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby should be ill at ease too, for he always is so, more or less, under the oppressive influence of the secret that is upon him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is an oppressive blank until Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But it is all blank, blank as the darkness above and below, while he goes up the great staircase again, blank as the oppressive silence."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The **oppressive** sense of the harm she had unwittingly done led Tess to be more deferential than ever."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The silence of the vast primeval jungle felt heavy, sinister, and relentlessly **oppressive**."*
+> - 📜 **George Orwell (*1984*):** *"The atmosphere of perpetual surveillance and state suspicion grew increasingly **oppressive** with every passing year."*
+

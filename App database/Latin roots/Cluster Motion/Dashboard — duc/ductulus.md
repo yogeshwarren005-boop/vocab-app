@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very small duct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very small duct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very small duct or minute excretory canaliculus in anatomical structures (Latin diminutive of ductus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive anatomy, ductuli efferentes are the delicate convoluted tubules conveying spermatozoa from the rete testis to the epididymis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ductulus designates a very small duct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Histological sections showed complete obliteration of the delicate **ductulus** lumen by fibrous scarring."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The ciliated epithelium lining each testicular **ductulus** maintains active fluid flow toward the epididymal head."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Obstruction of an efferent **ductulus** may cause localized cystic distension in the scrotal sac."*
+

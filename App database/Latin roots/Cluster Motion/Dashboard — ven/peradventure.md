@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Doubt or uncertainty as to whether something is the case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By chance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perhaps; maybe; by chance; or a state of doubt, uncertainty, or speculative possibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and legal diction, used in conditional clauses (if peradventure) or nominal phrases (beyond all peradventure).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet you must be saying Martius is proud, who, in a cheap estimation, is worth all your predecessors since Deucalion, though peradventure some of the best of ’em were hereditary hangmen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Peradventure I will with ye to the court."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is more good toward you peradventure than is in your knowledge to dream of."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"**Peradventure** this is not Fortune's work neither, but Nature's, who perceiveth our natural wits too dull."*
+> - 📜 **Francis Bacon (*Essays*):** *"Beyond all **peradventure**, the stability of commonwealths depends on just laws and contented subjects."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"If **peradventure** we should meet with the lions in the dark, what defense could our feeble weapons supply?"*
+

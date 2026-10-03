@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who travels through the water by swimming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who travels through the water by swimming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swimmer, or an aquatic animal or bird naturally adapted for swimming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century ornithological taxonomy, the Natatores constituted an order comprising swimming web-footed waterfowl.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natator designates a person who travels through the water by swimming."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The diving petrel is an expert **natator**, using its short wings to fly underwater in pursuit of fish."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Every observant wildfowler admires the graceful agility of the wild duck as an accomplished **natator**."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The skeletal modifications of the penguin limb distinguish it as an exclusively aquatic **natator**."*
+

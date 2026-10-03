@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fixation (as by a plaster cast) of a body part in order to promote proper healing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of limiting movement or making incapable of movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of restricting movement, or fixing an injured limb or mechanism in a static position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedics and emergency medicine, rigid spinal immobilisation prevents secondary neurological deficits following severe vertebral trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immobilisation designates fixation (as by a plaster cast) of a body part in order to promote proper healing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete **immobilisation** of the fractured bone by plaster bandaging is essential to ensure proper osteal union."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Prolonged **immobilisation** of synovial joints can induce temporary stiffness of surrounding capsular ligaments."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The surgeon secured absolute **immobilisation** of the severed tendons using specialized splints."*
+

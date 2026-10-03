@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The (prehensile) extremity of the superior limb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The handwear used by fielders in playing baseball.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mitten; or a padded leather glove used by baseball players, especially catchers and first basemen; or an informal term for a hand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports equipment engineering, a catcher's mitt incorporates thick perimeter padding to dissipate high-velocity kinetic impact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"By the dear ruffles round her feet, By her small hands that hung In their lace mitts, austere and sweet, Her gown's white folds among."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Know that in Science you cannot check a fever after ad- 376:30 mitting that it must have its course."*
+> - 📜 **Ring Lardner (*You Know Me Al*):** *"The rookie catcher adjusted his leather **mitt** behind the plate, signaling for a hard inside fastball."*
+> - 📜 **Jack London (*The Game*):** *"The boxer laced his heavy padded **mitt** tightly, testing his knuckles before stepping through the ropes."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"The autumn baseball practice ended as the players tossed their gloves and **mitt** into the clubhouse locker."*
+

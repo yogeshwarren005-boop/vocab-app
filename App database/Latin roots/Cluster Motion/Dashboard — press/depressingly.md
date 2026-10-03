@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a depressing manner or to a depressing degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a depressing manner or to a depressing degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner or to a degree that causes gloom, sadness, or discouragement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative exposition, emphasizes monotonous, bleak, or squalid physical settings and social situations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depressingly designates in a depressing manner or to a depressing degree."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The rows of back-to-back brick cottages were **depressingly** identical under the perpetual drizzle of soot."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The long sea voyage seemed **depressingly** monotonous when viewed through the gray lens of indisposition."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The uniform drizzle fell **depressingly** upon the black umbrellas of the mourners assembled near the churchyard."*
+

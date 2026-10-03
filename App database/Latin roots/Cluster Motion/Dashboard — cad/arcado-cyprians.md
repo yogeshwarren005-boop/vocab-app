@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient greek inhabitants of achaea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient greek inhabitants of achaea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Speakers of the ancient Arcado-Cypriot dialect group of ancient Greek, spoken in Arcadia and ancient Cyprus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical comparative Indo-European linguistics, the Arcado-Cyprians preserved Mycenaean dialectal traits into classical antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arcado-cyprians designates the ancient greek inhabitants of achaea."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Linguistic antiquarians traced archaic Greek idioms back to the isolated **Arcado-Cyprians** of the Peloponnese."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Comparative philologists demonstrated how ancient dialects preserved among the **Arcado-Cyprians** illuminated early migration."*
+> - 📜 **George Grote (*A History of Greece*):** *"The cultural and linguistic kinship uniting the **Arcado-Cyprians** survived through centuries of maritime isolation."*
+

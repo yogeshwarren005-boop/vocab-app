@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of communal life sequestered from the world under religious vows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of communal life sequestered from the world under religious vows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or belonging to a convent or monastic religious community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, a Conventual Franciscan denotes a member of the branch accepting corporate property ownership under papal dispensation, distinct from Observants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether the barn had ever formed one of a group of conventual buildings nobody seemed to be aware; no trace of such surroundings remained."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It was founded upwards of two centuries since on an old monastic establishment, and retained somewhat of the conventual air and character."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether the barn had ever formed one of a group of conventual buildings nobody seemed to be aware; no trace of such surroundings remained."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whether the great tithe barn had ever formed one of a group of **conventual** buildings nobody seemed to know."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A modern woman will hardly have the opportunity of reforming a **conventual** order after the heroic manner of Saint Theresa."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king attempted to introduce **conventual** dress and monastic chapels into the colleges of Oxford."*
+

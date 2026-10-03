@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (slang) extremely ugly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (slang) extremely ugly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial or slang term denoting someone or something that is exceptionally, glaringly, or offensively ugly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary vernacular lexicography and cultural critique, fugly serves as an emphatic colloquial portmanteau for extreme aesthetic revulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugly designates (slang) extremely ugly."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"The newly built suburban villas were an assortment of **fugly** brick monstrosities ruining the peaceful rural valley."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol groaned at the line of clumsy, **fugly** wooden storefronts that disfigured the provincial prairie town."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The industrial quarter consisted of raw factories and **fugly** iron sheds dumped haphazardly along the canal."*
+

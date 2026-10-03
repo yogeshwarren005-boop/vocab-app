@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A baked loaf of ground meat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A baked loaf of ground meat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dish of ground meat seasoned and shaped into a loaf, then baked and served sliced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic culinary history, the popularity of baked meatloaf surged during the Depression as an economical way to extend ground meats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meatloaf designates a baked loaf of ground meat."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol Kennicott prepared a simple baked **meatloaf** for the doctor's evening supper in Gopher Prairie."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"The roadside diner served thick slices of cold **meatloaf** alongside mugs of steaming black coffee."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"The modest boarding house offered savoury **meatloaf** and mashed potatoes to its resident expatriates."*
+

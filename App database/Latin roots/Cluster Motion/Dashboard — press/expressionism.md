@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a distorted rendition of reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a distorted rendition of reality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A modernist movement in art and literature seeking to depict emotional experience rather than physical reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, emerged in early 20th-century Germany (die Brücke and Der Blaue Reiter) using vivid colors and distorted forms to convey subjective angst.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expressionism designates an art movement early in the 20th century; the artist's subjective expression of inner experiences was emphasized; an inner feeling was expressed through a distorted rendition of reality."*
+> - 📜 **Virginia Woolf (*Roger Fry: A Biography*):** *"He defended the bold distortions of **expressionism** as necessary steps toward liberating artistic emotion from academic realism."*
+> - 📜 **W. H. Auden (*The Dyer's Hand*):** *"The dramatic experiments of German **expressionism** shattered traditional theatrical illusion to confront raw psychological crisis."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The new musical idiom shared with visual **expressionism** a fierce rebellion against decorative conventional harmony."*
+

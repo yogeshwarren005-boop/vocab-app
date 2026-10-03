@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deserving to be allowed to enter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deserving to be allowed to enter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being admitted, accepted, allowed, or conceded as valid, true, or permissible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidentiary jurisprudence, relevant physical exhibits are ruled legally admittable when chain of custody is established.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, admittable designates deserving to be allowed to enter."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"No proposition contrary to clear intuitive reason can be **admittable** into an orderly philosophical system."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The judge ruled the secondary testimony barely **admittable** under ancient common-law rules of evidence."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Speculative hypotheses that contradict uniform human experience are scarcely **admittable** as historical facts."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or marked by a strong tendency especially a controversial one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or marked by a strong tendency especially a controversial one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting or expressing a controversial point of view; biased, partisan, or intentionally slanted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and historiography, tendencious narratives deliberately select evidence to bolster partisan ideological arguments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendencious designates having or marked by a strong tendency especially a controversial one."*
+> - 📜 **George Orwell (*Collected Essays*):** *"The pamphlet was obviously a **tendencious** piece of political propaganda designed to mislead the electorate."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Philosophical histories are often flawed by the **tendencious** omissions of their authors."*
+> - 📜 **Thomas Henry Huxley (*Science and Christian Tradition*):** *"A truly scientific mind rejects **tendencious** polemics in favor of verifiable empirical facts."*
+

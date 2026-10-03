@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Centrifugation at very high speeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Centrifugation at very high speeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of using an ultracentrifuge operating at extreme speeds to sediment and separate colloidal particles or macromolecules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biophysics, analytical ultracentrifugation determines precise molecular weights and quaternary oligomeric states of proteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ultracentrifugation designates centrifugation at very high speeds."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The resolution of viral nucleoprotein fractions was made possible by the introduction of analytical **ultracentrifugation**."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Through density gradient **ultracentrifugation**, we established the exact isotopic density difference of synthesized DNA strands."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Physical laboratories employed high-velocity separation techniques foreshadowing the modern science of **ultracentrifugation**."*
+

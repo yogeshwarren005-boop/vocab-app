@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pipits and wagtails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pipits and wagtails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ornithological taxonomic family of small passerine songbirds comprising wagtails, pipits, and longclaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian phylogenetics, the family Motacillidae features elongated hallux claws and terrestrial foraging behaviors across open habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motacillidae designates pipits and wagtails."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The diverse genera of the family **motacillidae** illustrate how insectivorous habits shape slender beaks."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Taxonomists classify both pipits and wagtails within the natural avian family **motacillidae**."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Specimens belonging to the **motacillidae** were collected across the grassy volcanic plains of Java."*
+

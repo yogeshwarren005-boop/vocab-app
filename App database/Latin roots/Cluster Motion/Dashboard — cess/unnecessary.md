@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not necessary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not necessary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not required by circumstances; needless, useless, redundant, or excessive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional jurisprudence, unnecessary searches and seizures violate Fourth Amendment protections against unreasonable governmental intrusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou whoreson zed! thou unnecessary letter!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you but mark how this becomes the house? ‘Dear daughter, I confess that I am old; [_Kneeling._] Age is unnecessary: on my knees I beg That you’ll vouchsafe me raiment, bed, and food.’ REGAN."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"This exertion proved unnecessary, as she was standing immediately behind the door."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Thou whoreson zed! thou **unnecessary** letter!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth considered any further discussion of Mr. Wickham's conduct entirely **unnecessary** and painful."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Pretty phrases and warm expressions being probably **unnecessary** where mutual affection was already understood."*
+

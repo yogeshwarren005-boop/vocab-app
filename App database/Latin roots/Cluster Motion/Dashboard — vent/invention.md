@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The creation of something in the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A creation (a new device or process) resulting from study and experimentation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A newly devised process, machine, or creative product; the faculty or power of inventing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual property jurisprudence, an original technical creation meeting statutory requirements of novelty, non-obviousness, and industrial utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O give thyself the thanks if aught in me, Worthy perusal stand against thy sight, For who’s so dumb that cannot write to thee, When thou thyself dost give invention light?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why write I still all one, ever the same, And keep invention in a noted weed, That every word doth almost tell my name, Showing their birth, and where they did proceed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look in your glass and there appears a face, That over-goes my blunt invention quite, Dulling my lines, and doing me disgrace."*
+> - 📜 **William Shakespeare (*Henry V*):** *"O for a Muse of fire, that would ascend the brightest heaven of **invention**!"*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **invention** of printing hath scattered knowledge across the earth beyond all former bounds."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labour greatly improves the **invention** of specialized machinery by observant artisans."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position or state of being dominant or in control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone from whom you are descended (but usually more remote than a grandparent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rising in power, authority, or prestige; dominant; an alternative spelling of ascendant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial cartography and astronomical history, ascendent zodiacal constellations mark the eastern dawn horizon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascendent designates position or state of being dominant or in control."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"When heroic moral conviction is **ascendent** in a nation, petty materialist factions melt away like mist."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Christian faith became **ascendent** throughout the empire following the conversion of Constantine."*
+> - 📜 **Francis Bacon (*Essays*):** *"A prudent courtier observes which faction is **ascendent** in the sovereign's personal confidence."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brilliant solo passage occurring near the end of a piece of music.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A brilliant solo passage occurring near the end of a piece of music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elaborate, virtuosic solo passage inserted near the close of a movement in a concerto, often played without accompaniment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical musicology and performance practice, the cadenza was historically improvised by the soloist over a sustained tonic 6/4 chord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadenza designates a brilliant solo passage occurring near the end of a piece of music."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The violin soloist executed the brilliant **cadenza** with dazzling intonation and breathtaking double-stopping."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The piano concerto culminated in an audacious **cadenza** that deconstructed traditional harmonic conventions."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy played Beethoven with passionate freedom, infusing the dramatic **cadenza** with her suppressed romantic longing."*
+

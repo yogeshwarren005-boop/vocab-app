@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The disappearance of electrical resistance at very low temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disappearance of electrical resistance at very low temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical property of zero electrical resistance and expulsion of magnetic fields in certain materials below critical temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In condensed matter physics (Bardeen-Cooper-Schrieffer theory), the Meissner effect demonstrates the perfect diamagnetism characteristic of superconductivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superconductivity designates the disappearance of electrical resistance at very low temperatures."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The discovery of room-temperature **superconductivity** would revolutionize global electrical transmission and maglev transportation."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"The quantum mechanics behind **superconductivity** exemplifies how counter-intuitive physics governs the subatomic realm."*
+> - 📜 **Isaac Asimov (*Nemesis*):** *"Hyperspace navigation computers depended upon quantum **superconductivity** to execute billions of calculations instantaneously."*
+

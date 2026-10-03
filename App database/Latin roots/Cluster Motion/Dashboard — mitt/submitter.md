@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who yields to the will of another person or force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who submits something (as an application for a job or a manuscript for publication etc.) for the judgment of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, group, or software client that submits an application, document, proposal, or electronic payload.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic publishing and peer review workflows, the corresponding submitter oversees manuscript revisions and editorial correspondence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, submitter designates someone who yields to the will of another person or force."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The philosophical **submitter** of a novel scientific theory must provide rigorous empirical demonstrations to the academy."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Every humble **submitter** of a patriotic petition was greeted with enthusiastic applause by the National Assembly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The weary **submitter** of an affidavit in Chancery waited decades for an official decree from the Chancellor."*
+

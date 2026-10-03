@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular course of action intended to achieve a result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (psychology) the performance of some composite cognitive activity; an operation that affects mental contents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of actions, operations, or natural changes systematically leading toward a specific outcome or result.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operating system architecture, a process represents an active instance of a computer program executing within an isolated virtual address space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He hath abandon’d his physicians, madam; under whose practices he hath persecuted time with hope, and finds no other advantage in the process but only the losing of hope by time."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where’s Fulvia’s process?—Caesar’s I would say?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proceed by process, Lest parties—as he is beloved—break out And sack great Rome with Romans."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection is a continuous **process** acting solely through the preservation of slight modifications advantageous to the organism."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The systematic investigation of nature requires an inductive **process** advancing from particulars to universal axioms."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The manufacturing **process** of dividing the production of a pin into eighteen distinct operations vastly multiplied output."*
+

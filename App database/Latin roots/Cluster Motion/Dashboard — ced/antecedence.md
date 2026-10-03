@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding in time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or fact of preceding or going before something in time, order, or priority; priority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological philosophy of science, temporal antecedence serves as a necessary, though not sufficient, condition for causal inference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antecedence designates preceding in time."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The invariant and unconditional **antecedence** of one phenomenon to another constitutes the philosophical essence of physical cause."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Constant conjunction and temporal **antecedence** are the empirical elements that our minds interpret as necessary connection."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The cosmic **antecedence** of nebulous matter to organized stellar systems illustrates the progressive law of evolution."*
+

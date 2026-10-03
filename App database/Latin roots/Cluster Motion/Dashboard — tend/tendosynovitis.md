@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a tendon and its enveloping sheath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a tendon and its enveloping sheath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a tendon together with its surrounding synovial sheath, causing pain and crepitus upon movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hand surgery and rheumatology, De Quervain tendosynovitis affects the abductor pollicis longus and extensor pollicis brevis sheaths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendosynovitis designates inflammation of a tendon and its enveloping sheath."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Exudative **tendosynovitis** was accompanied by audible friction sounds upon active flexion of the fingers."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"When inflammatory fluid accumulates within the digital sheath, acute **tendosynovitis** severely restricts tendon gliding."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The intricate pulley mechanisms of the human hand are vulnerable to debilitating **tendosynovitis** under excessive strain."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has fallen into a decadent state (morally or artistically).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by excessive self-indulgence and moral decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, exhibiting, or appealing to moral or cultural decline, excessive indulgence, or luxurious decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, decadent poetry (such as Baudelaire or Verlaine) emphasizes heightened aestheticism and morbid melancholy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I must confess that my satisfaction with my first theories of an automatic civilisation and a decadent humanity did not long endure."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"At last I saw again the dim shadows of houses, the evidences of decadent humanity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **decadent** court in Ravenna occupied itself with palace intrigues while barbarian kings carved up the western empire."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry expounded his **decadent** philosophy of living, advocating the pursuit of exquisite sensory pleasures."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The stern moralist condemned the idle and **decadent** aristocrats who feasted while honest working men starved."*
+

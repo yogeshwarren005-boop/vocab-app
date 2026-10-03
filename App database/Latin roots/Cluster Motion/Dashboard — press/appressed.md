@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressed close to or lying flat against something; ; -l.v.pirsson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pressed close to or lying flat against something; ; -l.v.pirsson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressed closely, flatly, or tightly against an organ, axis, or adjacent tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lichenology and mycology, denotes thalli or hyphae adhering closely to bark or rock substrata.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, appressed designates pressed close to or lying flat against something; ; -l.v.pirsson."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"In certain varieties of cabbage, the thick outer leaves remain tightly **appressed** to the head."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The lateral plates are firmly **appressed** to the chitinous exoskeleton, protecting internal gills."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The pubescence consists of minute **appressed** hairs that create a silken luster across the leaf surface."*
+

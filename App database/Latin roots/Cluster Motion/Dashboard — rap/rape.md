@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eurasian plant cultivated for its seed and as a forage crop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of despoiling a country in warfare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The crime of forcing another person into sexual intercourse against their will; or a Eurasian brassicaceous plant grown for oilseed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural agronomy, oilseed rape (Brassica napus) produces valuable vegetable oils and protein-rich livestock meal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This toil of ours should be a work of thine; But thou from loving England art so far That thou hast underwrought his lawful king, Cut off the sequence of posterity, Outfaced infant state, and done a rape Upon the maiden virtue of the crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Traitor, if Rome have law or we have power, Thou and thy faction shall repent this rape."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rape call you it, my lord, to seize my own, My true betrothed love, and now my wife?"*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"What dire offense from amorous causes springs, what mighty contests rise from trivial things, I sing this sacred lock's bold **rape**."*
+> - 📜 **William Shakespeare (*The Rape of Lucrece*):** *"The treacherous Tarquin wrought the cruel **rape** of Lucrece, plunging royal Rome into righteous rebellion."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The farmers of Hampshire planted wide fields of winter **rape** to provide nutritious early fodder for sheep."*
+

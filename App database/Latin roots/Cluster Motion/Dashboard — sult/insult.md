@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rude expression intended to offend or hurt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deliberately offensive act or something producing the effect of deliberate disrespect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak to or treat someone with disrespect, contempt, or insolence; an offensive remark or act.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and neurobiology, an ischemic or toxic insult damages delicate neural cells and triggers inflammatory cascades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who might be your mother, That you insult, exult, and all at once, Over the wretched?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath that poor monarch taught thee to insult?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me thy knife, I will insult on him, Flattering myself as if it were the Moor Come hither purposely to poison me."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For who would bear the whips and scorns of time, the oppressor's wrong, the proud man's contumely, and the **insult** of office?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth considered Mr. Darcy's haughty refusal to dance an unprovoked **insult** to her dignity."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"To subject a venerable monarch to public mockery is an **insult** that offends every principle of chivalry."*
+

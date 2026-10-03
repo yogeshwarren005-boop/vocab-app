@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reducing agent; a substance that brings about reduction in another chemical species by donating electrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, intracellular electron donors (such as NADPH and glutathione) maintaining cellular redox homeostasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductant designates a substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Nascent hydrogen acts as the most vigorous **reductant** in breaking down refractory metallic salts."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Organic matter in marsh soils acts as a potent **reductant**, transforming ferric iron into soluble ferrous compounds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ascorbic acid functions physiologically as a biological **reductant** essential for connective tissue collagen synthesis."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who suppresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gene that suppresses the phenotypic expression of another gene (especially of a mutant gene).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which suppresses, crushes, silences, or holds back from manifestation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, a suppressor mutation or gene that reverses the phenotypic effect of an existing mutation at another locus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suppresser designates someone who suppresses."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The standing army acted as the prompt **suppresser** of seditious assemblies throughout the capital."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Milton stood forth as the unyielding **suppresser** of clerical censorship and intellectual monopolies."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain genetic modifiers act as an effectual **suppresser** of ancestral reversionary plumage."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force to leave or move out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from a position or office.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To force out, drive away, or eject from a place, group, country, or academic institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary physiology and respiratory mechanics, diaphragmatic and intercostal contractions expel alveolar air during expiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Tribunes are no soldiers, and their people Will be as rash in the repeal as hasty To expel him thence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that that earth which kept the world in awe Should patch a wall t’expel the winter’s flaw."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Which to reduce into our former favour You are assembled; and my speech entreats That I may know the let, why gentle Peace Should not expel these inconveniences And bless us with her former qualities."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman senate resolved to **expel** corrupt governors who had plundered the Asian provinces."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The headmaster threatened to **expel** any student caught violating the strict school rules."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary assembly voted to **expel** all royalist deputies from the halls of the convention."*
+

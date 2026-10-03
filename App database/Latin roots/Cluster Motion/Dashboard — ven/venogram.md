@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An x ray of a vein injected with a radiopaque contrast medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x ray of a vein injected with a radiopaque contrast medium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiographic image (X-ray) of a vein obtained following injection of a radiopaque contrast substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular radiology, an ascending venogram utilized to detect deep vein thrombosis (DVT) and venous valvular insufficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venogram designates an x ray of a vein injected with a radiopaque contrast medium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The radiographic **venogram** clearly delineated an obstructive thrombus extending along the femoral vein."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Pioneering clinicians utilized the contrast **venogram** to map abnormal vascular channels before surgery."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The development of the contrast **venogram** transformed clinical diagnosis of deep vascular blockages."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of not being available when needed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of not being available when needed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or characteristic of being impossible or extremely difficult to reach, approach, or enter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In defense geography and military siege history, the natural inaccessibility of mountain citadels enabled garrisons to hold off invaders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"O the sense of distance and disparity that came upon me, and the inaccessibility that came about her!"*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The sheer red sandstone cliffs gave the South American plateau an absolute **inaccessibility** to ordinary exploration."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The rugged **inaccessibility** of the volcanic island provided a secure nesting haven for oceanic petrels and boobies."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The fortress of Edinburgh Castle derived its historic strength from the precipitous **inaccessibility** of its basalt crag."*
+

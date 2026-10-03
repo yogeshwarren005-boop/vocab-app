@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who ascends.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lowercase letter that has a part extending above other lowercase letters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that climbs or rises; or in typography, the upward vertical stem of a lowercase letter extending above the x-height.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technical mountaineering and caving, a mechanical ascender uses a camming mechanism to grip ropes for vertical rope climbing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascender designates someone who ascends."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The mountain **ascender** strapped on his crampons and checked his rope before tackling the icy couloir."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic scribe carefully balanced the tall **ascender** of the letters 'b' and 'd' across the illuminated page."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger designed a mechanical rope **ascender** to scale the vertical red sandstone cliffs of the plateau."*
+

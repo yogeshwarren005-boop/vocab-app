@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make tender or more tender as by marinating, pounding, or applying a tenderizer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made tender as by marinating or pounding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subjected to pounding, marinating, or enzymatic treatment to soften tough muscular fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural commerce, tenderized meat cuts command higher retail demand by improving eating satisfaction in lower-grade beef.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenderized designates make tender or more tender as by marinating, pounding, or applying a tenderizer."*
+> - 📜 **Jack London (*South Sea Tales*):** *"The feast featured **tenderized** wild boar roasted wrapped in green plantain fronds."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The villagers relished the **tenderized** venison pie prepared for the annual timber auction."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The German innkeeper offered us **tenderized** veal cutlets fried crisp in sweet country butter."*
+

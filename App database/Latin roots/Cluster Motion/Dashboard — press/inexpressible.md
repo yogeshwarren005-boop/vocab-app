@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defying expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defying expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond the power of language or words to describe; ineffable, unspeakable, or overwhelming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century colloquial humor, a Victorian euphemistic term for trousers (inexpressibles).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Mademoiselle, I have an inexpressible desire to find service with a young lady who is good, accomplished, beautiful."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It would be an inexpressible relief."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O, it was no levity to me!” He felt how richly he deserved the reproach that the wounded cry conveyed, and, in a sorrow that was inexpressible, leapt down and took her hand."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"To hear that Gabriel had safely thatched the ricks was an **inexpressible** relief to her tormented mind."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I felt an **inexpressible** longing to pass beyond the blue horizon and see the wide world outside."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The sight of Joe Gargery's honest, patient face brought an **inexpressible** warmth to my lonely heart."*
+

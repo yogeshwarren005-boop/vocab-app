@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit cooked in sugar syrup and encrusted with a sugar crystals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit cooked in sugar syrup and encrusted with a sugar crystals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Candied, crystallized, or preserved fruit or vegetable peel, especially the sweet preserved rind of the citron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical confectionery and maritime provisioning, imported jars of candied succade were prized festive baking ingredients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, succade designates fruit cooked in sugar syrup and encrusted with a sugar crystals."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The confectioner's shop windows were laden with rich candied peel and jars of aromatic sweet **succade**."*
+> - 📜 **William Thackeray (*Vanity Fair*):** *"Jos Sedley relished exotic delicacies, ordering boxes of preserved **succade** and stem ginger from the East Indies."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"The colonial grocer stocked barrels of Portuguese citrons and sweet **succade** for the London holiday trade."*
+

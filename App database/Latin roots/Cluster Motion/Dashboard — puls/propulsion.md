@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A propelling force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of propelling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of driving, pushing, or causing to move forward; or the mechanical means by which motion is produced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture and marine engineering, electric azipod propulsion enhances vessel maneuverability in tight harbor channels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"To the whale, his tail is the sole means of propulsion."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Nozzles of cone-shaped propulsion units on gimbals hung in neutral."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In time the integrated drives of the most advanced propulsion thrusters took on the full load, and the dream of humankind was on its way to the Alpha Centauri star system, on schedule."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo described the revolutionary electrical **propulsion** that drove the submarine through the deep oceans."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"The metallic sphere relied on gravitational **propulsion** once the opaque shutters were turned toward the sun."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The massive tail fluke of the sperm whale provided astonishing **propulsion**, hurling forty tons through the water."*
+

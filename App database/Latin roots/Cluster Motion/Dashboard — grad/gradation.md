@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relative position in a graded series.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A degree of ablaut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scale or series of successive changes, stages, or degrees; or a subtle transition between colors, tones, or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and paleontology, phyletic gradualism posits that morphological change proceeds via subtle phenotypic gradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I’ll desire To meet me at the consecrated fount, A league below the city; and from thence, By cold gradation and well-balanced form."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, there’s no remedy. ’Tis the curse of service, Preferment goes by letter and affection, And not by old gradation, where each second Stood heir to the first."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Of various admirals I could tell you a great deal: of them and their flags, and the gradation of their pay, and their bickerings and jealousies."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection can act only through the preservation of useful variations by minute, successive **gradation**."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"Vast chain of being, which from God began, natures ethereal, human, angel, man, beast, bird, fish, insect, what no eye can see, no glass can reach, from infinite to thee, from thee to nothing; on superior powers were we to press, inferior might on ours; or in the full creation leave a void, where, one step broken, the great scale's destroyed; from Nature's chain whatever link you strike, tenth, or ten thousandth, breaks the chain alike; each creature in its proper **gradation**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"There is a seamless **gradation** in natural species that defies the rigid boundaries of human verbal definition."*
+

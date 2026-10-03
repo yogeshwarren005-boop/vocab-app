@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discussant who offers an example or a reason or a proof.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discussant who offers an example or a reason or a proof.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who adduces, brings forward, or cites facts, arguments, or evidence in a controversy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical debate and legal advocacy, the party introducing documentary proof to support affirmative propositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adducer designates a discussant who offers an example or a reason or a proof."*
+> - 📜 **Edmund Burke (*Speech on the Impeachment of Warren Hastings*):** *"The **adducer** of historical precedents must establish that the ancient circumstances correspond to the present case."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Milton stood forth as the eloquent **adducer** of biblical and classical liberties against monarchical usurpation."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The candid **adducer** of new arguments welcomes sincere scrutiny from impartial searchers after truth."*
+

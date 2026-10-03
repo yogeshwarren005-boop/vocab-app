@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to set in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving to set in motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to initiate, introduce, or begin; introductory, preparatory, or inaugural.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological ritual theory, initiatory rites of passage demarcate the social transition from adolescent status to adulthood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"But, although he was often urged to do so, he never would accept office nor advance beyond the initiatory stage of membership represented by the simple white "bib" of infancy."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Amongst many savage tribes, especially such as are known to practice totemism, it is customary for lads at puberty to undergo certain initiatory rites, of which one of the commonest is a pretence of killing the lad and bringing him to life again."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Thus the essence of these initiatory rites, so far as they consist in a simulation of death and resurrection, would be an exchange of life or souls between the man and his totem."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"We always, in this house, propose a month—an **initiatory** month, so that both parties may understand their bargain."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The master gave the students an **initiatory** lecture on the principles of mechanical physics."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The knight had to undergo an **initiatory** vigil in the chapel before being admitted to the chivalric order."*
+

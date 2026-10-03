@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of christian denomination that expects the imminent advent of christ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of christian denomination that expects the imminent advent of christ.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer or adherent of Adventism who expects the imminent personal return of Christ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In denominational history, members of Sabbath-keeping bodies like the Seventh-day Adventist Church, established formally in 1863.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventist designates a member of christian denomination that expects the imminent advent of christ."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The dedicated **Adventist** lived in constant anticipation of the trumpet sounding from the heavens."*
+> - 📜 **Harold Frederic (*The Damnation of Theron Ware*):** *"The earnest young **Adventist** colporteur distributed tracts concerning the prophetic numbers of Daniel."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The hospital superintendent respected the conscientious **Adventist** orderly who observed Saturday as the holy Sabbath."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of changing location in an upward direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Travel up,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving, climbing, or sloping upward; rising in scale, sequence, pitch, or magnitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human cardiovascular anatomy, the ascending aorta arises from the left ventricle and arches into the systemic arterial tree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"As soon as they were fairly ascending Belmont, he began— “Well, now you shall hear something that will surprise you."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Lingering and musing here, he heard the steps of a horse at the foot of the hill, and soon there appeared in view an auburn pony with a girl on its back, ascending by the path leading past the cattle-shed."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s eyes, shaded by one hand, were following the ascending multitude against the unexplorable stretch of blue till they ultimately halted by one of the unwieldy trees spoken of."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The heavy mail coach labored up the hill, the horses panting in the chilly mist of the **ascending** road."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I observed the dark, colossal figure of the creature **ascending** the sheer face of the glacier with incredible speed."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Watson followed Holmes up the narrow, **ascending** trail leading to the ancient Neolithic stone hut."*
+

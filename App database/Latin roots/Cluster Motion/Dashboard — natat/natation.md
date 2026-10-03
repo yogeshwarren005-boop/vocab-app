@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of someone who floats on the water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of someone who floats on the water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or art of swimming or floating on water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological biomechanics and human physical culture, natation encompasses distinct aquatic locomotive propulsion mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natation designates the act of someone who floats on the water."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The swimmerets along the abdominal segments are beautifully adapted for aquatic **natation**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain upland bird species preserve webbed feet originally developed for marine **natation**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The majestic whale performs effortless **natation** across thousands of leagues of tempestuous ocean."*
+

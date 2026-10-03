@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unemotional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unemotional manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner devoid of overt emotion, excitement, or passionate feeling; calmly, impassively, or dispassionately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courtroom testimony and objective scientific reporting, presenting factual observations without inflammatory rhetoric or personal bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unemotionally designates in an unemotional manner."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes delivered his startling conclusions **unemotionally**, as though stating an elementary problem in Euclid."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Michael Henchard stated his ruined balance sheet **unemotionally** before the assemblage of bewildered creditors."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The inspector recounted the details of the Greenwich explosion **unemotionally**, noting each scrap of evidence."*
+

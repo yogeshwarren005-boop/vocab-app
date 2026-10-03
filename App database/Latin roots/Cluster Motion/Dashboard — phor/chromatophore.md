@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin phor within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of phor in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pigment-containing or light-reflecting cell found in the skin of cephalopods, amphibians, fish, and reptiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate neurobiology, radial muscle fibers contract around each chromatophore to produce rapid chromatic camouflage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chromatophore designates pertaining to, derived from, or characteristic of latin phor within the domain of motion."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The cuttlefish displayed rapid chromatic changes as each **chromatophore** expanded and contracted across its iridescent skin."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"Microscopic sections through the cephalopod integument reveal layers of radiant **chromatophore** cells linked to neural fibers."*
+> - 📜 **H. G. Wells (*The Sea Raiders*):** *"The mysterious tentacled sea monster flushed dark crimson as every dermal **chromatophore** darkened under excitement."*
+

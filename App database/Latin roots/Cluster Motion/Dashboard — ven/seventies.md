@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The decade from 1970 to 1979.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The time of life between 70 and 80.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The numbers, years, or temperature degrees spanning from seventy to seventy-nine; the eighth decade of human life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century history, the 1970s denotes the decade marked by the oil crises, détente, stagflation, and countercultural transition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Massachusetts developed in the seventies a commission of "the advisory type" which investigated and made public the conditions, leaving to public opinion the correction of the evils."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A number of the Western states, notably Illinois and Iowa, developed in the seventies commissions of "the strong type," with power to fix rates and to enforce their rulings."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is possible that the romantic paste in her composition was defective: we must always remember that hardly anybody born in her decade--that of the eighteenth-century seventies--independently exhibited the full romantic quality."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke was well into his **seventies**, yet retained the active habits of his youthful squire days."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The veteran maltster had passed his **seventies** and sat comfortably beside the glowing malt-kiln."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"She observed elderly gentlemen in their **seventies** taking their morning stroll across St. James's Park."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the attention diverted especially because of anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the attention diverted especially because of anxiety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distracted, absent-minded, or preoccupied with other thoughts; inattentive to present surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French and English psychological character study, the distrait scholar represents a classic trope of intellectual absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Stapleton was talking with animation, but the baronet looked pale and distrait."*
-> - 📜 **James Joyce (*Ulysses*):** *"His free hand graciously wrote tiny signs in air. _Hamlet ou Le Distrait Pièce de Shakespeare_ He repeated to John Eglinton’s newgathered frown: —_Pièce de Shakespeare_, don’t you know."*
-> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: How is that? _Le distrait_ or absentminded beggar. _(He fumbles again in his pocket and draws out a handful of coins."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"Syme seemed a little **distrait**, and as he passed under the doorway he suddenly struck his forehead."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley appeared unusually **distrait** during dinner, answering queries with vague and brief replies."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Steerforth sat silent and **distrait** by the fireside, lost in melancholy reverie."*
+

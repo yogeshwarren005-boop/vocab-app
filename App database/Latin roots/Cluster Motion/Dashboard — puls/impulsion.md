@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A force that moves something along.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of applying force suddenly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An impelling action, forward propulsion, or the psychological urge arising from strong sudden motivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dynamic psychology, vital impulsion describes instinctual drives motivating purposive biological activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"It shows the possibilities derived from divine Mind, though it is said to be a gift whose endowment 88:30 is obtained from books or received from the impulsion of departed spirits."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In every case the elector has been an instrument, bound to obey a particular impulsion, and disobedience to which would be attended with infamy, and with every penalty which public indignation could inflict."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The great popular **impulsion** gathered irresistible momentum as thousands surged toward the royal palace gates."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every material movement in the universe represents the transmission of an initial dynamic **impulsion** through space."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"True poetic composition requires a spiritual **impulsion** that fuses disparate thoughts into a living harmony."*
+

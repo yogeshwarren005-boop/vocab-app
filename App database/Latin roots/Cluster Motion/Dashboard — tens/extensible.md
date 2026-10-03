@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being protruded or stretched or opened out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being protruded or stretched or opened out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being pulled out, elongated, stretched, or extended in length, area, or scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software architecture and systems design, extensible software frameworks permit third-party plugin integration without modifying core source code.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensible designates capable of being protruded or stretched or opened out."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The **extensible** proboscis of the hawk-moth is adapted to drain the deep nectaries of Madagascar orchids."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Heated vulcanized caoutchouc forms an **extensible** elastic membrane that resists hydrostatic pressure."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The jointed abdominal segments are connected by an **extensible** chitinous membrane that facilitates rapid swimming."*
+

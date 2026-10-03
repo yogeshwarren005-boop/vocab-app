@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smooth and unconstrained in movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing yourself readily, clearly, effectively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to speak or write smoothly, easily, and readily; flowing gracefully in movement or words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheology and fluid mechanics, fluent materials deform continuously and yield without fracture under applied shear stresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He spoke to everybody he met, in the train, in the steamboat, or in hotels, in fluent if rather "bookish" German, in correct but somewhat halting French, or, if it was a Roman Catholic priest he had to deal with, in sonorous Latin."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I understood her very well, for I had been accustomed to the fluent tongue of Madame Pierrot."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"His version, or rather adaptation (for much is omitted and much is paraphrased), is fluent, but he had not enough Greek to reproduce the finer shades of the original, or, indeed, to avoid gross mistakes."*
+> - 📜 **William Shakespeare (*Henry V*):** *"It is a theme as **fluent** as the sea; turn the sands into eloquent tongues, and my horse is argument for them all."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The banker's speech was **fluent**, but it was also copious, and he used up an appreciable amount of time."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Herbert Pocket was a cheerful, **fluent** companion who made Pip feel instantly at home."*
+

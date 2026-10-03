@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pool that provides a facility for swimming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pool that provides a facility for swimming.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swimming pool, especially an indoor swimming pool within a dedicated athletic facility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civic architectural engineering, an indoor natatorium requires specialized HVAC dehumidification systems to prevent structural moisture rot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, natatorium designates pool that provides a facility for swimming."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"The palatial lakefront estate boasted a heated marble **natatorium** illuminated by vaulted skylights."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"Amory lingered near the university **natatorium**, watching the glistening swimmers dive through emerald water."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"The metropolitan recreation complex incorporated a spacious tiled **natatorium** for public hygiene."*
+

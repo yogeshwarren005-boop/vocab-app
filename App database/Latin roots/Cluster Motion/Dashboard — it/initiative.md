@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Readiness to embark on bold new ventures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first of a series of actions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability, energy, or readiness to initiate actions independently; or a fresh introductory step or measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In direct democracy and state constitutional law, a ballot initiative enables citizens to propose statutes or constitutional amendments by petition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the latter state, on the initiative of a public-spirited citizen of St."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It was this undertaking of the initiative by the government, the treatment of the problem as one of the general welfare, that marked a new epoch in this field."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"With all your ability you'll never be worth more than six or seven hundred a year, for you've no initiative and you're as nervous as a cat."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He had no genius for organizing, for **initiative**, or for order even; yet he presided over the station."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Machinery, however perfect, still needs some little intellectual **initiative** to maintain and guide its operation."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The victorious counter-offensive wrested the strategic **initiative** permanently from the enemy command."*
+

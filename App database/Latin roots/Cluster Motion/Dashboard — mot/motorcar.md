@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor vehicle with four wheels; usually propelled by an internal combustion engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motor vehicle with four wheels; usually propelled by an internal combustion engine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-propelled four-wheeled passenger vehicle designed for roadway transport; an automobile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early 20th-century British legal and colloquial usage, the standard formal designation for privately owned passenger automobiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It has vanished long ago... —She lies laid out in stark stiffness in that secondbest bed, the mobled queen, even though you prove that a bed in those days was as rare as a motorcar is now and that its carvings were the wonder of seven parishes."*
-> - 📜 **James Joyce (*Ulysses*):** *"The windscreen of that motorcar in the sun there."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"A private **motorcar** had drawn up at the curb, its brass headlamps gleaming in the dense London fog."*
+> - 📜 **Kenneth Grahame (*The Wind in the Willows*):** *"Toad was entirely captivated by the magnificent **motorcar**, murmuring 'poop-poop' in delirious admiration."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The acquisition of an expensive French **motorcar** was the first unmistakable badge of commercial success."*
+

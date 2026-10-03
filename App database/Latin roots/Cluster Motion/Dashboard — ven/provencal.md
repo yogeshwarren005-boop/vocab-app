@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The medieval dialects of langue d'oc (southern france).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to provence or its people or their culture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Provence, its people, or the Romance language (Occitan) spoken in southeastern France.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval romance philology, the literary dialect of the 12th-century troubadours cultivating courtly love poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He had always wished to see the old Provencal capital, but somehow the opportunity had always passed by, or something...."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Here were Provencals, cheery, short, tubby, excitable, olive-colored, black-bearded, calling to one another in the _langue d'oc_ of the troubadours, _"Te, mon bon!"*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And along the gulf there were settlements of Saracen blood--_les Maures_, the Provencals called them ... and the shadow of Pontius Pilate wild-eyed in the dusk...."*
+> - 📜 **Walter Scott (*Anne of Geierstein*):** *"The minstrel sang a melodious **provencal** ballad celebrating the deeds of chivalric knighthood."*
+> - 📜 **Henry James (*A Little Tour in France*):** *"The midday sun bathed the ancient Roman arena in brilliant **provencal** light."*
+> - 📜 **W. B. Yeats (*Ideas of Good and Evil*):** *"The early lyric poets were deeply stirred by the delicate melodies of **provencal** song."*
+

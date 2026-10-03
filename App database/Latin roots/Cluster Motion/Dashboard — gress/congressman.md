@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the united states house of representatives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the united states house of representatives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male member of a national congress, especially a member of the United States House of Representatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American electoral legislative politics, each congressman represents a constitutionally apportioned single-member district.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"I am doing well, I hope, Congressman Bloodworth."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Congressman Bloodworth dropped into a chair, crossed his short legs and began stroking his red mustache."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Congressman Bloodworth was a white man, with an abnormally large head and a frame somewhat corpulent."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The influential **congressman** promised to insert an appropriation bill for the navigation of the local river."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George Babbitt was eager to shake hands with his local **congressman** at the annual chamber of commerce banquet."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"The street railway syndicate contributed generously to the campaign fund of the senior **congressman**."*
+

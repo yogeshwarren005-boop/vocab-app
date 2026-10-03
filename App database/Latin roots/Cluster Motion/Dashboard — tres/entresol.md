@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate floor just above the ground floor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate floor just above the ground floor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low intermediate mezzanine floor, especially between the ground floor and the first floor of a building.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Parisian neoclassical architecture and urban real estate history, the entresol offered lower ceilings and rents for small shops or clerks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"They could take the premier now, instead of the little entresol of the hotel which they occupied."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"She grinned as she looked up at the little entresol which she had occupied, and thought of the Bareacres family, bawling for horses and flight, as their carriage stood in the porte-cochere of the hotel."*
+> - 📜 **Honoré de Balzac (*Old Goriot*):** *"The humble boarding house contained a shadowy **entresol** inhabited by impoverished students and clerk pensioners."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether looked up at the pleasant balcony of the Parisian **entresol**, admiring the classical stone balustrade."*
+> - 📜 **William Thackeray (*The Paris Sketch Book*):** *"The bustling print seller operated his modest business from a low-ceilinged **entresol** above the boulevard arcade."*
+

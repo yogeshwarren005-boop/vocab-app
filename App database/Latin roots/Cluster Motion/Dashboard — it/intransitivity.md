@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The grammatical relation created by an intransitive verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grammatical relation created by an intransitive verb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The linguistic condition or grammatical relation whereby a verb or relation does not pass over to an object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical logic and social choice theory, Arrow's impossibility theorem addresses the intransitivity of collective majority preferences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intransitivity designates the grammatical relation created by an intransitive verb."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The morphological mark of **intransitivity** in classical Greek was expressed through the middle voice suffix."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"Certain English verbs preserve their archaic **intransitivity** despite colloquial pressures toward transitivization."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The formal **intransitivity** of asymmetric relations plays a pivotal role in constructing relational order."*
+

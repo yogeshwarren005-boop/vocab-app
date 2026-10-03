@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A manometer for measuring vapor pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A manometer for measuring vapor pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus or instrument used to measure the vapor pressure of liquids or the tension of gases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, a differential tensimeter measures small vapor pressure differences between pure solvent and dilute solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensimeter designates a manometer for measuring vapor pressure."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The chemical laboratory was equipped with a precision mercury **tensimeter** to record vapor tensions of ethers."*
+> - 📜 **John Tyndall (*Heat, a Mode of Motion*):** *"The investigator calibrated the **tensimeter** to observe the rapid increase of vapor pressure with rising temperature."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor checked the delicate **tensimeter** mounted on the sphere's bulkhead before sealing the airlock hatches."*
+

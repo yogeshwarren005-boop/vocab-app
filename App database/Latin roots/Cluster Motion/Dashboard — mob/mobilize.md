@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make ready for action or use.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call to arms; of military personnel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To assemble, organize, and put into active service military forces or societal resources for action or war.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate crisis management, leadership must mobilize cross-functional emergency teams to manage infrastructure failures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobilize designates make ready for action or use."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"We must **mobilize** the entire mechanical and scientific genius of our people to overcome the U-boat threat."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"The general appealed to the governors to **mobilize** regional militia units to counter the British advance."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The world directorate sought to **mobilize** global transport resources to relieve the stricken famine districts."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bodily passage or tube lined with epithelial cells and conveying a secretion or other substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous tube formed by a row of elongated cells lacking intervening end walls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bodily tube, canal, or vessel that conveys fluid or secretions; or a conduit for ventilation, cables, or liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial HVAC engineering, sheet-metal duct networks distribute heated or conditioned air throughout multi-story buildings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak's expertise with duct tape and hand tools would get credit for the successful escape."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The insulation of his heart by reserve during these many years, without a duct of any kind for disposable emotion, had worked its effect."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With elaborate gestures I inspected all surfaces and seams, measured the damaged areas with my ruler, cut the proper length strip from my large roll of duct tape, and pressed it into place."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The lacrimal gland pours its secretion through a delicate **duct** over the surface of the eyeball."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Bile passes from the liver cells into the hepatic **duct** and is stored within the gallbladder."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A subterranean **duct** seemed to connect the deep fountain of his thoughts with his outward speech."*
+

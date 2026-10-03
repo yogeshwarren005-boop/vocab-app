@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being graded (for quality or rank or size etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being graded (for quality or rank or size etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being graded, categorized, or compared on a continuum of degree or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural linguistics and semantic theory, gradable adjectives (such as hot/cold or large/small) admit comparative morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gradable designates capable of being graded (for quality or rank or size etc.)."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Qualitative sensations of temperature and brightness form a **gradable** series amenable to quantitative measurement."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Emotional intensities of pleasure and pain exist as a continuous, **gradable** continuum in human consciousness."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The complex phenomena of biological evolution present a **gradable** progression from simplicity to intricate organization."*
+

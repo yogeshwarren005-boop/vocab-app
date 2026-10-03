@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to locomotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to locomotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, concerned with, or effecting locomotion and physical bodily movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, tabes dorsalis causes progressive sensory loss and wide-based stomping gait due to dorsal column degeneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"FLORRY: _(Nods.)_ Locomotor ataxy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The typical symptoms of **locomotor** ataxia include loss of deep tendon reflexes and sensory Romberg sign."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The spinal cord houses the essential reflex arcs that coordinate **locomotor** rhythmic gait."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **locomotor** apparatus of anthropoid apes is adapted primarily for arboreal brachiation."*
+

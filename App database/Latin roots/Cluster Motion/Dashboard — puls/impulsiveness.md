@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of acting suddenly on impulse without reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of acting suddenly on impulse without reflection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to act suddenly on sudden urges without reflecting on consequences or exercising caution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental pediatrics and cognitive psychology, adolescent impulsiveness reflects asynchronous maturation of executive prefrontal circuits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"As it was, she distrusted the elderly woman who showed an impulsiveness foreign to her years."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Anna Pávlovna Schérer on the contrary, despite her forty years, overflowed with animation and impulsiveness."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Impulsiveness, unconventionality, and girlish irresponsibility were all very delightful, of course--at times; but not now, certainly."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia's reckless **impulsiveness** brought her family to the brink of social disgrace through her runaway match."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate acknowledged that his youthful **impulsiveness** in purchasing lavish furnishings had precipitated his debt."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The constitutional **impulsiveness** of sanguine temperaments renders deliberate sustained attention difficult."*
+

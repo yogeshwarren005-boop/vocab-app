@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rate that is rapid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rate that is rapid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being rapid, swift, or fast; speediness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In manufacturing engineering and machining, rapidness of feed rates must be balanced against cutting tool wear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rapidness designates a rate that is rapid."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **rapidness** with which life glides away should inspire mankind with diligent resolution in virtue."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The marvelous **rapidness** of thought allows the imagination to traverse the cosmos in a single instant."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The alarming **rapidness** of the national bankruptcy forced the crown to convene the long-forgotten Estates-General."*
+

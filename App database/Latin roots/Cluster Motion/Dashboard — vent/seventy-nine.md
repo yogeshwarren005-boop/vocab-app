@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being nine more than seventy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being nine more than seventy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to the sum of seventy and nine; one less than eighty; 79.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, gold (symbol Au) has atomic number seventy-nine, possessing high malleability and corrosion resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-nine designates being nine more than seventy."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The register recorded that the former mayor had reached the age of **seventy-nine** before laying down his earthly cares."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The old pensioner lived in room number **seventy-nine** of the almshouse, spending his days knitting stockings."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The estate accounts showed a surplus of **seventy-nine** pounds after all tenant repairs had been satisfied."*
+

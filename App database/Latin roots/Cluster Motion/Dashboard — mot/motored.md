@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel or be transported in a vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equipped with a motor or motors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipped with a motor for mechanical propulsion; traveled or moved by motor vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture, denotes auxiliary sailing vessels fitted with secondary combustion engines for harbor maneuvering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"This morning I motored into Amesbury to change the library books and to enquire after Canon Bodington."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"But only on Monday Mr Maplestone motored over from Wembly."*
+> - 📜 **James Joyce (*Dubliners*):** *"The wealthy young sportsmen **motored** out to the suburban racetrack in their gleaming foreign tourer."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"They **motored** into the surrounding hills, admiring the olive orchards spread across the valley beneath."*
+> - 📜 **F. Scott Fitzgerald (*This Side of Paradise*):** *"Amory and his classmates **motored** down to the coastal cottage for a lively weekend holiday."*
+

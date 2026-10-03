@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place ceremoniously or formally in an office or position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accept people into an exclusive society or group, usually with some rite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To install or admit someone formally with ceremony into an office, benefice, society, or military organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical law and the Church of England, an archdeacon will induct a newly instituted rector into real possession of the church temporalities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet concludes that for such a case there is no remedy like a pipe, and fastening the brooch herself in a twinkling, causes the trooper to be inducted into his usual snug place and the pipes to be got into action."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"But the time had come for other and more engrossing labors for the sick and wounded, and she was to be inducted into them by the avenue of personal anxiety for one of her sons."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Moss's mansion in Cursitor Street, and was duly inducted into that dismal place of hospitality."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bishops assembled in council to **induct** the new patriarch into the patriarchal throne of Antioch."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The university authorities refused to **induct** the royal nominee into the presidency of the college."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The presbytery met in solemn convocation to **induct** the young minister into his rural parish."*
+

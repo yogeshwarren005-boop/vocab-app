@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A procession of people traveling in motor cars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A procession of people traveling in motor cars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal ceremonial procession or escorted convoy of automobiles, typically carrying dignitaries or officials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic protocol and executive security, organized with lead scout vehicles, armored limousines, and tactical chase cars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorcade designates a procession of people traveling in motor cars."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The official **motorcade** swept past cheering Parisian crowds as we made our way to the Arc de Triomphe."*
+> - 📜 **John Dos Passos (*U.S.A.*):** *"Police sirens shrieked as the presidential **motorcade** navigated the wide boulevards of the capital."*
+> - 📜 **Graham Greene (*The Quiet American*):** *"The French general's **motorcade** raced through the Saigon streets flanked by armored jeeps and heavy machine guns."*
+

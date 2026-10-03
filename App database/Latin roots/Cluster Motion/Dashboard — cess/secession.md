@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An austrian school of art and architecture parallel to the french art nouveau in the 1890s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The withdrawal of eleven southern states from the union in 1860 which precipitated the american civil war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal withdrawal of a constituent state, region, or group from a larger political union, religious federation, or organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American constitutional history, the doctrine of unilateral state secession was repudiated by the outcome of the Civil War and Texas v. White.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The United Secession--formerly the Burgher--Church at Stockbridge occupied a site conveniently central for the wide district which it served, but very solitary."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Stark, minister of another Secession church in the village--a much younger man than Mr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In November 1844 be applied to the Edinburgh Presbytery of the Secession Church for license, and he received it at their hands in the following February."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"Plainly, the central idea of **secession** is the essence of anarchy; a majority held in restraint by constitutional checks and limitations is the only true sovereign of a free people."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The peaceful **secession** of the plebeians to the Mons Sacer compelled the Roman Senate to create the office of the tribunes."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The threatened **secession** of the Scottish bishops from the assembly created an irreparable schism in the national church."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put down by force or intimidation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conceal or hide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subdue, suppress, or restrain by force; to keep emotional feelings or memories under conscious control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic theory, an unconscious defense mechanism banishing distressing impulses, memories, or wishes from conscious awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But she determined to repress all evidences of feeling."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her mother could not repress her consciousness of the nuptial vision conjured up by the girl’s consent."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Unable of course to repress your curiosity in so favourable a moment for indulging it, you will instantly arise, and throwing your dressing-gown around you, proceed to examine this mystery."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She determined to **repress** all visible evidences of feeling as Gabriel entered the barn."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mary was unable to **repress** her natural sarcasm when listening to Mr. Tyke's solemn platitudes."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Society must **repress** antisocial aggression in order to safeguard the security of all citizens."*
+

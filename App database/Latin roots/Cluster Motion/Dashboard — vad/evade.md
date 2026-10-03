@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Avoid or try to avoid fulfilling, answering, or performing (duties, questions, or issues).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Escape, either physically or mentally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To escape, avoid, or slip away from someone or something through cleverness, trickery, or agility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and tax jurisprudence, taxpayers may legitimately avoid taxes but commit criminal fraud when they evade them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he evade us there, Enforce him with his envy to the people, And that the spoil got on the Antiates Was ne’er distributed."*
-> - 📜 **Jane Austen (*Persuasion*):** *"It had not been necessary, and the few occasions of its being possible for her to go to the Hall she had contrived to evade and escape from."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I seem to have received, with full force, the blow I had been trying to evade."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The clever fugitive managed to **evade** every cordon established by Scotland Yard across the docks."*
+> - 📜 **Jane Austen (*Emma*):** *"Frank Churchill sought adroitly to **evade** questions that threatened to expose his clandestine engagement."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The light cavalry utilized their nomadic mobility to **evade** pitched battles with the Roman legions."*
+

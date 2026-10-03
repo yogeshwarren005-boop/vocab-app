@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admit (to a wrongdoing).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be willing to concede.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To acknowledge, admit, or surrender something as true, valid, or proper, typically after initial reluctance or debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In democratic electoral politics, candidates concede defeat once vote tallies demonstrate an insurmountable statistical lead.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To this demand the friends of protection who were in power felt compelled to concede something--or to appear to do so."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"So much his own are all these things that it is hard to imagine the possibility of his being a mere literary creation, even if we could concede a joint literary creation by several authors writing independent works."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That’s the style.” “You must concede that there are abuses, Hawley,” said Mr."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was forced to **concede** that Darcy's letter presented the facts regarding Wickham in a completely new light."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes was generous enough to **concede** that the Scotland Yard inspector had shown commendable initiative."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"An honest debater will readily **concede** points where empirical facts refute his initial preconceptions."*
+

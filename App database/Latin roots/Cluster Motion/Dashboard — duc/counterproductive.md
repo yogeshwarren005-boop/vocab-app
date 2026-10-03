@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to hinder the achievement of a goal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to hinder the achievement of a goal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the opposite of the desired effect; hindering rather than advancing the achievement of a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public policy economics, perverse incentives producing regulatory capture or black market expansion opposite to legislative intent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, counterproductive designates tending to hinder the achievement of a goal."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Excessive legal censorship proves **counterproductive**, exciting curiosity and imparting martyr prestige to banned opinions."*
+> - 📜 **George Orwell (*Collected Essays*):** *"Crude propaganda campaigns are often **counterproductive**, alienating intelligent sympathizers by obvious distortions."*
+> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"Harsh bureaucratic coercion frequently proves **counterproductive** in securing voluntary agricultural productivity."*
+

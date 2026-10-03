@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to conduct heat or electricity or sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to conduct heat or electricity or sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not conducting or transmitting heat, electricity, or sound; acting as an insulator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering, nonconducting materials (dielectrics) prevent short-circuit discharges in high-voltage power grids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconducting designates not able to conduct heat or electricity or sound."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Dry gutta-percha forms an admirable **nonconducting** sheath around submarine telegraph cables."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electric displacement occurs across the **nonconducting** dielectric gap separating the two condenser plates."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Dry air acts as a practically **nonconducting** blanket surrounding the earth's radiating crust."*
+

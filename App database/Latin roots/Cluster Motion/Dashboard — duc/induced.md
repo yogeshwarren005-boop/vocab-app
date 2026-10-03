@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to arise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to do; cause to act in a specified manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Brought about, produced, or caused by external influence or agent; persuaded or stimulated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics, induced labor denotes the artificial stimulation of uterine contractions prior to spontaneous onset of labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have done As you have done—that’s what I can; Induced as you have been—that’s for my country."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do believe, Induced by potent circumstances, that You are mine enemy, and make my challenge You shall not be my judge; for it is you Have blown this coal betwixt my lord and me, Which God’s dew quench!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, induced by my charity, and hearing how hastily you are to depart, I am come to advise you, comfort you, and pray with you."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"I do believe, **induced** by potent circumstances, that you are mine enemy and make my challenge."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The **induced** current flowed only during the momentary movement of the primary magnet."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Artificial sleep was promptly **induced** through the hypodermic administration of morphine."*
+

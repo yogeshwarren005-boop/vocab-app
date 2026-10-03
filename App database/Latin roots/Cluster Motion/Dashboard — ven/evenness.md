@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The parity of even numbers (divisible by two).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quality of uniformity and lack of variation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being level, smooth, uniform, equal, or composed in temper; equanimity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical statistics, the measure of uniformity in probability distributions or ecological species abundance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby preserved the evenness of her disposition."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He displays the same evenness of temper in the sight of death as has marked his equable and consistent life." He died in the early morning of 3rd January 1841."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"But it ought to be done; and if you will give me a sheet of paper it shall be done directly.” “And if I had not a letter to write myself, I might sit by you, and admire the evenness of your writing, as another young lady once did."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Celia was not impulsive; what she had to say could wait, and came from her always with the placid **evenness** of water flowing from a smooth conduit."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"True greatness of soul displays itself in an **evenness** of temper under both prosperity and adversity."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The vast **evenness** of the heath landscape created an impression of monumental, solemn eternity."*
+

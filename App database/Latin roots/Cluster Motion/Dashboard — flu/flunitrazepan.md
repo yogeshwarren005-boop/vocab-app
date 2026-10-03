@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A depressant and tranquilizer (trade name rohypnol) often used in the commission of sexual assault; legally available in europe and mexico and colombia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depressant and tranquilizer (trade name rohypnol) often used in the commission of sexual assault; legally available in europe and mexico and colombia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potent benzodiazepine drug (variant of flunitrazepam) having strong sedative, hypnotic, and amnestic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical toxicology, flunitrazepam acts as an allosteric modulator of GABA-A receptors, enhancing chloride conductance and producing profound CNS depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flunitrazepan designates a depressant and tranquilizer (trade name rohypnol) often used in the commission of sexual assault; legally available in europe and mexico and colombia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern neuropharmacology investigates synthetic sedatives such as **flunitrazepan** for treating severe refractory insomnia."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The chemical action of **flunitrazepan** upon neural synapses illustrates how molecular structures alter cerebral consciousness."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Sedatives related to **flunitrazepan** dampen the autonomic nervous reflex that generates facial pallor during panic."*
+

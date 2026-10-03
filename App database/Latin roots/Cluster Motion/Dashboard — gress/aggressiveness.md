@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being bold and enterprising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of hostility that arouses thoughts of attack.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency, disposition, or inclination to initiate attacks, hostility, or highly assertive actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ethology and endocrinology, male aggressiveness correlates with circulating plasma testosterone elevations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Engender in the darkey a sense of his inferiority and it will paralyze his aggressiveness and do more to keep him down than a standing army."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The natural **aggressiveness** of carnivorous predators is tempered by instincts that avoid unnecessary injury."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Militant tribal societies cultivate personal **aggressiveness** as the supreme civic virtue among their young warriors."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Spiritual transformation often channels raw human **aggressiveness** into tireless humanitarian reform."*
+

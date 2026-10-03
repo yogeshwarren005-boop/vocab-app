@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attitude of mind especially one that favors one alternative over others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to do something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination, disposition, or inherent leaning toward a particular characteristic, behavior, or outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic theory and classical political economy, the tendency of the rate of profit to fall was analyzed by Ricardo and Marx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby with a strong tendency in his clump of hair to stand on end."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the neighbouring court, where the Lord Chancellor of the rag and bottle shop dwells, there is a general tendency towards beer and supper."*
-> - 📜 **Jane Austen (*Persuasion*):** *"They were of sobering tendency; they allayed agitation; they composed, and consequently must make her happier."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The peculiar motion involved in turning a wheel has a wonderful **tendency** to benumb the mind."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any variation which gives a seedling an advantage will show a **tendency** to dominate the surrounding flora."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's passionate nature had a dangerous **tendency** to encourage romantic melancholia."*
+

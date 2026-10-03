@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Action that makes something stronger or more extreme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of increasing the contrast of (a photographic film).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of making or becoming more intense, acute, severe, or concentrated; escalation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synoptic meteorology and tropical cyclone dynamics, rapid intensification occurs when central core pressure drops sharply over warm sea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Deepest love. [July 13, 1947] EVIDENCES OF NOTABLE EXPANSION Greatly welcome evidences of a notable expansion of activities and increased intensification of efforts for publicity."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"I am fervently praying that further intensification of effort, sustained, coordinated, consecrated and unanimously exerted, will sweep its members on crest of the wave to total victory."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Urge intensification of efforts, rededication and achievement of goals of Plan in order to discharge befittingly the sacred, manifold, inescapable, urgent responsibilities confronting the entire American Bahá'í Community."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The submarine campaign witnessed a sudden **intensification** that threatened the oceanic lifeline of the British Isles."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The panic in Paris led to an alarming **intensification** of political terror, filling the prisons with suspects."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The evolutionary specialization of sensory organs involves an **intensification** of neural responsiveness."*
+

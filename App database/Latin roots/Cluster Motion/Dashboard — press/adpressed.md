@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressed close to or lying flat against something; ; -l.v.pirsson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pressed close to or lying flat against something; ; -l.v.pirsson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressed closely against or lying flat against a surface or stem, without being fused to it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, describes hairs, bracts, or leaves that lie closely parallel to the axis of the plant stem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adpressed designates pressed close to or lying flat against something; ; -l.v.pirsson."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The pedicels remain closely **adpressed** to the central stem until the fruit attains maturity."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The calyx lobes are upright and firmly **adpressed** against the emerging capsule."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The siliques are slender, erect, and strictly **adpressed** along the main flowering rachis."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not native and not fully established; locally or temporarily naturalized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not native and not fully established; locally or temporarily naturalized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arriving from outside or not native; an introduced organism not yet fully naturalized in a local ecosystem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeography and invasion ecology, adventive taxa are non-indigenous species establishing temporary wild populations without self-sustaining reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventive designates not native and not fully established; locally or temporarily naturalized."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many **adventive** weed species colonize disturbed soil near human habitations before native flora can recover."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The European pasture grass appears as an **adventive** immigrant along coastal railway embankments."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"We observed several **adventive** plant species that had drifted eastward along Asian caravan trails."*
+

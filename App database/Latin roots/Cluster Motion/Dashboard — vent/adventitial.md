@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to the adventitia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to the adventitia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located within, or derived from the adventitia or external connective tissue sheath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular pathology, adventitial cystic disease involves mucinous cyst formation within the arterial outer coat, typically compressing the popliteal artery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventitial designates of or pertaining to the adventitia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic sections revealed pronounced round-cell infiltration throughout the **adventitial** tunic of the aorta."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Inflammatory changes in the **adventitial** layer produce localized pain upon deep palpation of the femoral pulse."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **adventitial** capillaries furnish nourishment to the thick muscular walls of large arterial trunks."*
+

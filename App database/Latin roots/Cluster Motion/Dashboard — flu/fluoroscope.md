@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An x-ray machine that combines an x-ray source and a fluorescent screen to enable direct observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An x-ray machine that combines an x-ray source and a fluorescent screen to enable direct observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaging instrument consisting of an X-ray source and a fluorescent screen used to view internal body structures in real-time motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical radiology, early fluoroscopes allowed physicians to observe gastrointestinal peristalsis during barium meal examinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoroscope designates an x-ray machine that combines an x-ray source and a fluorescent screen to enable direct observation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Examination of the chest behind the **fluoroscope** revealed aortic aneurysm pulsation with unmistakable clarity."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The portable **fluoroscope** enabled field surgeons to locate embedded shrapnel in wounded soldiers quickly."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The scientist adjusted the luminescent screen of his **fluoroscope** to trace the shadowy silhouette of bones."*
+

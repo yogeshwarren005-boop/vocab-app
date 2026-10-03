@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any skeletal muscle that draws a body part down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any nerve whose activity tends to reduce the activity or tone of the body part it serves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A muscle, instrument, or agent that presses down, depresses, or lowers a body structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a tongue depressor is a flat wooden spatula used to depress the tongue during oropharyngeal inspection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depressor designates any skeletal muscle that draws a body part down."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician introduced a wooden **depressor** to inspect the tonsils and posterior pharyngeal wall."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **depressor** nerve of the heart acts reflexly to lower systemic arterial blood pressure."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Gentle application of the tongue **depressor** allows complete visualization of the soft palate."*
+

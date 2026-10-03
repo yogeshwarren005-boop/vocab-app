@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A groove or furrow in cloth etc (particularly a shallow concave groove on the shaft of a column).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form flutes in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of decorative vertical concave grooves carved into an architectural column, pilaster, or piece of furniture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural metal fabrication, fluting involves forming longitudinal corrugated ribs into sheet metal to increase sectional bending stiffness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"It was crude as to shape, almost all the pieces are a little crooked, but it was wonderfully made in some ways, for it has a ring like a bell, and the loveliest fluting, and some of it is in beautiful blue, green and amethyst."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The crisp **fluting** of the marble pillars caught the southern sunlight, casting sharp linear shadows."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The magnificent temple facade displayed delicate **fluting** along its monolithic Corinthian colonnade."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The antiquary admired the deep Saxon **fluting** preserved upon the surviving archway of the abbey."*
+

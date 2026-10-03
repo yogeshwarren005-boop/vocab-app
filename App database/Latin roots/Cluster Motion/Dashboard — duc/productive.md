@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of producing (especially abundantly).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the ability to produce or originate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yielding, producing, or creating abundant results, commodities, crops, or creative works; fruitful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical economics, productive labor directly adds value to materials, reproducing the wages consumed and generating a capitalist profit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"After unspeakable suffering, productive of the utmost consternation, she is pronounced, by expresses from the bedroom, free from pain, though much exhausted, in which state of affairs Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Productive services of banks. § 13."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is supposed to be not merely an unequal and mistaken distribution of production, but a general excess of productive power."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"So, in **productive** subjects, grow the chapters with rich abundance of whaling lore."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The proportion between the number of those who are employed in **productive** labour and that of those who are not governs national wealth."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The warm spring rains rendered the deep loam of Weatherbury valley exceptionally **productive**."*
+

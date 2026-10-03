@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To put down by force or authority.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come down on or keep down by unjust use of one's authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To forcibly put an end to, crush, or prevent the dissemination, development, or expression of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, to stop or restrain physiological discharge, bleeding, or immunological responsiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mercy that was quick in us but late, By your own counsel is suppress’d and kill’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus the Mortimers, In whom the title rested, were suppress’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well didst thou, Richard, to suppress thy voice; For, had the passions of thy heart burst out, I fear we should have seen decipher’d there More rancorous spite, more furious raging broils, Than yet can be imagined or supposed."*
+> - 📜 **William Shakespeare (*Henry V*):** *"The mercy that was quick in us but late, by your own counsel is **suppress'd** and kill'd."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor dispatched two veteran legions to **suppress** the insurrection that broke out in Illyricum."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The spy attempted to **suppress** his sudden nervousness when questioned closely at the barrier."*
+

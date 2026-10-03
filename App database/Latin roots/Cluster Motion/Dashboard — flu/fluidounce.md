@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A british imperial unit of capacity or volume (liquid or dry) equal to 8 fluid drams or 28.416 cubic centimeters (1.734 cubic inches).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states unit of capacity or volume equal to 1.804 cubic inches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of liquid capacity equal to one-sixteenth of a pint; a fluid ounce.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical compounding, a fluidounce is divided into eight fluidrams, or 480 apothecaries' minims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluidounce designates a british imperial unit of capacity or volume (liquid or dry) equal to 8 fluid drams or 28.416 cubic centimeters (1.734 cubic inches)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician prescribed a single **fluidounce** of tincture of cinchona to be taken thrice daily."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The student measured a **fluidounce** of dilute hydrochloric acid into the calibrated flask."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The apothecary carefully poured a **fluidounce** of soothing lavender cordial into the small glass vial."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The final point in a process.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that results.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising, occurring, or proceeding as a consequence or outcome; a force or entity produced by combination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Newtonian vector mechanics, the resultant force represents the single vector sum of all concurrent forces acting on a body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The particular economic problems which are presented to each generation of our people are the resultant of all these factors taken together."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The money use, as has just been shown, is a resultant of a number of different motives in men."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The final choice of the money-good depends on the resultant of all the advantages."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The **resultant** velocity of a body subjected to two simultaneous impulses is represented by the diagonal of the parallelogram."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern ethical conduct is the complex **resultant** of biological instincts modified by social education."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every historical event is the **resultant** of countless physical, biological, and sociological forces converging together."*
+

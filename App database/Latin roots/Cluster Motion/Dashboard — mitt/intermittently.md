@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an intermittent manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an intermittent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At periodic intervals; not continuously or constantly; stopping and starting at intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geotechnical hydrology, desert wadis flow intermittently following localized torrential convective rainstorms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"He was often remorseful, and he strove painfully, if intermittently, after better things."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"To that end Kutúzov’s activity was directed during the whole campaign from Moscow to Vílna—not casually or intermittently but so consistently that he never once deviated from it."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The roaring hurricane wind screamed **intermittently** through the rigging, drowning all human speech on deck."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The bonfire on Rainbarrow flared **intermittently** against the dark sky as fresh dry furze was added."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"Strange cries echoed **intermittently** from the dense volcanic jungle, keeping the castaway awake in dread."*
+

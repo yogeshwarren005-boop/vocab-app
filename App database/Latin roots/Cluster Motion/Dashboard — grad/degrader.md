@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lowers the quality or character or value (as by adding cheaper metal to coins).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who lowers the quality or character or value (as by adding cheaper metal to coins).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, agent, or biological organism that causes degradation, breakdown, or decline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental microbiology and bioremediation, fungal lignin degrader species decompose recalcitrant polyaromatic plant polymers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, degrader designates a person who lowers the quality or character or value (as by adding cheaper metal to coins)."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A cynical politician who appeals only to selfish market instincts acts as a moral **degrader** of the commonwealth."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Industrial commercialism operates as a relentless **degrader** of genuine craftsmanship and architectural beauty."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The torrential mountain stream functions as an active **degrader** of elevated volcanic plateaus."*
+

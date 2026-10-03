@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transgresses; someone who violates a law or command.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transgresses; someone who violates a law or command.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who violates a moral rule, statutory law, or divine command; a wrongdoer or sinner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal philosophy and criminal jurisprudence, retributionist theories hold that the transgressor must suffer proportional punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He was beginning to realize that the way of the transgressor is hard."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Meagre, indeed, and cold, was the sympathy that a transgressor might look for, from such bystanders, at the scaffold."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"And were any man to sit on a stone which the king has consecrated to his own use, the transgressor would die within the year."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"The law hath not been dead, though it hath slept; now the **transgressor** shall feel the sharpness of its edge."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The stern Puritan magistrates gathered to condemn the unhappy **transgressor** who stood upon the public pillory."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The road of the **transgressor** is hard and beset with briars, while the pilgrim walks in righteousness toward the Celestial City."*
+

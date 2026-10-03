@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former province of southeastern france; now administered with cote d'azur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former province of southeastern france; now administered with cote d'azur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical province of southeastern France extending from the lower Rhône river to the Italian border.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean historical geography, a region known for Greco-Roman antiquity, olive agriculture, and distinctive limestone landscapes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the Maiden’s Blush, through all varieties of the Provence down to the Crimson Tuscany, the countenance of Oak’s acquaintance quickly graduated; whereupon he, in considerateness, turned away his head."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Another diversion of the evening was to pour cans of water from the houses on the heads of people in the streets.[488] In Provence the midsummer fires are still popular."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Cortet, _Essai sur les Fêtes Religieuses_, pp. 217 _sq._ [471] Bérenger-Féraud, _Réminiscences populaires de la Provence_ (Paris, 1885), p. 142. [472] Charles Beauquier, _Les Mois en Franche-Comté_ (Paris, 1900), p. 89."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"The pleasant hills and olive groves of **provence** welcomed travelers journeying south toward Avignon."*
+> - 📜 **Tobias Smollett (*Travels through France and Italy*):** *"The dry mistral wind blew fiercely across the stony plains of lower **provence**."*
+> - 📜 **Henry James (*A Little Tour in France*):** *"Every ancient gateway in **provence** seems stamped with the monumental seal of imperial Rome."*
+

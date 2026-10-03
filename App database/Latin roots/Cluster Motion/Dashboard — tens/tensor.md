@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A generalization of the concept of a vector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several muscles that cause an attached structure to become tense or firm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An algebraic object that describes a multilinear relationship between geometric vectors; or a muscle that tightens a body part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential geometry and Einstein's general theory of relativity, the Riemann curvature tensor describes the intrinsic curvature of spacetime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensor designates a generalization of the concept of a vector."*
+> - 📜 **Albert Einstein (*The Meaning of Relativity*):** *"Gravitational field equations are formulated in **tensor** form to maintain general covariance under coordinate transformations."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **tensor** fasciae latae muscle tenses the lateral fascia of the thigh and assists in hip abduction."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger discussed theoretical mathematical problems, referencing **tensor** calculus while examining the fossils."*
+

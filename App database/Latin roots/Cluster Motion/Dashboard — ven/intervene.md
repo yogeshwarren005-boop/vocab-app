@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get involved, so as to alter or hinder an action, or through force or threat of force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be placed or located between other things or extend between spaces and events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To come between persons or things; to get involved in a situation to alter, resolve, or prevent an outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international conflict resolution, third-party state or institutional mediation designed to de-escalate armed disputes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns did not intervene often in the debates of the United Presbyterian Synod."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But many were the tedious hours which must yet intervene."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her forehead’s like the show’ry bow, When gleaming sunbeams intervene And gild the distant mountain’s brow; An’ she has twa sparkling roguish een."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Solitude is not measured by the miles of space that **intervene** between a man and his fellow creatures."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Civilized institutions **intervene** to preserve the weak who would otherwise perish in a state of nature."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She stepped forward to **intervene** between the quarreling brothers before bitter words turned to violence."*
+

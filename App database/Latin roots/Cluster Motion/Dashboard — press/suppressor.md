@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who suppresses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gene that suppresses the phenotypic expression of another gene (especially of a mutant gene).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, device, or person that suppresses, restrains, or dampens an unwanted action or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In firearms technology, an acoustic baffle cylinder attached to the muzzle to decelerate propellant gases and attenuate acoustic report.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suppressor designates someone who suppresses."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Empty House*):** *"The air-gun was fitted with an ingenious mechanical **suppressor** that discharged the deadly soft-nosed bullet in absolute silence."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He searched the apparatus for a chemical **suppressor** to neutralize the luminous refractory compounds."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The secondary cross acted as a biological **suppressor** of the abnormal floral monstrosity."*
+

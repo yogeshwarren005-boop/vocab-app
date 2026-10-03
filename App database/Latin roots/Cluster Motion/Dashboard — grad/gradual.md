@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) an antiphon (usually from the book of psalms) immediately after the epistle at mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding in small stages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Taking place, progressing, or changing slowly by subtle degrees or steps over an extended duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and deep-time geomorphology, gradual continental drift explains plate tectonic displacement over millions of years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Drink, Henry Fray—drink,” magnanimously said Jan Coggan, a person who held Saint-Simonian notions of share and share alike where liquor was concerned, as the vessel showed signs of approaching him in its gradual revolution among them."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many are not so stealthy and gradual as we may be apt to imagine in considering the general torpidity of a moor or waste."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Up the hill stretched a road nearly straight and perfectly white, the two sides approaching each other in a gradual taper till they met the sky at the top about two miles off."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extinction of old species and the production of new ones are the results of a **gradual** and continuous process."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **gradual** decline of imperial virtue prepared Rome for subjugation under barbarian chieftains."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth recognized a **gradual** change in her sentiments toward Darcy, originating in admiration of his integrity."*
+

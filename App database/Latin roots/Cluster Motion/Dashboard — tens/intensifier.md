@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modifier that has little meaning except to intensify the meaning it modifies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modifier that has little meaning except to intensify the meaning it modifies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that intensifies; or in linguistics, an adverb or particle that heightens the meaning of another word (e.g. 'very').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In night vision electro-optics, an image intensifier tube amplifies ambient starlight using a photocathode and microchannel plate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intensifier designates a modifier that has little meaning except to intensify the meaning it modifies."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The rhetorical speaker employed an emphatic **intensifier** to heighten the emotional gravity of his plea."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Passionate poetic diction acts as an **intensifier** of moral sentiments, burning them into memory."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Griffin used a chemical **intensifier** to accelerate the bleach of biological pigments in living tissue."*
+

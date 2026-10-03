@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising from inductance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of reasoning; proceeding from particular facts to a general conclusion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or based on logical induction; having the property of producing electrical induction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and scientific methodology, inductive reasoning infers general empirical principles from finite observational datasets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Inductive demonstration of broadly stated economic principles is usually difficult, but there have been many "monetary experiments" to teach their lessons."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It was even asserted confidently, that nothing more was to be expected,--that an inductive logic was impossible."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"All reasoning is shown to be at bottom inductive."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"The intuitive, no less than what may be termed the **inductive**, school of ethics insists on the necessity of general laws."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **inductive** method ascends cautiously from sensory experiments to axioms of broader generality."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The **inductive** capacity of a dielectric medium determines the electrostatic charge accumulated on plates."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who intrudes on the privacy or property of another without permission.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who intrudes on the privacy or property of another without permission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who unlawfully enters the land, grounds, or property of another without right or permission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tort law and occupiers' liability doctrine, landowners owe a limited duty of basic humanity toward a known trespasser.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Toller lets him loose every night, and God help the trespasser whom he lays his fangs upon."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"She fled into the wood at once, and, when she was safe there, laughed at the oddity of being a trespasser in her own domain."*
+> - 📜 **Oscar Wilde (*The Selfish Giant*):** *"The giant erected a high stone wall around his lovely garden and put up a notice board: **Trespassers** will be prosecuted."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"The gamekeeper challenged the solitary **trespasser** who had climbed the park palings after dark."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The timber owner warned every suspected **trespasser** that spring guns were set throughout the private coppice."*
+

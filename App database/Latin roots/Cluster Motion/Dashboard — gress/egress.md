@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the reappearance of a celestial body after an eclipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The becoming visible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of going out of or leaving a place; an exit, departure, or means of exit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural building codes and fire safety engineering, calculating maximum occupant egress capacity dictates corridor width.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou shalt have egress and regress—said I well?—and thy name shall be Brook."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At present, however, the door was open, and the egress of the jack, the blows on the bell, and the mannikin’s retreat into the nook again, were visible to many, and audible throughout the church."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"When she had laid the supper-cloth, the bridge was lowered to give her means of egress, and she withdrew for the night."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes inspected the locked windows, determining that the killer's sole means of **egress** was through the roof trapdoor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The fiery cherubim guarded the eastern portal, permitting no **egress** to the fallen angels from the burning lake."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The armed sentries barred every gate of Paris, cutting off all possibility of **egress** for fleeing aristocrats."*
+

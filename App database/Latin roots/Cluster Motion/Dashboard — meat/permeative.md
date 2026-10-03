@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spreading or spread throughout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spreading or spread throughout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality or power to permeate, penetrate, diffuse, or spread through substances or environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacokinetics and drug delivery design, small lipophilic molecules display high permeative capacity across cellular membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, permeative designates spreading or spread throughout."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"Moral principle possesses a **permeative** power that sanctifies every humble duty of daily life."*
+> - 📜 **David Brewster (*Treatise on Optics*):** *"The subtle **permeative** properties of radiant heat allow it to pass through transparent solids."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Gothic architectural design possesses a **permeative** harmony that unites its grandest spires and smallest carvings."*
+

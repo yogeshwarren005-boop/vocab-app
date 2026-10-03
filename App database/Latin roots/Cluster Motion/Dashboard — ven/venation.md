@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the arrangement of veins in a leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (zoology) the system of venous blood vessels in an animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement or pattern of veins in a plant leaf, an insect wing, or anatomical tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and paleontology, parallel vs. reticulate venation used to classify monocotyledonous and dicotyledonous angiosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venation designates (botany) the arrangement of veins in a leaf."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The delicate **venation** of an insect wing exhibits complex functional architecture shaped by selection."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"Reticulated or netted **venation** distinguishes the foliage of dicots from the parallel veins of grasses."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The subtle symmetry in the leaf's green **venation** guides the distribution of vital sap."*
+

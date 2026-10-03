@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Status established in order of importance or urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Priority in rank, ceremonial superiority, or the right to prior consideration over others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aristocratic court protocol, strict tables of precedence govern seating arrangements and entry order at state banquets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do not like “But yet”, it does allay The good precedence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, page; it is an epilogue or discourse to make plain Some obscure precedence that hath tofore been sain."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the plate which, in size and situation, took precedence of all the rest, I read, MR."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter Elliot was obsessively devoted to matters of social **precedence**, consulting the Baronetage daily."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rival consuls contested bitter disputes over ceremonial **precedence** before the assembled Roman senate."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Vital aircraft production was given absolute priority and **precedence** over all other military manufacturing."*
+

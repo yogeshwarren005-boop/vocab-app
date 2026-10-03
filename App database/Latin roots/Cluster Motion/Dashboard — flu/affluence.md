@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abundant wealth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abundant wealth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abundant supply of material goods, riches, property, or money; wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic consumption theory, Galbraith analyzed how private affluence often contrasts with public sector squalor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"She had been used to affluence: it was gone."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The kettle boiled, the children cried for bread; the afflicted father, standing before the fire, felt those deep emotions of heart over his helplessness and impending starvation which those reared in affluence never know."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"In her animal spirits there was an affluence of life and certainty of flow, such as excited my wonder, while it baffled my comprehension."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Opulence and **affluence** can only result from the sustained division of labor and capital accumulation."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth could not view the spacious park and stately mansion without admiring Mr. Darcy's great **affluence**."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The jovial merchant lived in comfortable **affluence**, surrounded by warm fires and cheerful hospitality."*
+

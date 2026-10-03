@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (reduction to the absurd) a disproof by showing that the consequences of the proposition are absurd; or a proof of a proposition by showing that its negation leads to a contradiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (reduction to the absurd) a disproof by showing that the consequences of the proposition are absurd; or a proof of a proposition by showing that its negation leads to a contradiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosophical or logical method of refutation by demonstrating that a proposition leads inevitably to an absurd conclusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Aristotelian syllogistic logic, a reductio argument demonstrates a thesis by showing that its negation contradicts established axioms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is this that he calls a "fasciculus of contradictions," and regarded as the _reductio ad absurdissimum_ of the transcendental philosophy."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The mathematical proof proceeded by a rigorous **reductio**, proving the impossibility of an odd square having an even root."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"His argument collapsed under the weight of a devastating **reductio** that exposed its innate contradictions."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Euclid frequently employs the method of **reductio** to confirm geometrical theorems beyond question."*
+

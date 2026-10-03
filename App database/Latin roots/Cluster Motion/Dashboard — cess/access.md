@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The right to enter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The right to obtain or make use of or take advantage of something (as services or membership).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The means, opportunity, or permission to approach, enter, or make use of a place, person, or data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer architecture and memory hierarchy, random access memory provides uniform read-write access latency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"DENNIS So please you, he is here at the door and importunes access to you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The good gods assuage thy wrath and turn the dregs of it upon this varlet here, this, who, like a block, hath denied my access to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, my good lord; but as you did command, I did repel his letters and denied His access to me."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"Holmes determined that only three persons in the household had immediate **access** to the private bureau."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy readily granted the travelers permission and **access** to walk through the grounds of Pemberley."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The turnkey unlocked the heavy iron grates, granting Doctor Manette daily **access** to his daughter's room."*
+

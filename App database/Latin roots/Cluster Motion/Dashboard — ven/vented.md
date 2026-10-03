@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression or utterance to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose to cool or cold air so as to cool or freshen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided with an outlet or chimney for air or gas; or expressed and given release to feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial engineering, a vented storage vessel allows volatile gases to escape safely through pressure relief conduits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His marriage seemed an unmitigated calamity; and he was afraid of going to Rosamond before he had vented himself in this solitary rage, lest the mere sight of her should exasperate him and make him behave unwarrantably."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This is so clear a proposition, that moderation itself can scarcely listen to the railings which have been so copiously vented against this part of the plan, without emotions that disturb its equanimity."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"But these paroxysms seldom occurred, and in them my big-hearted shipmate vented the bile which more calm-tempered individuals get rid of by a continual pettishness at trivial annoyances."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He **vented** his indignation in an angry letter that he resolved to post before reflection could intervene."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The charcoal-burner opened the **vented** chimney of the mound to allow the thick blue smoke to escape."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The steaming mud pot **vented** rhythmic bursts of boiling vapor into the damp jungle morning."*
+

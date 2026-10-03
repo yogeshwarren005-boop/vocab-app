@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to logical deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving inferences from general principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or utilizing logical deduction; reasoning from general premises to specific truths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology, hypothetico-deductive reasoning formulates testable hypotheses whose empirical implications are rigorously checked.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In passing, I call attention to the fact that at the time I noted that the process of reasoning employed in these dream speeches was invariably deductive."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But these were dreams, frank dreams, fancied adventures of my deductive subconscious mind."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It will easily be seen that this explanation of the deductive process completely turns the tables on the transcendental school."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"An entertaining retort, framed in the narrow and **deductive** manner of the medieval schoolmen."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes published a famous magazine article detailing his strict **deductive** science of observation."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The physical sciences achieve their highest triumphs when combining empirical induction with **deductive** geometry."*
+

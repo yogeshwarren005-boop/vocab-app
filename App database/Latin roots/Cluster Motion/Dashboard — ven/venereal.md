@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the external sex organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the external sex organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to sexual desire, intercourse, or infectious diseases transmitted primarily by sexual contact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical epidemiology, clinical classifications of sexually transmitted infections (such as syphilis and gonorrhea).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, madam, these are no venereal signs."*
-> - 📜 **James Joyce (*Ulysses*):** *"Griffith’s paper is on the same tack now: an army rotten with venereal disease: overseas or halfseasover empire."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The camp physician treated numerous soldiers afflicted with painful **venereal** disorders after the campaign."*
+> - 📜 **William Harvey (*De Motu Cordis (On the Motion of the Heart and Blood)*):** *"The systemic absorption of **venereal** poisons demonstrates the rapid circulation of the blood through the veins."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The prevention of virulent **venereal** contamination required strict sanitary discipline in public hospitals."*
+

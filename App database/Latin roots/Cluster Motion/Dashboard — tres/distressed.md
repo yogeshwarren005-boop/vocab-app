@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into difficulties or distress, especially financial hardship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause mental pain to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from severe anxiety, grief, pain, or economic hardship; or aged and weathered (of furniture/fabric).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate finance and debt restructuring, distressed assets trade at substantial discounts reflecting elevated default probability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that thou wert not, poor distressed soul!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus stands my state, ’twixt Cade and York distressed, Like to a ship that, having scaped a tempest, Is straightway calmed and boarded with a pirate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear brother, how shall Bona be revenged But by thy help to this distressed queen?"*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was deeply **distressed** by the sudden and alarming illness that seized her impetuous sister."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber explained that his finances were temporarily **distressed** owing to unexpected pecuniary obligations."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The **distressed** father walked miles through driving rain to petition the crown for his daughter's life."*
+

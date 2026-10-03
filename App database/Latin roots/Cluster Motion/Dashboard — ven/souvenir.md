@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something of sentimental value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reminder of past events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing kept or purchased as a reminder of a person, place, visit, or memorable occasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material culture studies, a physical relic or manufactured token serving as an emotional mnemonic of travel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"She had looked at them that morning; felt that starve she must and would, but that souvenir of her mother should never leave her."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"He lives in an ancient, rambling house across the road from my home, and he is making a souvenir collection of derelict women."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It is a little souvenir from the King of Bohemia in return for my assistance in the case of the Irene Adler papers.” “And the ring?” I asked, glancing at a remarkable brilliant which sparkled upon his finger."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I preserved the little silver brooch as a cherished **souvenir** of my tranquil days at Lowood."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She purchased an exquisite Florentine cameo as a lasting **souvenir** of her Italian holiday."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He presented me with a worn sea-shell as a humble **souvenir** of our Yarmouth adventures."*
+

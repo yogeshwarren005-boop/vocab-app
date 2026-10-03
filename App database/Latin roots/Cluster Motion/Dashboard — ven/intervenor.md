@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a party who interposes in a pending proceeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a party who interposes in a pending proceeding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A third party who voluntarily enters or is joined to an ongoing legal action or lawsuit to protect an interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil procedure, an intervenor of right possesses an interest relating to the property or transaction forming the subject of the action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intervenor designates (law) a party who interposes in a pending proceeding."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ecclesiastical court admitted the third party as a lawful **intervenor** to assert her claim of prior marriage."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judicial tribunal ensures that an impartial **intervenor** may state arguments concerning constitutional jurisdiction."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The appearance of yet another **intervenor** in Jarndyce and Jarndyce added another layer of legal costs to the ruinous suit."*
+

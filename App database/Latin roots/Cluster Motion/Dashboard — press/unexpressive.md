@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately impassive in manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately impassive in manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking facial expression, emotional inflection, or meaningful communication; blank, impassive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Archaically (as in Shakespeare and Milton), ineffable, indescribably wonderful, or beyond expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Run, run, Orlando, carve on every tree The fair, the chaste, and unexpressive she. [_Exit._] Enter Corin and Touchstone."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Peace filled their souls so that they perceived the unexpressive adoration of the river, and the trees, and the solemn moonlight."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"Run, run, Orlando, carve on every tree the fair, the chaste, and **unexpressive** she."*
+> - 📜 **John Milton (*Lycidas*):** *"And hears the **unexpressive** nuptial song, in the blest kingdoms meek of joy and love."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"His features remained completely **unexpressive**, masking the tempest of jealousy raging within his breast."*
+

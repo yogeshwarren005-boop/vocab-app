@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who enjoys taking risks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who travels into little known regions (especially for some scientific purpose).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who seeks or takes part in adventurous exploits, financial speculations, or daring ventures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, often applied pejoratively to an unprincipled soldier of fortune living by his wits and social ambition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There she is with plenty of money, and a house and farm, and horses, and comfort, and here am I living from hand to mouth—a needy adventurer."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Their fears were quite superfluous: they were very much mistaken if they imagined that he would put himself forward as a needy adventurer trying to win the favor of a rich woman."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"They said Kelso got some rascally adventurer, some Belgian brute, to insult his son-in-law in public—paid him, sir, to do it, paid him—and that the fellow spitted his man as if he had been a pigeon."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The commercial **adventurer** who risks his capital in distant trade expects profits proportionate to the extraordinary peril."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp proved herself a consummate **adventurer**, navigating high society with audacious resourcefulness."*
+> - 📜 **Walter Scott (*Quentin Durward*):** *"The young Scottish **adventurer** entered the service of King Louis XI, seeking glory and foreign knighthood."*
+

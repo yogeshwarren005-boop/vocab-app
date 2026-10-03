@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable; an emblem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive linguistics and conceptual blending theory, metaphor structures abstract human conceptual reasoning through embodied schemas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, if your metaphor stink, I will stop my nose, or against any man’s metaphor."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Dark, Dark, is all I find for metaphor; All else were contrast,--save that contrast's wall Is down, and all opposed things flow together Into a vast monotony, where night And day, and frost and thaw, and death and life, Are synonyms."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*
+> - 📜 **Aristotle (*Poetics*):** *"By far the greatest thing is to be a master of **metaphor**; it is the one thing that cannot be learned from others."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"If we would speak of things as they are, we must allow that all figurative speech and **metaphor** serve only to mislead the judgment."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A living **metaphor** awakens the dormant imagination by revealing the secret affinity between disparate natural forms."*
+

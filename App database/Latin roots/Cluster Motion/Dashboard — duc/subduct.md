@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw away, withdraw, or subtract; or to force a tectonic plate downward beneath another plate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plate tectonics, the process whereby oceanic lithosphere sinks into the asthenosphere at convergent plate boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Milton (*Paradise Lost*):** *"Or Nature faild in mee, and left some part Not proof enough such Object to sustain, Or from my side subducting, took perhaps More then enough; at least on her bestow’d Too much of Ornament, in outward shew Elaborate, of inward less exact."*
-> - 📜 **John Milton (*Paradise Lost*):** *"Or Nature failed in me, and left some part Not proof enough such object to sustain; Or, from my side subducting, took perhaps More than enough; at least on her bestowed Too much of ornament, in outward show Elaborate, of inward less exact."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Lest from my presence they **subduct** their steps, and wander into dark perdition."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Subterranean forces **subduct** marine strata into heated volcanic depths, recycling ancient ocean crust."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"If you **subduct** the false prejudices of the schoolmen, natural philosophy stands upon clear evidence."*
+

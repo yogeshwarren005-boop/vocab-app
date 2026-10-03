@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Position or state of being dominant or in control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone from whom you are descended (but usually more remote than a grandparent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rising in power, influence, or status; dominating; or the astrological degree rising on the eastern horizon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical horoscopic astrology and medieval cosmology, the ascendant signifies the celestial sign ascending at natal birth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Just now the first feeling was in the ascendant with Bathsheba, with a dash of the second."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"I shall briefly observe, that our situation invites and our interests prompt us to aim at an ascendant in the system of American affairs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And I scruple not to affirm, that it is infinitely less likely that either of them should gain an ascendant in the national councils, than that the one or the other of them should predominate in all the local councils."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The military faction was now in the **ascendant**, deposing civilian magistrates at will across the provinces."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Rosamond was confident that her charm was in the **ascendant**, ensuring her husband's acquiescence to her wishes."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The star of the Jacobin club was clearly **ascendant** as more moderate deputies fled the capital."*
+

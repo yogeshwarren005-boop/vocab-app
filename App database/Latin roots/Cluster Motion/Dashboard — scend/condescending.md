@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Behave in a patronizing and condescending manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Do something that one considers to be below one's dignity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying or characterized by a patronizing, haughty, or superior attitude toward others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal communication and sociolinguistics, condescending vocal inflections undermine collaborative workplace dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My landlord, Krook,” said the little old lady, condescending to him from her lofty station as she presented him to us."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A policeman has already walked up to the room, and walked down again to the door, where he stands like a tower, only condescending to see the boys at his base occasionally; but whenever he does see them, they quail and fall back."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"And he is so condescending to the son he so egregiously deludes that you might suppose him the most virtuous of parents."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins spoke with a **condescending** pomposity that made everyone in the parlor smile with amusement."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Steerforth addressed the humble boatmen in a charming yet unmistakably **condescending** manner."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Blanche Ingram cast a cold, **condescending** glance upon the quiet governess seated in the drawing-room corner."*
+

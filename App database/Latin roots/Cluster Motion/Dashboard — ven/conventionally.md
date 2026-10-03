@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conventional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conventional manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a conventional manner; in accordance with accepted custom, social propriety, or standard practice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In artistic criticism, executing work within traditional stylistic constraints without innovative departure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The more his life changed, the more it was the same thing--the same plunging without forethought, the same disregard for all that is conventionally deemed necessary."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble as a little curly sharp-edged person in sky-blue, who held a conventionally juvenile position, because she had married Mr."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Guizot and Montalembert were both members of the Institute, and being thus in the same boat, Guizot conventionally receives Montalembert. vv. 7 and 8."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The stone faces upon the chateau stared blindly into the darkness as the clock struck **conventionally** each passing hour."*
+> - 📜 **G. K. Chesterton (*The Man Who Was Thursday*):** *"The gentlemen ate casually and **conventionally** of the best things on the table, chatting of ordinary politics."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She was not **conventionally** beautiful, but there was an extraordinary charm in her frank and open smile."*
+

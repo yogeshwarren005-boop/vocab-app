@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The flesh of animals (including fishes and birds and snails) used as food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner and usually edible part of a seed or grain or nut or fruit stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The flesh of animals used as food; or the core, substance, or essential part of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural economics and human nutrition, dietary transitions toward increased animal meat consumption reflect rising per capita incomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think, sir, you can eat none of this homely meat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I will eat no meat; I’ll not drink, sir; If idle talk will once be necessary, I’ll not sleep neither."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou worm’s meat in respect of a good piece of flesh indeed!"*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The hungry workhouse boys stared longingly at the kettle where the savory **meat** was stewing."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The hardy whalemen considered the tender **meat** of the sperm whale calf a welcome sea delicacy."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"He calculated the exact economic cost of producing wholesome **meat** for the subsistence of the market."*
+

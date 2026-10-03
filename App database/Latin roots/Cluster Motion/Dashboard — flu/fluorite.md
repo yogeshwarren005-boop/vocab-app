@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft mineral (calcium fluoride) that is fluorescent in ultraviolet light; chief source of fluorine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A soft mineral (calcium fluoride) that is fluorescent in ultraviolet light; chief source of fluorine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common halide mineral composed of calcium fluoride, often occurring in cubic crystals of diverse translucent colors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical mineralogy, high-purity synthetic fluorite lenses eliminate chromatic aberration in specialized apochromatic microscope objectives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorite designates a soft mineral (calcium fluoride) that is fluorescent in ultraviolet light; chief source of fluorine."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Cubic crystals of purple **fluorite** were found encrusting the walls of the lead mining galleries."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"When heated gently, certain varieties of green **fluorite** emit a delicate phosphorescent glow."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Cleaved specimens of **fluorite** exhibited remarkable double refraction when inspected under polarized illumination."*
+

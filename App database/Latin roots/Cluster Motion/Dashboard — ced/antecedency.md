@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding in time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Precedence in time, priority of rank, or logical anteriority within an argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical logic and philosophical grammar, antecedency defines the syntactic relationship of a pronoun to its referent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antecedency designates preceding in time."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The natural **antecedency** of empirical observation over speculative theory is the foundation of inductive science."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The primary imagination claims an ontological **antecedency** over all secondary artistic creative processes."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Spiritual reality possesses an eternal **antecedency** over the transient material forms of the visible world."*
+

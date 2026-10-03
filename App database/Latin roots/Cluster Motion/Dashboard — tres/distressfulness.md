@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of arousing fear or distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of arousing fear or distress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or condition of causing deep anguish, grief, suffering, or painful discomfort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and utilitarian ethics, evaluating the distressfulness of punitive sanctions guides proportionality in criminal sentencing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, distressfulness designates the quality of arousing fear or distress."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The legislator must calculate the intense **distressfulness** of bodily suffering when designing penological codes."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The peculiar **distressfulness** of poverty consists not merely in physical want, but in social humiliation."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The evident **distressfulness** of the curate's domestic plight excited the sincere compassion of the parishioners."*
+

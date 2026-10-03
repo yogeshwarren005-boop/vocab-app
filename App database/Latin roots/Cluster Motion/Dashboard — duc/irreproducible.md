@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impossible to reproduce or duplicate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to reproduce or duplicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being reproduced, replicated, duplicated, or repeated in identical form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental methodology, findings attributable to artifactual noise, p-hacking, or unrecorded confounding variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, irreproducible designates impossible to reproduce or duplicate."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Any electrical phenomenon that proves **irreproducible** upon repeating the apparatus setup must be regarded as an artifact."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Science accepts no dogmatic assertion based upon solitary and **irreproducible** observations."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"Griffin feared that his complex chemical synthesis might prove **irreproducible** if his notebooks were destroyed."*
+

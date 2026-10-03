@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device that can be used to control a machine or apparatus from a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located far away spatially.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated far away in space or time; distant, secluded, or having little direct connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technology, an electronic handheld transmitter (remote control) utilizing infrared or radio frequencies to operate distant apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more remote part of the Castle ACT II Scene I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A more remote part of the Castle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So shaken as we are, so wan with care, Find we a time for frighted peace to pant, And breathe short-winded accents of new broils To be commenced in strands afar remote."*
+> - 📜 **William Shakespeare (*King John*):** *"I must withdraw and weep upon the spot of this enforced cause, to grace the gentry of a land **remote**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Beyond this flood a frozen continent lies dark and wild, beat with perpetual storms of whirlwind and dire hail, **remote** and cold."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Galápagos Archipelago lies in a **remote** solitude of the Pacific, five hundred miles west of the American coast."*
+

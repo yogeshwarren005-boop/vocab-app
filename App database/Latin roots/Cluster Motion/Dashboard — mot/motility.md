@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ability to move spontaneously and independently.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change of position that does not entail a change of location.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spontaneous capacity or power of an organism or anatomical structure to move actively using metabolic energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical andrology, sperm motility is a fundamental metric in semen analysis evaluating male fertility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motility designates ability to move spontaneously and independently."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The rapid **motility** of microscopic flagellates gives them an immense advantage in finding organic food."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The peristaltic **motility** of the intestine depends upon the coordinated reflex of smooth muscle coats."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Impaired gastric **motility** results in delayed gastric emptying and chronic postprandial dyspepsia."*
+

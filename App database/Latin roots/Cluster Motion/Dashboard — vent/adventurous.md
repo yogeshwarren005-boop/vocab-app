@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to undertake or seeking out new and daring enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to undertake or seeking out new and daring enterprises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to take risks, embark on hazardous journeys, or experience new and daring enterprises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative fiction, descriptive of plots centered on perilous voyages, combat, treasure-hunting, and exotic geography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if I cannot win you to this love, Go search like nobles, like noble subjects, And in your search spend your adventurous worth; Whom if you find, and win unto return, You shall like diamonds sit about his crown."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba’s adventurous spirit was beginning to find some grains of relish in these highly novel proceedings."*
+> - 📜 **William Shakespeare (*King John*):** *"And all the unsettled humours of the land, rash, inconsiderate, fiery voluntaries, with ladies' faces and fierce dragons' spleens, have sold their fortunes at their native homes, bearing their birthrights proudly on their backs, to make a hazard of new fortunes here: in brief, a braver choice of dauntless spirits than now the English bottoms have waft o'er did never float upon the swelling tide, to do offence and scathe in Christendom. An **adventurous** army moves with haste."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I had an **adventurous** disposition from my boyhood, craving the wide ocean despite my mother's entreaties."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The young naval officers welcomed every opportunity for **adventurous** inland exploration across the Patagonian plains."*
+

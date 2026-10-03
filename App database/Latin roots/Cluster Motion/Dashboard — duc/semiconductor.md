@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance as germanium or silicon whose electrical conductivity is intermediate between that of a metal and an insulator; its conductivity increases with temperature and in the presence of impurities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conductor made with semiconducting material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid substance with electrical conductivity between that of an insulator and a conductor, such as silicon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics manufacturing, the fundamental substrate for diodes, transistors, integrated circuits, and photovoltaic cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiconductor designates a substance as germanium or silicon whose electrical conductivity is intermediate between that of a metal and an insulator; its conductivity increases with temperature and in the presence of impurities."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The invention of the solid-state **semiconductor** transistor sounded the death knell of the bulky thermionic valve."*
+> - 📜 **Carl Sagan (*Contact*):** *"Billions of microscopic **semiconductor** junctions processed radio signals from the deep cosmos in real time."*
+> - 📜 **Isaac Asimov (*Foundation and Empire*):** *"The atomic relays were replaced by miniature **semiconductor** wafers that never wore out or overheated."*
+

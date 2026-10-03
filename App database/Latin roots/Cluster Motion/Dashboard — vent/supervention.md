@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A following on in addition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A following on in addition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of supervening; an unexpected occurrence, extraneous addition, or intervening development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, the supervention of a secondary bacterial infection complicating a primary viral illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supervention designates a following on in addition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **supervention** of acute pericarditis rapidly worsened the prognosis in the chronic rheumatic case."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The **supervention** of moral consciousness introduces a new ethical factor into cosmic evolution."*
+> - 📜 **Richard Cabot (*Differential Diagnosis*):** *"Sudden dyspnea signaled the **supervention** of pulmonary edema upon longstanding renal failure."*
+

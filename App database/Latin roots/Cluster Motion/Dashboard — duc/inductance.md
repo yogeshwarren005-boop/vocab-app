@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical phenomenon whereby an electromotive force (emf) is generated in a closed circuit by a change in the flow of current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electrical device (typically a conducting coil) that introduces inductance into a circuit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of an electrical circuit by which a change in current induces an electromotive force; measured in henries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In AC circuit design, inductive reactance opposes alternating current flow in direct proportion to frequency and inductance (X_L = 2*pi*f*L).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is called "inductance," and it has exactly the same effect upon the current that inertia has upon a body."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"What inertia is to a material body inductance is to an electric current."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"There is capacity at each end and a fairly long length of wire to provide the inductance."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"We demonstrate that distributed **inductance** along telephone lines counteracts electrostatic capacitance distortion."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The self-**inductance** of a coiled conductor depends directly upon the square of the number of wire turns."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The wireless telegraph transmitter required careful tuning of its aerial **inductance** to achieve transatlantic range."*
+

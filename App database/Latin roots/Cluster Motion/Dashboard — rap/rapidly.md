@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With rapid movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With rapid movements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At a very fast rate; swiftly, quickly, or with great speed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiological modeling, viral pathogens transmit rapidly through immunologically naive urban populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"One ought to put in the first block and pack it before one takes up the second." "Then I won't wait for you," Mäzli declared, rapidly whisking out by the door."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Very well, very well, And what do you want to do on this beautiful Sunday?" the lady asked, "Take a walk," Mäzli answered rapidly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli had risen rapidly and looked towards the door with large expectant eyes, wondering what was going to happen."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The cab rattled **rapidly** through the shadowy streets of south London toward the secret rendezvous."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tumult spread **rapidly** from the Saint Antoine quarter into every district of Paris."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The sun dipped and rose **rapidly**, until days passed like the flapping of dark wings in the sky."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who initiates a course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who initiates a course of action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, agent, or event that begins, originates, or sets into motion an undertaking, enterprise, or reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer chemistry, a free-radical initiator undergoes homolytic cleavage upon heating to catalyze chain-growth polymerization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"NAPOLEON MOSCOW, OCTOBER 30, 1812 Kutúzov replied: “I should be cursed by posterity were I looked on as the initiator of a settlement of any sort."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"Can it go on in the absence of its initiators?"*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The creative philosopher serves as the primary **initiator** of intellectual revolutions that transform society."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"No single political leader can claim to be the sole **initiator** of vast historical transformations."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Environmental shifts act as the fundamental **initiator** of adaptive changes across divergent animal populations."*
+

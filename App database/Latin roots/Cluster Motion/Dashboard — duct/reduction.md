@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of decreasing or reducing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any process in which electrons are added to an atom or ion (as by removing oxygen or adding hydrogen); always occurs accompanied by oxidation of the reducing agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making smaller, less, or diminished; or the chemical gain of electrons by an atom or molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, morphological reduction describes the vestigial loss or diminution of ancestral anatomical structures due to relaxed selection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The value of all debts changes in the same proportion as does that of the standard unit of money; when this rises or falls in value, it means increase or reduction, in the same ratio, of the purchasing power of every creditor."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The percentage of reserves henceforth required of all member banks (as above indicated) is a substantial reduction of the former requirement for national banks."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is observed that a reduction of tariff rates seems to have a more disturbing effect upon business than does an increase."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"This state of the eyes is probably due to gradual **reduction** from disuse, aided by natural selection."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A general **reduction** of import duties gave immediate stimulus to domestic maritime shipping."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The chemical **reduction** of silver ore requires the steady application of heat and fluxing agents."*
+

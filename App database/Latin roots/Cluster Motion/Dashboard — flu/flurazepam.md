@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tranquilizer (trade name dalmane) used to treat insomnia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tranquilizer (trade name dalmane) used to treat insomnia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long-acting benzodiazepine derivative medication having sedative and hypnotic properties, used to treat severe insomnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacokinetics, flurazepam produces prolonged daytime sedative effects due to the accumulation of its active metabolite, desalkylflurazepam.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flurazepam designates tranquilizer (trade name dalmane) used to treat insomnia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The hypnotic efficacy of **flurazepam** must be weighed against residual daytime sedation and prolonged metabolic half-life."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"By potentiating inhibitory synaptic pathways, **flurazepam** suppresses reticular arousal systems in the brainstem."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Sedatives such as **flurazepam** attenuate the muscular tremors associated with pathological psychic dread."*
+

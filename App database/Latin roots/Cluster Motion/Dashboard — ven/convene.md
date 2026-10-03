@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet formally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Call together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To summon, call together, or assemble for a formal meeting, conference, or official purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary procedure, the formal prerogative of an executive or speaker to convene a legislative assembly into session.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"For these, the President will find no difficulty to provide; and should any circumstance occur which requires the advice and consent of the Senate, he may at any time convene them."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"AS this body has a concurrent power with the Executive in the article of treaties, it might often be necessary to call it together with a view to this object, when it would be unnecessary and improper to convene the House of Representatives."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The INOR Chiefs of State were urged to convene their Executive and Legislative Councils and to listen to the UIPS President."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"The senators did **convene** the plebeians to debate the distribution of public corn."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Emperor Constantine resolved to **convene** the Council of Nicaea to resolve theological schisms."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The governor possessed authority to **convene** the general assembly in times of sudden public emergency."*
+

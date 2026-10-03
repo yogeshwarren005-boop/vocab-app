@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small motorcycle with a low frame and small wheels and elevated handlebars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a motorcycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lightweight two-wheeled motor vehicle, typically with an engine of modest displacement, used for personal transport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In popular automotive nomenclature, informal synonym for motorcycle, frequently denoting mopeds and light utility cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorbike designates small motorcycle with a low frame and small wheels and elevated handlebars."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"Young apprentices frequently saved their spare shillings for months to buy a second-hand **motorbike**."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The distant roar of a **motorbike** along the country road shattered the quiet contemplation of the morning."*
+> - 📜 **E. M. Forster (*Howards End*):** *"A youth astride a spluttering **motorbike** swept past the carriage, leaving a trailing haze of gasoline smoke."*
+

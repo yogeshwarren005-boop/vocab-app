@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of deserving veneration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of deserving veneration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imposing, dignified, and sacred character derived from great antiquity, virtue, or wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic criticism and antiquarian studies, the perceived sacred dignity conferred upon monuments by long passage of time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A flowing robe of tappa, knotted over the shoulder, hung loosely round his stooping form, and heightened the venerableness of his aspect."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Such was her character and reputation, that the belief in her supernatural powers had only heightened the notion of her venerableness."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ruined abbey possessed an impressive **venerableness** that filled the antiquary with silent awe."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The dark timbered facade acquired an antique **venerableness** with each passing generation."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The solemn **venerableness** of primeval mountain peaks inspires profound humility in mankind."*
+

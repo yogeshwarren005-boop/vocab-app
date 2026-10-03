@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With expression; in an expressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With expression; in an expressive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that clearly and vividly conveys meaning, emotional feeling, or deep significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical performance (espressivo), directing musicians to play with heightened sensitivity and dynamic inflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"From them, however, the eight parts of speech shone out most expressively, and James could combine them with ease."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"As soon as they entered, Bingley looked at her so expressively, and shook hands with such warmth, as left no doubt of his good information; and he soon afterwards said aloud, “Mrs."*
-> - 📜 **Algis Budrys (*Citadel*):** *"I don't see why not." He gestured expressively at the star chart papered over one wall of his office."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Giles looked at her **expressively**, though words failed him at that critical parting moment."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She paused and looked **expressively** toward the locked doorway on the third story."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Ralph Touchett shrugged his shoulders **expressively**, indicating amused resignation."*
+

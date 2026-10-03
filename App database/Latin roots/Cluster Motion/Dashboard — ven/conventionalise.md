@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make conventional or adapt to conventions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make conventional or adapt to conventions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause something to conform to conventional rules, accepted social customs, or standard artistic models.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts, to represent natural objects using formal, simplified geometric patterns rather than realistic detail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In some instances the tiled roof of the tower is represented by tile-mouldings on the shoulder; but in this instance the form is entirely conventionalised into a cylindrical vase supported by three bear-shaped feet."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Academic masters attempt to **conventionalise** natural landscapes, stripping trees and rocks of their rugged individuality."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"Art must **conventionalise** external phenomena to transform raw reality into sublime aesthetic design."*
+> - 📜 **George Bernard Shaw (*The Sanity of Art*):** *"Lesser dramatists merely **conventionalise** the radical insights of original thinkers for mass consumption."*
+

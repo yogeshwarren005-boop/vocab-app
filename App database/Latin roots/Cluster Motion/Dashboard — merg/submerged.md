@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely or make imperceptible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lying, existing, or operating completely beneath the surface of water or another covering medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine geology and hydrography, submerged coral atolls and guyots mark subsiding oceanic tectonic plates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He hastily bade them farewell, and splashed back along the stretch of submerged road."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale, be it observed, lies almost entirely submerged, excepting the immediate parts operated upon."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The canoe brushed against ancient tree trunks **submerged** beneath the dark, reed-choked waters of the hidden lake."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The ship's bows remained **submerged** for long breathless seconds beneath mountains of green sea water."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"Barrier reefs encircle islands that have slowly **submerged** beneath the rising tropical sea over millennia."*
+

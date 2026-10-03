@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The way of administering a business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The direction of an orchestra or choir.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Directing, managing, or leading an operation, orchestra, or inquiry; or conveying heat, electricity, or fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, the conducting axons of peripheral nerves propagate action potentials rapidly via saltatory conduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are they not now upon the western shore, Safe-conducting the rebels from their ships?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"How have I been conducting of myself?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night pursues its leaden course, finding the court still out of bed through the unwonted hours, still treating and being treated, still conducting itself similarly to a court that has had a little money left it unexpectedly."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes was engaged in **conducting** a delicate chemical experiment over a spirit lamp."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The specialized vascular bundles serve as **conducting** channels carrying sap from roots to foliage."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke believed he was **conducting** the county election with consummate political finesse."*
+

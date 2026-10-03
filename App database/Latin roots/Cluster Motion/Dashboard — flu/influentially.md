@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerting influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exerting influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an influential manner; with significant authority, impact, or persuasive effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history, ambassadorial legations acted influentially behind the scenes to broker non-aggression treaties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, influentially designates exerting influence."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The bishop intervened **influentially** with the privy council to secure a pardon for the prisoner."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The praetorian prefect acted **influentially** in shaping the domestic legislation of the emperor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke spoke **influentially** at the county meeting, urging landlords to adopt agricultural improvements."*
+

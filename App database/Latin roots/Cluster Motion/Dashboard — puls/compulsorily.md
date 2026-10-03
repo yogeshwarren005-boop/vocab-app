@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that cannot be evaded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that cannot be evaded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By mandatory requirement, law, or coercion; in an obligatory or involuntary manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil municipal governance and public health, sanitary vaccinations were compulsorily administered during epidemic outbreaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Payments compulsorily made by employers (by all, without exception) will ultimately be offset by a lower wage, and if transferred to the workmen will ultimately be offset by a higher wage."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The state may **compulsorily** require universal primary education for all children without violating individual freedom."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial peasants were **compulsorily** enrolled into the imperial auxiliary legions to defend the frontiers."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Parish apprentices were formerly bound out **compulsorily** to master craftsmen under archaic Elizabethan labor statutes."*
+

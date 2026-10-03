@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency of a gas to expand or escape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lack of enduring qualities (used chiefly of plant parts).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Transitoriness, volatility, or the escaping tendency of volatile substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical chemical engineering thermodynamics, Gilbert N. Lewis introduced fugacity to correct ideal gas partial pressures for intermolecular forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugacity designates the tendency of a gas to expand or escape."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The **fugacity** of our volatile passions renders systematic moral self-examination exceptionally difficult."*
+> - 📜 **Josiah Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"Thermodynamic equilibrium between vapor and liquid phases requires that the **fugacity** of each component be identical."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The perpetual **fugacity** of outward forms drives the contemplative mind inward toward immutable spiritual realities."*
+

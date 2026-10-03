@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of no motion or movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of no motion or movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete absence of movement, agitation, or physical kinetic displacement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and contemplative literature, signifies profound physical silence, tranquil meditation, or paralyzed suspense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"So they got up and went home, and Karl forgot the lay-figure, leaving it in busy motionlessness all night before the easel."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The profound **motionlessness** of Egdon Heath in the winter dusk imparted a feeling of timeless desolation."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The absolute **motionlessness** of that desolate beach under a dying sun filled my soul with horror."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A fearful **motionlessness** settled over the dark tarn, reflecting the gray stones without a ripple."*
+

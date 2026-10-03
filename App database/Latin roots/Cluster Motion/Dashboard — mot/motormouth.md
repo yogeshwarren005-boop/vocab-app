@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who talks incessantly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who talks incessantly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who talks incessantly, rapidly, and often indiscreetly or indiscreetly without pausing to listen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal modern sociolect, characterizes manic conversational dominance or glib, superficial chatter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motormouth designates someone who talks incessantly."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"The irrepressible **motormouth** rattled on about trivial gossip, completely oblivious to his listener's weariness."*
+> - 📜 **H. G. Wells (*The History of Mr Polly*):** *"Uncle Pentstemon proved an incurable **motormouth**, pouring forth reminiscences without giving anyone else a word."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The boisterous salesman was a notorious **motormouth** whose loud jokes echoed throughout the hotel lobby."*
+

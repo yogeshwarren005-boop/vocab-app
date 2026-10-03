@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being two more than seventy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being two more than seventy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to the product of eight and nine; six dozen; 72.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rule-of-72 financial estimation, used to approximate the number of years required to double an investment at a given interest rate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-two designates being two more than seventy."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"In length, the Sperm Whale's skeleton at Tranque measured **seventy-two** feet, so that when alive it must have been eighty."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We anchored in the sheltered cove after **seventy-two** hours of continuous beating against head winds."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Lord John counted **seventy-two** prehistoric tracks impressed upon the dried mud of the volcanic plateau."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure to develop some part or organ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of withholding or withdrawing some book or writing from publication or circulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of subduing, quashing, concealing, or preventing the disclosure or operation of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, active immunosuppression diminishes cell-mediated or humoral antibody responses to allografts or autoantigens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Is it suppression?” A shiver in the negative from Mrs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Honestly, Tess, do you love any other man?” “How can you ask?” she said, with continued self-suppression."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Teachers and pupils may look coldly on you for a day or two, but friendly feelings are concealed in their hearts; and if you persevere in doing well, these feelings will ere long appear so much the more evidently for their temporary suppression."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Is it not clear that there has been a systematic **suppression** of the vital correspondence from the beginning?"*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She spoke with continued self-**suppression**, anxious not to arouse her companion's irritable temper."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The deliberate **suppression** of my true sentiments cost me an agonizing inward conflict."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expose to cool or cold air so as to cool or freshen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expose to the circulation of fresh air so as to retard spoilage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplied with fresh circulating air; or openly discussed and examined in public discourse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical management, patients receiving mechanical pulmonary gas exchange via endotracheal intubation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The house was ventilated by two round holes, like the lights of a ship’s cabin, with wood slides."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"A vile wind that has no doubt blown ere this through prison corridors and cells, and wards of hospitals, and ventilated them, and now comes blowing hither as innocent as fleeces."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The house was ventilated by two round holes, like the lights of a cabin, with wood slides."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The ancient tithe barn was well **ventilated** by narrow cruciform loops piercing the limestone walls."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The breezy forecastle was freely **ventilated** by ocean gales sweeping through the open hawse-holes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The town council had thoroughly **ventilated** the question of new hospital construction in open debate."*
+

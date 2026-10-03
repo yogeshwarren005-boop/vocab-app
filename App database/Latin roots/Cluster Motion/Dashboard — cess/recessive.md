@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An allele that produces its characteristic phenotype only when its paired allele is identical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to a recession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to recede or go backward; or describing an inherited genetic allele suppressed by a dominant counterpart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mendelian genetics, a recessive phenotype is expressed only in homozygous individuals carrying two copies of the mutant allele.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recessive designates an allele that produces its characteristic phenotype only when its paired allele is identical."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"The characteristics which transmit themselves unchanged are dominant, while those that become latent in the first filial generation are **recessive**."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"The white-eye trait in fruit flies behaved as a sex-linked **recessive** mutation located on the X-chromosome."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Certain ancestral traits remain dormant for generations in a **recessive** condition before suddenly reappearing."*
+

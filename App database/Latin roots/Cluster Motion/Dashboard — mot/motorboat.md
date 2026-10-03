@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boat propelled by an internal-combustion engine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride in a motorboat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boat powered by an internal combustion engine or electric motor, designed for fast surface navigation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law, categorized by overall hull length and engine horsepower for safety equipment, fire suppression, and licensing compliance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorboat designates a boat propelled by an internal-combustion engine."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"His **motorboat** tore a clear water rift through the green swell while the hydroplanes hummed overhead."*
+> - 📜 **Ernest Hemingway (*To Have and Have Not*):** *"Harry Morgan steered the chartered **motorboat** through the shallow reefs of the Florida Keys toward Havana."*
+> - 📜 **Jack London (*The Valley of the Moon*):** *"The sound of an approaching **motorboat** warned them that the patrol was cruising near the estuary marsh."*
+

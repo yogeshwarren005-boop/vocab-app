@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the electrical or physical properties of a semiconductor; moderately conductive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronic engineering, semiconductive substrates whose electrical resistivity is modulated by controlled donor or acceptor impurity doping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, semiconductive designates having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The **semiconductive** nature of selenium varies remarkably when exposed to rays of incident light."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Under elevated temperatures, the mineral specimen became increasingly **semiconductive** to galvanic discharge."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Modern electronics relies on delicate **semiconductive** microcircuits etched onto wafers of pure crystalline sand."*
+

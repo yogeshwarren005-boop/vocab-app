@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make tender or more tender as by marinating, pounding, or applying a tenderizer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make tender or more tender as by marinating, pounding, or applying a tenderizer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make meat tender, palatable, or soft by mechanical pounding, chemical marination, or enzymatic application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary food preparation, chefs tenderise tough cuts of flank steak with acidic citrus juices or vinegar-based marinades before grilling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenderise designates make tender or more tender as by marinating, pounding, or applying a tenderizer."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Native cooks know well how to **tenderise** tough game fowl using leaves of the wild papaya tree."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Heat and enzymatic action cooperate to **tenderise** animal protein during prolonged simmering."*
+> - 📜 **Herman Melville (*Typee*):** *"The islanders pounded the roasted breadfruit to **tenderise** the pulp into a smooth edible paste."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pyralidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of pyralidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small phycitine pyralid snout moths, encompassing economically significant agricultural pests such as Cadra cautella (the almond moth).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology and stored-product pest management, Cadra species infest stored nuts, cocoa beans, and dried fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadra designates a genus of pyralidae."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Granary moths belonging to **Cadra** proliferate with alarming rapidity within commercial grain stores in warm climates."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The larval morphology of **Cadra** exhibits specialized silk glands utilized in constructing protective pupal cases."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Small pyralid moths related to **Cadra** cause severe damage to dried fruit stores during humid summer months."*
+

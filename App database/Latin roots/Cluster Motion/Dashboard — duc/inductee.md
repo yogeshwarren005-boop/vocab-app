@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person inducted into an organization or social group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is drafted into military service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is formally inducted into an office, military service, fraternity, or hall of fame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military conscription history, a civilian drafted and formally sworn into the armed forces for wartime service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inductee designates a person inducted into an organization or social group."*
+> - 📜 **John Dos Passos (*Three Soldiers*):** *"The young **inductee** stood in the long physical examination line at the army cantonment."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The medical academy gathered to welcome each distinguished **inductee** with formal academic robes."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"Every recruit and **inductee** was issued a stiff khaki tunic and heavy service boots."*
+

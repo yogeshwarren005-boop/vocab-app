@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a rapacious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a rapacious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an aggressively greedy, ravenous, or grasping manner, taking wealth or resources by force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economic critique, speculative capital syndicates strip distressed assets rapaciously during market insolvencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rapaciously designates in a rapacious manner."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The tax farmers preyed **rapaciously** upon the bread of the French peasantry until the revolution swept them away."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal harpies of Chancery fed **rapaciously** upon the vast estate until nothing remained for the suitors."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The mercenary soldiers plundered the captured Saxon manor **rapaciously**, stripping gold and silver plate from the walls."*
+

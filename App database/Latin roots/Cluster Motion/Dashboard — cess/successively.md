@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In proper order or sequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In proper order or sequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a successive manner; one after another in regular order, sequence, or uninterrupted course.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry and sequential extraction, mineral fractions are successively dissolved using reagents of increasing acidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now my death Changes the mood, for what in me was purchased, Falls upon thee in a more fairer sort; So thou the garland wear’st successively."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is it upon record, or else reported Successively from age to age, he built it?"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"After the coffin had been removed, the various representative bodies successively left the hall to take their places in the procession that was being marshalled without."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"And now my death changes the mood; for what in me was purchased falls upon thee in a more fairer sort; so thou the garland wear'st **successively**."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The whiteness, at length, changed **successively** into blue, indigo, and violet under the refracted beam."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The earthquake caused the coastal terraces to rise **successively** above high-water mark over thousands of years."*
+

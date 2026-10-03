@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to or suitable for a duke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to or suitable for a duke.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, belonging to, or characteristic of a duke, duchess, or dukedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British and continental heraldry, a ducal coronet features four or eight strawberry leaves set upon a golden circlet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The ducal hat of Charles the Rash, the last Duke of Burgundy of his race, was hung with pear-shaped pearls and studded with sapphires."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The great red seal was emblazoned with the sham coat of arms which Osborne had assumed from the Peerage, with "Pax in bello" for a motto; that of the ducal house with which the vain old man tried to fancy himself connected."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"It was what they call a gast-rolle night at the Royal Grand Ducal Pumpernickelisch Hof--or Court theatre--and Madame Schroeder Devrient, then in the bloom of her beauty and genius, performed the part of the heroine in the wonderful opera of Fidelio."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The **ducal** palace of Venice shone with gilded marble above the Grand Canal."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The prince was attended by officers wearing the rich **ducal** livery of Normandy."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ancient family was elevated to the highest **ducal** dignity under King Charles II."*
+

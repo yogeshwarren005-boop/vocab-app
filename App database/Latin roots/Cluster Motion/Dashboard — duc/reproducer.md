@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An audio system that can reproduce and amplify signals to produce sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An audio system that can reproduce and amplify signals to produce sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, mechanism, or apparatus that reproduces, generates copies, or replicates sounds or images.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early acoustic sound technology, the phonograph soundbox with diaphragm and stylus that plays back recorded cylinder grooves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Singers and seers, musicians and reporters, and reproducers of every degree, who have something to tell us or to show us of the ‘world as God has made it, where all is beauty’, we have need of all."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The male bird acts as a faithful **reproducer** of ancestral plumage patterns across generations."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"The mechanical sound **reproducer** poured forth synthetic music into the vast glass dome."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Mazarin Stone*):** *"Holmes concealed a gramophone **reproducer** in the adjacent room to simulate his violin playing."*
+

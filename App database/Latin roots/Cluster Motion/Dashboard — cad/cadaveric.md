@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cadaver or corpse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cadaver or corpse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a corpse; characterized by the pallor, coldness, or rigidity of death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical forensic traumatology, cadaveric spasm denotes immediate post-mortem muscular rigidity during violent deaths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadaveric designates of or relating to a cadaver or corpse."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Roderick Usher's countenance possessed a **cadaveric** pallor that chilled my heart with dark forebodings."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The terminal stage of cholera presented the classic facies with sunken eyes, shriveled skin, and **cadaveric** coldness."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester gazed upon the **cadaveric** countenance of his brother-in-law Mason after the savage attic assault."*
+

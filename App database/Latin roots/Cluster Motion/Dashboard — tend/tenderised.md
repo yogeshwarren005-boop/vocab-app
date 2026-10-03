@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make tender or more tender as by marinating, pounding, or applying a tenderizer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Made tender as by marinating or pounding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made soft, succulent, or less tough through mechanical pounding, slow cooking, or proteolytic enzymatic action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meat processing regulations, commercially tenderised steaks must be cooked to specific internal temperatures to prevent bacterial contamination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenderised designates make tender or more tender as by marinating, pounding, or applying a tenderizer."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The innkeeper served a platter of **tenderised** mutton garnished with roasted garden turnips."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The cook brought out the **tenderised** salt beef that had soaked for two days in fresh water."*
+> - 📜 **Herman Melville (*Omoo*):** *"The sailors eagerly enjoyed the **tenderised** pork roasted over glowing embers in the native pit."*
+

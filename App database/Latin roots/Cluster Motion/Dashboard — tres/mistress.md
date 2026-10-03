@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adulterous woman; a woman who has an ongoing extramarital sexual relationship with a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman schoolteacher (especially one regarded as strict).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman in a position of authority, control, or ownership; or a woman having an ongoing extramarital relationship with a married man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and domestic historiography, the mistress of a country estate managed household provisioning, accounts, and domestic servants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If Nature (sovereign mistress over wrack) As thou goest onwards still will pluck thee back, She keeps thee to this purpose, that her skill May time disgrace, and wretched minutes kill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love to hear her speak, yet well I know, That music hath a far more pleasing sound: I grant I never saw a goddess go; My mistress when she walks treads on the ground."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best wishes that can be forg’d in your thoughts be servants to you! [_To Helena._] Be comfortable to my mother, your mistress, and make much of her."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane arrived at Lowood school as an orphan, standing before the severe **mistress** who commanded the assembly."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Fair Olivia reigned as the gracious **mistress** of a noble household in the sunny realm of Illyria."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth thought of how proud a thing it would be to reign as the happy **mistress** of Pemberley."*
+

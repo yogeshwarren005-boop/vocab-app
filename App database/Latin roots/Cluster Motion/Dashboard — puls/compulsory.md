@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Required by rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Required by rule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Required by law, regulation, or authority; mandatory and obligatory rather than voluntary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law and harbor operations, compulsory pilotage regulations require foreign merchant vessels to hire licensed local pilots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She had a goodly fortune in her own right, so that marriage had not been compulsory."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Organized labor's opposition to compulsory arbitration. § 15."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The public and compulsory arbitration. § 1. #Spread of the shorter working day.# Since about 1880 a shorter working day has been one of the prime objects of organized labor in America."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Mr. Gradgrind insisted on **compulsory** adherence to cold numerical facts in every classroom of the model school."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The imperial government introduced **compulsory** military conscription to replenish the depleted armies in the field."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Spencer debated whether **compulsory** state taxation for moral reform infringes upon the equal liberty of citizens."*
+

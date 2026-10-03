@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being motivated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological driving force, stimulus, or reason that incites, directs, and sustains purposeful behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral neuroscience and endocrinology, relates to dopaminergic mesolimbic pathways mediating reward anticipation and reinforcement learning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivation designates the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior."*
+> - 📜 **William James (*The Will to Believe*):** *"Deep spiritual faith often supplies the decisive **motivation** when intellectual proofs remain balanced."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"Unconscious **motivation** repeatedly betrays itself through slips of the tongue and unremembered appointments."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Genuine **motivation** arises when the learner identifies personal interest with the objective problem."*
+

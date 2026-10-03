@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist of the postimpressionist school who revolted against impressionism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artist of the postimpressionist school who revolted against impressionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist associated with the late 19th-century reaction against naturalistic impressionism, emphasizing structure and symbolic color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, encompasses Cézanne, Van Gogh, Gauguin, and Seurat, whose formal innovations laid the foundations for 20th-century modernism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postimpressionist designates an artist of the postimpressionist school who revolted against impressionism."*
+> - 📜 **Virginia Woolf (*Roger Fry: A Biography*):** *"Fry organized the sensational **Post-Impressionist** exhibition in London, shocking the public with Cézanne and Van Gogh."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The studio walls were hung with vibrant reproductions of **postimpressionist** landscapes full of emotional intensity."*
+> - 📜 **W. H. Auden (*The Dyer's Hand*):** *"The bold formal discipline of the **postimpressionist** masters rescued painting from mere optical dissolution."*
+

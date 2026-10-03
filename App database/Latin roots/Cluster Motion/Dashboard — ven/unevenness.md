@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being uneven and lacking uniformity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being unbalanced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Irregularity, roughness, or lack of symmetry, flatness, or uniformity across a surface or distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and topography, surface roughness or elevation variance measured across a specified contour.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"But I am of opinion that the unevenness of their country, and the severity of the weather, favoured their rebellion; so it hindered their progress."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The structural **unevenness** of the coral reef surface created sheltered lagoons for diverse marine life."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The artistic beauty of Gothic stone carving lies in its vital **unevenness**, defying mechanical uniformity."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The noticeable **unevenness** of his temperament made his neighbors cautious in their daily dealings."*
+

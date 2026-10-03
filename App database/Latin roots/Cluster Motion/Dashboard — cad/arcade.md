@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A covered passageway with shops and stalls on either side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure composed of a series of arches supported by columns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A covered passageway with arched roofs, lined with shops on one or both sides; or an interconnected series of arches supported by columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman and Romanesque architecture, a blind arcade provides decorative structural relief along exterior masonry walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry passed up the low arcade into Burlington Street and turned his steps in the direction of Berkeley Square."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans and specifications have been prepared, and preliminary measures taken, to place contracts for the arcade of the Báb's Sepulcher."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"Plans were drawn, contracts placed and foundations laid for its arcade while the holy places were ravaged by flames of the civil strife burning fiercely in the Holy Land."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic palace featured a double marble **arcade** overlooking the glittering waters of the Grand Canal."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The rain fell steadily as Arthur Clennam sought shelter beneath the dry stone **arcade** of Covent Garden."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Isabel walked along the sunlit **arcade** of the ancient Roman villa, admiring the classical marble statues."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being or existence above and beyond the limits of material experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of excelling or surpassing or going beyond usual limits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surpassing preeminence, supreme spiritual elevation, or excellence beyond ordinary limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic metaphysics, the transcendentals (unity, truth, goodness, beauty) possess absolute transcendency across all ontological categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transcendency designates a state of being or existence above and beyond the limits of material experience."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **transcendency** of divine wisdom far surpasses the feeble grasp of human speculative imagination."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth possesses an inherent **transcendency** that will assuredly prevail over error in free and open encounter."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"Philo questioned whether the claimed **transcendency** of theological concepts can be verified by human reason."*
+

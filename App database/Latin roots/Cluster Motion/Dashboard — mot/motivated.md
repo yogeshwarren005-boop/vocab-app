@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an incentive for action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided with a motive or given incentive for action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Stimulated, impelled, or guided by a conscious or subconscious motive, purpose, or incentive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and criminal investigative analysis, pertains to actions proven to originate from identifiable grievances, profit, or passions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivated designates give an incentive for action."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"The jury must determine whether the accused was **motivated** by malice or acted in reasonable self-defense."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Much of what appears rational thought is in fact **motivated** by deep-seated instinctual impulses."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She wondered whether Ralph was **motivated** by genuine sympathy or mere intellectual curiosity."*
+

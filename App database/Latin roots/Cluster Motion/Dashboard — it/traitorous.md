@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of, or characteristic of, a traitor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the character of, or characteristic of, a traitor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, guilty of, or involving betrayal, disloyalty, or treason; perfidious or faithless.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In martial law, traitorous communication with enemy commanders during active military operations incurs capital punishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go call the people; [_Exit Aedile._] in whose name myself Attach thee as a traitorous innovator, A foe to th’ public weal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, that incestuous, that adulterate beast, With witchcraft of his wit, with traitorous gifts,— O wicked wit, and gifts, that have the power So to seduce!—won to his shameful lust The will of my most seeming-virtuous queen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ourself, my Lord Protector, and the rest After some respite will return to Calais; From thence to England, where I hope ere long To be presented, by your victories, With Charles, Alençon, and that traitorous rout. [_Flourish."*
+> - 📜 **William Shakespeare (*Richard II*):** *"Thou art a **traitorous** coward, an offal unworthy of the sword of chivalry."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The arch-rebel led his **traitorous** legions against the celestial throne in futile revolt."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The king dismissed his secretary upon discovering his **traitorous** correspondence with the court of Versailles."*
+

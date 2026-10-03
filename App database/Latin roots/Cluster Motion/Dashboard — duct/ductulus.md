@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very small duct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very small duct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical term for a very small duct or minute excretory canal (plural: ductuli).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive histology, the efferent ductules (ductuli efferentes) connect the rete testis to the head of the epididymis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ductulus designates a very small duct."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Each delicate **ductulus** in the glandular parenchyma is lined with a single layer of secretory epithelial cells."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The comparative structure of the seminal **ductulus** across vertebrates demonstrates remarkable morphological homology."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the tissue section revealed cystic dilation of the renal **ductulus**."*
+

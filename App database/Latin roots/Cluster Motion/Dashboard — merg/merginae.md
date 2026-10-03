@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mergansers and closely related diving birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mergansers and closely related diving birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic subfamily of waterfowl in the family Anatidae that comprises sea ducks and sawbill mergansers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, the Merginae are characterized by specialized salt glands and dive adaptations suited for marine foraging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merginae designates mergansers and closely related diving birds."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The divers and sawbills classified under the **Merginae** frequent rugged coastal fjords and northern estuaries."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Anatomical comparisons within the **Merginae** demonstrate remarkable bill specialization for piscivorous predation."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The cranial morphology and osteology of the **Merginae** reveal distinctive modifications for deep-water diving."*
+

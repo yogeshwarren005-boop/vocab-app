@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make transitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make transitive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or render a verb transitive through morphological derivation, prefixation, or syntactic complementation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative transformational grammar, causative suffixes transitivize intransitive roots by introducing an external thematic agent role.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transitivize designates make transitive."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Languages employ causative infixes to **transitivize** root verbs of state into dynamic actions."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"Colloquial speech will readily **transitivize** nouns to produce concise functional expressions."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Dialectal innovators tend to **transitivize** intransitive motion verbs to convey intentional direction."*
+

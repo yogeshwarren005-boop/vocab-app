@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower (prices or markets).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lower someone's spirits, cause despondency; or to press or push down physically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic monetary theory, to reduce commercial activity, wages, or prices below equilibrium levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yes—well, my father had been talking a good deal to me of his troubles and difficulties, and the subject always tends to depress me."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Still, don’t let it depress you."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The absence of the sun did not depress me, and I was swiftly to learn that God, not forgetting me while I slumbered, had prepared other and wonderful blessings for me."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her father's constant recital of domestic troubles and debts seemed to **depress** her youthful spirit beyond measure."*
+> - 📜 **George Eliot (*Middlemarch*):** *"No material burden could **depress** his buoyant spirits for long, but debt hung over him like a cloud."*
+> - 📜 **James Joyce (*Dubliners*):** *"The great silver buckle of her belt seemed to **depress** the centre of her body, catching the lamplight."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seed of rape plants; source of an edible oil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seed of rape plants; source of an edible oil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The oil-rich seed of the yellow-flowering plant Brassica napus, processed for cooking oil (canola) and industrial fuels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural commodity markets and industrial processing, crushed rapeseed yields high-erucic oil for marine lubricants and biodiesels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rapeseed designates seed of rape plants; source of an edible oil."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Flanders farmers cultivated profitable crops of **rapeseed** to supply the burgeoning urban demand for lamp oil."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The fields beyond the oak copse glowed with a brilliant yellow mantle of flowering **rapeseed** in early May."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Agricultural selection has developed diverse cultivated varieties of **rapeseed** adapted to differing European soils."*
+

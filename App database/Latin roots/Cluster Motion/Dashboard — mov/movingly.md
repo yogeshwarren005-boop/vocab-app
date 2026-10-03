@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a moving manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a moving manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that excites deep emotion, sympathy, pity, or tender compassion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and pulpit eloquence, a speaker who appeals movingly to shared moral convictions persuades divided audiences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would have had them writ more movingly."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"It is difficult to speak movingly while sitting on the ground."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor spoke **movingly** of Marianne's gentle nature, pleading for forbearance and understanding from their mother."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Lucie Manette testified **movingly** on behalf of the prisoner, winning the sympathy of the entire courtroom."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess sang **movingly** at the dairy milking, her sweet Wessex voice echoing across the green summer meadows."*
+

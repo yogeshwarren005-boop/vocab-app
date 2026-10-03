@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Things that make you comfortable and at ease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being suitable or opportune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Things that contribute to comfort, ease, or suitability in daily life; modern household amenities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian urban housing history, the introduction of indoor plumbing, piped gas, and water closets as domestic conveniences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If deprived of the society of my fellow creatures, and of the conveniences of life, I could not but reflect that my forlorn situation was yet attended with some advantages."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In front is a leather rack, in which to keep your speaking trumpet, pipe, telescope, and other nautical conveniences."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"They will consider the conformity of the thing proposed or required to their immediate interests or aims; the momentary conveniences or inconveniences that would attend its adoption."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The cottage was fitted with all modern **conveniences** calculated to ease the labor of the tenant."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Civilized society abounds in countless mechanical **conveniences** produced by division of labour."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"He took boundless pride in the porcelain plumbing fixtures and electrical **conveniences** of his suburban villa."*
+

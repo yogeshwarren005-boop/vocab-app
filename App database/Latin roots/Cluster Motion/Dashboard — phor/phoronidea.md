@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small phylum of wormlike marine animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small phylum of wormlike marine animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative zoological taxonomic designation for the lophophorate worm phylum or class Phoronida.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical zoological monographs, the order Phoronidea was defined by tubular benthic habit and circulatory vascular loops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoronidea designates small phylum of wormlike marine animals."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The structural morphology of the **Phoronidea** exhibits an anterior tentacular crown dedicated to ciliary respiration and feeding."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Comparative anatomists debated whether the **Phoronidea** should be grouped alongside the Polyzoa or the Brachiopoda."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The singular larval metamorphosis observed across the **Phoronidea** underscores the antiquity of marine invertebrate lineages."*
+

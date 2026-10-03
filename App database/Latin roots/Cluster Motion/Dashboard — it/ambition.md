@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cherished desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong drive for success.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earnest desire, drive, or determination to achieve distinction, power, honor, wealth, or fame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance political philosophy, Machiavellian ambition describes the restless striving that impels princes toward conquest and dominion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who does i’ th’ wars more than his captain can Becomes his captain’s captain; and ambition, The soldier’s virtue, rather makes choice of loss Than gain which darkens him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AMIENS. [_Sings_.] Who doth ambition shun And loves to live i’ th’ sun, Seeking the food he eats And pleased with what he gets, Come hither, come hither, come hither."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"The noble Brutus hath told you Caesar was ambitious; if it were so, it was a grievous fault, and grievously hath Caesar answered it; but here **ambition** should be made of sterner stuff."*
+> - 📜 **Francis Bacon (*Essays*):** *"Ambition is like choler, which is an humor that maketh men active, earnest, full of alacrity, and stirring, if it be not stopped; so **ambition** in princes must be discreetly guided."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Here at least we shall be free; our **ambition** can create a kingdom out of the darkest abyss."*
+

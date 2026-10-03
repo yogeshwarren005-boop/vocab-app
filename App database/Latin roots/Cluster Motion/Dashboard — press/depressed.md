@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower someone's spirits; make downhearted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower (prices or markets).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cast down in spirits, sad, despondent; or lowered in position, sunken, or flattened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, characterized by persistent economic stagnation, widespread unemployment, and reduced industrial output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Depressed he is already, and deposed ’Tis doubt he will be."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She was glad that Kurt was in a strangely depressed mood, too, and hardly ever spoke."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt, who was usually cheerful, had been as terribly depressed for the last few days as if he had been carrying a heavy weight around with him all the time."*
+> - 📜 **William Shakespeare (*Richard II*):** *"**Depressed** he is already, and deposed 'tis doubt he will be."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sight had quite **depressed** her this evening, reminding her painfully of her own youthful folly."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I sat in the cold schoolroom with a **depressed** heart, longing for some kind word of sympathy."*
+

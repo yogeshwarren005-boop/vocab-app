@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a tendon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a tendon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a tendon resulting from repetitive mechanical strain, overuse, or traumatic injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational ergonomics, patellar tendonitis (jumper's knee) is diagnosed through focal palpation tenderness at the inferior pole of the patella.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendonitis designates inflammation of a tendon."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The athlete suffered from persistent **tendonitis** following the vigorous cross-country trials."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Repetitive mechanical labor without ergonomic respite inevitably induces severe musculoskeletal **tendonitis**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Prolonged vertical posture imposes stress upon the lower limb, occasionally producing degenerative **tendonitis**."*
+

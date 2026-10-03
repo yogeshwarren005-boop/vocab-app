@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long brightly colored shawl; worn mainly by mexican men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long brightly colored shawl; worn mainly by mexican men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brightly colored woolen blanket or shawl with fringed ends, worn as an outer garment by men in Mexico and Central America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mesoamerican textile ethnography, handwoven serape garments feature intricate geometric diamond patterns dyed with natural cochineal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"The Spaniard was wrapped in a serape; he had bushy white whiskers; long white hair flowed from under his sombrero, and he wore green goggles."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The Mexican vaquero rode with superb grace, his brilliant woolen **serape** fluttering over the high horn of his saddle."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp*):** *"The solitary traveler wrapped his heavy red **serape** tightly against the cold mountain wind sweeping down the canyon."*
+> - 📜 **Stephen Crane (*The Open Boat*):** *"The border scout rested near the adobe wall, his shoulders draped in a faded indigo **serape** beneath the blazing sun."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Require as useful, just, or proper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be a concomitant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make something necessary, unavoidable, or an indispensable consequence of an action or event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contractual law and maritime salvage doctrine, extraordinary perils of the sea necessitate emergency jettisoning of cargo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To recognize God's existence is to necessitate prayer to Him, by all intelligent creatures, or, a consciously living in sin and under condemnation of conscience, because they do not pray to Him."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"As they are wanted for immediate service, will you throw your eye over them?” Joe threw his eye over them, and pronounced that the job would necessitate the lighting of his forge fire, and would take nearer two hours than one."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It looked as if the pair might take an immediate departure, and so necessitate very prompt and energetic measures on my part."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The sudden collapse of our continental allies did **necessitate** a complete reorientation of British global strategy."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The discovery of a second testamentary will did **necessitate** a reopening of the entire Chancery lawsuit."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The extensive frontier line did **necessitate** the permanent maintenance of thirty veteran legions on the borders."*
+

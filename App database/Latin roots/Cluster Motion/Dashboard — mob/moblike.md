@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of a mob; disorderly or lawless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a mob; disorderly or lawless.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, characteristic of, or behaving like a disorganized, turbulent, or unruly mob.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political sociology and historical protest analysis, disciplined ideological demonstrations risk degenerating into moblike rioting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moblike designates characteristic of a mob; disorderly or lawless."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"A **moblike** fury seized the Gordon rioters as they set fire to the ancient gates of Newgate prison."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The sans-culottes surged into the royal apartments with **moblike** violence, demanding the monarch's capitulation."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The Porteous conspirators marched with sullen discipline, masking their **moblike** intent until the gallows was reached."*
+

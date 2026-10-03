@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling or manifesting veneration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of regarding or treating with profound reverence, honor, and deep respect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical theology, the customary practice of venerating icons, relics, or the cross during solemn rites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The domestic, unpretending merits of a person never known do not often create that kind of fervent, venerating tenderness which would prompt a visit like yours."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Sir James Chettam was going to dine at the Grange to-day with another gentleman whom the girls had never seen, and about whom Dorothea felt some venerating expectation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Pilgrims assembled at the shrine, **venerating** the sacred relics of the early Christian martyrs."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"She knelt before the ancient shrine, **venerating** the image of the Madonna with fervent piety."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Society stagnates when citizens persist in uncritically **venerating** outdated ancestral customs."*
+

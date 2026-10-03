@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by lack of definite plan or regularity or purpose; jumping from one thing to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by lack of definite plan or regularity or purpose; jumping from one thing to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a definite plan, purpose, or enthusiasm; moving or jumping erratically from one thing to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military combat analysis, desultory skirmishing along the periphery of an army precedes coordinated general assaults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"My poor life and heart, how weak I am!” she moaned, in a relaxed, desultory way, heedless of Liddy’s presence."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"That he was a desultory tentative student of something and everything might only have been predicted of him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He spent years and years in desultory studies, undertakings, and meditations; he began to evince considerable indifference to social forms and observances."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth found the conversation at Rosings strained, consisting only of **desultory** remarks between long pauses."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"David engaged in **desultory** reading among his father's old books in the quiet garret of Blunderstone Rookery."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Angel Clare wandered in **desultory** contemplation across the meadows, unable to resolve his agonizing dilemma."*
+

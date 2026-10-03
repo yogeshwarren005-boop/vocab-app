@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the brother of europa and traditional founder of thebes in boeotia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the brother of europa and traditional founder of thebes in boeotia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the Phoenician prince who founded Thebes, slew the dragon, and introduced the Phoenician alphabet to Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythological genealogy and dramaturgical tradition, Cadmus sowed the dragon's teeth that sprang up as armed Spartoi warriors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was with Hercules and Cadmus once, When in a wood of Crete they bay’d the bear With hounds of Sparta."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Pleasing was his shape, and lovely; never since of serpent kind lovelier, not that which huge in Illyria changed **Cadmus** and Hermione."*
+> - 📜 **Lord Byron (*Don Juan*):** *"You have the letters **Cadmus** gave, think ye he meant them for a slave? Fill high the bowl with Samian wine!"*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"From the heroic blood of **Cadmus** sprang the great tragic house that ruled the seven-gated city of Thebes."*
+

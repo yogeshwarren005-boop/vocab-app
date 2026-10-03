@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of permeating or infusing something with a substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual penetration; diffusion of each through the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of passing, spreading, or penetrating through the pores, spaces, or fabric of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material science and barrier packaging, calculating the permeation rate of oxygen determines product shelf-life stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"To-day the phrase is returning into religious speech to signify the permeation of society by the mind of Christ, which cannot be far from what it meant to the earliest disciples."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The slow **permeation** of gases through porous ceramic diaphragms followed distinct diffusive ratios."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The gradual **permeation** of scientific knowledge into popular culture altered traditional social dogmas."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The intellectual **permeation** of evolutionary concepts transformed nineteenth-century philosophical thought."*
+

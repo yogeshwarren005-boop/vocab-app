@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a crew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a crew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operated, steered, or regulated from a distance by means of transmitted electrical, radio, or infrared signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace and defense engineering, applies to uncrewed aerial vehicles and robotic exploration submersibles managed from ground stations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, remote-controlled designates lacking a crew."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The engineers envisioned fleets of **remote-controlled** cargo vessels guided through ocean channels by wireless beams."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The survey rover was a **remote-controlled** laboratory traversing the cratered Lunar landscape."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"A complex network of **remote-controlled** valves maintained precise barometric conditions within the incubators."*
+

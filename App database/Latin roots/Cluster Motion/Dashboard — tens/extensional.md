@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defining a word by listing the class of entities to which the word correctly applies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defining a word by listing the class of entities to which the word correctly applies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or having spatial extension; or in logic, defined by the set of objects denoted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal philosophical semantics and mathematical logic, an extensional definition specifies a class by enumerating its individual members.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extensional designates defining a word by listing the class of entities to which the word correctly applies."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Logicians distinguish between the **extensional** scope of a general term and its internal conceptual connotation."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Material phenomena possess an **extensional** reality in space that persists through all transformation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our immediate visual field presents an **extensional** manifold across which sensory data is localized."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become wider.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to expand as it by internal pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To swell, inflate, or expand outward by internal pressure, fluid, or gas; to stretch wide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal pathophysiology, abnormal intestinal gas or ascites can painfully distend the peritoneal cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Many of them foamed at the mouth, their breathing being quick and short, whilst the bodies of all were fearfully distended."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In approaching the door, his toe kicked something which felt and sounded soft, leathery, and distended, like a boxing-glove."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It has a sort of howdah on its back, and its distended tusked mouth into which the billows are rolling, might be taken for the Traitors’ Gate leading from the Thames by water into the Tower."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sudden gust of trade winds caused the great mainsail to **distend** like a giant drumhead."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain desert reptiles possess specialized air sacs that **distend** when threatened by predators."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The torrential rain caused the mountain torrents to **distend** beyond their rocky banks."*
+

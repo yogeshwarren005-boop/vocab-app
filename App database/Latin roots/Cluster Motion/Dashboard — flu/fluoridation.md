@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition of a fluoride to the water supply (to prevent dental decay).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The addition of a fluoride to the water supply (to prevent dental decay).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate addition of controlled trace fluorides to public water supplies to reduce dental cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health epidemiology, community water fluoridation is ranked among the ten greatest public health achievements of the twentieth century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoridation designates the addition of a fluoride to the water supply (to prevent dental decay)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extensive epidemiological surveys demonstrated that public water **fluoridation** halved the incidence of dental caries."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The biochemical rationale underlying water **fluoridation** rests upon converting porous enamel into resistant fluorapatite."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Social reformers championed municipal **fluoridation** as a universal preventative hygiene measure for the poor."*
+

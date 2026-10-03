@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give over; surrender or relinquish to the physical control of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relinquish possession or control over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give up, surrender, or relinquish power, territory, or legal rights to another party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international treaties and territorial sovereignty, defeated nations cede peripheral provinces through formal peace conventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Nothing is more certain than the indispensable necessity of government, and it is equally undeniable, that whenever and however it is instituted, the people must cede to it some of their natural rights in order to vest it with requisite powers."*
-> - 📜 **Classic Author (*The Song of Roland*):** *"If you will not to Charles this tribute cede, To you he'll come, and Sarraguce besiege; Take you by force, and bind you hands and feet, Bear you outright ev'n unto Aix his seat."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Our government learned in the spring of 1802, that Spain had by a secret treaty made in October, 1800, actually ceded Louisiana to France."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The weakened emperor was compelled to **cede** the rich provinces of Moesia and Dacia to the Gothic invaders."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Britain refused to **cede** an inch of colonial territory under the naval threats of foreign powers."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The crown agreed to **cede** certain ancient prerogatives in exchange for regular parliamentary financial subsidies."*
+

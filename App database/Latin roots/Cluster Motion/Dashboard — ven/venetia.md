@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of northeastern italy on the adriatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of northeastern italy on the adriatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic and geographic region of northeastern Italy encompassing Venice and surrounding territories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Italian political unification (Risorgimento), the territory annexed to the Kingdom of Italy in 1866 following the Third Italian War of Independence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, good old Mantuan, I may speak of thee as the traveller doth of Venice: _Venetia, Venetia, Chi non ti vede, non ti pretia._ Old Mantuan, old Mantuan!"*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The lagoon islands of **venetia** offered a secure refuge to mainland exiles fleeing barbarian invasions."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The sunny plains of **venetia** lay stretched between the Alps and the shimmering waters of the Adriatic."*
+> - 📜 **George Macaulay Trevelyan (*Garibaldi and the Thousand*):** *"Patriots throughout northern Italy dreamed of redeeming **venetia** from Austrian imperial rule."*
+

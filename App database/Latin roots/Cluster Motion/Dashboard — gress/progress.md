@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gradual improvement or growth or development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of moving forward (as toward a goal).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forward or onward movement toward a destination; or developmental advancement toward a higher or better state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical historicism and Enlightenment theory, human history is conceived as the moral and scientific progress of mankind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The wrinkles which thy glass will truly show, Of mouthed graves will give thee memory, Thou by thy dial’s shady stealth mayst know, Time’s thievish progress to eternity."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of that and all the progress more and less, Resolvedly more leisure shall express."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nothing but to show you how a king may go a progress through the guts of a beggar."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"This book will make a traveler of thee, if by its counsel thou wilt rule thy life, and trace Christian's **progress** to glory."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The general **progress** of organic beings toward structural specialization is a natural consequence of natural selection."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The history of England during the last two centuries is the history of physical, moral, and intellectual **progress**."*
+

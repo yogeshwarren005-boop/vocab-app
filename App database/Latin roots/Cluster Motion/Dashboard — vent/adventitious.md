@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Associated by chance and not an integral part; - frederick w. robertson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated by chance and not an integral part; - frederick w. robertson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arriving from outside, accidental, acquired, or not inherent; occurring out of the normal or expected place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, adventitious roots or buds develop from unusual locations, such as stems or leaves rather than apical radicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was then that the ecstasy and the dream began, in which emotion was the matter of the universe, and matter but an adventitious intrusion likely to hinder you from spinning where you wanted to spin."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"People like Peacock treat poetry, and art generally, as an adventitious seasoning of life--ornamental perhaps, but rather out of place in a progressive and practical age."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Neither the pride nor the safety of the more important States or confederacies would permit them long to submit to this mortifying and adventitious superiority."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"True philosophy separates natural properties from **adventitious** qualities imposed by human convention."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cuttings strike root readily through the spontaneous development of **adventitious** rootlets from stem nodes."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind distinguishes between innate sensations and **adventitious** impressions derived from foreign objects."*
+

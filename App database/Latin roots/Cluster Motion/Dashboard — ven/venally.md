@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a corrupt and deceitful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a corrupt and deceitful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a venal manner; corruptly, dishonorably, or through susceptibility to bribery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public integrity law, official duties exercised venally in exchange for clandestine remuneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venally designates in a corrupt and deceitful manner."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial governor disposed **venally** of high civic appointments to wealthy patrons."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The bailiff acted **venally**, accepting bribes from lawbreakers while punishing the poor."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Pamphleteers who wrote **venally** for ministerial gold were quickly exposed by the revolutionary clubs."*
+

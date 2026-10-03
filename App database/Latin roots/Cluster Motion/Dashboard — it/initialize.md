@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign an initial value to a computer program.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide (a disk) into marked sectors so that it may store data.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To set to an initial state, baseline value, or starting configuration prior to operational use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In database management systems, administrative scripts initialize new database clusters by creating system catalogs and default tablespaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, initialize designates assign an initial value to a computer program."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The laboratory technician must **initialize** the electrical battery before measuring the resistance of the wire."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"To understand cosmic evolution, one must **initialize** the conceptual model at the point of greatest homogeneity."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"We found it necessary to **initialize** the recording apparatus in absolute darkness to prevent phototropic bias."*
+

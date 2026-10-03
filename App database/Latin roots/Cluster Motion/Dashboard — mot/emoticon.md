@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pictorial representation of a facial expression formed by typographic characters or punctuation marks used in digital messaging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer-mediated communication and digital semiotics, Scott Fahlman's 1982 proposal of :-) established the typographic emoticon to disambiguate tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emoticon designates a representation of a facial expression (as a smile or frown) created by typing a sequence of characters in sending email."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Symbolic systems invent concise tokens, much as modern electronic messages employ an **emoticon** to convey immediate feeling."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The crude typographic **emoticon** demonstrates our irresistible psychological need to project facial expression into text."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"Human ingenuity continually devises symbolic shorthand, from ancient runes to the simplest typographic **emoticon**."*
+

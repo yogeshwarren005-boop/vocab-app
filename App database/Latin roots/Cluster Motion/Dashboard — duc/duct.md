@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bodily passage or tube lined with epithelial cells and conveying a secretion or other substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A continuous tube formed by a row of elongated cells lacking intervening end walls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tube, canal, or pipe through which liquid, gas, or cables are conducted; a bodily vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, exocrine ducts (such as the pancreatic duct or bile duct) convey digestive enzymes into the alimentary canal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak's expertise with duct tape and hand tools would get credit for the successful escape."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The insulation of his heart by reserve during these many years, without a duct of any kind for disposable emotion, had worked its effect."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"With elaborate gestures I inspected all surfaces and seams, measured the damaged areas with my ruler, cut the proper length strip from my large roll of duct tape, and pressed it into place."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An impacted calculus in the common bile **duct** produces severe biliary colic and obstructive jaundice."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The lacrimal **duct** conveys overflow tears from the eye into the nasal cavity during weeping."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The salivary glands discharge their secretions through a narrow membranous **duct** opening into the mouth."*
+

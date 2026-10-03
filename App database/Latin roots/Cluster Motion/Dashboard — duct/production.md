@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of producing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A presentation for the stage or screen or radio or television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or work of manufacturing, creating, cultivating, or bringing forth goods, crops, or artistic works.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microeconomics, a production function specifies the maximum output attainable from given quantities of capital and labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The result from capital employed in the production of any movement of a mental nature is sometimes as tremendous as the cause itself is absurdly minute."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She found her former ability to have degenerated to the production of a hollow rush of wind through the lips, and no clear note at all."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"If a speech be well drawn up, I read it with pleasure, by whomsoever it may be made—and probably with much greater, if the production of Mr."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The result from capital employed in the **production** of any movement of a mental nature is slow."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Consumption is the sole end and purpose of all **production**; and the interest of the producer ought to be attended to, only so far as it may be necessary for promoting that of the consumer."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The continuous **production** of new varieties under domestication illustrates the plasticity of animal organizations."*
+

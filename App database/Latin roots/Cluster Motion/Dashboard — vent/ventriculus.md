@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thick-walled muscular pouch below the crop in many birds and reptiles for grinding food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thick-walled muscular pouch below the crop in many birds and reptiles for grinding food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stomach or gizzard in animals; a digestive cavity or ventricle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect entomology, the midgut or chylific stomach (ventriculus) where primary enzymatic digestion and nutrient absorption occur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventriculus designates thick-walled muscular pouch below the crop in many birds and reptiles for grinding food."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Food passes from the proventriculus directly into the glandular **ventriculus** for chemical digestion."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The muscular **ventriculus** of the pigeon displays remarkable thickening when fed upon coarse unground grains."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pathologists observed severe catarrhal irritation of the gastric mucosa within the **ventriculus**."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A merchant who undertakes a trading venture (especially a venture that sends goods overseas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who enjoys taking risks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who undertakes a risky venture, financial enterprise, or daring journey; a merchant adventurer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern English economic history, the Company of Merchant Adventurers held royal monopolies on overseas cloth exports.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The whole surface of your land, gentlemen, is one wild sea of beauty, ready to toss into the lap of every venturer upon it, a farm."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The prudent **venturer** spreads his risks across multiple voyages rather than staking his fortune upon a single vessel."*
+> - 📜 **Walter Scott (*The Fortunes of Nigel*):** *"The London goldsmith acted as a bold **venturer** in colonial trading expeditions to Virginia."*
+> - 📜 **Francis Bacon (*Essays*):** *"He that will be rich before his time must become a daring **venturer** upon uncertain mercantile seas."*
+

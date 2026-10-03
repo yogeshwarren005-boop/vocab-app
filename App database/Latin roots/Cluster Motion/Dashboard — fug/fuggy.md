@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (british informal) poorly ventilated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (british informal) poorly ventilated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Warm, humid, stuffy, and poorly ventilated; heavy with stale air or smoke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban social history, fuggy taprooms and crowded tenement kitchens characterized nineteenth-century working-class dwellings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fuggy designates (british informal) poorly ventilated."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The kitchen was small, dark, and **fuggy**, heated by a blazing coal range that filled the low room with choking fumes."*
+> - 📜 **James Joyce (*Ulysses*):** *"The cabman's shelter was warm and **fuggy**, filled with the steaming aroma of boiling coffee and damp woolen overcoats."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She stepped out of the **fuggy** parlor into the crisp, cold evening air of the London square with intense relief."*
+

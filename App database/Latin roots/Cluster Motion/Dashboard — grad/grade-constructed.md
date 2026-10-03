@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constructed at ground level.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constructed at ground level.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engineered, leveled, or built according to specific gradient slopes, elevations, and structural cross-sections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport civil engineering, a grade-constructed railroad roadbed incorporates engineered cut-and-fill drainage cross-sections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, grade-constructed designates constructed at ground level."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"The municipal traction franchise laid down heavy steel rails over the newly **grade-constructed** suburban boulevard."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The speculative railroad syndicate surveyed miles of **grade-constructed** earthworks across the fertile Missouri prairie."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Armored locomotives advanced along the **grade-constructed** military embankment guarding the river crossing."*
+

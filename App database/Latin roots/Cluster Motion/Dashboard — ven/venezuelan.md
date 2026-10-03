@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of venezuela.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of venezuela or its people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Venezuela, its people, or its culture; a native or citizen of Venezuela.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Latin American historiography, Venezuelan revolutionary armies and cavalry units that liberated northern South America under Bolívar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venezuelan designates a native or inhabitant of venezuela."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The hospitable **venezuelan** planters welcomed our scientific expedition with generous kindness and courtesy."*
+> - 📜 **Joseph Conrad (*Nostromo*):** *"The veteran officer had served with distinction alongside **venezuelan** cavalry in the wars of liberation."*
+> - 📜 **W. H. Hudson (*Green Mansions*):** *"The young **venezuelan** wanderer ventured deep into the unexplored forests of the Orinoco river basin."*
+

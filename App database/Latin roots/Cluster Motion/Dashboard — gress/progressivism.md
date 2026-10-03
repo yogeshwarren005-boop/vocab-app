@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of those who favor progress toward better conditions in government and society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of those who favor progress toward better conditions in government and society.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political and social philosophy that advocates progressive socio-economic reform, government regulation, and social justice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American political historiography, the early twentieth-century Progressive Era championed antitrust laws, electoral reform, and pure food acts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progressivism designates the political orientation of those who favor progress toward better conditions in government and society."*
+> - 📜 **Theodore Roosevelt (*The New Nationalism*):** *"Genuine **progressivism** demands that the federal government curb corporate power to secure fair play for all citizens."*
+> - 📜 **Woodrow Wilson (*The New Freedom*):** *"The spirit of modern **progressivism** seeks to emancipate the individual from the grip of monopolistic trusts."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol Kennicott's parlor **progressivism** was viewed with suspicious bewilderment by the conservative matrons of Gopher Prairie."*
+

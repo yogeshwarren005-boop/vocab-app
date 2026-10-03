@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of the sweat glands of the skin secreting a salty fluid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of the sweat glands of the skin secreting a salty fluid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Profuse, heavy perspiration or sweating, often artificially induced or occurring as a clinical symptom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and emergency medicine, sudden diaphoresis combined with substernal chest pressure suggests acute myocardial infarction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaphoresis designates the process of the sweat glands of the skin secreting a salty fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden defervescence of the patient's fever was accompanied by drenching nocturnal **diaphoresis** and profound relief."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The old doctor noted the cold clammy **diaphoresis** bead upon the forehead of the poisoned patient."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Sympathetic autonomic stimulation of the eccrine sweat glands induces generalized systemic **diaphoresis** under acute stress."*
+

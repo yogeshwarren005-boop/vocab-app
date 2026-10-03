@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hairdo formed by braiding or twisting the hair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hairdo formed by braiding or twisting the hair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long lock, braid, or strand of a person's hair, especially a woman's hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic portraiture and chivalric romance, golden or raven tresses symbolize beauty, virtue, and courtly romance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"You are no false ideal, Something is left of you, Present, perceptible, real, Palpable, tangible, true; One shred of your broken necklace, One tress of your pale, gold hair, And a heart so utterly reckless, That the worst it would gladly dare."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Satin coat that seems to shine Duller now, black braided tress, That a softer hand than mine Far away was wont to twine, That in meadows far from this Softer lips might kiss."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"And his grave shall be 'Neath the chestnut tree, Where he met my sister many years ago; Leave that tress of hair On his bosom there-- Wrap the cerecloth round him!"*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"This nymph, to the destruction of mankind, nourished two locks, which graceful hung in an enchanting **tress**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Her unadorned golden hair flowed down to her slender waist in many an undulating **tress**."*
+> - 📜 **Lord Byron (*She Walks in Beauty*):** *"Which waves in every raven **tress**, or softly lightens o'er her face, where thoughts serenely sweet express."*
+

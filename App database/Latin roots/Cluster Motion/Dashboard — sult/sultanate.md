@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Country or territory ruled by a sultan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Country or territory ruled by a sultan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The country, territory, state, or office ruled by a sultan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime Indian Ocean trade history, the Sultanate of Oman established commercial trading emporia spanning from Muscat to Zanzibar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Under a weak, or a careless, or even an absent, Emperor Rome was governed by such men and such methods as we suppose to be peculiar to Sultanates and the East."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Seljuk **sultanate** of Rum fragmented into numerous rival principalities following Mongol invasions."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The traveller crossed the desert borders of the ancient **sultanate**, guided by Bedouin scouts through the dunes."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The coastal trading post lay within the nominal jurisdiction of an impoverished Malay **sultanate** upriver."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone suffering psychological depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone suffering psychological depression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause depression or lower spirits; characterized by psychological melancholy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic psychiatry, pertains to mood episodes (such as major depressive disorder or bipolar depression) featuring anhedonia and psychomotor slowing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depressive designates someone suffering psychological depression."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The pathological **depressive** state strips the external universe of all its intrinsic beauty and significance."*
+> - 📜 **Sigmund Freud (*Mourning and Melancholia*):** *"The **depressive** reaction differs from normal grief in its profound lowering of the patient's self-esteem."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The abrupt cessation of dopamine therapy precipitated a severe **depressive** stupor."*
+

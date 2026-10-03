@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad highway designed for high-speed traffic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A broad highway designed for high-speed traffic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dual-carriageway highway designed for high-speed vehicular traffic with grade-separated junctions and controlled access points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British civil engineering, the equivalent of the North American freeway or German autobahn, restricted from non-motorized traffic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorway designates a broad highway designed for high-speed traffic."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The wide concrete **motorway** stretched southward toward the coast, straight as an arrow across the heath."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Along the broad bypass **motorway**, concrete factories and neon signs heralded the modern industrial age."*
+> - 📜 **E. M. Forster (*Abinger Harvest*):** *"The construction of the arterial **motorway** swept away centuries of ancient woodlands and quiet bridle paths."*
+

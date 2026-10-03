@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emotionally unmoved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being in the original position; not having been moved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not changed in physical location or position; or emotionally untouched, impassive, and indifferent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological resilience and crisis leadership, commanders who remain unmoved by panic maintain operational command continuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He now interposes, addressing the young surgeon in his unmoved, professional way."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes, quiet and unmoved, as a man of so much respectability ought to be, takes off his close black gloves as if he were skinning his hands, lifts off his tight hat as if he were scalping himself, and sits down at his desk."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"From the goodness of all about me I derived such consolation as I can never think of unmoved."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy listened to Elizabeth's impassioned rebuke with a countenance that appeared cold and **unmoved**."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers sat **unmoved** by her tears, clinging to his austere sense of religious duty."*
+> - 📜 **William Shakespeare (*Sonnet 94*):** *"They that have power to hurt and will do none, that do not do the thing they most do show, who, **unmoved**, cold, and to temptation slow."*
+

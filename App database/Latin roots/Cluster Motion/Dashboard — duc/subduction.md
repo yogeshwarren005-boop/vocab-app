@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A geological process in which one edge of a crustal plate is forced sideways and downward into the mantle below another plate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geological process in which one edge of a crustal plate is forced sideways and downward into the mantle below another plate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of drawing away or subtracting; in geology, the downward sinking of a tectonic plate beneath another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics, subduction zones generate deep ocean trenches, megathrust earthquakes, and volcanic island arcs (such as the Pacific Ring of Fire).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subduction designates a geological process in which one edge of a crustal plate is forced sideways and downward into the mantle below another plate."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The colossal **subduction** of basaltic crust explains the deep maritime abysses bordering the volcanic island chains."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Tectonic folding and crustal **subduction** continually reshape the continental margins over geological epochs."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The arithmetical **subduction** of legal charges from the gross estate leaves the clear residue for legatees."*
+

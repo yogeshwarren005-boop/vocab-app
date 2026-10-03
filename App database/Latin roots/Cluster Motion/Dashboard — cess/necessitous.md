@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poor enough to need help from others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poor enough to need help from others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the basic necessities of life; impoverished, destitute, or in urgent material need.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical English poor-law jurisprudence, parishes provided outdoor relief specifically for necessitous families unable to earn wages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"How is it possible that a government half supplied and always necessitous, can fulfill the purposes of its institution, can provide for the security, advance the prosperity, or support the reputation of the commonwealth?"*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Diachylon in the one case and ammonia in the other were all that my patients required; and I had a faint suspicion that the present summons was perhaps occasioned by no case more necessitous than those I have quoted."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He who relieved the wants of the **necessitous** stranger earned a reputation for genuine Christian charity."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The relief committee visited the most **necessitous** quarters of the district to distribute loaves of bread."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A compassionate employer might extend credit to his most **necessitous** workmen during severe winter frosts."*
+

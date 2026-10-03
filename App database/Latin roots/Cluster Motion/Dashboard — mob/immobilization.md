@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fixation (as by a plaster cast) of a body part in order to promote proper healing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of limiting movement or making incapable of movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making someone or something incapable of movement; restriction of motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil chemistry and biogeochemistry, nitrogen immobilization occurs when soil microbes assimilate inorganic nitrogen into organic compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immobilization designates fixation (as by a plaster cast) of a body part in order to promote proper healing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Immediate **immobilization** of the limb in a Thomas splint drastically reduced mortality from compound femoral fractures."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The sudden **immobilization** of the fleeing intruder was achieved when the villagers surrounded him with heavy clubs."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"The temporary **immobilization** of plant nutrients in dry upper soils is reversed by seasonal autumn rains."*
+

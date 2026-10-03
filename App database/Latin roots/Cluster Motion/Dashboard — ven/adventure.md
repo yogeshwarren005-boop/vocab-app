@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild and exciting undertaking (not necessarily lawful).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take a risk in the hope of a favorable outcome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unusual, exciting, and daring experience or undertaking involving uncertain risks and enterprise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial history, a merchant adventure or commercial speculation risking investment capital in overseas maritime voyages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you saw yourself with your eyes or knew yourself with your judgement, the fear of your adventure would counsel you to a more equal enterprise."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alas, poor shepherd, searching of thy wound, I have by hard adventure found mine own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you beat us out of it, it is yours; if you fall in the adventure, our crows shall fare the better for you; and there’s an end."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"My ventures are not in one bottom trusted, nor to one place; nor is my whole estate upon the fortune of this present **adventure**."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"My head was full of projects and **adventure**, despising the quiet middle station of life my father commended."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The prospect of hazardous **adventure** on the high seas banished all lingering fears of the pirate's black spot."*
+

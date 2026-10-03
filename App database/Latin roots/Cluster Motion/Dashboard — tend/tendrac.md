@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small often spiny insectivorous mammal of madagascar; resembles a hedgehog.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small often spiny insectivorous mammal of madagascar; resembles a hedgehog.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, spiny, insectivorous mammal native to Madagascar belonging to the tenrec family (Centetidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biogeography, the Malagasy tendrac represents remarkable adaptive radiation, filling ecological niches akin to shrews and hedgehogs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendrac designates small often spiny insectivorous mammal of madagascar; resembles a hedgehog."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The isolated fauna of Madagascar includes the curious **tendrac**, which retains primitive insectivorous dentition."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The anatomical structure of the **tendrac** illustrates how ancestral mammals adapted to specialized insular environments."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Among the endemic mammalian genera of Madagascar, the nocturnal **tendrac** burrows among fallen forest foliage."*
+

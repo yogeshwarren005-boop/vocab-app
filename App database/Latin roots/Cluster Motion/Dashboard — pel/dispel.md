@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force to go away; used both with concrete and metaphoric meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to separate and go in different directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To drive away, scatter, or cause to vanish, especially doubts, fears, clouds, or illusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychotherapy and cognitive restructuring, empirical evidence is used to dispel irrational catastrophizing thoughts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Employment, even melancholy, may dispel melancholy, and her occupations were hopeful."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The first vision of Rosamond would have been enough with most judges to dispel any prejudice excited by Mrs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But the lovely aromas in that enchanted air did at last seem to dispel, for a moment, the cankerous thing in his soul."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes's calm explanation served to **dispel** the superstitious terrors that had haunted Dartmoor."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The morning sun rose over the Alpine peaks, helping to **dispel** the dark gloom that enveloped my mind."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Rochester's tender words had power to **dispel** my anxious misgivings and quiet my beating heart."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of flowing easily.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A changeable quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being liquid, mobile, or capable of flowing without rigid form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheological analysis of colloidal suspensions, the fluidness of a dispersion decreases as volume concentration of suspended particulates increases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluidness designates the property of flowing easily."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The relative **fluidness** of oils varies inversely with the cohesive attractions between their spherical globules."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The chemical **fluidness** of melted sulfur changes remarkably when heated past its boiling threshold."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Protoplasm exhibits a delicate **fluidness** essential for cytoplasmic streaming and nutrient circulation."*
+

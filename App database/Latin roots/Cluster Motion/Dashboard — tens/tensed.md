@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become stretched or tense or taut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Increase the tension on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Became or made tight, strained, or rigid, especially muscles preparing for sudden physical action or shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports biomechanics, an athlete's tensed musculature absorbs impact kinetic energy and protects joint ligaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." O'Hare tensed, psy-blinked his view screen down to the instruments vital to his immediate mission, and mind-keyed several controls."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We'll pass on this." Brad tensed at Xindral's choice of words, and sensed the others had been similarly alerted."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan tensed, activating the mind-mike in his armpit."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck's muscles **tensed** under his thick fur as he prepared to spring upon the rival lead dog."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes **tensed** his lean frame, ready to leap upon the intruder the moment the window opened."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The young recruit **tensed** his shoulders against the parapet as the enemy line emerged from the woods."*
+

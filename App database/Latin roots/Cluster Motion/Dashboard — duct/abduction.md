@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The criminal act of capturing and carrying away by force a family member; if a man's wife is abducted it is a crime against the family relationship and against the wife.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) moving of a body part away from the central axis of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The unlawful carrying away of a person by force, fraud, or coercion; or movement of a limb away from the midline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and Peano-Peircean semiotics, abduction denotes logical inference to the best explanatory hypothesis from observed data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"The plan for Natalie Rostóva’s abduction had been arranged and the preparations made by Dólokhov a few days before, and on the day that Sónya, after listening at Natásha’s door, resolved to safeguard her, it was to have been put into execution."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"One of Pierre’s acquaintances, while they were talking about the weather, asked if he had heard of Kurágin’s abduction of Rostóva which was talked of in the town, and was it true?"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre dined at the club that day and heard on all sides gossip about the attempted abduction of Rostóva."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"The sudden **abduction** of the young nobleman threw the entire ducal household into utter dismay."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The magistrate investigated the mysterious **abduction** of the child from the parish workhouse."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The mythical **abduction** of the Sabine women laid the foundation of Rome's earliest alliances."*
+

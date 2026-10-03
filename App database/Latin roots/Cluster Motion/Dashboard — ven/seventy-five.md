@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being five more than seventy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being five more than seventy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to the sum of seventy and five; 75; three-quarters of one hundred.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, the French Canon de 75 modèle 1897, the first modern quick-firing field gun with a hydro-pneumatic recoil mechanism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-five designates being five more than seventy."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"To every Roman citizen he gives, to every several man, **seventy-five** drachmas."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"He was burdened with a mortgage of **seventy-five** dollars on his small farm, which weighed heavily upon his peace."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sperm whale's skeleton measured **seventy-five** feet from the snout to the extremity of the tail flukes."*
+

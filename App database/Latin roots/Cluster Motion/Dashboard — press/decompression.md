@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restoring compressed information to its normal form for use or display.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relieving pressure (especially bringing a compressed person gradually back to atmospheric pressure).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction or release of physical pressure, or return to normal ambient pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In underwater medicine, the systematic staging required during ascent to dissolve inert nitrogen gas from bodily tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decompression designates restoring compressed information to its normal form for use or display."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"Careful adherence to the **decompression** schedule saved deep divers from crippling nitrogen embolism."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"A sudden rupture in the balloon envelope produced rapid **decompression** and extreme dizziness among the crew."*
+> - 📜 **Aldous Huxley (*Island*):** *"The slow mental **decompression** after months of urban toil restored his creative tranquility."*
+

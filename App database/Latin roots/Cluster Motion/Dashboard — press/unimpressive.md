@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of impressing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of impressing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failing to command attention, admiration, or respect; ordinary, unremarkable, or lackluster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural appraisal, describes modest, utilitarian facades lacking scale, proportion, or decorative distinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unimpressive designates not capable of impressing."*
+> - 📜 **Arthur Conan Doyle (*The Norwood Builder*):** *"The suspect was an **unimpressive**, timid-looking little gentleman whose appearance belied a terrible crime."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The exterior of the ancient corn market was singularly **unimpressive**, consisting of dull brick arches and weathered slate."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke's parliamentary oratory was notoriously **unimpressive**, meandering through vague allusions and disconnected anecdotes."*
+

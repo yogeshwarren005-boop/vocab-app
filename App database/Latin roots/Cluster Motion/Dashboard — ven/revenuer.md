@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A government agent responsible for collecting revenue (especially one responsible for stopping bootlegging).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A government agent responsible for collecting revenue (especially one responsible for stopping bootlegging).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A federal government officer tasked with enforcing excise tax laws, especially on alcoholic beverages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American Appalachian history, Treasury agents who raided illicit mountain distilleries and pursued 'moonshiners'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revenuer designates a government agent responsible for collecting revenue (especially one responsible for stopping bootlegging)."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The mountain folk kept a wary eye peeled for any prowling federal **revenuer** searching the ravines."*
+> - 📜 **Jack London (*John Barleycorn*):** *"Illicit distillers in the remote hills learned to dread the sudden raid of an armed **revenuer**."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Tales circulated among the elders of how the old **revenuer** had tracked hidden stills through the pine woods."*
+

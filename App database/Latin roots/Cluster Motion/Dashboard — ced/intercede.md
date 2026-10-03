@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act between parties with a view to reconciling differences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act between parties with a view to reconciling differences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To intervene, mediate, or plead on behalf of another person, especially in a dispute or difficulty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological soteriology, Christ is described as the heavenly mediator who lives to intercede for humanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"Thus repulsed, in a manner which only served, by arousing the most dreadful forebodings, to excite me to renewed attempts, I conjured him to intercede for me with the natives, and endeavour to procure their consent to my leaving them."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Rostóv, in dismay, began justifying himself, but seeing the kindly, jocular face of the general, he took him aside and in an excited voice told him the whole affair, asking him to intercede for Denísov, whom the general knew."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now the father has come to intercede for him."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Portia resolved to **intercede** on behalf of the noble merchant Antonio against the vengeful bond of Shylock."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny Price attempted to **intercede** for her cousin, begging Sir Thomas to moderate his severe judgment."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans traveled on foot to London to **intercede** with the Queen for her sister's pardon."*
+

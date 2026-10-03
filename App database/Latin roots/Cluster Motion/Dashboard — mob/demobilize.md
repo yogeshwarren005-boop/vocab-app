@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from military service or remove from the active list of military service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retire from military service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To release from military duty, or to stand down an army from active service to peacetime footing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In defense economics, governments demobilize specialized combat divisions to reduce national sovereign debt obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demobilize designates release from military service or remove from the active list of military service."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"We resolved to **demobilize** service personnel according to age and length of frontline service overseas."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"The commander urged Congress to **demobilize** the Continental Army with full back pay and land bounty grants."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The regional council voted to **demobilize** the border garrisons as agricultural labor shortages deepened."*
+

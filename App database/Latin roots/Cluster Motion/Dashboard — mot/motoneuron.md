@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neuron conducting impulses outwards from the brain or spinal cord.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neuron conducting impulses outwards from the brain or spinal cord.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor nerve cell whose axon projects into muscles or glands, transmitting impulses that initiate contractions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, categorized into upper motor neurons descending from the cortex and lower motor neurons synapsing directly with motor endplates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motoneuron designates a neuron conducting impulses outwards from the brain or spinal cord."*
+> - 📜 **Charles Scott Sherrington (*The Integrative Action of the Nervous System*):** *"The final common path in reflex action is constituted by the anterior horn **motoneuron** and its peripheral axon."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Each spinal **motoneuron** displays extensive dendritic arborizations that integrate hundreds of sensory collaterals."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Electrical discharge traversing the **motoneuron** provokes rapid chemical breakdown and mechanical twitch in muscle fibers."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suited to your comfort or purpose or needs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and roomy (`convenient' is archaic in this sense).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fitting, suitable, or agreeable to one's needs, comfort, or purpose; situated near or easy to reach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative planning, arranging service locations and timetables to minimize public travel burdens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispatch the most convenient messenger."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I duly am inform’d His grace is at Marseilles; to which place We have convenient convoy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then, valiant Titus, take Convenient numbers to make good the city, Whilst I, with those that have the spirit, will haste To help Cominius."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"The cottage was small, but comfortable, and **convenient** to all the neighboring market towns."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"A **convenient** train from Paddington carried us straight to the secluded manor house."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe found it **convenient** to inspect the forge fire whenever Mrs. Joe's temper rose to tempest pitch."*
+

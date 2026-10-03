@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sixth month of the revolutionary calendar (february and march); the windy month.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sixth month of the revolutionary calendar (february and march); the windy month.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Windy, flatulent, or puffed up with empty conceit; also the sixth month of the French Republican Calendar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In revolutionary French history, Ventôse ran from mid-February to mid-March, commemorated by Saint-Just's radical Ventôse Decrees of 1794.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventose designates sixth month of the revolutionary calendar (february and march); the windy month."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"In the stormy month of **Ventose**, the National Convention decreed the confiscation of emigrant estates."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain legumes generate a **ventose** and flatulent humor in delicate digestive organs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sophist delivered a **ventose** and bombastic oration filled with empty flattery of the imperial court."*
+

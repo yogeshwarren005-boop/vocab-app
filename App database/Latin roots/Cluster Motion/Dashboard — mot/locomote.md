@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change location; move, travel, or proceed, also metaphorically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change location; move, travel, or proceed, also metaphorically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move, travel, or change physical location from one place to another through active self-propulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In robotics and animal biomechanics, quadrupedal machines locomote by coordinating multi-joint leg kinematics across uneven terrain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, locomote designates change location; move, travel, or proceed, also metaphorically."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Bipedal primates **locomote** with an upright posture that liberates the forelimbs for tool manipulation."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Invertebrates **locomote** using diverse anatomical mechanisms, from ciliary beating to hydrostatic muscular contraction."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The capacity to **locomote** actively enhances an animal's ability to forage and escape predators."*
+

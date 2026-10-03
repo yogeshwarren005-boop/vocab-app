@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of moving back and forth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally rapid beating of the auricles of the heart (especially in a regular rhythm); can result in heart block.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To flap wings rapidly and lightly; or to move back and forth quickly and irregularly; or a rapid irregular heartbeat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeroelasticity, aerodynamic flutter is a self-feeding, destructive vibration caused by unstable dynamic coupling between airflow and wing structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, then, most soft sweet goddess, Give me the victory of this question, which Is true love’s merit, and bless me with a sign Of thy great pleasure. [_Here music is heard; doves are seen to flutter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In short, I was in a flutter for a little while and felt as if an old chord had been more coarsely touched than it ever had been since the days of the dear old doll, long buried in the garden."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As I had sufficient hopes of the will to be in a flutter about it, Allan and I agreed to go down to the court that morning."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"If you have writ your annals true, 'tis there, that, like an eagle in a dovecote, I did **flutter** your Volscians in Corioli."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Sometimes it was a palpitation, sometimes a **flutter** in her throat that choked her speech."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He watched the colorful birds **flutter** their wings among the blossoms of the greenhouse."*
+

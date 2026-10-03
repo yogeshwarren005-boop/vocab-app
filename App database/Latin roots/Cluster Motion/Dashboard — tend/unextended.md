@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extended or stretched out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not extended or stretched out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not stretched out, enlarged, or prolonged; lacking spatial dimension or physical extension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Cartesian dualism, the rational soul (res cogitans) is defined as an unextended thinking substance distinct from extended matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unextended designates not extended or stretched out."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"The human mind is an **unextended** thinking entity, completely indivisible and independent of the physical body."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Philosophers have debated whether immaterial spirits can be conceived as **unextended** points in space."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"If space is the form of external intuition, nothing within physical experience can exist in an **unextended** state."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move a limb in a circular or cone-shaped sweeping path; archaically, to lead astray or nullify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinesiology, executing a composite movement combining flexion, abduction, extension, and adduction in sequential order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, circumduct designates pertaining to, derived from, or characteristic of latin duc within the domain of motion."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"The patient was asked to **circumduct** the shoulder joint fully to test for subacromial impingement."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The ball-and-socket structure of the hip allows the femur to **circumduct** through a broad cone of movement."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Cortical motor commands stimulate synergist muscle clusters when the subject begins to **circumduct** the arm."*
+

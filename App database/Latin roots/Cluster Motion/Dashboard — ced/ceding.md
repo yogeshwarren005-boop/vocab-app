@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of ceding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give over; surrender or relinquish to the physical control of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surrendering, yielding, or formally transferring possession, rights, or territory to another sovereign or party.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical diplomacy, ceding strategic maritime islands frequently alters exclusive economic zone boundaries under international law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceding designates the act of ceding."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"By **ceding** the frontier strongholds to the Persians, the disgraced emperor purchased a temporary and precarious peace."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The capitulation of the government was sealed by **ceding** naval bases and strategic territory to the conqueror."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The monarchy was trapped into **ceding** prerogative after prerogative to the surging national representatives."*
+

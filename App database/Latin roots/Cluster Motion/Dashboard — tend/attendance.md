@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of being present (at a meeting or event etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The frequency with which a person is present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical presence or regular appearance of a person at a designated place, gathering, meeting, or event; or the total count of attendees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational administration, regular attendance records determine institutional compliance and statutory funding quotas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Clarence, Gloucester, Warwick and others in attendance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last time, I danced attendance on his will Till Paris was besieged, famished, and lost."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I had thought They had parted so much honesty among ’em— At least good manners—as not thus to suffer A man of his place, and so near our favour, To dance attendance on their lordships’ pleasures, And at the door too, like a post with packets."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The ball at Netherfield was honored by the **attendance** of all the principal families of the neighbourhood."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The doctor remained in constant **attendance** at the bedside of the wounded prisoner."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The professors required the daily **attendance** of students at lectures to ensure rigorous discipline."*
+

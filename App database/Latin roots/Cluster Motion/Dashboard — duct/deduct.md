@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a subtraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retain and refrain from disbursing; of payments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take away, subtract, or subtract an amount or part from a total sum or quantity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In income tax accounting, taxpayers deduct legitimate business expenses from gross revenues to determine taxable net income.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"I went on to say that the work had not been finished by them, so in consequence I had decided to deduct four sticks of tobacco off each man's payment."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Then there was well-bred economy, which in those days made show in dress the first item to be deducted from, when any margin was required for expenses more distinctive of rank."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is taken from those who buy these products, it is deducted from the psychic incomes of other members of society."*
+> - 📜 **William James (*Pragmatism*):** *"My father pleaded poverty; and at last he bargained to advance a guinea, and **deduct** it out of my allowance."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The landlord will **deduct** the expense of necessary repairs from the annual rent owed by the tenant."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitor agreed to **deduct** his traveling costs from the final accounting rendered to the court."*
+

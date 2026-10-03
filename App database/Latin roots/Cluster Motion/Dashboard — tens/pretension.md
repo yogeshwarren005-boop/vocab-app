@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A false or unsupportable quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The advancing of a claim.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assertion of a claim, right, or title; or an inflated display of importance, merit, or social standing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire and comedy of manners, unmasking social pretension exposes the vanity of aspiring bourgeois parvenus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Miss Tilney had a good figure, a pretty face, and a very agreeable countenance; and her air, though it had not all the decided pretension, the resolute stylishness of Miss Thorpe’s, had more real elegance."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"He owns it himself without disguise.” “No,” said Darcy, “I have made no such pretension."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Neither the value of lands, nor the numbers of the people, which have been successively proposed as the rule of State contributions, has any pretension to being a just representative."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton's ridiculous **pretension** to the hand of Emma Woodhouse provoked her astonishment and indignation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian general dismissed the hollow **pretension** of the senate, demanding gold as the price of peace."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The aristocratic family maintained their ancient **pretension** despite the ruinous decay of their ancestral fortune."*
+

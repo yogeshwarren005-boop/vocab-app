@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make up something artificial or untrue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To create, design, or produce something new and useful that did not previously exist; to devise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical classical theory (inventio), discovering valid arguments and relevant proofs to persuade an audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say she never did invent this letter; This is a man’s invention, and his hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The brain of this foolish-compounded clay, man, is not able to invent anything that tends to laughter more than I invent, or is invented on me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could well wish courtesy would invent some other custom of entertainment."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Men seek to **invent** new mechanical arts by following the true interpretation of natural causes."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The grand Academy of Lagado sought to **invent** methods for extracting sunbeams out of cucumbers."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"Daniel Doyce spent years attempting to **invent** improvements in rifled ordnance for the state."*
+

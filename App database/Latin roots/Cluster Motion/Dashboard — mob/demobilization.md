@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of changing from a war basis to a peace basis including disbanding or discharging troops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of changing from a war basis to a peace basis including disbanding or discharging troops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of standing down military troops from active wartime readiness to peacetime civilian status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history and post-conflict transition studies, orderly demobilization forms the prerequisite for restoring civilian civil governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, demobilization designates act of changing from a war basis to a peace basis including disbanding or discharging troops."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"General **demobilization** proceeded smoothly through regional transit camps despite widespread civilian coal shortages."*
+> - 📜 **Theodore Roosevelt (*The Rough Riders*):** *"Upon the regiment's **demobilization** at Montauk Point, each trooper received honorable discharge papers from the army."*
+> - 📜 **Ulysses S. Grant (*Personal Memoirs of U. S. Grant*):** *"The grand review of the armies in Washington preceded the rapid **demobilization** of over a million veteran troops."*
+

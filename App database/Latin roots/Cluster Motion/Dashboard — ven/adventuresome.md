@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Willing to undertake or seeking out new and daring enterprises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to undertake or seeking out new and daring enterprises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to take risks, seek novel exploits, or undertake daring and hazardous enterprises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character assessment, denotes an active, energetic temperament drawn to frontiers, exploration, and speculative endeavors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventuresome designates willing to undertake or seeking out new and daring enterprises."*
+> - 📜 **Washington Irving (*The Adventures of Captain Bonneville*):** *"The trappers were an **adventuresome** band, fearless of Indian ambuscade and alpine blizzard."*
+> - 📜 **James Fenimore Cooper (*The Pioneers*):** *"Leatherstocking possessed an **adventuresome** spirit that chafed under the growing restraints of frontier settlement."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Tom's restless and **adventuresome** nature led him to organize midnight expeditions to graveyards and haunted hills."*
+

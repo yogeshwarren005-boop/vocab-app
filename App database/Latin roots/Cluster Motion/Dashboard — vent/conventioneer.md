@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who attends a convention.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who attends a convention.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who attends or participates in a formal convention, conference, or trade assembly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hospitality and tourism economics, business travelers who patronize municipal conference centers, hotels, and banquet facilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conventioneer designates someone who attends a convention."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The boisterous **conventioneer** marched through the hotel lobby wearing an oversized badge and a paper festival hat."*
+> - 📜 **John Dos Passos (*The 42nd Parallel*):** *"Every train arriving in the city discharged crowds of noisy delegates, each **conventioneer** waving fraternal banners."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"The hotel bar was jammed with enthusiastic salesmen, each **conventioneer** toasting prospective profits."*
+

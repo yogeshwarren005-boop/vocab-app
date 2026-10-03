@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural body passageway.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural body passageway.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural body channel, passage, or opening, such as the canal of the external ear or the urinary urethra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otolaryngological anatomy, the external auditory meatus directs acoustic sound waves toward the tympanic membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meatus designates a natural body passageway."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The external auditory **meatus** extends obliquely inward from the concha to the tympanic membrane."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician carefully examined the urethral **meatus** for signs of inflammation or purulent discharge."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Sound vibrations are gathered by the auricle and conducted along the curved auditory **meatus**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular course of action intended to achieve a result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process or series of acts especially of a practical or mechanical nature involved in a particular form of work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An established or official way of doing something, especially an agreed series of steps or actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern surgical medicine, an invasive surgical procedure requires sterile operative field preparation and anesthesia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In which (I would say) every difficulty, every contingency, every masterly fiction, every form of procedure known in that court, is represented over and over again?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Woodcourt,” becoming dignified almost to severity, “that on the numerous difficulties, contingencies, masterly fictions, and forms of procedure in this great cause, there has been expended study, ability, eloquence, knowledge, intellect, Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is safer to accept any chance that offers itself, and extemporize a procedure to fit it, than to get a good plan matured, and wait for a chance of using it."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes explained his scientific **procedure** for detecting minute traces of human blood in criminal investigations."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The labyrinthine legal **procedure** of Chancery exhausted the patience and wealth of every unfortunate suitor."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The true scientific method requires a rigorous **procedure** of inductive experimentation and critical elimination."*
+

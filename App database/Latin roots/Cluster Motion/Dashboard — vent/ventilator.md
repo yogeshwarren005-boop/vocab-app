@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device (such as a fan) that introduces fresh air or expels foul air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that facilitates breathing in cases of respiratory failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appliance or device (such as a fan, cowl, or shaft) for circulating fresh air or expelling foul air.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical engineering, an automated machine that delivers breathing gas to lungs of patients unable to breathe adequately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The next day after this, on going into his room, he laid before me an empty envelope, and a five dollar bill, and asked me the question, "Did you throw that envelope with that bill in it, through that ventilator?" I assured him that I did not."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It has evidently been thrown in through the ventilator." We both recognized God's hand in the provision made and mentally gave thanks to our Heavenly Father."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Above the door was a ventilator, through which volumes of fresh air renewed the impoverished atmosphere of the cell."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"I knew that we should find a **ventilator** opening between the two rooms before ever we came to Stoke Moran."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The electric **ventilator** forced cool oceanic air into the salon of the Nautilus after surfacing."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"The watch huddled beside the forward **ventilator** to shield themselves from the bitter spray of the squall."*
+

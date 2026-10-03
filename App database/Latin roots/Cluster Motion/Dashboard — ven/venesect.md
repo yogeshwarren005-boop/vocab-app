@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Practice venesection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practice venesection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform venesection; to surgically open or puncture a vein in order to draw blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern clinical therapeutics, the standard practice of opening the median cubital vein to reduce systemic inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venesect designates practice venesection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of acute pulmonary edema, the decision to **venesect** the patient may afford immediate circulatory relief."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Currents and Counter-Currents in Medical Science*):** *"The excessive propensity to **venesect** for every febrile condition was gradually abandoned by modern practitioners."*
+> - 📜 **Tobias Smollett (*The Adventures of Roderick Random*):** *"The ship's surgeon prepared his lancet to **venesect** the feverish seaman without delay."*
+

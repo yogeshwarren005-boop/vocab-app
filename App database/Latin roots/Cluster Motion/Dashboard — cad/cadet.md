@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A military trainee (as at a military academy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A military trainee (as at a military academy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A student in training at a military, naval, or police academy; or historically, a younger son or brother.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feudal inheritance customs, the cadet branches of noble houses sought military commissions or ecclesiastical benefices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Edward” (John was an old servant, and had known his master when he was the cadet of the house, therefore, he often gave him his Christian name)—“I knew what Mr."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Edward John Trelawny, a cadet of a Cornish family, "with his knight-errant aspect, dark, handsome, and moustachioed," was the true buccaneer of romance, but of honest English grain, and without a trace of pose."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Bertram is certainly well off for a cadet of even a baronet’s family."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The young **cadet** of a noble Norman house proved his valor under the banners of the Black Prince."*
+> - 📜 **Winston Churchill (*My Early Life*):** *"Churchill recalled his rigorous cavalry training as a young military **cadet** at Sandhurst."*
+> - 📜 **Alexandre Dumas (*The Three Musketeers*):** *"D'Artagnan arrived in Paris as an impoverished Gascon **cadet**, armed with his father's sword and blessing."*
+

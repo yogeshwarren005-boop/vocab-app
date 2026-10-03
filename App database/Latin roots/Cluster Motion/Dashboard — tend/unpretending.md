@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not ostentatious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not ostentatious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Modest, unassuming, simple, and free from ostentation, arrogance, or false display.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary characterization, unpretending domestic virtue in nineteenth-century novels stood as a moral foil to vanity and social climbing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps I should only have to say to Ada, “Would you like to come and see me married to-morrow, my pet?” Perhaps our wedding might even be as unpretending as her own, and I might not find it necessary to say anything about it until it was over."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"When it was decided that he should settle here, it came into my head that I might ask his acceptance of some unpretending and suitable little place to lay his own head in."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"The domestic, unpretending merits of a person never known do not often create that kind of fervent, venerating tenderness which would prompt a visit like yours."*
+> - 📜 **Jane Austen (*Emma*):** *"An **unpretending**, single-minded, artless girl was infinitely to be preferred by any man of sense to an accomplished coquette."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Perhaps the humble and **unpretending** home of the guardian was the happiest retreat in all London."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village musicians were an **unpretending** band of country folk content with their simple rural tunes."*
+

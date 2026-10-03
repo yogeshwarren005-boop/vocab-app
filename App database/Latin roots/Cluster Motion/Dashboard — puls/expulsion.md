@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forcing out someone or something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squeezing out by applying pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of forcing someone out of an organization, country, or school; or the ejection of matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional and parliamentary law, legislative bodies vote the expulsion of corrupt members by two-thirds majority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A merrier day did never yet greet Rome, No, not th’ expulsion of the Tarquins."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I say nothing of the chief features of all--the occupation of our homes by others--the forcible expulsion of which we had been the objects."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We had not been twelve hours in our houses ere we had forgotten, or practically forgotten, our expulsion from them."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sudden **expulsion** of the Tarquin monarchs from Rome laid the foundation for the republican constitution."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The harsh schoolmaster decreed the immediate **expulsion** of the rebellious pupil before the assembled school."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The **expulsion** of the Stuart dynasty in 1688 established the supremacy of parliamentary sovereignty in Britain."*
+

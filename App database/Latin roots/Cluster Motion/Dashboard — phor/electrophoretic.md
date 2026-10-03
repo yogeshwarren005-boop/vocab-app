@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electrophoresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to electrophoresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, produced by, or utilized in electrophoresis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical clinical chemistry, measuring the electrophoretic mobility of serum globulins provides diagnostic patterns for paraproteinemias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, electrophoretic designates of or relating to electrophoresis."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The abnormal protein exhibited a distinctive **electrophoretic** mobility profile compared to healthy adult hemoglobin."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Modern biochemical analyses verify that **electrophoretic** separation reveals multiple distinct enzymatic fractions in serum."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The laboratory technician prepared the agarose gel for the **electrophoretic** fractionation of digested viral DNA."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be conducive to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be conducive to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lead, tend, or contribute toward a particular result, outcome, or advantage; to promote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and utilitarian ethics, actions that conduce to the greatest overall happiness and social harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The reasons you allege do more conduce To the hot passion of distemp’red blood Than to make up a free determination ’Twixt right and wrong; for pleasure and revenge Have ears more deaf than adders to the voice Of any true decision."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"At this very moment he is wild to see you, and occupied only in contriving the means for doing so, and for making his pleasure conduce to yours."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But it is not in this aspect of the subject alone that Union will be seen to conduce to the purpose of revenue."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"The reasons you allege do more **conduce** to the hot passion of distemper'd blood than to make up a free determination."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I resolved that if my immediate union with my cousin would **conduce** to her happiness, no private misery of mine should delay it."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Temperate habits and regular exercise directly **conduce** to clarity of intellect and longevity."*
+

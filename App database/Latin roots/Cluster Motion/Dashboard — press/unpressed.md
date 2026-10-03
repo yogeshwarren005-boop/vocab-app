@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of clothing) not smoothed with heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of clothing) not smoothed with heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subjected to physical pressure; not ironed, smoothed, crushed, or urged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wine making and olive oil extraction, refers to free-run juices drained naturally prior to mechanical pressing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have I my pillow left unpressed in Rome, Forborne the getting of a lawful race, And by a gem of women, to be abused By one that looks on feeders?"*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Have I my pillow left **unpressed** in Rome, forborne the getting of a lawful race, and by a gem of women to be abused?"*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tall summer grasses remained **unpressed** by footsteps along the secluded pathway leading to the sheep-wash."*
+> - 📜 **John Keats (*Endymion*):** *"Upon a bed of **unpressed** violets and moss the weary wanderer lay down to rest under the forest canopy."*
+

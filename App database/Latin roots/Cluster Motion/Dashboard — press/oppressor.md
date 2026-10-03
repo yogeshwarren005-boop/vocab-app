@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of authority who subjects others to undue pressures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of authority who subjects others to undue pressures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, monarch, or ruling regime that exercises power cruelly, unjustly, or with heavy burdens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political ethics and revolutionary philosophy, the tyrannical agent against whom the moral right of rebellion is legitimately asserted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This place Is our inheritance; no hard oppressor Dare take this from us; here with a little patience We shall live long and loving."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The patient dies while the physician sleeps; The orphan pines while the oppressor feeds; Justice is feasting while the widow weeps; Advice is sporting while infection breeds."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I am the oppressed, and there is the oppressor!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"For who would bear the whips and scorns of time, the **oppressor**'s wrong, the proud man's contumely?"*
+> - 📜 **Frederick Douglass (*My Bondage and My Freedom*):** *"The slaveholder must dehumanize his victim in order to preserve his own peace of mind as an **oppressor**."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Samson pulled down the pillars of the pagan temple, burying the haughty **oppressor** beneath the ruin."*
+

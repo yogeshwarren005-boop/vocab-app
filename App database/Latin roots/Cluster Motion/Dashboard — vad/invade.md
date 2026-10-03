@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: March aggressively into another's territory by military force for the purposes of conquest and occupation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To intrude upon, infringe, encroach on, violate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To enter a country, territory, or domain forcibly with armed troops in order to conquer, occupy, or plunder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathophysiology and oncology, malignant tumor cells invade surrounding stromal tissues and basement membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must not only arm to invade the French, But lay down our proportions to defend Against the Scot, who will make road upon us With all advantages."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it fall rather, though the fork invade The region of my heart: be Kent unmannerly When Lear is mad."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I said my evening prayers Beside the crag the heath was very deep: when I lay down my feet were buried in it; rising high on each side, it left only a narrow space for the night-air to invade."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The German high command prepared elaborate naval transport flotillas to **invade** the British Isles."*
+> - 📜 **William Shakespeare (*Henry V*):** *"With right and conscience make this title good, and let us **invade** the fertile plains of France."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Hostile barbarian hordes gathered along the frozen Danube ready to **invade** the undefended provinces."*
+

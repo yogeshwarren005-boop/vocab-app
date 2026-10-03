@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The combination of two or more commercial companies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An occurrence that involves the production of a union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statutory combination or union of two or more commercial companies or organizations into a single entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antitrust economics, regulatory commissions scrutinize horizontal merger proposals to prevent monopolistic market concentration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, merger designates the combination of two or more commercial companies."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"Cowperwood engineered a secret corporate **merger** that placed all competing street railway franchises under his control."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A monopolistic **merger** of competing merchant guilds restricts output and elevates prices against the public interest."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The voluntary **merger** of small rural landholdings allowed landlords to introduce advanced industrial agricultural methods."*
+

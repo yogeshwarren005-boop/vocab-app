@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal depression and discontent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal depression and discontent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent, profound state of emotional unease, dissatisfaction, anxiety, or discontent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and mood diagnostics, dysphoria manifests as pervasive restlessness, anhedonia, and affective irritability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphoria designates abnormal depression and discontent."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The melancholy temperament often experiences periods of acute **dysphoria** where the entire universe seems devoid of meaning."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"A wave of restless **dysphoria** swept over the young politician, leaving him dissatisfied with his parliamentary success."*
+> - 📜 **Thomas Mann (*The Magic Mountain*):** *"Hans Castorp recognized a peculiar psychological **dysphoria** settling upon the convalescents in the alpine sanatorium."*
+

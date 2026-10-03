@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no motor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no motor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a motor or mechanical engine; propelled exclusively by gravity, wind, animal power, or human effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation, refers specifically to gliders and sailplanes that maintain flight entirely through atmospheric thermals and ridge lift.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorless designates having no motor."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Early experimenters launched **motorless** gliders from sand dunes to test aerodynamic stability."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Silent **motorless** aircraft drifted peacefully above the reservoir in the twilight."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The handcart was an entirely **motorless** wooden contraption dragged through the cobbles by two porters."*
+

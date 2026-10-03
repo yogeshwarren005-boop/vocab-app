@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of beginning something new.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first section of a communication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal act of making persons known to one another; or a preliminary explanation or opening section of a book or speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invasive species biology, the deliberate introduction of non-native flora can disrupt established ecological food webs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pray excuse the introduction of such mean topics.” She partly drew aside the curtain of the long, low garret window and called our attention to a number of bird-cages hanging there, some containing several birds."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Several young lady pupils, ranging from thirteen or fourteen years of age to two or three and twenty, were assembled; and I was looking among them for their instructor when Caddy, pinching my arm, repeated the ceremony of introduction."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle wrote a letter of introduction to my guardian in behalf of her eloquent friend Mr."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Here we see how potent has been the effect of the **introduction** of a single tree, nothing whatever else having been done."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley was anxious to obtain an **introduction** to Miss Bennet before the dancing commenced."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He flourished the sword by way of **introduction** number two, which startled the spectators."*
+

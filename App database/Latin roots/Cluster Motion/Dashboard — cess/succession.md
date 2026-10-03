@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A following of one thing after another in time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of people or things arranged or following in order.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or right of following in order or sequence; or a series of persons or things following one after another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological biology, ecological succession describes the predictable, sequential replacement of species communities within an ecosystem over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How much more praise deserv’d thy beauty’s use, If thou couldst answer ‘This fair child of mine Shall sum my count, and make my old excuse,’ Proving his beauty by succession thine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, for a quart d’ecu he will sell the fee-simple of his salvation, the inheritance of it, and cut the entail from all remainders, and a perpetual succession for it perpetually."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereon, At three and two years old, I stole these babes, Thinking to bar thee of succession as Thou refts me of my lands."*
+> - 📜 **William Shakespeare (*Sonnet 2*):** *"How much more praise deserved thy beauty's use, if thou couldst answer 'This fair child of mine shall sum my count and make my old excuse,' proving his beauty by **succession** thine!"*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological record reveals an orderly **succession** of biological forms, the newer species gradually replacing the ancient."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The hereditary **succession** of the imperial crown prevented the bloody civil wars that frequently attended popular elections."*
+

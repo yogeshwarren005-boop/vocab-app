@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a swelling on one side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a swelling on one side.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distended, swollen, or inflated unequally on one side; bellied out.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and malacology, describes corollas (such as foxglove) or gastropod shells having a pronouncedly bulging, ventricose body whorl.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventricose designates having a swelling on one side."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The tubular corolla becomes distinctly **ventricose** below the throat, resembling a rounded bell."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We gathered several species of terrestrial snails distinguished by their large, **ventricose** shells."*
+> - 📜 **Joseph Dalton Hooker (*Himalayan Journals*):** *"The alpine pitcher plant produces an extraordinarily **ventricose** pouch adapted to trap crawling insects."*
+

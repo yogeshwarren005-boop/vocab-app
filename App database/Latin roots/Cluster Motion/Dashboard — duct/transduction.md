@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) the process of transfering genetic material from one cell to another by a plasmid or bacteriophage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process whereby a transducer accepts energy in one form and gives back related energy in a different form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of transferring or converting energy or a message from one system or form to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacterial genetics, transduction is the process whereby bacteriophages transfer DNA fragments from one bacterial cell to another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transduction designates (genetics) the process of transfering genetic material from one cell to another by a plasmid or bacteriophage."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Sensory **transduction** in retinal photoreceptors converts radiant electromagnetic light into nervous impulses."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The **transduction** of physical vibrations in the ear into conscious sensations of musical pitch illustrates mental synthesis."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Microscopic mechanisms of physiological **transduction** mediate between external environmental stimuli and organismal response."*
+

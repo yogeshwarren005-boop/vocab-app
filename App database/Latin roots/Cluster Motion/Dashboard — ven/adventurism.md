@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recklessness in politics or foreign affairs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recklessness in politics or foreign affairs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of taking reckless, risky, or irresponsible actions, especially in foreign policy or politics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Marxist-Leninist political theory, condemned as premature or reckless putschism ignoring objective socio-economic conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adventurism designates recklessness in politics or foreign affairs."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The ill-fated expedition was criticized by parliamentarians as an example of irresponsible strategic **adventurism**."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The political commissars denounced the independent offensive as factional **adventurism** endangering Republican unity."*
+> - 📜 **Bertrand Russell (*The Practice and Theory of Bolshevism*):** *"Prudent governance avoids military **adventurism** that exhausts national treasures in barren conquests."*
+

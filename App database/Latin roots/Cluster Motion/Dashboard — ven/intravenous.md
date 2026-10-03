@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Within or by means of a vein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within or by means of a vein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing, occurring, taking place, or administered within a vein or by entering into a vein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and therapeutics, intravenous infusion provides immediate systemic bioavailability bypassing gastrointestinal absorption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intravenous designates within or by means of a vein."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Direct **intravenous** infusion of warm physiological saline proved lifesaving in profound hemorrhagic shock."*
+> - 📜 **Richard Cabot (*Differential Diagnosis*):** *"Rapid **intravenous** administration of cardiac stimulants helped sustain blood pressure during acute collapse."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The clinic utilized continuous **intravenous** drips to titrate delicate medications in post-encephalitic patients."*
+

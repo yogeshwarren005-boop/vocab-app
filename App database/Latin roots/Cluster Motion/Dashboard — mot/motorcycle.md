@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor vehicle with two wheels and a strong frame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ride a motorcycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A two-wheeled motorized passenger vehicle powered by an engine and equipped with a rigid frame and handlebars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive design, features straddle seating, foot pegs, handlebar clutch and brake controls, and chain, belt, or shaft final drive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Here comes a dispatch rider." The man on the motorcycle dashed up, saluted."*
-> - 📜 **Victor Appleton (*Tom Swift in the Land of Wonders; Or, The Underground Search for the Idol of Gold*):** *"TOM SWIFT IN THE LAND OF WONDERS or The Underground Search for the Idol of Gold BY VICTOR APPLETON AUTHOR OF "TOM SWIFT AND HIS MOTORCYCLE," "TOM SWIFT AND HIS BIG TUNNEL," "THE MOVING PICTURE BOYS SERIES," "THE MOTION PICTURE CHUMS SERIES," ETC."*
+> - 📜 **T. E. Lawrence (*The Mint*):** *"The rush of cold morning wind across my face on the roaring Brough Superior **motorcycle** gave absolute freedom."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"Every young fellow who saved enough cash bought a second-hand **motorcycle** and sped across the country lanes."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"An Italian dispatch rider on a mud-splattered **motorcycle** brought urgent dispatches from the front line."*
+

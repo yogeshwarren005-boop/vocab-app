@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by or aiming toward unity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or involving the use of units.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, based upon, or characterized by unity; forming a single undivided entity or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional political systems, a unitary state concentrates sovereign authority within a central national government, unlike a federal system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"The Tathagata knows this unitary essential Law, that is to say, Deliverance, Abandonment, Extinction, final Nirvana of eternal rest, ending in return to the Void."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Apart from the pulling and hauling stands what I am, a **unitary** soul conscious of its eternal harmony."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The evolution of the cosmos proceeds from incoherent heterogeneity toward integrated **unitary** order."*
+> - 📜 **Woodrow Wilson (*The State: Elements of Historical and Practical Politics*):** *"In a **unitary** government, regional administrations exist merely as administrative arms of the central parliament."*
+

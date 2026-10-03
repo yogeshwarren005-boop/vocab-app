@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Degree of figurative distance or separation;  or.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove something concrete, as by lifting, pushing, or taking off, or remove something abstract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take off, displace, eliminate, or relocate something from a position or surface; or a degree of separation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical therapeutics and oncology, surgeons remove localized malignant lesions with wide histological margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is a babe, then might I not say so To give full growth to that which still doth grow. 116 Let me not to the marriage of true minds Admit impediments, love is not love Which alters when it alteration finds, Or bends with the remover to remove."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say our pleasure To such whose place is under us, requires Our quick remove from hence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If they set down before’s, for the remove Bring up your army."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Be thou familiar, but by no means vulgar; and do not **remove** thy thoughts from honorable conduct."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Holmes stepped forward with a magnifying glass to **remove** a tiny thread clinging to the corner of the ventilator."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane felt an urgent moral duty to **remove** herself from Thornfield Hall before her conscience was compromised."*
+

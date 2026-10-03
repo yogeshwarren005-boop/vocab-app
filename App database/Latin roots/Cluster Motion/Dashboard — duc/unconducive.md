@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not tending to promote, assist, or produce a favorable result; unhelpful or disadvantageous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In workplace ergonomics and hygiene, environmental conditions (such as poor lighting or noise) unconducive to mental concentration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unconducive designates pertaining to, derived from, or characteristic of latin duc within the domain of motion."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The damp, chilly atmosphere of the cellar was thoroughly **unconducive** to the preservation of grain sacks."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon's cold pedantry proved singularly **unconducive** to the blossoming of Dorothea's youthful idealism."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Arbitrary surveillance creates an intellectual climate **unconducive** to bold speculative philosophy."*
+

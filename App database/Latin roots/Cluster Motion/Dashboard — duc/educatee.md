@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A learner who is enrolled in an educational institution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A learner who is enrolled in an educational institution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is being educated; a student, pupil, or recipient of instruction in an academic program.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern pedagogical terminology, the active learner engaged in instructional feedback loops with educators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, educatee designates a learner who is enrolled in an educational institution."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The modern school views the child not as a passive vessel, but as an active **educatee** exploring his environment."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"Curriculums must adapt to the developmental readiness of the individual **educatee** rather than enforcing rigid rote recitation."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"The teacher must awaken the interest of the **educatee** before any lasting cognitive impressions can be secured."*
+

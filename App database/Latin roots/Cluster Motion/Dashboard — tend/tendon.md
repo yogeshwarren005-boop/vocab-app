@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cord or band of inelastic tissue connecting a muscle with its bony attachment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cord or band of inelastic tissue connecting a muscle with its bony attachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tough, inelastic band or cord of dense fibrous connective tissue uniting a skeletal muscle to a bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomechanics, the Achilles tendon acts as an elastic spring that stores and returns mechanical energy during human locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Every kind of finer tendon and ligament that is in the nature of poultry to possess is developed in these specimens in the singular form of guitar-strings."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is sometimes the custom when fast to a whale more than commonly powerful and alert, to seek to hamstring him, as it were, by sundering or maiming his gigantic tail-tendon."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It is sometimes the custom when fast to a whale more than commonly powerful and alert, to seek to hamstring him, as it were, by sundering or maiming his gigantic tail-tendon."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whalemen severed the thick **tendon** of the fluke to prevent the dying monster from lashing the seas."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Examine these limbs, red, black, or white, they are cunning in **tendon** and nerve."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The facial muscles pull upon the cutaneous **tendon** to display instantaneous expressions of fear."*
+

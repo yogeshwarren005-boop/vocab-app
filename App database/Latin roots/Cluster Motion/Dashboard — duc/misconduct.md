@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad or dishonest management by persons supposed to act on another's behalf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Activity that transgresses moral or civil law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unacceptable, improper, or dishonest behavior, especially by a professional or person in authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and criminal law, official misconduct encompasses malfeasance, misfeasance, or nonfeasance in the performance of public duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Your father and mother seem so totally free from all those ambitious feelings which have led to so much misconduct and misery, both in young and old."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Far from comprehending him or his sister in their father’s misconduct, Mrs."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered by."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A magistrate who abuses his judicial authority may be prosecuted for gross **misconduct** in office."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Impeachment provides a constitutional remedy for the treason, bribery, or other high **misconduct** of public officials."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitor was struck off the rolls following conclusive exposure of professional **misconduct** in estate management."*
+

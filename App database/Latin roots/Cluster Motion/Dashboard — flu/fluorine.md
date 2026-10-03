@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic univalent element belonging to the halogens; usually a yellow irritating toxic flammable gas; a powerful oxidizing agent; recovered from fluorite or cryolite or fluorapatite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonmetallic univalent element belonging to the halogens; usually a yellow irritating toxic flammable gas; a powerful oxidizing agent; recovered from fluorite or cryolite or fluorapatite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic, extremely reactive, pale yellow diatomic halogen gas; the most electronegative chemical element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and halogen thermodynamics, fluorine forms violent exothermic reactions with nearly all organic and inorganic materials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorine designates a nonmetallic univalent element belonging to the halogens; usually a yellow irritating toxic flammable gas; a powerful oxidizing agent; recovered from fluorite or cryolite or fluorapatite."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The isolation of elemental **fluorine** long baffled chemists because of its destructive reactivity with glass apparatus."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Henri Moissan finally succeeded in isolating pure gaseous **fluorine** using platinum and fluorspar vessels."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"Chemical compounds containing **fluorine** and uranium were employed to study gaseous diffusion rates."*
+

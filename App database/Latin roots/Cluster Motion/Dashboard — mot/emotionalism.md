@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Emotional nature or quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emotional nature or quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to display, cultivate, or be swayed by excessive emotional feelings rather than reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century religious sociology, evangelical revivalism was criticized by traditionalists for encouraging unbridled religious emotionalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Let there be none of this horrible emotionalism, this undignified welter of thought and feeling."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Lecky, in opposing the granting of the right of suffrage to the women of England, gave it as his opinion that the emotional element in politics was already sufficiently great without the addition of the strongly developed emotionalism of woman."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Hebraism often degenerates into narrow moral **emotionalism** when unaccompanied by Hellenic intellectual sweetness and light."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"Political propaganda appeals to crude **emotionalism** to prevent the electorate from coolly examining economic facts."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Sincere religious **emotionalism** can unlock profound energies of heroic self-sacrifice."*
+

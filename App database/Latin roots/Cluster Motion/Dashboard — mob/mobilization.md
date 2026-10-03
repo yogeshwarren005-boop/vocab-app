@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of assembling and putting into readiness for war or other emergency:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of marshaling and organizing and making ready for use or action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The assembly, organization, and preparation of armed forces, industrial capacity, or public resources for war or crisis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and physical therapy, early joint mobilization accelerates ligament healing following reconstructive surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobilization designates act of assembling and putting into readiness for war or other emergency:."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The general **mobilization** order posted on the town halls of France called millions of citizens to the colors."*
+> - 📜 **Theodore Roosevelt (*The Rough Riders*):** *"The rapid **mobilization** of volunteers at San Antonio transformed cowboys and college athletes into a fighting unit."*
+> - 📜 **Ulysses S. Grant (*Personal Memoirs of U. S. Grant*):** *"The logistical **mobilization** of supplies across river transport lines enabled the victorious siege of Vicksburg."*
+

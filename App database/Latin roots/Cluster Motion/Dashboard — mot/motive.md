@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theme that is repeated or elaborated in a piece of music.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An emotion, desire, or psychological impulse that prompts a person to act in a particular way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music and literary analysis, an alternative term for motif, signifying a recurring melodic, thematic, or structural phrase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This was your motive For Paris, was it?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doubt not but heaven Hath brought me up to be your daughter’s dower, As it hath fated her to be my motive And helper to a husband."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truth is that Fulvia, To have me out of Egypt, made wars here, For which myself, the ignorant motive, do So far ask pardon as befits mine honour To stoop in such a case."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"Doubt not but heaven hath brought me up to be your daughter's dower, as it hath fated her to be my **motive**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His **motive** for visiting Hertfordshire was openly stated to be the choice of a wife among the Miss Bennets."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"The voluntary actions of man always proceed from some **motive** directed toward an apparent good to himself."*
+

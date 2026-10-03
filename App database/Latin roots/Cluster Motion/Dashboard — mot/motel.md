@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motor hotel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A motor hotel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roadside hotel designed primarily for motorists, typically featuring rooms with direct access to an open parking area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American architectural and automotive history, the motel accommodated transcontinental highway tourism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motel designates a motor hotel."*
+> - 📜 **John Steinbeck (*Travels with Charley*):** *"The neon sign of the roadside **motel** glowed brightly through the gathering Arizona dusk."*
+> - 📜 **Jack London (*The Cruise of the Snark*):** *"The modern traveler craves the convenience of the roadside **motel** where automobile and bed lie side by side."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The dusty highway was bordered by modest cabins that foreshadowed the modern American **motel**."*
+

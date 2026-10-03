@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In equal amounts or shares; in a balanced or impartial way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a level and regular way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a smooth, uniform, or level manner; in equal portions; with calm, steady composure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial manufacturing, applying coats of paint, glaze, or lacquer with uniform micron thickness across surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have the current in this place dammed up, And here the smug and silver Trent shall run In a new channel, fair and evenly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Any bar, any cross, any impediment will be medicinable to me: I am sick in displeasure to him, and whatsoever comes athwart his affection ranges evenly with mine."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I must except, however, the little recruit into the Infant Bonds of Joy, who was stolidly and evenly miserable."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She knew how to hit to a hair's-breadth that moment of evening when the light and the dark were **evenly** balanced."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Celia spoke **evenly**, never raising her voice, but delivering her home truths with calm precision."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection distributes organic modifications **evenly** throughout the population over successive generations."*
+

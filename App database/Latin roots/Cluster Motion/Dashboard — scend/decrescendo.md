@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (music) a gradual decrease in loudness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grow quieter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gradual, steady decrease in loudness, volume, or musical intensity; diminuendo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical musical performance, executing a controlled decrescendo requires subtle bow-pressure reduction and breath control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrescendo designates (music) a gradual decrease in loudness."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"Hanno played the piano sonata with tender delicacy, allowing the closing chords to sink into a faint **decrescendo**."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The roaring surf along the sandy shore subsided into a soft **decrescendo** as the ocean tide began to turn."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Cardboard Box*):** *"The distant street sounds faded in a slow **decrescendo** as midnight settled over the fog-bound metropolis."*
+

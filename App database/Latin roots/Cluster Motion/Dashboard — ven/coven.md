@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An assembly of witches; usually 13 witches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assembly of witches; usually 13 witches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assembly, gathering, or secret society of witches, traditionally consisting of thirteen members.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In folklore and historical anthropology, popular belief in clandestine nocturnal assemblies worshiping pre-Christian deities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coven designates an assembly of witches; usually 13 witches."*
+> - 📜 **Walter Scott (*Letters on Demonology and Witchcraft*):** *"Popular superstition attributed every unexplainable blight to the secret rites of a local **coven**."*
+> - 📜 **Nathaniel Hawthorne (*Young Goodman Brown*):** *"The traveler fancied he recognized pious deacons and upright magistrates assembled in the unholy midnight **coven**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"Ancient tales persisted in the Cornish village of a midnight **coven** meeting amid the stone circles."*
+

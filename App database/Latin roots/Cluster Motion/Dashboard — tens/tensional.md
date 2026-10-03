@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by tension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or produced by tension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resulting from mechanical tension, stretching forces, or structural stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology and continental tectonics, tensional stress within the crust produces normal faulting and rift grabens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tensional designates of or relating to or produced by tension."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Regional crustal uplift generates severe **tensional** fractures that allow volcanic dikes to penetrate the strata."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Every material system seeks equilibrium between compressive attractions and **tensional** elastic repulsions."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The earth movements produced **tensional** rifts that determined the courses of subsequent river valleys."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of acting compulsively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of acting compulsively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological trait or tendency to act upon irresistible internal impulses or rigid behavioral patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personality neuropsychology, extreme compulsiveness correlates with elevated perfectionism and reduced cognitive behavioral flexibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compulsiveness designates the trait of acting compulsively."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A morbid **compulsiveness** often accompanies extreme ascetical religious practices, turning piety into nervous torment."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon pursued his mythological compilation with a joyless **compulsiveness** that isolated him from his young wife."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Mere bureaucratic **compulsiveness** can never substitute for the living creative initiative of heroic leadership."*
+

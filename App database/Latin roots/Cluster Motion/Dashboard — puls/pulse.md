@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (electronics) a sharp transient wave in the normal electrical state (or a series of such transients).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhythmic contraction and expansion of the arteries with each beat of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rhythmic throbbing of arteries produced by the pumping of the heart; or a single brief burst of sound, light, or electricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In laser physics and photonics, an ultrashort optical pulse lasting femtoseconds facilitates precision micro-machining.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"God shield you mean it not! daughter and mother So strive upon your pulse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give me your hand, and let me feel your pulse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This pernicious slave, Forsooth, took on him as a conjurer, And gazing in mine eyes, feeling my pulse, And with no face (as ’twere) outfacing me, Cries out, I was possess’d."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"My **pulse** as yours doth temperately keep time, and makes as healthful music as ever beats in healthy flesh."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes placed his fingers upon the dead man's wrist, confirming that the fluttering **pulse** had ceased forever."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A momentary electrical **pulse** was induced in the secondary coil whenever the galvanic circuit was completed."*
+

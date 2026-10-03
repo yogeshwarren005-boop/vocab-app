@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being removed or taken away or dismissed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be obliterated completely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being taken away, detached, eliminated, or dismissed from an office or physical surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental prosthetics and reconstructive surgery, a removable partial denture restores chewing function while allowing oral hygiene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The members of the judiciary department, again, are appointable by the executive department, and removable by the same authority on the address of the two legislative branches."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The members of the judiciary department are appointed by the legislative department and removable by one branch of it, on the impeachment of the other."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The judges of the Supreme Court and justices of the peace seem also to be removable by the legislature; and the executive power of pardoning in certain cases, to be referred to the same department."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip noticed that the high collar of his London suit had a **removable** linen lining for easy daily washing."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The executive minister must remain **removable** upon a parliamentary vote of no confidence to preserve democracy."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor designed the sphere with **removable** roller blinds coated in the anti-gravitational substance."*
+

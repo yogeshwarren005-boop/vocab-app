@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing new life or offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing new life or offspring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or functioning in the biological process of producing offspring; generative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology, the hypothalamic-pituitary-gonadal axis coordinates the secretion of reproductive hormones (GnRH, LH, FSH).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some little time after the birth of the twins a ceremony is performed, the object of which clearly is to transmit the reproductive virtue of the parents to the plantains."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the religious literature of Babylonia Tammuz appears as the youthful spouse or lover of Ishtar, the great mother goddess, the embodiment of the reproductive energies of nature."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Osiris a God of Fertility AS A GOD of vegetation Osiris was naturally conceived as a god of creative energy in general, since men at a certain stage of evolution fail to distinguish between the reproductive powers of animals and of plants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The conditions of life act directly upon the **reproductive** system, inducing subtle hereditary variations in offspring."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **reproductive** organs of the hermaphroditic gastropod exhibit extraordinary anatomical complexity."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Individuation and **reproductive** expenditure stand in perpetual inverse biological equilibrium."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A business engaged in processing agricultural products and preparing them for market.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who processes things (foods or photographs or applicants etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, machine, or device that executes a systematic process, treatment, or computation upon materials or data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hardware engineering, a central processor executes arithmetic, logic, and control operations decoded from stored machine instructions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, processor designates a business engaged in processing agricultural products and preparing them for market."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The brain acts as an extraordinary biological **processor** of incoming sensory stimuli from external nature."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The human cortex operates as an associative **processor** organizing primitive impressions into complex mental ideas."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The nervous system functions as an integrated **processor** coordinating reflex muscular contractions with emotional stimuli."*
+

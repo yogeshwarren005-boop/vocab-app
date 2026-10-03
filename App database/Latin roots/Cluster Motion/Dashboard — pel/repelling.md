@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move back by force or influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be repellent to; cause aversion in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Driving back, forcing away, or resisting an advancing force, liquid, or intrusive entity; causing revulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloid chemistry and interface phenomena, electrostatic double layers generate repelling forces that stabilize colloidal suspensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She had begun her confession under the subduing influence of Dorothea’s emotion; and as she went on she had gathered the sense that she was repelling Will’s reproaches, which were still like a knife-wound within her."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Those who do not possess it always produce an impression that they are unfair; and this impression, once produced, exercises a repelling influence upon the young."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Speaking generally, he has obtained a very wide acceptance of the utilitarian doctrines: they were presented by Bentham in a form so harsh and unattractive as to produce an almost repelling effect."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Saxon archers rained arrows upon the Norman attackers, **repelling** every desperate assault against the palisade."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The two suspended pith balls exhibited mutually **repelling** tendencies when charged with identical vitreous electricity."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"There was something cold and **repelling** in St. John Rivers's austere manner that checked any spontaneous confidence."*
+

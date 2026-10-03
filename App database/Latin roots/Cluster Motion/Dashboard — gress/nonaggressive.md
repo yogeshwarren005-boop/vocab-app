@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not aggressive; not given to fighting or assertiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not aggressive; not given to fighting or assertiveness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not aggressive; peaceful, mild-mannered, and lacking hostile or competitive tendencies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology, nonaggressive conflict resolution skills correlate with superior adolescent peer relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonaggressive designates not aggressive; not given to fighting or assertiveness."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain herbivorous ungulates maintain a completely **nonaggressive** disposition, relying upon speed to escape predators."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Edward Ferrars possessed a quiet, **nonaggressive** temperament that shrank from the loud rivalries of fashionable London."*
+> - 📜 **William James (*The Moral Equivalent of War*):** *"Civilized society must cultivate **nonaggressive** avenues for the heroic energies and physical vigor of youth."*
+

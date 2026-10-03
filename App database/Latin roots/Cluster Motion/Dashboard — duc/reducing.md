@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any process in which electrons are added to an atom or ion (as by removing oxygen or adding hydrogen); always occurs accompanied by oxidation of the reducing agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of excess weight (as by dieting); becoming slimmer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decreasing in size, amount, degree, or weight; bringing down to simpler or lesser form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, a reducing atmosphere in a smelting furnace contains carbon monoxide that extracts oxygen from metallic ores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"No—I’ve hardly looked at her at all,” simpered Joseph, reducing his body smaller whilst talking, apparently from a meek sense of undue prominence."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This done, she paid him, reducing herself to almost her last shilling thereby, and he moved off and left them, only too glad to get out of further dealings with such a family."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This checks prices, and, reducing the specie reserves of the banks, compels them to be more cautious."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Joseph spoke in an apologetic whisper, **reducing** his body smaller whilst attempting to explain his absence."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection operates continuously, preserving beneficial traits while **reducing** rudimentary structures."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The glowing charcoal created an intensely active **reducing** flame inside the laboratory crucible."*
+

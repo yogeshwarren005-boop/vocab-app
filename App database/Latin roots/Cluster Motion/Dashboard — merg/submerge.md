@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sink below the surface; go under or as if under water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover completely or make imperceptible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To put, sink, or plunge beneath the surface of water or another liquid; or to overwhelm completely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In submarine warfare and oceanographic research, submersibles submerge by flooding negative buoyancy ballast tanks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Master Benjamin, or Ben, as he was called everywhere except in his own family, had got possession of the black kitten, and appeared to be submerging her in the hogshead of rainwater."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, I would thou didst, So half my Egypt were submerged and made A cistern for scaled snakes!"*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He hastily bade them farewell, and splashed back along the stretch of submerged road."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"At an order from Captain Nemo, the Nautilus began to **submerge** swiftly into the mysterious oceanic abyss."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The giant cachalot sounded suddenly, choosing to **submerge** its massive black bulk into the fathomless deep."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The rising tide of revolutionary violence threatened to **submerge** every ancient aristocratic house in France."*
+

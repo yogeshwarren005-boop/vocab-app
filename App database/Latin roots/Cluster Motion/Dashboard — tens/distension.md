@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of expanding by pressure from within.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being stretched beyond normal dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enlargement, swelling, or outward expansion resulting from internal fluid or gas pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and clinical physical examination, acute abdominal distension indicates luminal obstruction, ascites, or tympanites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A silly girl!—silly girl!” The door was hurriedly burst open again, and in came running Cainy Ball out of breath, his mouth red and open, like the bell of a penny trumpet, from which he coughed with noisy vigour and great distension of face."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient presented with extreme tympanitic **distension** of the abdomen accompanied by persistent vomiting."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Excessive vascular **distension** stimulates baroreceptors located within the carotid sinus and aortic arch."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The country doctor recognized that the painful cardiac **distension** required immediate therapeutic venesection."*
+

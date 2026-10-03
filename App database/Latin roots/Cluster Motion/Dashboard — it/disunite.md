@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Part; cease or break association with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force, take, or pull apart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate, sever, part, or break the union, harmony, or connection between persons, entities, or parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional federalism, factional rivalries threaten to disunite sovereign confederated states into warring regional leagues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it was a strong composure a fool could disunite!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"By a Monarch’s heaven-struck fate, By a disunited State, By a generous Prince’s wrongs."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: It is sometimes asked, with an air of seeming triumph, what inducements could the States have, if disunited, to make war upon each other?"*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"What grief hath set the jaundice on your cheeks? But it was a strong composure a fool could **disunite**!"*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Foreign intrigues will inevitably seek to **disunite** the American states to render them weak and vulnerable."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Sectarian fanaticism never fails to **disunite** ancient friendships and shatter civic brotherhood."*
+

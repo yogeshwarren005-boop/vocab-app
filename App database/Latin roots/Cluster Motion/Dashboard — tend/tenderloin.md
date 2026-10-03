@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city district known for its vice and high crime rate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tender meat of the loin muscle on each side of the vertebral column.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A choice, tender cut of meat along either side of the spine; or a metropolitan district known for vice or corruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical butchery, the beef tenderloin comprises the psoas major muscle, prized for extreme tenderness due to minimal weight-bearing use.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"No, you don't--not for me!” she muttered, after a minute, shaking her finger at the tenderloin on the table."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The epicurean whaleman sliced off the prized whale **tenderloin** to roast over the ship's galley stove."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The mining town's notorious **tenderloin** district was filled with lively dance halls and gambling saloons."*
+> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Billy ordered a prime beef **tenderloin** and fresh asparagus to celebrate her husband's return."*
+

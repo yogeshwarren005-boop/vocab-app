@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who plays the flute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who plays the flute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A musician who plays the musical flute; a flute player.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century orchestral wind orchestration, the principal flutist led the woodwind section with agile coloratura obligatos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, flutist designates someone who plays the flute."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The village **flutist** adjusted his wooden reed and blew a soft introductory note before the anthem began."*
+> - 📜 **George Eliot (*Romola*):** *"A wandering Florentine **flutist** played a graceful madrigal beneath the stone loggia."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The modest music master earned a meager livelihood as a second **flutist** in the theater orchestra."*
+

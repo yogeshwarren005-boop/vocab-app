@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Come out in the end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come out in the end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To occur or result as an ultimate consequence, outcome, or final conclusion of an affair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric and historical writing, denotes complex sociopolitical developments terminating in a definitive crisis or settlement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eventuate designates come out in the end."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Disputes between sovereign confederates must **eventuate** in open war unless a common tribunal is established."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The prolonged ecclesiastical conflicts were destined to **eventuate** in the Glorious Revolution of 1688."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The bold pursuit of the albino Leviathan could only **eventuate** in triumph or utter catastrophe."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having a duct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not having a duct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no duct or excretory canal; discharging secretions directly into the bloodstream or surrounding tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human endocrinology, ductless glands (such as the thyroid, adrenal, and pituitary glands) synthesize and release hormones into systemic circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ductless designates not having a duct."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The spleen and adrenal bodies belong to the class of **ductless** glands whose internal secretions modify the blood."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The evolutionary function of the **ductless** thyroid gland was long a mystery to comparative anatomists."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Disorders of the **ductless** glands produce profound alterations in basal metabolic activity."*
+

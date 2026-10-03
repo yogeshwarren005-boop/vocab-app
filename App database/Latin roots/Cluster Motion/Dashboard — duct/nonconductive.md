@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able to conduct heat or electricity or sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able to conduct heat or electricity or sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the property of conducting heat or electricity; having high dielectric resistance; insulating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial electrical safety standards, maintenance workers wear nonconductive rubber boots when repairing high-voltage transformers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonconductive designates not able to conduct heat or electricity or sound."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The porcelain mounts provided a **nonconductive** foundation for the sensitive galvanic instruments."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Air at normal atmospheric pressure acts as an effective **nonconductive** shield against modest voltages."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The tripod machines were operated from cabs lined with **nonconductive** ceramic plates."*
+

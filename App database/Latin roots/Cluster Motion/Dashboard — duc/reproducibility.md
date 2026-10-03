@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being reproducible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being reproducible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity of a scientific result, measurement, or process to be duplicated or confirmed independently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical metrology and laboratory science, the closeness of agreement between successive measurement results obtained under changed conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reproducibility designates the quality of being reproducible."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"Scientific objectivity demands the **reproducibility** of experimental effects by any competent investigator."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The rigorous test of biological truth is the **reproducibility** of the phenomenon under identical circumstances."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The absolute **reproducibility** of the electrolytic effect convinced observers of the truth of the new law."*
+

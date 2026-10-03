@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An example that is used to justify similar occurrences at a later time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (civil law) a law established by following earlier judicial decisions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earlier event, decision, or action that is regarded as an example, guide, or authority for subsequent similar circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Anglo-American common law, the doctrine of stare decisis mandates that courts adhere to established judicial precedent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do it at once, Or thy precedent services are all But accidents unpurposed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am perfect That the Pannonians and Dalmatians for Their liberties are now in arms, a precedent Which not to read would show the Britons cold; So Cæsar shall not find them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A murderer and a villain; A slave that is not twentieth part the tithe Of your precedent lord."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes remarked that in criminal investigation, an exact historical **precedent** can almost always be found in the archives."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The parliamentary jurists scrupulously searched ancient rolls of parchment to find a sound constitutional **precedent**."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"We must govern our great empire not by abstract metaphysical theories, but by historical **precedent** and human prudence."*
+

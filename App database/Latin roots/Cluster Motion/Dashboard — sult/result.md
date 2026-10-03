@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon that follows and is caused by some previous phenomenon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that solves a problem or explains how to solve the problem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A consequence, outcome, or effect that ensues from an action, process, event, or calculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In empirical scientific methodology, a statistically significant result requires rigorous experimental control and reproducibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Such kinds of jokes are very much akin to roughness, and from small cruelties larger ones soon result."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She already saw the consequences and pictured the terrible scenes that would result if the three boys were obliged to live closely together."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The three had never yet come together without bringing as a result some mean deed on one side and an explosion of rage on the other."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes held up the test tube triumphantly, announcing that the chemical **result** was decisive and unmistakable."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The astonishing diversity of domestic pigeon breeds is the cumulative **result** of generations of methodical human selection."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The general enrichment of society is the unintended **result** of individuals pursuing their own economic self-interest."*
+

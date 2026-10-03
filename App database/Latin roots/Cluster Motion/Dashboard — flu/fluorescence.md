@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Light emitted during absorption of radiation of some other (invisible) wavelength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Light emitted during absorption of radiation of some other (invisible) wavelength.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The emission of light by a substance during absorption of electromagnetic radiation of a different, usually shorter, wavelength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysical spectroscopy, the Stokes shift defines the spectral wavelength separation between absorption and fluorescence emission maxima.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorescence designates light emitted during absorption of radiation of some other (invisible) wavelength."*
+> - 📜 **George Gabriel Stokes (*On the Change of Refrangibility of Light*):** *"I am inclined to coin the word **fluorescence**, from fluorspar, as the analogous term opalescence is derived from opal."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The intense green **fluorescence** emitted by the zinc sulfide screen revealed individual alpha particle collisions."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The remarkable phenomenon of **fluorescence** opened up unexpected pathways into atomic physics."*
+

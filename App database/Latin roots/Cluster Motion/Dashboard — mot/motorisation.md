@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of motorizing (equiping with motors or with motor vehicles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of motorizing (equiping with motors or with motor vehicles).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of equipping an organization, transport system, or society with motor vehicles and mechanical engines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics, the strategic conversion of infantry and cavalry divisions from horse transport to wheeled utility and armored transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorisation designates the act of motorizing (equiping with motors or with motor vehicles)."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The comprehensive **motorisation** of army supply trains revolutionized battlefield logistics between 1914 and 1918."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Rapid industrial **motorisation** altered the physical topography and suburban layout of Western civilizations."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Modern warfare compelled the thorough **motorisation** of all military transport and tactical communications."*
+

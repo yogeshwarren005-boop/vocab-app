@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of seventy and eight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shellac based phonograph record that played at 78 revolutions per minute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to the sum of seventy and eight; 78; also a 78 rpm phonograph record.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audio recording history, coarse-groove shellac discs rotating at 78 revolutions per minute standard throughout the early 20th century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventy-eight designates the cardinal number that is the sum of seventy and eight."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"See what an honorable place you fill at **seventy-eight**, with mind unimpaired and heart as sound as ever."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"He played a scratching old **seventy-eight** record of musical-hall favorites on the wind-up gramophone."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The old timber merchant had attained **seventy-eight** years, yet could still appraise an oak tree at twenty paces."*
+

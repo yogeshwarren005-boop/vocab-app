@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the seventh place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the seventh place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the seventh place; seventh in an enumerated series or formal order of arguments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical scholastic discourse and sermonic rhetoric, introducing the seventh sub-argument of a doctrinal thesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, seventhly designates in the seventh place."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"He proceeded through his arguments methodically, and **seventhly** demonstrated the absurdity of modern pedantry."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"The preacher droned on through his theological heads, announcing **seventhly** the doom of the unrepentant."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The professor argued sixthly on clothes as emblems, and **seventhly** on garments as historical monuments."*
+

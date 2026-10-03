@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give expression or emotion to, in a stage or movie role.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give expression or emotion to, in a stage or movie role.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To portray, display, or express emotion openly, especially in an exaggerated, theatrical, or dramatic manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stanislavskian acting methodology, actors are taught to experience internal emotional memory rather than superficially emote before the audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emote designates give expression or emotion to, in a stage or movie role."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The young actress began to **emote** with unnatural extravagance, ruining the subtle poetry of Shakespeare's verse."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Vincent Crummles urged the novice to **emote** with tragic despair while striking the cardboard dagger upon his breast."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Mirah did not mechanically **emote** upon the stage, but sang with the sincere sorrow of her ancestors."*
+

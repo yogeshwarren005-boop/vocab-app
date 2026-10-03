@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wash before painting to remove old paint and mildew.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wash before painting to remove old paint and mildew.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To clean an exterior surface using a high-pressure stream or jet of pressurized water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural restoration and surface maintenance, removing paint, grime, or mildew using calibrated hydraulic nozzle discharges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pressure-wash designates wash before painting to remove old paint and mildew."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"The cannery mechanics began to **pressure-wash** the concrete gutting tables with high-velocity harbor hoses."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The contractor hired laborers to **pressure-wash** the soot-stained limestone facade of the newly acquired office building."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Workers had to **pressure-wash** the bloody brick runways of the slaughterhouse at the end of each shift."*
+

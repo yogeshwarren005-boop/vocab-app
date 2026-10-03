@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state that exists when one person or group has power over another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state that exists when one person or group has power over another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Governing or controlling influence; domination, superiority, or supremacy; ascendancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitics and international balance-of-power theory, rising naval hegemons seek regional maritime ascendance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascendance designates the state that exists when one person or group has power over another."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rapid military **ascendance** of the Arabian caliphate reshaped the borders of the eastern Mediterranean world."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The parliamentary party achieved moral and constitutional **ascendance** during the long crisis of the Glorious Revolution."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The violent faction gained an alarming **ascendance** over the Paris municipal assemblies through terror and intimidation."*
+

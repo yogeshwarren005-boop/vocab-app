@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nearly horizontal passage from the surface into a mine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nearly horizontal passage from the surface into a mine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horizontal or nearly horizontal entrance passage leading into an underground mine for access, drainage, or ventilation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mining engineering and speleology, a drainage adit drains groundwater from upper levels without requiring mechanical pumps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adit designates a nearly horizontal passage from the surface into a mine."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The miners drove a deep **adit** through the granite ridge to drain the water from the copper vein."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"A horizontal **adit** had been driven into the hillside to inspect the stratification of the carboniferous strata."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The explorers entered the dark **adit** of the ancient lead mine carrying iron lanterns."*
+

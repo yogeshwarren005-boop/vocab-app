@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A notice of someone's death; usually includes a short biography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notice of someone's death; usually includes a short biography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A published notice or biographical tribute announcing the death of an individual, usually detailing their life and achievements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In journalism and archival history, major newspaper obituary desks prepare advance biographies of prominent historical figures years before their death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Read your own obituary notice they say you live longer."*
-> - 📜 **James Joyce (*Ulysses*):** *"Queer lot of stuff he must have put through his hands in his time: obituary notices, pubs’ ads, speeches, divorce suits, found drowned."*
-> - 📜 **James Joyce (*Ulysses*):** *"Under the obituary notices they stuck it."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Do you suppose that poor fellow has had time to read his own **obituary** notice in the morning journal?"*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"The newspaper prematurely published my **obituary**, which was an amusing exaggeration of the true state of affairs."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The provincial gazette contained a respectful **obituary** celebrating the late rector's scholarly contributions."*
+

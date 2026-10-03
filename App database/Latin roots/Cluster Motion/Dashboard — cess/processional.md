@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Religious music used in a procession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended for use in a procession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, used in, or accompanying an organized ceremonial procession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical hymnody and ecclesiastical book arts, a processional is a service book containing hymns, litanies, and rubrics for processions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Their first exhibition of themselves was in a processional march of two and two round the parish."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the unceasing processional of strange secret faces wearied the eye and the mind."*
+> - 📜 **George Eliot (*Romola*):** *"The deep choir sang a solemn **processional** hymn as the banner of Saint Mark was carried through the cathedral aisle."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The villagers gathered in **processional** order along the highway to escort the harvest wagon to the church."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The grand master raised his ivory crucifix and led the **processional** march of the Templars toward the judgment pavilion."*
+

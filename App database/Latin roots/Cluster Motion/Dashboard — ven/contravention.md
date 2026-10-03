@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming into conflict with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming into conflict with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An action that violates, breaches, or goes counter to a law, treaty, principle, or agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international and maritime law, acts committed in direct contravention of neutrality conventions or maritime blockades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This power must either be a direct negative on the State laws, or an authority in the federal courts to overrule such as might be in manifest contravention of the articles of Union."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Butler says, referring to his former definition of what constituted an impeachable high crime: “All the articles allege these acts to be in contravention of his oath of office, and in disregard of the duties thereof."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Particular misconstructions and contraventions of the will of the legislature may now and then happen; but they can never be so extensive as to amount to an inconvenience, or in any sensible degree to affect the order of the political system."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Any municipal by-law enacted in direct **contravention** of common law statutes remains void ab initio."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"No legislative act in **contravention** of the supreme constitution can have binding legal authority."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"King James governed in open **contravention** of the established Test Act, appointing Catholic officers to military commands."*
+

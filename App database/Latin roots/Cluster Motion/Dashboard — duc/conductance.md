@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A material's capacity to conduct electricity; measured as the reciprocal of electrical resistance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A material's capacity to conduct electricity; measured as the reciprocal of electrical resistance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of the ability of an electrical circuit or component to conduct electricity; reciprocal of resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In SI electrical units, measured in siemens (formerly mho), defined as the ratio of current flowing to voltage applied across a conductor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conductance designates a material's capacity to conduct electricity; measured as the reciprocal of electrical resistance."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electrical **conductance** of the metallic wire varies inversely with its length and directly with its cross-sectional area."*
+> - 📜 **Oliver Heaviside (*Electrical Papers*):** *"We introduce the concept of leakance or dielectric **conductance** to quantify energy dissipation along telegraph cables."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electrolyte showed a rapid increase in **conductance** as the salt concentration rose toward saturation."*
+

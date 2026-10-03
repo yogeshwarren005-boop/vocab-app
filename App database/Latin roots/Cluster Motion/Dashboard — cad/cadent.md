@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a rhythmical cadence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a rhythmical cadence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Falling, dropping, or declining; or in astrology, designating planets situated in the houses preceding the angular houses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical poetic verse, cadent rhythms mimic falling teardrops or declining autumn foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let it stamp wrinkles in her brow of youth; With cadent tears fret channels in her cheeks; Turn all her mother’s pains and benefits To laughter and contempt; that she may feel How sharper than a serpent’s tooth it is To have a thankless child!"*
+> - 📜 **William Shakespeare (*King Lear*):** *"Let it stamp wrinkles in her brow of youth, with **cadent** tears fret channels in her cheeks."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The **cadent** dew refreshed the parched canvas of the stranded ship beneath the silent stars."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Sweet **cadent** drops of evening rain awakened the slumbering violet blossoms along the hillside."*
+

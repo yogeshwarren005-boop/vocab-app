@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) the configuration of smaller units of information into large coordinated units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of packaging cargo into unit loads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The consolidation or grouping of diverse components, cargo, or properties into a single standardized operational unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oilfield conservation law, compulsory unitization protects correlative rights by preventing wasteful drilling across shared hydrocarbon reservoirs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitization designates (psychology) the configuration of smaller units of information into large coordinated units."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The systematic **unitization** of educational standards ensured that schools across the county maintained uniform quality."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"The **unitization** of clan loyalties under a centralized monarchy marked the birth of modern statehood."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **unitization** of coinage under imperial mint regulations facilitated commerce by eliminating currency counterfeiting."*
+

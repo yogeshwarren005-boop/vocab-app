@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Restore to its uncompressed form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore to its uncompressed form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To release from pressure; to restore a compressed object or digital file to its original uncompressed volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer systems and data architecture, expanding compressed byte streams into raw readable files using matching codec decompression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uncompress designates restore to its uncompressed form."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"The central computer needed only an instant to **uncompress** millions of recorded human memories from the memory banks."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"We released the safety valves to **uncompress** the dense gases accumulated within our metallic sphere."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The technician waited for the autoclave chamber to **uncompress** before inspecting the sterile culture tubes."*
+

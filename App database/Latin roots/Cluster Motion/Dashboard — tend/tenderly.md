@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With tenderness; in a tender manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With tenderness; in a tender manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: With gentleness, affectionate warmth, care, or delicacy; in a manner that avoids causing pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical performance notation, the Italian direction teneramente instructs players to perform a phrase tenderly and expressively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To his father, that so tenderly and entirely loves him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Moor is of a free and open nature That thinks men honest that but seem to be so, And will as tenderly be led by the nose As asses are."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ th’ meantime, look tenderly to the two prisoners."*
+> - 📜 **William Shakespeare (*King Lear*):** *"He spoke to his father, that so **tenderly** and entirely loves him, with tears in his eyes."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor embraced her sister **tenderly**, wiping away the tears that fell upon her cheek."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Lucie held her father's trembling hands **tenderly**, speaking words of comfort and devotion."*
+

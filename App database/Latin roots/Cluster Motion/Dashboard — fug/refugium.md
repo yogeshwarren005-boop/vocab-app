@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fug within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fug in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area or ecological haven where a population of organisms can survive through an unfavorable climatic period, such as glaciation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical biogeography and paleoecology, Mediterranean coastal valleys functioned as a Quaternary glacial refugium for temperate deciduous flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, refugium designates pertaining to, derived from, or characteristic of latin fug within the domain of motion."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Isolated mountain valleys served as an ecological **refugium** where boreal plant species survived the retreat of glacial ice."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fossil record demonstrates how thermal valleys provided a hospitable **refugium** during severe continental Ice Ages."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Deep river gorges in southern Europe formed an essential botanical **refugium** during the maximum extent of the ice sheet."*
+

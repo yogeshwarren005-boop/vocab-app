@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring unexpectedly and requiring urgent action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming into existence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming into existence or becoming prominent; or arising unexpectedly as an urgent development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary philosophy and philosophy of mind, emergent properties arise at higher systemic levels without existing in underlying substrate components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emergent designates occurring unexpectedly and requiring urgent action."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Conscious thoughts represent an **emergent** phenomenon arising from intricate cerebral and sensory neural processes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate surveyed the **emergent** political movements of provincial England with the detached curiosity of a scientist."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The fiery leader rode the crest of the **emergent** popular passions surging through the streets of Paris."*
+

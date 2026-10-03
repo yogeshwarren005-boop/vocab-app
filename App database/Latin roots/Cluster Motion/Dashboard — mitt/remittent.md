@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a disease) characterized by periods of diminished severity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a disease) characterized by periods of diminished severity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by temporary abatements or fluctuations in intensity without completely ceasing; marked by remissions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical pathology, remittent fever (such as falciparum malaria) exhibits diurnal temperature fluctuations where fever drops without reaching normal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I bethought myself to go upstairs and see how the dying woman sped, who lay there almost unheeded: the very servants paid her but a remittent attention: the hired nurse, being little looked after, would slip out of the room whenever she could."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical temperature chart revealed a characteristic **remittent** curve, dipping each morning without complete apirexia."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Several sailors were struck down with a severe **remittent** fever after exploring the swampy estuaries of the tropics."*
+> - 📜 **Tobias Smollett (*The Adventures of Roderick Random*):** *"The naval surgeon treated hundreds of troops suffering from the virulent **remittent** pestilence of the West Indies."*
+

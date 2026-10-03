@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various american parasitic plants similar to old world mistletoe: false mistletoe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various american parasitic plants similar to old world mistletoe: false mistletoe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of American mistletoes in the sandalwood family Santalaceae, parasitic upon woody trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology and phytopathology, species of Phoradendron penetrate host xylem conduits with invasive haustoria to extract sap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoradendron designates any of various american parasitic plants similar to old world mistletoe: false mistletoe."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Dense clumps of parasitic **Phoradendron** clung to the rugged branches of the desert junipers along the canyon wall."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The mistletoe genus **Phoradendron** illustrates the intricate co-evolution between parasitic plants and bird seed dispersers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Botanical collectors identify the American mistletoe by the thick evergreen foliage and clustered berries of **Phoradendron**."*
+

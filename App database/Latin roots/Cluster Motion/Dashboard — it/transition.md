@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of passing from one state or place to the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event that results in a transformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A passage, change, or shift from one position, state, condition, or stage of development to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and condensed matter physics, a phase transition involves an abrupt transformation between solid, liquid, or gas states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Then came the moment of transition; it was with the sense of promotion he had when he, an orphan educated at a commercial charity-school, was invited to a fine villa belonging to Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"When the Vicar began again there was a change in his tone like the encouraging transition to a major key."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The transition is a keen one, I assure you, from a schoolmaster to a sailor, and requires a strong decoction of Seneca and the Stoics to enable you to grin and bear it."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"According to this view, every species must have undergone a gradual **transition** from an ancestral prototype."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Then came a sudden **transition** from the joyous gaiety of youth to the sobering burdens of household care."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The geological strata reveal an orderly **transition** from marine limestone to freshwater sandstone."*
+

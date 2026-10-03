@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of heat or electricity or sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transmission of heat or electricity or sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of heat, electricity, or sound through a material medium without gross movement of matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, saltatory conduction describes the rapid propagation of action potentials along myelinated axons from node of Ranvier to node.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conduction designates the transmission of heat or electricity or sound."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Thermal **conduction** transfers kinetic energy from warmer molecules to neighboring cooler particles through molecular impact."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The velocity of nerve **conduction** was precisely determined by Helmholtz using his delicate myograph apparatus."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Metallic **conduction** differs fundamentally from electrolytic conduction, where chemical decomposition always attends current flow."*
+

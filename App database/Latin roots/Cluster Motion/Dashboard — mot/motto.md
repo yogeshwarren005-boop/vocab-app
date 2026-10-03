@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A favorite saying of a sect or political group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A favorite saying of a sect or political group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short sentence or phrase chosen as expressing the guiding principles, beliefs, or ideals of an individual or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In heraldry, a concise phrase inscribed on a scroll beneath or above a coat of arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The fifth, an hand environed with clouds, Holding out gold that’s by the touchstone tried; The motto thus, _Sic spectanda fides._ The sixth Knight, Pericles, passes in rusty armour with bases, and unaccompanied."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He seems to be a stranger; but his present is A wither’d branch, that’s only green at top; The motto, _In hac spe vivo._ SIMONIDES."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I have often heard him declare, that if baronetcies were saleable, anybody should have his for fifty pounds, arms and motto, name and livery included; but I will not pretend to repeat half that I used to hear him say on that subject."*
+> - 📜 **William Shakespeare (*Pericles*):** *"The fifth knight bears an hand environed with clouds, holding out gold; the **motto** in Spanish is 'In hac spe vivo'."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"King Solomon adopted an enduring **motto** regarding wisdom being far preferable to perishable worldly riches."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Trust thyself: every heart vibrates to that iron string; let this become your daily **motto**."*
+

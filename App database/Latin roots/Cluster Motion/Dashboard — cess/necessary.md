@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything indispensable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absolutely essential.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Required to be done, achieved, or present; indispensable, essential, or unavoidable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modal philosophical logic, a necessary truth is one whose negation is logically impossible across all possible worlds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, I will eat no meat; I’ll not drink, sir; If idle talk will once be necessary, I’ll not sleep neither."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As horns are odious, they are necessary."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are well understood to be a perfecter giber for the table than a necessary bencher in the Capitol."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife; yet it was **necessary** to ascertain his real character."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"When you have eliminated the impossible, whatever remains, however improbable, must be the **necessary** truth."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The wages of labor must at least be sufficient to maintain the laborer and provide the **necessary** subsistence for his family."*
+

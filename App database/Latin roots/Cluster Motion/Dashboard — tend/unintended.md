@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not deliberate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not deliberate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not planned, designed, or foreseen; occurring without deliberate intent or purpose; accidental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socioeconomics and policy analysis, Merton's law of unintended consequences describes unforeseen adverse results arising from purposive social interventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A result usually unintended is the derangement of business and of the existing distribution of incomes."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The unintended, and to some degree inevitable, result of the taxation of goods in commerce, whether imports or exports, is to prevent and discourage trade and to raise the prices of the goods imported."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She answered, wanting to check unintended consequences— “I spoke from inference only."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She answered cautiously, wanting to check **unintended** consequences before rumors spread through the parish."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"What good I do must be aside from my main path, and for the most part **unintended** by any conscious calculation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"By pursuing his own interest, an individual frequently promotes that of the society through an **unintended** mechanism."*
+

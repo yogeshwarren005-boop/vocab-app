@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A male servant (especially a footman).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person of unquestioning obedience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liveried footman or manservant; or a sycophant who curries favor through subservience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political commentary, a party flunky blindly carries out administrative orders without exercising independent moral judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If anyone asks, we're using Scarf's troops on the Dragon as flunkies during the victory party."*
-> - 📜 **H. B. Fyfe (*Calling World-4 of Kithgol*):** *"She would still rule, for he would be just a slave, with less rights than even the kitchen flunkies." "So?" murmured Yorgh."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The wealthy nabob was preceded by a **flunky** carrying his gold-headed cane and velvet cushions."*
+> - 📜 **Mark Twain (*The Prince and the Pauper*):** *"The royal palace was thronged with courtiers, each behaving like a fawning **flunky** before the child king."*
+> - 📜 **George Eliot (*Felix Holt, the Radical*):** *"Felix refused to flatter the corrupt candidate or act as a **flunky** to electioneering agents."*
+

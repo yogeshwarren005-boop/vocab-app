@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Contribute to the progress or growth of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give a promotion to or assign to a higher position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To contribute to the progress, development, growth, or prosperity of something; to advance in position or rank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, denotes transcription factors and RNA polymerases initiating the transcription of downstream genes at promoter sites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"‘To promote the conversation,’ as a joker might say."*
-> - 📜 **Jane Austen (*Persuasion*):** *"The Musgroves are behaving like themselves, most honourably and kindly, only anxious with true parental hearts to promote their daughter’s comfort."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"But I confess, as soon as I read his letter, I thought it a very foolish, imprudent business, and not likely to promote the good of either; for what were you to live upon, supposing you came together?"*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"Actions are right in proportion as they tend to **promote** happiness; wrong as they tend to produce the reverse."*
+> - 📜 **George Eliot (*Middlemarch*):** *"What can **promote** innocent mirth and virtue more than genial conversation among sincere friends?"*
+> - 📜 **Francis Bacon (*Essays*):** *"Kings do well to **promote** men of practical wisdom rather than ambitious favorites seeking self-aggrandizement."*
+

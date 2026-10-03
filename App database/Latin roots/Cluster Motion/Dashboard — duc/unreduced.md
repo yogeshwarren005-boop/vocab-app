@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not altered by reduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not altered by reduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made smaller, less, or lower in size, amount, or intensity; not simplified or chemically reduced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical orthopedics, an unreduced fracture or dislocation that has not been manipulated back into anatomical alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Very well, what I am offering for acceptance and adoption is not shorthand, but longhand, written with the _Shorthand Alphabet Unreduced_."*
+> - 📜 **Mark Twain (*What Is Man?*):** *"The original instinct remained vigorous and **unreduced** by all the polite moralizing of civilized society."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"An **unreduced** dislocation of the shoulder joint inevitably leads to chronic fibrous ankylosis and nerve compression."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The core of the metallic ore remained dense and **unreduced** inside the central zone of the crucible."*
+

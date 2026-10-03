@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extensile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not extensile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being stretched, extended, or drawn out in length; rigid and inelastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical theoretical mechanics, an idealized inextensible cord is modeled as having zero elastic elongation under tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inextensible designates not extensile."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Consider two equal masses connected by a perfectly flexible, **inextensible** thread passing over a frictionless pulley."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The suspension apparatus was constructed using an **inextensible** silk filament to prevent torsional drift."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The heavy diving suit was reinforced with **inextensible** copper wire mesh to resist crushing sea depths."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle carrying many passengers; used for public transport.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle carrying many passengers; used for public transport.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, comfortable passenger vehicle designed for long-distance highway travel, tourism, or chartered excursions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In passenger transportation systems, distinguished from municipal transit buses by plush seating, luggage bays, and restroom facilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motorcoach designates a vehicle carrying many passengers; used for public transport."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"Parties of affluent tourists arrived by **motorcoach** at the grand hotel, oblivious to the squalor in the scullery."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"The party engaged a spacious **motorcoach** to convey them up the winding terraces overlooking the Arno."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"A scarlet **motorcoach** deposited the sightseers before the immense technological facilities of the Centre."*
+

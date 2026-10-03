@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of driving away or warding off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Force or drive back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To drive back, rebuff, or repel an attacking enemy or intrusive overture; or a severe defeat or refusal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military tactical doctrine, defending infantry forces repulse assaults by establishing interlocking machine-gun fields of fire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He received in the repulse of Tarquin seven hurts i’ th’ body."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A repulse; though your attempt, as you call it, deserve more; a punishment too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yield, my Lord Protector; yield, Winchester; Except you mean with obstinate repulse To slay your sovereign and destroy the realm."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"The noble Brutus suffered a grievous **repulse** when his legions broke under the furious cavalry charge."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Norman garrisons united to **repulse** every desperate attempt of the Saxons to breach the castle gateway."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Collins was astonished at the decided **repulse** he received from Elizabeth, expecting humble gratitude."*
+

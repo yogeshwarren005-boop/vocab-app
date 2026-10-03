@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something that happens at a given place and time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A special set of circumstances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing that happens, especially one of importance, significance, or notable public consequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical physics and relativistic spacetime, a point specified by three spatial coordinates and one temporal coordinate (x, y, z, t).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Poor lord, is’t I That chase thee from thy country, and expose Those tender limbs of thine to the event Of the none-sparing war?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s to the Capitol; And carry with us ears and eyes for th’ time, But hearts for the event."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, the event Is yet to name the winner."*
+> - 📜 **William Shakespeare (*Coriolanus*):** *"Let's to the Capitol, and carry with us ears and eyes for the time, but hearts for the **event**."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Human understanding is most moved by that which strikes and enters the mind suddenly by some striking **event**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The battle of Chalons was a decisive **event** that preserved Western civilization from Hunnic subjugation."*
+

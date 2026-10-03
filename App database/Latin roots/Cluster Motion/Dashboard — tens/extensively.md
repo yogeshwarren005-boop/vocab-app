@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a widespread way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a widespread way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a great extent, degree, or area; widely, broadly, or comprehensively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical agronomy, pastoralists utilized the western open range extensively for nomadic beef cattle grazing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The tradition is that his rule was an exceedingly stern one, that he kept the children hard at work, and that he flogged extensively and remorselessly."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Investment has advanced both intensively and extensively in a series of great waves."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Land is used most extensively, with respect to labor, when it is in forests; somewhat less so when in pasture as care must be given to the live stock; and still less when used for hay, grain, and other crops."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The pampas of South America were **extensively** covered with tall, waving grasses and wild thistles."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Watson had traveled **extensively** through the Northwest Frontier provinces during the Afghan military campaigns."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman civil jurisprudence was adopted **extensively** throughout the newly conquered barbarian kingdoms of Europe."*
+

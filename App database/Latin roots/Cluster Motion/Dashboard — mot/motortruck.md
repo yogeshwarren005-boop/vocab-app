@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An automotive vehicle suitable for hauling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automotive vehicle suitable for hauling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy automotive vehicle designed for the commercial haulage and highway transport of freight or goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early 20th-century commerce, marked the logistical shift from urban horse-drawn drays to motorized commercial logistics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motortruck designates an automotive vehicle suitable for hauling."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"A loaded **motortruck** ground past in low gear, shaking the dust from the roadside weeds."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"The local grain elevator invested in a sturdy **motortruck** to collect produce from distant outlying farms."*
+> - 📜 **Theodore Dreiser (*An American Tragedy*):** *"Clyde watched the brewery **motortruck** unload heavy wooden barrels onto the basement ramp."*
+

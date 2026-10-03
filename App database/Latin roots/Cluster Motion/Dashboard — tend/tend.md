@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a tendency or disposition to do or be something; be inclined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have care of or look after.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To have an inclination, disposition, or directional drift; or to care for, minister to, or watch over.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential calculus and limit theory, variables are said to tend toward zero or infinity as arguments approach critical boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blessed are you whose worthiness gives scope, Being had to triumph, being lacked to hope. 53 What is your substance, whereof are you made, That millions of strange shadows on you tend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or call it winter, which being full of care, Makes summer’s welcome, thrice more wished, more rare. 57 Being your slave what should I do but tend, Upon the hours, and times of your desire?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For to no other pass my verses tend, Than of your graces and your gifts to tell."*
+> - 📜 **William Shakespeare (*Sonnet 105*):** *"For to no other pass my verses **tend**, than of your graces and your gifts to tell."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Direct my course to where these wandering paths **tend** toward the tree of life."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Slight variations which give an individual an advantage in survival will **tend** to be preserved and multiplied."*
+

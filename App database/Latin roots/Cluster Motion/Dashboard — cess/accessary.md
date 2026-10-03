@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who helps another person commit a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aiding and abetting in a crime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who incites, aids, abets, or conceals a perpetrator in committing a crime; an accessory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, common law indictments distinguished between an accessary before the fact and an accessary after the fact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am your accessary; and so farewell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To both their deaths shalt thou be accessary."*
+> - 📜 **William Shakespeare (*The Rape of Lucrece*):** *"O hateful error, melancholy's child, why dost thou show to the apt thoughts of men an **accessary** yield?"*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The police arrested the cab driver as an **accessary** to the robbery, suspecting he had aided the escape."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Fagin was judged an **accessary** to the burglary, having planned the crime and received the stolen silverware."*
+

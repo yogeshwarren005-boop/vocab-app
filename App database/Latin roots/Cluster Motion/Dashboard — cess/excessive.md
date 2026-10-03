@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond normal limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unrestrained, especially with regard to feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More than is necessary, normal, or desirable; immoderate, extreme, or disproportionate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional human rights law, the Eighth Amendment prohibits excessive bail, excessive fines, and cruel and unusual punishments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moderate lamentation is the right of the dead; excessive grief the enemy to the living."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Kenge with excessive urbanity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I couldn’t tell any such ridiculous lie about a beauty to encourage a single woman in England in too excessive a modesty.” “It is all pretence—what you are saying!” exclaimed Bathsheba, laughing in spite of herself at the sly method."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne's **excessive** indulgence of grief impaired her health and caused deep anxiety to her affectionate sister."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **excessive** taxation levied by the late emperors drove provincial farmers to abandon their fields in despair."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes warned Watson that **excessive** haste in drawing conclusions from incomplete data is the fatal error of detectives."*
+

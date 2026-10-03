@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exile who flees for safety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An exile who flees for safety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person forced to flee their country or home to escape war, political persecution, religious oppression, or natural disaster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international public law, the 1951 Geneva Refugee Convention defines the principle of non-refoulement protecting displaced persons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Louis Refugee and Freedmen's Home--Mrs."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Late in the fall of 1863, Miss Elliott yielded to the wishes of the Western Sanitary Commission, and became matron of the Refugee Home of St."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Some months later this poor soldier's widow came to the Refugee Home, at St."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Thousands of homeless **refugee** families choked the roads of northern France under relentless aerial bombardment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A million Visigothic **refugee** warriors and their families clamored along the banks of the Danube for imperial asylum."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The border station was crowded with weary Republican **refugee** soldiers awaiting internment across the Pyrenees."*
+

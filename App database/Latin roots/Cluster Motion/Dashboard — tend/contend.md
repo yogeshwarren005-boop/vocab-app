@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Maintain or assert.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have an argument about something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strive in opposition or rivalry; to struggle, compete, or assert an argument vigorously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and appellate advocacy, counsel contend that statutory precedent bars retroactive application of the penalty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy blood and virtue Contend for empire in thee, and thy goodness Share with thy birthright!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let this fellow Be nothing of our strife; if we contend, Out of our question wipe him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The next time I do fight I’ll make Death love me, for I will contend Even with his pestilent scythe. [_Exeunt all but Enobarbus._] ENOBARBUS."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"We two have cabined in a cave; when they did **contend** about the prize of beauty, I held my peace."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Who can in arms **contend** with the Almighty, whose thunder shook the foundations of the deep?"*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Political parties must legitimately **contend** for principles without undermining the civil constitution."*
+

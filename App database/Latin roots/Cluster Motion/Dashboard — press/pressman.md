@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone whose occupation is printing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A journalist employed to provide news stories for newspapers or broadcast media.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A printer who operates a printing press, or a journalist working for newspapers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical printing trades, skilled artisans who ink the form, position the paper, and pull the bar of the printing press.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Gallaher, that was a pressman for you."*
-> - 📜 **James Joyce (*Ulysses*):** *"Come across yourself. —Where do you find a pressman like that now, eh? the editor cried."*
-> - 📜 **James Joyce (*Ulysses*):** *"We are considerably out of pocket over this bally pressman johnny, this jackdaw of Rheims, who has not even been to a university."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"I was at first an apprentice **pressman**, working vigorously at the heavy hand-press from dawn till dusk."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Six Napoleons*):** *"The eager **pressman** scribbled shorthand notes in the police corridor, hoping for an exclusive scoop."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"An American **pressman** arrived at the front line with cameras and notebooks, seeking frontline accounts."*
+

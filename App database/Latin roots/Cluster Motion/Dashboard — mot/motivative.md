@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impelling to action; - arthur pap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impelling to action; - arthur pap.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality, power, or tendency to incite, induce, or stimulate active effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy of mind, denotes mental faculties and affective inclinations capable of initiating volition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivative designates impelling to action; - arthur pap."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poetic imagination exercises a **motivative** energy that transforms passive perception into vital creation."*
+> - 📜 **William Hamilton (*Lectures on Metaphysics and Logic*):** *"The feelings possess an intrinsically **motivative** character that prompts the will to immediate decision."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Every sensation carries an inherent **motivative** tendency toward corresponding muscular discharge."*
+

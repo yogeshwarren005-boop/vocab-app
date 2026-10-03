@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to grades.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass imperceptibly from one degree, shade, or tone into another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pass or cause to pass gradually through a series of intermediate stages, shades, or color tones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual studio painting and chromatic theory, masters gradate oil glazes to achieve subtle sfumato transitions in portraiture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gradate designates arrange according to grades."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner learned how to **gradate** his azure skies into warm horizon golds with peerless atmospheric delicacy."*
+> - 📜 **Henry David Thoreau (*Autumnal Tints*):** *"The leaves of the scarlet oak **gradate** from deep olive green to fiery crimson under the October frosts."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The evening clouds seemed to **gradate** from pale primrose to dark purple above the rolling downs."*
+

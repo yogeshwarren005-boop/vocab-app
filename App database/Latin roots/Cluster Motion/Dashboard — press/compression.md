@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An increase in the density of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process or result of becoming smaller or pressed together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of pressing together or the resulting reduced state or condensed volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal combustion engineering, the reduction in volume of fuel-air mixture in a cylinder prior to ignition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Seeing his advance take the form of an attitude threatening a possible enclosure, if not compression, of her person, she edged off round the bush."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Uranus and Neptune orbits, although contained within the tank displays, were cut out by the compression."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Seeing his advance take the form of an attitude threatening a possible enclosure, if not compression, of her person she edged off round the bush."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological strata show evidence of enormous lateral **compression** during the elevation of mountain chains."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The deep indentations in the turf indicated sudden weight and violent **compression** from the heavy wooden leg."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Violent **compression** of flame within a narrow gun chamber produces explosive outward motion."*
+

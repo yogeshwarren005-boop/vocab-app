@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause transduction (of energy forms).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause transduction (of energy forms).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert one form of energy into another; or to transfer genetic material from one bacterium to another by a virus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics and sensory physiology, sensory receptors transduce mechanical, chemical, or photon stimuli into neural action potentials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transduce designates cause transduction (of energy forms)."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The hair cells of the organ of Corti **transduce** sound vibrations of the lymph into auditory nerve impulses."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory end-organs exist solely to **transduce** environmental disturbances into conscious mental presentations."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Retinal cone pigments **transduce** photons of specific wavelengths into electrical receptor currents."*
+

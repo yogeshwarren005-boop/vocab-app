@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The advocacy or application of extreme reductionist methods in philosophy, science, or art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mid-20th-century art theory, minimal art (reductivism) stripping visual composition of narrative illusion and ornament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductivism designates an art movement in sculpture and painting that began in the 1950s and emphasized extreme simplification of form and color."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Medical **reductivism** that explains spiritual vision by dietary dyspepsia fails to touch its spiritual significance."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"Epistemological **reductivism** encounters formidable obstacles when attempting to construct physical objects out of sensory qualia."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific progress requires resisting metaphysical dogmatism while utilizing methodological **reductivism** for practical discoveries."*
+

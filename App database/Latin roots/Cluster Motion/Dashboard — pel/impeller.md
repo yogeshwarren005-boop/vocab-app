@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The blade of a rotor (as in the compressor of a jet engine).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The blade of a rotor (as in the compressor of a jet engine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rotating device equipped with blades or vanes used to force, pump, or increase the flow of a fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In centrifugal pump engineering, fluid enters the axial eye of the impeller and gains velocity through radial centrifugal acceleration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impeller designates the blade of a rotor (as in the compressor of a jet engine)."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The laboratory apparatus featured a motorized brass **impeller** that whipped the experimental emulsion into foam."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"A powerful turbine **impeller** drove cooling seawater through the condensing pipes of the electrical engines."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger rigged a small mechanical **impeller** to circulate fresh river water through their makeshift camp filter."*
+

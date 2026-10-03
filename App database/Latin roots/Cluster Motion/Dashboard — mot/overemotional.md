@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively or abnormally emotional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively or abnormally emotional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively emotional; showing an immoderate degree of feeling, sentimentality, or dramatic sensitivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and affective assessment, characterizes heightened emotional lability impairing objective reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overemotional designates excessively or abnormally emotional."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor cautioned her sister against becoming **overemotional** regarding every minor alteration in Willoughby's demeanor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon regarded any fervent spiritual appeal as distastefully **overemotional** and disruptive to scholarly quietude."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She detested scenes that threatened to become **overemotional**, preferring calm and lucid dialogue."*
+

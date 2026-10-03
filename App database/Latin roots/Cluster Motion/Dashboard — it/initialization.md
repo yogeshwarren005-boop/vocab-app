@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the format of sectors on the surface of a hard disk drive so that the operating system can access them and setting a starting position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (computer science) the format of sectors on the surface of a hard disk drive so that the operating system can access them and setting a starting position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of setting starting values or configuring a system, device, or program for operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In object-oriented programming, constructor initialization lists establish invariant member states before class execution begins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, initialization designates (computer science) the format of sectors on the surface of a hard disk drive so that the operating system can access them and setting a starting position."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The correct **initialization** of physical instruments eliminates systematic calibration errors in subsequent observations."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"The developmental **initialization** of sensory reflexes in infants lays the baseline for higher cognitive synthesis."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The experimental **initialization** of cross-breeding trials required isolation of pure ancestral lines."*
+

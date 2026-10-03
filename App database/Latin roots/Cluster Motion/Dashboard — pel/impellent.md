@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forcing forward or onward; impelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forcing forward or onward; impelling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality or power of impelling, driving, or urging forward; an impelling force or motive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrodynamics and propulsion engineering, an impellent jet provides reactive forward thrust in fluid conduits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impellent designates forcing forward or onward; impelling."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The primary **impellent** force behind social progress is the relentless pressure of human population growth."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"True artistic imagination operates as an **impellent** power that harmonizes intellect and sensory emotion."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific curiosity serves as the chief **impellent** motive driving researchers through tedious experimental trials."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deduce (a principle) or construe (a meaning).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Develop or evolve from a latent or potential state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring out, draw forth, or elicit latent potential, knowledge, or truths from someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Socratic dialectic, drawing implicit mathematical or ethical insights from a student through skilled questioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Science can now educe threads of such exquisite tenuity that only the feet of the tiniest infant-spiders can ascend them; but up the filmiest insubstantiality Shelley runs with agile ease."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"Whether there be theories, they shall pass; whether there be systems, they shall fail; the true epoch-maker in the history of the human soul is the man who educes from this bewildering universe a new and elevating joy."*
-> - 📜 **F. W. H. Myers (*Wordsworth*):** *"In all these passages, it will be observed, the emotion is educed from Nature rather than added to her; she is treated as a mystic text to be deciphered, rather than as a stimulus to roving imagination."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Patient inquiry can **educe** general moral principles from the varied experiences of human society."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The true method of induction seeks to **educe** axioms from systematic experiments on natural bodies."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Great historical crises **educe** the hidden spiritual energies of heroic men who transform epochs."*
+

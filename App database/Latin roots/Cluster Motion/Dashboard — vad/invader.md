@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who enters by force in order to conquer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who enters by force in order to conquer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, army, or biological organism that aggressively enters a foreign territory or host.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and cellular defense, macrophages identify and engulf each foreign **invader** using pattern-recognition receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We have seen the invader enter our doors; we have been obliged to spread our table for him, and give him of our best."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But supposing the invader of domestic bliss to betake himself away at the first rush of the harem’s lord, then is it very diverting to watch that lord."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Similar impediments occur at every step, to exhaust the strength and delay the progress of an invader."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The hardy English archers stood fast to repel the fierce French **invader** at the crest of the hill."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Saxon yeomen swore vengeance against every Norman **invader** who trampled upon their ancestral rights."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"No human weapon could resist the heat-ray wielded by the extraterrestrial **invader** across Surrey."*
+

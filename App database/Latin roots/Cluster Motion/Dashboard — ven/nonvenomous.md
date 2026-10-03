@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing venom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not producing venom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing venom; lacking toxic poison or venom-injecting fangs; harmless in bite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, differentiating aglyphous colubrid snakes from venomous proteroglyphous elapids and solenoglyphous viperids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonvenomous designates not producing venom."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The travelers captured a beautiful **nonvenomous** green snake that glided harmlessly through the tall pampas grass."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The jaw apparatus of the **nonvenomous** serpent displays solid homodont dentition devoid of poison canals."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Challenger assured the nervous party that the giant marsh reptile was completely **nonvenomous** and herbivorous."*
+

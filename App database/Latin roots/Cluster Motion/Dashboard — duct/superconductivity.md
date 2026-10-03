@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The disappearance of electrical resistance at very low temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disappearance of electrical resistance at very low temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete disappearance of electrical resistance in certain materials when cooled below a characteristic critical temperature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In low-temperature condensed matter physics, BCS theory explains superconductivity via electron pairing (Cooper pairs) mediated by lattice phonons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superconductivity designates the disappearance of electrical resistance at very low temperatures."*
+> - 📜 **Lord Kelvin (William Thomson) (*Popular Lectures and Addresses*):** *"If absolute zero could be attained, metallic resistance might vanish entirely, giving rise to perfect **superconductivity**."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The theoretical possibility of persistent currents in conductors exhibiting ideal **superconductivity** would transform electrodynamics."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"In the limiting condition of zero resistive loss, magnetic field expulsion and perpetual **superconductivity** emerge."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of sixteen and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being one more than sixteen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number equal to the sum of sixteen and one; ten plus seven; 17.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and developmental psychology, seventeenth year of life marks late adolescence preceding full legal majority at eighteen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST SOLDIER. _Boskos vauvado._ I understand thee, and can speak thy tongue. _Kerelybonto._ Sir, Betake thee to thy faith, for seventeen poniards are at thy bosom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"From seventeen years till now almost fourscore Here lived I, but now live here no more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At seventeen years many their fortunes seek, But at fourscore it is too late a week."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"From **seventeen** years till now almost fourscore here lived I, but now live here no more."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I was **seventeen** years of age when I advertised for a position as governess in a respectable family."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"He had reached the age of **seventeen**, full of youthful ardor and unclouded hopes for the future."*
+

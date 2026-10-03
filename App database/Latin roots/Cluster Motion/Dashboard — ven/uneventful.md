@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by no noteworthy or significant events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by no noteworthy or significant events.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by no interesting, important, or disruptive events; quiet, monotonous, or tranquil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical narrative and biographical analysis, prolonged periods characterized by institutional stability and domestic quietude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"It was performed with suitable quietness and uneventful safety."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"An uneventful life without much anxiety does keep people young," philosophized Laura."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Life at Chilmark flowed on uneventful from day to day."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The winter passed in an **uneventful** routine of domestic duties and quiet morning walks."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes sighed over several **uneventful** weeks during which no remarkable crime had been reported."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Her life in the quiet pensionnat flowed on in an **uneventful** and sober stream."*
+

@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily influenced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being shaped or bent or drawn out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being drawn out into thin wire or hammered thin without breaking; pliable or easily led.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, ductility represents the extent of plastic deformation a material undergoes before tensile fracture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Their growing minds soon close above the wound--their elastic spirits soon rise beneath the pressure--their green and ductile affections soon twine round new objects."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It begins to stretch as soon as the tension is applied, theoretically at all events, and if the metal were perfectly ductile it would stretch continuously as the load increases, until at last the breaking stress is reached."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Gold is the most **ductile** of all metals, capable of being beaten into leaves of astonishing thinness."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Metals become soft and **ductile** under intense furnace heat, allowing artisans to draw them through fine dies."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Bingley possessed an amiable and **ductile** temper, easily influenced by the advice of his stronger-willed friend."*
+

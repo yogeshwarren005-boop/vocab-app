@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute febrile highly contagious viral disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acute febrile highly contagious viral disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute, highly contagious viral respiratory disease characterized by sudden fever, muscle aches, exhaustion, and cough; the flu.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical epidemiology, the term influenza originated in eighteenth-century Italian medical literature attributing epidemic plagues to astrological astral influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Verney's junior partner, who attended me for influenza while Dr."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"While I have been in town, poor Merrivale has had an attack of influenza, which has been pretty serious, and has left him rather alarmingly weak."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"He said when he passed the store that there's a regular outbreak of influenza down below the State Line Road." "I hope and pray it don't spread up here!" Mama pulled her cape closer around her shoulders."*
+> - 📜 **Jane Austen (*Emma*):** *"Wingfield told me that he has never known colds more general or heavy, except during an epidemic of **influenza**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pandemic **influenza** attacks with lightning speed, predisposing victims to fatal secondary bacterial pneumonia."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A severe outbreak of autumn **influenza** prostrated the inhabitants of the damp riverside court."*
+

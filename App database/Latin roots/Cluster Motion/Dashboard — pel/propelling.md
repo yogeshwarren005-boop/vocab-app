@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to move forward with force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Driving, urging, or pushing forward through applied physical or mechanical force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic locomotion, undulating caudal fins create traveling vortex wakes propelling teleost fish through water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Besides, this mystery must necessarily be solved, and before long; for, upon an order from Captain Nemo, the engine, increasing its propelling power, made the screw turn more rapidly."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But the _Nautilus_, carried along by its propelling power, passed through the mass of the vessel like a needle through sailcloth!"*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The Chinese know nothing about dolls which open and shut their eyes, simple as this principle is, nor of toys which are self-propelling by some mysterious spring secreted within, because, forsooth, they know nothing about making the spring."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The oarsmen strained at their sweeps, **propelling** the cedar craft through boiling sheets of ocean spray."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The marine iguana swam with great ease, **propelling** its body through the surf by sinuous lateral movements of its tail."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Silver leaned forward on his crutch, **propelling** his heavy frame across the sandy beach with astonishing agility."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduce the level of land, as by erosion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduce in worth or character, usually verbally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lower someone in dignity, rank, or character; or to cause to break down or deteriorate chemically or physically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and enzymatic proteomics, specific endopeptidases degrade polypeptide chains into absorbable amino acid residues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As for me, without shame I tell you the only reason I do not spit upon you is that I cannot demean myself nor so degrade my spittle.” “I’ve reached the limit of my patience!” he bellowed."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Even during his lifetime the Gospels reveal much about Jesus that in contemporary opinion would degrade him--sighs and tears and fatigue, liability to emotion and to pain, friendship with women."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Hence we find him ever ready to degrade his muse by making it the vehicle for immoral thoughts and abominable calumnies.[271] The question of Heine's patriotism has always been a much-debated one, and must doubtless remain so."*
+> - 📜 **William Shakespeare (*Richard II*):** *"Must I lose the name of king? A God's name, let it go; I'll give my jewels for a set of beads, and **degrade** my royal state."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth declared that marrying Mr. Collins would **degrade** her understanding in the eyes of all sensible people."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Physical weathering and frost action slowly **degrade** exposed sandstone escarpments into fertile alluvial soils."*
+

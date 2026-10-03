@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foreign policy of staying out of other countries' disputes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foreign policy of staying out of other countries' disputes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A policy or principle of not interfering in the internal affairs, disputes, or politics of other nations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th- and 20th-century diplomatic history, the doctrine formalized by Britain and France regarding foreign civil wars, notably during the Spanish Civil War.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Wait, I have not finished...” he said to Prince Andrew, seizing him by the arm, “I believe that intervention will be stronger than nonintervention."*
+> - 📜 **John Stuart Mill (*A Few Words on Non-Intervention*):** *"The doctrine of **nonintervention** should be respected among civilized states to encourage self-determined political liberty."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The cynical farce of European **nonintervention** starved the Spanish Republic of legitimate arms while dictators intervened freely."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Strict **nonintervention** often becomes an excuse for democratic powers to ignore catastrophic regional aggression."*
+

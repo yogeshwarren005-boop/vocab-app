@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease the pressure of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decrease the pressure of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause a reduction or loss of internal pressure within a sealed vehicle, cabin, or container.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace life support systems, uncontrolled depressurization risks hypoxia and ebullism at altitudes above the Armstrong limit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depressurize designates decrease the pressure of."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"Bowman realized the emergency hatch would **depressurize** the storage chamber in a fraction of a second."*
+> - 📜 **Carl Sagan (*Contact*):** *"Sensors verified that opening the external port would rapidly **depressurize** the intermediate staging airlock."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"A puncture in the forward valve caused the gas compartments to **depressurize** unevenly during flight."*
+

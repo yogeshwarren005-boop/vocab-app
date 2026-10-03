@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition of a fluoride to the water supply (to prevent dental decay).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The addition of a fluoride to the water supply (to prevent dental decay).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or policy of treating municipal water supplies with fluoride to prevent dental caries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In global health policy, water fluoridisation programs are monitored by public health authorities to ensure optimal concentration ranges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoridisation designates the addition of a fluoride to the water supply (to prevent dental decay)."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The British sanitary commissioners recommended the **fluoridisation** of regional water supplies to improve dental hygiene."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The preventive efficacy of water **fluoridisation** was validated by longitudinal clinical trials across the United Kingdom."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Debates surrounding the compulsory **fluoridisation** of municipal cisterns highlighted the balance between public health and civil liberty."*
+

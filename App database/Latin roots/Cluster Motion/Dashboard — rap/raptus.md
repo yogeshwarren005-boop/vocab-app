@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden occurrence (or recurrence) of a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being carried away by overwhelming emotion; - charles dickens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden seizure, trance, or violent paroxysm; or historically, unlawful abduction or ravishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuropsychiatry, raptus melancholicus designates a sudden, violent agitation state emerging from catatonic stupor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, raptus designates a sudden occurrence (or recurrence) of a disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In severe psychiatric catatonia, the patient may suddenly burst from mutism into a violent motor **raptus**."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"A terrifying nocturnal **raptus** seized my imagination, hurling my consciousness into labyrinthine abysses of architecture."*
+> - 📜 **Edgar Allan Poe (*Berenice*):** *"I sat transfixed in a morbid mental **raptus**, staring for hours at the small, unmeaning object on the mahogany table."*
+

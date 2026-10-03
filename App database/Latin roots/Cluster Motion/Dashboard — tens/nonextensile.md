@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extensile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not extensile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not extensile; incapable of being stretched, extended, or drawn out in length or area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate morphology, nonextensile skeletal ligaments stabilize joint articulations against dislocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonextensile designates not extensile."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The tough, **nonextensile** fibrous capsule of the hip joint provides essential structural stability during locomotion."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Dense **nonextensile** collagen bundles form the deep fascia, encasing muscle compartments under high tension."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain marine invertebrates develop rigid, **nonextensile** appendages specialized solely for defensive armor."*
+

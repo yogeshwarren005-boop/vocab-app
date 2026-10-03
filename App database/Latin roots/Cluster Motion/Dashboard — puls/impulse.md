@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instinctive motive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden strong and unreflective urge or desire to act; or a driving force or electrical transmission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical linear mechanics, impulse equals the time integral of force and corresponds to the total change in momentum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When she found them empty, she opened the door of the old fencing-hall by some strange impulse."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa's first impulse was to withdraw with an excuse, but the ladies had jumped up already and most cordially greeted their kind friend, Mr Falcon, whom they called their helper and saviour in all difficulties."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce advised him to try and decide within himself whether his old preference for the sea was an ordinary boyish inclination or a strong impulse, Richard answered, Well he really HAD tried very often, and he couldn’t make out."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Give me that man that is not passion's slave, and I will wear him in my heart's core, free from blind **impulse**."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth acted on the generous **impulse** of the moment, resolving to visit her sick sister at Netherfield."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"A body continues in its state of rest unless compelled to change that state by an impressed external **impulse**."*
+

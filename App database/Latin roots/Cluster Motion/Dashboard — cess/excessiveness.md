@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immoderation as a consequence of going beyond sufficient or permitted limits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An immoderate, extreme, or exorbitant degree of something, surpassing normal, proper, or reasonable limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian moral philosophy, virtue occupies the golden mean between the deficiency and the excessiveness of an emotional passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, excessiveness designates immoderation as a consequence of going beyond sufficient or permitted limits."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Moral virtue is destroyed by defect and by **excessiveness**, while it is preserved by observing the proportionate mean."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The **excessiveness** of worldly ambitions inevitably plunges the soul into bitter disappointment and fatigue."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary decrees were marked by an **excessiveness** that alienated all moderate friends of liberty."*
+

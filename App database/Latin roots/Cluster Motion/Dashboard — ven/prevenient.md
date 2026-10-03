@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In anticipation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anticipation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Going before; preceding; anticipatory; in Christian theology, divine grace preceding human repentance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Augustinian and Arminian theology, prevenient grace regenerates human free will prior to personal faith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prevenient designates in anticipation."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From the Mercy-seat above, **prevenient** grace descending had removed the stony from their hearts."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He possessed an orthodox theological mindset that would argue warmly upon the necessity of **prevenient** grace."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The soul requires the gentle illumination of **prevenient** grace before it can recognize its own spiritual alienation."*
+

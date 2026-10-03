@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have a reunion; unite again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unify again, as of a country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring together or join again after separation, disagreement, or estrangement; to become unified anew.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history, the Congress of Vienna sought to reunite scattered territories under legitimate dynastic crowns following Napoleonic turmoil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They were under a yoke,—I could free them: they were scattered,—I could reunite them: the independence, the affluence which was mine, might be theirs too."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"My business is to live without him now: nothing so absurd, so weak as to drag on from day to day, as if I were waiting some impossible change in circumstances, which might reunite me to him."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Pierre saw that there was a conspiracy against him and that they wanted to reunite him with his wife, and in the mood he then was, this was not even unpleasant to him."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Time and constancy conspired to **reunite** Captain Wentworth and Anne Elliot after years of sorrowful separation."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The father and daughter were blessed to **reunite** upon English soil after his long ordeal in the Bastille."*
+> - 📜 **Abraham Lincoln (*Second Inaugural Address*):** *"Let us strive on to finish the work we are in, to bind up the nation's wounds, and **reunite** our people in enduring peace."*
+

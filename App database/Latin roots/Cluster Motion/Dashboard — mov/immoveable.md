@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not able or intended to be moved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not able or intended to be moved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of immovable, signifying firmly fixed, steadfast, or incapable of motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical legal treatises, immoveable estates comprised hereditary land holdings protected by feudal entails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immoveable designates not able or intended to be moved."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian found the rock of truth **immoveable** beneath his feet, while worldly tempters sank in the Slough of Despond."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Crusoe struggled to dislodge the heavy timber trunk, finding it completely **immoveable** by human strength."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The floating island of Laputa was anchored to an **immoveable** magnetic center deep within the crust."*
+

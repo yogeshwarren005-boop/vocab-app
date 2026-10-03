@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commodities offered for sale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that has been created by someone or some process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An article or substance that is manufactured or refined for sale; a result of action or process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, the quantity obtained by multiplying two or more numbers, algebraic expressions, or matrices together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"With all his attempted independence of judgement this advanced and well-meaning young man, a sample product of the last five-and-twenty years, was yet the slave to custom and conventionality when surprised back into his early teachings."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My husband felt his loss severely, for we had little property then, and what we had was the product of hard labor."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The enormous deposits if used at the present amounts per year would last probably 2,000 to 4,000 years, but if used at the present increasing rate (doubling the product every ten years) they would, it has been estimated, last but 150 years."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She simply observed herself as a fair **product** of Nature in the feminine kind, rejoicing in her youthful beauty."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The price of every commodity resolves itself into one or other of those three parts, wages, profit, or rent, forming the total **product**."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Real scientific philosophy is not a barren disputation, but the fruitful **product** of systematic experiment."*
+

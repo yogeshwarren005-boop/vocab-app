@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to open or begin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as a base or starting point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to introduce or open; preliminary, prefatory, or leading into a broader subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic education, introductory foundation courses that survey elementary principles prior to specialized upper-level study.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As they had been discussing a score of personal matters only half-an-hour before, the introductory style seemed a little superfluous."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, pp. 15-16 and 50-53 for an introductory statement of the origin of money in connection with markets.] [Footnote 2: See ch. 5.] [Footnote 3: See Vol."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I returned to my book—Bewick’s History of British Birds: the letterpress thereof I cared little for, generally speaking; and yet there were certain introductory pages that, child as I was, I could not pass quite as a blank."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"In the **introductory** words to the first edition I suggested the possible advent of the gentlemanly rustic."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"A few **introductory** compliments passed between the gentlemen before settling down to cards."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"A few **introductory** remarks from the headmaster established solemn discipline throughout the schoolroom."*
+

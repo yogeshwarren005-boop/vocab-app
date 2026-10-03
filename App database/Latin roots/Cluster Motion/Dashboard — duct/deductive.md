@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to logical deduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving inferences from general principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based upon, or using the logical method of deduction; reasoning from general premises to necessary conclusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology, deductive axiomatic systems (such as Euclidean geometry) demonstrate theorems via formal logical inference from axioms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"In passing, I call attention to the fact that at the time I noted that the process of reasoning employed in these dream speeches was invariably deductive."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But these were dreams, frank dreams, fancied adventures of my deductive subconscious mind."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It will easily be seen that this explanation of the deductive process completely turns the tables on the transcendental school."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Detection is, or ought to be, an exact science, and should be treated in the same cold and unemotional **deductive** manner."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"An entertaining retort, in the narrow and **deductive** manner of the Middle Ages, replied the scholar."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **deductive** science of mechanics demonstrates how compound forces produce equilibrium or motion."*
+

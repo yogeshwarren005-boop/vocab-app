@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of abeyance or suspended business.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small concavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary suspension of business or official proceedings; or a secluded, indented space or alcove set back into a wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative procedure, a congressional recess designates an adjournment period during which formal legislative hearings pause without session termination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Fairfax precede me into the dining-room, and kept in her shade as we crossed that apartment; and, passing the arch, whose curtain was now dropped, entered the elegant recess beyond."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"After the Easter recess, Sir George Lynn, who was lately elected member for Millcote, will have to go up to town and take his seat; I daresay Mr."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I step aside into the ivy recess; he will not stay long: he will soon return whence he came, and if I sit still he will never see me."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The photograph is in a **recess** behind a sliding panel just above the right bell-pull."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"At one end of the room, in a **recess**, were a number of barrels piled one upon another."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The central space, together with the **recess** at one end, was emptied of all incumbrances."*
+

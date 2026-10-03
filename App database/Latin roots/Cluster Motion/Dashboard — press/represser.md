@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that represses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that represses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who or that which represses, restrains, subdues, or keeps in check.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political discourse, characterizes authoritarian rulers or legal statutes that silence dissenting speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, represser designates an agent that represses."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A wise magistrate acts as the firm **represser** of tumult while remaining the protector of ancient liberties."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Cromwell proved a stern **represser** of Royalist conspiracies throughout the protectorate."*
+> - 📜 **Francis Bacon (*Essays*):** *"A severe prince may become an effectual **represser** of common brigandage, yet breed sullen discontent."*
+

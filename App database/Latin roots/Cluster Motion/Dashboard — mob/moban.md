@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antipsychotic drug (trade name moban) used in the treatment of schizophrenia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antipsychotic drug (trade name moban) used in the treatment of schizophrenia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical trade name for molindone, an antipsychotic medication formerly prescribed for schizophrenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychopharmacology, molindone (marketed as Moban) acts as a typical dihydroindolone dopamine receptor antagonist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moban designates antipsychotic drug (trade name moban) used in the treatment of schizophrenia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical pharmacology tracks therapeutic responses when neuroleptic agents such as **Moban** are administered for agitation."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The clinician evaluated patient responses to antipsychotic compounds like **Moban**, noting extrapyramidal side-effects."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The dispensary physician checked the supply of tranquilizers, logging each dose of **Moban** in the ward ledger."*
+

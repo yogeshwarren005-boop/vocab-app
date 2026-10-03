@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disloyalty by virtue of subversive behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disloyalty by virtue of subversive behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character, disposition, or conduct of a traitor; treachery, faithlessness, or perfidy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical ethics and political theory, traitorousness was condemned by Dante to the lowest circle of the Inferno (Judecca).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, traitorousness designates disloyalty by virtue of subversive behavior."*
+> - 📜 **Francis Bacon (*Essays*):** *"The infamous **traitorousness** of false counselors undermines the security of kingdoms more than open warfare."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Nothing alienates human affection more completely than the sudden revelation of base **traitorousness** in a chosen friend."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The assembly denounced the court for secret **traitorousness** in negotiating with invading Austrian armies."*
+

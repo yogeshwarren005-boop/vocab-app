@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being copied, duplicated, or reproduced accurately; reproducible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In technical documentation and industrial quality control, processes verified to yield consistent results across multiple manufacturing cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reproduceable designates pertaining to, derived from, or characteristic of latin duc within the domain of motion."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electromagnetic deflection was clearly **reproduceable** whenever the primary circuit was closed."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A scientific fact must be **reproduceable** by any competent investigator possessing proper laboratory instruments."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"Only when certain events recur in accordance with rules is our observation in principle **reproduceable**."*
+

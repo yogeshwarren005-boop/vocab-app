@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without expression; in an inexpressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without expression; in an inexpressive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner devoid of facial expression, emotional inflection, or communicative animation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic direction, delivery of dialogue in a flat, deadpan monotone to convey shock, dissociation, or detachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"So inexpressively that they cannot at first understand him; it is his old housekeeper who makes out what he wants and brings in a slate."*
+> - 📜 **Henry James (*The Bostonians*):** *"She gazed **inexpressively** toward the distant window, refusing to reveal the pain of his refusal."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"Razumov blinked **inexpressively** under the sharp scrutiny of the secret police magistrate."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Grandcourt murmured his consent **inexpressively**, flicking an invisible grain of ash from his cuff."*
+

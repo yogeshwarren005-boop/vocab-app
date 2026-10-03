@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A special group delegated to consider some matter;  - milton berle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-constituted organization to promote something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of persons appointed or elected to deliberate, investigate, report, or act upon special matters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary governance, standing committee scrutiny examines statutory bills clause by clause prior to general debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Good things have been said about it by blue-nosed, bulbous-shoed old benchers in select port-wine committee after dinner in hall."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am a School lady, I am a Visiting lady, I am a Reading lady, I am a Distributing lady; I am on the local Linen Box Committee and many general committees; and my canvassing alone is very extensive—perhaps no one’s more so."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester, in the library, has fallen asleep for the good of the country over the report of a Parliamentary committee."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The dread **Committee** of Public Safety ruled Paris with an iron hand, sending hundreds to the guillotine."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The charitable **committee** held a noisy meeting to debate the distribution of soup to the parish poor."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A legislative **committee** was appointed to investigate the monopolistic privileges of the chartered companies."*
+

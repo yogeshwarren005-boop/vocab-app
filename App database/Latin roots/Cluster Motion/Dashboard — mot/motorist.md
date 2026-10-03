@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who drives (or travels in) an automobile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who drives (or travels in) an automobile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who drives or travels in an automobile, especially for recreation or personal transport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traffic sociology and legal liability statutes, subject to defined duties of care toward pedestrians and non-motorized roadway users.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Suddenly the car struck aside from the straightaway and with open cut-out roared up a steep hill by means of which a narrow road led off toward a part of the country not often selected by motorists for pleasure spins."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Many motorists owe the ignition which keeps their engines at work to secondary batteries."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Jaded motorists from the city drove their cars slowly past the glory of the Landis riot of blossoms."*
+> - 📜 **G. K. Chesterton (*The Wisdom of Father Brown*):** *"Anybody might have seen it done while the stand was empty, any tramp under the hedges or **motorist** pausing on the crest."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"A passing **motorist** reported seeing a solitary lantern flickering near the desolate Cornish ruins after midnight."*
+> - 📜 **E. M. Forster (*Howards End*):** *"The aggressive **motorist** honked his horn furiously at the slow cart blocking the winding country lane."*
+

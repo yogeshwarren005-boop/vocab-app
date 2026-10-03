@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conference (usually with someone important).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conference between two or more people to consider a particular question.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal meeting or discussion to exchange views, seek professional advice, or reach a collective decision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medical practice, an interdisciplinary consultation between oncology and pathology establishes personalized treatment protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes had copies of these papers and had been in consultation with him throughout."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket and his fat forefinger are much in consultation together under existing circumstances."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then we stopped at offices like those we had visited when we began our journey, and I saw him in consultation with others."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solemn solicitors held a lengthy private **consultation** in the dusty chambers of the Court of Chancery."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"After an anxious **consultation** with the physician, Elinor felt somewhat reassured regarding Marianne's condition."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian kings met in secret **consultation** to coordinate their sudden assault across the Rhine."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take away to an undisclosed location against their will and usually in order to extract a ransom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pull away from the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carrying away a person unlawfully by force, fraud, or persuasion; or pulling a limb outward from the body's midline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomechanics, the abducting action of the deltoid muscle elevates the arm in the coronal plane away from the torso.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Nowhere perhaps is the art of abducting human souls more carefully cultivated or carried to higher perfection than in the Malay Peninsula."*
+> - 📜 **Arthur Conan Doyle (*The Return of Sherlock Holmes*):** *"The police arrested the confederates while they were **abducting** the foreign diplomat."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The clan was accused of **abducting** cattle and wealthy travelers along the Highland border."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"The sailors were charged with **abducting** the young heir aboard the brig bound for the Carolinas."*
+

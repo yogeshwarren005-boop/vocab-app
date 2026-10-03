@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter unlawfully on someone's property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make excessive use of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unlawfully intruding or entering upon the property, rights, or territory of another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In property jurisprudence, ongoing trespassing may ripen into prescriptive easements if unasserted by the title owner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"No trespass on human rights 447:1 The heavenly law is broken by trespassing upon man's individual right of self-government."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"At one time it is a broken treaty, at another the killing of their buffalo, and trespassing upon the hunting-grounds, and again it is some other grievance."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I believe I was trespassing then,” she said; “but I did so unintentionally."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The boys were caught **trespassing** in the haunted house at midnight while searching for buried robber gold."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester Dedlock would prosecute any poacher caught **trespassing** in the Chesney Wold preserves."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Tom warned his impetuous sister that wandering across the squire's meadows was outright **trespassing**."*
+

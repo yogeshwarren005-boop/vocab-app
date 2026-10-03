@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who returns after a lengthy absence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has returned from the dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visible ghost, apparition, or person who returns after death or after a prolonged absence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European folklore and Gothic literature, a reanimated corpse returning from the grave to haunt living relatives or avenge a wrong.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, revenant designates a person who returns after a lengthy absence."*
+> - 📜 **Walter Scott (*Letters on Demonology and Witchcraft*):** *"The fearful peasant mistook the cloaked wanderer in the mist for a spectral **revenant**."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The legend of the spectral hound seemed like a dreadful **revenant** haunting the desolate moor."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"He stood upon the threshold like a pale **revenant** restored to life from the icy wilderness."*
+

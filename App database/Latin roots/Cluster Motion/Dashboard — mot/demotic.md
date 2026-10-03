@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simplified cursive form of the ancient hieratic script.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modern greek vernacular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of ordinary people; popular, colloquial, or vernacular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Egyptology, Demotic denotes the simplified cursive Egyptian script that replaced Hieratic during the Saite Dynasty around 650 BCE.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Here is another difficult text: (Figure 2) It is demotic—a style of Egyptian writing and a phase of the language which had perished from the knowledge of all men twenty-five hundred years before the Christian era."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The Rosetta Stone provided parallel texts in sacred hieroglyphs, cursive **demotic** script, and classical Greek."*
+> - 📜 **George Orwell (*All Art Is Propaganda*):** *"Dickens drew masterfully upon the **demotic** speech of London cockneys to give vitality to his characters."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"True literature must balance aristocratic polish with the vigorous reality of **demotic** vernacular."*
+

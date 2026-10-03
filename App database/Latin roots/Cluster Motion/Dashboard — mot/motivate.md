@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an incentive for action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give an incentive for action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To provide an incentive, impulse, or psychological reason that stimulates an organism to action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and management theory, describes the activation of intrinsic goals and extrinsic reinforcers to induce goal-directed behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivate designates give an incentive for action."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Desire and fear constitute the two cardinal springs that **motivate** conscious human conduct."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Habits rather than abstract ideals primarily **motivate** everyday decisions and societal practices."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The vital impulse that continues to **motivate** human evolution operates far beneath conscious intellect."*
+

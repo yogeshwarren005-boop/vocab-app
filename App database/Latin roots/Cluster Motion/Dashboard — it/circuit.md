@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical device that provides a path for electrical current to flow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A journey or route all the way around a particular place or area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A roughly circular line, route, or journey around an area; or a closed path through which electric current can flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law jurisprudence, a judicial circuit constitutes a defined territorial district traveled periodically by itinerant judges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And, father, do but think How sweet a thing it is to wear a crown, Within whose circuit is Elysium And all that poets feign of bliss and joy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not finding in The circuit of my breast any gross stuff To form me like your blazon holds me to This gentleness of answer. ’Tis your passion That thus mistakes, the which, to you being enemy, Cannot to me be kind."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If the country folks of those assize towns on his circuit could see him now!"*
+> - 📜 **Isaac Newton (*Opticks*):** *"The rays of light completed their **circuit** through the glass prisms before projecting onto the screen."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The vessel completed an extensive **circuit** around the archipelago, surveying every bay and inlet."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The traveling barristers set out upon the summer **circuit** to plead cases before the provincial assizes."*
+

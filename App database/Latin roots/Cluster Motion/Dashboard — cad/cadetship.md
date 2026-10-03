@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of cadet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of cadet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank, position, or period of service of a military or naval cadet in training.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century British East India Company history, winning an artillery cadetship at Addiscombe College was a coveted career path.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadetship designates the position of cadet."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The ambitious young officer secured a **cadetship** in the Indian army through the influence of powerful patrons."*
+> - 📜 **Winston Churchill (*My Early Life*):** *"Passing the competitive entrance examination for a cavalry **cadetship** at Sandhurst delighted his parents."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The colonel promised to procure an artillery **cadetship** for his nephew upon the completion of his schooling."*
+

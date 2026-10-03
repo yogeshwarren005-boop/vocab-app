@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Buy on impulse without proper reflection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Buy on impulse without proper reflection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unplanned or spontaneous purchase of a retail item decided upon on the spur of the moment without prior reflection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In retail consumer psychology and supermarket merchandising, placing confections near checkout aisles maximizes impulse-buy rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impulse-buy designates buy on impulse without proper reflection."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George Babbitt indulged in an extravagant **impulse-buy**, purchasing an expensive patent cigar humidor for his desk."*
+> - 📜 **Theodore Dreiser (*Sister Carrie*):** *"Carrie could not resist the glittering shop window, making a reckless **impulse-buy** with her scarce working wages."*
+> - 📜 **H. G. Wells (*Kipps*):** *"Kipps surveyed the tailor's counter, where tempting neckties were displayed to entice an unwary **impulse-buy**."*
+

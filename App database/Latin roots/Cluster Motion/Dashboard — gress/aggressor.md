@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who attacks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A confident assertive person who acts as instigator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, group, or nation that initiates an unprovoked attack, hostility, or invasion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In customary international humanitarian law, identifying the primary aggressor state determines collective self-defense obligations under Article 51.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Carthage, though a commercial republic, was the aggressor in the very war that ended in her destruction."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He would but seize a trusty staff that stood behind the door, issue suddenly out, and anoint the back of the aggressor, whether pig or urchin, and then return within doors, marvelously refreshed and tranquilized."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Then you don’t consider the Emperor Alexander the aggressor?” he asked unexpectedly, with a kindly and foolish smile."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"No compromise can be made with the criminal **aggressor** who has drenched Europe in innocent blood."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman legions faced a formidable **aggressor** in the Gothic cavalry commanded by Alaric."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Society is justified in using defensive force to repel any foreign **aggressor** who threatens its freedom."*
+

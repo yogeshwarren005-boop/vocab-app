@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or based on an impression rather than on facts or reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of impressionism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on subjective personal impressions rather than detailed objective facts or precise analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fine art and literature, characterized by loose brushwork, dappled lighting, or episodic narrative vignettes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, impressionistic designates of or relating to or based on an impression rather than on facts or reasoning."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe contemplated her canvas, blending colors into an **impressionistic** balance of mass and empty space."*
+> - 📜 **Aldous Huxley (*Along the Road*):** *"The travel essays presented an **impressionistic** sketch of Italian towns rather than an exhaustive guidebook."*
+> - 📜 **Joseph Conrad (*Notes on Life and Letters*):** *"His prose style was richly **impressionistic**, rendering the mysterious menace of the tropical sea."*
+

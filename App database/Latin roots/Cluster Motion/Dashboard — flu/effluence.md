@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of flowing out.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of flowing out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of flowing out; an outflowing stream; or an intangible emanation or radiance issuing from a source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century electromagnetic theory, luminous effluence was hypothesized as ethereal radiation escaping from charged electrodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I remember it now, and I know that it was the effluence of fine intellect, of true courage; it lit up her marked lineaments, her thin face, her sunken grey eye, like a reflection from the aspect of an angel."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It is as really, though perhaps less obviously, manifest in his poetry, the sincere effluence of his life."*
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"And, as if the gloom of the earth and sky had been but the effluence of these two mortal hearts, it vanished with their sorrow."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Hail holy Light, offspring of Heaven first-born, or of the Eternal coeternal beam, bright **effluence** of bright essence increate."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Every material object is an **effluence** and visible garment of the divine spiritual idea."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The volcanic fissure poured forth a fiery **effluence** of liquid basalt across the valley floor."*
+

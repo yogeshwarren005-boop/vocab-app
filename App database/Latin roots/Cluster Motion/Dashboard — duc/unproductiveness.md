@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of lacking the power to produce.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lacking the power to produce.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of productive yield, fertility, or generative power in soil, enterprise, or intellect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agrarian geography, chronic unproductiveness of arid or saline lands requiring soil remediation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unproductiveness designates the quality of lacking the power to produce."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The natural **unproductiveness** of high mountainous tracts condemns their inhabitants to pastoral subsistence."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The apparent **unproductiveness** of basic scientific research masks its immense long-term industrial utility."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The grim **unproductiveness** of Egdon Heath defied all attempts by agricultural improvers to plow its furze."*
+

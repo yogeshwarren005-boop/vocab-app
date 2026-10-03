@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert who gives advice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert who gives advice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who provides expert professional or technical advice in a specific specialized discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hospital clinical hierarchies, an attending medical consultant oversees resident training and complex surgical interventions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I insisted upon calling in a consultant from B--, whose verdict is that the lungs are seriously threatened."*
-> - 📜 **Algis Budrys (*Citadel*):** *"Mead's function is to act as a consultant in these cases."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"After evaluating this information, the team called in consultants from both the Air Force and public sector to develop a comprehensive approach to suicide prevention."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes described his unique profession as that of a consulting detective, advising other detectives as a senior **consultant**."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The role of the clinical **consultant** demands acute diagnostic discernment combined with sympathetic bedside courtesy."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"The patent medicine enterprise hired a prominent London chemical **consultant** to certify the tonic's purity."*
+

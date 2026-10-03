@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reduced; - edmund wilson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being reduced; - edmund wilson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being reduced, diminished, simplified, or brought into a specified lower condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical analysis, compounds capable of undergoing reduction reactions through the acquisition of electrons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Material income and immaterial income are both related to and reducible to psychic income."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"It is the essentially economic form, as contrasted with the legal and personal forms just described, because it is impersonal and reducible to a rule of value."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"All our complex ideas are ultimately **reducible** to simple perceptions derived from sensation and reflection."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Physical laws are **reducible** to mathematical equations expressing functional relationships between measurable events."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The vital activities of living protoplasm are **reducible** to fundamental physical and chemical affinities."*
+

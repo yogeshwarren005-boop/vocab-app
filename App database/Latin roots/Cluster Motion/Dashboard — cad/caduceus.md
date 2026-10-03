@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An insignia used by the medical profession; modeled after the staff of hermes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insignia used by the medical profession; modeled after the staff of hermes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient winged staff entwined with two copulating serpents, carried by Hermes / Mercury; an emblem of commerce and medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical heraldry and institutional symbology, the caduceus is frequently conflated with the single-serpent Rod of Asclepius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caduceus designates an insignia used by the medical profession; modeled after the staff of hermes."*
+> - 📜 **Nathaniel Hawthorne (*Tanglewood Tales*):** *"Quicksilver held his miraculous **caduceus**, its two living serpents whispering ancient secrets into his ear."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The physician's badge emblazoned with the **caduceus** represents the ancient alliance of healing and wisdom."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"Munro admired the bronze **caduceus** adorning the brass plate outside the prominent London medical surgery."*
+

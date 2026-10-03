@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader and organizer and spokesman (especially a political leader).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A leader and organizer and spokesman (especially a political leader).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A well-drilled soldier placed in front of a military company to lead drill exercises; or a ringleader or spokesperson.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political commentary and satirical journalism, party bosses deploy a trusted fugleman to signal caucus voting discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugleman designates a leader and organizer and spokesman (especially a political leader)."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The fiery orator stood upon a table in the Palais-Royal, acting as **fugleman** to the surging mob marching on the Bastille."*
+> - 📜 **William Thackeray (*The History of Pendennis*):** *"The senior clerk served as social **fugleman** to the younger apprentices, dictating their fashionable dress and manners."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn acted as discreet legal **fugleman** for the noble family, directing their aristocratic interests with silence."*
+

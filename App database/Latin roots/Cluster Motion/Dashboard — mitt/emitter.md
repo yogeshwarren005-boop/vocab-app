@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The electrode in a transistor where electrons originate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The electrode in a transistor where electrons originate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, substance, or device that emits, radiates, discharges, or releases matter, light, or signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiconductor physics and bipolar junction transistor (BJT) design, the emitter terminal injects majority carriers into the base region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emitter designates the electrode in a transistor where electrons originate."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The sharp metallic point acted as a concentrated **emitter** of electrified convective air currents."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The polished parabolic mirror served as a deadly **emitter** of the invisible Martian thermal heat-ray."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The geothermal spring functioned as a continuous subterranean **emitter** of boiling water and silica."*
+

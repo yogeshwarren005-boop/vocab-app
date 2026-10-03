@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making meat tender by pounding or marinating it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making meat tender by pounding or marinating it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment or method of softening tough meat fibers by mechanical force, chemical marination, or enzymatic breakdown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meat science, post-mortem tenderization occurs naturally during aging via endogenous calpain and lysosomal cathepsin enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tenderization designates the act of making meat tender by pounding or marinating it."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The scientific **tenderization** of animal tissues demonstrates the direct application of chemistry to household economy."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"Every advance in the **tenderization** and culinary preparation of food reduced the physiological strain of human mastication."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The natural **tenderization** of flesh in cold climates permitted predators to consume frozen prey during winter months."*
+

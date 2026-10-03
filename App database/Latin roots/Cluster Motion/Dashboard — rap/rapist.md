@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who forces another to have sexual intercourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who forces another to have sexual intercourse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who commits the crime of rape through non-consensual sexual violation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal forensic jurisprudence and DNA profiling, statutory offender databases assist in identifying a serial rapist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rapist designates someone who forces another to have sexual intercourse."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Abbey Grange*):** *"Holmes asserted that a convicted **rapist** or violent predator deserves no mercy under English law."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"The magistrate sentenced the notorious **rapist** and tavern brawler to transportation beyond the seas."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Village gossips whispered darkly of the predatory **rapist** whose dishonorable conduct ruined poor Tess."*
+

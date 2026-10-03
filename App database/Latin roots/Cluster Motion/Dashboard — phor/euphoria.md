@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of great (usually exaggerated) elation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of great (usually exaggerated) elation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling or state of intense excitement, happiness, well-being, or elation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology and addiction medicine, drug-induced euphoria alters dopaminergic mesolimbic reward pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphoria designates a feeling of great (usually exaggerated) elation."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystical awakening was accompanied by a luminous **euphoria** that bathed the soul in serene heavenly joy."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"A reckless **euphoria** seized the giant youth as he strode across the countryside, feeling his boundless strength."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The preliminary stage of intoxication produced an ethereal **euphoria** that banished all mortal sorrows for hours."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tendentious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tendentious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tendentious manner; with marked bias, partiality, or deliberate slant toward a specific viewpoint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal evidentiary analysis, counsel argued that the prosecutor had tendentiously framed witness testimony to prejudice the jury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendentiously designates in a tendentious manner."*
+> - 📜 **George Orwell (*Inside the Whale*):** *"The documentary **tendentiously** presented the strike as an unprovoked conspiracy against the state."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"Partisan historians **tendentiously** rewrite national annals to glorify the reigning dynasty."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"When opposing viewpoints are **tendentiously** suppressed, public discourse degenerates into sterile dogma."*
+

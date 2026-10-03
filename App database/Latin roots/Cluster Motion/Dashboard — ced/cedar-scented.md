@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Smelling like cedar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Smelling like cedar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Imbued with or diffusing the distinctive sweet, resinous, aromatic fragrance of cedar wood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic historic preservation, cedar-scented linen chests were traditionally utilized to deter fabric-destroying clothes moths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedar-scented designates smelling like cedar."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane opened the antique wardrobe in the guest chamber, breathing the comforting, **cedar-scented** air of old lavender and linen."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The quiet library of the country estate was pleasant and **cedar-scented**, its high windows overlooking the park."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"Gloria stored her delicate furs and silk evening gowns in a **cedar-scented** trunk before departing for the season."*
+

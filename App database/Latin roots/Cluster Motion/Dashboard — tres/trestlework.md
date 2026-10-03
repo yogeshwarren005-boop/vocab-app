@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supporting structure composed of a system of connected trestles; for a bridge or pier or scaffold e.g.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supporting structure composed of a system of connected trestles; for a bridge or pier or scaffold e.g.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An open braced framework or interconnected system of trestles, such as that used to support a bridge, viaduct, or scaffolding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil infrastructure history, extensive timber trestlework allowed rapid railroad expansion across rugged mountainous terrain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trestlework designates a supporting structure composed of a system of connected trestles; for a bridge or pier or scaffold e.g."*
+> - 📜 **Theodore Dreiser (*The Titan*):** *"Heavy locomotives rattled across the elevated iron **trestlework** carrying commuter lines into the heart of Chicago."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The strikers gathered beneath the massive railroad **trestlework** where the industrial freight cars were marshaled."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"Damp mists clung to the towering wooden **trestlework** of the stockyard runways that spanned the pens."*
+

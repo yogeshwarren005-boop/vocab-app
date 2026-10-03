@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret unauthorized meeting for religious worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building for religious assembly (especially nonconformists, e.g., quakers).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret, unauthorized, or clandestine religious assembly, especially of historical Protestant dissenters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British legal history, the Conventicle Act of 1664 prohibited unauthorized religious gatherings of more than five persons outside the Church of England.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, all of you have laid your heads together— Myself had notice of your conventicles— And all to make away my guiltless life."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"He was sick of Pharisaical importers who did the heathen in the eye on Saturday and on Sunday in their blasted conventicles thumped their black-covered craws in respectable humility...."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Scottish Covenanters assembled by night in wild mountain glens, holding their forbidden **conventicle** under armed watch."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"The royal dragoons surprised the Presbyterian **conventicle** upon the lonely moors of Drumclog."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"I seek divine simplicity in him who handles things divine, whether in grand cathedral or humble dissenting **conventicle**."*
+

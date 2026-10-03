@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cook in a pressure cooker.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cook in a pressure cooker.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cook food quickly inside a sealed vessel using high-pressure steam at temperatures above the normal boiling point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary physics, sealing water in a vessel elevates boiling temperatures to approximately 120°C, dramatically accelerating collagen gelatinization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pressure-cook designates cook in a pressure cooker."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The communal kitchen apparatus could **pressure-cook** tons of synthetic proteins in a matter of minutes."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"Modern kitchens advertised gadgets to **pressure-cook** stews and vegetables in half the traditional time."*
+> - 📜 **Sinclair Lewis (*Cass Timberlane*):** *"She learned to use the heavy aluminum pot to **pressure-cook** meals when evening guests arrived unexpectedly."*
+

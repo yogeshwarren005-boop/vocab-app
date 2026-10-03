@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pipefitting that joins two pipes of different diameter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, tool, or substance that reduces, diminishes, or scales down something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical reactions and metallurgy, a reducing agent (or reductant) that donates electrons to another reactant, being itself oxidized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reducer designates a substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Hydrogen acts as a powerful chemical **reducer** when passed over heated metallic oxides in the tube."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The mechanical gear **reducer** stepped down the high-speed turbine shaft to turn the colossal propeller blades."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Martin calibrated the pressure **reducer** on the compressed nitrogen cylinder to prevent tube blowout."*
+

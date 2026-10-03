@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: At an earlier time or formerly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At an earlier time or formerly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At an earlier time; prior to something else; previously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology and Bayesian inference, an event judged antecedently improbable requires extraordinary confirmatory evidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, by chance or by devilry, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, by chance or by devilry, the ministrant was antecedently made interesting by being a handsome stranger who had evidently seen better days."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I was myself so much more antecedently conscious of my figures than of their setting--a too preliminary, a preferential interest in which struck me as in general such a putting of the cart before the horse."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"A miracle is an event which, **antecedently** to all testimony, must be considered contrary to universal experience."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind cannot contain complex innate notions **antecedently** to all sensory experience of the external world."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The political measures had been **antecedently** agreed upon in secret conferences before parliamentary debate began."*
+

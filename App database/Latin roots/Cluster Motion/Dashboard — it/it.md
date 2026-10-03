@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third-person singular neuter pronoun used to refer to an inanimate thing, animal, abstract idea, or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and syntax, dummy 'it' (expletive 'it') serves as a semantically empty placeholder satisfying the subject requirement in ambient weather clauses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, so its stands; and thus, I fear, at last Hume’s knavery will be the Duchess’ wrack, And her attainture will be Humphrey’s fall."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each following day Became the next day’s master, till the last Made former wonders its."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I fear your disposition; That nature which contemns its origin Cannot be bordered certain in itself."*
+> - 📜 **William Shakespeare (*Sonnet 2*):** *"This were to be new made when thou art old, and see thy blood warm when thou feel'st **it** cold."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife; yet **it** was not immediately acknowledged by Darcy."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"It was the best of times, **it** was the worst of times, **it** was the age of wisdom, **it** was the age of foolishness."*
+

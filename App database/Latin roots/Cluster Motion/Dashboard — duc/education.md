@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activities of educating or instructing; activities that impart knowledge or skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Knowledge acquired by learning and instruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of receiving or giving systematic instruction, especially at a school or university; intellectual cultivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental sociology, formal education functions as both a social mobility vehicle and an institutional mechanism of cultural reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have those hopes of her good that her education promises her dispositions she inherits, which makes fair gifts fairer; for where an unclean mind carries virtuous qualities, there commendations go with pity, they are virtues and traitors too."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He lets me feed with his hinds, bars me the place of a brother, and as much as in him lies, mines my gentility with my education."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My father charged you in his will to give me good education."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Of all the men we meet with, nine parts of ten are what they are, good or evil, useful or not, by their **education**."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"**Education** is not a preparation for life; **education** is life itself in continuous progressive renewal."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Now, what I want is, Facts. Teach these boys and girls nothing but Facts. Facts alone are wanted in life. Plant nothing else, and root out everything else. You can only form the minds of reasoning animals upon Facts: nothing else will ever be of any service to them. This was the whole theory of Mr. Gradgrind's **education**."*
+

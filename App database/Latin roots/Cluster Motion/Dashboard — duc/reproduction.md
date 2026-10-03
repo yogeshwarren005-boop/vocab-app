@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of generating offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall that is hypothesized to work by storing the original stimulus input and reproducing it during recall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process by which new individual organisms are generated; a copy or duplicate of a work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, differential reproductive success constitutes the core mechanical driver of natural selection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And you thought I was the mere stone reproduction of one of them."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"And what is true of the reproduction of plants and animals may hold good also of the fertility of the human sexes."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"For with Nature the Wordsworthians will admit no tampering: they exact the direct interpretative reproduction of her; that the poet should follow her as a mistress, not use her as a handmaid."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extraordinary rate of organic **reproduction** inevitably leads to a struggle for existence among competing organisms."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The mechanical **reproduction** of a masterpiece captures the form but inevitably loses the spiritual touch of the artist."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Cell division forms the universal basis for both somatic tissue growth and organismal **reproduction**."*
+

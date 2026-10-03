@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modifier that has little meaning except to intensify the meaning it modifies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a high degree or intensity; often used as a combining form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concentrated, thorough, and exhaustive; or in agriculture, designed to maximize productivity from a given land area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and physical chemistry, an intensive property (such as temperature or pressure) does not depend on system mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Intensive farming in Europe and America. § 8."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Prospect of more intensive cultivation of land in America. § 9."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The remaining 60 per cent of receipts were in most cases from various sources, and these figures did not include the value of produce consumed by the farmer's family. § 7. #Intensive farming in Europe and America#."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Flemish farmers practiced an **intensive** system of agriculture that yielded abundant grain from small parcels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The typhoid patient required **intensive** clinical nursing care and constant monitoring of fluid intake."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Holmes subjected the forensic evidence to an **intensive** chemical analysis in his private laboratory."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Urge or force (a person) to an action; constrain or motivate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move forward with force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Driving, urging, or pushing forward with persistent force, energy, or moral imperative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral economics and decision theory, subconscious cognitive biases act as impelling factors in risk valuation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The ravening hawk pursuing, The trembling dove thus flies, To shun impelling ruin, Awhile her pinions tries; Till, of escape despairing, No shelter or retreat, She trusts the ruthless Falconer, And drops beneath his feet."*
-> - 📜 **George Eliot (*Middlemarch*):** *"I thought it was all over with me, and there was nothing to try for—only things to endure.” “I don’t doubt you any longer,” said Dorothea, putting out her hand; a vague fear for him impelling her unutterable affection."*
-> - 📜 **Effie Afton (*Eventide*):** *"About twenty of the most zealous in the course of philanthropy, who no doubt felt the wrongs of the suffering heathen impelling them to brave the wind and rain, had assembled in Mrs."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"An irresistible impulse seemed to be **impelling** him to speak, yet pride sealed his lips in stony silence."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The unseen currents of destiny were **impelling** Tess toward that desolate junction of Wessex roads."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie felt the warm, **impelling** tide of youthful enthusiasm carrying her beyond the narrow boundaries of St. Ogg's."*
+

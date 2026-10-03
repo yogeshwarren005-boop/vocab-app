@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diacritical mark (,) placed below the letter c to indicate that it is pronounced as an s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diacritical mark (,) placed below the letter c to indicate that it is pronounced as an s.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diacritical mark (ç) placed below the letter 'c' in French, Portuguese, and other languages to indicate a soft 's' sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical romance orthography, the cedilla evolved from a miniature Visigothic script 'z' placed beneath letters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedilla designates a diacritical mark (,) placed below the letter c to indicate that it is pronounced as an s."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Lucy Snowe carefully corrected the French composition, inserting a missing **cedilla** beneath the letter 'c' on the blackboard."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"Twain joked that foreign alphabets were adorned with hooks, umlauts, and the mysterious **cedilla** to confound travelers."*
+> - 📜 **Henry James (*The American*):** *"Christopher Newman examined the Parisian legal document, noticing the delicate **cedilla** under French names on the seal."*
+

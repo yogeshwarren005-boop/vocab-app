@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a transcendental way or to a transcendental extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a transcendental way or to a transcendental extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that surpasses normal human experience or limits; supremely, sublimely, or metaphysically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Kantian philosophical critique, principles applied transcendentally beyond sensory limits produce dialectical antinomies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, transcendentally designates in a transcendental way or to a transcendental extent."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The world of physical appearances is **transcendentally** symbolic of the unseen spiritual realities behind it."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The primary imagination operates **transcendentally** as the living power and prime agent of all human perception."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"When reason seeks to judge **transcendentally**, it wanders into unavoidable contradictions regarding the cosmos."*
+

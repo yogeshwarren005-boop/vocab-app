@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that propels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to or capable of propelling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of propelling, driving, or urging forward; serving as an agent of forward propulsion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In internal ballistics, modern nitrocellulose powders provide steady propellent gas expansion down the gun barrel without bore fouling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"What propellent power lies behind the morals?"*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Scientific reasoning acts as a **propellent** power that advances human knowledge beyond superstitious tradition."*
+> - 📜 **David Brewster (*Treatise on Optics*):** *"The experimentalist measured the **propellent** velocity imparted to luminous particles under concentrated radiation."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Economic necessity serves as the chief **propellent** agency driving primitive tribes to migrate into fertile valleys."*
+

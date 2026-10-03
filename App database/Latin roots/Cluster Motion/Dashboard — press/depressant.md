@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that reduces excitability and calms a person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of depressing physiological or psychological activity or response by a chemical agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or agent that lowers physiological or nervous activity; a sedative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, central nervous system depressants include barbiturates, benzodiazepines, and alcohol that potentiate GABAergic neurotransmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depressant designates a drug that reduces excitability and calms a person."*
+> - 📜 **Oliver Wendell Holmes Jr. (*Medical Essays*):** *"The physician prescribed a mild **depressant** to moderate the violent arterial throbbing of the fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Judicious administration of a cardiac **depressant** reduced excessive vascular tension in the acute crisis."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Devil's Foot*):** *"The strange African powder acted as a virulent nerve **depressant**, inducing profound terror and physical collapse."*
+

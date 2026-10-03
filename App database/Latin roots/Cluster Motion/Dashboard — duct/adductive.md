@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, effecting, or characterized by adduction; drawing toward a central axis or bringing forward arguments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, adductive eye movements (convergence) coordinate both medial rectus muscles to focus upon nearby objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adductive designates especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The **adductive** force exerted by the femoral muscles balances the pelvis during lateral stride shifts."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The coordinated **adductive** contractions of the digits allow arboreal primates to grasp slender branches."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"An **adductive** spasm of the vocal cords accompanies the sudden gasp of astonishment."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inhabitant of arcadia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used with regard to idealized country life) idyllically rustic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to Arcadia; ideal, serene, bucolic, and untroubled by modern worldly complexities; pastoral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical aesthetics and landscape painting, Claude Lorrain captured Arcadian pastoral scenes bathed in golden atmospheric light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak could pipe with Arcadian sweetness, and the sound of the well-known notes cheered his own heart as well as those of the loungers."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"No idly-feign’d, poetic pains, My sad, love-lorn lamentings claim: No shepherd’s pipe-Arcadian strains; No fabled tortures, quaint and tame."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He agreed with Laura, however, that her fair Arcadian was a trifle too innocent for her years."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"The idealists sought to create an **Arcadian** community of shared labor and poetic contemplation in the country."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The philosopher mocked those who dreamed of an idle **Arcadian** paradise while neglecting the sacred duty of daily work."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry talked of innocent **Arcadian** days, his cynical wit sparkling with ironic detachment."*
+

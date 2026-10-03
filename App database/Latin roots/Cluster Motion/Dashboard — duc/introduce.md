@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to come to know personally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring something new to an environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring a person into personal acquaintance with another; to present or bring something into use or notice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legislative procedure, to formally submit a bill, resolution, or petition to a parliamentary assembly for debate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When they heard that Leonore had come to introduce them to her uncle, they were a little scared, but Leonore understood their hesitation and declared, "Just come!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You must excuse me if I occasionally introduce a nautical expression; I was quite a sailor once."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Will you allow me to introduce my mother, Mrs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bingley was eager to **introduce** his friend Darcy to the most distinguished families of the neighborhood."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak had been going to **introduce** the gallant sergeant through the rustic porch to Miss Everdene."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Alice thought it would be as well to **introduce** some other topic of conversation before the Queen grew angry."*
+

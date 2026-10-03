@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking an ability to move.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking an ability to move.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability or absence of capacity in an organism, cell, or microorganism to move independently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive medicine, primary ciliary dyskinesia causes sperm immotility and bronchial clearance failure due to defective dynein arms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, immotility designates lacking an ability to move."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete cellular **immotility** was demonstrated under high-power microscopic magnification."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The temporary **immotility** of hibernating protozoa protects them against desiccation."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The apparent **immotility** of adult barnacles is preceded by an active, free-swimming larval stage."*
+

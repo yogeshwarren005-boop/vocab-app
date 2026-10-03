@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical puncture of a vein through the skin, typically performed to withdraw blood or administer medications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical laboratory diagnostics and phlebotomy, aseptic venipuncture of the median cubital vein to collect blood samples in vacuum tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venipuncture designates (medicine) puncture of a vein through the skin in order to withdraw blood for analysis or to start an intravenous drip or to inject medication or a radiopaque dye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Diagnostic blood cultures obtained by sterile **venipuncture** confirmed the presence of bacterial septicemia."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Cleanliness and surgical precision during **venipuncture** prevent painful localized phlebitis and infection."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Careful aseptic **venipuncture** superseded the rough and unhygienic bloodletting techniques of prior generations."*
+

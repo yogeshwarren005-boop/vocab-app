@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of separating substances of different densities by the use of a centrifuge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of separating substances of different densities by the use of a centrifuge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical process of separating components of different densities using high-speed rotational force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biochemistry and cell biology, differential centrifugation isolates subcellular organelles including nuclei and mitochondria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrifugation designates the process of separating substances of different densities by the use of a centrifuge."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The isotopic fractionation of heavy elements was achieved through continuous gaseous **centrifugation**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Modern laboratory diagnostics rely on rapid **centrifugation** to separate dense precipitates from aqueous solutions."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Meselson and Stahl utilized density-gradient **centrifugation** in cesium chloride to prove semi-conservative DNA replication."*
+

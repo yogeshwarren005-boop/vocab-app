@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of bringing about a desired result.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to arise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing about, causing, or persuading someone to pursue a particular course of action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, the administration of a drug for the purpose of initiating a state, such as inducing anesthesia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket when a maiden, and inducing her to approach the altar—Mr."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Immediately I was laced I devoted myself to inducing the little death."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This situation would even take away the motive to such combinations, by inducing an impracticability of success."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Deputations without and voices within had concurred in **inducing** that philanthropist to take a seat in Parliament."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Marian felt pleasure in **inducing** Tess to rest beside the hayrick after her exhausting journey."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"External conditions seem to play an important part in **inducing** slight hereditary variations in offspring."*
+

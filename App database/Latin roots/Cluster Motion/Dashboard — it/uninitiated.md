@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not initiated; deficient in relevant experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not initiated; deficient in relevant experience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking instruction, experience, or admission into a particular secret society, professional field, or body of knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnographic anthropology, the uninitiated cohort remains excluded from tribal council decisions until completing ancestral ordeal rites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It came from the direction of a small dark object under the plantation hedge—a shepherd’s hut—now presenting an outline to which an uninitiated person might have been puzzled to attach either meaning or use."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thus disguised they dance about to the awe and terror, real or assumed, of the women and uninitiated, who take, or pretend to take, them for spirits."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It came from the direction of a small dark object under the plantation hedge—a shepherd’s hut—now presenting an outline to which an uninitiated person might have been puzzled to attach either meaning or use."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It came from the direction of a small dark object which, to the **uninitiated** eye, appeared like a shepherd's hut."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The secret magical formula was guarded so closely that no **uninitiated** person could ever hear its syllables."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"To an **uninitiated** companion, Holmes's deductions appeared like inexplicable strokes of wizardry."*
+

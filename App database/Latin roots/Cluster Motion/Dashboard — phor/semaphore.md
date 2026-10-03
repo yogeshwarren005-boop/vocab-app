@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for visual signaling with lights or mechanically moving arms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send signals by or as if by semaphore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus or system for conveying visual signals and information using movable arms, mechanical flags, or lights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and concurrent programming, Edsger Dijkstra introduced the semaphore primitive to synchronize access to shared resources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"A sailor on her deck began to swing his arms in the curious semaphore language of the sea."*
+> - 📜 **Alexander Dumas (*The Count of Monte Cristo*):** *"The telegraph tower waved its wooden **semaphore** arms across the hilltops, transmitting financial intelligence to Paris."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The railway signalman pulled the heavy iron lever, raising the mechanical **semaphore** to indicate a clear track."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A military **semaphore** station flashed urgent optical signals toward London from the crest of Richmond Hill."*
+

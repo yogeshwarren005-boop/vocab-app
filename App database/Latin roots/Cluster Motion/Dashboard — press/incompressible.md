@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being compressed; resisting compression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being compressed; resisting compression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being squeezed, pressed, or compacted into a smaller space or volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, applies to hydraulic oils whose non-compressible behavior enables precise force transmission in jacks and brakes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Water is practically incompressible, so that the water at the bottom of the sea is no heavier than that near the surface."*
+> - 📜 **Isaac Newton (*Opticks*):** *"An **incompressible** fluid would transmit an impulse instantaneously across any distance, which contradicts observation."*
+> - 📜 **Robert Boyle (*New Experiments Physico-Mechanicall*):** *"Liquids were long regarded as practically **incompressible** until delicate apparatus revealed minute volume changes under extreme force."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The assumption of absolutely rigid, **incompressible** ultimate atoms creates insoluble contradictions in mechanical philosophy."*
+

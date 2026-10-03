@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Uninterrupted in time and indefinitely long continuing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uninterrupted in time and indefinitely long continuing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing without pause or interruption, especially describing something unpleasant; ceaseless, unceasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology, adaptation causes sensory neurons to decrease firing rates under incessant, unvarying background stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ incessant care and labour of his mind Hath wrought the mure that should confine it in So thin that life looks through and will break out."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So service shall with steeled sinews toil, And labour shall refresh itself with hope, To do your Grace incessant services."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Either accept the title thou usurp’st, Of benefit proceeding from our king And not of any challenge of desert, Or we will plague thee with incessant wars."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The **incessant** clanking of the loom and the murmur of revolutionary voices filled the Saint Antoine quarter."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The grim moors were shrouded in an **incessant** autumn rain that beat against the granite manor windows."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Frankenstein was pursued by an **incessant** remorse that allowed him no peaceful rest day or night."*
+

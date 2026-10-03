@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinguishing feature of your personal nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinguishing feature of your personal nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinguishing quality, characteristic, or inherited feature of a person, animal, plant, or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantitative genetics and genomics, a quantitative trait locus (QTL) identifies a genomic region associated with variation in a phenotypic trait.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She knew how high his standard of honor was, but how would he end if his unfortunate trait gained more ascendancy over him?"*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Thiers, _Traité des Superstitions_*[5] (Paris, 1741), i. 302 _sq._; Eugène Cortet, _Essai sur les Fêtes Religieuses_ (Paris, 1867), pp. _266 sq._ [643] J.B."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester, but found none: no trait, no turn of expression announced relationship."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Any slight useful **trait** occurring in an organism will tend to be preserved through natural selection."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea possessed a noble **trait** of mind that saw beyond petty provincial conventionalities."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The wild simplicity of the woodchopper was a rare **trait** in that sophisticated age."*
+

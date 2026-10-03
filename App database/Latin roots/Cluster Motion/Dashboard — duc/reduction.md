@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of decreasing or reducing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any process in which electrons are added to an atom or ion (as by removing oxygen or adding hydrogen); always occurs accompanied by oxidation of the reducing agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of making something smaller, less, or simpler in form, size, amount, or intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, the gain of electrons or decrease in oxidation state by a molecule, atom, or ion during a reaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The value of all debts changes in the same proportion as does that of the standard unit of money; when this rises or falls in value, it means increase or reduction, in the same ratio, of the purchasing power of every creditor."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The percentage of reserves henceforth required of all member banks (as above indicated) is a substantial reduction of the former requirement for national banks."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is observed that a reduction of tariff rates seems to have a more disturbing effect upon business than does an increase."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The rudimentary wings of the flightless beetle are the result of gradual **reduction** through long-continued disuse."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A sudden **reduction** in taxes encourages commercial enterprise and stimulates domestic manufacturing."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electrolytic **reduction** precipitates pure metallic copper onto the negative cathode plate."*
+

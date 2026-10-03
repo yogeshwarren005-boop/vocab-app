@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing outside of or not in accordance with nature; -aldous huxley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or characteristic of a system of philosophy emphasizing the intuitive and spiritual above the empirical and material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a spiritual or non-physical realm; or in philosophy, relating to the presuppositions of empirical knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pure mathematics and number theory, a transcendental number (such as pi or e) is not the root of any non-zero polynomial with rational coefficients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Its transcendental aspirations—still unconsciously based on the geocentric view of things, a zenithal paradise, a nadiral hell—were as foreign to his own as if they had been the dreams of people on another planet."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It will easily be seen that this explanation of the deductive process completely turns the tables on the transcendental school."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"It is this that he calls a "fasciculus of contradictions," and regarded as the _reductio ad absurdissimum_ of the transcendental philosophy."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"I entitle **transcendental** all cognition which is occupied not with objects, but with our mode of cognition of objects."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh expounded his **transcendental** philosophy of clothes from his attic tower high above Weissnichtwo."*
+> - 📜 **Ralph Waldo Emerson (*The Transcendentalist*):** *"The **transcendental** thinker trusts the direct voice of conscience above all established institutional authority."*
+

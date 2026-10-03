@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sixth of the seven canonical hours of the divine office; early evening; now often made a public service on sundays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anglican church) a daily evening service with prayers prescribed in the book of common prayer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A service of evening prayer or worship in the Christian church, especially in the Anglican liturgy; evening song.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the liturgical canonical hours of the Church of England, Evensong combines elements of the traditional Catholic offices of Vespers and Compline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Fuseblue peer from barrel rev. evensong Love on hackney jaunt Blazes blind coddoubled bicyclers Dilly with snowcake no fancy clothes."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The church bells were ringing for **evensong**, and a squad of Salvation Army lassies came singing down the suburban road."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The melodic strains of the Sunday **evensong** floated across the quiet meadows from the parish church."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"Mr. Harding played the violoncello at cathedral **evensong**, his gentle heart attuned to holy harmonies."*
+

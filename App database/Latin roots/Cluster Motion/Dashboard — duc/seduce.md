@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Induce to have sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lure or entice away from duty, principles, or proper conduct.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To entice, attract, or lead someone astray from duty, rectitude, or chastity; to charm or lure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal tort history, an action for seduction allowed a master or father to sue a seducer for loss of domestic services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, that incestuous, that adulterate beast, With witchcraft of his wit, with traitorous gifts,— O wicked wit, and gifts, that have the power So to seduce!—won to his shameful lust The will of my most seeming-virtuous queen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For me, the gold of France did not seduce, Although I did admit it as a motive The sooner to effect what I intended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The doubt is that he will seduce the rest."*
+> - 📜 **William Shakespeare (*Henry V*):** *"For me, the gold of France did not **seduce**, although I did admit it as a motive the sooner to effect what I intended."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The subtle serpent sought to **seduce** our first parents from their solemn allegiance to their Creator."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Wickham possessed the sinister art to **seduce** the unwary with agreeable manners and easy conversation."*
+

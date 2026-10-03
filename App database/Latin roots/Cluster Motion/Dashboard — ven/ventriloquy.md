@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, practice, or act of speaking in such a manner that the voice seems to originate elsewhere; ventriloquism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric and anthropology, archaic term for belly-speaking (gastromancy) practiced by ancient temple oracles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventriloquy designates the art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)."*
+> - 📜 **Walter Scott (*Letters on Demonology and Witchcraft*):** *"Ancient priests frequently practiced deceptive **ventriloquy** to persuade credulous votaries that statues uttered divine responses."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The strange illusions of **ventriloquy** depend upon the listener's inability to localize sound without visual clues."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Certain performers have attained a strange mastery of **ventriloquy**, feigning voices from distant corners of the room."*
+

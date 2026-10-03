@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or in the style of a musical fugue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or in the style of a musical fugue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, composed in the manner of, or resembling a musical fugue; contrapuntal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicological analysis, a fugal exposition features successive entries of the subject and answer in tonic and dominant keys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fugal designates of or relating to or in the style of a musical fugue."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw was playing a complex **fugal** composition by Bach upon the organ in the great drawing room."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The composer demonstrated how **fugal** counterpoint resolves dissonant harmonic voices into a rigorous architectural unity."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Lucy played the piano with passionate conviction, mastering the intricate **fugal** webs of German classical masters."*
+

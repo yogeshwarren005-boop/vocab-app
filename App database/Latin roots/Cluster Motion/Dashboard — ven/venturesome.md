@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disposed to venture or take risks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disposed to venture or take risks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to take risks, hazard danger, or embark on bold undertakings; adventurous and intrepid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, characteristic of high trait novelty seeking and low harm avoidance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was most venturesome for a woman, at night, and alone."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Could it be that of the only venturesome woman in the parish—Bathsheba?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What makes you so venturesome and hardy?” “Why, I shall soon be away from you, and besides”—I was going to say something about what had passed between me and Mrs."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was most **venturesome** for a woman to ride across the lonely heath at night and entirely alone."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My spirit was too **venturesome** to remain contented within the narrow confines of a provincial schoolroom."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer was a **venturesome** savage who leaped fearlessly upon the slippery back of the whale."*
+

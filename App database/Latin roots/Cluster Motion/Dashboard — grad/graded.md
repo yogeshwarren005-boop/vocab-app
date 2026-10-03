@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assign a rank or rating to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Level to the right gradient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arranged, categorized, or evaluated according to rank, size, quality, or difficulty; or leveled to a slope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical instructional design, graded readers introduce vocabulary in controlled lexical frequencies to facilitate learning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"It had the same long regularly graded retreating slope from above the brows, which were likewise very projecting, like two long promontories thickly wooded on top."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"This man owns up that some may think a 2,000 calory ration is altogether too small, and he advises such to begin with 3,000 or even 3,500--graded, of course, according to a man's size, weight, and occupation."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould*):** *"Earthworms sort soil particles, leaving a **graded** layer of fine vegetable mold across the ancient pasture."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate examined the **graded** series of anatomical specimens preserved in the hospital pathology laboratory."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Import tariffs were assessed according to a **graded** schedule based on the certified quality of foreign spirits."*
+

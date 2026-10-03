@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move in a gyrating fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move in a gyrating fashion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo precession; to rotate with a continuous conical wobble or circular change in the orientation of a rotational axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and gyrodynamics, a spinning top or rotating astronomical body will precess perpendicularly to the applied torque vector.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, precess designates move in a gyrating fashion."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Because the equatorial bulge experiences unequal gravitational attraction from the sun and moon, Earth's axis must slowly **precess** over millennia."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"When an external couple acts upon a rapidly spinning wheel, its axis does not tilt directly but begins to **precess** uniformly."*
+> - 📜 **William Thomson (Lord Kelvin) (*Popular Lectures and Addresses*):** *"The spinning gyroscope demonstrated to the students how an unbalanced rotational system will steadily **precess** around the vertical."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to concession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to concession.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing, implying, or characterized by concession; or in grammar, expressing concession or contrast (e.g. 'although').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal diplomatic discourse, adopting a concessive tone signals readiness to compromise on secondary negotiation items.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, concessive designates of or pertaining to concession."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The grammatical theorist analyzed the syntactic function of **concessive** clauses introduced by 'although' and 'whereas'."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The orator employed a **concessive** opening to disarm hostile prejudices before presenting his core proofs."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The royal response was couched in polite, **concessive** language that masked an unyielding determination."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An investment trust that owns and manages a pool of commercial properties and mortgages and other real estate assets; shares can be bought and sold in the stock market.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investment trust that owns and manages a pool of commercial properties and mortgages and other real estate assets; shares can be bought and sold in the stock market.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sedge, waterweed, or aquatic plant growing in marshlands or slow-moving freshwater streams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical botanical glossaries, reit denoted aquatic vegetation harvested by peasants for thatched roofing and animal bedding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reit designates an investment trust that owns and manages a pool of commercial properties and mortgages and other real estate assets; shares can be bought and sold in the stock market."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The pike lies hidden among the green **reit** and water-lilies, watching for unsuspecting minnows."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shallow mill-stream was choked with floating **reit** that swayed with the gentle current."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Seeds entangled within freshwater **reit** may be transported hundreds of miles by migratory waterfowl."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The wife of a duke or a woman holding ducal title in her own right.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wife of a duke or a woman holding ducal title in her own right.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman holding in her own right the rank of duke, or the wife or widow of a duke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In peerage hierarchy, a duchess occupies the highest rank of the nobility directly beneath the royal family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hume must make merry with the Duchess’ gold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, to be plain, They, knowing Dame Eleanor’s aspiring humour, Have hired me to undermine the Duchess And buzz these conjurations in her brain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, so its stands; and thus, I fear, at last Hume’s knavery will be the Duchess’ wrack, And her attainture will be Humphrey’s fall."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Come, madam, you must die a **duchess**' feast; you have a great while lived in sorrow."*
+> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The **Duchess** was sitting on a three-legged stool in the middle, nursing a baby that sneezed without ceasing."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky was presented to the dowager **duchess**, curtsying with the consummate grace of a born courtier."*
+

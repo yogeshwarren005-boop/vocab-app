@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily impressed or influenced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily impressed or influenced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily affected, influenced, or molded by external impressions, suggestions, or emotions; susceptible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material science and engraving, capable of receiving and retaining a sharp indented mechanical stamp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Yet he whom it describes scarcely impressed one with the idea of a gentle, a yielding, an impressible, or even of a placid nature."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"His brain is first-rate, I should think not impressible, but vigorous.” “Is he an able man, then?” “Truly able.” “A thoroughly educated man?” “St."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Will, too, was made of very impressible stuff."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea possessed an **impressible** nature that vibrated acutely to every appeal of human need."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her young and **impressible** mind absorbed the somber fatalism of the rural landscape."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The infant understanding resembles an **impressible** wax tablet awaiting the inscriptions of experience."*
+

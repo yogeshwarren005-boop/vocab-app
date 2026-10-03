@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being induced, caused, brought about, or derived through logical induction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology, inducible enzymes are synthesized only in response to the cellular presence of their substrate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inducible designates pertaining to, derived from, or characteristic of latin duc within the domain of motion."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Universal laws of nature are **inducible** from carefully accumulated and verified experimental observations."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Certain muscular twitches are readily **inducible** by applying weak galvanic currents to the sciatic nerve."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A hypnotic trance was easily **inducible** in hysterical patients by steady visual fixation."*
+

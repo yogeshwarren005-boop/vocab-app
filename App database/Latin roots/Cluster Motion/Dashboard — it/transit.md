@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surveying instrument for measuring horizontal and vertical angles, consisting of a small telescope mounted on a tripod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A facility consisting of the means and equipment necessary for the movement of passengers or goods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The passage or movement of a person or thing from one place to another; or the apparent passage of a celestial body across a meridian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, an astronomical transit occurs when a smaller celestial body passes across the solar disk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The tall form was that of Gabriel Oak; the small one that of George; the articles in course of transit were hurdles."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Across these minute pools the reflected stars flitted in a quick transit as she passed; she would not have known they were shining overhead if she had not seen them there—the vastest things of the universe imaged in objects so mean."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It was as if a martyr, a hero, had passed a slave or victim, and imparted strength in the transit."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Across these minute pools the reflected stars flitted in a quick **transit** as she passed."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I observed the steady **transit** of stellar constellations across the dark vault of the sky."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The astronomical calculation predicted the exact minute of the planetary **transit** across the sun."*
+

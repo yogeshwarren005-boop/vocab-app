@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not arousing emotions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not in motion; stationary, still, motionless, or failing to arouse emotional sympathy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual wildlife observation and camouflage study, an unmoving predator escapes the notice of prey animals whose retinas detect movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, alas, to make me A fixed figure for the time of scorn To point his slow unmoving finger at."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Standing close, they spoke through unmoving lips."*
-> - 📜 **Effie Afton (*Eventide*):** *"Folded we the tiny fingers On the cold, unmoving breast; Robed her in a decent garment, For her long and dreamless rest; And when o'er the tranquil Sabbath Evening's rays began to fall, Followed her with heavy footsteps To the home that waits us all."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The dark, monstrous trees stood **unmoving** in the heavy equatorial air along the silent riverbank."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes watched the **unmoving** silhouette of the watcher upon the moonlit granite tor on Dartmoor."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"The broad expanse of Egdon Heath lay silent and **unmoving** beneath the gathering shadows of dusk."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively ambitious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessively ambitious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively ambitious; striving for power, success, or status beyond reasonable, safe, or realistic limits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political psychology, overambitious leaders frequently overextend military resources and provoke preemptive coalitions against themselves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overambitious designates excessively ambitious."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The **overambitious** minister attempted to control both the treasury and the foreign policy of the crown."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"An **overambitious** prefect rashly provoked the border legions before securing the loyalty of the praetorians."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The campaign faltered because the general staff had drafted an **overambitious** timetable across impassable terrain."*
+

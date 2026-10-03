@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who listens attentively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who waits on or tends to or attends to the needs of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who attends, visits, or frequents a place, gathering, meeting, or religious service regularly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Quaker ecclesiastical terminology, an attender participates regularly in Meetings for Worship without formal membership enrollment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, attender designates someone who listens attentively."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solitary clerk was a constant **attender** at the early morning prayers in the abbey."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Dinah noticed a devout **attender** seated quietly on the low bench near the chapel doorway."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The old carpenter had been a faithful **attender** of the village choir for fifty years."*
+

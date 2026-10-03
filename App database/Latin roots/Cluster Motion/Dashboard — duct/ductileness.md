@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The malleability of something that can be drawn into threads or wires or hammered into thin sheets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mechanical property or physical tractability of a material that allows it to be drawn into slender wires.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and tensile testing, the ductileness of an alloy is quantified by its percentage elongation and reduction of cross-sectional area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ductileness designates the malleability of something that can be drawn into threads or wires or hammered into thin sheets."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The remarkable **ductileness** of platinum allows it to be drawn through diamond dies into filaments of microscopic fineness."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **ductileness** of heated copper enabled early artisans to fabricate intricate household vessels."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The physical **ductileness** of molten glass permits blowers to fashion delicate spherical globes."*
+

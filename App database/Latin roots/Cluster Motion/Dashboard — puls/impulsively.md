@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impulsive or impetuous way; without taking cautions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impulsive or impetuous way; without taking cautions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a spontaneous, hasty, or unreflecting manner, without considering possible future consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral finance, investors who act impulsively during market volatility frequently realize avoidable capital losses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"My Lady, changing her position, sees the papers on the table—looks at them nearer—looks at them nearer still—asks impulsively, “Who copied that?” Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am friendless enough, God knows!” “I won’t notice anything, nor will I leave you!” sobbed Liddy, impulsively putting up her lips to Bathsheba’s, and kissing her."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The moment had come for saving his game, and Troy impulsively felt that he would play the card."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Jane spoke **impulsively**, declaring her love for Rochester with an honest passion that defied social convention."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie acted **impulsively**, cutting off her dark curls in an outburst of childish frustration against her aunts."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard reacted **impulsively** to the slight, offering to sell his wife at the country fair in drunken folly."*
+

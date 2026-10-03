@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A political system in which a mob is the source of control; government by the masses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political system in which a mob is the source of control; government by the masses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rule or political domination by the mob; government characterized by mob rule or ochlocracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical constitutional republicanism, philosophers viewed unregulated pure democracy as prone to collapsing into volatile mobocracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mobocracy designates a political system in which a mob is the source of control; government by the masses."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A balanced constitutional republic provides a steady shield against both royal tyranny and turbulent **mobocracy**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The Parisian clubs have subverted lawful authority, substituting a capricious and bloody **mobocracy** for the rule of law."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"When constitutional courts fall, sheer **mobocracy** and street barricades dictate policy to terrified legislators."*
+

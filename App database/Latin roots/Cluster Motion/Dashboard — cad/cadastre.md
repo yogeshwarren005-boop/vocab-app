@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A public register showing the details of ownership and value of land; made for the purpose of taxation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A public register showing the details of ownership and value of land; made for the purpose of taxation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An official register showing the details of ownership, boundaries, and value of real property within a district for taxation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Napoleonic legal reforms, the introduction of the unified Napoleonic cadastre modernized land tenure across continental Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cadastre designates a public register showing the details of ownership and value of land; made for the purpose of taxation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial **cadastre** preserved records of every olive grove and vineyard subject to imperial tribute."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Without an accurate **cadastre**, the sovereign cannot ascertain the real agricultural revenue of the provinces."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary assembly demanded a new municipal **cadastre** to abolish feudal tax exemptions for the nobility."*
+

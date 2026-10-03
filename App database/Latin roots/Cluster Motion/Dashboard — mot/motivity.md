@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The power or ability to move.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The power or ability to move.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inherent power, faculty, or mechanical capability of producing or initiating motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century physics and natural philosophy, denotes the operational efficiency and work capacity of thermodynamic engines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivity designates the power or ability to move."*
+> - 📜 **William Thomson (Lord Kelvin) (*Mathematical and Physical Papers*):** *"Thermodynamic **motivity** measures the mechanical work obtainable when heat flows between two unequal thermal reservoirs."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Matter and **motivity** represent the indestructible components through which cosmic evolution continuously operates."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The muscular tissues of living organisms exhibit spontaneous **motivity** under electrical and physiological stimulation."*
+

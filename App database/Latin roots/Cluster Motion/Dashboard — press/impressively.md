@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an impressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an impressive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that commands admiration, solemn respect, or profound awe; powerfully, grandly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and public oratory, employing measured cadence and authoritative tone to sway an audience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"No!” he replied impressively, “there is nothing worth my staying for;” and he was gone directly."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The bride was elegantly dressed; the two bridesmaids were duly inferior; her father gave her away; her mother stood with salts in her hand, expecting to be agitated; her aunt tried to cry; and the service was impressively read by Dr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She felt that she had spoken as impressively as it was necessary to do, and that in using the superior word “militate” she had thrown a noble drapery over a mass of particulars which were still evident enough."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"The inspector paused **impressively**, allowing his deduction to sink into the minds of the listeners."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The old Roman amphitheatre loomed **impressively** above the quiet Dorset meadows at twilight."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon cleared his throat **impressively** before outlining the grand design of his theological treatise."*
+

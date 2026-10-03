@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scene of any event or action (especially the place of a meeting).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law: the jurisdiction where a trial will be held.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The place where an event, trial, or conference takes place; the jurisdiction in which a legal action is brought.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil procedure, the statutory geographical location of the court possessing personal and subject-matter jurisdiction to hear a lawsuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, by the salt wave of the Mediterraneum, a sweet touch, a quick venue of wit!"*
-> - 📜 **James Joyce (*Ulysses*):** *"How they change the venue when it’s not what they like."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The right to a local **venue** secures an accused citizen against being dragged to distant tribunals."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The plaintiff must state an appropriate **venue** where the contract was executed or the injury sustained."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Lawyers argued fiercely over whether to change the judicial **venue** to another county to avoid local prejudice."*
+

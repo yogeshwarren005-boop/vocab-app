@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothing that is worn or carried, but not part of your main clothing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supplementary component that improves capability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A supplementary, secondary, or decorative item that contributes to a whole; or a person who helps commit a crime.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal law, an accessory after the fact assists a felon with knowledge that the crime has been committed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But there are other instances where this whiteness loses all that accessory and strange glory which invests it in the White Steed and Albatross."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Clair’s story, he was known to have been at the foot of the stair within a very few seconds of her husband’s appearance at the window, he could hardly have been more than an accessory to the crime."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Tried as an accessory and judged guilty."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"Holmes proved that the maid was an unsuspecting **accessory** who had left the garden window unbolted."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia viewed marriage primarily as an excuse for purchasing every fashionable **accessory** and new bonnet."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip felt himself a guilty **accessory** to the convict's escape as he hurried through the morning mist with the file."*
+

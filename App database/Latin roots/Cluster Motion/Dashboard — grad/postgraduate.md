@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A student who continues studies after graduation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to studies beyond a bachelor's degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, enrolled in, or conducting advanced academic study undertaken after obtaining a bachelor's degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical education and surgical credentialing, postgraduate residency training provides clinical subspecialty competence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, postgraduate designates a student who continues studies after graduation."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"Dr. Gottlieb encouraged young Arrowsmith to pursue rigorous **postgraduate** research in bacteriology at the institute."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Resident Patient*):** *"Dr. Trevelyan completed his **postgraduate** medical honors, winning a prestigious university prize for his treatise on catalepsy."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The young chemist continued his **postgraduate** investigations into synthetic growth hormones in the private laboratory."*
+

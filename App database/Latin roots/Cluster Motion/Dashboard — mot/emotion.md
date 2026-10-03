@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any strong feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any strong feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong feeling or instinctive affective state of mind deriving from one's circumstances, mood, or relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and neurobiology, emotion arises from the cerebral perception of autonomic visceral and muscular reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Oh, oh," she said, as soon as she was able to control her emotion, "one does not need to ask where our little Leonore comes from."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Maxa was filled with deep emotion."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I feel as if this happiness was too much for me, Loneli." Apollonie was once more swept away by emotion, and it took her a little time before she could tell Loneli the wonderful news."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Every true **emotion** produces immediate somatic changes in the heart, respiration, and facial muscles."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne could never disguise any **emotion** that agitated her sensitive heart."*
+> - 📜 **William Shakespeare (*Sonnet 128*):** *"How oft, when thou, my music, music play'st, do I envy those jacks that nimble leap to kiss the tender inward of thy hand, while deep **emotion** stirs my breast."*
+

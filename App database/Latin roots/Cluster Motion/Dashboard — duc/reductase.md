@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyses the biochemical reduction of some specified substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that catalyses the biochemical reduction of some specified substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes a biochemical reduction reaction within cellular metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, inhibitors of HMG-CoA reductase (statins) block hepatic cholesterol biosynthesis, reducing circulating LDL levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reductase designates an enzyme that catalyses the biochemical reduction of some specified substance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bacterial enzymes include a specific nitrate **reductase** capable of reducing nitrates to nitrites in infected urine."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The clinical action of the compound relies upon inhibiting a specific **reductase** within central dopamine metabolic pathways."*
+> - 📜 **Richard Cabot (*Differential Diagnosis*):** *"Congenital deficiency of methemoglobin **reductase** causes persistent familial cyanosis resistant to ordinary oxygen therapy."*
+

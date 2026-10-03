@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive motivational influence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A positive motivational influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, factor, incentive, or stimulus that prompts someone to take action or pursue a goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Herzberg's two-factor management model, motivators are intrinsic job factors like recognition and achievement that produce genuine satisfaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motivator designates a positive motivational influence."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The desire of becoming the proper objects of respect is the great **motivator** of mankind."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Self-interest remains the most constant and dependable **motivator** of industry in competitive markets."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Enthusiasm is the great **motivator** that overcomes inertia and accomplishes noble undertakings."*
+

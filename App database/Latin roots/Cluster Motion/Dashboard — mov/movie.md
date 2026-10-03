@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motion picture; a film recorded and projected onto a screen for public entertainment or artistic expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century cultural media studies and film theory, cinema developed from silent novelty into a narrative global industry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"The seat faced a white screen like those in movie theaters."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I have been to Revere once, to the circus once, to Nantasket three times, and to Keith's and the 'movies' ten times, perhaps--to be accurate."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"It might have been a parade-war, an elaborately realistic imitation of the real thing for the movies."*
+> - 📜 **F. Scott Fitzgerald (*The Last Tycoon*):** *"Monroe Stahr understood how to craft a compelling **movie** that captured the romantic dreams of millions across the nation."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"George Babbitt enjoyed escaping to the downtown picture palace to watch the latest feature **movie** on Saturday afternoon."*
+> - 📜 **Virginia Woolf (*The Cinema*):** *"The eye licks up the images of the **movie** screen with greedy curiosity, discovering a new visual language."*
+

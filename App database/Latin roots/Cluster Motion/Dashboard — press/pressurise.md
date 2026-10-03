@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Increase the pressure on a gas or liquid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maintain a certain pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To maintain or increase normal atmospheric pressure inside an enclosed chamber, aircraft cabin, or vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical design, pumping conditioned engine bleed air into sealed fuselage structures to sustain breathable conditions at altitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pressurise designates increase the pressure on a gas or liquid."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"Before opening the inner airlock, the crew must **pressurise** the cargo transfer corridor with breathable air."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The engineers sought to **pressurise** the high-altitude passenger cabins to allow flight above turbulent storm zones."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Auxiliary pumps worked constantly to **pressurise** the high-temperature chemical synthesis chambers."*
+

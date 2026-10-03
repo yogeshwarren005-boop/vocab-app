@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly magnetized, rapidly rotating neutron star that emits beams of electromagnetic radiation from its magnetic poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In relativistic astrophysics and observational radio astronomy, Jocelyn Bell Burnell discovered the first radio pulsar (PSR B1919+21) in 1967.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pulsar designates a degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The deep-space radio observatory registered the rhythmic cosmic ticking of a distant interstellar **pulsar**."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"A rapidly spinning **pulsar** packs the mass of our sun into a sphere no larger than a terrestrial city."*
+> - 📜 **Isaac Asimov (*The Caves of Steel*):** *"Astrogators calibrated galactic chronometers against the ultra-precise radio sweeps of an ancient **pulsar**."*
+

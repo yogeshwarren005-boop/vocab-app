@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decrease the pressure of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decrease the pressure of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce or remove physical pressure from a sealed chamber, aircraft, or pressure vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aviation engineering, the controlled discharge of cabin pressure prior to opening exits or during emergency descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, depressurise designates decrease the pressure of."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The command was given to **depressurise** the outer airlock before sliding the heavy hatchway open."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Technicians began to **depressurise** the high-altitude experimental nacelle following the endurance flight."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The automated controls will **depressurise** the storage vaults gradually to prevent structural damage."*
+

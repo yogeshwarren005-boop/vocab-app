@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not watched.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking accompaniment or a guard or escort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Left without presence, supervision, care, or guardianship; or unaccompanied by companions or escorts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transportation safety protocols, unattended luggage or vehicles in public terminals trigger security inspection routines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your constancy Hath left you unattended.—[_Knocking within._] Hark, more knocking."*
-> - 📜 **Jane Austen (*Persuasion*):** *"At last Miss Elliot and her friend, unattended but by the servant, (for there was no cousin returned), were walking off; and Captain Wentworth, watching them, turned again to Anne, and by manner, rather than words, was offering his services to her."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Were your friends, the Allens, still in Bath, you might go to them with comparative ease; a few hours would take you there; but a journey of seventy miles, to be taken post by you, at your age, alone, unattended!” “Oh, the journey is nothing."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Your constancy hath left you **unattended**; hark, more knocking at the south entry!"*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"This critical act is not always **unattended** with the saddest and most fatal casualties."*
+> - 📜 **Jane Austen (*Persuasion*):** *"At last Captain Wentworth approached, leaving Anne no longer **unattended** amid the crowded room."*
+

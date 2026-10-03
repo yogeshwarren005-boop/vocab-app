@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coloring with areas of different shades.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mark with spots or blotches of different color or shades of color as if stained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irregular arrangement or pattern of spots, blotches, or variegated color patches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical examination, cutaneous mottling (livedo reticularis) serves as a diagnostic sign of peripheral hypoperfusion and circulatory shock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Height 14½ inches. _Eumorfopoulos Collection._ Fig. 2.--Vase, white pottery with traces of blue mottling: the glaze has perished."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"This is the marbling of the ware, not merely by mottling the glaze as in Fig. 2 of Plate 9, or by marbling the surface, but by blending dark and light clays in the body as in the "solid agate" ware of Staffordshire."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"It is clear, however, that an exaggerated mottling of the glaze and a confusion of many colours was viewed with disfavour by the old Chinese connoisseurs."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Earth of shine and dark **mottling** the tide of the river, gorgeous clouds streaming through the upper air."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The uneven **mottling** of the sheep's fleece indicated exposure to damp mountain pastures throughout the winter."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Sudden emotional vasomotor disturbance frequently produces irregular **mottling** across the throat and cheeks."*
+

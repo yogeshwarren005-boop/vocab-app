@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening that permits escape or release.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euphemistic expressions for death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A way out, passage, or opening for leaving an enclosed space; or the departure of an actor from the theatrical stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In business venture capital, an exit strategy defines how investors monetize their equity holdings through an initial public offering or merger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell, Bertram. [_Exit Countess._] BERTRAM."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Monsieur Parolles, my lord calls for you. [_Exit Page._] PAROLLES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, farewell. [_Exit._] HELENA."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"All the world's a stage, and all the men and women merely players; they have their **exit** and their entrances, and one man in his time plays many parts."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes guarded the only narrow **exit** from the cavern, cutting off any possibility of escape."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The condemned prisoner made a dignified **exit** from the courtroom, saluting his friends."*
+

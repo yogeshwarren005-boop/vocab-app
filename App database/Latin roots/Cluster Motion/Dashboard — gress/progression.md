@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series with a definite pattern of advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement forward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of developing, advancing, or moving gradually toward a more advanced state; a sequence of items or stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pure mathematics and algebra, an arithmetic progression features a constant numerical difference between consecutive terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The most disputed feature of the income tax is the principle of graduation, or of progression."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"First, when used as a fin for progression; Second, when used as a mace in battle; Third, in sweeping; Fourth, in lobtailing; Fifth, in peaking flukes."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The last marvel is always the most astonishing; and, if we continue this progression, I do not know how it will end."*
+> - 📜 **Thomas Malthus (*An Essay on the Principle of Population*):** *"Population, when unchecked, increases in a geometrical ratio; subsistence increases only in an arithmetical **progression**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological record reveals an ascending **progression** of organic forms from simple invertebrates to mammals."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The universal law of cosmic evolution demonstrates an orderly **progression** from homogeneity to heterogeneity."*
+

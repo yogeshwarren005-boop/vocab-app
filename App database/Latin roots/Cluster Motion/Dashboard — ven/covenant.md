@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A signed written agreement between two or more parties (nations) to perform some action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (bible) an agreement between god and his people in which god makes certain promises and requires certain behavior from them in return.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solemn, binding agreement or formal promise between two or more parties; a legal compact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical theology and reformed theology, the divine covenant established between God and humanity (Covenant of Grace).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good sir, we must, If you keep covenant."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My heart this covenant makes, my hand thus seals it."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"There was a difference between the proposition and the covenant, which she had felt only too quickly."*
+> - 📜 **John Milton (*Paradise Lost*):** *"God entered into a gracious **covenant** with Abraham, promising that his seed should possess the promised land."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"A **covenant** without the sword is but words, and of no strength to secure a man at all."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Men enter into the original social **covenant** to secure their lives, liberties, and estates."*
+

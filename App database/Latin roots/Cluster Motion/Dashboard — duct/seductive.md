@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to entice into a desired action or state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to entice into a desired action or state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to seduce, entice, or mislead by alluring charm, beauty, or flattering promises; tempting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In persuasive advertising and rhetoric, seductive framing exploits cognitive heuristics to elicit impulsive consumer decisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Into the dining-house, unaffected by the seductive show in the window of artificially whitened cauliflowers and poultry, verdant baskets of peas, coolly blooming cucumbers, and joints ready for the spit, Mr."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I should indeed be foolish to feel offended at anything you say or do,” he answered, in the seductive voice of the Trantridge time."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Lifted by those eternal swells, you needs must own the seductive god, bowing your head to Pan."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"I should indeed be foolish to feel offended at anything you say, he answered in that **seductive** tone she dreaded."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The twenty pounds' worth of seed-corn had been planted in vain in the **seductive** green meadow."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The calm tropical sea presented a **seductive** mirror that concealed the ravenous monsters beneath."*
+

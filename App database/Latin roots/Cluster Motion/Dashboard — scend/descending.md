@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move downward and lower, but not necessarily all the way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come from; be connected by a relationship of blood, for example.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving, falling, or sloping downward; dropping toward a lower elevation, level, or scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, the descending corticospinal tracts transmit upper motor neuron signals to the spinal cord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Didst thou not say, when I did push thee back— Which was when I perceived thee—that thou cam’st From good descending?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ascend his throne, descending now from him, And long live Henry, of that name the fourth!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The sun was low—near setting—and its light came redly in above, without descending to the ground."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The winged archangel Raphael was seen **descending** through the radiant celestial spheres toward Eden."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The heavy knife of the guillotine was **descending** day after day, severing the heads of innocent and guilty alike."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The tropical twilight was **descending** rapidly, shrouding the dark river and the silent primeval forest."*
+

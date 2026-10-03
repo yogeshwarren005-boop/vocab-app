@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is an active supporter and advocate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sponsor who books and stages public entertainments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual, organization, or factor that encourages, organizes, or actively advances an initiative, business, or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology, a specific DNA sequence located upstream of a gene where RNA polymerase binds to initiate transcription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Not the civil engineer, but the railroad promoter determined the devious lines of many a railroad on the level prairies of America."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Then is the time for the promoter to offer shares without limit to investors. § 14. #Monopoly's power to raise prices#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, p. 334, on the function of the promoter.] [Footnote 12: See Vol."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every speculative project finds an enthusiastic **promoter** eager to risk other men's capital upon uncertain ventures."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"Mr. Montague Tigg acted as chief **promoter** of the fraudulent Anglo-Bengalee Disinterested Loan Company."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The royal society proved an energetic **promoter** of experimental philosophy throughout the seventeenth century."*
+

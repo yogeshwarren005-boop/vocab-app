@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As acknowledged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As acknowledged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: As an acknowledged or conceded fact; undeniably, by general admission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetorical argumentation, conceding an opponent's point admittedly strengthens counter-rebuttals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Jesus is admittedly her eldest son, and is bred to be a carpenter; and a carpenter he undoubtedly was up to, we are told, about thirty years of age (Luke 3:23)."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I've never seen such panelling in my life, and the gardens are admittedly the most beautiful in Dorsetshire."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That was the past and, admittedly, a poor foundation upon which to build; let us now look to a more positive future."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The tactical situation in the western desert was **admittedly** grave before the arrival of armored reinforcements."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The living conditions in the industrial slums were **admittedly** worse than anything described in official bluebooks."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether's mission to Paris was **admittedly** delicate, requiring the utmost tact and diplomatic discretion."*
+

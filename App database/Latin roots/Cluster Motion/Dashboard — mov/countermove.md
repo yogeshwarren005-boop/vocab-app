@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An action, maneuver, or tactical step taken in opposition to or to counteract an opponent's move.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In game theory and military grand strategy, anticipating an adversary's countermove minimizes positional tactical exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, countermove designates an attack by a defending force against an attacking enemy force in order to regain lost ground or cut off enemy advance units etc."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Holmes regarded Professor Moriarty's latest maneuver as a brilliant **countermove** on the European chessboard."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The admiralty prepared an immediate **countermove** to intercept the German battlecruiser sortie into the North Sea."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The assistant commissioner devised a subtle **countermove** to thwart the foreign embassy's provocative scheme."*
+

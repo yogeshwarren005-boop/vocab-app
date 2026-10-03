@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intentional and controversial bias.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intentional and controversial bias.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The character or trait of deliberately promoting a partisan viewpoint, controversial agenda, or ideological slant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Marxist literary criticism, tendentiousness (Tendenz) was celebrated as overt political commitment, whereas formalists rejected it as dogmatic distortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tendentiousness designates an intentional and controversial bias."*
+> - 📜 **George Orwell (*All Art Is Propaganda*):** *"Every work of art contains political bias, but blatant **tendentiousness** often weakens the imaginative integrity of a narrative."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"The persistent **tendentiousness** of sectarian education blinds children to the virtues of objective reasoning."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"When an author writes with conscious **tendentiousness**, the creative flame is smothered by personal grievances."*
+

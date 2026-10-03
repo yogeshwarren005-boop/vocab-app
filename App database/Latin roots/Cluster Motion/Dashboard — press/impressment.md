@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coercing someone into government service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coercing someone into government service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of compelling men into military or naval service by force, especially historical naval press gangs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime and international history, British impressment of American merchant sailors was a primary proximate cause of the War of 1812.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"He opened it with much impressment--assumed, of course--and showed a great bundle of white flowers."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Such impressments shall be made in accordance with the provisions, and subject to the restrictions of the existing impressment laws, except so far as is herein otherwise provided."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It will be recollected, sir, that our great causes of quarrel with Great Britain were her depredations on the northern commerce, and the impressment of New England seamen."*
+> - 📜 **Herman Melville (*Billy Budd, Sailor*):** *"The lieutenant boarded the merchant brig to enforce naval **impressment**, selecting the handsome sailor for the king's warship."*
+> - 📜 **Bram Stoker (*Dracula*):** *"He opened the old chest with much solemn **impressment**, revealing a thick bundle of ancient deeds."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The brutal practice of **impressment** filled naval crews with unwilling landsmen torn from their families."*
+

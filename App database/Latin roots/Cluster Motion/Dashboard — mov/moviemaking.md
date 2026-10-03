@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of movies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of movies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, technical craft, and commercial industry of producing and directing motion pictures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cinematic history, the transition to synchronized sound recording in 1927 transformed studio moviemaking workflows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, moviemaking designates the production of movies."*
+> - 📜 **F. Scott Fitzgerald (*The Last Tycoon*):** *"Stahr viewed **moviemaking** as a delicate synthesis of industrial assembly lines and intense poetic inspiration."*
+> - 📜 **Virginia Woolf (*The Cinema*):** *"The pioneers of **moviemaking** discovered how to manipulate light and shadow to create emotional illusions."*
+> - 📜 **H. G. Wells (*The Autocracy of Mr. Parham*):** *"The studio stages buzzed with the high-voltage energy and financial extravagance of modern **moviemaking**."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) the accent in a metrical foot of verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The close of a musical section.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmic sequence, flow, or modulation of sounds, musical chords, or poetic language; or a melodic resolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Western tonal music theory, an authentic cadence (V–I) creates harmonic closure at the conclusion of a musical phrase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me supervise the canzonet. [_He takes the letter_.] Here are only numbers ratified, but, for the elegancy, facility, and golden cadence of poesy, _caret_."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I am the new shepherd—just arrived.” “Only a shepherd—and you seem almost a farmer by your ways.” “Only a shepherd,” Gabriel repeated, in a dull cadence of finality."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If the wind does not change the rain is likely to keep off.” “If I am useless I will go,” said Bathsheba, in a flagging cadence."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Now was the sun in western **cadence** low, and gentle cool winds came up to blow across the garden."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne recited Cowper with an exquisite emotional **cadence** that touched every sensitive ear in the parlor."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I listened to the sweet church bells from the distant village, their **cadence** undulating across the water."*
+

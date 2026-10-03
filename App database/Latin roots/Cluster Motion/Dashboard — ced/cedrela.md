@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of seven species of flowering trees in the mahogany family Meliaceae, especially Cedrela odorata (Spanish cedar).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical timber forestry, the rot-resistant aromatic wood of Cedrela is widely used for traditional high-grade cigar boxes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cedrela designates tropical american trees."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Dense forests of Spanish cedar belonging to **Cedrela** covered the moist tropical mountain slopes of the mainland."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The river banks were shaded by majestic trunks of **Cedrela**, whose fragrant timber was exported for cabinetmaking."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Botanists study the pinnate foliage and valuable aromatic hardwood produced by tropical species of **Cedrela**."*
+

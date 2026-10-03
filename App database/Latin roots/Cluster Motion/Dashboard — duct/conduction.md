@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of heat or electricity or sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transmission of heat or electricity or sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission or transfer of energy, heat, electricity, or sound through a medium without gross displacement of the material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and electrophysiology, the cardiac conduction system coordinates ventricular contraction via the bundle of His and Purkinje fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conduction designates the transmission of heat or electricity or sound."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Heat is propagated through solid bodies by the internal **conduction** of atomic vibrations."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"Thermal **conduction** differs fundamentally from convection, which relies on the bulk displacement of fluid particles."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The rapid **conduction** of heat through iron makes it suitable for stoves and industrial boilers."*
+

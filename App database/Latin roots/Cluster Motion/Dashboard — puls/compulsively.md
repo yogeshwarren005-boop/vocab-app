@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a compulsive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a compulsive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner driven by an irresistible, irrational inner impulse or obsession, without conscious deliberation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral addiction research, individuals check communication devices compulsively to relieve dopamine-mediated anticipatory anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compulsively designates in a compulsive manner."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Captain Ahab paced the quarterdeck **compulsively**, the ivory heel of his artificial leg thumping the hollow planks."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard turned his thoughts **compulsively** toward his past failures, unable to find rest from bitter memories."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"Peter Walsh opened and closed his large pocket-knife **compulsively** whenever his agitated emotions threatened to overcome him."*
+

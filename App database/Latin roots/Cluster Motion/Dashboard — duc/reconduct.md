@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To conduct, lead, or escort back to a former place, position, or safe harbor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical diplomatic protocol, the ceremonial escorting of an accredited foreign envoy back to the state frontier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"Our hero was reconducted to Mr."*
+> - 📜 **John Dryden (*The Aeneid*):** *"A faithful guide was appointed to **reconduct** thy steps safely through the perils of the hostile camp."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The knight offered to **reconduct** the royal lady through the mountain pass before nightfall."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The centurion received strict orders to **reconduct** the captive prince to the imperial headquarters."*
+

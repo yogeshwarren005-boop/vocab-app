@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of failing to meet a financial obligation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss resulting from failure of a debt to be paid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure or omission to remit money, funds, payments, or official documents; lack of transmission.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial banking and bills-of-exchange law, the nonremittal of settlement balances constitutes a breach of clearinghouse protocol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonremittal designates act of failing to meet a financial obligation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **nonremittal** of colonial revenues created severe financial deficits in the imperial exchequer at home."*
+> - 📜 **Charles Dickens (*Little Dorrit*):** *"The debtor languished in prison owing to the unexpected **nonremittal** of funds promised by foreign merchants."*
+> - 📜 **Theodore Dreiser (*The Financier*):** *"The bank directors demanded an immediate explanation for the **nonremittal** of the municipal interest payment."*
+

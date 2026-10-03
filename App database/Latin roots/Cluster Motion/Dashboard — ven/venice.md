@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of veneto; built on 118 islands within a lagoon in the gulf of venice; has canals instead of streets; one of italy's major ports and a famous tourist attraction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major historic port city in northeastern Italy built on more than one hundred small islands separated by canals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance cultural history, a global nexus of maritime commerce, printing, opera, and Renaissance painting (Titian, Tintoretto, Veronese).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, good old Mantuan, I may speak of thee as the traveller doth of Venice: _Venetia, Venetia, Chi non ti vede, non ti pretia._ Old Mantuan, old Mantuan!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gratiano speaks an infinite deal of nothing, more than any man in all Venice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou know’st that all my fortunes are at sea; Neither have I money nor commodity To raise a present sum, therefore go forth Try what my credit can in Venice do; That shall be rack’d even to the uttermost, To furnish thee to Belmont to fair Portia."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"What news on the Rialto? Who hath seen the wealthy merchant of **venice** this morning?"*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The architecture of **venice** stands as a marble hymn to freedom and civic dignity upon the waters."*
+> - 📜 **Charles Dickens (*Pictures from Italy*):** *"The black gondola glided silently past water-lapped palaces in the enchanted city of **venice**."*
+

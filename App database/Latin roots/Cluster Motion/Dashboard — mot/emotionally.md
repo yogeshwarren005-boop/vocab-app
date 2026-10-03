@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an emotional manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to emotions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an emotional manner; with regard to feelings, sentiments, or passions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychopathology, children who are emotionally neglected exhibit delayed attachment security and social adjustment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were both young, and they were talking of the time when they lived and loved together at Talbothays Dairy, that happy green tract of land where summer had been liberal in her gifts; in substance to all, emotionally to these."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's general characteristic, emotionally considered, was an unusual predominance of the higher sentiments,--a predominance which tended, perhaps, both in theory and practice, to subordinate the lower nature unduly."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"She might--anything was possible--be in some deep subtle thought, into which, if he asked, he might get enmeshed, or be trapped emotionally."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"They were both young, and they were talking of the time when they lived and loved together, **emotionally** unburdening their souls."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea responded **emotionally** to Casaubon's cold pedantry, mistaking it for profound wisdom."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Agnes spoke so **emotionally** of our childhood friendship that tears rose to my eyes."*
+

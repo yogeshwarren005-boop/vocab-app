@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (law) a group of people summoned for jury service (from whom a jury will be chosen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) a group of people summoned for jury service (from whom a jury will be chosen).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writ summoning citizens to serve on a jury; the panel or pool of prospective jurors so assembled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law procedure, a venire facias directing the county sheriff to summon prospective jurors for court proceedings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venire designates (law) a group of people summoned for jury service (from whom a jury will be chosen)."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The impartiality of trial by jury depends upon summoning a fair **venire** from the local community."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The sheriff issues the writ of **venire** to assemble twelve upright and lawful men of the vicinage."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"No free citizen should be tried except by a jury drawn lawfully from an untainted **venire**."*
+

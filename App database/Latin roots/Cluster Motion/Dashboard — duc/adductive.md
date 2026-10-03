@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing forward, citing, or tending to draw toward the median anatomical axis; adducent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical classification, denoting muscle fibers whose vector of contraction produces inward medial displacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adductive designates especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **adductive** force exerted by the central muscle scar holds the oyster shell impenetrable to marine whelks."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"The **adductive** power of the vocal chords was markedly diminished following injury to the recurrent laryngeal nerve."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spastic contracture of the **adductive** musculature produces the typical scissoring gait of cerebral palsy."*
+

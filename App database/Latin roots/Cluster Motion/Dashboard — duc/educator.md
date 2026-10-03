@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who educates young people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who educates young people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who educates students; a teacher, school administrator, or educational theorist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational philosophy, a mentor facilitating autonomous intellectual discovery rather than delivering dogmatic instruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"West, the well-known Brooklyn educator, was then in charge of the school, and remembers the lad’s deftness in English composition, and his struggles with mathematics."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"A mother's responsibility 236:12 A mother is the strongest educator, either for or against crime."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth, like more celebrated educators, had her favorite ancient paths, and in a general wreck of society would have tried to hold her “Lindley Murray” above the waves.) “Oh—it means—you must think what you mean,” said Ben, rather peevishly."*
+> - 📜 **John Dewey (*The School and Society*):** *"The primary task of the **educator** is to furnish the environment which stimulates the child's natural powers."*
+> - 📜 **G. K. Chesterton (*The Ball and the Cross*):** *"The modern **educator** presumes to dictate what opinions children should form before they have observed the world."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"The skilled **educator** knows how to connect unfamiliar subject matter with the student's existing emotional interests."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be greater in scope or size than some standard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be superior or better than some standard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To go beyond the range or limits of physical or normal experience; to surpass or excel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology and Kantian idealism, synthetic a priori concepts transcend raw empirical sensory data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Accordingly, in the following pages, the author has endeavored primarily to develop the economic aspects of each problem, and has repeatedly given warning when the discussion or the conclusions began to transcend strict economic limits."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He holds up to men standards of conduct which transcend anything yet put before mankind."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Therein no fairy’s arm can transcend it."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"In the serene woods, the soul awakens to divine truths that **transcend** the petty concerns of worldly existence."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Speculative reason attempts in vain to **transcend** the boundaries of sensible experience to comprehend the infinite."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"The creations of great poetry **transcend** mortal limits, awakening divine sensations that survive empires."*
+

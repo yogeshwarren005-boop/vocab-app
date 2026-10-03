@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a convenient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a convenient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a convenient manner; suitably, easily, or with minimal trouble or physical exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spatial architecture, positioning kitchens, storage bays, and exits to facilitate ergonomic daily workflow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let’s do’t, I pray, and I this morning know Where we shall find him most conveniently. [_Exeunt._] SCENE II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I nill relate, action may Conveniently the rest convey; Which might not what by me is told."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then all alone At the prefixed hour of her waking Came I to take her from her kindred’s vault, Meaning to keep her closely at my cell Till I conveniently could send to Romeo."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd's hut on wheels was **conveniently** stationed close to the lambing fold upon the down."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes had **conveniently** concealed his tracking lanterns beneath the cushions of the four-wheeler."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The parsonage was **conveniently** situated near Rosings Park, allowing daily visits to Lady Catherine."*
+

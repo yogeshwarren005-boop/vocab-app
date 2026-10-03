@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inconvenient manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inconvenient manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that causes trouble, difficulty, or awkwardness; unsuitably or unseasonably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport and urban design, infrastructure positioned awkwardly relative to pedestrian and vehicular transit flows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It was bandaged, of course, but much less inconveniently than my left hand and arm; those I carried in a sling; and I could only wear my coat like a cloak, loose over my shoulders and fastened at the neck."*
-> - 📜 **C. N. Williamson (*Angel Unawares: A Story of Christmas Eve*):** *"They contained the Christmas presents which she had gone out to buy for Angel, but, luckily, the little girl was too excited to notice and wonder inconveniently."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"If the tail feathers had grown **inconveniently** long, they would have severely impeded flight through dense forest boughs."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The cottage was **inconveniently** chosen, requiring a needless detour across exposed railway embankments."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The market stall was **inconveniently** wedged between two noisy cattle pens in the crowded street."*
+

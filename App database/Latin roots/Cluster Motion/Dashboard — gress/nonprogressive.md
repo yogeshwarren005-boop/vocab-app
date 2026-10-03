@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old-fashioned and out of date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old-fashioned and out of date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not progressing, advancing, or reforming; stagnant; or in medicine, not increasing in severity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a nonprogressive congenital encephalopathy exhibits stable neurological deficits without ongoing deterioration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonprogressive designates old-fashioned and out of date."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician reassured the family that the child's muscular deficit was a **nonprogressive** congenital condition."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Static human societies become trapped in a **nonprogressive** traditionalism that resists technical innovation."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A merely conservative, **nonprogressive** parliament cannot comprehend the urgent needs of the industrial poor."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of generating offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recall that is hypothesized to work by storing the original stimulus input and reproducing it during recall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process by which organisms generate offspring; or the exact copying of a work of art, document, or sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, differential reproductive success among diverse genotypes drives adaptive phenotypic changes across generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And you thought I was the mere stone reproduction of one of them."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"And what is true of the reproduction of plants and animals may hold good also of the fertility of the human sexes."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"For with Nature the Wordsworthians will admit no tampering: they exact the direct interpretative reproduction of her; that the poet should follow her as a mistress, not use her as a handmaid."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The physiological laws governing the **reproduction** of hybrid animals reveal deep homologies across species."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"And you thought I was the mere stone **reproduction** of one of the ancient d'Urberville knights."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"No mechanical **reproduction** can capture the subtle vibration of color present in Turner's original canvas."*
+

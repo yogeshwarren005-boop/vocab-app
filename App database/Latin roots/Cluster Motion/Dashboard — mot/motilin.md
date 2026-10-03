@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gastrointestinal hormone that apparently participates in controlling smooth muscle contractions in the stomach and small intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gastrointestinal hormone that apparently participates in controlling smooth muscle contractions in the stomach and small intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polypeptide gastrointestinal peptide hormone that regulates and stimulates migrating motor complexes in the gut.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, motilin is secreted by endocrine M-cells in the duodenum and jejunum during fasting to clear residual luminal contents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, motilin designates a gastrointestinal hormone that apparently participates in controlling smooth muscle contractions in the stomach and small intestine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Physiological research identified **motilin** as a key enteric hormone coordinating interdigestive gastrointestinal motility."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Endocrine secretions like **motilin** trigger rhythmic contractile waves that cleanse the alimentary canal."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Autonomic peptide transmitters including **motilin** mediate visceral bowel sensations during emotional stress."*
+

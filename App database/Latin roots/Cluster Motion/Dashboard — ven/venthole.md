@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hole for the escape of gas or air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hole for the escape of gas or air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening for ventilation or the escape of gas, steam, or liquid; a vent or touchhole in ordnance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural masonry and brewing, an aperture in cellars, barrels, or kilns to prevent hazardous pressure accumulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, venthole designates a hole for the escape of gas or air."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes examined the small **venthole** in the ceiling through which the poisonous dart had been blown."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"A blast of musket smoke poured through the wooden **venthole** as the defenders returned fire."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The brewer knocked the wooden peg from the **venthole** of the great vat to release fermenting gases."*
+

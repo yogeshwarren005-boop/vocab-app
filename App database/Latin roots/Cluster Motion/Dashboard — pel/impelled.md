@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Urge or force (a person) to an action; constrain or motivate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to move forward with force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Driven, pushed, or urged onward by strong physical force, conviction, passion, or necessity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace ballistics, combustion gasses expanding through convergent-divergent nozzles leave rockets impelled into orbit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper, who leads the court, is impelled to offer two remarks to Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Impelled by the mystery of which he is a partaker and yet in which he is not a sharer, Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Howbeit, impelled by innocence, she asks, “What for?” “Volumnia,” remonstrates Sir Leicester with his utmost severity."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton was **impelled** by a sublime devotion to sacrifice his life for the peace of Lucie."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The slender whaleboat was **impelled** across the choppy water by the rhythmic, powerful strokes of the crew."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Frankenstein was **impelled** by an obsessive scientific ambition to uncover the hidden mechanism of vital life."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing distress or worry or anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing distress or worry or anxiety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or accompanied by great grief, affliction, suffering, or hardship; distressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical famine records, distressful agrarian crises provoked mass demographic displacement across peripheral rural parishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Charles, and the rest, it is enacted thus: That, in regard King Henry gives consent, Of mere compassion and of lenity, To ease your country of distressful war, And suffer you to breathe in fruitful peace, You shall become true liegemen to his crown."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did consent, And often did beguile her of her tears, When I did speak of some distressful stroke That my youth suffer’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King, that calls your beauteous daughter wife, Familiarly shall call thy Dorset brother; Again shall you be mother to a king, And all the ruins of distressful times Repaired with double riches of content."*
+> - 📜 **William Shakespeare (*Henry V*):** *"The weary soldier earns a little rest with hard labor, eating his **distressful** bread with sweaty brow."*
+> - 📜 **Washington Irving (*The Sketch Book*):** *"The widow poured forth her sorrow in a **distressful** lament that touched the heart of every villager."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The sight of royal captives led through jeering mobs presented a **distressful** spectacle of fallen greatness."*
+

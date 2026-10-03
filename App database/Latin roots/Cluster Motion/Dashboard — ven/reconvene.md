@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meet again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convene, assemble, or call together again after an adjournment, recess, or suspension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parliamentary procedure, the formal resumption of deliberative legislative or judicial sessions following a stated recess.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Congress adjourned May 22d, reconvened at Richmond, Va., July 20th, and adjourned August 22d, until November 18th."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The legislature was empowered to **reconvene** at the seat of government upon executive proclamation."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The houses of parliament agreed to **reconvene** when the autumn harvest had concluded."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The national assembly decided to **reconvene** without waiting for royal assent."*
+

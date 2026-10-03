@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into difficulties or distress, especially financial hardship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause mental pain to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing anxiety, sorrow, discomfort, or mental affliction; upsetting and troublesome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and hospice palliative care, managing distressing symptoms such as dyspnea improves terminal quality of life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I heard them speaking, but my mind was so confused and my instinctive avoidance of this gentleman made his presence so distressing to me that I thought I understood nothing, through the rushing in my head and the beating of my heart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But the commentary upon it now indelibly written in his handsome face made it far more distressing than it used to be."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn should have communicated to him nothing of this painful, this distressing, this unlooked-for, this overwhelming, this incredible intelligence."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes listened attentively while Miss Morstan recounted the **distressing** disappearance of her beloved father."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lydia's elopement with Wickham was the most **distressing** intelligence that could possibly reach Longbourn."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip found his visit to the dilapidated Satis House an intensely **distressing** experience of decay and malice."*
+

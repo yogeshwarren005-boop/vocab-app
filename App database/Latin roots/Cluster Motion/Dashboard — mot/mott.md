@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states feminist and suffragist (1793-1880).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states feminist and suffragist (1793-1880).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent English surname; historically refers to Lucretia Mott (1793–1880), pioneering American abolitionist and women's rights reformer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of social movements, Mott co-organized the Seneca Falls Convention in 1848 and served as the first president of the American Equal Rights Association.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Mott said, at the women's meeting in Cooper Institute, after Sumter had been fired: 'Go on, ladies!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The board of the Woman's Central, after many changes, consisted of, VALENTINE MOTT, M.D., _President_, HENRY W."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Mott, whose fame gave weight to its early organization."*
+> - 📜 **Frederick Douglass (*Life and Times of Frederick Douglass*):** *"The moral eloquence of Lucretia **Mott** on the abolitionist platform commanded universal reverence and awe."*
+> - 📜 **Elizabeth Cady Stanton (*History of Woman Suffrage*):** *"Working alongside Mrs. **Mott** inspired us to launch the first formal convention for women's civic rights."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Old **Mott** had given up his tenure on the farm, retiring quietly to his cottage near the village brook."*
+

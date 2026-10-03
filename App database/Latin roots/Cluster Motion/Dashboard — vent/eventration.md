@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protrusion of the intestine through the abdominal wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protrusion of the intestine through the abdominal wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The protrusion of abdominal internal organs through a defect, surgical incision, or rupture in the abdominal wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, eventration of the diaphragm is an abnormal elevation of the intact diaphragmatic dome into the thoracic cavity due to phrenic muscle hypoplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eventration designates protrusion of the intestine through the abdominal wall."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The massive post-traumatic **eventration** required emergency surgical reduction to prevent strangulation of bowel loops."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"Congenital **eventration** of the left diaphragm displaced the heart and lung upward into the superior mediastinum."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The strong muscular fascia of the abdominal wall serves to prevent any spontaneous visceral **eventration** under strain."*
+

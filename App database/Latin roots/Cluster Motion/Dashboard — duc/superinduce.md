@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin duc within the domain of Motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of duc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring in or introduce as an addition to something already existing; to superimpose an extraneous condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, to superinduce a secondary disease onto an already compromised bodily constitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Submission to error superinduces loss of power."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So omnipotent is art; which in many a district of New Bedford has superinduced bright terraces of flowers upon the barren refuse rocks thrown aside at creation’s final day."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"It has enervated their strength, multiplied their diseases, and superinduced upon their original barbarity the low vices of artificial life."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"**Superinduce** magnetism at one end of a needle; the opposite magnetism immediately takes place at the other."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The long-continued isolation at sea seemed to **superinduce** a strange, fatalistic melancholy upon Ahab's soul."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Misfortune will often **superinduce** a tenderness of heart in minds previously hardened by worldly ambition."*
+

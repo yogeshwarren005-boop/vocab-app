@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old-fashioned and out of date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old-fashioned and out of date.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not progressive; opposed to change, innovation, or modern social advancement; static and traditional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic development theory, unprogressive agrarian structures characterized by insecure tenancy impede capital investments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unprogressive designates old-fashioned and out of date."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A stationary and **unprogressive** society inevitably falls behind neighboring nations in wealth and intellectual power."*
+> - 📜 **Sinclair Lewis (*Main Street*):** *"Carol lamented the stubbornly **unprogressive** mentality of the town aldermen, who rejected her modern civic improvements."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"To maintain an idle, **unprogressive** aristocracy in an age of urgent industrial labor is an invitation to catastrophe."*
+

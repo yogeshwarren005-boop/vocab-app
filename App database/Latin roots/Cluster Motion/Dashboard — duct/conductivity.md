@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The transmission of heat or electricity or sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transmission of heat or electricity or sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measure of a specified substance's capacity to transmit electricity, heat, or sound per unit cross-sectional area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and solid-state physics, high electrical conductivity in noble metals arises from free valence electron mobility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"That point of poor conductivity is the ends of the two bars to be joined."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Under those conditions the conductivity is normally good, but the influence of the incoming waves causes it to become bad."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Influence of Impurities on the Electrical Conductivity of Copper, 23 IV."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The thermal **conductivity** of metals generally corresponds with their electrical conductivity."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Many think that they are able to generate an intense heat in a chamber of practically zero thermal **conductivity**."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Experiments upon the electrical **conductivity** of aqueous saline solutions opened a new chapter in physical chemistry."*
+

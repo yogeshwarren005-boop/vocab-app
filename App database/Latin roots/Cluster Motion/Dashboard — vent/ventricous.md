@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a swelling on one side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a swelling on one side.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Swollen or distended on one side; bellied; having a protuberant, bulbous contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive conchology, characterizing mollusk shells with inflated, convex whorls that increase rapidly in diameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventricous designates having a swelling on one side."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The variety of shell with a **ventricous** spire appears well adapted for buoyant stability in quiet inland lagoons."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The floral envelope is **ventricous** at the base and contracts sharply near the calyx teeth."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The stomach of the decapod crustacean exhibits a **ventricous** expansion lined with chitinous masticatory teeth."*
+

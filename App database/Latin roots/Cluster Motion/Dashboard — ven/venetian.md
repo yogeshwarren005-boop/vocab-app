@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A resident of venice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of venice or its people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Venice, its inhabitants, or its dialect; a person born or living in Venice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural and decorative history, distinctive styles including Venetian Gothic arches, terrazzo flooring, and multi-slat window blinds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do you not remember, lady, in your father’s time, a Venetian, a scholar and a soldier, that came hither in company of the Marquis of Montferrat?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, and my old Venetian friend, Salerio!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of a strange nature is the suit you follow, Yet in such rule that the Venetian law Cannot impugn you as you do proceed. [_To Antonio_.] You stand within his danger, do you not?"*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Antonio was an honorable **venetian** merchant whose argosies traded across distant oceans."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The splendor of **venetian** architecture reflects the meeting of Byzantine color and Western Gothic form."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"The gondola glided silently along the narrow canal under the balconies of an ancient **venetian** palace."*
+

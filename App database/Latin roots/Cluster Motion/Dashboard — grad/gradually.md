@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a gradual manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a gradual manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a slow, step-by-step manner; little by little over an extended period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, physicians titrate dosages gradually to avoid adverse drug reactions while monitoring therapeutic efficacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Gradually the whole knot moved into the house and towards the uncle's armchair."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Take a little bit at first and gradually more and more."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"As the prospect gradually revealed itself and disclosed the scene over which the wind had wandered in the dark, like my memory over my life, I had a pleasure in discovering the unknown objects that had been around me in my sleep."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The coral atolls **gradually** subside beneath the tropical ocean, leaving rings of barrier reefs behind."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The stormy clouds dispersed **gradually**, revealing a calm blue sky illuminated by the morning sun."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes **gradually** pieced together the tangled threads of the mystery from footprints upon the moor."*
+

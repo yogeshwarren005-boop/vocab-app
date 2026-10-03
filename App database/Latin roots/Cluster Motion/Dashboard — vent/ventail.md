@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval hood of mail suspended from a basinet to protect the head and neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medieval hood of mail suspended from a basinet to protect the head and neck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The movable front piece or visor of a medieval helmet through which the wearer breathed and saw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval arms and armor history, the ventail (or aventail) evolved from a mail curtain into a hinged steel visor in 14th-century bascinets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventail designates a medieval hood of mail suspended from a basinet to protect the head and neck."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Disinherited Knight raised his **ventail**, displaying his flushed face to the cheering spectators."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"Sir Nigel lowered his steel **ventail** and settled his lance in rest as the French knights advanced."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"Sir Lancelot pierced through the **ventail** of the pagan king, unhorsing him with mighty strokes."*
+

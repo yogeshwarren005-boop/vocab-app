@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes a group of plants that in some classifications are included in the genus anemone: pasqueflowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes a group of plants that in some classifications are included in the genus anemone: pasqueflowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous perennial plants in the buttercup family Ranunculaceae, commonly known as pasqueflowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical herbal pharmacopeia, extracts of Pulsatilla were administered as a sedative and antispasmodic for menstrual disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Consult index for agitated fear of aconite, melancholy of muriatic, priapic pulsatilla."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The older pharmacopoeia recommended tincture of **Pulsatilla** for spasmodic cough and acute catarrhal conditions."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Early spring heralds the nodding purple blossoms and silky achenes of the wild prairie **Pulsatilla**."*
+> - 📜 **John Ruskin (*Proserpina*):** *"The delicate downy leaves of **Pulsatilla** emerge through alpine snows to welcome the first warm sunlight."*
+

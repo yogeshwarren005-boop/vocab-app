@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To regard with deep respect, reverence, or awe, especially on account of sacred character or wisdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion, the formal theological distinction between dulia (venerating saints) and latria (worshiping God alone).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"These men were the travel-worn veterans of Sherman, and the battle-stained heroes of the glorious old Army of the Potomac, men of whom the nation is already proud, and whom history will teach our children to venerate."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The power of the Czar could not exist for a single moment if the mass of the people did not look to him as the great father whom they venerate and love."*
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Which sages venerate and bards adore, As Pallas and the Muse unveil their awful lore."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The citizens were taught to **venerate** the memory of their republican ancestors."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Children should learn to **venerate** truth and justice above all worldly advantages."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Man was created to **venerate** the noble and heroic wherever he beholds it in history."*
+

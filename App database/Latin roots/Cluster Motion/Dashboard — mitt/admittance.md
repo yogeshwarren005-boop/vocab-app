@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The right to enter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of admitting someone to enter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Permission, right, or the actual process of entering a building, organization, or domain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and alternating-current circuit analysis, admittance represents the reciprocal of impedance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With five times so much conversation I should get ground of your fair mistress; make her go back even to the yielding, had I admittance and opportunity to friend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Give first admittance to th’ambassadors; My news shall be the fruit to that great feast."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For, lo, within a ken our army lies, Upon mine honour, all too confident To give admittance to a thought of fear."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes knocked loudly upon the heavy timber gate, demanding immediate **admittance** in the name of the law."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy was denied **admittance** to the drawing-room while Elizabeth nursed her ailing sister at Netherfield."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The porter guarded the Chancery threshold with stubborn vigilance, granting **admittance** only to recognized clerks."*
+

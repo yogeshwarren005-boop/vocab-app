@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a ventral location or direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a ventral location or direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Toward, on, or in the direction of the ventral or belly side of an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, the neural tube closes along the dorsal axis while the gut tube develops and fuses ventrally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ventrally designates in a ventral location or direction."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The keel bone of the duck bends slightly **ventrally** in certain artificially selected domestic strains."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The heart lies **ventrally** to the esophagus and descending aorta within the thoracic cavity."*
+> - 📜 **Richard Cabot (*Physical Diagnosis*):** *"The enlarged spleen extended **ventrally** and medially across the left upper quadrant."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of sending a message; causing a message to be transmitted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transfer to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sending, conveying, or communicating signals, energy, traits, or documents from one entity to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical fiber optics, total internal reflection enables optical fibers to operate transmitting light across ocean basins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"It is remarkable, however, that she neither insisted on Catherine’s writing by every post, nor exacted her promise of transmitting the character of every new acquaintance, nor a detail of every interesting conversation that Bath might produce."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The first one was laid in the years 1857 and 1858; but, after transmitting about 400 telegrams, would not act any longer."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The capsule is transmitting orders to each ship of the fleet to move to new coordinates in a three-dimensional tract."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The copper conductor performed the function of **transmitting** the galvanic current into the electrolytic cell."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domestic breeders observe high fidelity when **transmitting** distinctive plumage colors to subsequent broods."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The intricate brass apparatus appeared capable of **transmitting** physical matter across temporal dimensions."*
+

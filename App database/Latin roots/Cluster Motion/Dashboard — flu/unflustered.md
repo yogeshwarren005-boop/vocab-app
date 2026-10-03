@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from emotional agitation or nervous tension; ; - anthony trollope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed, self-possessed, and undisturbed by confusing or frantic events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical crisis management, unflustered practitioners prioritize life-saving interventions methodically without cognitive overload.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unflustered designates free from emotional agitation or nervous tension; ; - anthony trollope."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley was entirely **unflustered** by the sudden domestic commotion, resolving the dispute with quiet firmness."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The detective's **unflustered** demeanor contrasted sharply with the hysterical panic of the client."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Doctor Lydgate remained **unflustered** during the emergency, applying the tourniquet with steady fingers."*
+

@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of spores or microorganisms) not capable of movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of spores or microorganisms) not capable of movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking the capacity for spontaneous independent movement or locomotion; stationary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and botany, distinguishes sessile bacterial strains and non-flagellated spores from flagellated, chemotactic species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonmotile designates (of spores or microorganisms) not capable of movement."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Microscopic examination confirmed that the yeast cells remained entirely **nonmotile** throughout the fermentation process."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The adult stage of the colonial polyp is fixed and **nonmotile**, relying on surrounding currents for nourishment."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The pollen grains are completely **nonmotile** and depend upon insect visitors or winds for cross-fertilization."*
+

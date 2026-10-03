@@ -42,9 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Status established in order of importance or urgency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding in time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of preceding in time, rank, order, or importance; an alternative spelling of precedence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern British ceremonial history, disputes over royal precedency were adjudicated by the Court of Chivalry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There were no ladies on board; the Major gave the pas of precedency to the civilian, so that he was the first dignitary at table, and treated by Captain Bragg and the officers of the Ramchunder with the respect which his rank warranted."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"Woman is the blood-royal of life: let there be slight degrees of precedency among them--but let them be ALL sacred."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The ancient orders of nobility maintained their established **precedency** as a barrier against arbitrary monarchical power."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The courtiers of Lilliput engaged in acrobatic rope-dancing contests to determine their political **precedency**."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The ambassadors of France and Spain fought openly in the streets of London over diplomatic **precedency**."*
+

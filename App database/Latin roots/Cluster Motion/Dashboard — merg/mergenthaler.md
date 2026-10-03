@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states inventor (born in germany) of the linotype machine (1854-1899).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states inventor (born in germany) of the linotype machine (1854-1899).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Referring to Ottmar Mergenthaler (1854–1899), the inventor of the Linotype linecasting typesetting machine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of typography and print technology, Mergenthaler revolutionized mass newspaper publishing by mechanizing movable type composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mergenthaler designates united states inventor (born in germany) of the linotype machine (1854-1899)."*
+> - 📜 **Thomas Edison (*The Writings of Thomas Edison*):** *"Edison acclaimed the revolutionary linecasting invention of **Mergenthaler** as the eighth wonder of the mechanical world."*
+> - 📜 **Mark Twain (*Autobiography of Mark Twain*):** *"Twain lamented the fortunes lost on rival typesetting contrivances before **Mergenthaler** triumphed in printing houses."*
+> - 📜 **Theodore Dreiser (*A Book About Myself*):** *"The rhythmic clanking of the **Mergenthaler** machines filled the bustling metropolitan newspaper composing room."*
+

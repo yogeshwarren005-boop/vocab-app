@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to suppress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to suppress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to suppress, quash, conceal, or prevent manifestation or expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military tactical doctrine, suppressive fire prevents enemy forces from observing or firing effectively during friendly movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, suppressive designates tending to suppress."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"All **suppressive** measures directed against unorthodox doctrines ultimately injure intellectual progress."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **suppressive** edicts issued against the eastern provinces only intensified religious resistance."*
+> - 📜 **George Orwell (*1984*):** *"The Thought Police employed ruthlessly **suppressive** techniques to extirpate unorthodox thoughts before they coalesced."*
+

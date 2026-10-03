@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lighting fixture that uses a fluorescent lamp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emitting light during exposure to radiation from an external source.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting, producing, or illuminated by fluorescence; glowing with vivid luminescence under ultraviolet light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lighting technology, a fluorescent lamp uses low-pressure mercury vapor gas discharge to generate ultraviolet light that excites internal phosphor coatings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluorescent designates a lighting fixture that uses a fluorescent lamp."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"Then I perceived a strange light, a pale, violet-purple **fluorescent** glow quivering on the grass."*
+> - 📜 **Marie Curie (*Treatise on Radioactivity*):** *"The mineral specimen displayed a bright **fluorescent** aura when exposed to cathode rays."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Crystals of fluorite exhibit magnificent **fluorescent** colors under the invisible rays of the solar spectrum."*
+

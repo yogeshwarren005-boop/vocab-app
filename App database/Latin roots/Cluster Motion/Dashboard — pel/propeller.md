@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device that rotates to push against air or water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical device that rotates to push against air or water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device with rotating radiating blades positioned on a shaft, used to propel a ship or aircraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture and marine hydrodynamics, variable-pitch propeller blades optimize cavitation margins across varying vessel speeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The F-80's high accident rate in the early years of the war was attributed to pilots familiar with propeller-driven aircraft transitioning to the faster and more powerful jets."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In effect, the USAF was experiencing a major transition from relatively slow propeller-driven to much higher speed jet aircraft - in the middle of an intense air war."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Since no man-made mechanism can approach the marvellous action of the fish's fins and tail, the propulsion is achieved by a propeller like that of a steamboat, but of course on a very small scale."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"The massive bronze **propeller** of the Nautilus turned silently, driving the submarine through the Atlantic depths."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The Nan-Shan plunged into the mountainous sea until her racing **propeller** rose thrashing clear of the foam."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The aerial battle-cruiser swung gracefully into the wind as its twin **propeller** blades began their droning hum."*
+

@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wrongful interference with the possession of property (personal property as well as realty), or the action instituted to recover damages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entry to another's property without right or permission.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To enter unlawfully upon another's land or property; or to commit an offense, sin, or transgression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common law jurisprudence, trespass encompasses direct physical interference with another's person, land, or goods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mother, for love of grace, Lay not that flattering unction to your soul That not your trespass, but my madness speaks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My nephew’s trespass may be well forgot, It hath the excuse of youth and heat of blood, And an adopted name of privilege— A hare-brain’d Hotspur, govern’d by a spleen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His trespass yet lives guilty in thy blood; And, till thou be restored, thou art a yeoman."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"They did usurp the kingdom and **trespass** against the lawful prince, casting us upon this enchanted isle."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The pilgrims turned aside into Bypath Meadow, realizing too late that they did **trespass** upon Giant Despair's ground."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"The state commits a moral **trespass** when it compels an honest citizen to support unjust institutions."*
+

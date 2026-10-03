@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leader.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leader.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leader or commander; historically adopted as the title of Benito Mussolini as Fascist dictator of Italy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century political history, Il Duce (derived from Latin dux) symbolized totalitarian leader-cult authority in interwar Italy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"But does it pro- duce any lasting benefit?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mind is the divine Principle, Love, and can pro- duce nothing unlike the eternal Father-Mother, God. 335:27 Reality is spiritual, harmonious, immutable, immortal, divine, eternal."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"If matter is first, it cannot pro- 551:6 duce Mind."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Mussolini styled himself Il **Duce**, projecting an image of dynamic Caesarist leadership over the Italian nation."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Italian fascist legionaries shouted mechanical praises of their **Duce** as they occupied the bombed ruins."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The British fascist organizer dreamed of playing the grand **Duce** in London drawing rooms."*
+

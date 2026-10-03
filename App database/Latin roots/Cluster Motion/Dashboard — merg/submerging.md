@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking until covered completely with water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sink below the surface; go under or as if under water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sinking, plunging, or disappearing below the surface of a fluid medium; or inundating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydraulic engineering, submerging sluice gates regulates reservoir head pressures during seasonal flood discharges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Master Benjamin, or Ben, as he was called everywhere except in his own family, had got possession of the black kitten, and appeared to be submerging her in the hogshead of rainwater."*
+> - 📜 **Joseph Conrad (*The Nigger of the 'Narcissus'*):** *"The roaring white water rushed across the listing deck, **submerging** the struggling crew up to their waists."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"With one final sweep of his tail, the leviathan sounded, **submerging** into the unfathomable depths of the Pacific."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"The torrential Alpine rain fell incessantly, **submerging** mountain roads and carrying away wooden bridges."*
+

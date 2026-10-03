@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provided with vents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not provided with vents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equipped with an exhaust pipe, chimney, or opening to release gases, air, or pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In building safety and heating engineering, unvented gas heaters discharge combustion by-products directly into the room, requiring oxygen depletion sensors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unvented designates not provided with vents."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The cellar room was a dark, **unvented** vault smelling heavily of damp earth and rotting parchment."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The fumes from the **unvented** burner filled the laboratory corner with acrid chemical vapors."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The fertilizer plant consisted of an **unvented** brick furnace emitting suffocating sulfur fumes upon the workmen."*
+

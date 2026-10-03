@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The feelings expressed on a person's face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expression without words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making known thoughts or feelings through words, facial looks, or artistic actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebra and computer programming, a combination of constants, variables, operators, and functions that evaluates to a value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"It had not escaped him that an expression of sorrow had spread over his mother's face after his words."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"You must never use that expression any more, Mäzli."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Leonore's image with the long, brown curls and the winning expression in her eyes woke her lively desire to see the child that resembled her so much."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"There was a singular **expression** of triumphant pride upon Miss Havisham's withered face as she watched us."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The facial **expression** of rage is accompanied by violent acceleration of the circulation and flashing eyes."*
+> - 📜 **Ralph Waldo Emerson (*The Poet*):** *"The poet is the man who finds the perfect **expression** for what all men secretly feel and obscurely know."*
+

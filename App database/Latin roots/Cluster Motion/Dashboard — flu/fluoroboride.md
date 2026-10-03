@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of fluoroboric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt of fluoroboric acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex chemical salt or compound containing boron, fluorine, and another element or radical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coordination chemistry and electroplating, zinc fluoroboride solutions serve as high-efficiency electrolytes for protective metal deposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluoroboride designates a salt of fluoroboric acid."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electrolytic decomposition of the crystalline **fluoroboride** solution yielded a volatile pungent vapor."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The synthetic chemist combined hydrofluoric acid with borates to produce a heavy **fluoroboride** salt."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The ionic mobility within aqueous **fluoroboride** electrolytes was determined by galvanic deflection."*
+

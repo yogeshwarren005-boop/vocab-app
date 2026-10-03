@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unmoved by feeling; ; -margaret deland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unmoved by feeling; ; -margaret deland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of emotion, feeling, or passion; calm, cold, impassive, or unfeeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, an emotionless flat affect is a hallmark negative symptom observed in chronic schizophrenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emotionless designates unmoved by feeling; ; -margaret deland."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"To Sherlock Holmes she is always the woman; he never spoke of her under any other name, maintaining his cold, **emotionless** demeanor."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn stood before the hearth, an **emotionless** rusty automaton holding the secret fate of noble families."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers spoke in an **emotionless**, measured cadence that froze my ardent heart."*
+

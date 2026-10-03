@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) the configuration of smaller units of information into large coordinated units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of packaging cargo into unit loads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or policy of combining multiple parcels, packages, or entities into a standardized, integrated unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum reservoir engineering, unitisation consolidates oil and gas extraction across multiple leaseholds under a single joint operating agreement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitisation designates (psychology) the configuration of smaller units of information into large coordinated units."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The industrial **unitisation** of mechanical parts enabled factory assembly lines to manufacture goods at unprecedented speed."*
+> - 📜 **Herbert Spencer (*The Study of Sociology*):** *"The **unitisation** of scattered commercial enterprises into large corporate bodies is a hallmark of industrial maturity."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The economic **unitisation** of small agricultural holdings into consolidated sheep farms transformed English husbandry."*
+

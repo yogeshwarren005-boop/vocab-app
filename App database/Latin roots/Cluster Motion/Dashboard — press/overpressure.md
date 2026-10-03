@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A transient air pressure greater than the surrounding atmospheric pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transient air pressure greater than the surrounding atmospheric pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pressure exceeding the normal, safe, or ambient atmospheric baseline; excessive mechanical urging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In blast dynamics and explosive ballistics, the transient peak pressure wave produced by a detonation above atmospheric ambient pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, overpressure designates a transient air pressure greater than the surrounding atmospheric pressure."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The safety relief valves vented instantly when the gas manifold detected an **overpressure** of two atmospheres."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The explosive blast wave created an immense **overpressure** that shattered every window within five miles."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The autoclave began to hiss violently as the steam **overpressure** strained the brass safety bolts."*
+

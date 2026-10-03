@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being expressed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being expressed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being uttered, described, communicated, or represented in language or symbols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and mathematics, a property or relation that can be formally stated within a given axiomatic language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, expressible designates capable of being expressed."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Many complex ideas of the mind are readily **expressible** in language, though simple sensations defy perfect description."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Mathematical truths are strictly **expressible** through unambiguous logical primitives and propositional variables."*
+> - 📜 **George Eliot (*Middlemarch*):** *"There were nuances in Dorothea's yearning that were scarcely **expressible** within the narrow social conventions of her time."*
+

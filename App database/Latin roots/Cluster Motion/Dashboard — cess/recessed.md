@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into a recess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a recess in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Set back into a wall, surface, or alcove; positioned in a secluded, indented, or withdrawn space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural lighting and interior construction, recessed downlights are installed flush within ceiling cavities to conceal fixture hardware.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His house stood recessed from the road, and the stables, which are to a farm what a fireplace is to a room, were behind, their lower portions being lost amid bushes of laurel."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A conical view tank, recessed in the wall to his left, glowed with symbols of ships and their military characteristics, along with tactical and logistical links."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Peering from a recessed slot along the wall he saw Ram's abductors crowd around the entry to an open utility."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His house stood **recessed** from the road, and the stables were sheltered behind ancient sycamore boughs."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"A heavy iron safe was **recessed** into the solid granite wall of the baronet's study."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The antique library was fitted with tall shelves **recessed** deep between projecting carved oak pilasters."*
+

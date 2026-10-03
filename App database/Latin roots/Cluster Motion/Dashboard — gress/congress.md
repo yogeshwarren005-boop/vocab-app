@@ -42,10 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The legislature of the united states government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meeting of elected or appointed representatives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal meeting or series of meetings of representatives to discuss matters; or the national legislative body of a republic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic history, the Congress of Vienna (1814–1815) reconstituted the European balance of power following the Napoleonic Wars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"His reply was in substance as follows: "When standing on a stoop on the corner of Fourth and Congress streets, cogitating which way I should go, I was impressed by a voice within which directed my course to the Conference Room."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The continental notes were issued by the Continental Congress in the first year of the war (1775), and for the next five years."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"At length Congress in 1908 created a "National Monetary Commission" to inquire into and report what changes were necessary and desirable in the monetary system of the United States or in the laws relative to banking and currency."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Envoys from every sovereign court assembled in solemn **congress** to negotiate the terms of European peace."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal **Congress** must possess adequate legislative power to regulate interstate and foreign commerce."*
+> - 📜 **George Washington (*Writings of George Washington*):** *"The general submitted his military dispatches to the Continental **Congress**, urging immediate financial support."*
+

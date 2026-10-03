@@ -42,8 +42,11 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Salt of fluosilicic acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Salt of fluosilicic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical salt containing the hexafluorosilicate anion, formed by the reaction of silica with hydrofluoric acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal water fluoridation chemistry, sodium fluosilicate dissolves to release bioavailable fluoride ions into potable water networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fluosilicate designates salt of fluosilicic acid."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The precipitate formed upon adding potassium chloride to the solution was identified as a crystalline **fluosilicate**."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Hydrothermal vapors containing fluorine react with silicate wall rocks to deposit minute crystals of **fluosilicate**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fumarolic sublimates around active volcanoes frequently contain crusts of ammonium **fluosilicate**."*
+

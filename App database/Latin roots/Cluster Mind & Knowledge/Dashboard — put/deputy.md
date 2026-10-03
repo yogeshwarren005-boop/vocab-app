@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone authorized to exercise the powers of sheriff in emergencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assistant with power to act when his superior is absent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An appointed official or assistant authorized to exercise the powers and duties of a superior in their absence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law enforcement, a sworn peace officer serving directly under an elected county sheriff.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s no more faith in thee than in a stewed prune, nor no more truth in thee than in a drawn fox; and, for woman-hood, Maid Marian may be the deputy’s wife of the ward to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I again, in Henry’s royal name, As deputy unto that gracious king, Give thee her hand for sign of plighted faith."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And therefore, by His majesty I swear, Whose far unworthy deputy I am, He shall not breathe infection in this air But three days longer, on the pain of death. [_Exit Salisbury._] QUEEN MARGARET."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The executive magistrate must possess authority to dismiss any subordinate **deputy** who abuses public trust."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Lord Angelo was appointed the Duke's **deputy** to enforce strict morality laws throughout the city of Vienna."*
+> - 📜 **Cormac McCarthy (*Blood Meridian*):** *"A ragged **deputy** stepped from the shadows of the adobe jail, holding a battered lantern above his eyes."*

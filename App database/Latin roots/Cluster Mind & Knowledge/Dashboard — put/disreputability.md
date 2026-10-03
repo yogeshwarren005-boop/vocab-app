@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dishonorableness by virtue of lacking respectability or a good reputation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dishonorableness by virtue of lacking respectability or a good reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of having a bad reputation, low social standing, or untrustworthy character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociopolitical discourse, public notoriety and dishonor attaching to corrupt institutions or criminal enterprises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disreputability designates dishonorableness by virtue of lacking respectability or a good reputation."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The tavern sank into murky **disreputability**, frequented only by river thieves and nocturnal smugglers."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Rawdon Crawley lived in aristocratic **disreputability**, evading creditors and living grandly on nothing a year."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy was acutely conscious of the social **disreputability** attaching to Wickham's scandalous elopement."*

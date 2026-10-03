@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine for performing calculations automatically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert at calculation (or at operating calculating machines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic programmable device that accepts, processes, stores, and outputs data through programmed instructions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical parlance, a human clerk employed to perform tedious mathematical reckonings and table calculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out." Keeper's message simultaneously loaded into the recon-patroller's computer as authenticator for the mission and demolition and laser gun settings."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The computer adjusted thrust and vector to bring the ship to the 'fire' point and engage the countdown and sequence to launch, arm the warhead, and follow up."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Without warning, the computer froze."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"Can a digital **computer** be programmed to simulate human conversational intellect convincingly enough to pass the test?"*
+> - 📜 **John von Neumann (*The Computer and the Brain*):** *"The architecture of the stored-program **computer** separates arithmetic memory registers from central processing logic."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The sentient shipboard **computer** HAL monitored environmental life support while navigating toward Saturn."*

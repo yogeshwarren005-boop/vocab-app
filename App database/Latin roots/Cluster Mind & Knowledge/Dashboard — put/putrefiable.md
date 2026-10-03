@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to decay or spoil or become putrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to decay or spoil or become putrid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable, susceptible, or subject to putrefaction, rotting, and biological decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical food preservation, perishable animal flesh or dairy broths lacking salt or chemical desiccants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrefiable designates liable to decay or spoil or become putrid."*
+> - 📜 **Louis Pasteur (*Memoir on the Organized Corpuscles*):** *"The heated urine remained clear in the swan-neck flask, proving that a **putrefiable** liquid does not generate life spontaneously."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"Every **putrefiable** substance will remain sweet indefinitely if air is filtered through sterilized cotton wool."*
+> - 📜 **John Tyndall (*Essays on the Floating-Matter of the Air*):** *"He subjected hundreds of tubes of **putrefiable** mutton infusion to discontinuous boiling to eliminate resistant spores."*

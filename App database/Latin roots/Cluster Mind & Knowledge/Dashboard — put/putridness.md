@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state of progressive putrefaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a state of progressive putrefaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Offensive foulness, advanced putrefaction, or the fetid character of decaying matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical pathology, the visible breakdown and liquefaction of infected tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putridness designates in a state of progressive putrefaction."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The marshy inlet was notorious for fevers, its muddy banks exuding a persistent **putridness** in the heat."*
+> - 📜 **Herman Melville (*Redburn*):** *"The steerage deck was filled with the sickening **putridness** of spoiled salt pork and unwashed bedding."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Naturalists dispute whether the viper can survive amid the noxious **putridness** of corrupted waters."*

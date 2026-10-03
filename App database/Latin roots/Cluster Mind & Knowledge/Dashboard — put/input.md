@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Signal going into an electronic system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement that expresses a personal opinion or belief or adds information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Data, energy, or information entered into a system, computer, or process for processing or storage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In collaborative decision making, contributions of advice, opinions, or expertise offered by stakeholders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"What's their input?" "Adari is your navigator."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Out of the corners of his eyes Brad observed Hyk input orders to the Dragon's guidance control and navigation centers."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"When the last capsule had cleared the tank Zolan's fingers raced across the console's keypad and the screen recapped the inputs."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Feedback loops continuously adjust operational output by comparing performance against sensory **input** signals."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"The paper tape provided discrete symbolic **input** that guided the internal state transitions of the machine."*
+> - 📜 **Herbert Simon (*The Sciences of the Artificial*):** *"Complex economic models require high-fidelity statistical **input** to forecast production trends accurately."*

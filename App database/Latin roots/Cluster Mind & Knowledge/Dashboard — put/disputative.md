@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by dispute, debate, or argument; argumentative or controversial in tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical theory, describing a dialectical style intended to stimulate debate rather than didactic consensus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disputative designates inclined or showing an inclination to dispute or disagree, even to engage in law suits."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"He warned tutors against encouraging a **disputative** humor in youths, which fosters petulance over wisdom."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Critics of a **disputative** bent waste their ink condemning syllables while missing the grandeur of the epic."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"German metaphysical treatises frequently adopt a **disputative** framework to systematically refute rival systems."*

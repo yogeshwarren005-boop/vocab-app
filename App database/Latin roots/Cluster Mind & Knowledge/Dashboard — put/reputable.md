@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a good reputation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a good reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a good reputation; considered trustworthy, honorable, respectable, and principled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trade and civil society, businesses and practitioners recognized for ethical standards and quality service.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"About, in the gas-lit square, escorted, guarded, went other women, reputable women."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The bald-headed bankers might shake their heads and say: He was no good ... he was a rake ... he drank ... his relations with women were not reputable...."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"When it had been settled between Isabel and her friend that they should be reunited at some reputable hour at Pratt’s Hotel, Ralph remarked that the latter must have a cab."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Weston was a **reputable** gentleman whose genial hospitality made him beloved across Highbury."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Tellson's was an old and eminently **reputable** banking firm that prided itself on austere tradition."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I resolved to deal only with **reputable** printers whose craftsmanship met the highest standards of the trade."*

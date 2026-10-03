@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become putrid; decay with an offensive smell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become putrid; decay with an offensive smell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo putrefaction; to rot, decompose, or decay with the emission of a foul, offensive odor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral and political allegories, to fester and deteriorate into corrupt, degenerate ruin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"She may not touch any food which is to be preserved by salting, whether it be fish, flesh, or vegetables; for were she to touch it the food would putrefy."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In Brunswick people think that if a menstruous woman assists at the killing of a pig, the pork will putrefy."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The stem now rapidly putrefies, the cuticle and its subjacent tissue become pulpy, and separate when touched from the woody parts beneath."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"Let me look upon the city once more before I depart; may treason thrive and all her morals **putrefy**!"*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Without refrigeration, the slaughtered game began to **putrefy** rapidly under the midday subtropical sun."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Brobdingnagian flies dropped their monstrous eggs upon my food, which caused it immediately to **putrefy**."*

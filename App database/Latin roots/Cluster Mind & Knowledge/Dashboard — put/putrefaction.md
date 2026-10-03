@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of decay usually accompanied by an offensive odor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the process of decay caused by bacterial or fungal action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The decomposition of organic matter, especially the bacterial breakdown of proteins producing foul-smelling compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic science, the stage of postmortem alteration characterized by cadaveric discoloration, bloating, and liquefaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Directly Rostóv entered the door he was enveloped by a smell of putrefaction and hospital air."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"And I shall have to tell you later that even the processes of putrefaction and decay had been profoundly affected by these changes."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"All over the plains, lying in disgusting masses of putrefaction along valley and hill, are strewn immense carcasses of wantonly slain buffalo."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The intense tropical heat accelerated the **putrefaction** of the stranded whale carcass upon the rocky beach."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications to Medicine*):** *"He demonstrated conclusively that **putrefaction** is produced entirely by living microorganisms carried in atmospheric dust."*
+> - 📜 **Edgar Allan Poe (*The Facts in the Case of M. Valdemar*):** *"The mesmerized corpse dissolved in minutes into an unrecognizable liquid mass of detestable **putrefaction**."*

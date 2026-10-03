@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in high esteem and honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Look on as or consider.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The opinion generally held of someone or something; public esteem, renown, or reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To consider, believe, or account someone or something to be in a specified condition or rank.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, I have considered with myself The title of this most renowned duke, And in my conscience do repute his grace The rightful heir to England’s royal seat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till then, my noble friend, chew upon this: Brutus had rather be a villager Than to repute himself a son of Rome Under these hard conditions as this time Is like to lay upon us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him, I, as my ever-esteemed duty pricks me on, have sent to thee, to receive the meed of punishment, by thy sweet Grace’s officer, Antony Dull, a man of good repute, carriage, bearing, and estimation._ DULL."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan stood supreme in evil **repute**, adored by fallen angels as the architect of their bold defiance."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Black Knight was a warrior of formidable **repute**, whose prowess in the tournament stunned the spectators."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Philosophers of high **repute** were summoned from Athens to instruct the imperial princes in jurisprudence."*

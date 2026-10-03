@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who putters about.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who putters about.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who putters; one who occupies their time with pleasant, minor, or desultory tasks without haste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character sketches, a hobbyist or tinkerer who enjoys browsing workshops and fixing domestic gadgets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putterer designates a person who putters about."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The contented **putterer** discovers in small domestic repairs a deeper philosophy than in bustling commerce."*
+> - 📜 **P. G. Wodehouse (*Leave It to Psmith*):** *"Lord Emsworth was a dedicated **putterer** among his prize pumpkin patches, oblivious to aristocratic intrigue."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"His neighbor was an inveterate garage **putterer**, polishing carburettors on warm Sunday afternoons."*

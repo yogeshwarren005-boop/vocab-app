@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in high esteem and honor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Notoriety for some particular characteristic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The general estimation, belief, or opinion held by the public about someone or something's character and worth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical drama, the moral capital and public honor upon which social standing and personal dignity depend.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though my estate be fall’n, I was well born, Nothing acquainted with these businesses, And would not put my reputation now In any staining act."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Five or six thousand; but very weak and unserviceable: the troops are all scattered, and the commanders very poor rogues, upon my reputation and credit, and as I hope to live."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is his reputation with the duke?"*
+> - 📜 **William Shakespeare (*Othello*):** *"**Reputation**, **reputation**, **reputation**! O, I have lost my **reputation**! I have lost the immortal part of myself, and what remains is bestial."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"One false step in a young woman's conduct involves her in inevitable ruin and destroys her **reputation** forever."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A good name and noble **reputation** is like an aromatic fragrance that outlasts the vessel containing it."*

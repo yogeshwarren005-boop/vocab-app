@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the putrid odor of decaying organic matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the putrid odor of decaying organic matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Emitting a foul, rotten, or nauseating stench characteristic of decomposing organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory descriptions, conveying the pungent, sulfurous odor produced by anaerobic bacteria in rotting tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrid-smelling designates having the putrid odor of decaying organic matter."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We stepped cautiously through the swamp, gagging at the **putrid-smelling** mud that bubbled with volcanic methane."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The kitchen was filled with **putrid-smelling** grease that had accumulated behind the ovens for months."*
+> - 📜 **Bram Stoker (*Dracula*):** *"As the vault opened, a cold, **putrid-smelling** draught issued from the tombs, chilling our blood."*

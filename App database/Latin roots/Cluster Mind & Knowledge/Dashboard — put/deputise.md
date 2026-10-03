@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act as a substitute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint as a substitute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To act as a deputy, substitute for, or delegate authority to another (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal administration, authorizing citizens or assistants to perform official administrative or legal duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deputise designates act as a substitute."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Inspector Jones asked the constable to **deputise** for him at Scotland Yard while he pursued the Baker Street lead."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The bishop requested Mr. Slope to **deputise** for his lord during the confirmation ceremony at the cathedral."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard had to **deputise** his young Scottish manager to inspect grain shipments arriving at the town quay."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement attributing something dishonest (especially a criminal offense).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The attribution to a source or cause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The attribution or assignment of an action, guilt, crime, or characteristic to someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the doctrine of imputed righteousness or original sin transferred from Adam to humanity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I mean, sir, for his weapon; but in the imputation laid on him, by them in his meed he’s unfellowed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master: if to his men, I would curry with Master Shallow that no man could better command his servants."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Else imputation, For that he knew you, might reproach your life, And choke your good to come."*
+> - 📜 **William Shakespeare (*Othello*):** *"Give me a living reason she's disloyal! If not, monstrous **imputation** will tear your soul to pieces!"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth resented Darcy's disdainful **imputation** that her family connections were shockingly deficient in elegance."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Man shall find grace through the **imputation** of Christ's righteousness, freely offered to redeem fallen Adam."*

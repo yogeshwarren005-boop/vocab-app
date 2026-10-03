@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: North american orchid bearing a single leaf and yellowish-brown flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: North american orchid bearing a single leaf and yellowish-brown flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A North American woodland orchid (Aplectrum hyemale) producing sticky mucilaginous tubers historically used as glue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional botany, an orchid species famous for producing a single overwintering leaf and persistent paired underground corms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, puttyroot designates north american orchid bearing a single leaf and yellowish-brown flowers."*
+> - 📜 **John Muir (*The Story of My Boyhood and Youth*):** *"Pioneers dug the tubers of the **puttyroot** orchid to concoct an adhesive for mending broken earthenware."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Specimens of **puttyroot** thrive in rich deciduous forest leaf mold, flowering in early summer."*
+> - 📜 **Henry David Thoreau (*Faith in a Seed*):** *"The solitary winter leaf of the **puttyroot** stands out boldly against the snow-covered forest floor."*

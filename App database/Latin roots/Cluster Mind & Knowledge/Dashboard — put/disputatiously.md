@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disputatious manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disputatious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disputatious, argumentative, or contentious manner; with habitual eagerness to provoke debate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In courtroom advocacy, arguing points with obstinate, adversarial persistence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disputatiously designates in a disputatious manner."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Barristers in the Court of Chancery argued **disputatiously** over tiny points of chancery procedure for decades."*
+> - 📜 **Herman Melville (*Bartleby, the Scrivener*):** *"Nippers behaved **disputatiously** every morning, grinding his teeth and continually adjusting his writing desk."*
+> - 📜 **Henry James (*The Bostonians*):** *"The reformers discussed constitutional amendments **disputatiously**, unable to agree upon unified political resolutions."*

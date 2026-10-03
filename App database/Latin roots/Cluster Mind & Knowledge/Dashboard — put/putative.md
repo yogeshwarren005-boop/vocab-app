@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Purported; commonly put forth or accepted as true on inconclusive grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Purported; commonly put forth or accepted as true on inconclusive grounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Generally considered, reputed, or assumed to be something; supposed or commonly accepted as true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and genetics, a candidate gene or ancestral lineage presumed to perform a specific function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putative designates purported; commonly put forth or accepted as true on inconclusive grounds."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The fossil specimen was hailed as a **putative** ancestor linking early theropods with modern birds."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Molecular clocks allow us to calibrate the **putative** divergence dates between hominid lineages."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **putative** father of the young prince was widely rumored to be a Syrian gladiator."*

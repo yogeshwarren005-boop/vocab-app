@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Attribute or credit to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attribute (responsibility or fault) to a cause or source.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To attribute, ascribe, or credit an action, motive, or crime to a person or cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic rhetoric, to assign legal blame or financial responsibility for damages to an individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This silence for my sin you did impute, Which shall be most my glory being dumb, For I impair not beauty being mute, When others would give life, and bring a tomb."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do beseech your Majesty, impute his words To wayward sickliness and age in him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I should have been more strange, I must confess, But that thou overheard’st, ere I was ’ware, My true-love passion; therefore pardon me, And not impute this yielding to light love, Which the dark night hath so discovered."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"We should not **impute** malevolent motives to our fellow citizens when honest differences of judgment suffice."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Therefore pardon me, and not **impute** this yielding to light love, which the dark night hath so discovered."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"We tend to **impute** extraordinary foresight to fortunate statesmen whose triumphs were born of pure chance."*

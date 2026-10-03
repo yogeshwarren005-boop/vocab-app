@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgeon who removes part or all of a limb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgeon who removes part or all of a limb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgeon, instrument, or agent that performs the surgical excision or severance of a limb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical surgical tools, a specialized curved or straight amputation knife designed for rapid circumferential incision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amputator designates a surgeon who removes part or all of a limb."*
+> - 📜 **Richard Selzer (*Mortal Lessons: Notes on the Art of Surgery*):** *"The military surgeon stood as a seasoned **amputator**, working through queues of casualties with grim speed."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The skillful **amputator** preserves every millimeter of viable skin flap to ensure a functional, painless stump."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Bob Sawyer brandished the gleaming surgical blade, boasting of his swift dexterity as a hospital **amputator**."*

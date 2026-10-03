@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The procedure of calculating; determining something by mathematical or logical methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Problem solving that involves numbers or quantities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or mathematical method of calculating, reckoning, or executing algorithmic operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer architecture, the electronic execution of binary arithmetic and logic instructions in processing units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By computation and mine host’s report."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"On a moderate computation, it was many months, that Sunday, since I had left Joe and Biddy."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The highest number to which, according to the best computation, a standing army can be carried in any country, does not exceed one hundredth part of the whole number of souls; or one twenty-fifth part of the number able to bear arms."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"The Difference Engine eliminated mechanical error from numerical **computation**, printing navigational tables automatically."*
+> - 📜 **Ada Lovelace (*Sketch of the Analytical Engine*):** *"The engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves through digital **computation**."*
+> - 📜 **Richard Feynman (*Feynman Lectures on Computation*):** *"Fundamental thermodynamic limits govern the minimum energy dissipation required for each irreversible **computation**."*

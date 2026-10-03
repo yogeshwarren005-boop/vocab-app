@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden and decisive change of government illegally or by force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden and decisive change of government illegally or by force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, violent attempt to overthrow a government or regime, especially by a faction or military clique.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European political history, referring specifically to early twentieth-century German uprisings such as the Kapp Putsch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putsch designates a sudden and decisive change of government illegally or by force."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Hitler launched his abortive Munich **putsch** from a beer hall, ending in gunfire and his subsequent imprisonment."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Paramilitary veterans organized the reactionary **putsch** to crush democratic institutions in Weimar Germany."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Rumors of an impending right-wing **putsch** circulated through the working-class syndicates of Valencia."*

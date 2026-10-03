@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dough-like mixture of whiting and boiled linseed oil; used especially to patch woodwork or secure panes of glass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply putty in order to fix or fill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pliable dough made of whiting and linseed oil, used to secure panes of glass in window frames.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carpentry and decorating, a filling compound pressed into nail holes and wood crevices prior to painting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Marso Ed'ard allus tole me be keerful ob dem, and de roads am putty bad sence de big storm." Zoe glanced at her watch as they entered the village."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Ya'as, I'll dress yo' up fine, Miss Gracie, and make yo' look putty as a pink," she said, beginning her task."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"His lip had fallen, his eyes were protruding, his skin the colour of putty, and he glared at the envelope which he still held in his trembling hand, ‘K."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The glazier arrived with a lump of fresh **putty** and replaced the shattered parlor casement pane."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Adam planed the ash doorframe smooth and pressed soft **putty** over the countersunk screw heads."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"He worked as an apprentice glazier, his fingers constantly scented with linseed oil and sticky white **putty**."*

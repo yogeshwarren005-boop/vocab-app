@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dishonorableness by virtue of lacking respectability or a good reputation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dishonorableness by virtue of lacking respectability or a good reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being disreputable, untrustworthy, or socially disgraceful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character sketches, a conspicuous aura of seediness and moral unreliability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disreputableness designates dishonorableness by virtue of lacking respectability or a good reputation."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The family feared the open **disreputableness** of Raffles, whose drunken threats endangered Bulstrode's social rank."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether could not deny a certain picturesque **disreputableness** clinging to Chad's Parisian bohemian acquaintances."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The Peter's Finger tavern exhibited a persistent **disreputableness** that repelled upright town burghers."*

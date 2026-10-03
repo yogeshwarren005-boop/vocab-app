@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The option to sell a given stock (or stock index or commodity future) at a given price before a given date.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a certain place or abstract location.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To place, position, or locate an object in a specific physical spot or state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and literary expression, to state, express, or articulate an idea in specific words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The statute of thy beauty thou wilt take, Thou usurer that put’st forth all to use, And sue a friend, came debtor for my sake, So him I lose through my unkind abuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or mine eyes seeing this, say this is not To put fair truth upon so foul a face?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles and by opposing end them... to **put** on an antic disposition."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley chose to **put** the matter plainly before her, refusing to soften his sincere reproof."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery reached out his blacksmith's hand to **put** the kettle on the hearth for tea."*

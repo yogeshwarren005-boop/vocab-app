@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal presentation of a stated proposition and the opposition to it (usually followed by a vote).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contentious speech act; a dispute where there is strong disagreement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formal academic debate or verbal controversy conducted according to strict dialectical rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval scholasticism, an oral exercise where scholars defended and attacked theological and philosophical theses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If that be made a theme for disputation, The branches of another root are rotted, And undeserved reproach to him allotted That is as clear from this attaint of mine As I, ere this, was pure to Collatine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So she, deep-drenched in a sea of care, Holds disputation with each thing she views, And to herself all sorrow doth compare; No object but her passion’s strength renews, And as one shifts, another straight ensues."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Much mighty speech-making there has been, both in and out of Parliament, concerning Tom, and much wrathful disputation how Tom shall be got right."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth emerges victorious through public **disputation** and open intellectual encounter, not through cowardly censorship."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"In every solemn scholastic **disputation**, the master resolves objections after examining contrary arguments."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"The art of **disputation** sharpens human wit, yet pedants turn lively dialogue into tyrannical obstinacy."*

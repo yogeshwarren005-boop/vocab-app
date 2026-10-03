@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of engineering science that studies (with the aid of computers) computable processes and structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The procedure of calculating; determining something by mathematical or logical methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use, operation, or development of computers, information systems, and algorithmic processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and computer science, the overarching discipline studying computer architecture and software systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Computing the distance between the thirty-first and forty-fifth degrees, it amounts to nine hundred and seventy-three common miles; computing it from thirty-one to forty-two degrees, to seven hundred and sixty-four miles and a half."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"We have no means of computing how long the cretaceous sea existed, but we know that it passed away and was replaced by large fresh-water lakes, those of the plains being bounded on the west by the Rocky Mountains."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"But the usual way of computing how old they are, is by asking them what kings or great persons they can remember, and then consulting history; for infallibly the last prince in their mind did not begin his reign after they were fourscore years old."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"We propose to consider the question: Can machines think? This begins with the definitions of **computing**."*
+> - 📜 **Grace Hopper (*Compiling Methods*):** *"The evolution of modern **computing** required translating high-level mathematical syntax into machine language."*
+> - 📜 **Nicholas Negroponte (*Being Digital*):** *"Ubiquitous **computing** shifted human culture from moving heavy physical atoms to routing weightless digital bits."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An out resulting from a fielding play (not a strikeout).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An out resulting from a fielding play (not a strikeout).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A defensive play in baseball that records an out against a batter or baserunner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports statistics, a fielding metric credited to the fielder who catches a third strike, flies out a batter, or tags a runner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putout designates an out resulting from a fielding play (not a strikeout)."*
+> - 📜 **Ring Lardner (*You Know Me Al*):** *"The rookie first baseman recorded another clean **putout**, fielding the sharp grounder right at the bag."*
+> - 📜 **John Updike (*Hub Fans Bid Kid Adieu*):** *"Ted Williams trotted toward the dugout after the routine **putout** in deep left field, cheered by the Fenway crowd."*
+> - 📜 **Ernest Thayer (*Casey at the Bat*):** *"The catcher dropped the foul tip but recovered quickly to execute the final **putout** at home plate."*

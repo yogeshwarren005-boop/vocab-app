@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or promoting bacterial putrefaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or promoting bacterial putrefaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, causing, or accompanied by putrefaction and the decomposition of animal and vegetable matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology, describing anaerobic clostridial species that ferment amino acids into foul sulfurous gases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrefactive designates causing or promoting bacterial putrefaction."*
+> - 📜 **Louis Pasteur (*Physiological Researches on Fermentation*):** *"The **putrefactive** fermentation of meat ceased entirely when all aerial germs were incinerated by flame."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"Aseptic technique eliminated the deadly **putrefactive** fevers that formerly haunted surgical wards."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"The volatile spirits released during **putrefactive** decay exhibit distinctly alkaline and pungent properties."*

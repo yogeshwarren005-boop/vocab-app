@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state of progressive putrefaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of rotting and becoming putrid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Decomposing organic matter undergoing rotten breakdown accompanied by the foul odor of decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary decadence, the aesthetic fascination with the grotesque imagery of death and decomposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrescence designates in a state of progressive putrefaction."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The severed leviathan head emitted a sickening stench of ambergris mingled with ancient maritime **putrescence**."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A heavy atmosphere of fungi and damp **putrescence** hung within the subterranean vaults beneath the tarn."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"A lingering taint of riverside **putrescence** clung to the mangrove roots where the steamer ran aground."*

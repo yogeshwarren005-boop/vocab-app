@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Becoming putrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Becoming putrid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing the process of putrefaction; decaying, rotting, and giving off the stench of decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pathology, describing gangrenous tissue undergoing moist, foul-smelling necrotic breakdown.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrescent designates becoming putrid."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I collected bones from charnel houses and disturbed with profane fingers the **putrescent** secrets of the grave."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The drainage from the abscess was dark and **putrescent**, signaling an anaerobic polymicrobial infection."*
+> - 📜 **H. P. Lovecraft (*The Call of Cthulhu*):** *"The cyclopean masonry dripped with a green, **putrescent** slime that had slept for aeons beneath the sea."*

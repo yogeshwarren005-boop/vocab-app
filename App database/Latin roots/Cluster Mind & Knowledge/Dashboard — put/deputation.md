@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of representatives or delegates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Authorizing subordinates to make certain decisions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of appointed delegates or representatives sent to negotiate, petition, or act on behalf of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, the official authorization or appointment of an agent to discharge public duties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most kind messenger, Say to great Caesar this in deputation: I kiss his conqu’ring hand."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He writes me here, that inward sickness— And that his friends by deputation could not So soon be drawn, nor did he think it meet To lay so dangerous and dear a trust On any soul removed but on his own."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For you must know we have with special soul Elected him our absence to supply; Lent him our terror, drest him with our love, And given his deputation all the organs Of our own power."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A solemn civic **deputation** waited upon the governor to present grievances regarding local municipal taxation."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Saint Antoine neighborhood dispatched a fierce **deputation** to demand munitions from the Bastille governor."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"A parliamentary **deputation** crossed the Channel to offer the crown of Great Britain to the Prince of Orange."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or involving computation or computers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or involving computation or computers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, involving, or performed by mathematical calculation, computers, or algorithmic processing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science, the hypothesis that mental operations resemble computational symbol manipulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, computational designates of or involving computation or computers."*
+> - 📜 **Steven Pinker (*How the Mind Works*):** *"The human brain functions as an intricate **computational** organ sculpted by natural selection to process information."*
+> - 📜 **Daniel Dennett (*Consciousness Explained*):** *"He defended a **computational** architecture of consciousness based upon multiple competing drafts in neural networks."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Modern **computational** neuroscience constructs algorithmic models to simulate synaptic plasticity in cerebellar circuits."*

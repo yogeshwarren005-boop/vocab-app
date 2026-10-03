@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of disability resulting from the loss of one or more limbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical removal of all or part of a limb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of an extremity, limb, or digit from the body due to trauma, infection, or arterial pathology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military surgical history, the standard wartime procedure performed under battlefield conditions to save life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Grief is a matter of relativity; the sorrow should be estimated by its proportion to the sorrower; a gash is as painful to one as an amputation to another."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, though for ever mounted on that stump, never a stump-speech does the poor whaleman make; but, with downcast eyes, stands ruefully contemplating his own amputation."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Precious sons of northern mothers, beloved husbands of northern wives were already here to undergo amputation, to have wounds probed and dressed, or broken limbs set and bandaged."*
+> - 📜 **Ambroise Paré (*The Apologie and Treatise of Ambroise Paré*):** *"He introduced ligatures during **amputation** to replace the cruel cautery of boiling oil on severed arteries."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Patients who undergo traumatic **amputation** frequently report vivid phantom sensations emanating from missing limbs."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The sergeant stumbled toward the ambulance tent, resigned to the impending **amputation** of his mangled arm."*

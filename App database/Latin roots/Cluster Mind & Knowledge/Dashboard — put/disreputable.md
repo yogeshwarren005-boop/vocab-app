@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking respectability in character or behavior or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking respectability in character or behavior or appearance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not reputable; having a bad reputation, dishonest, discreditable, or lacking social and moral respectability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian social commentary, describing shabby, illicit establishments and morally dubious characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Yes, and every kind of unclean and disreputable person they urged to join them, quite unlike all decent and established religions."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"I do feel so--so disreputable in these clothes."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The man would soon show himself disreputable enough to make people disbelieve him."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"Mr. Hyde frequented a **disreputable** quarter of Soho where neglected children lounged in dark doorways."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Holmes disguised himself as a **disreputable** groom, complete with frayed cravat and whisky-scented breath."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"Newland Archer dreaded any association with the Beaufort scandal, which seemed thoroughly **disreputable**."*

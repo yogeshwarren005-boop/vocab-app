@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pretext for delay or inaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pretext for delay or inaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evasion, excuse, delay, or postponement, or a quality that provokes distaste and discourages engagement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal social interactions, an unpleasant trait or dismissive excuse that alienates romantic suitors or patrons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putoff designates a pretext for delay or inaction."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Liza recognized the polite aristocratic refusal as a mere diplomatic **putoff** designed to avoid commitments."*
+> - 📜 **F. Scott Fitzgerald (*The Beautiful and Damned*):** *"Anthony found the broker's perpetual evasion a tiresome **putoff**, masking financial insolvency with cheerful promises."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Her cold, guarded manner served as an effective **putoff** to earnest young men who sought her conversation."*

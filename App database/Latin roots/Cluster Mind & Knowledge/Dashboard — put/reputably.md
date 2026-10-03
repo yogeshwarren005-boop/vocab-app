@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a reputable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a reputable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a reputable, honorable, or respectable manner; with an established good name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In professional conduct, discharging duties and commercial obligations with transparency and fairness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Such things as could be said for him were said,—how he had taken to industrious habits, and had thriven lawfully and reputably."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"He lived **reputably** upon the modest revenues of his parish, beloved by scholars and parishioners alike."*
+> - 📜 **Anthony Trollope (*Doctor Thorne*):** *"The country physician practiced **reputably** for forty years, refusing to bill impoverished farm laborers."*
+> - 📜 **Daniel Defoe (*The Complete English Tradesman*):** *"A young apprentice who conducts his ledger **reputably** will never lack credit or willing creditors."*

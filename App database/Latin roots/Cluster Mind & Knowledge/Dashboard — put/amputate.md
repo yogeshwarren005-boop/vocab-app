@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove surgically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove surgically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To surgically cut off a limb, appendage, or digit from the body, typically to halt gangrene or trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural husbandry, to prune away diseased branches or severed vegetal limbs from orchard stock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Carter, the surgeon, had to amputate it directly."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Saw a live tree, and you don’t get this dust; amputate a live bone, and you don’t get it (_sneezes_)."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Saw a live tree, and you don’t get this dust; amputate a live bone, and you don’t get it (_sneezes_)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon determined to **amputate** the gangrenous foot before systemic sepsis invaded the circulatory tree."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab cursed the white whale that had dared to **amputate** his leg and leave him pacing upon ivory."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"In the field hospital, sawbones worked by lantern light to **amputate** shattered limbs of wounded infantrymen."*

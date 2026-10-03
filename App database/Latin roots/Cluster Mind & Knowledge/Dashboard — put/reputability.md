@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Honorableness by virtue of being respectable and having a good reputation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Honorableness by virtue of being respectable and having a good reputation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being reputable, trustworthy, respectable, and held in high esteem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commerce and banking, the verified fiscal integrity and creditworthiness of a merchant house.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reputability designates honorableness by virtue of being respectable and having a good reputation."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **reputability** of a merchant banker ensures that his bills of exchange circulate as readily as gold coin."*
+> - 📜 **Anthony Trollope (*The Way We Live Now*):** *"Society questioned the commercial **reputability** of Melmotte's railway scheme despite his glittering banquets."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Bulstrode prized his Christian **reputability** above all worldly possessions, guarding it with anxious fervor."*

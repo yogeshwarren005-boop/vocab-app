@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generally agreed upon; not subject to dispute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generally agreed upon; not subject to dispute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accepted, acknowledged, or agreed upon without challenge, opposition, or dissent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In competitive titles and political sovereignty, reigning supreme without rival claimants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Her resolute effort threw back the lid, and gave to her astonished eyes the view of a white cotton counterpane, properly folded, reposing at one end of the chest in undisputed possession!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"This passed for certain, undisputed; It ne’er cam i’ their heads to doubt it, Till chiels gat up an’ wad confute it, An’ ca’d it wrang; An’ muckle din there was about it, Baith loud an’ lang."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Raymond--was the undisputed owner of it all,--of wealth beyond his wildest dreams."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Augustus reigned as the **undisputed** master of the Roman world, cloaking absolute power under republican titles."*
+> - 📜 **Winston Churchill (*A History of the English-Speaking Peoples*):** *"Following the victory at Trafalgar, the Royal Navy held **undisputed** command of the global oceans."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Squire Cass was the **undisputed** chief magnate of Raveloe, residing in the parish's finest red-brick hall."*

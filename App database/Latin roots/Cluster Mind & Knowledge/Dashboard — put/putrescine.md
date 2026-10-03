@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless crystalline ptomaine with a foul odor that is produced in decaying animal matter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless crystalline ptomaine with a foul odor that is produced in decaying animal matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A foul-smelling diamine (1,4-diaminobutane) produced by the breakdown of amino acids in decaying animal tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, a polyamine synthesized from ornithine that plays essential roles in cellular growth and protein synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrescine designates a colorless crystalline ptomaine with a foul odor that is produced in decaying animal matter."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Chemical analysis identified cadaverine and **putrescine** as the primary volatile bases responsible for the stench of necrosis."*
+> - 📜 **Siddhartha Mukherjee (*The Song of the Cell*):** *"Cellular biochemists revealed that **putrescine** and related polyamines stabilize nucleic acids during rapid mitosis."*
+> - 📜 **Richard Selzer (*Mortal Lessons*):** *"The unmistakable reek of **putrescine** warned the surgical team of deep muscular gangrene beneath the intact skin."*

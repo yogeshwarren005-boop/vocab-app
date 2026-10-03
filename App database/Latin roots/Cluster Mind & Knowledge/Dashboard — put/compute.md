@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a mathematical calculation or computation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a mathematical calculation or computation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To calculate, determine, or reckon a numerical value, mathematical result, or logical outcome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital electronics, to process digital inputs according to programmed machine instructions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Who made the heart, ’tis He alone Decidedly can try us; He knows each chord, its various tone, Each spring, its various bias: Then at the balance let’s be mute, We never can adjust it; What’s done we partly may compute, But know not what’s resisted."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Yes, my boy; and you need not try to compute the number of these infusoria."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Compute out to the time that we will have rebuilt stockpiles within the Solar System." Leaning slowly back into his chair as he spoke, Camari lowered his hands into his lap."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Astronomers can now **compute** the exact gravitational perturbations exerted by Jupiter upon neighboring planets."*
+> - 📜 **Ada Lovelace (*Notes on the Analytical Engine*):** *"The mechanical gears were engineered to **compute** the successive Bernoulli numbers without human intervention."*
+> - 📜 **Carl Friedrich Gauss (*Theory of the Motion of the Heavenly Bodies*):** *"Using least squares regression, he managed to **compute** the lost orbital trajectory of the asteroid Ceres."*

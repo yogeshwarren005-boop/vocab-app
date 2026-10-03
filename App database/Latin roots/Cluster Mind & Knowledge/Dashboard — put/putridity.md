@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being putrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being putrid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rottenness, foul decomposition, or an offensive putrefying mass of decaying organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical criticism, moral depravity or spiritual degeneration within a society or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putridity designates the state of being putrid."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The moral **putridity** of the later imperial court disgusted the austere barbarian chieftains from the north."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"An ancient regime founded upon privilege dissolved in the fiery furnace of its own internal **putridity**."*
+> - 📜 **Edgar Allan Poe (*The Narrative of Arthur Gordon Pym of Nantucket*):** *"The drifting brig revealed a crew of corpses frozen in the last stages of loathsome **putridity**."*

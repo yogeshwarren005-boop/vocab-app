@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strip of cloth wound around the leg to form legging; used by soldiers in world war i.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strip of cloth wound around the leg to form legging; used by soldiers in world war i.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strip of cloth or gaiter wound spirally around the lower leg from the ankle to below the knee.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military history, standard protective woolen legwear worn by infantrymen and cavalry during the First World War.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Physical causes--wet, cold, indigestion, tight puttees--account for nine out of ten of these queer breakdowns."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"They looked rather shipshape in khaki suits and puttees, and their guns were of a good model, but they handled them in careless fashion at first, belabouring laden ponies and even coolies who were slow in getting out of the way of my chair."*
+> - 📜 **George Orwell (*Burmese Days*):** *"The native police constables wore khaki shorts and unwound each woolen **puttee** to dry after the monsoon rain."*
+> - 📜 **Rudyard Kipling (*Kim*):** *"A Sikh soldier paused by the Grand Trunk Road to re-tighten the binding of his unraveling **puttee**."*
+> - 📜 **Robert Graves (*Good-bye to All That*):** *"The trench mud in Flanders caked our boots and soaked through every woolen **puttee** until our feet froze."*

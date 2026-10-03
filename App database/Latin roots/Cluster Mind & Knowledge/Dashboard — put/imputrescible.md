@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject to decay.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not subject to decay.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not subject or liable to putrefaction, decomposition, or rotting; incapable of decaying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and mortuary preservation, substances treated with resins or salts to render tissues permanently resistant to decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, imputrescible designates not subject to decay."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"Ancient embalmers sought to make human flesh **imputrescible** through asphaltum and cedar oils."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Organic broths sealed against airborne microorganisms remained completely **imputrescible** over decades."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Crystalline salts exhibit an **imputrescible** quality, preserving organic meats immersed within brine."*

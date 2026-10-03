@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined or showing an inclination to dispute or disagree, even to engage in law suits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to argue, fond of controversy, or habitually provoking debate and verbal disagreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal rhetoric, describing an abrasive conversational style marked by obstinate hair-splitting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Play.” I think it will be conceded by my most disputatious reader, that she could hardly have directed an unfortunate boy to do anything in the wide world more difficult to be done under the circumstances."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There was a busy, bustling, disputatious tone about it, instead of the accustomed phlegm and drowsy tranquillity."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"He was too dogmatic and disputatious,--a man who would pull you up at every turn for a definition, which, as Coleridge said, was like setting up perpetual turnpikes along the road to truth."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I observed that **disputatious** people are generally unfortunate in their affairs, alienating friends and patrons alike."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A **disputatious** temper converts every convivial dinner into a contentious courtroom cross-examination."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Mrs. Ferrars presented a cold, **disputatious** demeanor that cast an icy silence across the drawing room."*

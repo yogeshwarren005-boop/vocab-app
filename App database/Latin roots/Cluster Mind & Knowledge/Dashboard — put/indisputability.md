@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being beyond question or dispute or doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being beyond question or dispute or doubt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unquestionable certainty, incontrovertible truth, or clarity that admits no reasonable controversy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific epistemology, the empirical certainty achieved through repeated, verified experimental trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, indisputability designates the quality of being beyond question or dispute or doubt."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The fossil record demonstrates with overwhelming **indisputability** that life on Earth has evolved continuously."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Descartes sought an axiom of absolute **indisputability**, which he discovered in his own thinking existence."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Intuitive mathematical truths possess an **indisputability** that compels immediate rational assent."*

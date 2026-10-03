@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being held in low esteem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being held in low esteem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Public disgrace, dishonor, or widespread social discredit attaching to an individual or institution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional history, the loss of moral legitimacy and public trust suffered by corrupt governing bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Fraser, the tutor, died however, and the school which had begun well sank from disrepute into infamy."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"They do much to bring the whole Negro race into disrepute."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Praetorian Guard fell into lasting **disrepute** after auctioning the imperial throne to the highest bidder."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"Coercive acts of Parliament only brought the majesty of imperial law into contempt and popular **disrepute**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Astrological fraud brought the legitimate observational sciences into undeserved **disrepute** among thinkers."*

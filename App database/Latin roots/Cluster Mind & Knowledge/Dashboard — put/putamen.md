@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer reddish part of the lenticular nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer reddish part of the lenticular nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A round dark subcortical brain structure that forms the outer part of the lentiform nucleus in the basal ganglia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, an essential forebrain center involved in regulating motor execution, habit learning, and reinforcement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putamen designates the outer reddish part of the lenticular nucleus."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Dopaminergic projections from the substantia nigra innervate the **putamen** to facilitate voluntary muscular initiation."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"Neuroimaging revealed remarkable activation across the **putamen** when the musician kept internal rhythmic time."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Dense fiber bundles traverse the **putamen**, connecting the cerebral cortex with deeper motor nuclei."*

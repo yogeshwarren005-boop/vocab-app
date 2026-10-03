@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take exception to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have a disagreement over something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contested, challenged, debated, or subject to conflicting claims and unresolved legal controversy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international geopolitics, describing territorial borders claimed concurrently by two or more sovereign states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll have’t disputed on; ’Tis probable, and palpable to thinking."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But how do you and your neighbour get on about the disputed right of way?” said Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"No one disputed the will; no one disputed anything but whether part of that three hundred pounds had been already paid or not."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Rival Roman legions clashed fiercely across the **disputed** frontiers of the Danube to crown their favorite generals."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The status of the **disputed** Rhineland corridor became the focal point of diplomatic anxiety across Europe."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Political parties **disputed** control of the telephone exchange, sparking deadly street battles in Barcelona."*

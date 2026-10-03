@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to computation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to computation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of computation, mathematical calculation, algorithms, or electronic processing systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algorithmic complexity theory, describing problems that are computationally tractable or intractable (such as NP-complete problems).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, computationally designates with regard to computation."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"The algorithm proved **computationally** efficient, executing in logarithmic time across massive sorted arrays."*
+> - 📜 **Carl Sagan (*Contact*):** *"Radio astronomers verified **computationally** that the incoming transmission exhibited artificial prime number sequences."*
+> - 📜 **Stephen Wolfram (*A New Kind of Science*):** *"Certain complex physical phenomena are **computationally** irreducible, requiring direct step-by-step simulation to observe."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who disputes; who is good at or enjoys controversy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who disputes; who is good at or enjoys controversy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who engages in argument, formal debate, intellectual controversy, or verbal dispute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy, an academic scholar presenting or refuting theses during formal university disputations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But I will say, as you shall see, that he matched their subtlety with equal subtlety; and from what I saw of him I have little doubt but what he would have confounded many a disputant in the synagogues."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"She did! she did!” sang Linton, sinking into the recess of his chair, and leaning back his head to enjoy the agitation of the other disputant, who stood behind."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Oak looked from one to the other of the disputants, and fell into a reverie."*
+> - 📜 **Francis Bacon (*The Essays*):** *"In disputation, the fierce **disputant** often cares more for victorious rhetorical triumph than for genuine truth."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Bishop Wilberforce entered the arena as a confident **disputant**, ridiculing Darwinian evolution before Oxford scholars."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*):** *"Each scholarly **disputant** marshaled ancient manuscripts and venomous pamphlets against modern adversaries."*

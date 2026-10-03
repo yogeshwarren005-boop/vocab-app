@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The control of processes by computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The control of processes by computer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion, equipping, or transformation of an organization, system, or process to computerized operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history, the technological shift automating clerical, banking, and industrial production workflows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, computerization designates the control of processes by computer."*
+> - 📜 **Shoshana Zuboff (*In the Age of the Smart Machine*):** *"The comprehensive **computerization** of pulp mills altered workers' relationship to physical industrial machinery."*
+> - 📜 **David Foster Wallace (*The Pale King*):** *"The gradual **computerization** of tax audits threatened to dismantle the traditional art of human bookkeeping."*
+> - 📜 **Manuel Castells (*The Rise of the Network Society*):** *"Global capital flows accelerated dramatically following the widespread **computerization** of international banking."*

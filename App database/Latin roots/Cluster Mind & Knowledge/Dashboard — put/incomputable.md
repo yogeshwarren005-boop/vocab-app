@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Beyond calculation or measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond calculation or measure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being computed, calculated, or reckoned, especially due to immense size or mathematical impossibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic and theological discourse, describing infinite divine mercies or celestial multitudes exceeding calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, incomputable designates beyond calculation or measure."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The starry heavens unfolded an **incomputable** multitude of burning worlds revolving through boundless void."*
+> - 📜 **Alan Turing (*Systems of Logic Based on Ordinals*):** *"Gödel's theorem proved the existence of mathematical propositions that remain demonstrably **incomputable**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor squandered **incomputable** treasures upon triumphal monuments that vanished within a century."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disreputable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disreputable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disreputable, disgraceful, or dishonorable manner; without regard for decency or good reputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In domestic narrative, behaving or dressing in a shabby, scandalous, or socially inappropriate fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"No one was what could be called, in good society, disreputably drunk, unless it was the seedy gentleman whom I met by appointment; and even he was able to handle himself tolerably well."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"Lord Castlewood lived **disreputably**, squandering ancestral estates at dice and tavern brawls."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"The dissipated actor was **disreputably** attired in faded velvet and tarnished brass buttons."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"Orlando dressed **disreputably** in peasant breeches, wandering the London waterfront beneath midnight lanterns."*

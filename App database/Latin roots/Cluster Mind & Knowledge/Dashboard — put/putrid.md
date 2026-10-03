@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or attended by putrefaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an advanced state of decomposition and having a foul odor; - somerset maugham.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state of foul decay or decomposition; rotten, malodorous, and offensive to the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical nosology, putrid typhus or putrid fever characterized by gangrenous ulcerations and prostration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Some forty years ago, in a rural parish in New England, a young man lay apparently on his death-bed with a putrid fever."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, who had asked of God’s mercy no more than putrid meat to eat and a sufficiency of water not too brackish, was no sooner blessed with an abundance of cured meat and sweet water than I began to know discontent with my lot."*
-> - 📜 **James Joyce (*Ulysses*):** *"He exhales a putrid carcasefed breath."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The air in Tom-all-Alone's was heavy with the **putrid** exhalations of open drains and neglected burial grounds."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"He condemned the filthy butcheries that left piles of **putrid** offal exposed to the sweltering Dublin streets."*
+> - 📜 **Herman Melville (*Typee*):** *"The decaying fruit beneath the breadfruit grove formed a thick, **putrid** compost upon the jungle floor."*

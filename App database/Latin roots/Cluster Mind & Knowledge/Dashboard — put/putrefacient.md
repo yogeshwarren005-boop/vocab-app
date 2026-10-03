@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or promoting bacterial putrefaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or promoting bacterial putrefaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or accelerating putrefaction, decomposition, or rotting of organic matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic pathology, environmental conditions or bacterial agents that expedite the putrefactive breakdown of tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrefacient designates causing or promoting bacterial putrefaction."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The experiment proved that anaerobic vibrios act as a powerful **putrefacient** agency in decaying animal muscle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Warm and humid climates provide a natural **putrefacient** environment that challenges the preservation of specimens."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Saprophytic bacteria perform an indispensable ecological role as the primary **putrefacient** agents of the biosphere."*

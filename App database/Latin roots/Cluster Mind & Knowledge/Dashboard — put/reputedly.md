@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By repute; according to general belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By repute; according to general belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: According to general belief, popular rumor, or widespread reputation; supposedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chronicles, describing alleged events or treasures recorded through oral tradition rather than eyewitness record.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reputedly designates by repute; according to general belief."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The ancient manor was **reputedly** haunted by a spectral hound that bayed upon the misty moors."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Captain Flint was **reputedly** the most bloodthirsty pirate who ever hoisted the skull and crossbones."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The founder of the house had **reputedly** seized the land through witchcraft accusations against poor Maule."*

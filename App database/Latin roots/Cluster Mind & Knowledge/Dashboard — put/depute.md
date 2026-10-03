@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transfer power to someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint as a substitute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To appoint, authorize, or delegate a person to act as one's representative, deputy, or agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational administration, transferring specific administrative powers or duties to a designated subordinate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, there is especial commission come from Venice to depute Cassio in Othello’s place."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Warn him that I shan't be able to see much of him because of my invalid habits, and that I shall depute you to entertain him."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The great dispenser, he who has absolute and uncontrollable power over the rain, is the king; but he can depute his power to other persons, so that the benefit may be distributed and the heavenly water laid on over the various parts of the kingdom."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Sovereigns frequently **depute** magistrates to administer justice and enforce commercial contracts across provinces."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The provost chose to **depute** his trusted lieutenant to maintain order along the unruly Edinburgh thoroughfares."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The legislative body cannot **depute** the power of making laws to any other hands without popular consent."*

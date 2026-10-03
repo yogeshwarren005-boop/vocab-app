@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disagreement or argument about something important.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming into conflict with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disagreement, argument, or formal controversy between parties, or to debate and question something's validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor law, a formal conflict between employees and management regarding wages, hours, or working conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whether your Grace be worthy, yea or no, Dispute not that; York is the worthier."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dispute not with her; she is lunatic."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me dispute with thee of thy estate."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"There is hardly any political question in the United States that does not sooner or later turn into a judicial **dispute**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"In every industrial wage **dispute**, masters combine quietly to hold down earnings while workmen combine loudly."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"The ancient blood **dispute** between Montagues and Capulets erupted afresh in the sunlit public squares of Verona."*

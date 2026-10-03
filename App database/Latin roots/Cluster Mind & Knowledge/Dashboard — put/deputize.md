@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act as a substitute.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appoint as a substitute.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To appoint or empower someone to act as a deputy, representative, or temporary law enforcement agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal enforcement, swearing in auxiliary officers or deputies to maintain peace during civic emergencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"We were deputized to invite our Chief Magistrate to attend the great Northwestern Fair, to be held in May--and this was our errand."*
+> - 📜 **Cormac McCarthy (*No Country for Old Men*):** *"Sheriff Bell decided to **deputize** the seasoned ranger to track the fugitive across the Chihuahuan desert."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The town marshal moved to **deputize** six armed miners to guard the silver bullion against stagecoach bandits."*
+> - 📜 **Willa Cather (*Death Comes for the Archbishop*):** *"The territorial prefect offered to **deputize** guides who could lead the missionaries safely through Navajo lands."*

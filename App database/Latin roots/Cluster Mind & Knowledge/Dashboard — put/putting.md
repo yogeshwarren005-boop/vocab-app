@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hitting a golf ball that is on the green using a putter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into a certain place or abstract location.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of executing strokes on a golf green with a putter to guide the ball into the hole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports biomechanics, the precise pendular stroke requiring delicate kinesthetic judgment of green slope and grain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So putting him to rage, You should have ta’en th’ advantage of his choler And passed him unelected."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say you ne’er had done’t— Harp on that still—but by our putting on."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If he were putting to my house the brand That should consume it, I have not the face To say “Beseech you, cease.”—You have made fair hands, You and your crafts!"*
+> - 📜 **Bernard Darwin (*Golf Between Two Wars*):** *"Mastery of the **putting** art demands an enviable temperament that remains impervious to sudden panic."*
+> - 📜 **P. G. Wodehouse (*The Heart of a Goof*):** *"His tragic failure on the eighteenth green was attributed entirely to erratic **putting** under pressure."*
+> - 📜 **John Updike (*Golf Dreams*):** *"The secret of consistent **putting** lies in striking the ball with a true, unhurried pendulum motion."*

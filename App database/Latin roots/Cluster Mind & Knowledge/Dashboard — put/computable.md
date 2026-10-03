@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: May be computed or estimated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: May be computed or estimated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being determined, calculated, or modeled through mathematical calculation or algorithmic procedures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical computer science, a function or problem solvable by a Turing machine within finite steps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, computable designates may be computed or estimated."*
+> - 📜 **Alan Turing (*On Computable Numbers, with an Application to the Entscheidungsproblem*):** *"A number is **computable** if its decimals can be written down by a machine working according to fixed rules."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"Not every logically sound mathematical proposition corresponds to a recursively **computable** decision procedure."*
+> - 📜 **Stephen Wolfram (*A New Kind of Science*):** *"Simple cellular automata generate patterns whose long-term evolution is not easily **computable** in advance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with computers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Store in a computer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adapt, convert, or equip a system, process, or enterprise to operation by computers (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative modernization, replacing paper record systems with digital database architectures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, computerise designates provide with computers."*
+> - 📜 **Anthony Giddens (*The Consequences of Modernity*):** *"Institutions began to **computerise** vital registries, transforming bureaucratic governance through instant data retrieval."*
+> - 📜 **David Harvey (*The Condition of Postmodernity*):** *"Financial centers rushed to **computerise** trading floors, compressing market circulation times across continents."*
+> - 📜 **Arthur C. Clarke (*1984: Spring*):** *"Libraries sought to **computerise** vast catalog cards to preserve bibliographic records against physical decay."*

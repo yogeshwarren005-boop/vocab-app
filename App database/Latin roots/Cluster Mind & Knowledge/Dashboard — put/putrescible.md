@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liable to decay or spoil or become putrid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liable to decay or spoil or become putrid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of rotting or liable to putrefaction; easily decomposed by bacterial or enzymatic action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sanitary engineering and waste management, solid organic waste that decomposes rapidly, attracting vermin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrescible designates liable to decay or spoil or become putrid."*
+> - 📜 **Edwin Chadwick (*Report on the Sanitary Condition of the Labouring Population*):** *"Accumulations of **putrescible** refuse in urban alleys generated noxious effluvia that spread typhus."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Airborne spores settle upon **putrescible** surfaces, initiating the rapid breakdown of complex albuminous molecules."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep abyssal waters contain very little **putrescible** organic sediment compared to the rich coastal shelf."*

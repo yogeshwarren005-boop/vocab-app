@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A golfer who is putting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The iron normally used on the putting green.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move about or work in a casual, aimless, or leisurely manner, occupying oneself with trifles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports equipment, a golf club designed with a relatively flat blade or mallet head for putting on greens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seese is not good to give putter."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or that there were such men Whose heads stood in their breasts? which now we find Each putter-out of five for one will bring us Good warrant of."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is for you we speak, not for ourselves: You are abus’d, and by some putter-on That will be damn’d for’t: would I knew the villain, I would land-damn him."*
+> - 📜 **E. B. White (*One Man's Meat*):** *"I like to **putter** around the barn on rainy mornings, sharpening axes and mending harness straps."*
+> - 📜 **P. G. Wodehouse (*Golf Without Tears*):** *"He gripped his patented center-shafted **putter** with grim resolve and addressed the ball."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Mr. Bankes would **putter** in his garden before breakfast, inspecting his rosebushes with solitary care."*

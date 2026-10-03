@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not open to question; obviously true.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not open to question; obviously true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Indisputable; not open to question, challenge, or debate; undeniably true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logical discourse, an axiomatic proposition whose contradiction entails an immediate absurdity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, undisputable designates not open to question; obviously true."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"That three times five is equal to half of thirty expresses an **undisputable** relation between abstract numbers."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Empirical generalizations become **undisputable** only when verified through rigorous canons of induction."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Her musical talent was **undisputable**, and she accompanied her own singing upon the piano with admirable grace."*

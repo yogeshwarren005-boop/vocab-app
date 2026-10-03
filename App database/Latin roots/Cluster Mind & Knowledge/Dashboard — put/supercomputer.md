@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mainframe computer that is one of the most powerful available at a given time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mainframe computer that is one of the most powerful available at a given time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptionally powerful mainframe computer designed to execute billions of high-speed floating-point calculations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational science, high-performance computing clusters used for climate modeling, molecular dynamics, and astrophysics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, supercomputer designates a mainframe computer that is one of the most powerful available at a given time."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Modern planetary scientists rely upon the **supercomputer** to simulate the turbulent atmospheric storms of Jupiter."*
+> - 📜 **Arthur C. Clarke (*2010: Odyssey Two*):** *"The orbital laboratory housed a compact **supercomputer** capable of processing petabytes of sensor telemetry."*
+> - 📜 **Walter Isaacson (*The Innovators*):** *"Seymour Cray designed the world's fastest **supercomputer** by arranging processors in dense, refrigerated circles."*

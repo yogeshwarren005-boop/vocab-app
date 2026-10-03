@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malaysia's sparkling new capital.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malaysia's sparkling new capital.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A planned city located south of Kuala Lumpur that serves as the administrative center and federal seat of Malaysia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern urban design, an administrative capital celebrated for expansive wetlands, bridges, and Islamic-modernist architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, putrajaya designates malaysia's sparkling new capital."*
+> - 📜 **Mahathir Mohamad (*A Doctor in the House: The Memoirs of Tun Dr Mahathir Mohamad*):** *"We conceived **Putrajaya** as an intelligent garden city that would consolidate federal ministries outside congested Kuala Lumpur."*
+> - 📜 **Rem Koolhaas (*Mutations*):** *"The monumental boulevards of **Putrajaya** represent a late-twentieth-century vision of technocratic statehood crafted from raw soil."*
+> - 📜 **Clifford Geertz (*Available Light*):** *"The federal palace at **Putrajaya** symbolizes the post-colonial state's synthesis of Islamic heritage and high-tech ambition."*

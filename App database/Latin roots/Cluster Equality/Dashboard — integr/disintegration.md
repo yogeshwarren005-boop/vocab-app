@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a decomposed state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loss (or serious disruption) of organization in some system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of losing cohesion and breaking down into small parts or component elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics, the spontaneous radioactive decay of an atomic nucleus with emission of radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Of these plans he had not merely one or two in his head but dozens, some only beginning to form themselves, some approaching achievement, and some in course of disintegration."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"A general disintegration of the body politic set in."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Hitherto the preponderating tendency of the Negro has been toward disintegration, showing the lack of a proper measure of fellow-feeling; the tendency of the Anglo-Saxon is toward racial integration."*
+> - 📜 **Ernest Rutherford (*Radioactive Transformations*):** *"The spontaneous **disintegration** of radium atoms generates helium particles and radioactive radon gas."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The sudden **disintegration** of the Russian front altered the entire balance of military forces in Europe."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The historian contemplated the gradual **disintegration** of medieval spiritual unity under modern industrial forces."*

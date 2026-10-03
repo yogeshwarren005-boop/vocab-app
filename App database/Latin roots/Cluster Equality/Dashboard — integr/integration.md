@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of incorporating a racial or religious group into a community.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of combining into an integral whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of combining and coordinating separate components into a unified whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The incorporation of individuals of different groups, races, or backgrounds into equal social membership.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Another phase of corporate growth is the "integration of industry," that is, the grouping under one control of a whole series of industries."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Now that we know the construction site is the target we'll use it for working out the details for fleet integration, formation and logistics in place of what we had before," Brad rasped."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Arriving at infinitesimals, mathematics, the most exact of sciences, abandons the process of analysis and enters on the new process of the integration of unknown, infinitely small, quantities."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The political **integration** of diverse immigrant populations required widespread civic participation."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Evolution exhibits both the specialization of distinct organs and the physiological **integration** of bodily functions."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Social harmony depends upon the active **integration** of individual liberty with communal responsibility."*

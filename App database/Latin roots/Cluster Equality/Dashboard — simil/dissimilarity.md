@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dissimilar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dissimilar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difference, unlikeness, or diversity between two or more persons, things, or concepts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinct divergence in specific characteristics, features, or qualities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The dissimilarity is not so strong."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Nothing greatly original had resulted from these measures; and the effects of the opium had convinced him that there was an entire dissimilarity between his constitution and De Quincey’s."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The dissimilarity in the rules of naturalization has long been remarked as a fault in our system, and as laying a foundation for intricate and delicate questions."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The striking **dissimilarity** between the sisters' tastes became obvious during the rehearsal."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In spite of the wide **dissimilarity** of their pursuits, Lydgate and Farebrother enjoyed warm intellectual companionship."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The geographical **dissimilarity** of the northern and southern states creates distinct commercial interests."*

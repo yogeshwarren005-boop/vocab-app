@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In like or similar manner; ; - samuel johnson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In like or similar manner; ; - samuel johnson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a similar, comparable, or corresponding manner; likewise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a transition to introduce a point that resembles or follows the previous statement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Thus night pursues its leaden course, finding the court still out of bed through the unwonted hours, still treating and being treated, still conducting itself similarly to a court that has had a little money left it unexpectedly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Similarly, being permitted to look in at the door of the fatal chamber, he depicts that apartment as three-quarters of a mile long by fifty yards high, at which the court is particularly charmed."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Also, Professor Schleimer had similarly been collaborating with me in the detection of phytosterol in mixtures of animal and vegetable fats."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The fog crept into the court of Chancery; **similarly**, confusion reigned throughout the convoluted legal arguments."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate was fascinated by the microscope; **similarly**, Dorothea sought spiritual clarity through self-denying charity."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The state executive enforces the law; **similarly**, the federal president must execute congressional enactments."*

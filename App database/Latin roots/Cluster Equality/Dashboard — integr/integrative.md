@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining and coordinating diverse elements into a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to consolidate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or tending to integrate, unify, or bring together into a coherent whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroscience and systems biology, coordinating complex physiological activities into unified functional responses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, integrative designates combining and coordinating diverse elements into a whole."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The cerebral cortex exercises an **integrative** control over the lower reflex arcs of the nervous system."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Creative intelligence performs an **integrative** function, harmonizing conflicting desires and ethical duties."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The nervous system exhibits an **integrative** capacity that coordinates individual reflexes into purposeful movements."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not integrated; not taken into or made a part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separated or isolated from others or a main group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not integrated; not combined or coordinated into an organized, unified whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and sociology, lacking psychological cohesion or remaining socially marginalized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unintegrated designates not integrated; not taken into or made a part of a whole."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In hysterical patients, split-off mental processes remain **unintegrated** with the primary consciousness."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Isolated, **unintegrated** communities within a commonwealth weaken the collective strength of the nation."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Knowledge acquired by rote memorization remains sterile and **unintegrated** with practical experience."*

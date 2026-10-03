@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being dissimilar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being dissimilar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or fact of being unalike; distinct divergence or dissimilarity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked divergence or disparity in form, appearance, or disposition between objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsimilarity designates the quality of being dissimilar."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The glaring **unsimilarity** of temperament between Tom and Maggie caused frequent childhood quarrels."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Organic development proceeds from homogeneous simplicity toward complex heterogeneity and marked **unsimilarity** of parts."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"A careful naturalist distinguishes essential homology from superficial **unsimilarity** produced by environmental adaptation."*

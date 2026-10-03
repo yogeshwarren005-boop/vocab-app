@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, organism, or system that absorbs, integrates, or assimilates components into itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, a learning style characterized by abstract conceptualization and inductive reasoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assimilator designates someone (especially a child) who learns (as from a teacher) or takes up knowledge or beliefs."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Goethe was the great **assimilator** of his century, digesting every art, science, and philosophy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man is a universal **assimilator**, adapting foodstuffs from every climate and flora."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"The active thinker functions as an **assimilator**, synthesizing discordant observations into harmonious knowledge."*

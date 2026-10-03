@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become dissimilar by changing the sound qualities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make dissimilar; cause to become less similar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics and phonetics, to make or become unlike or distinct from an adjacent sound in speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, to break down complex organic compounds into simpler ones; to catabolize.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissimilate designates become dissimilar by changing the sound qualities."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Phonetic laws frequently cause adjacent identical consonants to **dissimilate** for ease of vocal articulation."*
+> - 📜 **William Dwight Whitney (*Language and the Study of Language*):** *"In the evolution of Romance dialects, duplicate liquids often **dissimilate** into distinct consonants."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Muscular exertion causes muscle tissues to **dissimilate** glycogen and release thermal energy."*

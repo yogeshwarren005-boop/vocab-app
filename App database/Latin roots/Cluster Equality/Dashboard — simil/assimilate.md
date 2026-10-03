@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take up mentally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become similar to one's environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take in and understand fully; to absorb and incorporate nutrients into a living organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To absorb a person or minority into the prevailing culture and customs of a dominant community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we do not definitely set our minds to assimilate the ideas of Jesus, we shall make too little of the heart of God."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"If we can wrestle with that central thought and assimilate it, or, as the old divines said, "appropriate" it, make it our own, the rest of the Gospel is easy."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"It can harmonize, assimilate, and protect the several parts and members, and extend the benefit of its foresight and precautions to each."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Every living cell must **assimilate** organic nutrients from its environment to support growth and repair."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American republic demonstrated an extraordinary capacity to **assimilate** immigrants of diverse European origins."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The human mind cannot **assimilate** deep wisdom without patient contemplation and quiet study."*

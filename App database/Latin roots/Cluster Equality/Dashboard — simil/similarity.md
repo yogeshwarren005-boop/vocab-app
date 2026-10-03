@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being similar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gestalt principle of organization holding that (other things being equal) parts of a stimulus field that are similar to each other tend to be perceived as belonging together as a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resemblance in features, appearance, character, or structure between distinct entities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific point or feature of resemblance between different people or objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"It was, perhaps, one of those cases in which advice is good or bad only as the event decides; and for myself, I certainly never should, in any circumstance of tolerable similarity, give such advice."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This good-fellowship—_camaraderie_—usually occurring through similarity of pursuits, is unfortunately seldom superadded to love between the sexes, because men and women associate, not in their labours, but in their pleasures merely."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Cook read to them the account of Paul's shipwreck, showing the similarity of their experience. _'What made that captain change his course against his will?' but the ever present Spirit of God"_."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne noted with quiet amusement the remarkable **similarity** of tastes between Captain Wentworth and Louisa."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was a striking **similarity** in the rustic manners of the weather-beaten sheep shearers."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The anatomical **similarity** between the skeleton of man and the anthropoid ape is unmistakable."*

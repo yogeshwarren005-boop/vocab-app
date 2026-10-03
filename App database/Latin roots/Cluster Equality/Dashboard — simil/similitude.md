@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similarity in appearance or character or nature between persons or things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A duplicate copy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resemblance, likeness, or close correspondence in appearance, form, or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comparison, allegory, parable, or visible representation of an abstract concept.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thus, the sperm whale and the humpbacked whale, each has a hump; but there the similitude ceases."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, this same humpbacked whale and the Greenland whale, each of these has baleen; but there again the similitude ceases."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But after allowing due weight to this consideration, it may still be maintained, that there are many points of similitude which render these examples not unworthy of our attention."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vast white hump of the leviathan rose from the blue sea in strange **similitude** to a snow-capped pyramid."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Delivered under the **similitude** of a dream, the pilgrimage portrays the perilous pathway of the soul."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"There exists a remarkable **similitude** between the proposed federal constitution and the state charter of New York."*

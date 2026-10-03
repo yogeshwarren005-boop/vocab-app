@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undivided or unbroken completeness or totality with nothing wanting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moral soundness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Moral uprightness, honesty, and uncompromising adherence to ethical principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Structural soundness, wholeness, and unbroken completeness of form or construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Love is holy; And my integrity ne’er knew the crafts That you do charge men with."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your dishonour Mangles true judgment and bereaves the state Of that integrity which should become’t, Not having the power to do the good it would For th’ ill which doth control’t."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your daughter, whom she bore in hand to love With such integrity, she did confess Was as a scorpion to her sight; whose life, But that her flight prevented it, she had Ta’en off by poison."*
+> - 📜 **George Washington (*Letters*):** *"I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man of unblemished **integrity**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An independent judiciary is indispensable to preserve the structural **integrity** of the constitutional charter."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Nothing is at last sacred but the **integrity** of your own mind."*

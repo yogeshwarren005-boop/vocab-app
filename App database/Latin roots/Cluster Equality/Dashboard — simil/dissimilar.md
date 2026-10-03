@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not similar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not alike or similar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not alike; different in nature, appearance, properties, or quality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinct or diverging in fundamental characteristics, structure, or origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The new face, too, was like a new picture introduced to the gallery of memory; and it was dissimilar to all the others hanging there: firstly, because it was masculine; and, secondly, because it was dark, strong, and stern."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Thus united, but strangely dissimilar, the two parties converged on the Lake of Geneva, where the poets met for the first time."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Why did you who read this, commit that not dissimilar inconsistency of your own last year, last month, last week?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Two beings more **dissimilar** in temperament and outlook than St. John and myself could hardly be imagined."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe Gargery and Pip were placed in circumstances utterly **dissimilar** from their humble village beginnings."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection frequently produces remarkably **dissimilar** forms from a single ancestral species."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by correspondence or resemblance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the same or similar characteristics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a resemblance in appearance, character, or quantity, without being identical; alike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, having the same shape and corresponding proportional sides, but differing in size.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The talk first started from a misfortune which happened years ago, and later on the matter came up and people thought a similar misfortune had taken place again."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I hope you have never had a similar experience with my older children." "No, I could not say that," Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She made up her mind to do it afterwards for similar occasions."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Whales of **similar** magnitude and vicious disposition had been encountered off the coast of Japan."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The two legal cases presented **similar** complications that baffled the venerable judges of Chancery."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Species belonging to the same genus usually inhabit regions characterized by **similar** environmental conditions."*

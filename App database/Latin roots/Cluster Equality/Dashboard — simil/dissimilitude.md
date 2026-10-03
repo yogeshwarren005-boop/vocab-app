@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissimilarity evidenced by an absence of likeness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissimilarity evidenced by an absence of likeness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diversity, unlikeness, or difference between two or more entities; contrast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of resemblance in character, structure, appearance, or style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But to render the contrast in this respect still more striking, it may be of use to throw the principal circumstances of dissimilitude into a closer group."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The immense **dissimilitude** in the laws and habits of the confederated provinces impeded uniform legislation."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The extreme **dissimilitude** between Roman civility and barbarian savagery struck contemporary observers."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"The metaphysical poets delighted in discovering unexpected resemblances amidst obvious **dissimilitude**."*

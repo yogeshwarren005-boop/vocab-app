@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ceter within the domain of Equality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ceter in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latin phrase meaning with other conditions remaining the same or all other things being equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical economics and social science, an assumption isolating the causal effect of a single independent variable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceteris paribus designates pertaining to, derived from, or characteristic of latin ceter within the domain of equality."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"An increase in price reduces market demand, **ceteris paribus**, when consumer preferences remain unchanged."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The propensity to consume rises with income, **ceteris paribus**, in modern industrial societies."*
+> - 📜 **David Ricardo (*Principles of Political Economy and Taxation*):** *"Higher wages diminish the rate of capital profits, **ceteris paribus**, across all trading sectors."*

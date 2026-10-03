@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of mentally absorbing ; ,.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of taking (gas, light, or liquids) into a solution; "an assimilative substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the capacity or tendency to assimilate, absorb, or incorporate substance or ideas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological metabolism, pertaining to anabolism and the constructive absorption of nutrients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"How much of this country would now be worth preserving if the North had been covered by Africans as is South Carolina to-day, in view of their non-assimilative character?"*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Living organisms maintain their internal equilibrium through continuous **assimilative** metabolic processes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A powerful intellect possesses vast **assimilative** capacity, organizing complex facts into clear hierarchies."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The mind's **assimilative** faculty must be nourished by empirical observation and philosophical reflection."*

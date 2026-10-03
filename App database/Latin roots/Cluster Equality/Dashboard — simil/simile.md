@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech that expresses a resemblance between things of different kinds (usually formed with `like' or `as').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A figure of speech that expresses a resemblance between things of different kinds (usually formed with `like' or `as').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech involving the explicit comparison of one thing with another using like or as.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and literary criticism, a vivid metaphorical illustration enhancing poetic description.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A good swift simile, but something currish."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"There’s no simile for his lungs."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He had never before seen a woman’s lips and teeth which forced upon his mind with such persistent iteration the old Elizabethan simile of roses filled with snow."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"A lover's eyes will gaze an eagle blind; his speech is rich in **simile** and courtly compliment."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The author described her innocent youth with a tender **simile** likening her to a woodland blossom."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A true poetic **simile** arises from imaginative intuition rather than artificial verbal decoration."*

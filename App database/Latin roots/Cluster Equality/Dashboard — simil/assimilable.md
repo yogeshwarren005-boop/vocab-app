@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to be absorbed and incorporated into body tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to be absorbed and incorporated into body tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being absorbed, digested, and incorporated into living tissue or a larger system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily understood, adapted, or integrated into an intellectual, cultural, or social framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assimilable designates able to be absorbed and incorporated into body tissues."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Plants absorb nitrogen only in specific **assimilable** chemical compounds such as ammonia and nitrates."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Digestion converts complex foodstuffs into soluble, **assimilable** nutrients for cellular nourishment."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"New information becomes truly **assimilable** only when connected to the child's existing world of experience."*

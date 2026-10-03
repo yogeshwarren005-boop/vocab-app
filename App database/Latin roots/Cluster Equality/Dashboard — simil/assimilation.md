@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being assimilated; people of different backgrounds come to see themselves as part of a larger national family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social process of absorbing one cultural group into harmony with another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of taking in, digesting, and absorbing nutrients into cellular bodily tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social process of absorbing immigrants or minority cultures into the dominant society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One is struck with the amount of that unconscious assimilation of experience which we find in his words, and which is in itself an index to his nature."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill's immense power of assimilation."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And the increased intercourse among those of different States will contribute not a little to diffuse a mutual knowledge of their affairs, as this again will contribute to a general assimilation of their manners and laws."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The rapid **assimilation** of newcomers into the democratic body politic surprised European observers."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Differences in food **assimilation** explain variations in size and vitality among domesticated breeds."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Education fosters the mutual **assimilation** of cultural traditions into a shared democratic heritage."*

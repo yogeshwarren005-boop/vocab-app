@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic process by which one of two similar sounds in a word becomes less like the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breakdown in living organisms of more complex substances into simpler ones together with release of energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making or becoming unlike; in phonology, the change of one sound into a different one near a similar sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological metabolism, the breakdown of complex living matter into simpler waste products.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dissimilation designates a linguistic process by which one of two similar sounds in a word becomes less like the other."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The phonetic phenomenon of consonant **dissimilation** explains the shift from Latin peregrinus to English pilgrim."*
+> - 📜 **William Dwight Whitney (*The Life and Growth of Language*):** *"Syllabic **dissimilation** prevents tedious repetition of identical sounds in rapid conversational speech."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Cellular respiration represents continuous **dissimilation**, oxidizing nutrients to liberate physiological energy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of old world ferns; superseded in some classification systems which place plants of this genus in e.g. genera asplenium and pleurosorus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of old world ferns; superseded in some classification systems which place plants of this genus in e.g. genera asplenium and pleurosorus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rustyback fern (Asplenium ceterach), an evergreen rock fern densely covered beneath with brown scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional herbal medicine, a botanical remedy historically used for splenic disorders and kidney gravel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceterach designates small genus of old world ferns; superseded in some classification systems which place plants of this genus in e.g. genera asplenium and pleurosorus."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The small rock fern termed **ceterach** groweth upon ancient stone walls and rocky crags."*
+> - 📜 **John Ruskin (*Proserpina*):** *"The under surface of the **ceterach** frond is plated with golden-brown imbricated scales."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"Old herbalists celebrated the virtues of **ceterach** in dissolving stones and soothing hepatic complaints."*

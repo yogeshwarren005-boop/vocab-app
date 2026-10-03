@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exact copy or reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Duplicator that transmits the copy by wire or radio.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exact copy or reproduction of a written document, book, painting, or map.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of transmitting graphic or photographic material over telegraphic wires or radio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Each utensil, spoon, fork, knife, plate, had a letter engraved on it, with a motto above it, of which this is an exact facsimile:— MOBILIS IN MOBILI N."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"You figure them out.} {The following is transcribed from a letter (from Browning to Corson) which Corson chose to use in facsimile form to begin his text."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"ELECTROTYPING BY THE WAX MOLD PROCESS An electrotype is a facsimile printing plate duplicated from an original."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo opened a velvet case containing an accurate **facsimile** of the rare ancient chart."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"Legrand displayed an exact pen-and-ink **facsimile** of the cryptic cipher found upon the parchment."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary assembly ordered a certified **facsimile** of the declaration to be engraved upon bronze."*

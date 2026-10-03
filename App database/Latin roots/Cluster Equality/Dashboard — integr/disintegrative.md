@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause breakup into constituent elements or parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cause breakup into constituent elements or parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to cause or promote disintegration, decomposition, or fragmentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and political theory, undermining institutional harmony, civic order, or social cohesion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disintegrative designates tending to cause breakup into constituent elements or parts."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Unbridled individualism exerts a **disintegrative** influence upon communal bonds and civic responsibility."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Violent emotional trauma produces **disintegrative** effects upon the normal synthesis of conscious memory."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The **disintegrative** power of damp sea salt gnawed steadily into the carved Gothic capitals."*

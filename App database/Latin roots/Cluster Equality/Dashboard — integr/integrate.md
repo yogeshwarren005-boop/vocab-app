@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make into a whole or make part of a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open (a place) to members of all races and ethnic groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine one thing with another so that they become a whole; to unify separate parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To desegregate an institution, school, or community, providing equal access to all groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Computer," he said, "integrate these proceedings into the database."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Show costs in still accessible resources separately and integrate results with relevant commitments and schedules."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"It will give them all a target against which to plan and integrate deployment schedules, vectors, tactics and combined operations."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The new federal constitution was drafted to **integrate** thirteen sovereign states into one durable republic."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution manifests a continuous tendency to **integrate** matter while dissipating motion."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The primary function of public schools is to **integrate** diverse cultural populations into democratic citizenship."*

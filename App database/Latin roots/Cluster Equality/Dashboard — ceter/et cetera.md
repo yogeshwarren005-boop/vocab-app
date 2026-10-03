@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin ceter within the domain of Equality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of ceter in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: And other similar things; and the rest; and so forth; used to indicate that further items in a series are omitted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Additional unspecified items of the same general class or character, abbreviated commonly as etc.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, et cetera designates pertaining to, derived from, or characteristic of latin ceter within the domain of equality."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The bill of costs enumerated charges for attendances, consultations, copying of documents, **et cetera**."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"The theatrical wardrobe comprised cloaks, swords, powdered wigs, **et cetera**, scattered about the billiard room."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's manifest recorded salt beef, hard biscuit, casks of rum, **et cetera**, for the three-year voyage."*

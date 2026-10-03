@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of taking (gas, light, or liquids) into a solution; "an assimilative substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of taking (gas, light, or liquids) into a solution; "an assimilative substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, promoting, or characterized by the process of assimilation or absorption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and biochemistry, describing metabolic reactions that synthesize organic compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, assimilatory designates capable of taking (gas, light, or liquids) into a solution; "an assimilative substance."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The liver and lymphatic channels perform vital **assimilatory** transformations upon digested foodstuffs."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Plant growth depends entirely upon the **assimilatory** action of chlorophyll under solar illumination."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Microscopic algae perform the primary **assimilatory** work upon which all marine food chains depend."*

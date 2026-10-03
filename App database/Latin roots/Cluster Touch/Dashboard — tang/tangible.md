@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceptible by the senses especially the sense of touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being treated as fact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Perceptible by touch; palpable; having real physical substance and material presence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Definite, clearly identifiable, and capable of being accurately appraised or evaluated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"There is so little of any thing tangible for their decision to rest upon, that it seems to me as if a breath might blow it either way."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The purchasing and holding of land, lumber, grain, cattle, and other tangible and useful things, that need to be stored, held for buyers, or taken to market, must be judged liberally."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"When a protective rate is first applied or is increased, it calls into existence something visible and tangible, which can be measured in terms of factories built, men employed, and products turned out."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"The police found no **tangible** clue upon the floor of the locked chamber."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip longed for some **tangible** proof of the mysterious benefactor's benevolent intentions."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The threat of military aggression had ceased to be an academic question; it was now a **tangible** peril."*

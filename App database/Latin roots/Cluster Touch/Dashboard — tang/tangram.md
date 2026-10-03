@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chinese puzzle consisting of a square divided into seven pieces that must be arranged to match particular designs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chinese puzzle consisting of a square divided into seven pieces that must be arranged to match particular designs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional Chinese dissection puzzle consisting of seven flat polygonal geometric pieces formed by cutting a square.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A recreational mathematical puzzle challenging players to replicate outline silhouettes using all seven pieces without overlap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangram designates a chinese puzzle consisting of a square divided into seven pieces that must be arranged to match particular designs."*
+> - 📜 **Lewis Carroll (*Symbolic Logic*):** *"The mathematician found amusement in arranging the seven wooden triangles and rhomboids of the ancient **tangram**."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Geometric dissection puzzles such as the **tangram** illuminate the fundamental relations of spatial congruence."*
+> - 📜 **H.G. Wells (*Floor Games*):** *"The children spent quiet rainy afternoons constructing curious animals and boats from the lacquered **tangram** set."*

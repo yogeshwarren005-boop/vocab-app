@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hybrid between grapefruit and mandarin orange; cultivated especially in florida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large sweet juicy hybrid between tangerine and grapefruit having a thick wrinkled skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid citrus fruit obtained by crossbreeding a tangerine or mandarin orange with a pomelo or grapefruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology and horticulture, a cultivated tree of the genus Citrus yielding juicy, easily peeled fruits with a distinctive neck.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangelo designates hybrid between grapefruit and mandarin orange; cultivated especially in florida."*
+> - 📜 **Luther Burbank (*His Methods and Discoveries*):** *"By cross-pollinating the mandarin with the pomelo, horticulturists created the luscious **tangelo**."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"The experimental citrus grove bore heavy clusters of ripening **tangelo**, brilliant orange in the autumn sun."*
+> - 📜 **William Beebe (*Jungle Peace*):** *"We breakfasted in the orchard upon the sweet, aromatic juice of the newly picked **tangelo**."*

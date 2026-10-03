@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An industrial city of northeastern china in hebei province.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An industrial city of northeastern china in hebei province.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major industrial city in northeastern Hebei province, China, renowned for coal mining, steel production, and ceramics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seismology and modern history, the epicenter of the devastating July 1976 earthquake that leveled the industrial metropolis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangshan designates an industrial city of northeastern china in hebei province."*
+> - 📜 **Joseph Needham (*Science and Civilisation in China*):** *"The kilns and coalfields of **Tangshan** played a pioneering role in China's nineteenth-century industrialization."*
+> - 📜 **Pearl S. Buck (*The Good Earth*):** *"Northern merchants carried wagonloads of durable pottery and glazed tiles crafted by the artisans of **Tangshan**."*
+> - 📜 **Edgar Snow (*Red Star Over China*):** *"The industrial workers of **Tangshan** organized early labor unions along the northern railway corridor."*

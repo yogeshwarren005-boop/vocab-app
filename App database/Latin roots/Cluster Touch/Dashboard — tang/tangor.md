@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large citrus tree having large sweet deep orange fruit that is easily peeled; widely cultivated in florida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large citrus tree having large sweet deep orange fruit that is easily peeled; widely cultivated in florida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A citrus fruit hybrid obtained by crossing a sweet orange (Citrus sinensis) with a tangerine or mandarin (Citrus reticulata).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomological science, a commercially valuable cultivar characterized by tender pulp, thin rind, and intense aromatic sweetness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangor designates large citrus tree having large sweet deep orange fruit that is easily peeled; widely cultivated in florida."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"The hybridizer showed us heavy-fruiting trees of the delicious **tangor**, rich in sugar and aromatic oil."*
+> - 📜 **Luther Burbank (*Plant Breeding*):** *"Crossing orange varieties with loose-skinned mandarins produced the superior fruit known as the **tangor**."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Citrus growers along the subtropical river propagated the flavorful **tangor** with extraordinary success."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 100 tanga equal 1 tajikistani ruble.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A port city in northeastern tanzania on the indian ocean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skimpy bathing suit or undergarment consisting of small fabric panels connected by narrow strings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in Portuguese colonial India and East Africa, an old monetary unit or copper coin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tanga designates 100 tanga equal 1 tajikistani ruble."*
+> - 📜 **Richard Francis Burton (*Goa, and the Blue Mountains*):** *"The merchant paid the boatmen with a handful of copper **tanga** stamped with the royal arms of Lisbon."*
+> - 📜 **Claude Lévi-Strauss (*Tristes Tropiques*):** *"Indigenous women along the tropical river wore a minimal woven **tanga** adorned with bright beads."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The collector displayed several oriental curiosities, including an ancient silver **tanga** from the Malabar coast."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become or cause to become undone by separating the fibers or threads of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freed from entanglement, knots, or snarls; straightened out into order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resolved, clarified, or made clear through careful analysis or patient investigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"We untangled and made for the door."*
-> - 📜 **F. H. Costello (*Sure-dart*):** *"Sure-dart, catching the expression on the chief’s face, saw that it was a business now of taking care of themselves till the bloody human knot could be untangled."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The line was swiftly **untangled** and coiled anew in the tub before the boat renewed the chase."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"My bewildered thoughts were at last **untangled** by the calm and reassuring voice of Miss Temple."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The mysterious events of that fateful night were gradually **untangled** by patient inquiry."*

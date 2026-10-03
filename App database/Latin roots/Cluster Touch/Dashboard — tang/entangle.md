@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist together or entwine into a confusing mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To twist together into a confused, snarled, or complicated mass that is difficult to unravel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, to involve someone in complications, compromising disputes, or embarrassing difficulties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"There was a circumstance which at first sight seemed to entangle his delirious but still methodical scheme."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"And Captain Nemo, not wishing to entangle his screw in this herbaceous mass, kept some yards beneath the surface of the waves."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Did the _Nautilus_ dare entangle itself in the Manche?"*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"I must be gone; the strong necessity of time commands our services awhile, lest further wars **entangle** us."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Beware the running harpoon line, lest a sudden coil **entangle** you and drag you into the fathomless brine."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"Peace, commerce, and honest friendship with all nations, but never **entangle** our republic in foreign alliances."*

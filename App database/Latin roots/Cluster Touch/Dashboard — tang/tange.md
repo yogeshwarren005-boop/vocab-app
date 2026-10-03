@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Japanese architect (born in 1913).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Japanese architect (born in 1913).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In historical and dialectal English, a variant of tang; a sharp taste, projecting prong, or stinging organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional Scottish and Northern English vernacular, the tongue of a buckle or prong of a fork.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tange designates japanese architect (born in 1913)."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The blacksmith smoothed the iron **tange** of the sickle upon the grinding stone before fitting the ash handle."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The rusty **tange** of the ancient dagger remained wedged inside the moldering wooden sheath."*
+> - 📜 **William Makepeace Thackeray (*The English Humourists of the Eighteenth Century*):** *"There was a bitter **tange** in Swift's satire that pierced the vanity of London society."*

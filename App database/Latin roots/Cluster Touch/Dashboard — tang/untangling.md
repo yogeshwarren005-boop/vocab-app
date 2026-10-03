@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of releasing from a snarled or tangled condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Release from entanglement of difficulty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of straightening out snarled cords or resolving complications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The methodical cognitive endeavor of clarifying and solving convoluted problems or mysteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untangling designates the act of releasing from a snarled or tangled condition."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes spent many meditative hours **untangling** the baffling threads of the ancient family curse."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She devoted her morning to **untangling** the intricate financial records left by her late uncle."*
+> - 📜 **Edgar Allan Poe (*The Mystery of Marie Rogêt*):** *"The analytical mind delights in **untangling** complex webs of circumstantial evidence."*

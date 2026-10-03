@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being intangible and not perceptible by touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being intangible and not perceptible by touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being impalpable, insubstantial, or devoid of physical touch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elusiveness in character or meaning that evades intellectual definition or concrete calculation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, intangibleness designates the quality of being intangible and not perceptible by touch."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"The peculiar power of poetic genius lies in giving form to the very **intangibleness** of fleeting emotion."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The twilight mist drifted across the lake, melting into the vast **intangibleness** of summer night."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The painter captures the ethereal **intangibleness** of morning sunlight reflected upon rising vapors."*

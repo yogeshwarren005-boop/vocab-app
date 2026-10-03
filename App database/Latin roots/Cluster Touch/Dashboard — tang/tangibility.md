@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being perceivable by touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being perceivable by touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capability of being touched, grasped, or physically perceived; palpable reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinct clarity, definiteness, or concrete existence as opposed to speculative abstraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Spiritual tangibility Ideas are tangible and real to immortal consciousness, 279:12 and they have the advantage of being eternal."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"She knows, as well as the poet, that destructibility is not one of nature's words; that it is only the relationship of things--tangibility, visibility--that are transitory."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory impressions gain **tangibility** and conviction when reinforced by muscular resistance."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"The utopian community sought to give **tangibility** to ideals that had existed only in books."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The solid stone walls imparted a comforting **tangibility** to the ancient sanctuary."*

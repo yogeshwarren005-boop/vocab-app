@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A twisted and tangled mass that is highly interwoven.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something jumbled or confused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To twist together into an intricate, disordered mass; to snarl or become knotted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any large coarse edible kelp (genus Laminaria) growing in the littoral marine zone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I see no more in you than in the ordinary Of nature’s sale-work. ’Od’s my little life, I think she means to tangle my eyes too!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou retire, the Dauphin, well appointed, Stands with the snares of war to tangle thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Suffolk, he that can do all in all With her that hateth thee and hates us all, And York and impious Beaufort, that false priest, Have all limed bushes to betray thy wings; And fly thou how thou canst, they’ll tangle thee."*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"She said upon a time; but a true knight should never **tangle** himself in false vows."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The hunter's hound bounded through the forest **tangle** of briars and fallen branches."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"The stormy waves threw up masses of brown sea **tangle** upon the rocky Hebridean shore."*

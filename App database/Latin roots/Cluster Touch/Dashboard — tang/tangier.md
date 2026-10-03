@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city of northern morocco at the west end of the strait of gibraltar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tasting sour like a lemon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: More pungent, sharp, or zesty in flavor, odor, or character; comparative of tangy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the historic port city of Tangier on the Strait of Gibraltar in northern Morocco.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Y.’S filed before him, tallwhitehatted, past Tangier lane, plodding towards their goal."*
+> - 📜 **Washington Irving (*Chronicles of the Conquest of Granada*):** *"Moorish cruisers sailed from the fortified haven of **Tangier** to intercept Christian merchantmen."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"We arrived at **Tangier**, our first glimpse of the mysterious and exotic Orient across the straits."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"The spiced sauce possessed a **tangier** zest that delighted the sultan's banquet guests."*

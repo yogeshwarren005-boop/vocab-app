@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tart spicy quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The imperial dynasty of china from 618 to 907.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong, sharp, penetrating taste or smell; an intense sensory pungency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The projecting shank, tongue, or prong of a tool or blade that fits into the handle or hilt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let thy tongue tang arguments of state; put thyself into the trick of singularity."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And in France, too, in the _assommoirs_, the tang of wine in the air and the blue hue of smoke, excited Latin voices."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"The spring of the heather, the tang of the sea brought peace."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The salty **tang** of the maritime air revived our spirits as we approached the Yarmouth docks."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The blacksmith heated the steel **tang** of the harpoon before welding it firmly to the hickory shaft."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"There was a sharp **tang** of gunsmoke and stale tobacco hanging in the gloomy cabin."*

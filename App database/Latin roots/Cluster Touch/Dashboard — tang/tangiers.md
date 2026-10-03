@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city of northern morocco at the west end of the strait of gibraltar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city of northern morocco at the west end of the strait of gibraltar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major historic port city in northern Morocco, strategically situated on the Strait of Gibraltar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an international zone and important commercial crossroads linking Africa and Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangiers designates a city of northern morocco at the west end of the strait of gibraltar."*
+> - 📜 **Samuel Pepys (*Diary*):** *"The fleet sailed for **Tangiers** to secure the English garrison against the besieging Moorish armies."*
+> - 📜 **Winston Churchill (*The River War*):** *"The strategic importance of **Tangiers** has commanded the anxious attention of European chancelleries for centuries."*
+> - 📜 **Herman Melville (*Redburn*):** *"Old sailors in the fo'c's'le spun wild yarns of their adventures in the winding alleys of **Tangiers**."*

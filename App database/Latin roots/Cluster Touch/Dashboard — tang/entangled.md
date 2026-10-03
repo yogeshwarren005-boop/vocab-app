@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Entrap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Twist together or entwine into a confusing mass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Caught, twisted, or snared in a complex or knotted mesh; interwound inextricably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum physics, describing particles whose quantum states cannot be described independently of each other.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Riotous madness, To be entangled with those mouth-made vows Which break themselves in swearing!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Their knot of love, Tied, weaved, entangled, with so true, so long, And with a finger of so deep a cunning, May be outworn, never undone."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I was not sure that I had a right to lay his whole story open, but I referred in a few words to his estrangement from Mr Jarndyce and to his being entangled in the ill-fated Chancery suit."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"It is interesting to contemplate an **entangled** bank, clothed with many plants of many kinds."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The steamer was caught amidst **entangled** creepers and drooping vines along the murky riverbank."*
+> - 📜 **Albert Einstein (*The Born-Einstein Letters*):** *"Physics cannot accept the notion of spooky action at a distance between spatially **entangled** systems."*

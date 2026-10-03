@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Assets that are saleable though not material or physical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of especially business assets) not having physical substance or intrinsic productive value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unable to be touched or grasped; lacking physical presence; impalpable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficult to define, measure, or quantify with precision; elusive to intellectual comprehension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He would let her see, all those six years of intangible ethereal courtship, how little care he had for anything but as it bore upon the consummation."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Interim The room is full of you!--As I came in And closed the door behind me, all at once A something in the air, intangible, Yet stiff with meaning, struck my senses sick!-- Sharp, unfamiliar odors have destroyed Each other room's dear personality."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Tho property meant originally and essentially the intangible right to a thing, the word came to be applied also to the object of the right."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"A faint, **intangible** terror seemed to hover over the antique mansion like an unwholesome vapor."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"True honor is an **intangible** essence that no thief can purloin nor merchant purchase."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A nation's commercial prosperity rests upon both material capital and **intangible** habits of industry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In passing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In passing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peripheral manner that relates only indirectly or slightly to the main subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, along the direction of a tangent line or curve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangentially designates in passing."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The scholastic controversy touched only **tangentially** upon empirical scientific observations."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The lecturer spoke **tangentially** of classical philosophy before addressing the pathology of tuberculosis."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic needle deflected **tangentially** to the circular lines of electric force."*

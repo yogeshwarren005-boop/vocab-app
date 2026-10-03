@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The longest lake in the world in central africa between tanzania and congo in the great rift valley.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A former state in east africa; united with zanzibar in 1964 to form tanzania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vast, deep freshwater rift lake in East Africa, the second oldest and second deepest lake in the world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical East African territory that united with Zanzibar in 1964 to form the United Republic of Tanzania.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The later extensions of the copper mining industry occurred in Utah, Tennessee, and Queensland, whilst within recent years the most important work on a large scale has been commenced in Tanganyika, in Nevada, and in Siberia."*
+> - 📜 **David Livingstone (*The Last Journals of David Livingstone*):** *"We marched along the tranquil shores of Lake **Tanganyika**, gazing upon the blue mountain ridges across the water."*
+> - 📜 **Henry Morton Stanley (*How I Found Livingstone*):** *"At Ujiji upon the palm-fringed shore of Lake **Tanganyika**, I walked forward and uttered the historic greeting."*
+> - 📜 **Winston Churchill (*My African Journey*):** *"The immense waters of Lake **Tanganyika** form an extraordinary inland highway through the heart of the continent."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tart spicy quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tart spicy quality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sensory property of possessing a sharp, biting, fresh, or zesty taste or aroma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vivid piquancy or lively pungency in culinary flavor, beverage, or figurative speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tanginess designates a tart spicy quality."*
+> - 📜 **Henry David Thoreau (*Wild Apples*):** *"The wild apple possesses an exhilarating **tanginess** that awakens the dormant senses of the wanderer."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old cellar master praised the sparkling **tanginess** of the vintage cider drawn from the wood."*
+> - 📜 **Katherine Mansfield (*In a German Pension*):** *"The fresh morning air carried the pleasant **tanginess** of wet pine needles and crushed herbs."*

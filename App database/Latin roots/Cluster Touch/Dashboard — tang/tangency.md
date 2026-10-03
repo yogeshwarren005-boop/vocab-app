@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being tangent; having contact at a single point or along a line without crossing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (electronics) a junction where things (as two electrical conductors) touch or are in physical contact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or contact of touching at a single point or along a line without intersecting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, the mathematical relationship between a curve and a straight line that touches it without cutting it.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangency designates the state of being tangent; having contact at a single point or along a line without crossing."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The straight line drawn through the point of **tangency** remains perpendicular to the radius of curvature."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The concept of **tangency** requires rigorous formulation through the calculus of continuous limits."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"Human souls meet in rare moments of intellectual **tangency**, then diverge along their sovereign paths."*

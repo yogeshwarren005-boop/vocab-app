@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of mandarin orange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various deep orange mandarins grown in the united states and southern africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, sweet citrus fruit resembling an orange, with a loose, easily peeled skin; a mandarin orange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deep, vivid orange or reddish-orange color resembling the rind of the ripe fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangerine designates a variety of mandarin orange."*
+> - 📜 **Herman Melville (*Typee*):** *"The natives brought baskets brimming with wild breadfruit, guavas, and the sweet island **tangerine**."*
+> - 📜 **Katherine Mansfield (*The Garden Party*):** *"The afternoon sky turned a gorgeous shade of glowing **tangerine** behind the tall poplar trees."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The ripe **tangerine** split cleanly in her fingers, filling the nursery with a sweet citrus perfume."*

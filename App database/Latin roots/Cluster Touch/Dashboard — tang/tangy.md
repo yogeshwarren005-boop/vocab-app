@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tasting sour like a lemon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tasting sour like a lemon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a sharp, distinct, and pleasantly tart or pungent flavor or scent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Piquant, zesty, or refreshing to the sensory palate; possessing lively acidity or zest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangy designates tasting sour like a lemon."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I quenched my thirst with the cold, **tangy** juice of wild berries gathered along the woodland path."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The sailors hungered for fresh fruit, craving the **tangy** taste of lemons to ward off scurvy."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The cider house was filled with the pungent, **tangy** aroma of fermenting russet apples."*

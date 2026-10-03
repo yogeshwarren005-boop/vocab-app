@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being perceivable by touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being perceivable by touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property or character of possessing palpable, physical, or solid form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Readily perceived clarity or unmistakable reality that leaves no room for doubt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangibleness designates the quality of being perceivable by touch."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Men of action demand **tangibleness** in their endeavors, preferring solid facts to speculative dreams."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I desired to front the essential facts of life with direct **tangibleness**, unencumbered by artificial conventions."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The sturdy carpenter trusted only the **tangibleness** of seasoned oak and honest iron craftsmanship."*

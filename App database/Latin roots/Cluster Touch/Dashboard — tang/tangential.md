@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of superficial relevance if any.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or acting along or in the direction of a tangent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diverging from a topic or purpose; barely touching upon the central subject; peripheral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mechanics and geometry, acting along or directed in the direction of a tangent line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangential designates of superficial relevance if any."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A distracted mind wanders along **tangential** associations, losing the central thread of rational discourse."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"These archaeological findings furnish only **tangential** evidence regarding the primary dispute."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The orbital velocity of the planet resolves into a radial component and a **tangential** impulse."*

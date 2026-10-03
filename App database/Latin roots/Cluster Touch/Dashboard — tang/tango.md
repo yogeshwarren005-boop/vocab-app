@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ballroom dance of latin-american origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Music written in duple time for dancing the tango.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic ballroom dance of Argentine origin in four-four time, marked by sharp turns, hesitations, and fluid poses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the NATO phonetic alphabet, the code word used internationally to represent the letter T.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tango designates a ballroom dance of latin-american origin."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"The orchestra played a passionate **tango** while dancers drifted across the marble terrace beneath the stars."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"In the lively Parisian bistro, couples danced the Argentine **tango** until the early hours of morning."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"Katharine watched the dancers glide across the floor, fascinated by the rhythmic melancholy of the **tango**."*

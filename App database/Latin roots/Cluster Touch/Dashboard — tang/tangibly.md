@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tangible manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tangible manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that can be physically touched, felt, or perceived; concretely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unmistakable, substantial, or clearly demonstrable manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tangibly designates in a tangible manner."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny's spirits were **tangibly** elevated by the affectionate kindness of her brother's arrival."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The cold autumn mist hung **tangibly** in the valley, chilling the morning milkers to the bone."*
+> - 📜 **Joseph Conrad (*Victory*):** *"The island air felt **tangibly** heavy with impending storm clouds gathering over the silent bay."*

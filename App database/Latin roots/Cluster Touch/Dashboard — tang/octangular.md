@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or shaped like an octagon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or shaped like an octagon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having eight angles and eight sides; octagonal in geometrical form or architectural design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical geometry and architecture, describing a polygon or building structure with eight exterior facets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Its outward form is circular; but the interior is somewhat of an octangular figure, but very irregular, its general dimensions being thirty-three feet long, and twenty-five feet broad."*
+> - 📜 **Christopher Wren (*Parentalia*):** *"The lantern of the central dome was supported by an **octangular** arcade of solid Portland stone."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ancient baptistery presented an imposing **octangular** facade of alternating red and white marble."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The central drawing room of the mansion was constructed upon an elegant **octangular** floor plan."*

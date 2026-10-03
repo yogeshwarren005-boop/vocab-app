@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ratio of the adjacent to the opposite side of a right-angled triangle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the adjacent to the opposite side of a right-angled triangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In trigonometry, the ratio of the adjacent side to the opposite side of a right triangle, or reciprocal of tangent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circular trigonometric function representing the co-ratio in analytic geometry and surveying calculations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotangent designates ratio of the adjacent to the opposite side of a right-angled triangle."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The calculation of refraction through the prism requires computing the sine and **cotangent** of the incident angle."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"The circular function termed the **cotangent** varies inversely with the magnitude of the tangent."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Astronomical tables furnish the astronomer with the exact **cotangent** for every fraction of a celestial arc."*

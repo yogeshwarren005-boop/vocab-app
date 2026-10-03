@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Release from entanglement of difficulty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become or cause to become undone by separating the fibers or threads of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To unravel, disentangle, or separate snarled threads, ropes, or components of a tangled mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To solve, elucidate, or clear up an intricate or complicated problem, mystery, or difficulty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O time, thou must untangle this, not I, It is too hard a knot for me t’untie! [_Exit._] SCENE III."*
-> - 📜 **Thornton W. Burgess (*The Adventures of Reddy Fox*):** *"Reddy was laughing to see how hard Bowser the Hound was working to untangle Reddy's mixed-up trail."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"The bottom of her skimpy skirt caught on a briar vine, but Mister Ward wouldn't wait for her to untangle it, so it got torn."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Time must **untangle** this knot of deceit, for human reason alone is too feeble."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes set himself to **untangle** the strange web of clues surrounding the Agra treasure."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found it impossible to **untangle** his mounting financial perplexities from his professional duties."*

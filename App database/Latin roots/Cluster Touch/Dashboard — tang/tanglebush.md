@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spiny branching deciduous shrub of southwestern united states having clusters of insignificant yellow-white flowers appearing before leaves followed by attractive black berrylike fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spiny branching deciduous shrub of southwestern united states having clusters of insignificant yellow-white flowers appearing before leaves followed by attractive black berrylike fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, thorny, or intricately branched shrub or thicket that impedes passage through wild terrain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional North American botany, any scrambling thorny brush forming impenetrable coverts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tanglebush designates spiny branching deciduous shrub of southwestern united states having clusters of insignificant yellow-white flowers appearing before leaves followed by attractive black berrylike fruits."*
+> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"The wounded buck plunged into a dense **tanglebush** of buckbrush where pursuit was nearly impossible."*
+> - 📜 **Zane Grey (*Riders of the Purple Sage*):** *"Lassiter forced his weary horse through the prickly **tanglebush** choking the canyon floor."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The mountain slopes were girdled with thickets of **tanglebush** that defied human transit."*

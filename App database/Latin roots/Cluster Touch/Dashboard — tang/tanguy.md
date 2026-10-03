@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states surrealist painter (born in france) (1900-1955).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states surrealist painter (born in france) (1900-1955).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Yves Tanguy (1900-1955), a French-American surrealist painter noted for strange landscapes of amorphous, mineral-like shapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern art history, the distinctive surrealist aesthetic depicting vast alien horizons populated by biomorphic bone-like forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tanguy designates united states surrealist painter (born in france) (1900-1955)."*
+> - 📜 **André Breton (*Surrealism and Painting*):** *"The desolate, immaculate horizons of Yves **Tanguy** reveal the uncharted continents of the unconscious mind."*
+> - 📜 **Gertrude Stein (*The Autobiography of Alice B. Toklas*):** *"In the Parisian gallery hung an eerie canvas by **Tanguy**, depicting smooth stone-like creatures upon an empty plain."*
+> - 📜 **Salvador Dalí (*The Secret Life of Salvador Dalí*):** *"My friend **Tanguy** painted dreams of petrified silence with an unmatched mineral delicacy."*

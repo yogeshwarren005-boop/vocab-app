@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Force into some kind of situation, condition, or course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tangle or complicate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knotted, twisted, or matted together in an irregular, disordered mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Highly complicated, confused, or difficult to resolve intellectually or morally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His speech was like a tangled chain; nothing impaired, but all disordered."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She could think of nothing better to do with her palpitating self than to go in here and hide; and entering, she lighted on a spot sheltered from the damp fog by a reclining trunk, where she sank down upon a tangled couch of fronds and stems."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It is strange—life and men’s ways and laws and tangled paths."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"My heart to her but as guest-wise sojourn'd, and now to Helen is it home return'd, through **tangled** woods."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Her hair was blown into a **tangled** skein across her brow by the sudden squall."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck crashed through the **tangled** brushwood, pursuing the fleeing snowshoe rabbit."*

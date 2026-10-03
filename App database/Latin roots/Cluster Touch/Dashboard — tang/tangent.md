@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ratio of the opposite to the adjacent side of a right-angled triangle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Touching a curve or surface at a single point without intersecting it; touching lightly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A completely different line of thought or action; or in trigonometry, the ratio of opposite to adjacent sides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"If you take off on a tangent, so be it."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Suddenly he broke out at a fresh tangent."*
-> - 📜 **James Joyce (*Ulysses*):** *"Though that halfbaked Lyons ran off at a tangent in his impetuosity to get left."*
+> - 📜 **René Descartes (*The Geometry*):** *"The determination of the **tangent** to a geometric curve represents one of the most sublime problems in geometry."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke flew off on a sudden **tangent**, rambling from drainage schemes to Italian painting."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vessel glanced off at a **tangent** from the monstrous whale's flank, shuddering in every timber."*

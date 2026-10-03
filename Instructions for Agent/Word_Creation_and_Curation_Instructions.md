@@ -21,49 +21,54 @@
 
 ## 2. Authoritative Definitions & Multi-Source Lookup Cascade
 
-Every word entry must have two high-quality, authoritative, yet simple-to-understand definitions inside the `> [!book]` callout:
+Every word entry must have two high-quality, authoritative, non-circular definitions inside the `> [!book]` callout:
 
-- **1. Primary Definition:**
+- **1. Primary Definition (Lexical / Standard Consensus):**
   - The authoritative core dictionary definition written in clear, accessible modern English so the reader grasps the meaning immediately.
-- **2. Secondary / Nuanced Definition:**
-  - Must **never** duplicate the Primary Definition.
+  - **Strict Anti-Circular / Anti-Tautology Mandate:** Never use formulaic tautologies such as *"the quality, state, condition, act, or process of being [word/root]"* (e.g. avoid defining *interactivity* as *"the quality or condition of being interactive"*). Always explain the active mechanics, function, or substantive nature of the word.
+  - Minimum substantive length: $\ge 25$ characters.
+- **2. Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic):**
+  - Must **never** duplicate the Primary Definition ($Jaccard\text{ similarity} < 0.70$).
   - Tailored to the specific word: provides the genuine secondary dictionary sense, figurative/extended usage, connotative nuance, or specialized domain function (e.g., how a scientific, medical, anatomical, or philosophical term operates in context).
+  - Minimum substantive length: $\ge 25$ characters.
 
-### Mandatory Multi-Source Lookup Cascade (Until Dictionary Definition Is Found)
-If an authoritative dictionary definition is not immediately available, the agent **must** search across multiple tools and sources in the following order until the true dictionary definition is found:
+### Mandatory Multi-Source Lookup Cascade
 
-1. **All Available MCP Servers:**
-   - `Dictionary-MCP` (`meaning`, `part_of_speech`, `full_info`, `stems`, `stem_info`)
-   - `lexicon-mcp` (`dictionary_lookup`, `dictionary_synonyms`, `dictionary_relations`, `dictionary_semantic_neighbors`)
-   - `wikipedia` MCP (`get_summary`, `get_article`, `search_wikipedia`) for scientific, taxonomic, anatomical, and encyclopedic terms
-   - `project-gutenberg` MCP (`search_books`, `get_passage`) for literary context
-   - `philosophy` MCP (`sep_search`, `iep_search`, `philosophy_lookup`) for philosophical/epistemological terms
-   - `parallel-search` MCP (`web_search`, `web_fetch`)
-2. **`crw` (fastCRW Web Scraper CLI & MCP):**
-   - Use `crw <url>`, `crw <url> --js`, `crw_scrape`, or `crw_extract` to scrape authoritative dictionary pages directly:
-     - Merriam-Webster (`https://www.merriam-webster.com/dictionary/<word>`)
-     - Wiktionary (`https://en.wiktionary.org/wiki/<word>`)
-     - Collins Dictionary / American Heritage / Century Dictionary / OneLook
-     - Online Etymology Dictionary (`https://www.etymonline.com/word/<word>`)
-3. **Web Search (`search_web` & `read_url_content`):**
-   - Query across general and specialized web sources (medical lexicons, botanical/zoological glossaries, legal dictionaries, literary archives).
-4. **Agent Generation (Last Resort Only):**
-   - Rely on your own lexical/morphological generation **only as an absolute last resort** when exhaustive checks across all MCPs, `crw` dictionary scrapes, and web searches confirm the word is an unindexed rare morphological derivative.
+Definitions are resolved through this structured multi-source cascade:
+
+1. **Offline Local Dictionary Database (`main app/corpus/local_dictionary.db`):**
+   - High-speed ($< 1\text{ ms}$) offline SQLite database containing **303,443 entries** combining Princeton WordNet 3.1 and Webster's 1913 Unabridged Dictionary. Provides authoritative lexical consensus and numbered senses.
+2. **`Dictionary-MCP` Server:**
+   - Queries Merriam-Webster Collegiate lexicon for contemporary definitions, inflected forms, and grammatical classifications.
+3. **`wikipedia` MCP Server:**
+   - `get_summary`, `get_article`, `extract_key_facts` for scientific, anatomical, botanical, legal, and taxonomic derivatives.
+4. **`crw` (fastCRW Web Scraper CLI & MCP):**
+   - Use `crw <url>`, `crw <url> --js`, `crw_scrape`, or `crw_extract` targeting Wiktionary (`en.wiktionary.org/wiki/<word>`), Merriam-Webster, Oxford/Collins, and Online Etymology Dictionary (`etymonline.com`) for rare morphological derivatives.
+5. **`philosophy` MCP Server:**
+   - `sep_search`, `iep_search`, `philosophy_lookup` for epistemological, ethical, ontological, and philosophical roots (*ratio*, *veritas*, *cognitio*, *lex*, *causa*).
+6. **Agent Morphological Resolution (Absolute Last Resort Only):**
+   - Only permitted when exhaustive checks across the local dictionary, all MCPs, and `crw` scrapes confirm the term is an unindexed rare morphological affixation. Even then, definitions must be substantive and non-circular.
 
 ---
 
-## 3. Three Concise, Authentic Literary / Contextual Citations
+## 3. Strict MCP Sourcing for Authentic Literary Phrases (Zero-Synthetic Mandate)
 
-Every word entry must contain **3 example sentences** inside `> [!quote] 💬 Contextual Usage & Authentic Quotations`:
+Every word entry must contain **exactly 3 example sentences** inside `> [!quote] 💬 Contextual Usage & Authentic Quotations`:
 
-1. **Small, Punchy Literary & Contextual Citations:**
-   - Keep each citation **concise and uncluttered** (a crisp, self-contained 1-sentence quotation or usage phrase) so the user can read and grasp the word effortlessly on mobile.
-2. **Organic Source Diversity:**
-   - Citations can come from any authentic source appropriate to the word: classic literature and books, scientific/academic texts (for scientific definitions), notable quotes of famous people, essays, blogs, journalism, and reputable internet sources.
-   - Never repeat the same author or book multiple times within the same word entry.
-   - Never use synthetic placeholder sentences such as `*"In academic literature, <word> designates..."*`.
-3. **Target Word Highlighting:**
-   - Bold the target word (`**word**`) inside the italicized quotation so the eye locks onto its syntactic usage immediately.
+1. **Zero-Synthetic / Anti-Fabrication Guarantee:**
+   - **ABSOLUTE BAN** on template interpolation (`{w}`), mad-libs, or synthetic placeholder sentences (e.g., *"In academic literature, <word> designates..."* or attributed fake quotes).
+   - Every quotation must be a real, verbatim sentence published by a real author in an identifiable work.
+2. **Authorized MCP & Corpus Sourcing List:**
+   - **`project-gutenberg` MCP:** Canonical classical literature (`search_books`, `fetch_book_text`, `get_passage`) covering Shakespeare, Austen, Dickens, Melville, Eliot, Conrad, Hardy, Wells, etc.
+   - **`crw` MCP / CLI:** Attested historical citations cataloged by human lexicographers on Wiktionary (`en.wiktionary.org/wiki/Citations:<word>`), complete with author, work, year, and page.
+   - **`philosophy` MCP:** Attested citations and philosophical arguments from Locke, Mill, Hume, Kant, Aristotle, Bacon, Descartes, William James.
+   - **`wikipedia` MCP:** Historical documentation, scientific treatises, landmark speeches, and legal rulings.
+   - **Canonical Corpus FTS5 Database (`main app/corpus/citation_corpus.db`):** Offline SQLite index of 213,370 canonical public domain literary and scientific sentences (Darwin, Adam Smith, Gibbon, Emerson, etc.).
+3. **Strict Citation Formatting & Diversity Rules:**
+   - **Author Diversity:** All 3 citations must be from 3 distinct, real authors (`len(set(authors)) == 3`). Never repeat authors within a word.
+   - **Identifiable Published Work:** Cites a specific published title in italics (e.g. `*Moby-Dick*`, `*Origin of Species*`). Generic labels like `*Classic Literature*` or `*Academic Lexicon*` are prohibited.
+   - **Target Word Bolding:** The exact headword must appear verbatim in the quote text, formatted with bold markdown (`**word**`).
+   - **Concise & Readable:** Prefer punchy, self-contained sentences (1–2 sentences) that render cleanly on mobile.
 
 ---
 

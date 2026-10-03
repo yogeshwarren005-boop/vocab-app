@@ -1,14 +1,14 @@
 {
   "startedAt": "2026-09-30T17:10:00+08:00",
-  "lastUpdatedAt": "2026-10-02T00:22:00+08:00",
-  "currentMilestone": "Milestone 4: Greek roots curation COMPLETED (All 30 of 30 Clusters 100% pristine)",
+  "lastUpdatedAt": "2026-10-03T03:06:00+08:00",
+  "currentMilestone": "Milestone 5: Latin roots curation IN PROGRESS (Pilot Dashboard — act 120/120 pristine, 0 issues)",
   "milestones": {
     "milestone_0_instructions": "completed",
     "milestone_1_mobile_ui": "completed",
     "milestone_2_md_status_top_layout": "completed",
     "milestone_3_english_vocab_master_curation": "completed",
     "milestone_4_greek_roots_curation": "completed",
-    "milestone_5_latin_roots_curation": "pending",
+    "milestone_5_latin_roots_curation": "in_progress",
     "milestone_6_verification_and_sync": "pending"
   },
   "completedClusters": [

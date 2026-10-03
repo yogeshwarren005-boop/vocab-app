@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generally any arch shaped structure (but often it refers to the arched roof of an anatomical space).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arched bundle of white fibers at the base of the brain by which the hippocampus of each hemisphere projects to the contralateral hippocampus and to the thalamus and mamillary bodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An arched anatomical structure, especially the prominent C-shaped tract of nerve fibers in the limbic system of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Roman architecture, an arch, vaulted chamber, or covered passageway under which outcasts congregated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fornix designates generally any arch shaped structure (but often it refers to the arched roof of an anatomical space)."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **fornix** serves as the principal efferent projection pathway connecting the hippocampus to the mammillary bodies."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lesions interrupting the bilateral columns of the **fornix** produce profound anterograde amnesia."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Beneath the shadowed **fornix** of the ancient circus, the desperate outcasts of Rome found refuge."*

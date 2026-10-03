@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of one legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of one legislative body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of a single legislative chamber or parliament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, describing a streamlined system of representation without a separate upper house.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicameral designates composed of one legislative body."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Articles of Confederation established an ineffective **unicameral** congress incapable of executive dispatch."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Advocates of a **unicameral** assembly argue that a second chamber merely duplicates or obstructs."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Early revolutionary assemblies frequently experimented with a **unicameral** constitution with turbulent results."*

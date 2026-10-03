@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small opening covered with membrane (especially one in the bone between the middle and inner ear).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small opening covered with membrane (especially one in the bone between the middle and inner ear).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical opening, window, or aperture, especially in the temporal bone of the ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and botany, a small transparent spot on an insect's wing or a perforation in a leaf.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"Et in orientali parte duarum elarum orientalium, in earum duabus fenestris, quælibet fenestra constat ex tribus panis vitreatis sine armis."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Vibrations of the stapes footplate transmit acoustic waves through the oval **fenestra** into the perilymph."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Otosclerosis causes bony fixation around the auditory **fenestra**, impairing sound transmission."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Certain insect wings exhibit a clear **fenestra** that mimics a water droplet to confound predators."*

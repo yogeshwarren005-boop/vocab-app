@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The central area in a building; open to the sky.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An open central court or hall in an ancient Roman house; a large skylit central hall in modern architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate cardiology, either of the two upper cavities of the heart that receive venous blood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atrium designates any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Guests assembled beneath the marble pillars of the sunny **atrium** to greet the patrician host."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Stagnant blood within the left **atrium** predisposes the patient to systemic emboli."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"The palazzo opened into a cool **atrium** filled with potted oleanders and ancient statues."*

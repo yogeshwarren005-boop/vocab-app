@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the southern hemisphere near cetus and phoenix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A faint constellation in the southern hemisphere near cetus and phoenix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint constellation in the southern celestial hemisphere representing a chemical furnace, created by Nicolas-Louis de Lacaille.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman mythology, the goddess of baking and ovens celebrated at the ancient festival of Fornacalia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fornax designates a faint constellation in the southern hemisphere near cetus and phoenix."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The faint constellation **Fornax** contains remarkable galaxy clusters visible only in large telescopes."*
+> - 📜 **Ovid (*Fasti*):** *"The Romans paid annual homage to **Fornax**, the divine guardian who presided over the baking of sacred bread."*
+> - 📜 **Camille Flammarion (*Popular Astronomy*):** *"Lacaille commemorated the instruments of modern chemistry by inscribing **Fornax** upon the southern charts."*

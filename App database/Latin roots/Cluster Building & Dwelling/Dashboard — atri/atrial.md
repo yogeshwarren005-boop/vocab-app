@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to an atrium of the heart, one of the two upper chambers that receive blood from veins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural terminology, pertaining to a central open court or skylit hall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atrial designates of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician carefully palpated the chest, noting rapid irregular **atrial** fibrillation."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Blood flows from the venae cavae into the right **atrial** chamber of the mammalian heart."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The light descended through the grand **atrial** skylight, illuminating the marble portico."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of windows in a building.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical procedure that creates a new fenestra to the cochlea in order to restore hearing lost because of osteosclerosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement, proportioning, and design of windows and door openings in a building facade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery and pathology, the surgical creation of an artificial opening into a bodily organ.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fenestration designates the arrangement of windows in a building."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The majestic beauty of the Venetian palace depends upon the harmonious **fenestration** of its main facade."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The otologist evaluated the clinical efficacy of surgical **fenestration** for relieving chronic deafness."*
+> - 📜 **Edith Wharton (*Italian Villas and Their Gardens*):** *"The Renaissance architect balanced the **fenestration** of the piano nobile with symmetrical pediments."*

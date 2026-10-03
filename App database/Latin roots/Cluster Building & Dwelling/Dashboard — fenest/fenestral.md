@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having a fenestra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to windows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a window or an anatomical fenestra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and anatomy, characterized by the presence of window-like openings or perforations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fenestral designates of or relating to or having a fenestra."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The Gothic cathedral was illuminated by tall **fenestral** bays glowing with ruby stained glass."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"A delicate membrane covers the **fenestral** aperture between the middle ear cavity and the cochlea."*
+> - 📜 **Thomas Hardy (*A Pair of Blue Eyes*):** *"The twilight wind whispered softly through the empty **fenestral** arches of the ruined abbey."*

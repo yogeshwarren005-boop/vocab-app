@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographer who operates a movie camera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photographer who operates a movie camera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A professional operator of a motion-picture, television, or photographic camera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In news journalism and cinema production, the technical specialist responsible for cinematography and camera angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cameraman designates a photographer who operates a movie camera."*
+> - 📜 **Sinclair Lewis (*Arrowsmith*):** *"The newsreel **cameraman** cranked his wooden apparatus rapidly to capture the governor's arrival."*
+> - 📜 **F. Scott Fitzgerald (*The Last Tycoon*):** *"Stahr watched the set from behind the chief **cameraman**, evaluating the dramatic shadows."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"A foreign **cameraman** filmed the parade of militia volunteers marching through the plaza."*

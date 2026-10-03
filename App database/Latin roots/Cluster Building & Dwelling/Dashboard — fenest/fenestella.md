@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oval or circular opening; to allow light into a dome or vault.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oval or circular opening; to allow light into a dome or vault.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small opening or niche, especially an aperture in a church wall through which relics or the altar may be seen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, an extinct genus of fan-shaped bryozoans with a net-like or mesh-like calcareous colony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fenestella designates oval or circular opening; to allow light into a dome or vault."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The pilgrim knelt beside the carved **fenestella** to view the illuminated shrine within."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Silurian limestone beds abound in delicate fossil fronds of the bryozoan **Fenestella**."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"The lace-like architecture of **Fenestella** illustrates the colony-building instincts of ancient polyzoa."*

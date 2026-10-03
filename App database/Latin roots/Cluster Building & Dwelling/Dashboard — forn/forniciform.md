@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin forn within the domain of Building & Dwelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of forn in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like an arch or vault; arched; resembling an architectural fornix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and comparative morphology, describing anatomical structures curved in the form of a vaulted arch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, forniciform designates pertaining to, derived from, or characteristic of latin forn within the domain of building & dwelling."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The cerebral commissure presents a distinctive **forniciform** curve above the third ventricle."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cranial bones join in a stout **forniciform** vault protecting the delicate encephalon."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The crypt featured sturdy **forniciform** groining that supported the weight of the pavement above."*

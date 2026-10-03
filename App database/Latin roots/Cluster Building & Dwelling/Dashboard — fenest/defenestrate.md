@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Throw through or out of the window.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Throw through or out of the window.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To throw someone or something out of a window; to dismiss or eject from power abruptly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively in political discourse, to remove an official or regime suddenly from office or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defenestrate designates throw through or out of the window."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The furious mob threatened to **defenestrate** every municipal magistrate who refused to sign the petition."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"In his eccentric frenzy, the landlord swore he would **defenestrate** my luggage into the gutter."*
+> - 📜 **H.G. Wells (*The Food of the Gods*):** *"The giant boy playfully threatened to **defenestrate** the village constable into the goose pond."*

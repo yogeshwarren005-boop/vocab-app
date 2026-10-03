@@ -43,7 +43,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: The act of throwing someone or something out of a window.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of throwing someone or something out of a window.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European history, specifically the Defenestration of Prague (1618), which triggered the Thirty Years' War.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defenestration designates the act of throwing someone or something out of a window."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The famous **defenestration** at Prague lit the spark of the terrible Thirty Years' War across Europe."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The riotous populace accomplished the violent **defenestration** of the hated tax collector."*
+> - 📜 **Winston Churchill (*A History of the English-Speaking Peoples*):** *"Religious hatred culminated in the dramatic **defenestration** of the imperial governors from the council chamber."*

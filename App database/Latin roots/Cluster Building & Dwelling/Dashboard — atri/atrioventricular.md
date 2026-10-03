@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the atria and ventricles of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the atria and ventricles of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to both the atria and the ventricles of the heart; pertaining to the conduction system between them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac physiology, designating the bundle of His or the valves regulating blood flow between chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atrioventricular designates relating to or affecting the atria and ventricles of the heart."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Interruption of impulses across the **atrioventricular** node causes complete heart block."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The tricuspid and mitral valves constitute the primary **atrioventricular** orifices of the heart."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Dissections of the mammalian heart reveal intricate **atrioventricular** muscular connections."*

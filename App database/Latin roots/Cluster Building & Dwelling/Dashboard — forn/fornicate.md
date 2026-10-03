@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have sex without being married.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have sex without being married.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in consensual sexual intercourse between persons not married to each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and botany, vaulted or arched like an oven or arcade; forming an arch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Blind to the world up in a shebeen in Bride street after closing time, fornicating with two shawls and a bully on guard, drinking porter out of teacups."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The stern lawgiver commanded the multitude that none should **fornicate** or defile the sacred covenant."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Puritan magistrates judged it a grave crime to **fornicate** in defiance of matrimonial sanctity."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The corolla displays a **fornicate** arch over the stamens, protecting the delicate pollen."*

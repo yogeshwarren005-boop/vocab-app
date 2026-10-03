@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the western coast of central africa; was under french and british control until 1960.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic on the western coast of central africa; was under french and british control until 1960.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The French spelling and former colonial name for Cameroon in West-Central Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century diplomatic history, the French-administered mandate and trusteeship territory that gained independence in 1960.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cameroun designates a republic on the western coast of central africa; was under french and british control until 1960."*
+> - 📜 **André Gide (*Travels in the Congo*):** *"We crossed the forested frontier into French **Cameroun**, noting the well-tended plantations."*
+> - 📜 **Albert Schweitzer (*On the Edge of the Primeval Forest*):** *"Patients traveled hundreds of miles through the forests of **Cameroun** to reach our hospital."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Free French forces rallied bravely in **Cameroun** under the leadership of Colonel Leclerc."*

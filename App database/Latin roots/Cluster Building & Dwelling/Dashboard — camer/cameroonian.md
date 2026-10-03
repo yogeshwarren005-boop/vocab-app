@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of cameroon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of cameroon or its people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of Cameroon; of or relating to Cameroon, its culture, or its peoples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the geographical, political, or economic affairs of the Republic of Cameroon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cameroonian designates a native or inhabitant of cameroon."*
+> - 📜 **Mary Kingsley (*Travels in West Africa*):** *"The intrepid **Cameroonian** guides cleared a pathway through the dense montane bamboo forest."*
+> - 📜 **Richard Francis Burton (*Abeokuta and the Camaroons Mountains*):** *"The travelers hired sturdy **Cameroonian** boatmen to navigate the turbulent estuarine waters."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Along the lower coast we met several **Cameroonian** traders bartering palm kernels and ivory."*

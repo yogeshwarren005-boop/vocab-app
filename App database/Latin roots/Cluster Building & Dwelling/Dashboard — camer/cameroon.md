@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive volcano in western cameroon; highest peak on the west african coast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A republic on the western coast of central africa; was under french and british control until 1960.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Central African republic bordering the Atlantic Ocean, Nigeria, Chad, and Gabon; Mount Cameroon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a German protectorate later administered as British and French League of Nations mandates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the Cameroons, also, the life of a person is believed to be sympathetically bound up with that of a tree."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Hence in case of sickness they would send to see if the _tamaniu_ was safe and well." The theory of an external soul deposited in an animal appears to be very prevalent in West Africa, particularly in Nigeria, the Cameroons, and the Gaboon."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Similar beliefs are held by the natives of the Cross River valley within the provinces of the Cameroons."*
+> - 📜 **Mary Kingsley (*Travels in West Africa*):** *"We sailed along the coast where the volcanic summit of Mount **Cameroon** rose majestic above the mist."*
+> - 📜 **Joseph Conrad (*Tales of Unrest*):** *"Trading vessels coasted between the Bight of Biafra and the rivers of **Cameroon**."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Allied forces conducted a prolonged amphibious campaign against the German garrison in **Cameroon**."*

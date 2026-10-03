@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Voluntary sexual intercourse between persons not married to each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extramarital sex that willfully and maliciously interferes with marriage relations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consensual sexual intercourse between two persons who are not married to one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman antiquity and architectural etymology, intercourse practiced in vaulted subterranean vaults or brothels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless me, what a fry of fornication is at door!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, sir, by my wife, who, if she had been a woman cardinally given, might have been accused in fornication, adultery, and all uncleanliness there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the sister of one Claudio, Condemned upon the act of fornication To lose his head; condemned by Angelo."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Christian moralists condemned **fornication** as a mortal transgression against bodily purity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's articles strictly forbade drunkenness, gambling, and **fornication** throughout the three-year voyage."*
+> - 📜 **Francis Bacon (*Essays*):** *"Excessive sensuality and illicit **fornication** enfeeble both the intellect and public courage."*

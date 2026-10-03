@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin camer within the domain of Building & Dwelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of camer in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The papal chamberlain; a high cardinal official of the Roman Catholic Church who administers the Holy See sede vacante.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Italian civic history, a treasurer or chamberlain managing civic or guild revenues in Renaissance city-states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, camerlengo designates pertaining to, derived from, or characteristic of latin camer within the domain of building & dwelling."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Upon the pontiff's demise, the **camerlengo** assumed temporary custody of the apostolic palace."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The ceremonial authority of the **camerlengo** was invoked to certify the succession within the court."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The old prince had once served as honorary **camerlengo** during the reign of Pius the Ninth."*

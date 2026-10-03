@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the atrichornithidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the atrichornithidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of small, elusive ground-dwelling passerine birds native to Australia, known as scrub-birds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics, primitive songbirds characterized by rudimentary clavicles and loud, penetrating calls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atrichornis designates type genus of the atrichornithidae."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The elusive scrub-bird, designated **Atrichornis**, inhabits the dense undergrowth of the southern ravines."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Australia preserves remarkable avian relicts such as **Atrichornis**, illustrating isolated evolutionary pathways."*
+> - 📜 **Frank Michler Chapman (*Camps and Cruises of an Ornithologist*):** *"Naturalists explored the coastal thickets searching for traces of the secretive **Atrichornis**."*

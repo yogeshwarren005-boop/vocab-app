@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman adulterer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman adulterer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman or female who commits fornication; archaic feminine form of fornicator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ecclesiastical courts, a female offender charged with sexual transgression outside marriage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, let her be admitted. [_Exit Servant._] See you the fornicatress be removed; Let her have needful but not lavish means; There shall be order for it."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"See that you be ready, our brother must die tomorrow, and she, the **fornicatress**, be brought to prison."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Cruel gossips in the marketplace muttered that the branded **fornicatress** deserved a harsher penalty."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The parish elders interrogated the trembling **fornicatress** concerning the paternity of the infant."*

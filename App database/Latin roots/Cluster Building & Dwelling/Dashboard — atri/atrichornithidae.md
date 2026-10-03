@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scrubbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scrubbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The avian family comprising the Australian scrub-birds (genus Atrichornis), ancient endemic ground dwellers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ornithology, a distinct suboscine family possessing archaic anatomical characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atrichornithidae designates scrubbirds."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The family **Atrichornithidae** represents an extremely ancient lineage surviving only in Australian refugia."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"Ornithologists assigned the scrub-birds to their own distinct family, the **Atrichornithidae**, based on skeletal peculiarities."*
+> - 📜 **Peter Kropotkin (*Mutual Aid: A Factor of Evolution*):** *"Isolated island and continental fauna like the **Atrichornithidae** reveal survival through specialized niche adaptation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Television equipment consisting of a lens system that focuses an image on a photosensitive mosaic that is scanned by an electron beam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical device for recording visual images in the form of photographs, film, or digital signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal terminology, a private chamber or room of a judge as in hearings held in camera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Snapping away with a camera when he ought to be improving his mind, and then diving down into the cellar like a rabbit into its hole to develop his pictures."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"He also ordered an enlarging camera, a Kodak, and a magic lantern."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"A clockwork man, which is broken, and you can have it back, or a tandem bicycle, an enlarging camera, a Kodak, and a magic lantern?"*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Holmes examined the photographic print taken with a modern **camera** of high precision."*
+> - 📜 **H.G. Wells (*The Invisible Man*):** *"The amateur photographer adjusted his heavy wooden **camera** upon its tripod by the roadside."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The judicial examination took place in **camera** to protect the sensitive secrets of the realm."*

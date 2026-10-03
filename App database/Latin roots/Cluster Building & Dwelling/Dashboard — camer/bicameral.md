@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of two legislative bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of two chambers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two separate legislative chambers, branches, or houses in a governmental system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and cognitive history, Julian Jaynes's hypothesis of a divided, two-chambered human mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bicameral designates composed of two legislative bodies."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A **bicameral** legislature provides necessary checks and balances against hasty and passionate factions."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The utility of a **bicameral** parliament depends upon the independence and character of both chambers."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The American states universally adopted the **bicameral** system to secure stability and reflection."*

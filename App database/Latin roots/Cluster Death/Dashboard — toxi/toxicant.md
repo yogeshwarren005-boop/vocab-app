@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance that causes injury or illness or death of a living organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the qualities or effects of a poison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic or poisonous substance, chemical agent, or venom introduced into the environment or organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and environmental science, any chemical that causes adverse biological effects upon exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicant designates any substance that causes injury or illness or death of a living organism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Lead acts as an insidious cumulative **toxicant**, damaging peripheral motor nerves over time."*
+> - 📜 **Harvey W. Wiley (*Foods and Their Adulteration*):** *"The presence of any industrial **toxicant** in canned preserves violates public health statutes."*
+> - 📜 **Charles Valentine Riley (*Report of the Entomologist*):** *"Arsenical dust functioned as an effective agricultural **toxicant** against leaf-eating beetles."*

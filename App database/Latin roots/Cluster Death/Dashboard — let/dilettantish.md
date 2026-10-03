@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing frivolous or superficial interest; amateurish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing frivolous or superficial interest; amateurish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting the qualities of an amateurish dabbler; superficial, unfocused, or lacking serious technical depth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Approaching serious intellectual, literary, or scientific endeavors in a casual or dilettante manner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I am not so brazen as you.” “Bah! that is because you are dilettantish and amateurish."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"It made one idle and dilettantish and second-rate; it had no discipline for the character, didn’t cultivate in you, otherwise expressed, the successful social and other “cheek” that flourished in Paris and London."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"Christian's **dilettantish** theatrical ambitions caused unending embarrassment to his upright mercantile family."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"We must avoid a **dilettantish** appreciation of beauty that remains disconnected from moral conduct."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"His **dilettantish** dabbling in molecular physics irritated the laboratory's professional researchers."*

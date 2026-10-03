@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A submissive mental attitude resulting from acceptance of the doctrine that everything that happens is predetermined and inevitable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosophical doctrine holding that all events are predetermined in advance for all time and human beings are powerless to change them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that all events are predetermined by necessity and inevitable fate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A submissive attitude of resigned acceptance toward all future occurrences as inevitable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They were generous young souls; they had been reared in the lonely country nooks where fatalism is a strong sentiment, and they did not blame her."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"It wouldn't be much use if he did, with him and Val always in and out of infected houses." "Pure fatalism--" said Lawrence, hitting with his stick at the flowers by their path."*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"It came to him, and he accepted it with a sort of eager fatalism."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Oriental **fatalism** meets every misfortune with calm resignation to the inscrutable decrees of destiny."*
+> - 📜 **George Eliot (*Middlemarch*):** *"A gloomy **fatalism** crept over his spirits, convincing him that all virtuous struggle was useless."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The philosophical error of **fatalism** confuses causal necessity with the passive helplessness of the human will."*

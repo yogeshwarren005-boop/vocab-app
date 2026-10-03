@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove or make invisible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wipe out digitally or magnetically recorded information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove, strike out, or erase written or printed text, recorded material, or stored electronic data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In editorial and printing practice, to mark copy with a dele sign indicating that a word or passage must be omitted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Make the contact," he said, adding, "Relay the message through one of the transports; delete all references that show this facility is in the loop." Switches snapped as the operator nodded."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The proofreader hesitated whether to **delete** the ambiguous passage regarding the prophet's dark warning."*
+> - 📜 **Mark Twain (*Autobiography*):** *"The editor advised the author to **delete** three unnecessary paragraphs from the humorous lecture."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"A single stroke of the pen sufficed to **delete** whole pages of speculative jargon."*

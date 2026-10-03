@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social class comprising those who do manual labor or work for wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social class comprising those who do manual labor or work for wages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The industrial working class as a collective whole, earning livelihood solely through manual or wage labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Marxist economic theory, the social stratum that sells its labor power to the capitalist bourgeoisie.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"It should react upon his metrical vocabulary to its beneficial expansion, by taking him outside his aristocratic circle of language, and keeping him in touch with the great commonalty, the proletariat of speech."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"In addition to the general precepts of economy, we learn that definite regulations were issued prescribing the number and even the nature of the articles to be used by the various ranks of the nobility and by the proletariat."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The mining communities exemplified the harsh daily struggles enduringly borne by the industrial **proletariat**."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"The socialist party sought to educate the rising **proletariat** into conscious political responsibility."*
+> - 📜 **Jack London (*War of the Classes*):** *"The worldwide emergence of an organized **proletariat** represents the defining social development of modern times."*

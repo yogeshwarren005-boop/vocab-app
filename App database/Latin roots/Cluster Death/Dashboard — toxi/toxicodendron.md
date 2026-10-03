@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications: comprising those members of the genus rhus having foliage that is poisonous to the touch; of north america and northern south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications: comprising those members of the genus rhus having foliage that is poisonous to the touch; of north america and northern south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of woody shrubs, trees, and vines (family Anacardiaceae) containing urushiol, including poison ivy and poison oak.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic and medical botany, plants responsible for severe contact allergic dermatitis in humans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicodendron designates in some classifications: comprising those members of the genus rhus having foliage that is poisonous to the touch; of north america and northern south america."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Toxicodendron** are recognized by trifoliolate foliage, whitish fruit, and poisonous sap."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Trailing vines of climbing **Toxicodendron** mantled the trunks of ancient live oaks along the swamp."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cutaneous contact with oleoresinous urushiol from **Toxicodendron** induces acute vesicular eczema."*

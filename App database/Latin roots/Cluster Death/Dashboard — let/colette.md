@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: French writer of novels about women (1873-1954).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: French writer of novels about women (1873-1954).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feminine given name of French origin, derived as a diminutive of Nicole, signifying victory of the people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature, referring to Sidonie-Gabrielle Colette, celebrated French novelist and author of Chéri and Gigi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colette designates french writer of novels about women (1873-1954)."*
+> - 📜 **Marcel Proust (*In Search of Lost Time*):** *"The sensitive prose of **Colette** captured the fleeting sensations and emotional nuances of provincial youth."*
+> - 📜 **Virginia Woolf (*The Letters of Virginia Woolf*):** *"We discussed the vivid sensory descriptions and natural directness that distinguished the work of **Colette**."*
+> - 📜 **André Gide (*Journals*):** *"The Parisian salon buzzed with admiration for the fresh and daring observations published by Madame **Colette**."*

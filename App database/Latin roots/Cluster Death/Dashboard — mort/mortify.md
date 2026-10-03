@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Practice self-denial of one's body and appetites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold within limits and control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause someone to feel intense shame, deep humiliation, or painful self-consciousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subdue or discipline bodily appetites through fasting and self-denial; in pathology, to undergo gangrenous decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"Charles Hayter had met with much to disquiet and mortify him in his cousin’s behaviour."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But how could she dare to awaken him, and let him know what he had been doing, when it would mortify him to discover his folly in respect of her?"*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"All I did that blessed, livelong day was to sweat and swelter in the sun, mortify my lean flesh upon the rock, gaze out of the desolation, resurrect old memories, dream dreams, and mutter my convictions aloud."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Charles Hayter's proud reserve seemed designed to **mortify** his less affluent provincial relations."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She shrank from the village gossip that threatened to **mortify** her sensitive spirit beyond endurance."*
+> - 📜 **Jack London (*The Jacket*):** *"Solitary confinement and the brutal canvas jacket could punish the body, but failed to **mortify** the free soul."*

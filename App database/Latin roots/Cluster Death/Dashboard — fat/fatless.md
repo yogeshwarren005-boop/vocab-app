@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without fat or fat solids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without fat or fat solids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoid of fat, grease, or adipose tissue; completely lean; having no fatty content.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary preparations and dietary regimens, made without cooking oils, butter, or animal fats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatless designates without fat or fat solids."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The nurse prepared a light, **fatless** chicken broth to nourish the fevered invalid without nausea."*
+> - 📜 **Isabella Beeton (*Mrs. Beeton's Book of Household Management*):** *"Trim every strip of gristle and fat from the steak to ensure a delicate, **fatless** consommé."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The dried charqui meat carried by the gauchos was tough, fibrous, and entirely **fatless**."*

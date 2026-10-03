@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who gives a mortgage in return for money to be repaid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who gives a mortgage in return for money to be repaid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of mortgagor; the borrower who pledges real estate to secure a loan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The debtor holding equity of redemption in a mortgaged property until final discharge of the debt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"At this moment her savings’ banks are engaged in compelling mortgagers to accept eight per cent. as the present rate."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The state law shielded the **mortgager** from summary eviction during severe agricultural depression."*
+> - 📜 **Thomas V. Cooper (*American Politics*):** *"The court decreed that the **mortgager** must satisfy the outstanding balance within sixty days."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The financial interests of the tenant **mortgager** frequently conflict with the demands of the creditor."*

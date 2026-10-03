@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vulnerable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a vulnerable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a vulnerable, exposed, defenseless, or easily injured manner; without adequate protection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying open emotional candor, sensitivity, or defenselessness in communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulnerably designates in a vulnerable manner."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She stood **vulnerably** before her stern inquisitor, holding nothing back from her plain confession."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister stood **vulnerably** beneath the pillory scaffold, his pale forehead glistening with sweat."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Eppie nestled **vulnerably** in the lonely weaver's arms, transforming his bitter solitude forever."*

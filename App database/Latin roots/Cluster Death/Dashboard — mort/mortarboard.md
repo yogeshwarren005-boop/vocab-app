@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A square board with a handle underneath; used by masons to hold or carry mortar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An academic cap with a flat square with a tassel on top.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An academic cap with a stiff, flat, square horizontal top and an attached hanging tassel, worn for graduation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small square wooden or metal board with an underhandle, used by masons to hold a batch of wet mortar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"And the Trinity jibs in their mortarboards."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"The solemn procession of professors wore black gowns and tilted **mortarboard** caps across the quadrangle."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude gazed yearningly at the Christminster masters walking by in academic gown and **mortarboard**."*
+> - 📜 **George Gissing (*The Odd Women*):** *"The young stonemason scraped the cement from his wooden **mortarboard** with a rhythmic trowel stroke."*

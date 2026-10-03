@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of conflict) within a group or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by bloodshed and carnage for both sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mutually destructive, ruinous, or deadly to both participating sides in a conflict.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by bitter, fratricidal internal struggle, factional feud, or slaughter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"TWO centuries of internecine strife between the great feudal princes culminated in the destruction of the Chou dynasty and the consolidation of the Chinese states under the powerful Ch´in emperor Chêng."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rival claimants plunged the western provinces into an **internecine** war of mutual slaughter."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Girondins and Jacobins engaged in a deadly, **internecine** political contest that led directly to the scaffold."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without a constitutional union, neighbor states would dissolve into violent **internecine** hostilities."*

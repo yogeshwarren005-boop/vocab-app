@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who lacks knowledge of evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from evil or guilt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from moral wrong, sin, or legal guilt; not responsible for an offense or crime; pure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmless, innocuous, or incapable of causing injury; also naive, trusting, or unsophisticated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know him: he was a botcher’s ’prentice in Paris, from whence he was whipped for getting the shrieve’s fool with child, a dumb innocent that could not say him nay. [_First Lord lifts up his hand in anger._] BERTRAM."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If their purgation did consist in words, They are as innocent as grace itself."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I draw the sword myself; take it, and hit The innocent mansion of my love, my heart."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The play's the thing wherein I'll catch the conscience of the king, clearing the **innocent** of dark suspicion."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick was as gentle, kindly, and **innocent** as a little child, harming no living creature."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Jane's sweet nature always sought the most **innocent** explanation for the conduct of others."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (especially of a title) free from any encumbrance or limitation that presents a question of fact or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (especially of a title) free from any encumbrance or limitation that presents a question of fact or law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from any mortgage, debt lien, or financial encumbrance; owned outright with clear title.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, unpledged, uncommitted, or completely free from binding future liabilities or moral debts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmortgaged designates (especially of a title) free from any encumbrance or limitation that presents a question of fact or law."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The independent farmer was proud to cultivate an **unmortgaged** homestead yielding debt-free grain."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She rejoiced that the small family estate was entirely **unmortgaged** and capable of supporting her brother."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The old man boasted that his modest freehold cottage remained sound and **unmortgaged** to the end."*

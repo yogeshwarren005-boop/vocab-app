@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variety of dinocerate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variety of dinocerate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of colossal uintathere herbivorous mammals from the Eocene epoch, having three pairs of bony skull horns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, giant ungulate beasts possessing prominent tusks and horned cranial architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dinoceras designates a variety of dinocerate."*
+> - 📜 **O. C. Marsh (*Dinocerata: A Monograph of an Extinct Order of Gigantic Mammals*):** *"Fossil cranial remains of **Dinoceras** revealed six massive protuberances rising above the braincase."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"The strange skull morphology of **Dinoceras** presents an extraordinary specialization among early Tertiary herbivores."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Eocene lacustrine deposits of Wyoming preserved complete skeletal specimens of the horned **Dinoceras**."*

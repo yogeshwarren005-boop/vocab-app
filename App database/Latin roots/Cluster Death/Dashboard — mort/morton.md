@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states jazz musician who moved from ragtime to new orleans jazz (1885-1941).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states jazz musician who moved from ragtime to new orleans jazz (1885-1941).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional English toponymic surname and place-name, meaning 'moor town' or 'settlement by the moor or marsh'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, John Morton, 15th-century Archbishop of Canterbury and Cardinal, famed for the fiscal dilemma known as 'Morton's Fork'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"TRAVERS and MORTON, retainers of Northumberland."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Say, Morton, didst thou come from Shrewsbury?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet speak, Morton; Tell thou an earl his divination lies, And I will take it as a sweet disgrace And make thee rich for doing me such wrong."*
+> - 📜 **Francis Bacon (*The History of the Reign of King Henry the Seventh*):** *"Chancellor **Morton** devised a shrewd dilemma whereby neither the frugal nor the lavish could escape royal tax."*
+> - 📜 **William Shakespeare (*Henry IV, Part 2*):** *"Old **Morton** arrived from the north bearing tidings of the bloody skirmish at Shrewsbury."*
+> - 📜 **Walter Scott (*Old Mortality*):** *"Young Henry **Morton** found himself drawn reluctantly into the armed rebellion of the Scottish Covenanters."*

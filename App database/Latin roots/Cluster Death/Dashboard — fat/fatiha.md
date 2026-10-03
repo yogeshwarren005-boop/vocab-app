@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first or opening sura of the quran which is the central prayer of islam and is used on all special occasions as well as during the five daily prayers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first or opening sura of the quran which is the central prayer of islam and is used on all special occasions as well as during the five daily prayers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Al-Fatiha ('The Opening'), the first chapter (surah) of the Quran, recited in Muslim daily prayers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic liturgy, the foundational seven-verse prayer serving as an essential opening supplication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatiha designates the first or opening sura of the quran which is the central prayer of islam and is used on all special occasions as well as during the five daily prayers."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"The pilgrims raised their hands in solemn supplication, reciting the opening verses of the **Fatiha**."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"Every solemn contract or marriage agreement is concluded by reciting the sacred **Fatiha** together."*
+> - 📜 **Arthur John Arberry (*The Koran Interpreted*):** *"The sublime simplicity of the **Fatiha** encapsulates the core theological vision of the entire scripture."*

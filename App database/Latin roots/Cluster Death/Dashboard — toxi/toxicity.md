@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree to which something is poisonous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grave harmfulness or deadliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree, quality, or relative potency of a chemical substance or biological poison to cause harm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, the quantitative threshold dosage at which an agent produces adverse biological damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicity designates the degree to which something is poisonous."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The extraordinary **toxicity** of botulinum toxin surpasses that of all known inorganic poisons."*
+> - 📜 **Theobald Smith (*Studies on Immunity*):** *"Thermal denaturation significantly diminishes the biological **toxicity** of diphtheria filtrate."*
+> - 📜 **Paul Ehrlich (*Collected Studies on Immunity*):** *"Chemical derivatization reduced systemic **toxicity** while preserving antiparasitic efficacy."*

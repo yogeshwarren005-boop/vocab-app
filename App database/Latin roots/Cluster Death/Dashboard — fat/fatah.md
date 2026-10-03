@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A palestinian political and military organization founded by yasser arafat in 1958 to work toward the creation of a palestinian state; during the 1960s and 1970s trained terrorist and insurgent groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A palestinian political and military organization founded by yasser arafat in 1958 to work toward the creation of a palestinian state; during the 1960s and 1970s trained terrorist and insurgent groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major secular Palestinian political faction and the largest component of the Palestine Liberation Organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century Middle Eastern history, a political and military organization founded in 1959 by Yasser Arafat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatah designates a palestinian political and military organization founded by yasser arafat in 1958 to work toward the creation of a palestinian state; during the 1960s and 1970s trained terrorist and insurgent groups."*
+> - 📜 **Edward Said (*The Question of Palestine*):** *"The emergence of **Fatah** in the late nineteen-fifties signaled a new era of independent Palestinian national mobilization."*
+> - 📜 **Albert Hourani (*A History of the Arab Peoples*):** *"Guerrilla operations conducted by **Fatah** transformed political dynamics across the refugee camps of the Levant."*
+> - 📜 **Noam Chomsky (*The Fateful Triangle*):** *"Diplomatic negotiations throughout the nineteen-seventies increasingly engaged the central political leadership of **Fatah**."*

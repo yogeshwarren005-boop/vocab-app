@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The literary culture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scholarly attainment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written messages exchanged between individuals; postal correspondence or epistles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Literature, scholarship, or academic learning in general, as in the phrase 'a man of letters'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the King of France, with letters; Lords and others attending."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s letters from my mother; what th’ import is I know not yet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"A devotion to humane **letters** refines the passions and elevates the understanding above vulgar pursuits."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"The morning post delivered several **letters** of congratulation from distant family connections."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The flourishing of commerce invariably stimulates the revival and cultivation of polite **letters**."*

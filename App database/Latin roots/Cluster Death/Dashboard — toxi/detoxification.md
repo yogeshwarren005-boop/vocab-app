@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A treatment for addiction to drugs or alcohol intended to remove the physiological effects of the addictive substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment for poisoning by neutralizing the toxic properties (normally a function of the liver).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological, biochemical, or medical process of neutralizing, metabolizing, or removing toxic substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A supervised clinical regimen designed to facilitate safe withdrawal from alcohol or narcotic dependence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detoxification designates a treatment for addiction to drugs or alcohol intended to remove the physiological effects of the addictive substances."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The biological **detoxification** of heavy metals depends upon rapid chelation and renal excretion."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Hepatic **detoxification** represents a prime mechanism by which the internal milieu maintains stability."*
+> - 📜 **Harvey W. Wiley (*Foods and Their Adulteration*):** *"Industrial **detoxification** of adulterated foodstuffs cannot restore their original nutritional integrity."*

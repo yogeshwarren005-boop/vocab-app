@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the fat from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the fat from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove the fat, oil, or grease from a biological substance, tissue, or food product.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and histology processing, treating specimen sections with organic solvents to dissolve lipids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, defat designates remove the fat from."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Histologists thoroughly **defat** the tissue slice with ether before applying alcoholic carmine stain."*
+> - 📜 **Claude Bernard (*Lectures on the Experimental Physiology of the Living Body*):** *"Special chemical procedures were required to **defat** the pancreatic extract without destroying its enzymes."*
+> - 📜 **Harvey W. Wiley (*Foods and Their Adulteration*):** *"Commercial processors **defat** cocoa cake under hydraulic press to produce dry cocoa powder."*

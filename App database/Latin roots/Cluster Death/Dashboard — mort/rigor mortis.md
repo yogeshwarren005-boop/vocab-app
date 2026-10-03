@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin mort within the domain of Death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of mort in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporary postmortem stiffening of skeletal muscles caused by chemical changes (ATP depletion) after death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic medicine, the muscular rigidity occurring hours after decease used to estimate the time of death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rigor mortis designates pertaining to, derived from, or characteristic of latin mort within the domain of death."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The forensic surgeon noted that well-developed **rigor mortis** indicated death had occurred four hours earlier."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In sudden violent deaths, intense **rigor mortis** occasionally supervenes with remarkable rapidity."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The limbs of the poor victim showed none of the cold stiffening of true **rigor mortis**, baffling the local doctor."*

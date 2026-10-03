@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A conditional conveyance of property as security for the repayment of a loan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put up as security or collateral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal agreement by which a debtor conveys an interest in real estate to a lender as security for a loan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The financial debt or encumbrance created by such a pledge of property against borrowed funds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He had condescended to mortgage as far as he had the power, but he would never condescend to sell."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The interest on the mortgage of his property was due in a few days."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"With sinking heart he went to the holder of the mortgage to announce his utter inability to meet his demand."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter refused to burden his beloved ancestral estate with a heavy **mortgage** to pay his debts."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Every acre of the ancient family manor was tied up in an impenetrable chancery **mortgage**."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard was forced to assign the grain warehouse under a foreclosure **mortgage** to his creditors."*

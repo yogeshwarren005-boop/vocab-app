@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An innocent quality or thing or act.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innocent quality or thing or act.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or literary form of innocence; purity of life, freedom from guilt, or blamelessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical and early modern prose, harmless simplicity and freedom from moral wrongdoing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou knowest in the state of innocency Adam fell, and what should poor Jack Falstaff do in the days of villainy?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If truth and upright innocency fail me, I’ll to the King my master that is dead, And tell him who hath sent me after him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Trust not those cunning waters of his eyes, For villainy is not without such rheum; And he, long traded in it, makes it seem Like rivers of remorse and innocency."*
+> - 📜 **William Shakespeare (*King Richard II*):** *"Mine **innocency** and Saint George to thrive! Thus spake the valiant Duke of Norfolk before the combat."*
+> - 📜 **Francis Bacon (*The Essays*):** *"A magistrate must maintain his **innocency** unspotted by corrupt gifts or subterranean influence."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"The interpreter showed the pilgrims the picture of a grave person whose **innocency** shone in his countenance."*

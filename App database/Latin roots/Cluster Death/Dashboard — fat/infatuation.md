@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A foolish and usually extravagant passion or love or admiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary love of an adolescent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unreasoning, extravagant, intense, and often short-lived passion or admiration for someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition characterized by foolish passion, blind obsession, or irrational delusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He proved this to himself by all the weary arguments on that side he had read, and every one of them sunk him deeper in the infatuation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Sir Leicester is devoted to you almost to infatuation."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He might not be able to overcome that infatuation, even knowing what we know."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate's romantic **infatuation** with Rosamond Vincy blinded him to her selfish materialism."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Sir Thomas lamented Maria's reckless **infatuation** with Crawford, which destroyed her marriage."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes regarded romantic **infatuation** as an emotional disturbance fatal to logical deduction."*

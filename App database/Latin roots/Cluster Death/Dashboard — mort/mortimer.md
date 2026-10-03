@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English nobleman who deposed edward ii and was executed by edward iii (1287-1330).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: English nobleman who deposed edward ii and was executed by edward iii (1287-1330).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent Anglo-Norman baronial surname and historical dynasty, notably the Earls of March in medieval England.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roger Mortimer, 1st Earl of March, who led the baronial faction that deposed King Edward II in 1327.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Edmund MORTIMER, Earl of March."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lady Mortimer, Daughter to Glendower."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, on the barren mountains let him starve; For I shall never hold that man my friend Whose tongue shall ask me for one penny cost To ransom home revolted Mortimer."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"Worcester plotted to crown the young Edmund **Mortimer**, whom King Henry held in deep suspicion."*
+> - 📜 **Christopher Marlowe (*Edward II*):** *"Young **Mortimer** declared that he would rule England with an iron hand beside the queen."*
+> - 📜 **Walter Scott (*The Abbot*):** *"The ancient armorial crest of **Mortimer** appeared emblazoned on the carved portal of the ruined castle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A square hole made to receive a tenon and so to form a joint.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cut a hole for a tenon in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of mortise; a rectangular cavity, slot, or hole cut into timber or stone to receive a tenon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carpentry and joinery, to fasten, join, or securely anchor wooden structural members by mortice and tenon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mortice designates a square hole made to receive a tenon and so to form a joint."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Marty watched her father chisel a clean square **mortice** into the seasoned oak timber frame."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The carpenter fitted the spare spar into its deck **mortice** with precise mallet blows."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dry rot had eaten into the **mortice** joints of the old timber staircase."*

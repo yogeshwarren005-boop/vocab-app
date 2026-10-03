@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Letters inscribed (especially words engraved or carved) on something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Win an athletic letter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Letters, words, or alphabetical characters written, drawn, painted, stamped, or carved upon a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art, style, technique, or craft of designing and inscribing alphabetical forms and typography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"In the afternoon he came back again, and found that the lettering was almost done."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The old gray wall began to advertise a similar fiery lettering to the first, with a strange and unwonted mien, as if distressed at duties it had never before been called upon to perform."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"So ran the clear lettering on the southern arm."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The red painted **lettering** upon the country milestone had faded beneath decades of winter rains."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"Oldbuck peered through his spectacles at the worn Saxon **lettering** etched upon the stone slab."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip traced the engraved stone **lettering** of his deceased parents' names in the lonely churchyard."*

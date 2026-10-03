@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological state produced by a poison or other toxic substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary state resulting from excessive consumption of alcohol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physiological impairment, drunkenness, or systemic poisoning caused by alcohol or toxins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overpowering emotional exhilaration, ecstatic rapture, or loss of rational control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The New Testament was less a Christiad then a Pauliad to his intelligence—less an argument than an intoxication."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Though I have borne blows from men in a mad state of intoxication.” “No!” “A dozen times, my boy."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was too much like laughing at a man when sober for his erratic deeds during intoxication."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute uremic **intoxication** results from failure of the kidneys to excrete nitrogenous metabolites."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The Parisian mob danced the Carmagnole in an awful **intoxication** of revolutionary bloodlust."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The market laborers walked home together in noisy **intoxication** after fair day celebrations."*

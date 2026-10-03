@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove poison from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove poison from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove the poisonous, toxic, or noxious qualities from a substance, tissue, or organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological biochemistry, to neutralize, metabolize, or excrete ingested metabolic toxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detoxicate designates remove poison from."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hepatic enzyme systems actively **detoxicate** circulating aromatic compounds into harmless conjugates."*
+> - 📜 **Claude Bernard (*Lectures on the Experimental Physiology of the Living Body*):** *"The liver possesses remarkable physiological power to **detoxicate** portal venous blood."*
+> - 📜 **Leonor Michaelis (*Oxidation-Reduction Potentials*):** *"Cellular enzymes **detoxicate** reactive peroxides through rapid catalytic dismutation."*

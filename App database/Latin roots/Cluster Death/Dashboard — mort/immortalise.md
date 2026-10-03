@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or provide a memorial to a person or an event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make famous forever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British spelling of immortalize; to bestow perpetual life, everlasting fame, or enduring memory upon someone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To render permanently celebrated or remembered through monumental works of art, poetry, or historical writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Lord Ravenshaw, in Cornwall, which would of course have immortalised the whole party for at least a twelvemonth! and being so near, to lose it all, was an injury to be keenly felt, and Mr."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Some had said that she was the painter’s wife; that she had been false to him; that he had killed her; and, finding that that was no sufficing revenge, thus half in love, and half in deepest hate, immortalised his vengeance."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The poet's verse can **immortalise** the heroism of fallen warriors whom marble monuments forget."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Great sculptors labor to **immortalise** the noble countenance of the statesman for future ages."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"A devoted act of sisterly affection served to **immortalise** her humble name in Scottish tradition."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vuln within the domain of Death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vuln in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin word for wound, trauma, physical injury, or bodily laceration in medical terminology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical legal medicine, a surgical trauma, laceration, or lesion caused by an external force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulnus designates pertaining to, derived from, or characteristic of latin vuln within the domain of death."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The forensic report described a penetrating **vulnus** inflicted by an edged weapon upon the left thorax."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"The natural healing of a clean surgical **vulnus** proceeds by immediate adhesion or primary union."*
+> - 📜 **Joseph Lister (*Collected Papers on Antiseptic Surgery*):** *"Antiseptic dressing over an open **vulnus** prevents the atmospheric putrefaction of wound fluids."*

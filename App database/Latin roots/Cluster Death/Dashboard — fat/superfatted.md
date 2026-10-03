@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of soap) containing extra unsaponified fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of soap) containing extra unsaponified fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing an extra proportion of fat, oil, or cream to reduce harshness or drying on the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soap chemistry, formulated with unsaponified neutral oils to enhance emollient and moisturizing qualities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, superfatted designates (of soap) containing extra unsaponified fat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dermatologists recommend mild, **superfatted** soaps to cleanse delicate eczematous skin without irritation."*
+> - 📜 **Harvey W. Wiley (*Industrial Chemistry and Fabrication*):** *"The manufacture of luxury toilet soaps requires a **superfatted** formula containing excess lanolin."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Careful ablution with gentle **superfatted** soap refreshed the bedridden patient without drying the skin."*

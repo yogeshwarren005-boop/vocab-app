@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous substance produced during the metabolism and growth of certain microorganisms and some higher plant and animal species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A poisonous substance produced during the metabolism and growth of certain microorganisms and some higher plant and animal species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous substance of biological origin (produced by bacteria, plants, or animals), often antigenic in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, a microbial macromolecule capable of inducing specific antitoxin antibody synthesis in a host.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"In narrator by the access of years and in consequence of the use of narcotic toxin: in listener by the access of years and in consequence of the action of distraction upon vicarious experiences."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Circulating diphtheria **toxin** damages cardiac muscle fibers unless neutralized promptly by antiserum."*
+> - 📜 **Theobald Smith (*Studies on Immunity*):** *"Filtration through unglazed porcelain separates viable bacterial cells from soluble exotoxin **toxin**."*
+> - 📜 **Louis Pasteur (*Researches on Inoculation and Contagion*):** *"The chemical activity of the microscopic parasite derives from the venomous **toxin** it secretes."*

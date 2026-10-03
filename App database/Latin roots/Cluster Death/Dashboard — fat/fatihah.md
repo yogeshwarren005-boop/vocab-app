@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first or opening sura of the quran which is the central prayer of islam and is used on all special occasions as well as during the five daily prayers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first or opening sura of the quran which is the central prayer of islam and is used on all special occasions as well as during the five daily prayers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative transliteration of Fatiha, the opening surah of the Quran consisting of seven verses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Islamic devotional literature, a prayer of praise and petition recited at gatherings and gravesides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatihah designates the first or opening sura of the quran which is the central prayer of islam and is used on all special occasions as well as during the five daily prayers."*
+> - 📜 **Edward William Lane (*An Account of the Manners and Customs of the Modern Egyptians*):** *"The mourners gathered beside the tomb to recite the **Fatihah** for the peaceful repose of the departed."*
+> - 📜 **Richard Francis Burton (*The Book of the Thousand Nights and a Night*):** *"Before embarking upon the hazardous desert voyage, the merchants recited the blessing of the **Fatihah**."*
+> - 📜 **Charles Montagu Doughty (*Travels in Arabia Deserta*):** *"The Arab sheikh concluded the hospitable desert feast with a devout chanting of the holy **Fatihah**."*

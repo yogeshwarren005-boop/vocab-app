@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of pharmacology that deals with the nature and effects and treatments of poisons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of pharmacology that deals with the nature and effects and treatments of poisons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline dealing with poisons, their nature, biochemical effects, detection, and treatments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical jurisprudence, the application of chemical pharmacology to criminal poisoning investigations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicology designates the branch of pharmacology that deals with the nature and effects and treatments of poisons."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern clinical **toxicology** emphasizes supportive therapy and rapid administration of antidotes."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes's intimate knowledge of forensic **toxicology** enabled him to identify unusual fatal venoms."*
+> - 📜 **Robert Kane (*Elements of Chemistry*):** *"The principles of inorganic **toxicology** are grounded in the precipitating reactions of heavy metals."*

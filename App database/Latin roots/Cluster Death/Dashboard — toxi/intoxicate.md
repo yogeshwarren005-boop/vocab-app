@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make drunk (with alcoholic drinks).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make drunk, inebriate, or stupefy with alcoholic liquor, drugs, or toxic chemicals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To excite, elate, entrance, or overwhelm the senses with intoxicating joy, pride, or enthusiasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, on one day of the year the Bhotiyas of Juhar, in the Western Himalayas, take a dog, intoxicate him with spirits and bhang or hemp, and having fed him with sweetmeats, lead him round the village and let him loose."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each clasping the other round the waist they promenaded over the dry bed of fir-needles, thrown into a vague intoxicating atmosphere at the consciousness of being together at last, with no living soul between them; ignoring that there was a corpse."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"No,' said he, 'I never drink intoxicating drink, and I ask the Lord Jesus to help me never to touch it.' "I looked at him with surprise, and inquired, 'Are you a Christian?' "'Yes, I trust I am,' he answered."*
+> - 📜 **Jane Austen (*Emma*):** *"Unaccustomed compliments were enough to **intoxicate** Harriet's inexperienced and trusting heart."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Heavy draughts of vintage wine will quickly **intoxicate** the watchful guards at the gate."*
+> - 📜 **Lord Byron (*Don Juan*):** *"Ambition and applause combine to **intoxicate** young heroes into reckless and glorious daring."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove poison from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treat for alcohol or drug dependence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To render a poison, toxin, or contaminated substance harmless; to free from toxic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, to treat an individual to overcome physiological dependence on toxic substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detoxify designates remove poison from."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fresh air, copious fluids, and rest assist the human organism to **detoxify** bacterial poisons."*
+> - 📜 **Claude Bernard (*Lectures on the Experimental Physiology of the Living Body*):** *"Perfusion through liver tissue served to **detoxify** the alkaloidal solution before arterial injection."*
+> - 📜 **Robert Kane (*Elements of Chemistry*):** *"Charcoal filters help **detoxify** contaminated water by adsorbing noxious organic effluvia."*

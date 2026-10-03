@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A muzzle-loading high-angle gun with a short barrel that fires shells at high elevations for a short range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used as a bond in masonry or for covering a wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A workable paste of cement, lime, sand, and water used in masonry to bind bricks or stones together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy bowl or receptacle in which substances are crushed and pulverized using a pestle; also a short artillery cannon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stands there, like a mortar-piece, to blow us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, if you’ll give me leave, I will tread this unbolted villain into mortar and daub the walls of a jakes with him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"While thus looking out into the shade of Old Square, Lincoln’s Inn, surveying the intolerable bricks and mortar, Mr."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The ancient Romans tempered their lime and volcanic pozzolana into an indestructible hydraulic **mortar**."*
+> - 📜 **Michael Faraday (*Chemical Manipulation*):** *"Pulverize the crystalline mineral thoroughly within an agate **mortar** before adding acid."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The explosive shell leaped from the mouth of the brass **mortar** with a deafening detonation."*

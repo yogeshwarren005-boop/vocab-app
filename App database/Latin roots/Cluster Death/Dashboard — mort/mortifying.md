@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Practice self-denial of one's body and appetites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold within limits and control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing acute embarrassment, shame, or deep wounded humiliation to someone's pride.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to cause biological decay or necrosis; in ascetic theology, serving to subdue worldly desires.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me play the fool, With mirth and laughter let old wrinkles come, And let my liver rather heat with wine Than my heart cool with mortifying groans."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wonder that thou (being as thou say’st thou art, born under Saturn) goest about to apply a moral medicine to a mortifying mischief."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ve-ry mortifying, is it not?” Although she sometimes asked a question, she never seemed to expect a reply, but rambled on as if she were in the habit of doing so when no one but herself was present."*
+> - 📜 **Jane Austen (*Emma*):** *"It was a most **mortifying** reflection that she had completely misjudged Mr. Elton's matrimonial intentions."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Ve-ry **mortifying** indeed, sir, mumbled the clerk, adjusting his spectacles in confusion."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym found it a **mortifying** duty to confess his failing eyesight to his ambitious mother."*

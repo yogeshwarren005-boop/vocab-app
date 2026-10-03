@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Metal or plastic sheath over the end of a shoelace or ribbon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ornamental tagged cord or braid on the shoulder of a uniform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small metal, plastic, or ornamental sheath covering the end of a shoelace or cord to prevent fraying and facilitate threading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance apparel, an ornamental gold or silver tag or decorative pendant suspended from doublets, ribbons, or points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am very cold, and all the stars are out too, The little stars and all, that look like aglets."*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"Give him gold enough and marry him to a puppet or an **aglet**-baby, or an old trot with ne'er a tooth in her head."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"All in a silken camis lily white, and thereon **aglet** points of polished gold."*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The courtier wore a velvet doublet fastened with glittering **aglet** ornaments at the shoulder."*

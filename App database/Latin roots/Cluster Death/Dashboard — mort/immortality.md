@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being immortal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perpetual life after death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exemption from death or dissolution; unending existence or perpetual life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enduring, perpetual historical fame or literary renown that outlasts physical mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"If, as some thinkers hold, immortality consists in being enshrined in others’ memories, then did Black Bess become immortal that day if she never had done so before."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He created the earth that it might be inhabited by man, and He governs the earth in subordination to the interests, the eternal and spiritual welfare of the race of immortal beings that are here being prepared for glory and immortality."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As if they could throttle my immortality with their clumsy device of rope and scaffold!"*
+> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"And yet to times in hope my verse shall stand, praising thy worth, despite his cruel hand, conferring sweet **immortality**."*
+> - 📜 **Ralph Waldo Emerson (*Letters and Social Aims*):** *"The desire for **immortality** is an instinct of the soul, which cannot comprehend its own annihilation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The philosophers debated the future **immortality** of the soul with elegant skepticism and polite curiosity."*

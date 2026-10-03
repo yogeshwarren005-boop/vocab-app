@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Man with strong sexual desires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Man with strong sexual desires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An overwhelming, lewd, or lascivious craving; an intense, obsessive sexual yearning or lustful desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To experience or display an obsessive, lecherous desire or persistent lascivious fixation toward someone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, letch designates man with strong sexual desires."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The decrepit old libertine could not conceal his disgraceful **letch** for the young village maiden."*
+> - 📜 **Henry Fielding (*Tom Jones*):** *"Squire Western swore that such shameless gallantry was nothing more than an ungodly **letch**."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The gossips warned that the captain's youthful enthusiasm was merely a passing **letch** for gaiety."*

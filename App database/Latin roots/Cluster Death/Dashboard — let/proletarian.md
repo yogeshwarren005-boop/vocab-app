@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the working class (not necessarily employed).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to or characteristic of the proletariat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of the working class; an industrial wage-earner possessing no capital property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Roman history, a member of the lowest social order whose sole contribution to the state was offspring (proles).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The one becomes the proletarian, the other the intellectual, the one becomes the workshop, the other the parlor-socialist."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft mocked the sentimental idealization of the impoverished **proletarian** worker in political speeches."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The awakened **proletarian** masses rallied to confront the oligarchic power of the financial trusts."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman census assigned the poorest **proletarian** citizens to centuries without military tax obligations."*

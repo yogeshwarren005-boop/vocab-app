@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being deadly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being deadly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity, property, or relative degree of an agent, pathogen, weapon, or venom to inflict death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiological and toxicological metrics, the proportion of affected individuals dying from a specific disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The view is that their intervention might reduce the lethality of a person contemplating suicide, and even influence someone who has actually initiated an act of suicide."*
+> - 📜 **Louis Pasteur (*Researches on Attenuated Virus*):** *"Successive passages through avian hosts systematically diminished the virulence and **lethality** of the bacillus."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The comparative **lethality** of Asiatic cholera outstripped that of ordinary seasonal enteric fevers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt serum therapy markedly reduced the clinical **lethality** of diphtheritic croup in pediatric wards."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not bringing death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not bringing death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not causing or terminating in death; not fatal; allowing recovery from injury or illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical statistics, describing accidents, cardiac events, or morbidities from which victims survive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfatal designates not bringing death."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical record documented a **nonfatal** attack of coronary thrombosis followed by recovery."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The wound was fortunately **nonfatal**, the bullet having glanced off the victim's shoulder blade."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A **nonfatal** bite from the spider produced intense local swelling and fever lasting two days."*

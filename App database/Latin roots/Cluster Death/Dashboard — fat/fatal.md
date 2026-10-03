@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bringing death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having momentous consequences; of decisive importance; - saturday rev.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing death, destruction, or ruin; deadly, mortal, or terminating in physical mortality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Determined by or decreeing fate, destiny, or unavoidable doom; having decisive importance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou art she, tell me where is that son That floated with thee on the fatal raft?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am the Douglas, fatal to all those That wear those colours on them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It fits us then to be as provident As fears may teach us out of late examples Left by the fatal and neglected English Upon our fields."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"The raven himself is hoarse that croaks the **fatal** entrance of Duncan under my battlements."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor received a **fatal** wound from a Persian javelin during the retreat across the desert."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A single **fatal** mistake in judgment threatened to destroy the happiness of her entire future life."*

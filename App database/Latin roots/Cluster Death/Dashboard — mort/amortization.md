@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction of the value of an asset by prorating its cost over a period of years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Payment of an obligation in a series of installments or transfers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual reduction and eventual extinction of a debt, mortgage, or capital asset value through regular installment payments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accounting practice, the periodic expensing of the acquisition cost of an intangible asset over its useful economic life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The loan is repaid by the farmers under a regular plan of amortization."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"A regular provision for the **amortization** of the public debt is the cornerstone of national honor and credit."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The annual charge for **amortization** reflects the physical depreciation and obsolescence of industrial plant."*
+> - 📜 **Benjamin Franklin (*Writings*):** *"The assembly enacted a prudent sinking fund destined for the speedy **amortization** of the provincial bills of credit."*

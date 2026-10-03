@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Somewhat fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat fat, plump, or chubby; tending toward stoutness or corpulence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy or zoology, having a moderately greasy, oily, or adipose consistency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"A bent, fattish figure in a shawl came toward him through the haggard, his wife's mother."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The coachman was a **fattish**, comfortable-looking man enveloped in a dozen heavy woolen capes."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Weston joked good-humoredly about growing a trifle **fattish** in his easy middle age."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The rustic choir singer was a **fattish**, round-faced youth who sang bass with hearty zeal."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible to attack.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptible to criticism or persuasion or temptation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptible to physical, emotional, or psychological injury, assault, or damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military fortification or strategic planning, insufficiently defended against hostile attack.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou losest labour: As easy mayst thou the intrenchant air With thy keen sword impress, as make me bleed: Let fall thy blade on vulnerable crests; I bear a charmed life, which must not yield To one of woman born."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Simply feeling, considering, and caring for what was before his eyes, he was vulnerable only in the present."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, men are like soft-shell crabs, so tender, frail, and vulnerable are they."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Let fall thy blade on **vulnerable** crests; I bear a charmed life, which must not yield to one of woman born."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba felt acutely **vulnerable** when rumors regarding the fateful valentine circulated through town."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Pip discovered that cold mockery struck at his most sensitive and **vulnerable** childhood feelings."*

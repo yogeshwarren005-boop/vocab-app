@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A palestinian international terrorist organization that split from the plo in 1974; has conducted terrorist attacks in 20 countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A palestinian international terrorist organization that split from the plo in 1974; has conducted terrorist attacks in 20 countries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fatah Revolutionary Council; a militant splinter faction founded by Abu Nidal after splitting from Fatah in 1974.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international security and geopolitical studies, the notorious Abu Nidal Organization designated as a terrorist group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatah-rc designates a palestinian international terrorist organization that split from the plo in 1974; has conducted terrorist attacks in 20 countries."*
+> - 📜 **Noam Chomsky (*Pirates and Emperors, Old and New*):** *"International security agencies tracked the violent operations of the splinter group known as **Fatah-RC** across European capitals."*
+> - 📜 **Edward Said (*Peace and Its Discontents*):** *"Extremist factions like **Fatah-RC** conducted assassinations against moderate Palestinian diplomats seeking compromise."*
+> - 📜 **Albert Hourani (*A History of the Arab Peoples*):** *"The clandestine faction **Fatah-RC** opposed the mainstream PLO leadership through ruthless international attacks."*

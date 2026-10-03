@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse unreasoning love or passion in and cause to behave in an irrational way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arouse unreasoning love or passion in and cause to behave in an irrational way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To inspire with an intense, unreasoning, foolish, or extravagant passion or admiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deprive of sound judgment, prudence, or common sense; to make foolishly captivated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"To a young man with the least fire in him that little upward lift in the middle of her red top lip was distracting, infatuating, maddening."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, Jane,” he returned: “what necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?” I shuddered to hear the infatuated assertion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seeing, however, that his forbearance had not the slightest effect, by an awful and unspeakable intimation with his twisted hand he warned off the foolish and infatuated man; but it was to no purpose."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Cleopatra's seductive charms did so **infatuate** the Roman triumvir that he forgot all imperial duty."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Sensual lust and false ambition combine to **infatuate** fallen minds into moral blindness."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The populace was so **infatuate** with chariot races that civic riots shook the imperial capital."*

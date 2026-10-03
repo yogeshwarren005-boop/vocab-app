@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary loss of strength and energy resulting from hard physical or mental work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of materials (especially metals) in a weakened state caused by long stress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme physical or mental tiredness, weariness, or exhaustion resulting from exertion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science, the progressive structural damage and weakening of a material caused by cyclic stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"An exhausted composure, a worn-out placidity, an equanimity of fatigue not to be ruffled by interest or satisfaction, are the trophies of her victory."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am so accustomed and inured to hard work that I don’t know what fatigue is.” We murmured that it was very astonishing and very gratifying, or something to that effect."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If I find a person unwilling to hear what I have to say, I tell that person directly, ‘I am incapable of fatigue, my good friend, I am never tired, and I mean to go on until I have done.’ It answers admirably!"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"David sank upon the grass beside the road, completely overcome by hunger and pedestrian **fatigue**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **fatigue** accompanied by low-grade fever frequently signals latent tuberculous infection."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Repeated mechanical vibrations induce molecular **fatigue** in iron axles, leading to sudden fracture."*

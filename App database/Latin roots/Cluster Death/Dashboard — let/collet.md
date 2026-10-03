@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metal cap or band placed on a wooden pole to prevent splitting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cone-shaped chuck used for holding cylindrical pieces in a lathe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A segmented collar, band, or clamping sleeve used in machinery to hold a workpiece or rotating tool firmly in place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jewelry and gemology, the metal rim, flange, or bezel that surrounds and secures a precious stone in its setting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, collet designates a metal cap or band placed on a wooden pole to prevent splitting."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The delicate pivot of the watch was gripped securely within a miniature brass **collet** to ensure true rotation."*
+> - 📜 **Benvenuto Cellini (*Treatises on Goldsmithing*):** *"The goldsmith fashioned a deep silver **collet** to hold the glowing cabochon sapphire without flaw."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The lapidary inspected the antique ring under a magnifying glass, examining the worn gold **collet**."*

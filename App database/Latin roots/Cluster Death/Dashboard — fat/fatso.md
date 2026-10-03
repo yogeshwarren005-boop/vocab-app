@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rotund individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rotund individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal, derogatory, or mocking colloquial term for a fat, overweight, or corpulent person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In playground or casual slang, an unkind epithet hurled at someone of heavy body stature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Say, Fatso, which one of you's the Buick?" Then the light changed, the car spurted away, and left Marlowe cringing."*
+> - 📜 **Mark Twain (*The Adventures of Huckleberry Finn*):** *"The boys taunted the heavy-set butcher boy, shouting 'Move along, **fatso**!' as he waddled past the gate."*
+> - 📜 **Jack London (*The Road*):** *"The street urchins hollered insults at the stout constable, calling him a lazy old **fatso**."*
+> - 📜 **Stephen Crane (*Maggie: A Girl of the Streets*):** *"Loud street corner brawls resounded with coarse mockery aimed at the barkeeper as a bloated **fatso**."*

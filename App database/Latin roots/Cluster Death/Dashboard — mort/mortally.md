@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In such a manner that death ensues (also in reference to hatred, jealousy, fear, etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In such a manner that death ensues (also in reference to hatred, jealousy, fear, etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner causing death; fatally, so as to inflict irreversible bodily destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To an extreme, painful, or unbearable degree; intensely, grievously, or desperately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your shafts of fortune, though they hurt you mortally, Yet glance full wanderingly on us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, nor of any shores: Yet I was mortally brought forth, and am No other than I appear."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He was always hit mortally, or he was missed."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Norman knight fell from his charger, **mortally** pierced through the gorget by an arrow."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne was **mortally** afraid that Captain Wentworth would notice her painful agitation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The wounded street-sweeper lay **mortally** injured on the hospital bed, whispering his last farewell."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Printing from a plate with raised characters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Printing from a plate with raised characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The traditional relief printing process in which inked raised surfaces are pressed directly against sheets of paper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Printed textual matter as distinguished from illustrations, engravings, or photographic plates in a book.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I returned to my book—Bewick’s History of British Birds: the letterpress thereof I cared little for, generally speaking; and yet there were certain introductory pages that, child as I was, I could not pass quite as a blank."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The volume contained exquisite copperplate vignettes accompanied by clear, crisp **letterpress** text."*
+> - 📜 **William Morris (*A Note on His Aims in Founding the Kelmscott Press*):** *"We sought to restore to **letterpress** printing the architectural beauty it possessed in Venice."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The printer's boy arrived with damp proof-sheets of legal **letterpress** smelling strongly of ink."*

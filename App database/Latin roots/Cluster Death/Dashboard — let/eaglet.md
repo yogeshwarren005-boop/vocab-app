@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young eagle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young eagle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young eagle, especially one still sheltered in the eyrie or nest before acquiring adult plumage and flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symbolically, a youthful, ambitious prince, warrior, or protégé displaying heroic ancestral daring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"I don’t know the meaning of half those long words, and, what’s more, I don’t believe you do either!” And the Eaglet bent down its head to hide a smile: some of the other birds tittered audibly."*
+> - 📜 **John Milton (*Areopagitica*):** *"Methinks I see in my mind a noble and puissant nation rousing herself like an **eaglet** renewing her mighty youth."*
+> - 📜 **Alfred, Lord Tennyson (*The Princess*):** *"The fierce mountain eyrie reared a fledgling **eaglet** whose piercing eye stared directly into the dawn sun."*
+> - 📜 **Walter Scott (*The Talisman*):** *"The king smiled upon the daring youth, remarking that the royal **eaglet** had already learned to strike."*

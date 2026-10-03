@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to or active during the night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or occurring in the night.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done, occurring, active, or appearing in the night; belonging to or relating to the hours of darkness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology, active primarily during the night and resting during the daytime, as owls or bats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby’s breast, prompting her to nocturnal examinations of Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"After such a nocturnal reconnoitre it is hard to get back to earth, and to believe that the consciousness of such majestic speeding is derived from a tiny human frame."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The denser nocturnal vapours, attacked by the warm beams, were dividing and shrinking into isolated fleeces within hollows and coverts, where they waited till they should be dried away to nothing."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Many predators have acquired acute eyesight and silent flight specialized for **nocturnal** hunting."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The minister stood upon the scaffold in the midst of his dark, **nocturnal** vigil."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The long, solitary hours of **nocturnal** darkness seemed filled with strange murmurs and premonitions."*

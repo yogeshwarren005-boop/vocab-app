@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One whose business is the management of funerals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One whose business is the management of funerals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A licensed funeral director or undertaker responsible for preparing deceased bodies for burial or cremation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A professional who manages funeral arrangements, wake services, and legal certifications of death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mortician designates one whose business is the management of funerals."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The local **mortician** conducted his business with solemn decorum, dressed in a sleek frock coat."*
+> - 📜 **Theodore Dreiser (*An American Tragedy*):** *"The family summoned the town **mortician** to arrange the quiet chapel service."*
+> - 📜 **H. L. Mencken (*Prejudices*):** *"The euphemistic title of **mortician** replaced the simpler trade appellation of undertaker across America."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anyone who submits to the belief that they are powerless to change their destiny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fatalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that all events are predetermined by fate and therefore inevitable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who submits passively to whatever occurs, believing human effort cannot alter outcomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Better almost the black resignation which the fatalist draws from his own hopelessness, from the fierce kisses of misery that hiss against his tears."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"I am enough of a fatalist to believe that whatever the world needs it gets."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"It is said that he is a fatalist; that he regards himself as the child of fate—the man of destiny; and that he places devout and implicit reliance upon the guiding influence of his star."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old harpooner was a thorough **fatalist**, smoking his pipe calmly in the teeth of the gale."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Clym Yeobright looked upon the tragedies of Egdon Heath with the somber gaze of a philosophical **fatalist**."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Prince Andrew became an absolute **fatalist** after recovering from his terrible wound at Austerlitz."*

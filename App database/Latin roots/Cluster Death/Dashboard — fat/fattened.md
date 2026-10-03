@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fat or plump.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of market animals) made ready for market.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made fat, plump, or corpulent through abundant feeding, rich diet, or prolonged grazing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enriched, fertilized, or made wealthy through bountiful resources or monopolistic gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"She had married a man named Oakshott, and lived in Brixton Road, where she fattened fowls for the market."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Even if they do not know for what purpose they are fattened, they will at least know that all that happened to the ram did not happen accidentally, and will no longer need the conceptions of chance or genius."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"They made prisoners of them, fattened them up, and killed and ate them whenever their stocks ran short. [2] 1858."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"The Poulterer's shop displayed a prize **fattened** turkey, twice as large as Tiny Tim himself."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The serfs prepared a stall-fed **fattened** ox for the baron's magnificent Michaelmas banquet."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The revolutionary mobs denounced court favorites who had **fattened** upon royal pensions."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to fatalism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to fatalism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or manifesting belief in fatalism and preordained destiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing resigned submission to an inescapable course of events without resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"As Tess’s own people down in those retreats are never tired of saying among each other in their fatalistic way: “It was to be.” There lay the pity of it."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The growth of population in this stage is not "fatalistic," as there is no inevitable tendency to increase or to decrease."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"I wish it were June already!” Alice preferred Lydia’s womanly impatience to her fatalistic calm."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Tess possessed a **fatalistic** despair, feeling that she was marked for sorrow from her cradle."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The pilgrims exhibited a **fatalistic** indifference to the dangers lurking in the dense African jungle."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her **fatalistic** outlook led her to accept the unhappy marriage as an inevitable family duty."*

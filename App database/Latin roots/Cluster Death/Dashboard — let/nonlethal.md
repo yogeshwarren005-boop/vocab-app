@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of causing death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not capable of causing death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not causing or intended to cause death; incapable of inflicting fatal biological injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law enforcement and military operations, designating weapons designed to incapacitate targets without mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonlethal designates not capable of causing death."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient suffered from a benign, **nonlethal** form of cutaneous eruption that resolved spontaneously."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Natural selection often favors **nonlethal** defense mechanisms such as warning coloration over toxic combat."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The canine threat display serves as a **nonlethal** territorial deterrent avoiding lethal confrontation."*

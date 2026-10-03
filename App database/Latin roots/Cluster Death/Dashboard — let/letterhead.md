@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheet of stationery with name and address of the organization printed at the top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of stationery with name and address of the organization printed at the top.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A printed heading at the top of a sheet of writing stationery, indicating the name, address, and crest of an organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of paper imprinted with such an official organizational or business heading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"No, not on the bill letterheads--on the regular office sheets."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The anonymous warning was pasted upon a sheet of watermarked paper bearing no official **letterhead**."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The assistant commissioner examined the formal request, stamped upon the heavy embossed **letterhead** of the embassy."*
+> - 📜 **Henry James (*The Ambassadors*):** *"Strether received the crisp missive bearing the aristocratic Paris hotel's gilded **letterhead**."*

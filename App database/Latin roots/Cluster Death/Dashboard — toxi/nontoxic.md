@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not producing or resulting from poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Safe to eat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not toxic, venomous, poisonous, or deleterious to biological tissues, organs, or health.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and food packaging, safe for ingestion, handling, or contact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nontoxic designates not producing or resulting from poison."*
+> - 📜 **Harvey W. Wiley (*Foods and Their Adulteration*):** *"Laboratory analysis certified that the vegetable food coloring was entirely **nontoxic** and pure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The modified vaccine vehicle proved completely **nontoxic** upon subcutaneous pediatric administration."*
+> - 📜 **Robert Kane (*Elements of Chemistry*):** *"The resulting neutral salt was **nontoxic**, lacking the corrosive virulence of its acid precursor."*

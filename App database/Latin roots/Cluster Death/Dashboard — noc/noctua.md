@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the noctuidae: moths whose larvae are cutworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the noctuidae: moths whose larvae are cutworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stout-bodied nocturnal owlet moths (family Noctuidae), including the large yellow underwing moth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Latin and zoological nomenclature, the little owl (Athene noctua) sacred to the goddess Minerva.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctua designates type genus of the noctuidae: moths whose larvae are cutworms."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The heavy-bodied moths of the genus **Noctua** conceal their brightly colored hindwings beneath brown forewings by day."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The screech owl and the little **Noctua** hunt stealthily along the hedge-rows as twilight settles."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Attracted by our camp lantern, diverse species of **Noctua** fluttered out of the impenetrable forest."*

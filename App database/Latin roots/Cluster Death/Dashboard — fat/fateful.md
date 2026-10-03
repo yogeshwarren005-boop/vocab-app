@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having momentous consequences; of decisive importance; - saturday rev.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ominously prophetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having momentous, decisive, or catastrophic consequences for the future; decisive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Controlled by or prophetic of destiny, doom, or inevitable misfortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Out of this shoot, so slender to look on, there shall grow a harmful fateful shaft."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He glided up the gallery and up the stairs, and stopped in the dark, low corridor of the fateful third storey: I had followed and stood at his side."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"Her I will shortly send to the borders of Kashmir, and if you repair in fitting season to the Sacred Well of Purity you will there receive from her any communication I may have to make." The subject of the fateful sapphire she lightly dismissed."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"On that **fateful** morning of July fourteenth, the armed populace marched toward the Bastille."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **fateful** crossing of the Rubicon marked the end of the ancient republican constitution."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The **fateful** words at the altar were interrupted by the unexpected arrival of the lawyer Briggs."*

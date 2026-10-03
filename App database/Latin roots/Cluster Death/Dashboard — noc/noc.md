@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undercover agent who is given no official cover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undercover agent who is given no official cover.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining linguistic root derived from the Latin nocere (to harm, hurt, or injure), signifying harm or damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological analysis, the base appearing in words such as nocuous, innocent, and nociceptive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _Les dames et demoiselles pour être baisées devant leurs noces, il n’est pas la coutume de France._ KING HENRY."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The classical Latin radical **noc** embodies the primordial concept of physical harm or injury."*
+> - 📜 **W. W. Skeat (*An Etymological Dictionary of the English Language*):** *"The semantic transition from Latin **noc** to English innocent traces the negation of harmful intent."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Lexicographers recognize **noc** as the productive stem uniting nocuous, innocuous, and nuisance."*

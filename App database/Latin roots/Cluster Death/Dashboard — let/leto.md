@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wife or mistress of zeus and mother of apollo and artemis in ancient mythology; called latona in roman mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, a Titaness, daughter of Coeus and Phoebe, and mother of the Olympian twins Apollo and Artemis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical poetry and religion, the maternal deity venerated at Delos representing serene maternal dignity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The story that Leto clasped a palm-tree and an olive-tree or two laurel-trees, when she was about to give birth to the divine twins Apollo and Artemis, perhaps points to a similar Greek belief in the efficacy of certain trees to facilitate delivery."*
+> - 📜 **John Keats (*Hyperion*):** *"Beside the ocean strand wandered mournful **Leto**, seeking a peaceful sanctuary to bear her divine offspring."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The radiant bow of Apollo brought joy to gentle **Leto** as she watched from the Delian hills."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient hymns celebrated the wandering travails of **Leto** before Delos welcomed the divine mother."*

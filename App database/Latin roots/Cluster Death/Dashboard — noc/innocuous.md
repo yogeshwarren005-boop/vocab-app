@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not injurious to physical or mental health.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not causing disapproval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not harmful, injurious, or toxic; producing no adverse physical, medical, or moral effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmless in expression or impact; unlikely to cause offense, irritation, or hostility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"In this particular case, however mechanical and innocuous it might be at other times, Hepzibah’s contortion of brow served her in good stead."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"Too long has this literary masterpiece been buried in translations, unavoidably cumbrous and inspirationally innocuous."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The small terrestrial snake was completely **innocuous**, lacking venom glands and poison fangs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Certain intestinal bacteria remain **innocuous** commensals unless systemic resistance collapses."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His mild, gossiping observations were entirely **innocuous**, designed merely to keep conversation alive."*

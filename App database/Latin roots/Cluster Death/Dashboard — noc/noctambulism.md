@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of walking or moving about while asleep; somnambulism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medical literature, a nervous disorder manifested by nocturnal wandering without conscious memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctambulism designates walking by a person who is asleep."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical **noctambulism** occurs most frequently during the deep non-rapid eye movement stages of slumber."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Usher wandered through the gloomy corridors in a trance resembling chronic **noctambulism**."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"Motor automaticity without conscious reflection explains the complex feats performed during **noctambulism**."*

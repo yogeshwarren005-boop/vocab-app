@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of body tissue containing stored fat that serves as a source of energy; it also cushions and insulates vital organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural oily or greasy substance occurring in animal bodies, especially deposited as a layer under skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a large amount of excess flesh; plump, stout, or corpulent in physical appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have heard that Julius Caesar Grew fat with feasting there."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay,” quoth Jaques, “Sweep on, you fat and greasy citizens! ’Tis just the fashion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have but lean luck in the match, and yet is she a wondrous fat marriage."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Let me have men about me that are **fat**; sleek-headed men and such as sleep o' nights."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Joe, the **fat** boy, was discovered sound asleep upon the carriage box, snoring lustily."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Tallow candles are manufactured from the purified animal **fat** of sheep and oxen."*

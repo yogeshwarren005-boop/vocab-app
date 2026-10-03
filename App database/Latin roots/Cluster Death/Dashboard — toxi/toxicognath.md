@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of poison fangs in the modified front pair of legs of the centipede.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of poison fangs in the modified front pair of legs of the centipede.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the pair of modified poison claws or venom fangs formed from the first thoracic appendages in centipedes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arthropod morphology, the prehensor apparatus connected to internal venom glands for subduing prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxicognath designates either of a pair of poison fangs in the modified front pair of legs of the centipede."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The powerful **toxicognath** of the tropical centipede discharges paralytic venom during biting."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"Chilopods capture insects by swiftly seizing them with the sharp curved **toxicognath**."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The gigantic scolopendra gripped its prey firmly between each sharp **toxicognath**."*

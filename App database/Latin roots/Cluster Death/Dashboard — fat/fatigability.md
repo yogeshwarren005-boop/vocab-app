@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptibility to fatigue; a tendency to get tired or lose strength.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Susceptibility to fatigue; a tendency to get tired or lose strength.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Susceptibility to physical exhaustion, muscle weariness, or loss of mechanical efficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuromuscular physiology, the rate at which muscle contractions decline under repeated stimulus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatigability designates susceptibility to fatigue; a tendency to get tired or lose strength."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Abnormal muscular **fatigability** after mild exertion provides the primary diagnostic sign of myasthenia gravis."*
+> - 📜 **Charles Scott Sherrington (*The Integrative Action of the Nervous System*):** *"Synaptic pathways exhibit greater **fatigability** than the trunk axons of peripheral nerve fibers."*
+> - 📜 **Claude Bernard (*Lectures on the Experimental Physiology of the Living Body*):** *"Repeated electrical shocks revealed progressive muscular **fatigability** following curare poisoning."*

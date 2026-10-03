@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liquidate gradually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liquidate gradually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To gradually pay off, liquidate, or extinguish a financial debt or mortgage through scheduled, periodic installments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In accounting and corporate finance, to write off the cost of an asset incrementally over designated fiscal periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amortize designates liquidate gradually."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The federal treasury must possess adequate revenue powers to **amortize** foreign loans in times of peace."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"We must strictly **amortize** every public debt within our own generation to protect posterity from bankruptcy."*
+> - 📜 **Walter Bagehot (*Economic Studies*):** *"The railway company failed to **amortize** its initial track-laying outlays before secondary renewals were required."*

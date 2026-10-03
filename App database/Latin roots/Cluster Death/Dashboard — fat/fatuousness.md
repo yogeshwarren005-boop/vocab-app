@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A ludicrous folly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ludicrous folly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The characteristic of being fatuous, silly, vacuous, or smugly foolish; empty foolishness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of intellectual depth or realistic seriousness in behavior or pronouncements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatuousness designates a ludicrous folly."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Gwendolen was irritated by the incurable **fatuousness** of her uncle's fashionable dinner guests."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The pompous **fatuousness** of parliamentary debates contrasted sharply with the misery of the poor."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"Coverdale smiled at the innocent **fatuousness** of the utopian plans proposed by the enthusiasts."*

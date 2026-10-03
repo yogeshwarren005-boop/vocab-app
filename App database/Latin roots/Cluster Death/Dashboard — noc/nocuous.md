@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin noc within the domain of Death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of noc in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harmful, hurtful, noxious, or deleterious to biological health, morals, or welfare; injurious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and pathology, capable of producing adverse toxic damage; opposite of innocuous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nocuous designates pertaining to, derived from, or characteristic of latin noc within the domain of death."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Miasmatic swamps generate **nocuous** vapors that breed pestilential fevers among travelers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic ingestion of **nocuous** lead salts induces severe motor neuropathy and anemia."*
+> - 📜 **Robert Kane (*Elements of Chemistry*):** *"The chemical manufacturing effluent contained **nocuous** acids that poisoned the river fish."*

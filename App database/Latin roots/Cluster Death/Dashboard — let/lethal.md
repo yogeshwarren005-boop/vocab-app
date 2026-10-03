@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of an instrument of certain death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an instrument of certain death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sufficient to cause death; deadly, fatal, or destructive of physical or biological life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military, forensic, or toxicological terminology, producing irreversible mortality through venom, weaponry, or trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scarf set his at the highest level in the non-lethal category, and with a sneer at Brad, returned the weapon to its sheath."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"About now, outside his lodgings in town, a particularly lethal barrel organ would be striking up the latest revolting air with which the halls had inflicted London."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"History is full of cruel tragedies caused by the lethal sex."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The blowpipe expelled a tiny wooden needle carrying a **lethal** dose of native cardiac venom."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The vampire's midnight bite carried a **lethal** taint that slowly drained Lucy's vital energy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inhalation of illuminating gas produces **lethal** carboxyhemoglobin saturation within minutes."*

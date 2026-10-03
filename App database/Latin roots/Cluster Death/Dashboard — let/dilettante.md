@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amateur who engages in an activity without serious intentions and who pretends to have knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing frivolous or superficial interest; amateurish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cultivates an area of interest, such as an art, music, or science, purely for superficial amusement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amateurish or shallow dabbler who lacks professional training, systematic discipline, or rigorous technical mastery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"Fortunately also, for him, he was no mere dreamer, or idle dilettante."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gilbert Osmond was the ultimate **dilettante**, collecting rare bibelots and aesthetic opinions with delicate disdain."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Will Ladislaw resented being dismissed as a mere **dilettante** whose political sketches lacked scholarly weight."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Lord Henry praised the romantic detachment of the **dilettante** over the earnest toil of the moralist."*

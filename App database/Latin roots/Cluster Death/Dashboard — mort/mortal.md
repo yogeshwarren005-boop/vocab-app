@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A human being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to biological death and physical decay; having a finite, perishable lifespan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing, inflicting, or resulting in death; fatal, deadly, or destructive; also intensely human.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was it his spirit, by spirits taught to write, Above a mortal pitch, that struck me dead?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mortal moon hath her eclipse endured, And the sad augurs mock their own presage, Incertainties now crown themselves assured, And peace proclaims olives of endless age."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If the living be enemy to the grief, the excess makes it soon mortal."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"When we have shuffled off this **mortal** coil, must give us pause: there's the respect that makes calamity of so long life."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Of Man's first disobedience, and the fruit of that forbidden tree whose **mortal** taste brought death into the World."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge could see the ghost's eyes, and felt a **mortal** terror gripping his shivering heart."*

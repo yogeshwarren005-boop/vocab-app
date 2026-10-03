@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cardamom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cardamom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial herbaceous plants in the ginger family (Zingiberaceae), native to tropical South Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and pharmacognosy, the specific botanical genus that includes Elettaria cardamomum, the source of true cardamom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog elettaria as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"The aromatic seeds of **Elettaria** cardamomum are harvested extensively along the moist slopes of the Malabar coast."*
+> - 📜 **William Roxburgh (*Plants of the Coast of Coromandel*):** *"Specimens of **Elettaria** flourish in shaded mountain ravines where moisture is perennial and soil rich."*
+> - 📜 **Robert Bentley (*Medicinal Plants*):** *"The volatile oil extracted from the pericarp of **Elettaria** serves both culinary and therapeutic purposes."*

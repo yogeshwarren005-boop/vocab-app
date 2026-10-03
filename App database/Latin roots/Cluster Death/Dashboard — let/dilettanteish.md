@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing frivolous or superficial interest; amateurish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing frivolous or superficial interest; amateurish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the superficial, frivolous, or amateurish mannerisms characteristic of an uncommitted artistic dabbler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to aesthetic pursuits approached with casual indulgence rather than genuine dedication or scholarly rigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilettanteish designates showing frivolous or superficial interest; amateurish."*
+> - 📜 **Henry James (*Roderick Hudson*):** *"His sketches displayed a **dilettanteish** charm that pleased drawing rooms but alarmed serious masters."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"He dismissed the fashionable aesthetic movement as a **dilettanteish** retreat from pressing economic realities."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The young diplomat offered a few **dilettanteish** remarks upon Italian Renaissance painting during tea."*

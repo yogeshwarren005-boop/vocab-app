@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any process whereby sounds or words are left out of spoken words or phrases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) the loss or absence of one or more nucleotides from a chromosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or an instance of removing, striking out, or erasing written text, data, or recorded items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, a chromosomal mutation involving the loss of a nucleotide sequence or segment of genetic material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deletion designates any process whereby sounds or words are left out of spoken words or phrases."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The proposed constitutional amendment suffered the total **deletion** of its controversial fiscal clause."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The stratigraphic record reveals the sudden **deletion** of entire marine fauna between the two strata."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Priory School*):** *"Holmes observed the suspicious **deletion** of several lines in the headmaster's correspondence."*

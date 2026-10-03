@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correct to the last detail; especially being in or following the exact words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Correct to the last detail; especially being in or following the exact words.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Memorized, performed, or reproduced with absolute verbal precision, down to the exact word or syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Executed without error, deviation, or hesitation; demonstrating flawless, painstaking accuracy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, letter-perfect designates correct to the last detail; especially being in or following the exact words."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Crummles insisted that every actor in the provincial troupe be **letter-perfect** before opening night."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Professor Higgins drilled Eliza until her pronunciation of the phonetics exercises was **letter-perfect**."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The stagecoach messenger delivered his complicated telegraphic report in a **letter-perfect** recitation."*

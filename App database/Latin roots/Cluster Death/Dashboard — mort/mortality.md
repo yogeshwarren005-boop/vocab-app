@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being mortal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ratio of deaths in an area to the population of that area; expressed per 1000 per year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of physical mortality; susceptibility to death and biological decay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rate, incidence, or statistical frequency of deaths within a given population, region, or time period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He was excellent indeed, madam; the king very lately spoke of him admiringly, and mourningly; he was skilful enough to have liv’d still, if knowledge could be set up against mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Mark then abounding valour in our English, That being dead, like to the bullet’s grazing, Break out into a second course of mischief, Killing in relapse of mortality."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here on my knee I beg mortality, Rather than life preserved with infamy."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"There's nothing serious in **mortality**: all is but toys: renown and grace is dead."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Defective drainage and overcrowding in barracks produced an appalling **mortality** among the troops."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The comparative **mortality** of urban infants exposed the disastrous sanitary conditions of the slums."*

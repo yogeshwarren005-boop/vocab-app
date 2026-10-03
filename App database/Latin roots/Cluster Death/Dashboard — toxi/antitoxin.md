@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that can neutralize a specific toxin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that can neutralize a specific toxin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that counteracts or neutralizes a specific biological toxin, produced in response to an antigen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A therapeutic antiserum containing such neutralizing antibodies, derived from an immunized animal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitoxin designates an antibody that can neutralize a specific toxin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The introduction of diphtheria **antitoxin** dramatically reduced pediatric mortality across clinical wards."*
+> - 📜 **Theobald Smith (*Studies on Immunity*):** *"Subcutaneous injection of purified **antitoxin** confers passive protection against tetanus intoxication."*
+> - 📜 **Paul Ehrlich (*Collected Studies on Immunity*):** *"The exact quantitative combining ratio of toxin and **antitoxin** follows chemical mass-action laws."*

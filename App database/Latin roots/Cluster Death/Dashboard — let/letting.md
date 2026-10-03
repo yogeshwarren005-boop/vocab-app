@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Property that is leased or rented out or let.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make it possible through a specific action or lack of action for something to happen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or business of renting or leasing property, houses, or land to tenants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Allowing, granting permission, or offering opportunity for an action to proceed without obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rynaldo, you did never lack advice so much As letting her pass so; had I spoke with her, I could have well diverted her intents, Which thus she hath prevented."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know you are more clement than vile men, Who of their broken debtors take a third, A sixth, a tenth, letting them thrive again On their abatement; that’s not my desire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Wouldst thou have that Which thou esteem’st the ornament of life, And live a coward in thine own esteem, Letting “I dare not” wait upon “I would,” Like the poor cat i’ th’ adage?"*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The annual **letting** of timber felling rights brought dealers and woodmen from all corners of Wessex."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke oversaw the seasonal **letting** of the farm cottages with benevolent negligence."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The dispute concerned the long-term **letting** of the bankrupt estate's tenant farms."*

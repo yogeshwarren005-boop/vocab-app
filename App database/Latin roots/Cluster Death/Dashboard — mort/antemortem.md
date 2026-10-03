@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preceding death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preceding death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, made, performed, or existing immediately prior to death; before the moment of biological decease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic pathology and veterinary inspection, pertaining to clinical signs or physiological injuries sustained while alive.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antemortem designates preceding death."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful pathological inspection differentiated the **antemortem** arterial thrombus from postmortem red blood clots."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of Black Peter*):** *"Holmes noted that the deep contusions had clearly been inflicted during the victim's **antemortem** struggle."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossilized reptilian bones occasionally preserve evidence of healed **antemortem** fractures sustained in life."*

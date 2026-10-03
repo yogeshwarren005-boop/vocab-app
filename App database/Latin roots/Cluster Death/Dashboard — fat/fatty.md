@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rotund individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing or composed of fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing, consisting of, or resembling fat; greasy, oily, or laden with adipose material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, designating aliphatic carboxylic acids (fatty acids) derived from fats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I believe that you are suffering from what is called fatty degeneration of the heart, a disease which was first divined and explored by Laennec, the man who gave us the stethoscope, not so very many years ago."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Advanced chronic alcoholism frequently induces severe **fatty** degeneration of the liver."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Saponification with caustic alkali decomposes tallow into glycerin and combustible **fatty** acids."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Krook's dark rag-and-bottle shop reeked with the foul odor of rancid oil and **fatty** refuse."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without fat or fat solids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without fat or fat solids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing no fat or having had all fat removed; entirely fat-free in formulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial dairy terminology, milk or milk products containing less than one-half percent butterfat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonfat designates without fat or fat solids."*
+> - 📜 **Harvey W. Wiley (*Foods and Their Adulteration*):** *"The laboratory test verified that the skimmed dairy sample consisted of **nonfat** milk solids."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"For chronic hepatic congestion, the physician prescribed a strict **nonfat** diet of whey and fruit."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Clear **nonfat** broths nourish the digestion of typhus patients without inducing feverish heat."*

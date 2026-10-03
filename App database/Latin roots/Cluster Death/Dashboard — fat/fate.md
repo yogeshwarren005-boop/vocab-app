@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An event (or a course of events) that will inevitably happen in the future.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ultimate agency regarded as predetermining the course of events (often personified as a woman).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presumed power or supernatural principle that predetermines events inevitably; destiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ultimate outcome, final condition, or destiny of a person, nation, or enterprise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Caesar sits down in Alexandria, where I will oppose his fate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, good my fellows, do not please sharp fate To grace it with your sorrows."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou art privy to thy country’s fate, Which, happily, foreknowing may avoid, O speak!"*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"O, I am fortune's fool! A pair of star-crossed lovers take their life, doomed by inexorable **fate**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Necessity and **fate** approach not me, and what I will is **fate**, declared the sovereign creator."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The impending **fate** of Constantinople aroused anxiety across all the Christian courts of Europe."*

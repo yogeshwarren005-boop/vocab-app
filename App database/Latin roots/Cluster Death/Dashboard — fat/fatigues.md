@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Military uniform worn by military personnel when doing menial labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary loss of strength and energy resulting from hard physical or mental work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of fatigue; arduous physical labors, military chores, or exhausting duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sturdy, loose-fitting utilitarian clothing worn by military personnel during manual labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle had imparted to me all that he could recall or I extract, and when I had treated him to a little appropriate refreshment, after the fatigues of the evening, we parted."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I wish you had saved yourself this walk home.” “No part of it fatigues me but getting off this horse, I assure you,” said she, as she sprang down with his help; “I am very strong."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Nothing ever fatigues me but doing what I do not like."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor shared the march and all the severe **fatigues** of the campaign with common legionaries."*
+> - 📜 **Walter Scott (*Waverley*):** *"The highland soldiers endured incredible winter **fatigues** without complaint or murmuring."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The veteran trooper bore the physical **fatigues** of the long march with customary stoic discipline."*

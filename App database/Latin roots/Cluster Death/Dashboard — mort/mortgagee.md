@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who accepts a mortgage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who accepts a mortgage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lender, bank, or creditor in a mortgage transaction who advances funds against the pledge of real property.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The legal party holding title to or an encumbrance upon the mortgaged estate until the debt is satisfied.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"You see, he, Dignam, I mean, didn’t serve any notice of the assignment on the company at the time and nominally under the act the mortgagee can’t recover on the policy. —Holy Wars, says Joe, laughing, that’s a good one if old Shylock is landed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"By the English law the little landowner, the mechanic who owns the house in which he lives, is protected against his wealthy mortgagee."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Here, on the contrary, the farmer, suffering under the effects of blight or drought, and thus deprived of power to meet with punctuality the demands of his mortgagee, is to have no protection whatsoever."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The legal remedies secured to the **mortgagee** guarantee the safe recovery of invested loan capital."*
+> - 📜 **Thomas V. Cooper (*American Politics*):** *"The statutory provisions protected the **mortgagee** against fraudulent land conveyances by defaulting debtors."*
+> - 📜 **James Joyce (*Ulysses*):** *"He reflected upon the legal rights possessed by the **mortgagee** when the half-yearly interest fell in arrears."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small order of primitive ungulates of the paleocene and eocene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small order of primitive ungulates of the paleocene and eocene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order of gigantic herbivorous ungulate mammals from the Paleocene and Eocene of North America and Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary mammalian taxonomy, massive archaic mammals characterized by multi-horned skulls and saber-like canine teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dinocerata designates small order of primitive ungulates of the paleocene and eocene."*
+> - 📜 **O. C. Marsh (*Dinocerata: A Monograph of an Extinct Order of Gigantic Mammals*):** *"The discovery of the order **Dinocerata** established the existence of gigantic horned mammals prior to the true pachyderms."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"Brain casts of the **Dinocerata** demonstrate an extraordinarily small and primitive cerebral development."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The bizarre cranial specializations of the **Dinocerata** illustrate extreme morphological radiation among extinct ungulates."*

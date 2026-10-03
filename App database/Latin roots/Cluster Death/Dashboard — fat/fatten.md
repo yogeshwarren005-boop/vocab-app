@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make fat or plump.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fat or plump.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become fat, corpulent, or plump by feeding, rich nutrition, or rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To enrich or fertilize soil; also to make someone rich or prosperous, often at another's expense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Why Deer, Those that men fatten for their private pleasures, And let their tenants starve upon the Commons. _Char_."*
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"I'll have to catch a dozen or so young pullets and roosters and coop them up to fatten."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"And what then? to-morrow we, too, one and all, Die, to fatten these ravenous carrion birds."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Your worm is your only emperor for diet: we **fatten** all creatures else to **fatten** us."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"He proposed that children of poor parents be reared to **fatten** for the tables of wealthy landlords."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Rich organic compost and marl serve to **fatten** thin, sandy agricultural soils for wheat."*

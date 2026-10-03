@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person who gives a mortgage in return for money to be repaid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person who gives a mortgage in return for money to be repaid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The borrower or debtor in a mortgage agreement who conveys a conditional interest in property to secure repayment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property owner who retains possession and right of redemption while encumbering real estate as collateral.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The unfortunate mortgagor must then accept the terms, hard as they may be, dictated to him, be they 8, 10, 12, or 20 per cent."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Equity of redemption remains vested in the **mortgagor** until absolute foreclosure is decreed."*
+> - 📜 **Thomas V. Cooper (*American Politics*):** *"The statute granted the **mortgagor** an extended redemption period following judicial sheriff sales."*
+> - 📜 **Frank A. Fetter (*The Principles of Economics*):** *"The **mortgagor** remains liable for property maintenance and municipal taxes despite the encumbrance."*

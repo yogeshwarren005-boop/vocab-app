@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vacuously or complacently and unconsciously foolish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vacuously or complacently and unconsciously foolish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fatuous, foolish, silly, or complacently unthinking manner; vacuously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With smug, self-satisfied simplicity or complete lack of realistic judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"I asked it of everyone I met, and was fatuously assured that I demanded the impossible; at long last I asked it of old Bridget, whose sound common sense had come to my rescue times and again."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Jos Sedley smiled **fatuously** at Becky's artful flatteries, imagining himself a dashing gallant."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He nodded **fatuously** in agreement, having grasped neither the premise nor the conclusion of the speech."*
+> - 📜 **Henry James (*The American*):** *"The young aristocrat beamed **fatuously** as he adjusted his buttonhole orchid in the salon."*

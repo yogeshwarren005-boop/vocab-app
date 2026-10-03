@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an introduction or preface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as an introduction or preface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, serving as, or of the nature of a preface; introductory or preliminary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary scholarship, functioning as introductory commentary preceding the main text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefatorial designates serving as an introduction or preface."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The author prefixed a humorous **prefatorial** dialogue between himself and an imaginary reader."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Dryden's **prefatorial** essays established the foundations of modern English literary criticism."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"A lengthy **prefatorial** disquisition by the English editor introduced the obscure German philosopher."*

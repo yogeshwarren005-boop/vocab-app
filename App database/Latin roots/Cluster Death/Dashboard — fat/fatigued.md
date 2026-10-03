@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lose interest or become bored with something or somebody.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhaust or get tired through overuse or great strain or stress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearied, exhausted, tired out, or drained of energy by prolonged physical or mental labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy, describing a structural metal weakened by cyclic mechanical stresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"She passes close to him, with her usual fatigued manner and insolent grace."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Rouncewell, on the last occasion when we were fatigued by this business,” Lady Dedlock languidly proceeds, “we cannot make conditions with you."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You have been over-excited, or over-fatigued.” “Do you, sir, feel calm and happy?” “Calm?—no: but happy—to the heart’s core.” I looked up at him to read the signs of bliss in his face: it was ardent and flushed."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth was pleasantly **fatigued** by her brisk walk through the autumn woods to Netherfield."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The horses became severely **fatigued** during the steep ascent over the barren Andean pass."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The **fatigued** children were permitted to retire early to their cold dormitory beds."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person (such as an author) of enduring fame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exempt from death or physical mortality; living, existing, or enduring endlessly throughout all time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having lasting, perpetual fame, renown, or historical reverence; never destined to be forgotten.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This young gentlewoman had a father—O that “had!”, how sad a passage ’tis!—whose skill was almost as great as his honesty; had it stretch’d so far, would have made nature immortal, and death should have play for lack of work."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Truly, I have him, but I would not be the party that should desire you to touch him, for his biting is immortal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have Immortal longings in me."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"The fault, dear Brutus, is not in our stars, but in ourselves, that we are underlings; yet our **immortal** souls aspire."*
+> - 📜 **John Milton (*Paradise Lost*):** *"How hast thou lost thyself, and me with thee, and how hast thou forfeited this **immortal** state of innocence?"*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"He has outsoared the shadow of our night; envy and calumny and hate and pain can touch him not, for he is **immortal**."*

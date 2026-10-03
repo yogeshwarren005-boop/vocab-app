@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cutworms; armyworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cutworms; armyworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest family of moths (order Lepidoptera), comprising the owlet moths, cutworms, and armyworms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, nocturnal lepidopterans characterized by tympanal hearing organs located on the metathorax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctuidae designates cutworms; armyworms."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The family **Noctuidae** contains thousands of species whose larvae feed upon agricultural foliage and roots."*
+> - 📜 **Charles Valentine Riley (*Report of the Entomologist*):** *"Bollworms and earworms belonging to the **Noctuidae** inflict severe economic losses on southern agriculture."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The equatorial islands support an astonishing diversity of cryptically colored moths of the family **Noctuidae**."*

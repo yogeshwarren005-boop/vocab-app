@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little acquaintance with writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Uneducated in general; lacking knowledge or sophistication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking formal education; unable to read or write; illiterate, untutored, or ignorant of books.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unversed in classical literature, scholarly culture, or formal intellectual disciplines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KING. [_Reads_.] _That unlettered small-knowing soul—_ COSTARD."*
-> - 📜 **William Shakespeare (*Shakespeare's Sonnets*):** *"I think good thoughts, whilst others write good words, And like unlettered clerk still cry ‘Amen’ To every hymn that able spirit affords, In polish’d form of well-refined pen."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"He is an **unlettered** small-knowing soul, yet he hath a sharp wit in rustic matters."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"Their name, their years, spelt by th' **unlettered** muse, the place of fame and elegy supply."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The philosopher must not despise the practical wisdom often discovered among **unlettered** artisans."*

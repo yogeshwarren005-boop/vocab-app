@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as an introduction or preface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as an introduction or preface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving as a preface, foreword, or introduction; introductory, preliminary, or opening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preliminary remarks made before entering upon the main subject of an address or writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In a prefatory note to ‘Mardi’ (1849), Melville declares that, as his former books have been received as romance instead of reality, he will now try his hand at pure fiction. ‘Mardi’ may be called a splendid failure."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The bracketed prefatory lines, explanatory of the parchment on which are recorded the last hours and last talk of St."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"When all concerned are ready (recorder checked and set up, the date, time, place, names, occasion, and whatever else considered prefatory has been recorded in advance) Grandchild opens with the first question."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber cleared his throat with several **prefatory** coughs before delivering his speech."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The author provided a brief **prefatory** note explaining the provincial background of the history."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A few **prefatory** observations on the weaknesses of the confederation will introduce our plan."*

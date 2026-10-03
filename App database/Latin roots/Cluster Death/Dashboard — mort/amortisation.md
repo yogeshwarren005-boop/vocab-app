@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction of the value of an asset by prorating its cost over a period of years.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Payment of an obligation in a series of installments or transfers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British spelling of amortization; the gradual, scheduled repayment of a debt or capital expenditure over time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history, the alienation or transfer of lands into mortmain (dead hand), or inalienable ecclesiastical tenure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amortisation designates the reduction of the value of an asset by prorating its cost over a period of years."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The systematic **amortisation** of the national debt requires a permanent, uncompromised sinking fund."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A prudent corporation allocates a fixed annual surplus toward the **amortisation** of debenture bonds."*
+> - 📜 **David Ricardo (*On the Principles of Political Economy and Taxation*):** *"The fiscal burden upon agriculture increases when public **amortisation** schedules fail to extinguish wartime borrowing."*

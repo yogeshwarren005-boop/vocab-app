@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arouse unreasoning love or passion in and cause to behave in an irrational way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by foolish or unreasoning fondness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessed by an unreasoning, extravagant, or foolish passion or romantic obsession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deprived of rational judgment through blind, overwhelming infatuation or pride.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"No, Jane,” he returned: “what necessity is there to dwell on the Past, when the Present is so much surer—the Future so much brighter?” I shuddered to hear the infatuated assertion."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Seeing, however, that his forbearance had not the slightest effect, by an awful and unspeakable intimation with his twisted hand he warned off the foolish and infatuated man; but it was to no purpose."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A turbulent faction in a State may easily suppose itself able to contend with the friends to the government in that State; but it can hardly be so infatuated as to imagine itself a match for the combined efforts of the Union."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne was utterly **infatuated** with Willoughby, blind to every warning sign in his conduct."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"David was hopelessly **infatuated** with Dora Spenlow, writing her name a hundred times in his diary."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Farmer Boldwood became morbidly **infatuated** with Bathsheba, abandoning his farm duties."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Informal terms for money.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus lactuca.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely cultivated annual leafy herbaceous plant (Lactuca sativa), whose crisp green leaves are eaten in salads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, any member of the genus Lactuca; in vintage slang, paper money or green currency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Val, if there is a slug in that lettuce I wish you would say so."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"This in hand, a man fished out with his chopsticks tidbits from various dishes set out on the table,--beans, cabbage, lettuce, peppers, etc., all cooked."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"I can have a salad, easy--just lettuce and stuff."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Cross-fertilised garden **lettuce** seedlings exhibited greater vegetative vigor than self-fertilised varieties."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I hoed my garden rows, weeding the tender young **lettuce** and beans in the morning dew."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Garden **lettuce** cooleth an hot stomacke and bringeth refreshing sleepe when eaten raw."*

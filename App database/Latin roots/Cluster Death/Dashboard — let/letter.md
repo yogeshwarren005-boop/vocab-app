@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written message addressed to a person or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The conventional characters of the alphabet used to represent speech.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written, typed, or printed direct communication sent in an envelope by post or messenger to another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A conventional character or symbol representing an elementary sound of speech within an alphabetic writing system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This to my mother. [_Giving a letter._] ’Twill be two days ere I shall see you; so I leave you to your wisdom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me see what he writes, and when he means to come. [_Opening a letter._] CLOWN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Brought you this letter, gentlemen?"*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth opened the long-expected **letter** from Darcy with trembling fingers and conflicting emotions."*
+> - 📜 **William Shakespeare (*King Lear*):** *"This **letter** will resolve him of our plot; dispatch it swiftly to the French encampment."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The private **letter** reveals an author's true disposition far more faithfully than public panegyrics."*

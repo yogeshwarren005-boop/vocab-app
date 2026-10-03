@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of containing fat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the property of containing fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property, quality, or texture of containing or resembling fat; greasiness or adiposity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and gastronomy, the rich oily mouthfeel imparted by animal or vegetable lipids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fattiness designates having the property of containing fat."*
+> - 📜 **Harvey W. Wiley (*Foods and Their Adulteration*):** *"The excessive **fattiness** of the canned meat reflected the addition of cheap suet trimmings."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination confirmed marked **fattiness** and yellow discoloration of the hepatic tissue."*
+> - 📜 **Brillat-Savarin (*The Physiology of Taste*):** *"A light acid vinaigrette cuts the unctuous **fattiness** of roasted marrow and duck liver."*

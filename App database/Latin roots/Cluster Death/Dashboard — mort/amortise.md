@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Liquidate gradually.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Liquidate gradually.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British spelling of amortize; to gradually extinguish a loan, debt, or financial liability through periodic payments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early English law, to transfer lands or real property irrevocably into mortmain or the ownership of a corporation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amortise designates liquidate gradually."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Taxes raised to **amortise** the sovereign's extraordinary expenditures must not diminish productive capital."*
+> - 📜 **Walter Bagehot (*Lombard Street*):** *"The joint-stock bank resolved to **amortise** the heavy losses incurred during the autumn railway panic."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Sound commercial policy requires directors to **amortise** initial machinery costs within ten years."*

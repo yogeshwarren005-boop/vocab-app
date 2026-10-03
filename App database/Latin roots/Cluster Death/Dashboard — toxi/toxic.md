@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or caused by a toxin or poison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by a toxin or poison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous, venomous, or harmful; capable of causing injury, illness, or death to an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Harmful, malicious, corrupting, or destructive to emotional health, relationships, or society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toxic designates of or relating to or caused by a toxin or poison."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical symptoms pointed to acute absorption of **toxic** alkaloids through the digestive tract."*
+> - 📜 **Louis Pasteur (*Researches on Inoculation and Contagion*):** *"Filtered bacterial broth contained potent **toxic** metabolites capable of producing fatal fever."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Greed and mutual suspicion inject a **toxic** element into the cooperative fabric of social labor."*

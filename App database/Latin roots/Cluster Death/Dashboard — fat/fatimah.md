@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Youngest daughter of the prophet mohammed and wife of the fourth calif ali; revered especially by shiite muslims (606-632).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Youngest daughter of the prophet mohammed and wife of the fourth calif ali; revered especially by shiite muslims (606-632).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative scholarly transliteration of Fatima, daughter of the Prophet Muhammad and wife of Ali.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celebrated in Islamic history as a paragon of piety, endurance, steadfast virtue, and maternal devotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatimah designates youngest daughter of the prophet mohammed and wife of the fourth calif ali; revered especially by shiite muslims (606-632)."*
+> - 📜 **Albert Hourani (*A History of the Arab Peoples*):** *"Devotion to **Fatimah** and her martyr sons Hasan and Husayn forms the emotional core of Shi'ism."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The memory of **Fatimah** was cherished by the Faithful as the supreme model of female virtue."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"Pilgrims paid devout visits to the revered tomb attributed to Lady **Fatimah** in Medina."*

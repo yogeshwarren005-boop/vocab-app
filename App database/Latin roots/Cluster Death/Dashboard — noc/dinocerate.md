@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct ungulate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extinct ungulate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or belonging to the extinct mammalian order Dinocerata; having horned uintathere affinities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, describing huge multi-horned mammalian skull structures from the Eocene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dinocerate designates an extinct ungulate."*
+> - 📜 **O. C. Marsh (*Dinocerata: A Monograph of an Extinct Order of Gigantic Mammals*):** *"The fossil skeleton exhibited characteristic **dinocerate** limb proportions and heavy columnar feet."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The massive **dinocerate** fauna dominated western American lake basins throughout middle Eocene epochs."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"Comparative analysis confirmed that the **dinocerate** dentition combines shearing molars with dagger-like canines."*

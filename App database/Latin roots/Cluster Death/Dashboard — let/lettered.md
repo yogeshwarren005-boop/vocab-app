@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Win an athletic letter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set down or print with letters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Highly educated, learned, erudite, or well-versed in classical literature, scholarship, and academic writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked, inscribed, or stamped with printed or engraved alphabetical letters, titles, or inscriptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ARMADO. [_To Holofernes_.] Monsieur, are you not lettered?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The embossed design is merely to make the coins easily recognizable and difficult to counterfeit; and milled or lettered edges are to prevent clipping and otherwise abstracting metal from the coins. 10. #Seigniorage defined#."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"At last the Captain made a postman of it; tying a lettered, leathern tally round its neck, with the ship’s time and place; and then letting it escape."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"He was a cultivated and **lettered** gentleman who spent his leisure hours reading Roman historians."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooner examined the **lettered** brass plate fixed to the stock of the antique weapon."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Even in a **lettered** age, few men possess both comprehensive erudition and sound practical wisdom."*

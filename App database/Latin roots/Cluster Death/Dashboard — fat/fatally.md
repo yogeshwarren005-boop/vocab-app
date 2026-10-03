@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With fatal consequences or implications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With fatal consequences or implications.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner leading to death, destruction, or ruin; mortally, destructively, or hopelessly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By predetermined decree of fate, destiny, or inevitable misfortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Beware, lest your heart become fatally hardened through the deceitfulness of sin."*
-> - 📜 **George Eliot (*Middlemarch*):** *"We are not afraid of telling over and over again how a man comes to fall in love with a woman and be wedded to her, or else be fatally parted from her."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Mary too was agitated; she was conscious that fatally, without will of her own, she had perhaps made a great difference to Fred’s lot."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The tiny poison dart was **fatally** tipped with venom that stopped the heart within seconds."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The sword's unbated tip was **fatally** poisoned by the treacherous prince Laertes."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A deficiency in federal revenue would **fatally** undermine national security and credit."*

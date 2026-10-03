@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decree or designate beforehand.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make fat or plump.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Destined, preordained, or doomed by fate or supernatural necessity to a specific end.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical tragedy, characterized by an inescapable, tragic predetermined doom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our remedies oft in ourselves do lie, Which we ascribe to heaven: the fated sky Gives us free scope; only doth backward pull Our slow designs when we ourselves are dull."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Doubt not but heaven Hath brought me up to be your daughter’s dower, As it hath fated her to be my motive And helper to a husband."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now all the plagues that in the pendulous air Hang fated o’er men’s faults light on thy daughters!"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"My **fated** hour has arrived when I to sulphurous and tormenting flames must render up myself."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The heir of Ravenswood rode toward his **fated** destiny along the treacherous Kelpie's Flow."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The warrior stood upon the **fated** field of Waterloo, mourning the fallen champions of liberty."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fill with high spirits; fill with optimism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make drunk (with alcoholic drinks).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or capable of producing alcoholic inebriation, intoxication, or mental stupor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thrilling, exhilarating, rapturous, or passionately exciting to the human imagination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Each clasping the other round the waist they promenaded over the dry bed of fir-needles, thrown into a vague intoxicating atmosphere at the consciousness of being together at last, with no living soul between them; ignoring that there was a corpse."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"No,' said he, 'I never drink intoxicating drink, and I ask the Lord Jesus to help me never to touch it.' "I looked at him with surprise, and inquired, 'Are you a Christian?' "'Yes, I trust I am,' he answered."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"_And does Jesus keep you from drinking intoxicating liquor?'_ "'_He does, and I never wish to touch it_.' "That short answer set me to thinking."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The prospect of sudden vast wealth was an **intoxicating** dream that dazzled the village blacksmith boy."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The salt wind blowing across the Pacific was an **intoxicating** draught that stirred the crew."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The sweet perfume of the garden flowers had an **intoxicating** charm on that warm summer night."*

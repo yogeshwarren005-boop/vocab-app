@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of innocent naivete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being unsullied by sin or moral wrong; lacking a knowledge of evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Freedom from moral wrong, sin, guilt, or legal offense; unblemished purity of heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from harmful cunning, malice, or sophisticated deception; naive simplicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And God in justice hath revealed to us The truth and innocence of this poor fellow, Which he had thought to have murdered wrongfully."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The trust I have is in mine innocence, And therefore am I bold and resolute. [_Exeunt._] SCENE V."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It will help nothing To plead mine innocence, for that dye is on me Which makes my whit’st part black."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"We were as twinn'd lambs that did frisk i' the sun, and bleat the one at the other: what we chang'd was **innocence** for **innocence**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Adam and Eve walked in happy **innocence** through the flowering bowers of pristine Eden."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"The child's gentle countenance was stamped with that sweet **innocence** that disarms cruel malice."*

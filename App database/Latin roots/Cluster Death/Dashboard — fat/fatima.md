@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Youngest daughter of the prophet mohammed and wife of the fourth calif ali; revered especially by shiite muslims (606-632).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Youngest daughter of the prophet mohammed and wife of the fourth calif ali; revered especially by shiite muslims (606-632).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fatima bint Muhammad (c. 605–632 AD), youngest daughter of the Prophet Muhammad, venerated in Islam.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Catholic Marian tradition, Fátima, a town in Portugal renowned for reported Marian apparitions in 1917.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Of course she was thinking of nothing at all, barring possibly a new sherbet to be made, or whether, if they sold Fatima, the Abyssinian cook, who was becoming garrulous, would Fatima have a good home."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Fatimid caliphs traced their prestigious dynastic lineage directly to the prophet's daughter **Fatima**."*
+> - 📜 **Washington Irving (*Life of Mahomet*):** *"The prophet tenderly loved his daughter **Fatima**, bestowing her hand in marriage upon the valiant Ali."*
+> - 📜 **Albert Hourani (*A History of the Arab Peoples*):** *"Descendants of **Fatima** enjoyed special veneration across Islamic society as noble sayyids."*

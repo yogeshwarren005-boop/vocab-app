@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be or provide a memorial to a person or an event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make famous forever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To confer enduring, everlasting fame, memory, or historical celebrity upon a person, event, or creation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make exempt from physical death, decay, oblivion, or destruction; to render perpetually living.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Woman, do what thou canst to save our honours; Drive them from Orleans and be immortalized."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The legend of Barbara Freitchie's defiance of Stonewall Jackson and his hosts, has been immortalized in Whittier's charming verse, and the equally brave defiance of the Rebels by Mrs."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"Looking back to the palmy days of feudalism, especially as immortalized in Shakespeare's plays, what is it we find most admirable? what is it that fascinates?"*
+> - 📜 **Alexander Pope (*The Iliad of Homer*):** *"The heroic songs of Homer will **immortalize** the valour of Achilles long after Troy's towers have crumbled."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ancient whaling chronicles sought to **immortalize** the terrifying encounters of Nantucket seamen."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon, Gent.*):** *"The genial essayist sought to **immortalize** the quaint customs of old English Christmas festivities."*

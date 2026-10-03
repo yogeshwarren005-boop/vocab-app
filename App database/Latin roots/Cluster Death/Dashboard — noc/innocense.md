@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: White and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: White and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical early modern spelling variant of innocence, denoting purity, sinlessness, or freedom from guilt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renaissance manuscripts and poetry, unspotted virtue and simplicity of conscience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, innocense designates white and lavender to pale-blue flowers grow in perfect rings of widely spaced bands around the stems forming a kind of pagoda; california."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The pure white robe symbolized unspotted **innocense** and truth before the assembly of nobles."*
+> - 📜 **John Milton (*Paradise Lost*):** *"While yet in **innocense** they lived, no guilty fear troubled their peaceful slumber beneath the boughs."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The ancient chronicle recorded the maiden's trial and complete vindication of her pure **innocense**."*

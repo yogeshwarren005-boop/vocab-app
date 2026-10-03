@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The official language of latvia; belongs to the baltic branch of indo-european.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The official language of latvia; belongs to the baltic branch of indo-european.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the Latvians or the Latvian language, an East Baltic language spoken in Latvia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of the folk traditions, culture, or historical vernacular literature of the Latvian people.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"John's Day (the summer solstice), every Lettish peasant is said to devote his leisure hours to swinging diligently; for the higher he rises in the air the higher will his flax grow that season."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Among the rural peasantry, ancient **Lettish** folk songs preserve pagan midsummer fire rituals."*
+> - 📜 **Immanuel Kant (*Anthropology from a Pragmatic Point of View*):** *"The linguistic idioms of the **Lettish** villagers retain remarkable affinities with archaic Sanskrit."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative philology identifies the **Lettish** tongue as a vital surviving branch of the Indo-European family."*

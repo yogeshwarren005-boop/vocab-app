@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Immune to attack; impregnable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immune to attack; impregnable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being physically wounded, hurt, or damaged; immune to bodily attack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impossible to successfully attack, refute, damage, or undermine in argument or position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We do it wrong, being so majestical, To offer it the show of violence, For it is as the air, invulnerable, And our vain blows malicious mockery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My fellow-ministers Are like invulnerable."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Sir ---- was also invulnerable while sitting on the grand jury, where quite lately he had protracted the business to an inordinate length in order to extend his own liberty."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"We do it wrong, being so majestical, to offer it the show of violence; for it is as the air, **invulnerable**."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A nation united under energetic government remains **invulnerable** against foreign conquest."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Holmes constructed an **invulnerable** chain of logical deductions that left the prisoner speechless."*

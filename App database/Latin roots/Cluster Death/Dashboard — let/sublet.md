@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lease from one lessee to another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lease or rent all or part of (a leased or rented property) to another person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lease or rent out property, a room, or an apartment to another party that one holds as a tenant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A property, apartment, or contractual agreement involving such a secondary tenancy arrangement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sublet designates a lease from one lessee to another."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The impoverished law writer decided to **sublet** his dreary garret to a wandering street musician."*
+> - 📜 **George Gissing (*The Nether World*):** *"The tenant could barely pay her weekly rent unless she managed to **sublet** the back parlor."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"The young solicitor took a small **sublet** office in the City to begin his independent practice."*

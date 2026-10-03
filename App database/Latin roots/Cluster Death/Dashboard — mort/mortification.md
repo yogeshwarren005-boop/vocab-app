@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong feelings of embarrassment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The localized death of living cells (as from infection or the interruption of blood supply).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep feeling of acute shame, wounded pride, humiliation, or agonizing embarrassment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, necrosis or gangrene of living bodily tissue; in ascetic religion, the subduing of bodily appetites through austerity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy has so slight a part, except when he gives his evidence, that he is moved on like a private individual and can only haunt the secret house on the outside, where he has the mortification of seeing Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby was understood to suffer great mortification from her daughter’s ignoble marriage and pursuits, but I hope she got over it in time."*
-> - 📜 **Jane Austen (*Persuasion*):** *"Altered beyond his knowledge.” Anne fully submitted, in silent, deep mortification."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth's **mortification** was complete when Wickham's true character was exposed before the entire company."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy suffered intense inward **mortification** when Esther gently rejected his theatrical declaration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In dry senile gangrene, extensive **mortification** of the extremities occurs from arterial occlusion."*

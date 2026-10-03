@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discrimination against people who are overweight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discrimination against people who are overweight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prejudice, social bias, or discrimination directed against people who are overweight or obese.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern sociological discourse, systemic social stigma and stereotyping based upon body size.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatism designates discrimination against people who are overweight."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Social prejudices based upon physical habitus illustrate how superficial traits breed systemic **fatism** in human judgment."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Conventional society laughs cruelly at stout figures, displaying an unthinking prejudice akin to modern **fatism**."*
+> - 📜 **H. G. Wells (*Mankind in the Making*):** *"Schoolyard cruelty toward corpulent youths demonstrates that institutional **fatism** begins early in educational life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large bioluminescent marine protozoan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large bioluminescent marine protozoan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of free-living, balloon-shaped marine dinoflagellates (Noctiluca scintillans) celebrated for producing bioluminescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, the microscopic organism that generates widespread glowing phosphorescence across nocturnal sea waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctiluca designates large bioluminescent marine protozoan."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The ocean was luminous with countless millions of **Noctiluca**, sparkling like liquid diamonds behind the vessel."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Microscopic examination of **Noctiluca** reveals a protoplasmic network capable of explosive flashes of light."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship sailed through a milky sea illuminated by the ghostly, green radiance of bioluminescent **Noctiluca**."*

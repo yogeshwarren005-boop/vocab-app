@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a prophetically fateful manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a prophetically fateful manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fateful, momentous, or decisively catastrophic manner; by decree of destiny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prophetically, or with heavy consequence for future generations or events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fatefully designates in a prophetically fateful manner."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Their paths crossed **fatefully** upon the chalk uplands, sealing the sorrow of their future years."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The golden thread of Lucie's love was **fatefully** interwoven with the dark loom of the guillotine."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The portents pointed **fatefully** toward an approaching disaster within the ancient royal burgh."*

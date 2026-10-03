@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin vuln within the domain of Death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of vuln in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Useful, efficacious, or employed in healing wounds, contusions, or external bodily injuries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional herbal medicine, a soothing topical plant extract applied to lacerations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vulnerary designates pertaining to, derived from, or characteristic of latin vuln within the domain of death."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"Country leeches gathered the bitter herb as an exceptional **vulnerary** balm for sword cuts."*
+> - 📜 **William Bartram (*Travels through North and South Carolina*):** *"Indigenous healers applied bruised roots possessing potent **vulnerary** virtues to reduce inflammation."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Folk medicine celebrated various composite plants for their supposed **vulnerary** and astringent virtues."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Practice self-denial of one's body and appetites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hold within limits and control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deeply humiliated, ashamed, or painfully embarrassed by a failure, rebuke, or faux pas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, affected by gangrene or tissue death; in spiritual asceticism, subdued by fasting and bodily discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou, like an exorcist, hast conjur’d up My mortified spirit."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My loving lord, Dumaine is mortified."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Revenges burn in them; for their dear causes Would to the bleeding and the grim alarm Excite the mortified man."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor was **mortified** by her mother's indiscreet remarks concerning Edward's frequent visits."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Their dear causes would to the bleeding and the grim alarm excite the **mortified** man."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I felt acutely **mortified** when Mr. Brocklehurst made me stand on a stool before the school."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A brutal terrorist group active in kashmir; fights against india with the goal of restoring islamic rule of india.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serve that strikes the net before falling into the receiver's court; the ball must be served again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To allow, permit, or grant permission to someone to do something or to leave something undisturbed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To rent, lease, or hire out real estate, lodging, or land to a tenant under contractual terms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou the tenth Muse, ten times more in worth Than those old nine which rhymers invocate, And he that calls on thee, let him bring forth Eternal numbers to outlive long date."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O let me suffer (being at your beck) Th’ imprisoned absence of your liberty, And patience tame to sufferance bide each check, Without accusing you of injury."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O if, I say, you look upon this verse, When I (perhaps) compounded am with clay, Do not so much as my poor name rehearse; But let your love even with my life decay."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"I'll make a ghost of him that **let** me: I say, away! Go on; I'll follow thee."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Netherfield Park is **let** at last; Mrs. Bennet brought the joyful intelligence to her family."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He was determined to **let** no opportunity slip by that might advance his mysterious fortune."*

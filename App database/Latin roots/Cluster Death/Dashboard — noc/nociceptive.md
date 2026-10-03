@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused by or in response to pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by or in response to pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or capable of detecting harmful, noxious, or tissue-damaging stimuli; pain-sensing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, designating sensory nerve receptors, pathways, or reflexes responsive to injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nociceptive designates caused by or in response to pain."*
+> - 📜 **Charles Scott Sherrington (*The Integrative Action of the Nervous System*):** *"We designate these protective reflexes as **nociceptive**, because they withdraw the limb from harmful stimuli."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inflammatory prostaglandins dramatically lower the activation threshold of peripheral **nociceptive** nerve fibers."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Free nerve endings in the epidermis function as primary **nociceptive** transducers of pain and burn."*

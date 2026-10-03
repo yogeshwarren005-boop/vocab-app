@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not inebriated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not inebriated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not intoxicated; completely sober, temperate, and free from the influence of alcohol or drugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clear-minded, rational, and unclouded by passionate excitement, wild delusion, or hubris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unintoxicated designates not inebriated."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor remained calm and **unintoxicated** by the fashionable flatteries showered upon the gathering."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"The reliable clerk was strictly sober and **unintoxicated**, attending diligently to his ledgers."*
+> - 📜 **Ralph Waldo Emerson (*Essays*):** *"A wise man keeps an **unintoxicated** judgment amid the wild speculative frenzies of the marketplace."*

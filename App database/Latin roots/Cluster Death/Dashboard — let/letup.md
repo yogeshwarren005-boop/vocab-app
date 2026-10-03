@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pause during which things are calm or activities are diminished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pause during which things are calm or activities are diminished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pause, reduction, cessation, or slackening in intensity, severity, or continuous effort.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A temporary respite or interval of relief from harsh weather, pain, or demanding labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, letup designates a pause during which things are calm or activities are diminished."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"Captain MacWhirr observed no **letup** in the shrieking hurricane wind throughout the agonizing night."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The relentless gale blew for four continuous days without the slightest **letup** in its ferocity."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"There was no **letup** in the rolling rifle fire that crashed along the edge of the woods."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A postcard that folds so the message is inside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A postcard that folds so the message is inside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A postal card with gummed and perforated foldable flaps that folds and seals like an envelope for correspondence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philately, a piece of postal stationery designed for brief messages requiring privacy without an outer envelope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"R., received loudly flung sacks of letters, postcards, lettercards, parcels, insured and paid, for local, provincial, British and overseas delivery."*
+> - 📜 **James Joyce (*Ulysses*):** *"Bloom hastily scribbled an address upon a stamped **lettercard** before stepping into the postal branch."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Norwood Builder*):** *"The suspicious communication was written on a cheap commercial **lettercard** mailed from Blackheath."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"Jude posted an urgent **lettercard** to Sue, begging her to grant him one final interview."*

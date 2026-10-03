@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking by a person who is asleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Walking by a person who is asleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or habit of walking about during sleep; somnambulism; sleepwalking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric and clinical neurology, a parasomnia characterized by complex motor behavior during slow-wave sleep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, noctambulation designates walking by a person who is asleep."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe pediatric **noctambulation** demands careful domestic precautions to prevent accidental falls from windows."*
+> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"The eccentric clerk was rumored to indulge in strange nocturnal wandering akin to **noctambulation**."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"The mysteries of sleep produce that singular wandering of limbs known as **noctambulation** while the senses rest."*

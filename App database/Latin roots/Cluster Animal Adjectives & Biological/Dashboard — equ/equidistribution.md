@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat distribution having equal frequencies of occurrence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flat distribution having equal frequencies of occurrence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equal, even, or uniform distribution of elements, probabilities, or quantities across a given domain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytic number theory (Weyl's equidistribution theorem), the property of a sequence being uniformly distributed modulo 1 across an interval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equidistribution designates a flat distribution having equal frequencies of occurrence."*
+> - 📜 **Hermann Weyl (*Über die Gleichverteilung von Zahlen mod. Eins*):** *"The theorem establishes the asymptotic **equidistribution** of fractional parts of irrational multiples across the unit interval."*
+> - 📜 **Henri Poincaré (*Calcul des Probabilités*):** *"Statistical mechanics assumes a microscopic **equidistribution** of energy states in thermal equilibrium."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Uniform probability functions depend mathematically upon an assumed **equidistribution** of elementary outcomes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fel within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fel in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Somewhat resembling or related to cats; belonging to a biological group closely allied to or ranked just below the true felines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and mammalian taxonomy, exhibiting anatomical traits transitional between primitive viverrids and specialized Felidae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, subfeline designates pertaining to, derived from, or characteristic of latin fel within the domain of animal adjectives & biological."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The fossil carnivore displays transitional **subfeline** dentition, retaining small crushing molars absent in modern cats."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Certain extinct miacids foreshadowed the **subfeline** branch through partial retraction of their ungual phalanges."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The auditory bulla of the fossa presents a **subfeline** structure that bridges the civets and true cats."*

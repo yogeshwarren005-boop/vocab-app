@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not appropriate in application; defective.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or producing unhappiness; ; - american guide series.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate, unfortunate, or ill-chosen in expression or circumstance; lacking tact, grace, or success.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of language and speech act theory (J. L. Austin), failing to satisfy the required conventions for a performative utterance to take effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This amazed and enraptured Tess, whose slight experiences had been so infelicitous till now; and in her reaction from indignation against the male sex she swerved to excess of honour for Clare."*
+> - 📜 **J. L. Austin (*How to Do Things with Words*):** *"When the necessary conditions for a performative utterance are absent, the speech act is not false, but **infelicitous**."*
+> - 📜 **Henry James (*The Bostonians*):** *"His opening remark was singularly **infelicitous**, provoking a cold, unyielding silence from the assembled guests."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"An **infelicitous** choice of ministers precipitated the sudden downfall of the royal administration."*

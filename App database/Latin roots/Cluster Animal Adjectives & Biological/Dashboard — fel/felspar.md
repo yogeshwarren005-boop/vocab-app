@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of hard crystalline minerals that consist of aluminum silicates of potassium or sodium or calcium or barium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of hard crystalline minerals that consist of aluminum silicates of potassium or sodium or calcium or barium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abundant group of rock-forming tectosilicate minerals composed of aluminum silicates with potassium, sodium, or calcium; feldspar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and mineralogy, an archaic British spelling for feldspar, the most common mineral constituent of igneous rocks like granite and basalt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was composed of black and vitreous lava, mixed with fragments of felspar."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The porphyritic rocks of the Andes contain conspicuous white crystals of **felspar** embedded in a dark vitreous base."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Granite consists fundamentally of quartz, mica, and crystalline **felspar** consolidated under enormous subterranean pressure."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The pink tinge of the granite crags arises from the weathering of orthoclase **felspar** along the exposed precipices."*

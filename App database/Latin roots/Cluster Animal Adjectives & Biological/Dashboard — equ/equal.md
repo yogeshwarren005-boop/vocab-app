@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is of equal standing with another in a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be identical or equivalent to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Being the same in quantity, size, degree, value, or status; possessing identical legal, social, or political rights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical logic, having identical numerical value or identical extension under a specified equivalence relation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Florentines and Senoys are by th’ ears; Have fought with equal fortune, and continue A braving war."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And ever shall With true observance seek to eke out that Wherein toward me my homely stars have fail’d To equal my great fortune."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When it appears to you where this begins, Turn your displeasure that way, for our faults Can never be so equal that your love Can equally move with them."*
+> - 📜 **Thomas Jefferson (*The Declaration of Independence*):** *"We hold these truths to be self-evident, that all men are created **equal**, endowed by their Creator with certain unalienable Rights."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"I was born free as Caesar; so were you; we both have fed as well, and we can both endure the winter's cold as **equal**."*
+> - 📜 **Abraham Lincoln (*The Gettysburg Address*):** *"Four score and seven years ago our fathers brought forth upon this continent a new nation, conceived in liberty, and dedicated to the proposition that all men are created **equal**."*

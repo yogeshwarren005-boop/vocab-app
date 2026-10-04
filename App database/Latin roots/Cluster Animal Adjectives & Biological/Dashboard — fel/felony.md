@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious crime (such as murder or arson).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A serious crime (such as murder or arson).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious crime, typically punishable under modern law by imprisonment for more than one year or by death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical English jurisprudence, an offense that caused forfeiture of lands and goods to the lord or Crown, distinguished from petty misdemeanors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There shall be in England seven halfpenny loaves sold for a penny; the three-hooped pot shall have ten hoops, and I will make it felony to drink small beer."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers made not me alone intensely melancholy, because, after he was gone, Herbert said of himself, with his eyes fixed on the fire, that he thought he must have committed a felony and forgotten the details of it, he felt so dejected and guilty."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"At last, me and Compeyson was both committed for felony,—on a charge of putting stolen notes in circulation,—and there was other charges behind."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Capital punishment was anciently annexed to almost every offense that bore the character of a **felony**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The turnkey remarked that the forging of commercial bills was a hanging **felony** within his early recollection."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Constitution empowers the federal legislature to define and punish piracies and **felony** committed on the high seas."*

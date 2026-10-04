@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an infelicitous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an infelicitous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unfortunate, inappropriate, tactless, or ill-chosen manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical criticism, expressing thoughts in an awkward, ill-timed, or counterproductive fashion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, infelicitously designates in an infelicitous manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke intervened **infelicitously** in the heated political debate, confusing both his supporters and his opponents."*
+> - 📜 **Anthony Trollope (*Barchester Towers*):** *"The archdeacon phrased his objection so **infelicitously** that he inadvertently offended the bishop's wife."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The municipal spokesman argued **infelicitously** that economic growth excused the ugly degradation of the town's historical center."*

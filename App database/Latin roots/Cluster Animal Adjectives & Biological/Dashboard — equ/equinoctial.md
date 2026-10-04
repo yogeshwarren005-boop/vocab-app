@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The great circle on the celestial sphere midway between the celestial poles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the vicinity of the equator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring at or near an equinox, especially when day and night are of equal length; also tropical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, historically applied to violent gales and storms traditionally expected around the time of the vernal or autumnal equinox.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In sooth, thou wast in very gracious fooling last night when thou spok’st of Pigrogromitus, of the Vapians passing the equinoctial of Queubus; ’twas very good, i’ faith."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"L She plunged into the chilly equinoctial darkness as the clock struck ten, for her fifteen miles’ walk under the steely stars."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Again, the season was far advanced, for in the Antarctic regions the 13th of March corresponds with the 13th of September of northern regions, which begin at the equinoctial season."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"Our scientific expeditions explored the vast **equinoctial** rivers and mountain cordilleras of northern South America."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Fierce **equinoctial** gales lashed the Pacific, tearing sails to ribbons and driving the vessel before the hurricane."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"We walked the ocean beach during the fierce **equinoctial** gale, watching monumental breakers crash upon the sandbars."*

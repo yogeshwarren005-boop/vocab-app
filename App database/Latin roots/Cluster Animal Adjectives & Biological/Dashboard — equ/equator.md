@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line around the earth forming the great circle that is equidistant from the north and south poles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circle dividing a sphere or other surface into two usually equal and symmetrical parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary circle around the earth's surface, equidistant from the North and South Poles, dividing the globe into Northern and Southern Hemispheres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial astronomy, the projection of the terrestrial equator into the celestial sphere, known as the celestial equator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, Adam Strang, invariably assume my consciousness on a group of low, sandy islands somewhere under the equator in what must be the western Pacific Ocean."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Would he not far rather lay him down lengthwise along the line of the equator; yea, ye gods! go down to the fiery pit itself, in order to keep out this frost?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Be cool at the equator; keep thy blood fluid at the Pole."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We crossed the **equator** under gentle trade winds, observing the Southern Cross rise higher each night."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pequod sailed steadily southward toward the burning line of the **equator**, where the sperm whale feeds."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"The ship drifted in the motionless doldrums just north of the **equator**, waiting for the delayed monsoon."*

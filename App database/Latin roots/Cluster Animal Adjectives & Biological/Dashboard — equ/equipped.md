@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with (something) usually for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with abilities or understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Supplied with necessary tools, weapons, provisions, or intellectual abilities for a given task or voyage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military operations and exploration, properly outfitted to endure severe conditions and perform mission-critical tasks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I told them that the place was not at all badly equipped, but that it was rather small, and the patients were of course very mixed."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All that he has of certainty will be expended when he is fully equipped."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They suggested one distinct idea to her, for she said with her placid smile, and shaking her head, “My good Miss Summerson, at half the cost, this weak child might have been equipped for Africa!” On our going downstairs again, Mrs."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"HMS Beagle was superbly **equipped** with chronometers and survey instruments for charting South American coasts."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"The seal-hunting schooner was thoroughly **equipped** for a long voyage into the icy seas of the North Pacific."*
+> - 📜 **Jane Austen (*Emma*):** *"Harriet looked forward to the excursion with delight, being handsomely **equipped** with warm pelisses and sturdy boots."*

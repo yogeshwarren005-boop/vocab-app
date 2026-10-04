@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a plum fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a plum fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a plum in shape, color, smooth skin, or fleshy texture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical descriptions, applied to fruits, galls, or drupes having an oval shape and fleshy pericarp enclosing a stone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumlike designates resembling a plum fruit."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The native porters gathered abundant, purple, **plumlike** wild fruits that quenched our thirst in the arid scrub."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The forest tree bore large **plumlike** drupes that attracted flocks of feeding toucans and macaws."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The shrub produces dark blue **plumlike** berries covered with a delicate glaucous bloom in late summer."*

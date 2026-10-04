@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin urs within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of urs in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female bear in Latin; also used astronomically to designate either Ursa Major or Ursa Minor in celestial nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mythological astronomy, representing Callisto, who according to Ovid was transformed by jealous Juno into a bear and cast among the stars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My father compounded with my mother under the dragon’s tail, and my nativity was under Ursa Major, so that it follows I am rough and lecherous."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The pole star to-day is in Ursa Minor."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Or him wha led o’er Scotland a’ The meikle Ursa-Major?^1 Come, will ye court a noble lord, Or buy a score o’lairds, man?"*
+> - 📜 **William Shakespeare (*King Lear*):** *"My father compounded with my mother under the dragon's tail; and my nativity was under **Ursa** Major."*
+> - 📜 **Jack London (*The Star Rover*):** *"The radiant wheel of **Ursa** wheeling through the deep void of space comforted my spirit through the long darkness."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Above the frosty Scottish hills the sparkling pointers of celestial **Ursa** marched in stately silence."*

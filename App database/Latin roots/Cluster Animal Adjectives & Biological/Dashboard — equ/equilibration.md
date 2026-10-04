@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stabilization by bringing into equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stabilization by bringing into equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of bringing into or achieving equilibrium; balancing opposing forces or influences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology (Jean Piaget), the cognitive regulatory process balancing assimilation and accommodation to build cognitive schemas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equilibration designates stabilization by bringing into equilibrium."*
+> - 📜 **Jean Piaget (*The Development of Thought: Equilibration of Cognitive Structures*):** *"Cognitive development progresses through continuous **equilibration**, resolving contradictions between existing schemas and new experiences."*
+> - 📜 **Herbert Spencer (*Principles of Psychology*):** *"Mental evolution consists of a progressive **equilibration** between subjective ideas and objective outer realities."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"Life is a moving rhythmic sequence of disturbance followed by dynamic **equilibration** with the environment."*

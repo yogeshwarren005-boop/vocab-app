@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very desirable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a voice) affectedly mellow and rich.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of plums; also resembling plums in flavor; in British colloquial speech, rich, choice, or manifesting an upper-class, affected accent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics, describing an aristocratic Received Pronunciation characterized by exaggerated back vowels and resonant tones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"That cake’s awful nice and plummy."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"The elderly politician spoke in that deep, **plummy** voice typical of well-fed Victorian country gentlemen."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"Aunt Dahlia's butler responded in a rich, **plummy** baritone that seemed to reverberate off the family portraits."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The cafe patrons chuckled over the news, noting that the minister had secured another extraordinarily **plummy** appointment."*

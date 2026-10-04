@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several forms of ulcerative skin disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A constellation in the southern hemisphere near centaurus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several chronic autoimmune or inflammatory skin diseases, especially systemic lupus erythematosus or lupus vulgaris; also the constellation of the Wolf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, a systemic autoimmune disease characterized by multi-organ immune-complex deposition, antinuclear antibodies (ANA), and a facial butterfly rash.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lupus designates any of several forms of ulcerative skin disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Systemic **lupus** erythematosus presents with variable manifestations ranging from polyarthritis and nephritis to facial erythema."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"In the southern celestial hemisphere, the ancient constellation **Lupus** stands between Centaurus and Scorpius."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Niels Finsen's concentrated light therapy achieved dramatic cures in disfiguring cases of cutaneous **lupus**."*

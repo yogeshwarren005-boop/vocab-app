@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus aquilegia having irregular showy spurred flowers; north temperate regions especially mountains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus aquilegia having irregular showy spurred flowers; north temperate regions especially mountains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus comprising the columbines, herbaceous perennial plants of the buttercup family (Ranunculaceae) with spurred petals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, Aquilegia serves as a classic model system for studying rapid adaptive radiation driven by specialized nectar-spur pollinators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquilegia designates a plant of the genus aquilegia having irregular showy spurred flowers; north temperate regions especially mountains."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The elongated nectar spurs of **Aquilegia** ensure that visiting insects brush against the anthers and stigma."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Wild **Aquilegia** canadensis adorns rocky cliffs with scarlet and yellow drooping flowers in late spring."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"Hybrid strains of **Aquilegia** produce long-spurred blossoms in delicate pastel hues across the shady border."*

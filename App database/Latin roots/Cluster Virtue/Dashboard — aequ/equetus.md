@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drumfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drumfish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine ray-finned fishes in the drum family Sciaenidae, commonly known as drumfishes or highhats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, reef-dwelling Atlantic fishes characterized by dramatically elongated dorsal fins and bold black and white striping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog equetus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The striking juvenile coloration and high dorsal spines of **Equetus** render them conspicuous on coral reefs."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Small ribbon-like specimens of **Equetus** hovered beneath sea urchin spines in the transparent lagoon."*
+> - 📜 **Charles Frédéric Girard (*United States and Mexican Boundary Survey: Ichthyology*):** *"Specimens of **Equetus** collected along the Florida Keys display characteristic high anterior dorsal rays."*

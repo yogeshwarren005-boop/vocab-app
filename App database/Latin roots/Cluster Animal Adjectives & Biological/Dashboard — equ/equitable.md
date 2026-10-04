@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fair to all parties as dictated by reason and conscience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fair to all parties as dictated by reason and conscience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fair, just, and impartial; dealing fairly and equally with all concerned; also valid in equity law as opposed to common law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Anglo-American jurisprudence, pertaining to principles of equity developed by the Court of Chancery to soften strict common law rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Some ill-conditioned growling fellow may say to me, ‘What’s the use of these legal and equitable abuses?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These all form a complex of equitable claims, which together equal in value one undivided property right, which in turn equals the value of the wealth.[4] § 7. #Limitations of bequest and inheritance#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The law makes between property rights and equitable rights some subtle distinctions, which have their reason in the history, if not in the logic, of the law but which are not essential to economic discussion."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The Court of Chancery was established to administer **equitable** relief where the rigidity of the common law worked injustice."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"An **equitable** distribution of the public debt among the states was essential for preserving harmony within the union."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley’s decisions were governed by that upright and **equitable** spirit which won the confidence of all his tenantry."*

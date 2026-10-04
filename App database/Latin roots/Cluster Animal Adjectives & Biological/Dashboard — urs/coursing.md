@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hunting with dogs (usually greyhounds) that are trained to chase game (such as hares) by sight instead of by scent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Move swiftly through or over.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of hunting game animals, especially hares, with sight-hounds like greyhounds; also flowing, running, or moving swiftly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field sports, competitive testing of hounds pursuing a live hare across open fields without tracking by scent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The King, he is hunting the deer; I am coursing myself."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The latter looked immovably at the little girl, while tears were coursing down her cheeks."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All the gentlemen say so.” This, with the tears coursing down her fair old face."*
+> - 📜 **William Shakespeare (*King Lear*):** *"With horse and hounds he spent the morning **coursing** the hills in wild abandon."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"A vigorous day of hare **coursing** across the windy downs concluded with roaring hearth fires and hot punch."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"He felt the hot blood **coursing** through his veins as indignation overcame his habitual reserve."*

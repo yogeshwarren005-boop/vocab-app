@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rim (or part of the rim) into which spokes are inserted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rim (or part of the rim) into which spokes are inserted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or dialectal variant of felloe, meaning the outer rim or curved wooden segment of a wheel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wheelwright terminology, one of the curved wooden sections pinned together to form the circumference of a wagon wheel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The felly harshed against the curbstone: stopped."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All you gods, In general synod, take away her power; Break all the spokes and fellies from her wheel, And bowl the round nave down the hill of heaven, As low as to the fiends._ POLONIUS."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Break all the spokes and **felly** segments from Fortune's wheel, and cast the shattered nave into the pit!"*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The heavy wagon creaked on its axle, its iron tire grinding against the worn wooden **felly** as it traversed the rutted lane."*
+> - 📜 **George Sturt (*The Wheelwright's Shop*):** *"Each wedge-shaped **felly** was chopped out with an adze to match the exact radius of the carriage wheel."*

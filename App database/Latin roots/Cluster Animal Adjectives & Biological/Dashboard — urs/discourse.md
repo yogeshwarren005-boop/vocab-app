@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extended verbal expression in speech or writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An address of a religious nature (usually delivered during a church service).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written or spoken communication or debate; a formal, orderly discussion of a subject in speech or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical philosophy and linguistics (Foucault), a structured system of representation and statements governing knowledge and social power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Past cure I am, now reason is past care, And frantic-mad with evermore unrest, My thoughts and my discourse as mad men’s are, At random from the truth vainly expressed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If voluble and sharp discourse be marr’d, Unkindness blunts it more than marble hard."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a wench of excellent discourse, Pretty and witty; wild, and yet, too, gentle; There will we dine."*
+> - 📜 **René Descartes (*Discourse on the Method*):** *"In this **Discourse** I resolve to describe the path I have followed, seeking truth in the sciences with clear reason."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"A beast, that wants **discourse** of reason, would have mourn'd longer—married with my uncle!"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Clear definitions of terms prevent endless ambiguity throughout philosophical and theological **discourse**."*

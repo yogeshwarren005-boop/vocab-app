@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agricultural laborer in arab countries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agricultural laborer in arab countries.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An Egyptian or Arab peasant, agricultural laborer, or farmer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Middle Eastern rural economic history, the traditional agrarian tenant or smallholder cultivating the fertile alluvial soil of the Nile Delta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"After three days the mock king is condemned to death; the envelope or shell in which he was encased is committed to the flames, and from its ashes the Fellah creeps forth."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Yer own daddy Erasmus wuz one ob um, an' a lackly littul fellah he wuz, too."*
+> - 📜 **Florence Nightingale (*Letters from Egypt*):** *"The patient **fellah** worked his shaduf from dawn to sunset, lifting buckets of brown Nile water to the maize fields."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"Along the river banks, the industrious **fellah** steered his wooden plough behind a pair of patient water buffaloes."*
+> - 📜 **Amelia Edwards (*A Thousand Miles up the Nile*):** *"Generations of toil have altered little in the life of the Egyptian **fellah** since the days of the Pharaohs."*

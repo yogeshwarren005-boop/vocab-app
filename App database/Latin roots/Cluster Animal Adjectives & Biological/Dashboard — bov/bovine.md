@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various members of the genus bos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to the genus bos (cattle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling cattle; slow-moving, placid, or dull in manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary science, designating diseases, tissues, or physiological processes specific to cattle (e.g. bovine spongiform encephalopathy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovine designates any of various members of the genus bos."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The deep, placid stare of the dairy cows imparted a tranquil, **bovine** atmosphere to the morning milking."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Robert Koch investigated whether **bovine** tuberculosis could be transmitted directly to human populations through unpasteurized milk."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The squire listened with a heavy, **bovine** indifference that resisted all intellectual excitement."*

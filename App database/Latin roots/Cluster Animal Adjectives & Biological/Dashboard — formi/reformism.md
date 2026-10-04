@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctrine of reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine of reform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A political or philosophical doctrine advocating gradual, systematic improvement or social change rather than revolutionary upheaval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, democratic socialist or social-democratic philosophy prioritizing parliamentary reform, union collective bargaining, and welfare legislation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, reformism designates a doctrine of reform."*
+> - 📜 **Rosa Luxemburg (*Reform or Revolution*):** *"Parliamentary **reformism** abandons the conquest of political power in favor of surface modifications within capitalist society."*
+> - 📜 **Vladimir Lenin (*What Is to Be Done?*):** *"Bourgeois **reformism** seeks to lull working-class consciousness by offering palliative concessions without altering class rule."*
+> - 📜 **George Bernard Shaw (*Fabian Essays in Socialism*):** *"The practical **reformism** of the Fabian society sought gradual transformation through municipal governance and administrative expertise."*

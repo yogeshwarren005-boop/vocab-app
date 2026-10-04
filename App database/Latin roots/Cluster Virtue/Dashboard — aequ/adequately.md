@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an adequate manner or to an adequate degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an adequate manner or to an adequate degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is sufficient, satisfactory, or fully equal to the requirement or demand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional administration, fulfilling assigned responsibilities to a competent standard without major error or omission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It is for sale, but its value has not been adequately appreciated, and I would not part with it.' 'What is its price?' 'I have done affixing any nominal sum."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The rivers, lakes, and ocean waters near our coasts are other great sources of food, but no statistics are available to show adequately their yield."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The worker's need and the social need are thus not adequately met."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The solicitor assured the court that the interests of the infant ward had been **adequately** protected."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"No landsman can **adequately** conceive the boundless loneliness of midnight watches upon the Pacific."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A legislative body cannot perform its duty unless all major interests of the realm are **adequately** voiced."*

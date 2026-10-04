@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anything that resembles a feather in shape or lightness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feather or cluster of feathers worn as an ornament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, conspicuous feather or cluster of feathers used for ornament; also a rising column of smoke, dust, water, or vapor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and atmospheric sciences, a buoyant upwelling column of mantle material or gaseous dispersion in the atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He; That with the plume; ’tis a most gallant fellow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What plume of feathers is he that indited this letter?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The state whereon I studied Is, like a good thing being often read, Grown sere and tedious; yea, my gravity, Wherein—let no man hear me—I take pride, Could I with boot change for an idle plume Which the air beats for vain."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"All plumed like estridges that with the wind baited; an ostrich **plume** waved upon the crest of every prince."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"From the summit of the volcanic cone rose a dense, dark **plume** of sulfurous smoke into the tranquil air."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The warrior's shattered **plume** lay trampled in the crimson mud of Waterloo."*

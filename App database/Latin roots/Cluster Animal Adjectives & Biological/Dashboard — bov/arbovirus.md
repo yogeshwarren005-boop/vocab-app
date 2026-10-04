@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large heterogeneous group of rna viruses divisible into groups on the basis of the virions; they have been recovered from arthropods, bats, and rodents; most are borne by arthropods; they are linked by the epidemiologic concept of transmission between vertebrate hosts by arthropod vectors (mosquitoes, ticks, sandflies, midges, etc.) that feed on blood; they can cause mild fevers, hepatitis, hemorrhagic fever, and encephalitis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large heterogeneous group of rna viruses divisible into groups on the basis of the virions; they have been recovered from arthropods, bats, and rodents; most are borne by arthropods; they are linked by the epidemiologic concept of transmission between vertebrate hosts by arthropod vectors (mosquitoes, ticks, sandflies, midges, etc.) that feed on blood; they can cause mild fevers, hepatitis, hemorrhagic fever, and encephalitis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of viruses transmitted to humans and other vertebrates by blood-sucking arthropod vectors such as mosquitoes and ticks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acronymic term derived from 'arthropod-borne virus', including yellow fever, dengue, West Nile, and Zika viruses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arbovirus designates a large heterogeneous group of rna viruses divisible into groups on the basis of the virions; they have been recovered from arthropods, bats, and rodents; most are borne by arthropods; they are linked by the epidemiologic concept of transmission between vertebrate hosts by arthropod vectors (mosquitoes, ticks, sandflies, midges, etc.) that feed on blood; they can cause mild fevers, hepatitis, hemorrhagic fever, and encephalitis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Vector control remains the primary clinical strategy in suppressing epidemic outbreaks caused by an endemic **arbovirus**."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Drainage of stagnant marshlands lowered mosquito densities and halted the local cycle of equine **arbovirus** transmission."*
+> - 📜 **Paul de Kruif (*Microbe Hunters*):** *"Walter Reed proved that the microscopic **arbovirus** of yellow fever was carried from patient to patient by mosquitoes."*

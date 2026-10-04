@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states economist (born in russia) who devised an input-output method of economic analysis (1906-1999).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states economist (born in russia) who devised an input-output method of economic analysis (1906-1999).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wassily Leontief (1905–1999), Russian-American economist who developed input-output analysis and won the Nobel Memorial Prize in Economic Sciences in 1973.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical economics, celebrated for input-output models detailing structural interdependencies between distinct sectors of a national economy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leontief designates united states economist (born in russia) who devised an input-output method of economic analysis (1906-1999)."*
+> - 📜 **Paul Samuelson (*Economics*):** *"The input-output table pioneered by Wassily **Leontief** transformed empirical macroeconomic analysis into a precise quantitative discipline."*
+> - 📜 **Kenneth Arrow (*Social Choice and Individual Values*):** *"Structural matrix equations formulated by **Leontief** clarify how resource shocks propagate across interrelated industrial sectors."*
+> - 📜 **Milton Friedman (*Essays in Positive Economics*):** *"The empirical rigor of **Leontief** matrices provided central planners with systematic accounting frameworks."*

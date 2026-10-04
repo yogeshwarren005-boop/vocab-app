@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not caused to be equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not caused to be equal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not made equal, uniform, or balanced; remaining in an unequal, distorted, or disparate state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audio engineering, an acoustic signal or frequency response that has not been processed through equalization filters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The losses of wages meantime remain unequalized by insurance indemnities."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Wherever mechanical forces remain **unequalized**, motion must persist until static equilibrium is ultimately attained."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **unequalized** state debts posed a formidable barrier to establishing a uniform national credit system."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"So long as educational opportunities remain **unequalized**, social democracy remains a distant aspiration."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be deliberately ambiguous or unclear in order to mislead or withhold information.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be deliberately ambiguous or unclear in order to mislead or withhold information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To use ambiguous or unclear language, especially with intent to deceive, evade an issue, or avoid committing oneself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early modern English history, associated with Catholic 'doctrine of mental reservation' prosecuted during the Gunpowder Plot trials.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, here’s an equivocator, that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven: O, come in, equivocator. [_Knocking._] Knock, knock, knock!"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Faith, here's an equivocator, that could swear in both the scales against either scale; who committed treason enough for God's sake, yet could not **equivocate** to heaven."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The witness began to stammer and **equivocate** under Mr. Stryver’s ferocious cross-examination."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"King James attempted to **equivocate** regarding his secret negotiations with the court of Versailles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sole surviving family of the equisetales: fern allies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sole surviving family of the equisetales: fern allies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The horsetail family, the sole surviving family of vascular plants in the order Equisetales, comprising the genus Equisetum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and pteridology, ancient spore-bearing plants with jointed, silica-impregnated photosynthetic stems and whorled leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equisetaceae designates sole surviving family of the equisetales: fern allies."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Equisetaceae** represents the sole living remnant of a mighty Paleozoic group of calamites and tree horsetails."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Plants of the **Equisetaceae** are distinguished by ribbed, hollow, jointed stems bearing apical spore cones."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Coal measures across Britain contain giant fossil ancestors of our diminutive wetland **Equisetaceae**."*

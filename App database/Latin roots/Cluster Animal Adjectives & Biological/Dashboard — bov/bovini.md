@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Term not used technically; essentially coextensive with genus bos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Term not used technically; essentially coextensive with genus bos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tribe of large bovine mammals within the subfamily Bovinae that includes the true cattle, bison, and Asian buffaloes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian paleontology, a clade that diverged in the Pliocene, noted for massive cranial bones supporting heavy horns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovini designates term not used technically; essentially coextensive with genus bos."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The members of the tribe **Bovini** are distinguished by their heavy bodies, broad moist muzzles, and dewlaps."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Fossil crania of ancient **Bovini** discovered in Pleistocene gravels show the gigantic size of prehistoric wild bulls."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The natural distribution of the **Bovini** extended across the woodlands and prairies of the Holarctic realm."*

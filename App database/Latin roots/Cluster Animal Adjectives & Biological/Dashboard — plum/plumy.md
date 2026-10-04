@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a plume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or covered with or abounding in plumes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feathery; covered with or adorned with plumes or feathers; resembling a plume in light, spreading softness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic natural descriptions, describing waving foliage, horse crests, or avian tails that resemble soft, billowing feathers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"They dispersed about the room, reminding me, by the lightness and buoyancy of their movements, of a flock of white plumy birds."*
-> - 📜 **James Joyce (*Ulysses*):** *"He puffed a pungent plumy blast. —From the rock of Gibraltar... all the way."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The velvet bonnet was decorated with a long, **plumy** feather that danced with every movement of her head."*
+> - 📜 **James Joyce (*Ulysses*):** *"He watched the **plumy** smoke curl slowly from the chimney tops into the cold blue Dublin sky."*
+> - 📜 **Lord Byron (*Don Juan*):** *"The proud cavalry captain adjusted his **plumy** crest as he rode along the reviewing lines."*

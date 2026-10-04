@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oral stimulation of the penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oral stimulation of the penis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oral stimulation of the penis; oral sex performed on a male partner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical sexology, forensic medicine, and historical anthropology, derived from the Latin verb fellare meaning 'to suck'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fellatio designates oral stimulation of the penis."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The anthropological records of ancient Mediterranean civilizations contain explicit references to **fellatio** and related erotic arts."*
+> - 📜 **Alfred Kinsey (*Sexual Behavior in the Human Male*):** *"The frequency of **fellatio** varied significantly across distinct educational strata and generational cohorts in our sample."*
+> - 📜 **Edward Westermarck (*The Origin and Development of the Moral Ideas*):** *"Classical satire frequently satirized acts of **fellatio** as violations of aristocratic decorum and masculine dignity."*

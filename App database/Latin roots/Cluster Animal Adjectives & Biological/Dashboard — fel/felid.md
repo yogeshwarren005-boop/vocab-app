@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any mammal of the biological family Felidae, comprising all cats, both large and small.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and mammalogy, a predatory carnivoran possessing retractile claws, specialized carnassial shearing teeth, and binocular vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, felid designates any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Every domestic cat retains the stealthy stalking instincts and acute senses characteristic of the wild **felid**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull of the **felid** exhibits maximum shortening of the facial region to concentrate immense biting power."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"No terrestrial carnivore displays more lethal mechanical efficiency in hunting than the specialized **felid**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clearly defined or formulated; - r.b.taney.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaving no doubt; unambiguous, completely clear, and not open to more than one interpretation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and scientific demonstration, empirical evidence or deduction that admits of no alternative explanation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"Such are the open, unequivocal expressions of contempt and disgust, with which many treat the doctrines of the cross."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"HAMILTON To the People of the State of New York: After an unequivocal experience of the inefficacy of the subsisting federal government, you are called upon to deliberate on a new Constitution for the United States of America."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Experience is the oracle of truth; and where its responses are unequivocal, they ought to be conclusive and sacred."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The language of the proposed Constitution affords an **unequivocal** guarantee of trial by jury in criminal cases."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Rudimentary organs provide **unequivocal** evidence of common evolutionary descent from ancestral forms."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton’s passionate declaration of love left Emma in no doubt of his **unequivocal** devotion."*

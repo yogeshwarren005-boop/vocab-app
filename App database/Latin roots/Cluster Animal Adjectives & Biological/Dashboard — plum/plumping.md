@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drop sharply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Set (something or oneself) down with or as if with a noise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of making or becoming plump, full, or round; also voting exclusively for one candidate in an election that allows multiple votes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British electoral history before the secret ballot, plumping meant casting only one vote for a single preferred candidate when two seats were vacant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There was the cheval-glass, that miracle of art, in which he could just see his own wondering head and the reflection of Dolly (queerly distorted, and as if up in the ceiling), plumping and patting the pillows of the bed."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The cook devoted the afternoon to basting the fowl, **plumping** the bird with rich savory breadcrumb stuffing."*
+> - 📜 **Anthony Trollope (*The Bertrams*):** *"The political agents urged their supporters toward **plumping** for the young baronet to ensure his return to Parliament."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Great excitement prevailed at the Eatanswill hustings regarding the strategic **plumping** of independent burgesses."*

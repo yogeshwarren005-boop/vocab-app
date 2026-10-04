@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of equality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of equality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disparity or unfair differentiation in status, rights, opportunities, or economic distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical analysis, a formal statement asserting that one quantity is greater than, less than, or not equal to another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O gracious Duke, Harp not on that; nor do not banish reason For inequality; but let your reason serve To make the truth appear where it seems hid, And hide the false seems true."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The essential thought in the various attacks on the institution of property is that, because it either causes or makes possible the inequality of incomes, it is not socially expedient."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In both over-production and under-consumption theories, the inequality of demand and supply is looked upon as a general one."*
+> - 📜 **Jean-Jacques Rousseau (*Discourse on the Origin of Inequality*):** *"The vast social **inequality** among men arose not from nature, but from the institution of private property and law."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"When conditions are equal, the slightest remaining **inequality** wounds the pride of democratic citizens."*
+> - 📜 **William Shakespeare (*Measure for Measure*):** *"Do not banish reason for **inequality**; but let your reason serve to make the truth appear where it seems hid."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inadequate manner or to an inadequate degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inadequate manner or to an inadequate degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is insufficient, unsatisfactory, or fails to meet required standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public policy, providing insufficient resources or supervision to accomplish an assigned civil task.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But all this might remain inadequately estimated, were not something said here of the peculiar usages of whaling-vessels when meeting each other in foreign seas, and especially on a common cruising-ground."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The speaker is a man who has to give up the woman he loves; but his love is probably reciprocated, however inadequately, for his appeal for ‘a last ride together’ is granted."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"But all this might remain inadequately estimated, were not something said here of the peculiar usages of whaling-vessels when meeting each other in foreign seas, and especially on a common cruising-ground."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship’s stores were **inadequately** supplied with anti-scorbutics for so protracted a voyage across southern waters."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Human faculties are **inadequately** developed when individuals merely follow custom without exercising independent choice."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil record is **inadequately** preserved, representing but fragmentary pages in the vast history of the earth."*

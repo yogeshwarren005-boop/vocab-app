@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an equable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an equable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an equable, steady, even, or calm manner; without sudden fluctuations or emotional outbursts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical science and mechanics, moving with uniform velocity or constant rate across successive intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"In a happy compromise between her two states of existence, she had already become, with her workbasket before her, the equably vivacious companion with a slight judicious flavouring of information, when the Billickin announced herself."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"He studied much, slept little, sustained a great deal of fatigue with ease, and was equably cheerful."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Farebrother spoke **equably**, maintaining his quiet humor despite the provocative remarks of his companion."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"Absolute, true, and mathematical time, of itself, and from its own nature, flows **equably** without regard to anything external."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"She answered the headmistress **equably**, concealing her fluttering heartbeat behind an impassive countenance."*

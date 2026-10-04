@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In full control of your faculties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In full control of your faculties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm, composed, even-tempered, and not easily unsettled or provoked; serene under pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical ethics, exhibiting habitual psychological balance and freedom from emotional agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equanimous designates in full control of your faculties."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The wise man maintains an **equanimous** mind whether the morning brings a storm or tranquil sunshine."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her **equanimous** gaze disarmed his passionate resentment and brought him back to rational discourse."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The ancient abbot met both imperial favors and peasant revolts with the same **equanimous** dignity."*

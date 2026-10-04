@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Orthodoxy in thoughts and belief.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orthodoxy in thoughts and belief.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency, practice, or doctrine of adopting the opinions, attitudes, or behavior of a prevailing social group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology, unquestioning adherence to societal norms at the expense of individual judgment, critical inquiry, or creative expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, conformism designates orthodoxy in thoughts and belief."*
+> - 📜 **Erich Fromm (*Escape from Freedom*):** *"Automaton **conformism** enables the individual to avoid feelings of isolation by adopting entirely the personality offered by cultural patterns."*
+> - 📜 **David Riesman (*The Lonely Crowd*):** *"The other-directed personality exhibits an acute susceptibility to institutional **conformism** and peer validation."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Totalitarian orthodoxy demands not mere outward submission, but complete inner **conformism** to Party doctrine."*

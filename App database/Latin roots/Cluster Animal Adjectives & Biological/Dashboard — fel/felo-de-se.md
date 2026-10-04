@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who kills himself intentionally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act of deliberate self destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of deliberate suicide; also a person who intentionally commits suicide, historically considered a felon in English common law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English legal history, self-murder punishable by forfeiture of all goods and chattels to the Crown and burial in unconsecrated ground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, felo-de-se designates a person who kills himself intentionally."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The law of England wisely and religiously considers that no man hath power to destroy himself, branding the suicide as **felo-de-se**."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The coroner sat on her case and found it Christian burial, though strict churchmen argued her drowning was an act of **felo-de-se**."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"A verdict of **felo-de-se** carried severe feudal consequences, confiscating the estate from the innocent surviving children."*

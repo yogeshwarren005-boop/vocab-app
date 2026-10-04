@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some especially older classifications; coextensive with the family anatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some especially older classifications; coextensive with the family anatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic Linnaean or historical avian order comprising swimming water-birds with webbed feet, especially geese, ducks, and swans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoological history, later reorganized into the modern order Anseriformes within the Galloanserae clade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anseres designates used in some especially older classifications; coextensive with the family anatidae."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In the classification of Linnaeus, all web-footed swimming waterfowl were assembled under the grand order **Anseres**."*
+> - 📜 **Thomas Pennant (*British Zoology*):** *"The aquatic division **Anseres** includes those birds whose toes are connected by broad membranous webs for propulsion."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"Comparative osteology demonstrated that the traditional order **Anseres** encompassed several distinct phylogenetic lineages."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making equal or uniform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making equal or uniform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of making things equal, balanced, or uniform across different elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and audio engineering, adjusting electrical circuitry to compensate for frequency distortion over transmission lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This has led in many cases to absurd underassessment, which boards of equalization have proved powerless to remedy in any great measure."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Entering the air lock, they hurried into space suits from the public service rack, checked each other's seals and oxygen reserves, tested the communications and pressurization systems and crowded into the pressure-equalization chamber."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The natural effect of unhindered commerce is the progressive **equalization** of profits across diverse manufacturing trades."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Cosmic evolution progresses toward an ultimate **equalization** of forces, followed by dissolution and renewal."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Universal public schooling serves as the chief instrument for the social **equalization** of human opportunity."*

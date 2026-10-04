@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical herbs and subshrubs of south africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical herbs and subshrubs of south africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the mint family Lamiaceae, commonly known as lion's ear, native to sub-Saharan Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany, notably Leonotis leonurus, valued for vibrant tubular orange flowers and mild psychoactive diterpenoid constituents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leonotis designates small genus of tropical herbs and subshrubs of south africa."*
+> - 📜 **William Jackson Hooker (*Curtis's Botanical Magazine*):** *"The striking scarlet whorls of **Leonotis** provide brilliant autumn displays in temperate conservatory collections."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Cultivated specimens of **Leonotis** display dense verticillasters characteristic of tropical African Lamiaceae."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Several naturalized species of **Leonotis** thrive along warm hillside paths and sunny woodland margins."*

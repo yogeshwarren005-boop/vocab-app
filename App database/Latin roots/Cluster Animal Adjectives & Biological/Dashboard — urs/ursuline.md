@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin urs within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of urs in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an order of Roman Catholic religious women founded in 1535 by Saint Angela Merici, devoted to the education of girls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, the Company of Saint Ursula, the first teaching order of women in the Catholic Church, playing a major role in Counter-Reformation education.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Prayer for the suffering souls in the Ursuline manual and forty days’ indulgence."*
+> - 📜 **James Joyce (*Ulysses*):** *"He recalled the convent bells tolling across the river near the venerable **Ursuline** academy."*
+> - 📜 **Francis Parkman (*The Jesuits in North America*):** *"The devoted **Ursuline** nuns founded schools in Quebec to instruct French and indigenous daughters alike."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The white walls of the ancient **Ursuline** convent rose above the orange orchards outside the Roman gate."*

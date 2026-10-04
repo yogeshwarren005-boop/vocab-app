@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not caused to be equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not caused to be equal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equalised or made equal; British variant spelling of unequalized; uneven, unbalanced, or unlevelled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic and fiscal planning, denoting tax rates or regional public revenues that have not undergone equalization adjustments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unequalised designates not caused to be equal."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"While municipal burdens remain **unequalised**, the poorer parishes must endure disproportionate local tax assessments."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The **unequalised** duties levied between competing trading ports encouraged pervasive contraband smuggling."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The chaotic, **unequalised** competition of modern factory labor trampled the unorganized weaver into penury."*

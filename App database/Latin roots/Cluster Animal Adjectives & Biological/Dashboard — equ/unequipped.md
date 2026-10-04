@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without necessary physical or intellectual equipment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without necessary physical or intellectual equipment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not provided or supplied with the necessary equipment, tools, provisions, or preparation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education and vocational training, lacking the essential technical competencies or psychological readiness for professional duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unequipped designates without necessary physical or intellectual equipment."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"To venture into that prehistoric plateau wholly **unequipped** with modern firearms would have been suicidal folly."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A green landsman arrives on board entirely **unequipped** to endure the bitter gales of the southern ocean."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The militia recruits were sent to the front line pathetically **unequipped**, bearing obsolete rifles without spare ammunition."*

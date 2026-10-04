@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hollow-horned ruminants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hollow-horned ruminants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mammals belonging to the family Bovidae; hollow-horned ruminants such as oxen, antelopes, sheep, and goats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plural form denoting ruminant ungulates adapted to digesting fibrous cellulose via ruminal bacterial fermentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovids designates hollow-horned ruminants."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Vast herds of mixed **bovids** grazed across the Serengeti plains, tracking seasonal rains."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domestication of wild **bovids** began independently in several ancient centers of agriculture."*
+> - 📜 **Richard Fortey (*Life: A Natural History*):** *"The expansion of grasslands in the late Cenozoic favored the rapid evolutionary dominance of grazing **bovids**."*

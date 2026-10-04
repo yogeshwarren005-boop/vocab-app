@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classifications for the swans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classifications for the swans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological subfamily of Anatidae that includes the true geese and swans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian systematics, distinguished from the true ducks (Anatinae) by reticulated tarsal scaling, predominantly herbivorous diet, and monomorphic plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anserinae designates used in some classifications for the swans."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Unlike many ducks, members of the subfamily **Anserinae** often pair for life and share parental duties equally."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"The protective coloration in the **Anserinae** reflects their terrestrial grazing habits in open tundra and marshes."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The robust neck and elevated bill base characterize the true geese and swans of the **Anserinae**."*

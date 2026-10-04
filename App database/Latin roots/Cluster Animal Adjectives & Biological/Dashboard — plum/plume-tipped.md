@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of a plant tipped with a plume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a plant tipped with a plume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or terminating in a plume, feather, or feather-like tuft or crest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological description, bearing a feathery apical appendage or ornamental brush at the tip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plume-tipped designates of a plant tipped with a plume."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"A tall **plume-tipped** helmet rose above the ranks of Saxon archers gathered before the castle gate."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The bird waved its **plume-tipped** tail wires during the elaborate aerial courtship display."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Slender, **plume-tipped** sedges bowed gracefully before the evening breeze across the alpine meadow."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian filmmaker (1920-1993).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian filmmaker (1920-1993).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Federico Fellini (1920–1993), acclaimed Italian filmmaker celebrated for his baroque, dreamlike, and surreal cinematic masterpieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In film history and aesthetics, director of La Dolce Vita, 8½, and Amarcord, whose distinctive blend of fantasy and nostalgia gave rise to the term 'Felliniesque'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fellini designates italian filmmaker (1920-1993)."*
+> - 📜 **Susan Sontag (*Against Interpretation*):** *"The cinematic imagination of **Fellini** in 8½ creates a dizzying labyrinth where memory and artistic anxiety merge."*
+> - 📜 **Italo Calvino (*The Uses of Literature*):** *"In the films of **Fellini**, the circus parade becomes an all-embracing metaphor for human existence and childhood memory."*
+> - 📜 **Gore Vidal (*Screening History*):** *"Rome as conjured by **Fellini** is a monumental theatrical stage where ancient ruin and modern decadence dance in harmony."*

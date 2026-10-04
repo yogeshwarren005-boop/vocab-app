@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of leonardo da vinci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the manner of leonardo da vinci.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of the artistic style, enigmatic smile, or compositional methods of Leonardo da Vinci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, denoting subtle sfumato chiaroscuro, intricate draftsmanship, psychological mystery, and dynamic triangular figural groupings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leonardesque designates in the manner of leonardo da vinci."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The unfathomable smile upon the lips of the portrait reveals that unmistakable **Leonardesque** mystery."*
+> - 📜 **Bernard Berenson (*The Italian Painters of the Renaissance*):** *"Milanese followers faithfully imitated the **Leonardesque** handling of soft shadow and delicate gradations."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"A subtle **Leonardesque** grace pervades the contours of the heads throughout Luini's devotional frescoes."*

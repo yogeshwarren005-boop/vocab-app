@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ambiguous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an ambiguous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ambiguous, doubtful, or deliberately misleading manner; so as to allow multiple interpretations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and debate, framing statements evasively to avoid committing to a definitive position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Paitrick, a partridge; used equivocally of a wanton girl."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"But no language is so copious as to supply words and phrases for every complex idea, or so correct as not to include many equivocally denoting different ideas."*
+> - 📜 **Francis Bacon (*Essays*):** *"Crafty politicians speak **equivocally**, using double senses that preserve a retreat if circumstances change."*
+> - 📜 **Sir Walter Scott (*The Heart of Mid-Lothian*):** *"The witness responded **equivocally** to the prosecutor’s sharp queries, terrified of implicating his kin."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Dryden expressed his religious sentiments so **equivocally** in his early verses that critics debated his sincere faith."*

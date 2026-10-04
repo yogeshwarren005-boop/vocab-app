@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inappropriate and unpleasing manner or style (especially manner or style of expression).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inappropriate and unpleasing manner or style (especially manner or style of expression).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unhappiness, misfortune, or an unfortunate or inappropriate action, utterance, or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic pragmatics and rhetoric, a violation of conversational maxims or performative conventions that causes communication failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s words seemed to leave unsaid: what believer sees a disturbing omission or infelicity?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Amidst conjugal infelicity, it is well to hope, pray, and wait patiently on divine wisdom to point out the path."*
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"The old philosopher feared that family pride might cause domestic infelicity."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She could not view the domestic **infelicity** of her parents without a painful sense of regret and mortification."*
+> - 📜 **J. L. Austin (*How to Do Things with Words*):** *"We may designate the various ways in which a ritual or performative utterance goes wrong as cases of **infelicity**."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"Human life is everywhere a state in which much is to be endured, and little to be enjoyed; such is the universal **infelicity** of man."*

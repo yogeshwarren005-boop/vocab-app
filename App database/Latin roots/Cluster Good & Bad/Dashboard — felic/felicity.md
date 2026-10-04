@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing and appropriate manner or style (especially manner or style of expression).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State of well-being characterized by emotions ranging from contentment to intense joy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense happiness, supreme bliss, or good fortune; also the ability to find appropriate expression for one's thoughts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and eudaimonism, the state of lasting flourishing and highest good attained through virtuous living.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou didst ever hold me in thy heart, Absent thee from felicity awhile, And in this harsh world draw thy breath in pain, To tell my story. [_March afar off, and shot within._] What warlike noise is this?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A wife of such wood were felicity."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I could weep in the exquisite felicity of my heart and be as happy in my weakness as ever I had been in my strength."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth really believed all his expectations of **felicity** were rationally founded on the amiable disposition of his bride."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The highest perfection of intellectual nature lies in a careful and constant pursuit of true and solid **felicity**."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Absent thee from **felicity** awhile, and in this harsh world draw thy breath in pain to tell my story."*

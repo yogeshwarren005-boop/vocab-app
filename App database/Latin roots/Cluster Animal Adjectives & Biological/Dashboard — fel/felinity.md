@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fel within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fel in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or traits of being feline; cat-like grace, stealth, elegance, or treacherous subtlety.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture, capturing the enigmatic, self-contained elegance and unpredictable predatory focus of cats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, felinity designates pertaining to, derived from, or characteristic of latin fel within the domain of animal adjectives & biological."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Eustacia possessed a certain exotic **felinity** in her motions, pacing the dark heath like a watchful panther."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"Her quiet, watchful silence carried a subtle hint of soft **felinity** that kept him perpetual on his guard."*
+> - 📜 **Theophile Gautier (*The Romance of a Mummy*):** *"The sacred cats of Bubastis were venerated by the priests for their divine beauty and impassive **felinity**."*

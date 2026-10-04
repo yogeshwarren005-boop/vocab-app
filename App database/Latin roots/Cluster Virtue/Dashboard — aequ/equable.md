@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not varying.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily irritated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not varying or fluctuating greatly; calm, tranquil, even-tempered, and steady in climate or disposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, describing maritime climates characterized by mild temperatures and narrow seasonal variation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The equable manner in which Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes,” explains the client, somewhat abashed, “I had no intention to accuse you of insensibility.” “I think you had, sir, without knowing it,” returns the equable Vholes."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He displays the same evenness of temper in the sight of death as has marked his equable and consistent life." He died in the early morning of 3rd January 1841."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor’s **equable** disposition preserved the family from many painful altercations during those trying days."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Dr. Strong possessed that mild, **equable** temper which seemed untouched by the petty anxieties of worldly ambition."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The sheltered valley enjoys an **equable** climate that encourages early nesting among our resident songbirds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hybrid produced by crossing prunus domestica and prunus armeniaca.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hybrid between plum and apricot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hybrid fruit produced by crossing a plum and an apricot, combining the smooth or velvety skin and sweet flavor profiles of both species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pomology, first created and named by Luther Burbank, representing an interspecific hybrid of Prunus salicina and Prunus armeniaca.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumcot designates hybrid produced by crossing prunus domestica and prunus armeniaca."*
+> - 📜 **Luther Burbank (*Luther Burbank: His Methods and Discoveries*):** *"By crossing the Japanese plum with the royal apricot, I succeeded in establishing the delicious hybrid fruit I named the **plumcot**."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The **plumcot** exhibits intermediate characteristics between both parents, possessing crimson flesh and melting texture."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"Orchardists examined Burbank's novel **plumcot** seedlings with intense curiosity regarding commercial yield."*

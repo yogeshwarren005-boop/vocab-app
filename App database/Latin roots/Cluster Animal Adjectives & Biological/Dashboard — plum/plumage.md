@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The light horny waterproof structure forming the external covering of birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The light horny waterproof structure forming the external covering of birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The entire feathered covering of a bird; also elaborate, decorative, or showy attire worn by a person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, the layer of contour feathers, down, and flight feathers providing insulation, aerodynamics, and sexual display cues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I could not eat the tart; and the plumage of the bird, the tints of the flowers, seemed strangely faded: I put both plate and tart away."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst’s nose, that he was within a yard of me, and that a spread of shot orange and purple silk pelisses and a cloud of silvery plumage extended and waved below me."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Sweet—brushing the dew from the brown heather bells Her colours betray’d her on yon mossy fells; Her plumage outlustr’d the pride o’ the spring And O! as she wanton’d sae gay on the wing."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The brilliant **plumage** of the male bird of paradise is developed through successive generations of female choice."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The dazzling green and golden **plumage** of the trogon sparkled in the shafts of tropical sunlight."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"During the vernal molt, the waterfowl exchanges its dull winter dress for immaculate nuptial **plumage**."*

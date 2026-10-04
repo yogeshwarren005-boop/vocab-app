@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin equ within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of equ in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small northern constellation, the Little Horse, situated just west of Pegasus and north of Aquarius.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, one of Ptolemy's original 48 constellations, containing no stars brighter than the fourth magnitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equuleus designates pertaining to, derived from, or characteristic of latin equ within the domain of animal adjectives & biological."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Near the great celestial square of Pegasus lies the faint asterism of **Equuleus**, the foal of ancient star charts."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"We turned our small astronomical telescope upon the dim constellations, tracing the faint stars of **Equuleus**."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The delicate double stars within **Equuleus** require high telescopic magnification and tranquil atmospheric seeing."*

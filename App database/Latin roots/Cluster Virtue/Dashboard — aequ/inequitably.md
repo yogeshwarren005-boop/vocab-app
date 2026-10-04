@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an inequitable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an inequitable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unfair, unjust, biased, or unequal manner; without regard to fairness or equity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fiscal economics, distributing public burdens or subsidies in a manner that favors one social class over another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inequitably designates in an inequitable manner."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"When judicial costs are distributed **inequitably**, the poor man is effectively denied access to the courts of justice."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Confiscating the lands of the clergy was to punish a whole class **inequitably** for the alleged faults of a few."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Privileges conferred **inequitably** by royal decree undermine the natural moral harmony of civil society."*

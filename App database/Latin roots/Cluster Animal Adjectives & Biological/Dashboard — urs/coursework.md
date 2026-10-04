@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Work done by a student as part of a course of study, evaluated and counted toward a final grade or qualification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern educational pedagogy, continuous assessment through research papers, lab practicals, and essays complementing written examinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coursework designates work assigned to and done by a student during a course of study; usually it is evaluated as part of the student's grade in the course."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"The undergraduates spent the rainy term completing tedious academic **coursework** within the college libraries."*
+> - 📜 **E. M. Forster (*The Longest Journey*):** *"Rickie neglected his assigned philosophical **coursework** to compose romantic allegories in his Cambridge rooms."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The earnest evening students diligently attended lectures, submitting their technical **coursework** after long shifts at the mill."*

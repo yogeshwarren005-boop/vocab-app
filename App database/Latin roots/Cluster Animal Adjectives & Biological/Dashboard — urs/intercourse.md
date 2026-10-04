@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communication between individuals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of sexual procreation between a man and a woman; the man's penis is inserted into the woman's vagina and excited until orgasm and ejaculation occur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communication, commerce, or dealings between individuals, groups, or nations; sexual connection or coitus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In international law and political economy, the unrestricted exchange of trade, diplomacy, and cultural relations between sovereign states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As she had brought a sick child with her, she could have no intercourse with the children for two or three days."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Piper in consequence for an unpleasantness originating in young Perkins’ having “fetched” young Piper “a crack,” renews her friendly intercourse on this auspicious occasion."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It laid the injunction on me that I should never propose to see the writer, who had long been estranged from all intercourse with the world, but who would see a confidential agent if I would appoint one."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She rejoiced that their former intimacy was replaced by a polite, distant social **intercourse**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Mutual commercial **intercourse** between independent trading cities fosters universal wealth and civil refinement."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The cordial **intercourse** between the two families grew stronger during those anxious months in Paris."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unambiguous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unambiguous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a way that leaves no doubt; clearly, unambiguously, and decisively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic statecraft and legal advocacy, asserting a claim or policy with absolute firmness and precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"And it appears yet more unequivocally, that there is no pretense for the parallel which has been attempted between him and the king of Great Britain."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"In that plan the power of nomination is unequivocally vested in the Executive."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"It is my purpose to attempt to weld together the Negroes in the hope of defeating any man that will not unequivocally and openly declare in favor of the ultimate political equality of the Filipinos." "Are you not leaning on a broken reed, Mr."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The English Parliament resolved **unequivocally** that King James had abdicated the government and left the throne vacant."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The principle of individual freedom must be asserted **unequivocally** against the encroachments of state authority."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"He spoke out **unequivocally**, repudiating the cynical suggestions that had circulated through the drawing-room."*

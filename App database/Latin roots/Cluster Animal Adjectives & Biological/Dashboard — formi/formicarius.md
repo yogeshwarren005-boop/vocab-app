@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the formicariidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the formicariidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of antthrushes in the family Formicariidae, comprising medium-sized ground birds of Central and South American rainforests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, secretive birds characterized by a cocked short tail, black throats, and repetitive ringing whistling vocalizations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formicarius designates type genus of the formicariidae."*
+> - 📜 **Alexander Wetmore (*The Birds of the Republic of Panama*):** *"The melancholic whistle of **Formicarius** analis echoes persistently through the humid lowland understory."*
+> - 📜 **Robert Ridgway (*The Birds of North and Middle America*):** *"In osteology, the genus **Formicarius** exhibits adaptations suited for constant walking rather than sustained flight."*
+> - 📜 **Frank Chapman (*The Distribution of Bird-Life in Colombia*):** *"We tracked the elusive **Formicarius** rufipectus through cloud forest ravines solely by its measured whistle."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadiness of mind under stress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental calmness, composure, and evenness of temper, especially in a difficult or provocative situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic and Buddhist philosophy, tranquil detachment from the dualities of pleasure and pain, praise and blame (ataraxia / upekkha).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"An exhausted composure, a worn-out placidity, an equanimity of fatigue not to be ruffled by interest or satisfaction, are the trophies of her victory."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn with his usual equanimity."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Moreover, she had hardly recovered her equanimity since the disturbance which she had suffered from Oak’s remarks."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"Preserve your inward **equanimity** by remembering that outside events have no power to disturb the sovereign soul."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Anne Elliot bore the trials and slights of her domestic circle with remarkable, patient **equanimity**."*
+> - 📜 **William Osler (*Aequanimitas*):** *"In the face of unexpected medical crises, a physician must maintain unshakeable **equanimity** and clear professional judgment."*

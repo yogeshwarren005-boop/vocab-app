@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same standing before the law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the same standing before the law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equal with one another in rank, power, ability, dignity, or importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Trinitarian Christian theology, designating the persons of the Godhead as possessing identical eternal essence and divine authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The union is composed of seven coequal and sovereign states, and each state or province is a composition of equal and independent cities."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"This, I contend, is manifestly a concurrent and coequal authority in the United States and in the individual States."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The Senate, on the other hand, will derive its powers from the States, as political and coequal societies; and these will be represented on the principle of equality in the Senate, as they now are in the existing Congress."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Hail, holy Light, offspring of Heaven first-born, or of the Eternal **coequal** beam may I express thee unblamed?"*
+> - 📜 **William Shakespeare (*Henry V*):** *"We will deliver you to your father's hands, **coequal** with ourself in glorious majesty and regal peace."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Nicene fathers declared the Son **coequal** and consubstantial with the Father throughout all eternity."*

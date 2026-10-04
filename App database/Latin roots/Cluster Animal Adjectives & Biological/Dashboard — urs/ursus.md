@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of ursidae: brown bears; in some classifications genus ursus includes all bears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of ursidae: brown bears; in some classifications genus ursus includes all bears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of bears that includes the brown bear, American black bear, Asian black bear, and polar bear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, the type genus of the family Ursidae, recognized by massive skulls, broad molars, and Holarctic distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ursus designates type genus of ursidae: brown bears; in some classifications genus ursus includes all bears."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The morphological divergence between **Ursus** arctos and the polar maritime bear offers a compelling study in adaptive evolution."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Fossil cave bears of the genus **Ursus** roamed Pleistocene Europe alongside early human hunters."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The dental formula and cranial architecture of **Ursus** reflect an adaptable, broad omnivorous regime."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equally probable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equally probable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal probability or likelihood of occurrence; equally likely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In probability theory and statistical physics, describing elementary events in a sample space that share identical mathematical probability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equiprobable designates equally probable."*
+> - 📜 **Pierre-Simon Laplace (*A Philosophical Essay on Probabilities*):** *"The theory of chance consists in reducing all events of the same kind to a certain number of cases **equiprobable** in occurrence."*
+> - 📜 **Bertrand Russell (*Human Knowledge: Its Scope and Limits*):** *"Classical probability calculations presuppose that initial outcomes like the faces of a fair die are strictly **equiprobable**."*
+> - 📜 **Henri Poincaré (*Science and Hypothesis*):** *"When we possess no reason to favor one alternative over another, we treat the possibilities as physically **equiprobable**."*

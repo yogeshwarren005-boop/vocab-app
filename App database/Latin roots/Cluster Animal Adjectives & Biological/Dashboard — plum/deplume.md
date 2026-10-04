@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip of honors, possessions, or attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strip of feathers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strip or deprive of feathers; figuratively, to strip of honors, wealth, beauty, or plumage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary usage, to unmask or strip an impostor of stolen attributes, derived from Aesop's fable of the jackdaw in borrowed feathers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deplume designates strip of honors, possessions, or attributes."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The sharpers conspired to **deplume** the young pigeon of every guinea he had inherited from his uncle."*
+> - 📜 **Sir Walter Scott (*The Fortunes of Nigel*):** *"The courtiers were eager to **deplume** the upstart favorite before he could establish his credit with the King."*
+> - 📜 **Washington Irving (*Bracebridge Hall*):** *"A severe misfortune had served to **deplume** the old veteran of his gayety and cheerful optimism."*

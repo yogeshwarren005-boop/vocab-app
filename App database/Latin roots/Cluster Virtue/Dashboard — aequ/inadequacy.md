@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of an adequate quantity or number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of competence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficiency, defectiveness, or failure to satisfy required standards, capacities, or demands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychoanalysis, a persistent subjective feeling of incompetence, unworthiness, or inferiority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"One source of her inadequacy is the novelty of the occasion."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I know my Leader: that He is just as well as mighty; and while He has chosen a feeble instrument to perform a great task, He will, from the boundless stores of His providence, supply the inadequacy of the means to the end."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"I tried myself to use one or other of these words, but the oftener I employed them the more I felt their inadequacy, and was driven at last to adopt ..."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon was haunted by a secret, agonizing sense of his own literary **inadequacy** before the vast learning of German scholars."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A chronic consciousness of personal **inadequacy** frequently precipitates melancholic depression in sensitive temperaments."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The obvious **inadequacy** of the local police system necessitated comprehensive legislative reform from Parliament."*

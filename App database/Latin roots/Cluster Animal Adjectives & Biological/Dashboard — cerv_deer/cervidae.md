@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deer: reindeer; moose or elks; muntjacs; roe deer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deer: reindeer; moose or elks; muntjacs; roe deer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological family of ruminant artiodactyl mammals that comprises all true deer, including elk, moose, caribou, and roe deer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic biology, characterized by deciduous cranial appendages (antlers) grown from pedicles on the frontal bones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervidae designates deer: reindeer; moose or elks; muntjacs; roe deer."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The **Cervidae** exhibit extreme sexual selection, reflected in the extraordinary diversity of antler architecture."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Unlike the hollow-horned Bovidae, members of the **Cervidae** replace their osseous antlers annually."*
+> - 📜 **Richard Lydekker (*The Deer of All Lands*):** *"The family **Cervidae** contains approximately fifty species distributed across the Americas, Eurasia, and northern Africa."*

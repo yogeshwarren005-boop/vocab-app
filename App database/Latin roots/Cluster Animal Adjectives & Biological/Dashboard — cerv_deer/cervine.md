@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling deer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling deer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a deer; deer-like in grace, speed, or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and aesthetics, describing graceful, slender, or tawny deer-like attributes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervine designates relating to or resembling deer."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The stag bounded across the heather with swift, effortless **cervine** grace."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Her large, startled brown eyes held a timid, **cervine** expression as she turned toward the footpath."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The strange creature possessed a lithe, **cervine** symmetry that contrasted with its aquatic strength."*

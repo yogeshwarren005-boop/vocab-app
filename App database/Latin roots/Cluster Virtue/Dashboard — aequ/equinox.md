@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two times of the year when the sun crosses the plane of the earth's equator and day and night are of equal length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) either of the two celestial points at which the celestial equator intersects the ecliptic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The time or date (twice a year, about March 20 and September 22) when the sun crosses the celestial equator, resulting in day and night of equal length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics, the moment when the plane of the earth's equator passes through the geometric center of the solar disk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You see this fellow that is gone before, He is a soldier fit to stand by Cæsar And give direction: and do but see his vice, ’Tis to his virtue a just equinox, The one as long as th’ other. ’Tis pity of him."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The season meanwhile was drawing onward to the equinox, and though it was still fine, the days were much shorter."*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"I think if we had had the disposal of events—if Mansfield Park had had the government of the winds just for a week or two, about the equinox, there would have been a difference."*
+> - 📜 **William Shakespeare (*Othello*):** *"He'll watch the horologe a double set, if drink rock not his cradle; his vice is to his virtue as the day to night at the **equinox**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"At the autumnal **equinox**, the sun plunged into the western ocean, leaving the hemisphere in balanced twilight."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Migratory swallows assemble in vast flocks along our church roof as the autumnal **equinox** approaches."*

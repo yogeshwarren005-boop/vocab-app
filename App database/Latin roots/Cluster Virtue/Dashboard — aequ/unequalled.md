@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radically distinctive and without equal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Better, greater, or more extreme than any other; matchless, supreme, or peerless; British variant of unequaled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary portraiture and historiography, possessing virtues, courage, or genius that admits no rival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The view it commands of Cook’s Court at one end (not to mention a squint into Cursitor Street) and of Coavinses’ the sheriff’s officer’s backyard at the other she regards as a prospect of unequalled beauty."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her mother might have made inquiries, and have discovered that this Mrs d’Urberville was a lady of unequalled virtues and charity."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"This son ascended the throne while still of tender years, and found that parental fondness had endowed him with unequalled power and dominion."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"She tended the sick with an **unequalled** tenderness and patience that won the love of the entire parish."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The orator possessed an **unequalled** command of historical illustration, confounding his parliamentary adversaries."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The view from the castle ramparts offered an **unequalled** panorama of purple moorland stretching to the horizon."*

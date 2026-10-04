@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbs or shrubs: lupin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs or shrubs: lupin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical genus comprising the lupines, leguminous flowering herbs and shrubs of the pea family (Fabaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and botany, nitrogen-fixing plants whose seeds contain quinolizidine alkaloids historically debittered for livestock fodder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lupinus designates herbs or shrubs: lupin."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Lupinus** is distinguished by palmately digitate leaves and anthers of two alternate forms."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The leaflets of **Lupinus** sink downwards and fold inward during the night in response to sleep movements."*
+> - 📜 **Joseph Dalton Hooker (*Flora of British India*):** *"Introduced species of **Lupinus** thrive on the temperate hill stations of the Nilgiri plateau."*

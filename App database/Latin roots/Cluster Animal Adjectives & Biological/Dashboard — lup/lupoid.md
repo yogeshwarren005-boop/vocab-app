@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin lup within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of lup in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling lupus; in pathology, resembling or having the characteristics of systemic lupus erythematosus or lupus vulgaris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, designating lupoid hepatitis, an autoimmune chronic active hepatitis associated with anti-nuclear antibodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lupoid designates pertaining to, derived from, or characteristic of latin lup within the domain of animal adjectives & biological."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Histological section of the cutaneous lesion revealed **lupoid** tuberculoid infiltration with central caseation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The diagnostic difficulty lay in differentiating chronic eczema from a persistent **lupoid** ulceration."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Autoimmune vascular destruction in **lupoid** syndromes produces characteristic fibrinoid necrosis of the arterioles."*

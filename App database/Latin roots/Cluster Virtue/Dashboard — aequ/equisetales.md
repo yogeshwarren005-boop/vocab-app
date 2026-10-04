@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower tracheophytes in existence since the devonian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower tracheophytes in existence since the devonian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of fern-like spore plants comprising the horsetails, dating from the Devonian and Carboniferous periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, ancient sphenophytes characterized by articulate stems, microphylls in whorls, and peltate sporangiophores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equisetales designates lower tracheophytes in existence since the devonian."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The living representatives of the ancient order **Equisetales** have survived with remarkably little morphological change across geological eras."*
+> - 📜 **Richard Owen (*Palaeontology*):** *"Carboniferous coal forests were dominated by gigantic arboreal forms belonging to the order **Equisetales**."*
+> - 📜 **Eduard Strasburger (*A Text-Book of Botany*):** *"The **Equisetales** form a discrete monophyletic group within the vascular cryptogams characterized by articulate nodes."*

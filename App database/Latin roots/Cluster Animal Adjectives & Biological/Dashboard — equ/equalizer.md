@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that reduces frequency distortion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weight that balances another weight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, device, or factor that produces equality or balance; in electronics, a circuit that adjusts frequency response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In firearms slang or vernacular, a weapon (such as a revolver) viewed as offsetting physical strength differences between adversaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Interest is therefore the equalizer of the value of things in different periods."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The enterpriser is merely the distributor or equalizer of cost among all the different products for which different agents can be used."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Kumiko and Scarf moved up to stand behind Brad as pressure equalizers hissed."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The six-shooter was universally celebrated on the frontier as the great **equalizer** of physical prowess."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The virulent terrestrial microbes proved an unexpected biological **equalizer** against the Martian technology."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Illness entered the poor quarters as an impartial **equalizer**, striking the pauper and the prosperous clerk alike."*

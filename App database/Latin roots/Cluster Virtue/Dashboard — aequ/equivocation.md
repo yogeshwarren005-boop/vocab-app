@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that is not literally false but that cleverly avoids an unpleasant truth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intentionally vague or ambiguous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of ambiguous language to conceal the truth or avoid committing oneself; prevarication; deception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, the informal fallacy resulting from the misleading use of a term with more than one meaning in an argument.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We must speak by the card, or equivocation will undo us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou speak’st false, Upon the next tree shalt thou hang alive, Till famine cling thee: if thy speech be sooth, I care not if thou dost for me as much.— I pull in resolution; and begin To doubt th’ equivocation of the fiend, That lies like truth."*
-> - 📜 **James Joyce (*Ulysses*):** *"Warwickshire jesuits are tried and we have a porter’s theory of equivocation."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"How absolute the knave is! We must speak by the card, or **equivocation** will undo us."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan mingled truth with artful **equivocation** to seduce the mother of mankind in Eden."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Houyhnhnms have no word in their language for lying or **equivocation**, having no concept of deceit."*

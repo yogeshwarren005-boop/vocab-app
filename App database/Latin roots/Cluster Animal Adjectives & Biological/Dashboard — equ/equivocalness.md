@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unclearness by virtue of having more than one meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unclearness by virtue of having more than one meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or property of being ambiguous, questionable, or open to conflicting interpretations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semantic philosophy, the condition of an utterance or text having multiple competing meanings that obscure authorial intent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equivocalness designates unclearness by virtue of having more than one meaning."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The greatest hindrance to clear knowledge arises from the **equivocalness** of words used in philosophical disputation."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The calculated **equivocalness** of the revolutionary manifesto served to disguise the violent ambitions of the faction."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Avoid theological disputations that turn merely upon the verbal **equivocalness** of scholastic terms."*

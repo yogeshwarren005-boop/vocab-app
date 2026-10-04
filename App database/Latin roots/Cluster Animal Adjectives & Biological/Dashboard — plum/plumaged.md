@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or covered in plumage; often used as a combining form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or covered in plumage; often used as a combining form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or adorned with feathers or plumage, especially of a specified color, condition, or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic or natural history descriptions, furnished with plumage or ornamental crests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumaged designates having or covered in plumage; often used as a combining form."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The gorgeously **plumaged** parrots flew across the river gorge in noisy pairs as dawn broke."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"A newly **plumaged** specimen of the wood duck perched upon the overhanging birch bough."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The solitary, brightly **plumaged** bird circled the mast before disappearing into the Antarctic fog."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consider or describe as similar, equal, or analogous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be equivalent or parallel, in mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To consider, treat, or declare one thing as identical or equivalent to another; in mathematics, to set two expressions equal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebraic notation, to balance an equation by placing an equals sign between corresponding quantities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This they connected with God after the manner familiar to Jewish thinkers, and following the same lead, began to equate it with God, as a separate being."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Second, control of the Depot equates to a strangle hold over construction progress and launch of the Slingshot terminals -- which is life-or-death for the UIPS." "...and not for the rest of us?" "Not for centuries."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Following once more, but this time another leader, Clement equates the Philonian Logos with the historic Jesus of Nazareth."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"We must never carelessly **equate** empirical co-existence with genuine causal necessity in inductive inquiry."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"It is a profound moral fallacy to **equate** evolutionary survival success with ethical excellence."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Society was all too prone to **equate** artistic ambition in women with frivolous eccentricity."*

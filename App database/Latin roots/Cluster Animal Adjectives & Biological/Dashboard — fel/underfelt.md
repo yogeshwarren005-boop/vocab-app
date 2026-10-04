@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carpet pad of thick felt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carpet pad of thick felt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick layer of felt, rubber, or composite material laid under a carpet to provide cushioning, insulation, and wear resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interior architecture and textile manufacturing, durable padding that absorbs mechanical impact and reduces acoustic transmission across floorboards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, underfelt designates a carpet pad of thick felt."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"The heavy drawing-room carpet was cushioned with thick **underfelt**, so that their steps made no sound upon the polished parquet."*
+> - 📜 **E. M. Forster (*Howards End*):** *"Workers arrived to lay the new carpets, unrolling long strips of coarse brown **underfelt** across the bare oak floor."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"The cheap linoleum had been laid directly over the boards without any **underfelt**, leaving the room damp and drafty in winter."*

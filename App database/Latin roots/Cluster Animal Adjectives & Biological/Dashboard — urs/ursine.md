@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or similar to bears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or similar to bears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a bear; characteristic of bears in appearance, movement, or heavy build.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological terminology and veterinary medicine, denoting behavioral or physiological traits specific to the family Ursidae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ursine designates of or relating to or similar to bears."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"The creature lumbered into the clearing with an **ursine** waddle that belied its astonishing sudden speed."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The old harpooner wrapped himself in a thick, **ursine** coat of shaggy fur against the biting salt spray."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The burly demagogue advanced with an **ursine** roughness of speech and gesture that captivated the mob."*

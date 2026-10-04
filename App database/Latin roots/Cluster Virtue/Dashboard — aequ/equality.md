@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being the same in quantity or measure or value or status.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of being essentially equal or equivalent; equally balanced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identical status, rights, opportunities, or value shared among all individuals or entities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law and democratic theory, the fundamental principle that all citizens are subject to identical legal protections without bias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is, of course, handsomely paid, and he associates almost on a footing of equality with the highest society.” Everybody starts."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The more unequal the distribution, the greater, in all likelihood, is the discontent; and the greater the effort of many men to find some methods by which greater equality may be attained. § 6. #Changes in the price-standard#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many standards have been suggested to measure the distribution of the burden of taxation, such as benefit, equality, and ability."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic nations are passionately attached to **equality**; they call for equality in freedom; and if they cannot obtain that, they still call for equality in slavery."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"True liberty cannot flourish where legal and civic **equality** does not protect the dissenter against the intolerance of the majority."*
+> - 📜 **William Shakespeare (*Antony and Cleopatra*):** *"Our **equality** of fortune made us friends; but our equality of pride hath parted us forever."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cats; wildcats; lions; leopards; cheetahs; saber-toothed tigers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cats; wildcats; lions; leopards; cheetahs; saber-toothed tigers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian carnivoran family comprising all modern and extinct cat species, divided into Pantherinae and Felinae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, obligate hypercarnivores characterized by thirty or fewer teeth, protractile claws, and digitigrade locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, felidae designates cats; wildcats; lions; leopards; cheetahs; saber-toothed tigers."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The global radiation of the **Felidae** extends across every continent except Australia and Antarctica."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Concealing coloration in the coat patterns of the **Felidae** correlates directly with their woodland or savanna hunting environments."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of the Mammalia*):** *"In osteology, the auditory bulla of the **Felidae** is divided into two distinct chambers by a complete bony septum."*

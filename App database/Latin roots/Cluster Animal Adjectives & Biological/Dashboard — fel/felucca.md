@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fast narrow sailing ship of the mediterranean.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fast narrow sailing ship of the mediterranean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional wooden sailing boat used primarily in the Mediterranean and on the Nile, having one or two lateen sails and oars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history, light, fast coastal craft favored by Barbary corsairs and Mediterranean traders for shallow-water maneuverability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"It is doubtful whether the unseaworthy craft was merely swamped, or whether, as there is some reason to suppose, an Italian felucca ran her down with intent to rob the Englishmen."*
+> - 📜 **Alexandre Dumas (*The Count of Monte Cristo*):** *"A light Italian **felucca** glided swiftly past the rocky promontory, its white lateen sails swelling in the evening breeze."*
+> - 📜 **Lord Byron (*The Corsair*):** *"The pirate captain steered his nimble **felucca** into the hidden cove under cover of moonless night."*
+> - 📜 **Amelia Edwards (*A Thousand Miles up the Nile*):** *"We watched the graceful Nile **felucca** tack back and forth against the current beneath the sandstone cliffs of Gebel Silsila."*

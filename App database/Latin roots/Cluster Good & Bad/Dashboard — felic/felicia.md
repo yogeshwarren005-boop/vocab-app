@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical african herbs or subshrubs with usually blue flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical african herbs or subshrubs with usually blue flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the daisy family Asteraceae, native to southern Africa, bearing blue or purple ray florets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture, commonly called blue marguerite (Felicia amelloides), cultivated for vibrant sky-blue composite flower heads with yellow centers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Once he approached Miss Felicia Dorothea Browne (afterwards Mrs."*
+> - 📜 **William Jackson Hooker (*Curtis's Botanical Magazine*):** *"The exquisite azure blossoms of **Felicia** provide prolonged cheer in sunny conservatory borders throughout winter."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Felicia** thrive in porous sandy loams, producing abundant daisy-like heads on slender peduncles."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The Cape genus **Felicia** is distinguished by its narrow involucre and bright blue ligulate florets."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hawkbit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hawkbit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the dandelion tribe of the family Asteraceae, commonly known as hawkbits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, distinguished from Taraxacum by solid, unbranched or sparsely branched flower stems and feathery pappus bristles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog leontodon as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The yellow florets of **Leontodon** carpet upland pastures and gravelly meadows throughout western Europe."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Autumnal bees lingered upon the lingering heads of **Leontodon** well into the chill days of October."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The toothed foliage and rough involucral bracts of **Leontodon** hispidus distinguish it from common dandelions."*

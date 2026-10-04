@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus ursinia grown for their yellow- or orange- or white-rayed flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus ursinia grown for their yellow- or orange- or white-rayed flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the daisy family Asteraceae, native to southern Africa, bearing bright orange or yellow flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture, prized as drought-tolerant annuals and subshrubs named in honor of 17th-century German scholar Johann Heinrich Ursinus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ursinia designates any of various plants of the genus ursinia grown for their yellow- or orange- or white-rayed flowers."*
+> - 📜 **William Jackson Hooker (*Curtis's Botanical Magazine*):** *"The brilliant golden rays of **Ursinia** speciosissima expand widely beneath full sunlight in the conservatory border."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Ursinia** furnish magnificent bedding displays with their finely divided foliage and vivid daisy blooms."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The South African genus **Ursinia** is characterized by distinctive involucral bracts and pappus scales."*

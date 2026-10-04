@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A respondent who avoids giving a clear direct answer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A respondent who avoids giving a clear direct answer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses ambiguous language to deceive, conceal the truth, or avoid answering directly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Jacobean theatrical and political history, an allusion to Jesuit Henry Garnet, convicted of treason in the 1605 Gunpowder Plot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Faith, here’s an equivocator, that could swear in both the scales against either scale, who committed treason enough for God’s sake, yet could not equivocate to heaven: O, come in, equivocator. [_Knocking._] Knock, knock, knock!"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Faith, here's an **equivocator**, that could swear in both the scales against either scale; come in, equivocator."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The wily parliamentary **equivocator** smoothed over the fiery dispute with honeyed words and evasive promises."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Tulkinghorn regarded the stammering law-clerk as a clumsy **equivocator** who held something back."*

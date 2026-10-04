@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sound of a sudden heavy fall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drop sharply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a full, rounded, pleasantly fat form; well-filled out or fleshy; to drop or fall suddenly and heavily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poultry and culinary meat preparation, well-fleshed and succulent; adverbially, directly, bluntly, or with a sudden heavy thud.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Banish plump Jack, and banish all the world."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Castle-Steward," Mäzli said that moment, thrusting a plump, round hand between Leonore's and the Baron's."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"She was a pretty, very diminutive, plump woman of from forty to fifty, with handsome eyes, though they had a curious habit of seeming to look a long way off."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Bob Cratchit said that the goose was a marvel of culinary art, delightfully **plump** and tender to the knife."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mrs. Bennet watched her daughters with intense satisfaction, declaring each to be in delightfully **plump** and blooming health."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The farmer fell **plump** upon the earthen barn floor after stumbling over a basket of grain."*

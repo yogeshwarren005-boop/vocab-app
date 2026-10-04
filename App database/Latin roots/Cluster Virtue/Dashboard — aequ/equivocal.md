@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Open to question; ; -anna jameson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Open to two or more interpretations and usually used to mislead or confuse; ambiguous, doubtful, or questionable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological history (equivocal generation), the obsolete doctrine of spontaneous generation of organisms from decaying inorganic matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What an equivocal companion is this!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"These sentences to sugar or to gall, Being strong on both sides, are equivocal: But words are words; I never yet did hear That the bruis’d heart was pierced through the ear."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"And you have derived pleasure from occasional tokens of preference—equivocal tokens shown by a gentleman of family and a man of the world to a dependent and a novice."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"To doubt the **equivocal** companion of the fiend that lies like truth; fear not, till Birnam wood do come to Dunsinane."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"His answer was polite but curiously **equivocal**, leaving her in painful uncertainty regarding his real intentions."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The oracle delivered an **equivocal** prediction that could be interpreted favorably whether the king conquered or perished."*

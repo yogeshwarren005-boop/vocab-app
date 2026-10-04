@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy or man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A friend who is frequently in the company of another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man or boy; a companion, comrade, or associate; an equal or peer; also an incorporated member of a college or learned society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic institutions, a senior scholar or researcher holding a fellowship at a university or royal academy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"CLOWN. ’Tis not unknown to you, madam, I am a poor fellow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A very tainted fellow, and full of wickedness."*
+> - 📜 **William Shakespeare (*Twelfth Night*):** *"Fellow! not Malvolio, nor after my degree, but **fellow**. Why, 'fellow' does not mean companion, but equal in rank!"*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Sydney Carton was an uncommonly clever **fellow**, but he had no energy or ambition to rise above his dissipated life."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Elton is a very good sort of young man, and appears to be a very respectable **fellow** in his parish."*

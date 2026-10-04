@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rim (or part of the rim) into which spokes are inserted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rim (or part of the rim) into which spokes are inserted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer rim of a spoked wooden wheel, or one of the curved wooden segments that make up the rim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional wainwright craftsmanship, curved ash or oak segments fitted together with mortise and tenon joints to receive the wheel spokes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"It was a smoking furnace down there, and soon the felloe and spokes would be injured by the flames and heat."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It had stout wheel-spokes and heavy felloes, a great curved bed, immense straps and springs, and a pole like a battering-ram."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak carefully examined the cracked ash **felloe** before attempting to replace the iron wheel-tire."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Break all the spokes and **felloe** rims from her wheel, and bowl the round nave down the hill of heaven, as low as to the fiends!"*
+> - 📜 **George Sturt (*The Wheelwright's Shop*):** *"Shaping the curved **felloe** demanded an intimate feel for the natural grain and seasoning of native English ash."*

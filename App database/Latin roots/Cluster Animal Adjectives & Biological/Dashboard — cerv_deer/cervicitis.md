@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the uterine cervix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the uterine cervix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membrane lining the cervix of the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology, an infection or chemical irritation often caused by Chlamydia trachomatis, Neisseria gonorrhoeae, or herpes simplex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervicitis designates inflammation of the uterine cervix."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic mucopurulent **cervicitis** requires bacteriological identification to ensure appropriate antibiotic therapy."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Epithelial erosion during acute **cervicitis** exposes the underlying vascular stroma of the external os."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"Clinical inspection reveals localized erythema and discharge characteristic of persistent **cervicitis**."*

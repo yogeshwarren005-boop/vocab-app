@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensate; make the score equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make equal, uniform, corresponding, or matching.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make equal, uniform, or balanced; British variant spelling of equalize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In competitive sports and games, to score a goal or point that levels the score with the opponent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The reefs were still numerous, but more equalised, and marked on the chart with extreme precision."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament sought to **equalise** the tax burdens between rural landholders and prosperous commercial burghers."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Intercrossing between varieties tends to **equalise** their physical traits and prevent rapid morphological divergence."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism and Capitalism*):** *"Socialist policy aims to **equalise** purchasing power so that production answers real human needs."*

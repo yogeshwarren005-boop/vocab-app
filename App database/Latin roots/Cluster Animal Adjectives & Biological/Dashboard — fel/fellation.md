@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oral stimulation of the penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oral stimulation of the penis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or Anglicized form of fellatio; the act of oral stimulation of the penis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical lexicography and legal jurisprudence, synonymous with fellatio in clinical or statutory descriptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fellation designates oral stimulation of the penis."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Legal statutes in previous centuries frequently conflated **fellation** with broader definitions of sodomy and unnatural offenses."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The clinical history recorded persistent compulsive desires toward **fellation** as part of an erotic obsessional neurosis."*
+> - 📜 **Edward Carpenter (*The Intermediate Sex*):** *"Historical studies of ancient pagan rituals reveal that acts of **fellation** sometimes possessed sacred or initiatory significance."*

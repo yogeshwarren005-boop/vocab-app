@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equality of distribution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equality of distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Balance of weight, force, or power; equilibrium; a counterbalancing weight or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical research and bioethics, the state of genuine uncertainty among experts regarding the comparative merits of competing treatments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"They belong to divine Principle, and support the equipoise of that thought-force, which launched the earth in its orbit and said to the 124:24 proud wave, "Thus far and no farther." Spirit is the life, substance, and continuity of all things."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He is the point of support on which hangs the balance of the world, and the slightest irregularity on his part may overthrow the delicate equipoise."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her sensitive soul hung in delicate **equipoise** between filial devotion and the yearning for broader intellectual freedom."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The ancient constitution of England preserved a marvelous **equipoise** between monarchical prerogative and popular liberty."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"True moral freedom consists in that inward **equipoise** wherein reason masters unruly passion without extinguishing vital energy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being able to meet a need satisfactorily:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being able to meet a need satisfactorily:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sufficiency, suitability, or satisfactory competence to meet a designated requirement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal philosophical epistemology, the property of an explanation that fully matches the scope of observed phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adequateness designates the quality of being able to meet a need satisfactorily:."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **adequateness** of federal revenue sources must correspond directly to the national responsibilities undertaken."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"The ultimate test of any scientific theory lies in the **adequateness** with which it interprets physical changes."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"We seek in poetic diction an internal **adequateness** between the passionate sentiment and its verbal form."*

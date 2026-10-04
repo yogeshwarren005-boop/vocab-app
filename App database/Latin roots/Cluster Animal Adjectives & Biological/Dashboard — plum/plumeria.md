@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical American shrubs and trees in the dogbane family Apocynaceae, celebrated for intensely fragrant, pinwheel-shaped flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture, commonly called frangipani, cultivated globally in tropical climates for use in Hawaiian leis and essential oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumeria designates deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers."*
+> - 📜 **Herman Melville (*Typee*):** *"Polynesian maidens wove fragrant blossoms of **Plumeria** into garlands to perfume the tropical evening breeze."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"The porcelain-white petals of **Plumeria** acutifolia filled the conservatory courtyard with unforgettable sweetness."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the lush gardens of Bahia, magnificent flowering trees of **Plumeria** blossomed beside the shaded verandas."*

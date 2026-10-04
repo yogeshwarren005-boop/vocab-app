@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant of the genus aquilegia having irregular showy spurred flowers; north temperate regions especially mountains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant of the genus aquilegia having irregular showy spurred flowers; north temperate regions especially mountains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic botanical name for the columbine plant (Aquilegia); also historically an apparatus for catching or collecting water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological folklore, associated either with the Latin aquila (from the claw-like spurs of the flower) or aqua (water-collector).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquilege designates a plant of the genus aquilegia having irregular showy spurred flowers; north temperate regions especially mountains."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The garden **aquilege**, or columbine, yieldeth flowers with hooked spurs resembling the talons of an eagle."*
+> - 📜 **Nicholas Culpeper (*The English Physician*):** *"Leaves of the wild **aquilege** boiled in wine were prescribed by ancient herbalists to open obstructions of the liver."*
+> - 📜 **William Turner (*A New Herball*):** *"In woodland glades the blue-flowered **aquilege** noddeth gracefully upon its slender stalks in June."*

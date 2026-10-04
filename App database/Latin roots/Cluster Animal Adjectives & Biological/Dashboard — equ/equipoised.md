@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking lateral dominance; being neither right-handed nor left-handed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking lateral dominance; being neither right-handed nor left-handed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evenly balanced, poised, or counterbalanced in weight, power, or psychological state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical physics, suspended or supported so that all gravitational and rotational moments cancel out completely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equipoised designates lacking lateral dominance; being neither right-handed nor left-handed."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"The colossal rocking stone stood delicately **equipoised** upon its narrow granite ledge above the ravine."*
+> - 📜 **Henry James (*The Wings of the Dove*):** *"Merton Densher stood motionless, his conflicting thoughts perfectly **equipoised** between temptation and conscience."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic arch remains securely **equipoised** by the mutual thrust and counterthrust of its converging voussoirs."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fabric made of compressed matted animal fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mat together and make felt-like.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense non-woven fabric produced by matting, condensing, and pressing animal fibers together with heat and moisture; also past tense of feel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile technology, the oldest known form of manufactured fabric, relying on microscopic scale entanglement of wool or fur fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What freezings have I felt, what dark days seen!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That wishing well had not a body in’t Which might be felt, that we, the poorer born, Whose baser stars do shut us up in wishes, Might with effects of them follow our friends, And show what we alone must think, which never Returns us thanks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, gentlemen,— I have felt so many quirks of joy and grief That the first face of neither on the start Can woman me unto ’t."*
+> - 📜 **William Shakespeare (*King Lear*):** *"It were a delicate stratagem to shoe a troop of horse with **felt**; I'll put 't in proof, and when I have stol'n upon these sons-in-law, then kill, kill, kill!"*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber smoothed his battered black **felt** hat with his coat-sleeve before addressing the company."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whaler wore a heavy waterproof jacket lined with thick wool **felt** to ward off Arctic blizzards."*

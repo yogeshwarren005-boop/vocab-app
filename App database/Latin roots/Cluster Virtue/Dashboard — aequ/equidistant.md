@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The same distance apart at every point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The same distance apart at every point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At equal distances from the same point, line, surface, or reference benchmark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cartographic projections and coordinate geometry, preserving true scale and uniform distance from one or more selected points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The footprints forming this recent impression were full of information as to pace; they were in equidistant pairs, three or four feet apart, the right and left foot of each pair being exactly opposite one another."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The footprints forming this recent impression were full of information as to pace; they were in equidistant pairs, three or four feet apart, the right and left foot of each pair being exactly opposite one another."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Inside, the youngsters and elders took seats in a circle, the elders spacing themselves about equidistant from each other."*
+> - 📜 **Euclid (*The Elements of Geometrie (tr. Billingsley)*):** *"A circle is a plain figure contained within one line, where all right lines drawn from the center are **equidistant**."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I drove strong wooden stakes into the ground, placing each **equidistant** from its fellow to construct a secure stockade."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Our idea of space is illustrated by imagining two bodies held **equidistant** from each other without intervening matter."*

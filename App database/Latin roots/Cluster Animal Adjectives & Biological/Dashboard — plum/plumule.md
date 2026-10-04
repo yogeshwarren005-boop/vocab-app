@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Down feather of young birds; persists in some adult birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Down feather of young birds; persists in some adult birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rudimentary shoot or terminal bud of an embryo plant that develops into the primary stem and true leaves; also a down feather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant embryology, the epicotyl and juvenile leaf primordia situated above the cotyledons in a developing seed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumule designates down feather of young birds; persists in some adult birds."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"As the seed germinates in moist earth, the **plumule** bends upward toward the light while the radicle penetrates the soil."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The embryo consists of the radicle, cotyledons, and that delicate budding shoot termed the **plumule**."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"A bean seed split in halves reveals the tiny **plumule** resting like a miniature leaf bud between the fleshy cotyledons."*

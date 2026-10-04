@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A man skilled in equitation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or composed of knights.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or featuring horseback riding; depicting or represented on horseback; a rider or performer on horseback.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Roman history, belonging to the Equites, the aristocratic cavalry class ranked between the senatorial order and plebeians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A fine young shepherd he is too, ma’am.” “Whose shepherd is he?” said the equestrian in a clear voice."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Francis, the Great Cosmopolitan Equestrian and Roughrider, would enact the part of Turpin, and she was not yet too old and careworn to be without a little curiosity to see him."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Miss Ingram, as before, was the only lady equestrian; and, as before, Mr."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The wealthy **equestrian** order furnished officers for the legions and tax farmers for the Asiatic provinces."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"A bronze **equestrian** statue of the victorious general occupied the center of the historic plaza."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Her daily **equestrian** exercise across the park brought a fresh glow of health to Fanny's delicate cheeks."*

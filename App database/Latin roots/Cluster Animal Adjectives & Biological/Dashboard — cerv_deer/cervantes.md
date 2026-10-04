@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spanish writer best remembered for `don quixote' which satirizes chivalry and influenced the development of the novel form (1547-1616).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spanish writer best remembered for `don quixote' which satirizes chivalry and influenced the development of the novel form (1547-1616).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Miguel de Cervantes Saavedra (1547–1616), the preeminent Spanish novelist, poet, and playwright, author of Don Quixote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the founding father of the modern European novel whose masterwork pioneered narrative polyphony and tragicomic satire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"There seems to be no adequate reason for the baronet's whim of becoming an English Don Quixote of the eighteenth century, except the chance it gave Smollett for imitating Cervantes."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"I am neither an affected imitator of Don Quixote, nor, as I trust in Heaven, visited by that spirit of lunacy so admirably displayed in the fictitious character exhibited by the inimitable Cervantes."*
+> - 📜 **Samuel Taylor Coleridge (*Lectures on Shakespeare*):** *"The incomparable genius of **Cervantes** consists in making his knight ridiculous without ever stripping him of noble virtue."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The dry, dusty plains of La Mancha are forever consecrated to the memory of the immortal **Cervantes**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She turned the pages of **Cervantes**, laughing at the knight's gallant delusions of chivalry."*

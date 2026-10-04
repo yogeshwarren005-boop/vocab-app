@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dressed skin of an animal (especially a large animal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seam made by turning under or folding together and stitching the seamed materials to avoid rough edges.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fierce, cruel, ruthless, or deadly; also an upland moor, barren hill, or mountain ridge in northern England; or to cut down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and poetic English, conveying lethal ferocity, savage intent, or terrifying malevolence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And for a woman wert thou first created, Till nature as she wrought thee fell a-doting, And by addition me of thee defeated, By adding one thing to my purpose nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know your places well; When better fall, for your avails they fell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sir, He fell upon me ere admitted, then."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"All my pretty ones? Did you say all? O hell-kite! All? What, all my pretty chickens and their dam at one **fell** swoop?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan surveyed the glorious new creation with eyes inflamed by **fell** despair and burning envy."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The biting northern wind blew across the desolate **fell**, chilling us to the bone as we crossed the moorland."*

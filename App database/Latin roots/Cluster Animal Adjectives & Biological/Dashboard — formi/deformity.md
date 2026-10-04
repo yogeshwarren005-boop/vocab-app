@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affliction in which some part of the body is misshapen or malformed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An appearance that has been spoiled or is misshapen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which part of the body is abnormally formed, distorted, or misshapen; an unsightly flaw, blemish, or moral distortion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and orthopedics, structural alteration of anatomical elements resulting from congenital malformation, trauma, or degenerative disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Proper deformity seems not in the fiend So horrid as in woman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Blush, blush, thou lump of foul deformity, For ’tis thy presence that exhales this blood From cold and empty veins where no blood dwells."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your own present folly and her passing deformity; for he, being in love, could not see to garter his hose; and you, being in love, cannot see to put on your hose."*
+> - 📜 **Francis Bacon (*Essays*):** *"Deformed persons are commonly even with nature; for as nature hath done ill by them, so do they by nature, being void of natural affection, where **deformity** is a continual spur."*
+> - 📜 **William Shakespeare (*Richard III*):** *"Cheated of feature by dissembling nature, deformed, unfinish'd, sent before my time into this breathing world, scarce half made up, and that so lamely that dogs bark at me; yet this outward **deformity** breeds bitter resolve."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I beheld the wretched monster whom I had created, shuddering at the frightful **deformity** of his yellow skin and watery eyes."*

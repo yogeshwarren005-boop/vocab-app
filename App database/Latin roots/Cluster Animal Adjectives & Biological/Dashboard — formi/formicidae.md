@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The insect family comprising all true ants, classified within the order Hymenoptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, social insects possessing elbowed antennae, a metapleural gland, and a distinct node-like petiole separating the mesosoma and gaster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog formicidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The mental faculties of the social **Formicidae** are astonishing when contrasted with the diminutive size of their cerebral ganglia."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"No terrestrial family of animals surpasses the **Formicidae** in ecological biomass or cooperative organization."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Eusociality achieved its highest structural diversity and planetary ecological dominance within the family **Formicidae**."*

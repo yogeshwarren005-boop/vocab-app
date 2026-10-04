@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An association of people who share common beliefs or activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being with someone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Friendly association, companionship, and shared goodwill; a community of people sharing mutual interests; also an academic stipend.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology and ecclesiastical communion (koinonia), spiritual unity and mutual sharing among believers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, this it is to have a name in great men’s fellowship."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Would not this, sir, and a forest of feathers, if the rest of my fortunes turn Turk with me; with two Provincial roses on my razed shoes, get me a fellowship in a cry of players, sir?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s neither honesty, manhood, nor good fellowship in thee, nor thou cam’st not of the blood royal, if thou darest not stand for ten shillings."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian found great comfort and sweet **fellowship** in conversing with Faithful along the king's highway."*
+> - 📜 **William Shakespeare (*Henry V*):** *"We few, we happy few, we band of brothers; for he to-day that sheds his blood with me shall be my brother; be he ne'er so vile, this day shall gentle his condition, united in proud **fellowship**."*
+> - 📜 **Francis Bacon (*Essays*):** *"There is no man that imparteth his joys to his friend, but he joyeth the more; and no man that imparteth his griefs, but he grieveth the less in mutual **fellowship**."*

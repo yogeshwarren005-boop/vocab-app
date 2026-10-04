@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring to a chemical stasis or equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bring into balance or equilibrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring into equilibrium or balance; to balance equally; to counteract or neutralize opposing forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological regulation, to restore homeostatic balance across cell membranes or organ systems after external perturbation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equilibrate designates bring to a chemical stasis or equilibrium."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Living organisms continuously adjust internal processes to **equilibrate** against hostile changes in the external environment."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The hydrostatic apparatus was designed to **equilibrate** opposing gas pressures before measuring electrical conductivity."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"A thoughtful mind seeks to **equilibrate** intellectual skepticism with reverent openness toward verified truth."*

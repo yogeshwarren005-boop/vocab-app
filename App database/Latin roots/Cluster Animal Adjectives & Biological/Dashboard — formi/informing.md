@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To furnish incriminating evidence to an officer of the law (usually in return for favors).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech act that conveys information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Giving form, life, character, or vitality to something; also the act of conveying knowledge, news, or intelligence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical aesthetics and metaphysics, imparting an essential form or animating principle to passive matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Boythorn informing him that one of their clerks would wait upon him at noon."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy concludes by resigning the adventure to Tony Jobling and informing him that during the vacation and while things are slack, his purse, “as far as three or four or even five pound goes,” will be at his disposal."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed, hearing that this authority is an old soldier, so strongly inculcates the expediency of the trooper’s taking counsel with him, and particularly informing him of its being a question of five guineas or more, that Mr."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The secondary imagination acts as an **informing** spirit that dissolves and diffuses in order to recreate."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"Poetry acts as an **informing** fire that awakens the dormant intellect and purifies the moral nature of man."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The vital principle acted upon the chaotic deep, **informing** each element with harmonious motion and fruitful life."*

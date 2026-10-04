@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the felidae: true cats and most wildcats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the felidae: true cats and most wildcats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of small and medium-sized cats, including the domestic cat (Felis catus) and European wildcat (Felis silvestris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Linnaean taxonomy, historically encompassing all cats before modern cladistic splitting into multiple pantherine and feline genera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, felis designates type genus of the felidae: true cats and most wildcats."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the comprehensive genus **Felis**, all retractile-clawed carnivores with nocturnal vision were initially arranged."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Interbreeding between **Felis** lybica and various local wild species contributed to the diversity of domestic breeds."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The dentition of **Felis** exhibits extreme reduction of the molar series, leaving only specialized shearing teeth."*

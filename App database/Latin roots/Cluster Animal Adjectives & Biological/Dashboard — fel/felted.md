@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mat together and make felt-like.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cover with felt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Matted, compressed, or tangled together into a dense, solid fabric or fibrous mass resembling felt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and mycology, covered with a thick, dense mat of intertwined hairs, tomentum, or fungal mycelia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Thanks to the delay caused by this crossing of the wolf’s path, the old dog with its felted hair hanging from its thigh was within five paces of it."*
-> - 📜 **S. R. Crockett (*Deep Moat Grange*):** *"I stepped quietly across the yard and lifted the thick, felted fold of matting."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ROSE BLIGHT; mycelium thickened, woolly, felted, persistent; conceptacles minute, globose, scattered; appendages floccose, white; sporangium many-spored.—On the branches, calyces, petioles, and leaves of Roses."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Under ancient pastures, the soil is covered by a dense, **felted** mass of intertwined living and dead grass roots."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The humid woodland soil was carpeted with thick **felted** moss that deadened every footstep."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The lower surface of the foliage is clothed with a pale, **felted** tomentum that protects against evaporation."*

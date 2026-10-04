@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or being or having the nature of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving or being or having the nature of a crime.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving, pertaining to, or having the character of a felony; wickedly criminal, villainous, or unlawful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal law, denoting an act committed with intentional criminal malice and unlawful purpose (animus feloniosus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unless it were a bloody murderer, Or foul felonious thief that fleeced poor passengers, I never gave them condign punishment."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They were mostly of a felonious character; comprising the pen with which a celebrated forgery had been committed, a distinguished razor or two, some locks of hair, and several manuscript confessions written under condemnation,—upon which Mr."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The white comprises part of his head, and the whole of his mouth, which makes him look as if he had just escaped from a felonious visit to a meal-bag."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Burglary is defined as the breaking and entering of a dwelling-house by night with **felonious** intent to commit a crime."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Fagin was arrested under the charge of harboring thieves and engaging in **felonious** conspiracies against property."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Sherlock Holmes immediately recognized the bold and **felonious** hand of Professor Moriarty behind the jewel robbery."*

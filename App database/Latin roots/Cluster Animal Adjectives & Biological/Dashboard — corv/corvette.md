@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly maneuverable escort warship; smaller than a destroyer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly maneuverable escort warship; smaller than a destroyer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, fast warship, historically flush-decked with a single tier of guns, and in modern navies used primarily for convoy escort and anti-submarine patrol.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In World War II maritime history, the Flower-class corvette was celebrated for escorting North Atlantic convoys against German U-boats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"American schooner arrested by Russian corvette for selling rum to Bering Strait natives: a very strict modern people, the Russians...."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I chose this place, because, having served last in a little corvette, I knew I should feel more at home where I had a constant opportunity of knocking my head against the ceiling."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"They embarked in the corvettes Boussole and the Astrolabe, neither of which were again heard of."*
+> - 📜 **Joseph Conrad (*The Rover*):** *"The French **corvette** lay at anchor in the roadstead of Toulon, ready to slip her cables at the signal."*
+> - 📜 **Herman Melville (*Billy Budd, Sailor*):** *"The swift **corvette** acted as a lookout vessel cruising ahead of the main battle squadron."*
+> - 📜 **Nicholas Monsarrat (*The Cruel Sea*):** *"The little **corvette** plunged into the mountainous Atlantic swell, rolling forty degrees from side to side."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not interchangeable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not interchangeable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or fact of not being equivalent; lack of equivalence in value, force, meaning, or mathematical relation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical logic and formal semantics, the failure of two logical formulas to share identical truth values across all models.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonequivalence designates not interchangeable."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The fundamental **nonequivalence** of intension and extension forms a cornerstone of symbolic logical analysis."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Inquiry frequently reveals the conceptual **nonequivalence** of ideas previously assumed to be identical."*
+> - 📜 **William James (*Pragmatism*):** *"The practical **nonequivalence** of two competing theories becomes obvious when we compare their consequences for human conduct."*

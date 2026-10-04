@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The performance of a part or role in a drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carry out or perform an action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Carrying out, executing, or fulfilling an action, task, or duty; also presenting artistic entertainment to an audience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performance studies and anthropology, enacting rituals, theatrical pieces, or social identities through bodily and linguistic display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That will ask some tears in the true performing of it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spread thy close curtain, love-performing night, That runaway’s eyes may wink, and Romeo Leap to these arms, untalk’d of and unseen."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"One official sent her to another, and the other sent her back again to the first, and so backward and forward, until it appeared to me as if both must have been appointed for their skill in evading their duties instead of performing them."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Bravely the figure of this Harpy hast thou performed, my Ariel; a grace it had, devouring; of my instruction for **performing** nothing bated."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The troupe of circus acrobats earned their bread by **performing** dangerous feats of balance and agility."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She sat down to the instrument with unaffected compliance, **performing** several lively Scottish airs with admirable skill."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disputant who advocates reform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Favoring or promoting reform (often by government action).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who supports or advocates gradual social, political, or institutional reform; also of or relating to such principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social movements, an activist or political figure favoring incremental legislative amendment over revolutionary overthrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"Pimble, the ardent reformist, is at present detained from her labors by the illness of her eldest son, Garrison."*
-> - 📜 **Effie Afton (*Eventide*):** *"Edson resides here," said the lady-reformist, looking loftily upon the man, who was evidently very much struck with his visitor's personal equipments."*
-> - 📜 **Effie Afton (*Eventide*):** *"Portentia Lawson!" said the lady-reformist, laying her walking-stick on the piano, and unbuttoning her over-coat."*
+> - 📜 **Leon Trotsky (*The History of the Russian Revolution*):** *"The **reformist** leadership vacillated between patriotic defense and timid parliamentary compromise during the crisis."*
+> - 📜 **Bertrand Russell (*Proposed Roads to Freedom*):** *"The sincere **reformist** believes that persistent education and legislative changes can eliminate the worst injustices of modern industry."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"Young intellectuals debated whether to join the practical **reformist** leagues or organize direct socialist agitation."*

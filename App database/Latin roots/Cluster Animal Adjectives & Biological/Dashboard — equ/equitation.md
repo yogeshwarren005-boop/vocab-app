@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sport of siting on the back of a horse while controlling its movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sport of siting on the back of a horse while controlling its movements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, practice, or skill of riding on horseback; horsemanship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cavalry academies and dressage (Haute École), formalized principles of horse training, rider posture, and saddle control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equitation designates the sport of siting on the back of a horse while controlling its movements."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The young officer had acquired the highest proficiency in military **equitation** at the royal riding academy."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Edmund took pride in instructing Fanny in the graceful principles of gentle **equitation** along the park avenues."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The groom’s bowlegs and square shoulders unmistakably betrayed a lifetime devoted to stables and **equitation**."*

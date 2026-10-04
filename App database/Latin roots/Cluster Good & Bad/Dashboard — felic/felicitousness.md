@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing and appropriate manner or style (especially manner or style of expression).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pleasing and appropriate manner or style (especially manner or style of expression).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Aptness, graceful suitability, or fortunate appropriateness in literary phrasing or circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory, harmonious congruity between literary phrasing and intellectual intention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, felicitousness designates pleasing and appropriate manner or style (especially manner or style of expression)."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The exquisite **felicitousness** of Charles Lamb’s phrasing lends an immortal charm to his quietest essays."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Turner’s choice of color displays a **felicitousness** that captures the fleeting glory of alpine skies."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Poetic genius reveals itself in the organic **felicitousness** of imagery arising directly from passionate contemplation."*

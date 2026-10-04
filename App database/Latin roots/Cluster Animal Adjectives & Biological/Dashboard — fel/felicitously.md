@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a felicitous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a felicitous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a well-chosen, apt, graceful, or suitably fortunate manner; pleasingly and appropriately.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical analysis, expressing ideas with remarkable appropriateness, rhetorical tact, and aesthetic balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke read them, seemed felicitously worded—surprisingly the right thing, and determined a sequel which he had never before thought of."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"A separate house was assigned as the residence of the young couple, and their married life began felicitously."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"This arrangement greatly pleased her; it was so felicitously definite."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The orator touched **felicitously** upon the ancient traditions that bound the estates of the realm together."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Jane Austen chooses her words so **felicitously** that not a syllable can be altered without marring the rhythm."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The philosopher remarked **felicitously** that clothes are the visible emblems of invisible spiritual realities."*

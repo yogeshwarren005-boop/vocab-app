@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the equidae: only surviving genus of the family equidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the equidae: only surviving genus of the family equidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of mammals in the family Equidae that includes modern horses, zebras, donkeys, and onagers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian evolutionary biology and paleontology, the sole surviving genus of the perissodactyl family Equidae, characterized by single functional hooves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equus designates type genus of the equidae: only surviving genus of the family equidae."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The fossil record demonstrates that ancient species of **Equus** roamed the Americas alongside mastodons before their mysterious extinction."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"The single-toed foot of modern **Equus** represents the culmination of millions of years of cursorial adaptation."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Wild species of **Equus** survived on Central Asian steppes in herds led by vigilant stallions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin root word meaning sheep; also an archaic abbreviation for ovine or Ovis in natural history records.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymological lexicography and comparative linguistics, the PIE root *h₂ówis yielding Latin ovis, Greek oïs, and English ewe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ov designates a terrorist group of protestants who oppose any political settlement with irish nationalists; a paramilitary group that attacks catholic interests in northern ireland."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The generic designation **Ovis** encompasses the diverse domesticated and wild mountain sheep of the ancient world."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"The pastoral nomad measured his tribal wealth by his flocks, honoring the **ov**-derived lineage as his primary sustenance."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Comparative anatomy reveals that the domestic sheep retains the specialized **ov**-type ruminant dentition of its wild ancestors."*

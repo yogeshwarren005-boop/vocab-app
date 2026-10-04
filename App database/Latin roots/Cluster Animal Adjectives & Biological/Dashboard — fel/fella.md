@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy or man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy or man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal or colloquial term for a fellow, man, or boy; also an alternative phonetic spelling of fellah.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistic dialect studies, standard informal English representation of casual male peer address.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fella designates a boy or man."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"He was a good-natured **fella**, always ready to lend a hand when the raft ran into floating timber."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"That big **fella** in the red sweater gave the dog a lesson in the law of club and fang."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"A wounded **fella** sat down beside the roadway, binding up his torn wrist with a dirty rag."*

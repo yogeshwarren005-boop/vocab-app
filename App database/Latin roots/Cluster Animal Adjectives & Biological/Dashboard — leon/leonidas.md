@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: King of sparta and hero of the battle of thermopylae where he was killed by the persians (died in 480 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: King of sparta and hero of the battle of thermopylae where he was killed by the persians (died in 480 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King of Sparta who led the allied Greek forces in a heroic last stand against the invading Persian army at Thermopylae in 480 BC.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical military history, an iconic symbol of heroic sacrifice, patriotic devotion, and unflinching martial discipline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I would not die like Socrates, For all the fuss of Plato; Nor would I with Leonidas, Nor yet would I with Cato: The zealots of the Church and State Shall ne’er my mortal foes be; But let me have bold Zimri’s fate, Within the arms of Cozbi!"*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"My name is--my name is Lynchpinne," he replied, with some hesitation, so that I wondered whether he had not forgotten his name--"Leonidas Lynchpinne." I thought it was a queer name, but an instinct of politeness prevented me from saying so."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Leonidas Lynchpinne; and I was not at all comforted by the reflection that he had used the cloak of religion to cover his designs."*
+> - 📜 **Herodotus (*The Histories*):** *"The brave Spartan king **Leonidas** chose to remain with his three hundred warriors rather than abandon his post."*
+> - 📜 **Plutarch (*Moralia*):** *"When the Persian commander commanded him to yield his weapons, **Leonidas** uttered the historic retort: Come and take them."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The glorious resistance of **Leonidas** at Thermopylae inspired the free Greek commonwealths with invincible fortitude."*

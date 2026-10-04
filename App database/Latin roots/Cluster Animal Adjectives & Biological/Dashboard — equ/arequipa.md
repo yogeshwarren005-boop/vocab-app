@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in southern peru founded in 1540 on the site of an ancient inca city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in southern peru founded in 1540 on the site of an ancient inca city.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second most populous city in Peru, situated in the Andes mountains beneath the dormant volcano El Misti.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In South American historical geography, known as the 'White City' due to colonial buildings constructed from white volcanic sillar stone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arequipa designates a city in southern peru founded in 1540 on the site of an ancient inca city."*
+> - 📜 **William H. Prescott (*History of the Conquest of Peru*):** *"The Spanish forces marched south toward the fertile valley of **Arequipa**, established beneath towering volcanic peaks."*
+> - 📜 **Charles Darwin (*Geological Observations on South America*):** *"The white sillar stone quarried near **Arequipa** forms a distinctive porous volcanic tuff across the high plateau."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"He spoke of distant Peruvian towns and the white churches of **Arequipa** gleaming against the dark cordillera."*

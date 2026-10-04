@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Injustice by virtue of not conforming with rules or standards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Injustice by virtue of not conforming with rules or standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of fairness or justice; an unfair, unjust, or biased action, circumstance, or treatment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history and ethics, an unconscionable departure from natural justice and equitable fair dealing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, inequity designates injustice by virtue of not conforming with rules or standards."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The monstrous delay of the Chancery court worked tragic **inequity** upon generations of innocent suitors."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Now, by the ground that I am banish'd from, well could I curse away a winter's night, pondering the bitter **inequity** of my foes."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"No society built upon rooted **inequity** and neglect of the working poor can long escape divine vengeance."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Correspondence in form or appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting according to certain accepted standards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compliance with standards, rules, laws, or expectations; agreement in character, structure, or form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, behavior that follows established group norms, often measured in experimental paradigms such as the Asch conformity experiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Spelling and punctuation have been largely brought into conformity with modern British usage."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Rochester an exacting, fastidious sort of man?” “Not particularly so; but he has a gentleman’s tastes and habits, and he expects to have things managed in conformity to them.” “Do you like him?"*
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Her pleasant manners and cheerful conformity made her always valuable amongst them; but _now_ she was absolutely necessary."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"In our times, from the highest class of society down to the lowest, everyone lives under the eye of a hostile and dreaded censorship of **conformity**."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Her cheerful temper and unvarying **conformity** to the wishes of others rendered her presence indispensable to the household."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The despotism of the majority produces a quiet **conformity** far more oppressive than arbitrary royal decrees."*

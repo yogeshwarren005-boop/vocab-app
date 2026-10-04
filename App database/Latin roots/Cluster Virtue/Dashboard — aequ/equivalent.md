@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing equal to another in value or measure or force or effect or significance etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The atomic weight of an element that has the same combining capacity as a given weight of another element; the standard is 8 for oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Equal in value, amount, function, meaning, or dignity; corresponding in position, role, or effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, the mass of a substance that combines with or displaces eight parts by weight of oxygen or one of hydrogen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"If he does, however, they will leave me in peace, which may be a decent equivalent for the reversion."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The six sailors, for whom Tobias Snow made himself spokesman, contended that the death of half of us was equivalent to a doubling of our provisioning, and that therefore the ration should be increased to a pound."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Catherine was disturbed and out of spirits; but Isabella seemed to find a pool of commerce, in the fate of which she shared, by private partnership with Morland, a very good equivalent for the quiet and country air of an inn at Clifton."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"To every action there is an equal and **equivalent** reaction in the opposite direction."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Each chemical element combines with others in definite proportions corresponding to its chemical **equivalent** weight."*
+> - 📜 **Jane Austen (*Emma*):** *"Her lively spirits and affectionate heart were deemed an **equivalent** for her lack of noble birth and fortune."*

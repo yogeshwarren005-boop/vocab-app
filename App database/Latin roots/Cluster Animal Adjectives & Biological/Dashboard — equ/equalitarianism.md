@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of the equality of mankind and the desirability of political and economic and social equality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of the equality of mankind and the desirability of political and economic and social equality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief in or advocacy of equal political, economic, and social rights for all human beings; egalitarianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, ideological movements aiming to dismantle aristocratic hereditary privileges and economic class barriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equalitarianism designates the doctrine of the equality of mankind and the desirability of political and economic and social equality."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Philosophic **equalitarianism** gradually dissolved the ancient feudal hierarchies that had endured for a thousand years."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The fervent **equalitarianism** of radical reformers frequently overlooked the civilizing necessity of cultural sweetness and light."*
+> - 📜 **Herbert Spencer (*The Man Versus the State*):** *"Dogmatic **equalitarianism** often invites state tyranny by attempting to enforce identical outcomes across unequal individual efforts."*

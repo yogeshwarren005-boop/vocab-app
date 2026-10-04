@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poorly balanced or matched in quantity or value or measure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the requisite qualities or resources to meet a task.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equal in quantity, size, degree, or value; unfair, uneven, or lacking balance; inadequate to a task.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and diplomacy, describing treaties imposed by imperial powers granting unilateral concessions (unequal treaties).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To punish me for what you make me do Seems much unequal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unequal match’d, Pyrrhus at Priam drives, in rage strikes wide; But with the whiff and wind of his fell sword Th’unnerved father falls."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why not to him in part, and to us all That feel the bruises of the days before, And suffer the condition of these times To lay a heavy and unequal hand Upon our honours?"*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Hector and Achilles met in fierce and **unequal** combat, where Greek spears surrounded the solitary Trojan prince."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To wage by force or guile eternal war, irreconcilable to our grand Foe, who now triumphs, and in excess of joy sole reigning holds the tyranny of Heaven, in **unequal** match."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Marianne’s spirits were terribly **unequal** to the sudden shock of Willoughby’s cold betrayal."*

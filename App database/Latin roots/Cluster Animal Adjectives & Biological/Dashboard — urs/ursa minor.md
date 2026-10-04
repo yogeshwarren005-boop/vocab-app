@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin urs within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of urs in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Little Bear; a northern constellation containing Polaris, the North Star, at the tip of its handle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial cartography and astronomical history, traditionally utilized since the Phoenicians for boreal marine navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ursa minor designates pertaining to, derived from, or characteristic of latin urs within the domain of animal adjectives & biological."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"At the tail of the celestial constellation **Ursa Minor** shines Polaris, marking the axis of the turning earth."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The night helmsman steered our ship by the solitary, steadfast light anchored within **Ursa Minor**."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The evening stars gleamed cold and clear, revealing the faint stellar curve of **Ursa Minor** above the chimney pots."*

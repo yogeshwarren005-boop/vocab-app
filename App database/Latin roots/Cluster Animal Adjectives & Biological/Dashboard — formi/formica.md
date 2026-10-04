@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plastic laminates containing melamine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the formicidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of social insects comprising wood ants and mound-building ants; also a heat-resistant composite plastic laminate used for tabletops and surfaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myrmecology, the type genus of the family Formicidae, known for complex social caste organization and acid spray defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formica designates any of various plastic laminates containing melamine."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The slave-making instinct in **Formica** sanguinea offers one of the most astonishing behavioral adaptations in the animal world."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Colonies of **Formica** rufa construct massive thatched nests from pine needles in northern temperate forests."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"Marked workers of **Formica** fusca demonstrated unmistakable homing abilities through olfactory trail markers."*

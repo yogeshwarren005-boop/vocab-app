@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a crow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a crow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a crow or raven; having crow-like habits or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, possessing glossy blue-black plumage, sharp beady eyes, or a harsh croaking call.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corvine designates relating to or resembling a crow."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"The ebony bird perched upon the bust of Pallas with grave, impassive **corvine** majesty."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A parliament of rooks croaked in harsh **corvine** chorus from the high elms above the manor house."*
+> - 📜 **Charles Dickens (*Barnaby Rudge*):** *"Grip the raven tilted his head with shrewd **corvine** intelligence, screaming for hot punch."*

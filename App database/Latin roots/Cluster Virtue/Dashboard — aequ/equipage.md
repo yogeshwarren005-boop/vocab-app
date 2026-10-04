@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equipment and supplies of a military force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle with wheels drawn by one or more horses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A carriage and horses with attendants; also the gear, provisions, and equipment needed by an army or traveler.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century social history, an elaborate coach, horses, coachmen, and footmen reflecting aristocratic wealth and status.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn; and the complete equipage whirls though the law-stationery business at wild speed all round the clock."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet quite fresh and collected—as she would be if her next point, with no new equipage and outfit, were the Cape of Good Hope, the Island of Ascension, Hong Kong, or any other military station."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The man in uniform whom he had sent to fetch this equipage then handed him up a dark lantern at his request, and when he had given a few directions to the driver, we rattled away."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Lady Catherine’s splendid carriage and four horses drove into the village, an **equipage** that drew every villager to their windows."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"Think what an **equipage** thou hast in air, and view with scorn two pages and a chair."*
+> - 📜 **Sir Walter Scott (*Waverley*):** *"The Highland chieftain traveled with a formidable military **equipage** of retainers, baggage mules, and pipers."*

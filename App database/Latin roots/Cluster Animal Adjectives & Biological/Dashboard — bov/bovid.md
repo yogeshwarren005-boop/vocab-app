@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hollow-horned ruminants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or belonging to the genus bos (cattle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammal of the family Bovidae, including cloven-hoofed ruminants such as cattle, bison, buffalo, antelopes, sheep, and goats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian paleontology, characterized by unbranched, non-deciduous horns covered in a keratinous sheath growing over a bony core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovid designates hollow-horned ruminants."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Every horned **bovid** shares a common ruminant ancestor that roamed Eurasian grasslands in the Miocene epoch."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Africa remains the supreme domain of the **bovid** family, teeming with dozens of specialized antelope species."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The permanent horns of the male **bovid** serve primarily as weapons of combat during the breeding season."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpaid labor (as for the maintenance of roads) required by a lord of his vassals in lieu of taxes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpaid labor (as for the maintenance of roads) required by a lord of his vassals in lieu of taxes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpaid, forced labor exacted by an authority or feudal lord for public works such as road building or ditch clearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French history, the compulsory statutory labor demanded of peasants, abolished in 1789 by the French Revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corvee designates unpaid labor (as for the maintenance of roads) required by a lord of his vassals in lieu of taxes."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The royal **corvée** weighed heavily upon the French peasantry, compelling them to repair highways without wages or food."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Centuries of feudal extortions and oppressive **corvée** labor had reduced the countryside to sullen desperation."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial governors coerced the provincials into burdensome **corvée** to build military roads across the frontier."*

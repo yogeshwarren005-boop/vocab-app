@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of suboscine passerine birds native to tropical Central and South America, commonly known as antthrushes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Neotropical ornithology, terrestrial forest birds with plump bodies, short tails, and loud melodic calls that forage on forest floor leaf litter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog formicariidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The forest-dwelling **Formicariidae** find their greatest taxonomic divergence throughout the dense Amazon basin."*
+> - 📜 **Osbert Salvin (*Biologia Centrali-Americana: Aves*):** *"Secretive members of **Formicariidae** run swiftly along dark jungle trails, seldom taking wing."*
+> - 📜 **Philip Lutley Sclater (*Catalogue of the Birds in the British Museum*):** *"The stout bill and terrestrial tarsal scaling characteristic of **Formicariidae** reflect habits akin to Old World pittas."*

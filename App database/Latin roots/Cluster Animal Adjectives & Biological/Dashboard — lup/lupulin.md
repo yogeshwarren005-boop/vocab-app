@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin lup within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of lup in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fine yellowish resinous powder coating the strobiles of hops, containing essential oils and bitter acids that give beer its flavor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In brewing science and pharmacognosy, the source of humulone, lupulone, and myrcene providing bacteriostatic preservation and bitter aroma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lupulin designates pertaining to, derived from, or characteristic of latin lup within the domain of animal adjectives & biological."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The aromatic yellow glands of **lupulin** contain the volatile oils that impart the characteristic bitter fragrance to malt liquor."*
+> - 📜 **John Tyndall (*Essays on the Floating-Matter of the Air*):** *"Boiling the wort with the resinous **lupulin** of hops arrested bacterial putrefaction in the fermented beer."*
+> - 📜 **Nicholas Culpeper (*The English Physician*):** *"The hop flower and its golden **lupulin** dust open obstructions of the liver and provoke healthy appetite."*

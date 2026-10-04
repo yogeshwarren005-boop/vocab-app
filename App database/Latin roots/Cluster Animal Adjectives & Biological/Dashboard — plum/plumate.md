@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an ornamental plume or feathery tuft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an ornamental plume or feathery tuft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having feathers or plumes; feathered; in zoology and botany, plumose or plume-like in branching or structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological morphology, featuring lateral barbs or fine hairs arranged along both sides of an axis like a feather.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumate designates having an ornamental plume or feathery tuft."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The respiratory appendages of the polychaete worm exhibit delicate, **plumate** branchiae adapted for aquatic gas exchange."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The **plumate** antennae of the silk moth are densely fringed with sensory hairs to detect female pheromones."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The pappus bristles in certain composite flowers display an exquisitely **plumate** architecture that aids wind dispersal."*

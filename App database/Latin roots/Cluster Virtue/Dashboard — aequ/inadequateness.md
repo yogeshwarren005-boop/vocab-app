@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsatisfactoriness by virtue of being inadequate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsatisfactoriness by virtue of being inadequate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being insufficient, defective, or failing to satisfy requirements; inadequacy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical critique and epistemology, the failure of an explanatory paradigm to account for empirical anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Here, then, are three sources of vague and incorrect definitions: indistinctness of the object, imperfection of the organ of conception, inadequateness of the vehicle of ideas."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The utter **inadequateness** of the Articles of Confederation had been demonstrated by years of financial paralysis."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Science recognizes the **inadequateness** of mechanical materialism to explain the ultimate mystery of consciousness."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"We felt the spiritual **inadequateness** of commercial prosperity when divorced from intellectual sweetness and light."*

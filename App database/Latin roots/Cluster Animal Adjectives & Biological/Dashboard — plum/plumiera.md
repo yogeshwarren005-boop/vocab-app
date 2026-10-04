@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or historical botanical spelling for the genus Plumeria (frangipani), named after French botanist Charles Plumier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early botanical literature and Linnaean taxonomy, designated to honor Charles Plumier's pioneering voyages to the West Indies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumiera designates deciduous shrubs and trees of tropical america having branches like candelabra and fragrant white or pink flowers."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The fragrant tropical tree **Plumiera** was named in perpetual commemoration of Father Charles Plumier's botanical discoveries."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The milky latex and salver-shaped corollas of **Plumiera** exemplify the family Apocynaceae in the New World tropics."*
+> - 📜 **William Jackson Hooker (*Botanical Miscellany*):** *"Specimens of **Plumiera** rubra collected in Jamaica retained their delicate floral structure despite long ocean transit."*

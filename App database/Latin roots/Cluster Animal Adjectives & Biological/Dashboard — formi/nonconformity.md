@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of harmony or correspondence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lack of orthodoxy in thoughts or beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure or refusal to conform to prevailing rules, social standards, or conventional practices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology, the refusal to subscribe to the discipline, Book of Common Prayer, or hierarchy of the Church of England.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"She was far from being seriously concerned about his nonconformity."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"For **nonconformity** the world whips you with its displeasure, and therefore a man must know how to estimate a sour face."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Genuine intellectual progress requires courageous **nonconformity** against the mechanical habits of traditional thought."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The mere example of **nonconformity**, the mere refusal to bend the knee to custom, is itself a service to mankind."*

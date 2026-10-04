@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin lup within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of lup in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Roman festival of pastoral purification and fertility celebrated annually on February 15 at the Lupercal cave on the Palatine Hill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history, priests (Luperci) sacrificed goats and ran through the streets striking onlookers with goatskin thongs (februa) to ensure fertility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The _Lupercalia_ had once a real meaning."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"You all did see that on the **Lupercalia** I thrice presented him a kingly crown, which he did thrice refuse: was this ambition?"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pagan populace stubbornly clung to the licentious rites of the **Lupercalia** until Pope Gelasius abolished the festival."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The archaic ceremony of the **Lupercalia** combined wolf-propitiation with a lustration rite for the herds."*

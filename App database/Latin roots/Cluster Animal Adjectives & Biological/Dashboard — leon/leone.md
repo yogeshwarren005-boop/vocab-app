@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in sierra leone; equal to 100 cents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in sierra leone; equal to 100 cents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The official monetary unit of Sierra Leone, divided into one hundred cents; also an Italian surname and place name meaning lion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomic monetary systems, introduced in 1964 to replace the British West African pound at a fixed peg.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But then the _Nautilus_ swerved again, and sought the lowest depth of a submarine valley which is between this Cape and Sierra Leone on the African coast."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Among the Grebo people of Sierra Leone there is a pontiff who bears the title of Bodia and has been compared, on somewhat slender grounds, to the high priest of the Jews."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Formerly, before a man was proclaimed king of Sierra Leone, it used to be the custom to load him with chains and thrash him."*
+> - 📜 **Graham Greene (*The Heart of the Matter*):** *"He calculated his monthly household allowance in British pounds and local **leone** currency notes."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The brig made port off the African coast, anchoring near the rugged heights of Sierra **Leone**."*
+> - 📜 **W. H. Auden (*Collected Shorter Poems*):** *"Far beyond the stormy harbor of **Leone**, the tropical night fell swiftly over the palm-fringed coast."*

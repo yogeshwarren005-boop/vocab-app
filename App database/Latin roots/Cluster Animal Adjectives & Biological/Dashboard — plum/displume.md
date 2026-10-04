@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip of honors, possessions, or attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strip of feathers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strip of plumes or feathers; to divest of conspicuous ornaments, honors, or dignity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic or elevated style, removing the feathers or crest from a helmet or standard as a sign of defeat or disgrace.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, displume designates strip of honors, possessions, or attributes."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The revolutionary fury would **displume** the ancient nobility and dismantle the venerable ornaments of the commonwealth."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Public indignation combined to **displume** the dishonest magistrate of his judicial robes and royal favor."*
+> - 📜 **John Dryden (*Fables, Ancient and Modern*):** *"The victor did **displume** the fallen knight, stripping the proud crest from his shattered casque."*

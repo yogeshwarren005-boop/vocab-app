@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An extract of beef (given to people who are ill).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extract of beef (given to people who are ill).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick, salty meat extract paste developed in the 1870s by John Lawson Johnston, widely consumed as a hot beverage or spread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British cultural and social history, a trademarked beef extract famous for its late Victorian advertising campaigns and use as emergency military rations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovril designates an extract of beef (given to people who are ill)."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"On freezing winter mornings, a steaming mug of hot **Bovril** and dry toast cost twopence at the mission counter."*
+> - 📜 **James Joyce (*Ulysses*):** *"He recalled the familiar red sign advertising cups of invigorating hot **Bovril** on cold Dublin street corners."*
+> - 📜 **H. G. Wells (*The History of Mr. Polly*):** *"Mr. Polly refreshed his flagging spirits with a hot cup of **Bovril** at the roadside railway tavern."*

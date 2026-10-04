@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or resembling a goose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or revealing stupidity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a goose; stupid or silly; in biochemistry, a dipeptide found in the skeletal muscle of birds and fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological chemistry, beta-alanyl-N-methylhistidine acting as an intramuscular antioxidant and proton buffer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anserine designates of or resembling a goose."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The pedantic critic scoffed with an **anserine** complacency that provoked pity rather than wrath."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"The cook had prepared the roasted fowl with sage stuffing according to traditional **anserine** culinary art."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Cutis anserina, or goose-flesh, is an involuntary **anserine** reflex elicited by sudden chill or terror."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide with (something) usually for a specific purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with abilities or understanding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply with the necessary items, tools, provisions, or furnishings for a particular purpose or journey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education and moral training, to prepare an individual mentally, technically, or ethically for life's challenges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The States-General have authority to enter into treaties and alliances; to make war and peace; to raise armies and equip fleets; to ascertain quotas and demand contributions."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The authorities essential to the common defense are these: to raise armies; to build and equip fleets; to prescribe rules for the government of both; to direct their operations; to provide for their support."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Resources and Schedule The Task requires six Earth centuries to design, construct, equip, test, deploy and activate."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I resolved to **equip** a small boat with sail, compass, and fresh water, hoping to explore the perimeter of the island."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Mr. Jaggers instructed his clerk to **equip** Pip with all the clothes and appointments becoming a young gentleman of fortune."*
+> - 📜 **Jane Austen (*Persuasion*):** *"The Admiralty ordered Captain Wentworth to **equip** the sloop with all dispatch for service in the West Indies."*

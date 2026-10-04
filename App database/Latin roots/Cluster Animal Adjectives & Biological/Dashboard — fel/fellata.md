@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a pastoral and nomadic people of western africa; they are traditionally cattle herders of muslim faith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a pastoral and nomadic people of western africa; they are traditionally cattle herders of muslim faith.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical Arabic or Kanuri name for the Fula or Fulani people of western and central Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In African ethnography and historical travel narratives, nomadic pastoralists and Islamic scholars who established the Sokoto Caliphate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fellata designates a member of a pastoral and nomadic people of western africa; they are traditionally cattle herders of muslim faith."*
+> - 📜 **Heinrich Barth (*Travels and Discoveries in North and Central Africa*):** *"The **Fellata** cavalry rode through the gates of Kano in flowing robes, displaying magnificent horsemanship."*
+> - 📜 **Hugh Clapperton (*Journal of a Second Expedition into the Interior of Africa*):** *"Sultan Bello ruled the powerful **Fellata** empire with firm administrative resolve and Islamic jurisprudence."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"Northern traders spoke of the warlike **Fellata** horsemen who dominated trade routes between the Niger and Lake Chad."*

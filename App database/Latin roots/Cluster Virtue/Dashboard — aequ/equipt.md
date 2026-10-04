@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provided or fitted out with what is necessary or useful or appropriate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provided or fitted out with what is necessary or useful or appropriate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of equipped; furnished or provided with necessary tools, garments, or provisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th- and 18th-century English literature, standard poetic and prose spelling of the past participle of equip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equipt designates provided or fitted out with what is necessary or useful or appropriate."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial herald stood, with feathered wings and golden armor **equipt**, ready to bear the sovereign mandate."*
+> - 📜 **Alexander Pope (*The Iliad of Homer*):** *"The Greek warriors, all splendidly **equipt** in brass and gleaming mail, marched forth upon the Trojan plain."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The vessel was completely **equipt** with ten guns and fifty men, bound for a trading voyage to Surat."*

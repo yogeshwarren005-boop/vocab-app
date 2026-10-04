@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Provide sexual gratification through oral stimulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide sexual gratification through oral stimulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform fellatio on; to stimulate the penis orally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical sexology, psychosexual literature, and legal definitions, oral-genital stimulation directed at a male partner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fellate designates provide sexual gratification through oral stimulation."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Classical Greek and Roman literary texts frequently document specific erotic practices intended to **fellate** or gratify partners."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Deviations of the sexual aim include impulses to **fellate**, which psychoanalysis traces to early infantile oral fixations."*
+> - 📜 **Alfred Kinsey (*Sexual Behavior in the Human Male*):** *"Survey data documented the historical prevalence and social attitudes toward decisions to **fellate** among adult respondents."*

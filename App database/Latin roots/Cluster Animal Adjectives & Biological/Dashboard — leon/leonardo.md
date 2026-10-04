@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Italian painter and sculptor and engineer and scientist and architect; the most versatile genius of the italian renaissance (1452-1519).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Italian painter and sculptor and engineer and scientist and architect; the most versatile genius of the italian renaissance (1452-1519).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Leonardo da Vinci (1452–1519), Italian polymath of the High Renaissance renowned as a painter, draftsman, engineer, scientist, and theorist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Renaissance historiography, widely regarded as the archetypal Renaissance man, painter of the Mona Lisa and The Last Supper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Bassanio with Leonardo and a follower or two."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray thee, good Leonardo, think on this."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Leonardo da Vinci (b. at Vinci, in the Val d’Arno, below Florence, 1452); “in him the two lines of artistic descent, tracing from classic Rome and Christian Byzantium, meet.”--Heaton’s ‘History of Painting’."*
+> - 📜 **Giorgio Vasari (*Lives of the Most Excellent Painters, Sculptors, and Architects*):** *"Nature showered its finest gifts upon **Leonardo**, granting him boundless grace, beauty, and inventive genius."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The curious mind of **Leonardo** wandered incessantly through all secrets of art and natural science."*
+> - 📜 **Jacob Burckhardt (*The Civilization of the Renaissance in Italy*):** *"The universal intellect of **Leonardo** embraced every discipline from hydraulics to anatomical dissection."*

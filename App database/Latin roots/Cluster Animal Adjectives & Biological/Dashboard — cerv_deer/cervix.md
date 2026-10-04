@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of an organism (human or animal) that connects the head to the rest of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Necklike opening to the uterus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The neck; in anatomy, the narrow, inferior cylindrical neck of the uterus that opens into the vagina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature, any neck-like part of an organ or structure, such as the cervix dentis (neck of a tooth).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervix designates the part of an organism (human or animal) that connects the head to the rest of the body."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **cervix** uteri projects downward into the anterior wall of the vagina, presenting an elliptical aperture termed the external os."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pathological changes in the epithelium of the **cervix** demand early histological evaluation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The muscular sphincter of the uterine **cervix** dilates during parturition under powerful hormonal stimulation."*

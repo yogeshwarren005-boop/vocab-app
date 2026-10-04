@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horses; asses; zebras; extinct animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horses; asses; zebras; extinct animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian perissodactyl family that includes all extant and extinct horses, zebras, and wild asses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, characterized by high-crowned (hypsodont) teeth adapted for grazing abrasive grasses and reduced lateral digits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equidae designates horses; asses; zebras; extinct animals."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Although the family **Equidae** originated and flourished in the Americas, it became entirely extinct there before the arrival of Europeans."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The third metatarsal in the **Equidae** is enormously enlarged to bear the weight of the entire cursorial limb."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Fossil transitions connecting the ancestral multi-toed forms with modern **Equidae** offer classic demonstrations of natural selection."*

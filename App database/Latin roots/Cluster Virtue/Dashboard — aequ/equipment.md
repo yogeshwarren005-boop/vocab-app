@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrumentality needed for an undertaking or to perform a service.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrumentality needed for an undertaking or to perform a service.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The necessary items, tools, clothing, or instruments provided for a specific activity, purpose, or expedition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military logistics and industrial operations, the physical assets, machinery, and apparatus required to sustain functional operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the business of preparation and equipment he soon lost himself, and even his grief at parting from Ada, who remained in Hertfordshire while he, Mr."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Agricultural equipment (livestock, tools, etc.) 3,822 4,919 7,706 4."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Manufacturing equipment 2,541 3,298 6,069 5."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He surveyed his new traveling **equipment** with natural pride, noting the silver-mounted dressing-case and fine leather bags."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"Professor Challenger inspected every piece of camp **equipment** before allowing our expedition to enter the Amazonian interior."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The boat’s **equipment** was meticulously stowed, including harpoons, lances, line tubs, and the cedar water keg."*

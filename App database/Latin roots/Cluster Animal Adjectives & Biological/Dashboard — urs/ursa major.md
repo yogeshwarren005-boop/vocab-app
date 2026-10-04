@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin urs within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of urs in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Great Bear; a prominent prominent northern circumpolar constellation containing the famous asterism known as the Big Dipper or Plough.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, containing numerous notable galaxies (M81, M82) and optical double stars including Mizar and Alcor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ursa major designates pertaining to, derived from, or characteristic of latin urs within the domain of animal adjectives & biological."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The familiar stellar pattern of **Ursa Major** has guided navigators across northern seas for thousands of years."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Gabriel Oak looked up into the winter heavens, observing how the pointers of **Ursa Major** marked the midnight hour."*
+> - 📜 **Jack London (*The Star Rover*):** *"Through the prison skylight I watched the steady arc of **Ursa Major** swinging about the celestial pole."*

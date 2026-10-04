@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equitable or fair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not equitable or fair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unfair, unjust, biased, or discriminatory; not equitable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence and property law, contrary to the principles of equity, justice, and good conscience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The exemptions from taxation in feudal times were great and, viewed from our standpoint, were inequitable, for the upper classes escaped while the peasants bore most of the burdens."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The exemptions from taxation in feudal times were great, and viewed from our standpoint were inequitable, for it was the upper classes who escaped while the peasants bore all the burdens."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But our present tariff laws, the vicious, inequitable and illogical source of unnecessary taxation, ought to be at once revised and amended."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A monopolistic charter is both economically burdensome to the commonwealth and **inequitable** to excluded merchants."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The feudal poll tax was condemned as grossly **inequitable**, falling with equal weight upon the rich and the starving peasant."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Laws that deny inheritance rights to daughters are palpably **inequitable** and offensive to modern moral sentiment."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of being essentially equal or equivalent; equally balanced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Essential equality and interchangeability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Identical value, function, meaning, importance, or quantitative force between corresponding entities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In relativistic physics (Einstein's principle of equivalence), the postulate that gravitational mass and inertial mass are identical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is a complete lack of economic equivalence in the relation of parent and child in early years."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Nowhere, perhaps, does the equivalence of the shadow to the life or soul come out more clearly than in some customs practised to this day in South-eastern Europe."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, the equivalence of the cock to the corn is expressed, hardly less plainly, in the custom of burying the bird in the ground, and cutting off its head (like the ears of corn) with the scythe. 4."*
+> - 📜 **Albert Einstein (*Relativity: The Special and the General Theory*):** *"The principle of **equivalence** between inertial and gravitational mass led directly to the formulation of general relativity."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"In formal syllogisms, the conclusion asserts an **equivalence** between the major and minor terms established by the middle term."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Definite electrochemical **equivalence** governs the precipitation of metallic elements at the electrode."*

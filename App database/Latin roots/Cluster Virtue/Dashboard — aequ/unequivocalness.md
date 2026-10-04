@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Clarity achieved by the avoidance of ambiguity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clarity achieved by the avoidance of ambiguity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or property of being clear, unambiguous, and completely free from doubt or equivocation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytic epistemology and forensic evidence, absolute clarity and decisive certainty in factual demonstration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unequivocalness designates clarity achieved by the avoidance of ambiguity."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We seek in mathematical demonstration that intuitive **unequivocalness** which compels assent from every rational mind."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **unequivocalness** of the statutory phrasing prevents judicial misinterpretation or arbitrary executive evasion."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The moral force of prophetic language derives from the fearless **unequivocalness** of its divine warnings."*

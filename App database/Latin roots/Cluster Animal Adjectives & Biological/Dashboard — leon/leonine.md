@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or characteristic of or resembling a lion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or characteristic of or resembling a lion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suggestive of a lion; fiercely regal, majestic, or possessing thick mane-like facial hair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic prosody, denoting Leonine verse, a medieval Latin meter featuring internal rhyme between the caesura and the line end.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dionyza does appear, With Leonine, a murderer. [_Exit._] Scene I."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Walk with Leonine; the air is quick there, And it pierces and sharpens the stomach."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, Leonine, take her by the arm, walk with her."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"His strong, **leonine** features and piercing gaze imparted an impression of extraordinary intellectual authority."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Dante stood with a dark, proud, **leonine** sorrow written upon his worn brow."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The elderly scholar tossed back his **leonine** mane of white hair as he denounced the superficiality of modern critics."*

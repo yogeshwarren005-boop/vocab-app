@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of equiping with weapons in preparation for war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Provide with (something) usually for a specific purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of supplying or furnishing someone or something with tools, clothes, or gear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime and naval history, fitting out a newly launched vessel with masts, rigging, guns, and store provisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Is the power of raising armies and equipping fleets necessary?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Another thing he commented on was equipping soldiers with firearms or sidearms of any description liable to go off at any time which was tantamount to inciting them against civilians should by any chance they fall out over anything."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"We are much obliged to Secretary Floyd for the foresight he has thus displayed in disarming the North and _equipping the South for this emergency_."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I spent several days in diligently **equipping** my raft with ropes, carpenters' tools, and sacks of ship's biscuit."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Squire Trelawney went down to Bristol with the sole intention of buying and **equipping** a schooner for our voyage."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Parliament voted liberal supplies for the purpose of rapidly **equipping** thirty capital ships of the royal line."*

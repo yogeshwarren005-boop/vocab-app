@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who fells trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy or man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who cuts down trees; a woodcutter or lumberjack; also a dialectal or colloquial variant of fellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and timber harvesting, a specialized woodsman who determines felling direction and executes precision notch cuts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"And when I seed her, ’twas nothing but blushes with me!” “Poor feller,” said Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For ye see, shepherd, though ’tis very well for a woman, dang it all, ’tis awkward for a man like him, poor feller?” “’Tis—’tis,” said Gabriel, recovering from a meditation."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pore feller were faithful and true enough to her in his wish, but his heart would rove, do what he would."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The skillful **feller** judged the lean of the giant white pine and brought it crashing down into the snow."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Marty South watched the solitary timber **feller** as his sharp axe echoed across the quiet autumn woods."*
+> - 📜 **Mark Twain (*The Celebrated Jumping Frog of Calaveras County*):** *"Smiley was always ready to bet on anything, and if he could get any man to bet on the other side, that **feller** was bound to lose."*

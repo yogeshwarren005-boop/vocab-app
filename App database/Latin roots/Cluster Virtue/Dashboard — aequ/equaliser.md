@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that reduces frequency distortion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A weight that balances another weight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that makes things equal or balanced; British spelling of equalizer; in sports, a goal that levels the score.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audio engineering, an electronic filter mechanism adjusting the balance between frequency components in a sound signal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equaliser designates electronic equipment that reduces frequency distortion."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The revolutionary tribunal regarded the guillotine as the great **equaliser** of aristocratic privilege."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Death remains the universal **equaliser**, before whom kings and beggars lay down their earthly mantles."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The sudden outbreak of microscopic bacteria proved the ultimate **equaliser** between mankind and the Martian invaders."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capability of being equated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capability of being equated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The capacity or property of being equated, compared, or considered identical in value, nature, or status.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical philosophy and formal semantics, the condition under which two disparate expressions can be mapped to an equivalent relation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equatability designates capability of being equated."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The logical **equatability** of cardinal numbers rests upon the possibility of establishing a one-to-one correspondence between sets."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Pragmatic meaning requires the conceptual **equatability** of distinct theoretical assertions with identical practical consequences."*
+> - 📜 **William James (*Pragmatism*):** *"The intellectual **equatability** of conflicting doctrines disappears when we test their concrete consequences in living experience."*

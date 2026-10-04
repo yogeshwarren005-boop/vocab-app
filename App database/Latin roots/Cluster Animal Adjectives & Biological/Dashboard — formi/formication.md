@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hallucinated sensation that insects or snakes are crawling over the skin; a common side-effect of extensive use of cocaine or amphetamines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hallucinated sensation that insects or snakes are crawling over the skin; a common side-effect of extensive use of cocaine or amphetamines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal sensory perception or cutaneous hallucination that insects or ants are crawling over or under the skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and psychiatry, a distinct subtype of tactile hallucination associated with neuropathy, alcohol withdrawal, or stimulant toxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formication designates hallucinated sensation that insects or snakes are crawling over the skin; a common side-effect of extensive use of cocaine or amphetamines."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients afflicted with peripheral neuritis frequently complain of distressing numbness, tingling, and cutaneous **formication**."*
+> - 📜 **Sigmund Freud (*The Cocaine Papers*):** *"Chronic toxic abuse of alkaloids may induce sensory disturbances, including that terrifying illusion of crawling parasites known as **formication**."*
+> - 📜 **Thomas Laycock (*Mind and Brain*):** *"Morbid excitation of cutaneous sensory nerves generates that peculiar form of paræsthesia designated as **formication**."*

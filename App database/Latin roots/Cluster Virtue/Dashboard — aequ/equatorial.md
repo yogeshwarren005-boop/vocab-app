@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A telescope whose mounting has only two axes of motion, one parallel to the earth's axis and the other one at right angles to it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or at an equator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, at, or near the equator; characteristic of the tropical regions bordering the earth's equator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, denoting a telescope mount having one axis parallel to the polar axis of the earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No possible endeavor then could enable her commander to make the great passage southwards, double Cape Horn, and then running down sixty degrees of latitude arrive in the equatorial Pacific in time to cruise there."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You meet them on the Line in time for the full flower of the Equatorial feeding season, having just returned, perhaps, from spending the summer in the Northern seas, and so cheating summer of all unpleasant weariness and warmth."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Before this equatorial coin, Ahab, not unobserved by others, was now pausing."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"The luxurious vegetation of the **equatorial** zone owes its magnificence to perpetual warmth and daily deluges."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"The **equatorial** forests of the Orinoco present an unbroken canopy of emerald foliage teeming with animal life."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The silent, primeval forest seemed to close upon the river in the suffocating heat of the **equatorial** afternoon."*

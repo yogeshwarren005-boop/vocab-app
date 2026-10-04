@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a horse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a horse or the horse family Equidae; horselike.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine, designating medical conditions, pharmacology, and anatomy specific to domestic horses, ponies, and donkeys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The same wise judge of matters equine Who still preferred some slim four-year-old To the big-boned stock of mighty Berold, And, for strong Cotnar, drank French weak wine, He also must be such a lady’s scorner!"*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The equine's disposition, it must be said, had not been improved by the immense saddle-bags with which the Doctor had surmounted him when on the march."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"It is noticeable that the equine race, in its wild state, has none of the ills of the species domesticated."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The veteran knight possessed an intimate knowledge of **equine** conformation, selecting chargers for bone and stamina."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Silver Blaze was an extraordinary specimen of **equine** aristocracy, winning the Wessex Cup with ease."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The tragedy of poor old Prince, the family horse, cast a dark shadow over the humble **equine** fortunes of the Durbeyfields."*

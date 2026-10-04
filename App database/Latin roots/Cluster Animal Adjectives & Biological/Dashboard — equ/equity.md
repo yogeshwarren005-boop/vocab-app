@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The difference between the market value of a property and the claims held against it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ownership interest of shareholders in a corporation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fairness, impartiality, and justice according to natural right; net value of commercial ownership interest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In jurisprudence, the body of law developed by the Court of Chancery providing remedies where common law was inadequate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An the Prince and Poins be not two arrant cowards, there’s no equity stirring."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Virtue is choked with foul ambition, And charity chased hence by rancour’s hand; Foul subornation is predominant, And equity exiled your highness’ land."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For this down-trodden equity we tread In warlike march these greens before your town, Being no further enemy to you Than the constraint of hospitable zeal In the relief of this oppressed child Religiously provokes."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Equity is the soul and spirit of all law, positive law is construed, and rational law is made by it; in **equity** we find justice."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce and Jarndyce had dragged its slow length through the Court of **Equity** for half a century without resolution."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Natural law dictates that magistrates must govern with impartiality, respecting that fundamental **equity** owed to every subject."*

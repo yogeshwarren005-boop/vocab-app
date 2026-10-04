@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin fel within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of fel in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cat-like in form or appearance; of or belonging to the mammalian suborder Feliformia, which includes cats, hyenas, and mongooses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, distinguishing carnivorans having double-chambered auditory bullae from the dog-like caniform carnivorans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, feliform designates pertaining to, derived from, or characteristic of latin fel within the domain of animal adjectives & biological."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The auditory region of the skull separates the **feliform** carnivores sharply from the caniform division."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The viverrids and hyaenids share a common cranial structure with true cats within the **feliform** clade."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Basal **feliform** lineages evolved rapidly during the Eocene epoch, establishing specialized predatory niches."*

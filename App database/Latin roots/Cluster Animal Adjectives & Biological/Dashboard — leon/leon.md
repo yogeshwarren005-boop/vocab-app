@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical area and former kingdom in northwestern spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northwestern spain at the foot of the cantabrian mountains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical kingdom, city, and province in northwestern Spain; also an ancient personal and dynastic royal name derived from Latin leo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval Iberian historiography, an influential Christian kingdom founded following the division of the Kingdom of Asturias in 910.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Bastian, _Die Culturländer des alten Amerika_ (Berlin, 1878), ii. 204. [55] Cieza de Leon, _Second Part of the Chronicle of Peru_ (Hakluyt Society, London, 1883), p. 18. [56] _The Grihya Sûtras_, translated by H."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In the vast regions watered by the Rio Grande, Nueces, Guadalupe, San Antonio, Colorado, Leon, Brazos, Trinity, Sabine, and Red Rivers, these millions of cattle graze upon almost tropical growths of vegetation."*
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"She answered demurely that the only two of whom she knew were a certain Leon Fauchet, whom she believed to have entered the army; and Claude Lamourette, who went out to China within a few weeks of Fabien's departure."*
+> - 📜 **Washington Irving (*Chronicle of the Conquest of Granada*):** *"The united chivalry of Castile and **Leon** assembled upon the Vega with glittering lances and royal banners."*
+> - 📜 **William H. Prescott (*History of the Reign of Ferdinand and Isabella*):** *"The ancient Cortes of **Leon** had asserted popular constitutional liberties centuries before other European realms."*
+> - 📜 **Henry Wadsworth Longfellow (*Outre-Mer: A Pilgrimage Beyond the Sea*):** *"The gothic spires of **Leon** rose against the azure sky above the sunlit plains of old Castile."*

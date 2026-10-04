@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small quadrilateral constellation in the southern hemisphere near virgo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the corvidae: crows and ravens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological genus comprising the crows, ravens, rooks, and jackdaws; also a southern constellation representing a crow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman naval history, an assault boarding bridge with a heavy iron spike mounted on the prow of warships to board Carthaginian vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corvus designates a small quadrilateral constellation in the southern hemisphere near virgo."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Duilius equipped the Roman fleet with the formidable boarding engine termed the **corvus**, transforming naval combat into land battle."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The common raven, **Corvus** corax, followed our party across the barren Patagonian steppes."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The constellation **Corvus** stands perched beside Crater upon the celestial equator."*

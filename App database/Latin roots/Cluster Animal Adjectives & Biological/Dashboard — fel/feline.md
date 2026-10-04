@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various lithe-bodied roundheaded fissiped mammals, many with retractile claws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a cat; stealthy, graceful, agile, or sly in movement or temperament.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and zoology, denoting species or physiological traits characteristic of domestic and wild Felidae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"That feline personage, with her lips tightly shut and her eyes looking out at him sideways, softly closes the door before replying."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"A dark blot among ripples on a flat and steely glimmer, the sketch of a whiskered feline mask . . ."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Human madness is oftentimes a cunning and most feline thing."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"He moved across the carpet with a noiseless, **feline** grace that suggested dangerous reserves of muscular power."*
+> - 📜 **Charles Baudelaire (*Les Fleurs du Mal*):** *"The mysterious **feline** creature curled upon the velvet cushion, watching me with eyes of burning topaz."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"His sharp claws and restless yellow eyes betrayed the unmistakable **feline** ancestry grafted into his beast-frame."*

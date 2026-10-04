@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an equitable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an equitable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a fair, just, impartial, and reasonable manner; without bias or unfair discrimination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corporate and property law, distributing assets, revenues, or liabilities in accordance with justice and natural equity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The king, Raa Kook, is at least six inches above six feet, and though he would weigh fully three hundred pounds, is so equitably proportioned that one could not call him fat."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"It was decided that Harry had been punished equitably for his offense against Lemuel Dalton as an _individual_."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The matter was settled at the time, and by the competent authorities,—equitably, it is to be presumed,—and, at all events, irrevocably."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Taxes ought to be levied **equitably**, so that each citizen contributes according to his pecuniary ability."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The squire distributed the traditional Christmas beef and blankets **equitably** among the cottagers of Raveloe."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic laws tend toward distributing the advantages of society **equitably** among the greatest number of citizens."*

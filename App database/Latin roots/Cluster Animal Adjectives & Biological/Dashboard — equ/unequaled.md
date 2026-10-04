@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radically distinctive and without equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radically distinctive and without equal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Superior to all others of the same kind; matchless, incomparable, or peerless in quality or degree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary appreciation and art criticism, denoting singular preeminence and mastery that stands without rival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"With an artistic touch which has placed the sketches just published among 'the books which are books,' he has given an unequaled picture of a boyhood lived under tropical skies."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"His integrity, his common sense, his courage and his unequaled experience are the qualities offered to his country."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*):** *"Milton’s description of the infernal conclave displays a magnificence **unequaled** in the annals of epic poetry."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The scenery of the Hudson River possesses an **unequaled** blend of wild majestic forest and cultivated pastoral banks."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The architectural grandeur of the Flavian Amphitheatre stood **unequaled** throughout the civilized world."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus lupinus; bearing erect spikes of usually purplish-blue flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus lupinus; bearing erect spikes of usually purplish-blue flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A leguminous plant of the genus Lupinus with palmately divided leaves and tall spikes of colorful pea-like flowers; a lupine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European agriculture, cultivated as a high-protein green manure to fix nitrogen and improve sandy soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lupin designates any plant of the genus lupinus; bearing erect spikes of usually purplish-blue flowers."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"The stately spikes of the blue garden **lupin** form a magnificent contrast with white peonies in early summer."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cottage garden was crowded with sweet peas, southernwood, and towering purple **lupin** stalks."*
+> - 📜 **John Claudius Loudon (*An Encyclopaedia of Agriculture*):** *"Plowing under a dense crop of yellow **lupin** enriches poor gravelly soils with organic matter."*

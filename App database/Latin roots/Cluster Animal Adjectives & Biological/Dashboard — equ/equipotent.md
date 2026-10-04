@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal strength or efficacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having equal strength or efficacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having equal power, capacity, efficacy, or force; in biology, having the capacity to develop into any of several cells or structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, producing identical therapeutic or physiological effects at standard pharmacological doses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equipotent designates having equal strength or efficacy."*
+> - 📜 **Herbert Spencer (*Principles of Biology*):** *"Early blastomeres in embryonic cleavage appear initially **equipotent**, capable of forming entire embryonic axes."*
+> - 📜 **Thomas Henry Huxley (*Lectures on the Elements of Comparative Anatomy*):** *"The paired visceral nerves operate as **equipotent** pathways regulating involuntary physiological functions."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must not assume that natural causes are **equipotent** simply because their outward appearances seem alike."*

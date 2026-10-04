@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of regarding as equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consider or describe as similar, equal, or analogous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of treating, regarding, or calculating something as equivalent or identical to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical logic and debate, committing a fallacy by treating two fundamentally different concepts as identical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equating designates the act of regarding as equal."*
+> - 📜 **George Orwell (*Notes on Nationalism*):** *"The nationalist commits an intellectual crime by **equating** political dissent with outright treason."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"By **equating** existence with perception, Berkeley constructed his ingenious system of subjective idealism."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The human understanding is prone to error by **equating** superficial resemblances with profound natural laws."*

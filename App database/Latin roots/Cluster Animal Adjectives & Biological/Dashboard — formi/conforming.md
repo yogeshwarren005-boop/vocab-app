@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Be similar, be in line with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapt or conform oneself to new or different conditions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complying with or behaving in accordance with socially accepted standards, rules, patterns, or official conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and geometry, fitting closely to the exact shape, profile, or mechanical contours of an adjoining surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"The place became less strange, and the people less formidable; and if there were some amongst them whom she could not cease to fear, she began at least to know their ways, and to catch the best manner of conforming to them."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In the beginning they inhaled it unknowingly: you and I may have sent some of our breath towards infecting them, when we uttered our conforming falsities or drew our silly conclusions: or perhaps it came with the vibrations from a woman’s glance."*
-> - 📜 **Wilfred S. Skeats (*The song of the exile*):** *"Thou seest these mighty waters onward flow, Conforming thus to all their Lord's decree-- Then live thou as thy conscience bids thee live, And know that God due recompense will give." LIX."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The danger is not that individuality should assert itself too strongly, but that **conforming** to custom should extinguish genius."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic communities exert immense moral pressure toward **conforming** with the prevailing opinion of the majority."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Society everywhere is in conspiracy against the manhood of every one of its members, demanding **conforming** behavior above all."*

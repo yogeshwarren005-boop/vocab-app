@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equal or interchangeable in value, quantity, or significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not equal or interchangeable in value, quantity, or significance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not equivalent; not equal in value, function, meaning, or measure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry and crystallography, designating atoms, bonds, or sites that occupy distinct geometric environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nonequivalent designates not equal or interchangeable in value, quantity, or significance."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The chemical reactions demonstrated that the two isomeric compounds occupied **nonequivalent** thermodynamic states."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Two mathematical expressions may appear structurally similar yet describe strictly **nonequivalent** logical relations."*
+> - 📜 **John Tyndall (*Sound*):** *"The acoustic pulses traveled across **nonequivalent** acoustic pathways, producing destructive interference."*

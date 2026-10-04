@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or derived from ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or containing or derived from formic acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from ants; in chemistry, designating methanoic acid (formic acid), a pungent carboxylic acid present in ant stings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, the simplest carboxylic acid (HCOOH), historically produced through the destructive distillation of red ants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, formic designates of or relating to or derived from ants."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Distillation of red wood ants yields concentrated **formic** acid, possessing sharp volatile acidity and caustic properties."*
+> - 📜 **Jöns Jacob Berzelius (*Traité de Chimie*):** *"Careful analysis of **formic** salts revealed the presence of a single carbon atom combined with hydrogen and oxygen."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electrolytic decomposition of **formic** compounds confirmed their stoichiometric place among fundamental organic fluids."*

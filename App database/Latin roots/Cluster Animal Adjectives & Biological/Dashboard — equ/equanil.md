@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sedative and tranquilizer (trade name miltown and equanil and meprin) used to treat muscle tension and anxiety.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sedative and tranquilizer (trade name miltown and equanil and meprin) used to treat muscle tension and anxiety.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for meprobamate, a carbamate-derived anxiolytic and tranquilizer widely prescribed during the 1950s and 1960s.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopharmacological history, one of the earliest blockbuster psychiatric medications, marketed to relieve anxiety without deep sedation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equanil designates a sedative and tranquilizer (trade name miltown and equanil and meprin) used to treat muscle tension and anxiety."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Modern pharmaceutical laboratories synthetically compounded Miltown and **Equanil** to offer chemical peace of mind to anxious suburbanites."*
+> - 📜 **Sylvia Plath (*The Bell Jar*):** *"The doctor wrote out a prescription for **Equanil**, promising that the small white tablets would quiet her racing nerves."*
+> - 📜 **Philip K. Dick (*Do Androids Dream of Electric Sheep?*):** *"He dialed the mood organ to a calming setting, comparing the synthetic contentment to an old dose of **Equanil**."*

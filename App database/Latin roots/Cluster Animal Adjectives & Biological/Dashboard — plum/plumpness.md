@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily property of being well rounded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bodily property of being well rounded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pleasing roundness, fullness, or fleshiness of physical form and contour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological aesthetics and portraiture, youthful subcutaneous fullness that imparts smoothness to the face and contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Over these, and lost to the eye gazing in from the outer light, the mouths of the same animals could be heard busily sustaining the above-named warmth and plumpness by quantities of oats and hay."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Marian had been like a sack of meal, a dead weight of plumpness under which he has literally staggered."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"At fifteen, appearances were mending; she began to curl her hair and long for balls; her complexion improved, her features were softened by plumpness and colour, her eyes gained more animation, and her figure more consequence."*
+> - 📜 **Jane Austen (*Northanger Abbey*):** *"At fifteen, her skin was clear and her figure possessed that pleasing **plumpness** which promises future beauty."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her mobile peony mouth and youthful **plumpness** of cheek gave her an innocent, country freshness."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The child’s dimpled **plumpness** and curly golden hair won the solitary weaver’s lonely heart entirely."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a plume.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a plume.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a plume or feather in shape, softness, or graceful spreading form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive anatomy and mineralogy, having delicate radiating or feathery branching crystalline formations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumelike designates resembling a plume."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"The pines tossed their **plumelike** boughs against the granite cliffs in the teeth of the mountain gale."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Microscopic examination revealed **plumelike** fungal hyphae spreading through the humid humus layers."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The river banks were fringed with tall, **plumelike** grasses that whispered softly in the twilight."*

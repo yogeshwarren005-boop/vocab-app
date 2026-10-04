@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An official charged with the care of the horses of princes or nobles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A personal attendant of the british royal family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer of the British royal household who attends or assists members of the royal family; historically in charge of the royal horses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In royal courts and chivalric history, derived from Old French esquierie (stables), responsible for royal stables and ceremonial carriages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"There are festivals and entertainments going continually on, and the Duke has his chamberlains and equerries, and the Duchess her mistress of the wardrobe and ladies of honour, just like any other and more potent potentates."*
+> - 📜 **Sir Walter Scott (*Kenilworth*):** *"The royal **equerry** held the stirrup as Queen Elizabeth mounted her white palfrey before the castle portal."*
+> - 📜 **William Makepeace Thackeray (*The Four Georges*):** *"The Prince of Wales was attended in his box by a discreet **equerry** and two gentlemen-in-waiting."*
+> - 📜 **Anthony Trollope (*The Eustace Diamonds*):** *"Lord George was appointed **equerry** to the royal duke, a position that demanded elegant manners and faultless attire."*

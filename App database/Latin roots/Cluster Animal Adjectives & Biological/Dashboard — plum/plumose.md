@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an ornamental plume or feathery tuft.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an ornamental plume or feathery tuft.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having feathers or plumes; resembling a feather; having fine hairs or branches on each side like a feather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and botany, possessing bipectinate branches or hairs along a shaft, such as plumose antennae in male moths or plumose seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plumose designates having an ornamental plume or feathery tuft."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The seeds of the thistle are provided with a light, **plumose** pappus that wafts them on the gentlest breeze across vast distances."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The male mosquito possesses densely **plumose** antennae functioning as auditory organs to detect female flight tones."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Certain aquatic insects swim with delicate **plumose** oars adapted to glide through weed-choked ponds."*

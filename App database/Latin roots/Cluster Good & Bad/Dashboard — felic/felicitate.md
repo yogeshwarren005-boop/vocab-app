@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express congratulations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express congratulations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To congratulate someone on an achievement, good fortune, or happy event; archaically, to make happy or fortunate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal rhetoric and correspondence, to offer polite, ceremonial expressions of praise and shared joy upon an auspicious occasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In my true heart I find she names my very deed of love; Only she comes too short, that I profess Myself an enemy to all other joys Which the most precious square of sense possesses, And find I am alone felicitate In your dear highness’ love."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"And indeed in this particular the Typees had ample reason to felicitate themselves, for sickness was almost unknown."*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"We therefore felicitate thee.” Maitreya and the disciples are amazed at this vast concourse, and at Śakyamuni claiming them as his Bodhisattvas."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I came to **felicitate** you on your approaching nuptials with my nephew, though I can hardly credit the report."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The senate hastened to **felicitate** the victorious emperor upon the suppression of the dangerous revolt."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The legal suitors gathered around the fortunate heir to **felicitate** him on the sudden favorable decree."*

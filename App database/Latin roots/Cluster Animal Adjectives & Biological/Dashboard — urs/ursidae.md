@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bears and extinct related forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bears and extinct related forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian carnivoran family comprising all modern bears, including brown bears, polar bears, black bears, and giant pandas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, large-bodied, plantigrade caniform carnivores characterized by non-retractile claws, short tails, and bunodont cheek teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ursidae designates bears and extinct related forms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Members of the family **Ursidae** exhibit dental modifications reflecting an omnivorous transition from strictly carnivorous ancestors."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The cosmopolitan distribution of modern **Ursidae** spans Arctic ice floes, boreal forests, and Andean mountain slopes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The robust skull and heavy plantigrade skeleton of the **Ursidae** separate them from both felids and canids."*

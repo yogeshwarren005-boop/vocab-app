@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Banded geckos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Banded geckos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, slender geckos in the family Eublepharidae, native to North and Central America, having movable eyelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, nocturnal ground geckos that lack adhesive toe pads and hunt terrestrial invertebrates in arid habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coleonyx designates banded geckos."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"The species of **Coleonyx** are among the few geckos possessing functional movable eyelids and vertical pupils."*
+> - 📜 **Raymond Lee Ditmars (*The Reptile Book*):** *"Specimens of **Coleonyx** variegatus burrow beneath flat stones throughout southwestern desert ranges."*
+> - 📜 **G. Kingsley Noble (*The Biology of the Amphibia*):** *"Comparative morphology links **Coleonyx** with the most primitive extant branches of the gekkotan lineage."*

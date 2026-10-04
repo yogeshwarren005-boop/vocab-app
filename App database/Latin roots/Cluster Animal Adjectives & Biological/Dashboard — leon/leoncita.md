@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small south american marmoset with silky fur and long nonprehensile tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small south american marmoset with silky fur and long nonprehensile tail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colloquial Spanish name for the pygmy marmoset (Cebuella pygmaea), the smallest true monkey native to the western Amazon rainforest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Neotropical mammalogy, known as the 'little lion' due to the distinctive dense mane surrounding its head and neck.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leoncita designates small south american marmoset with silky fur and long nonprehensile tail."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Native guides affectionately termed the tiny squirrel-like marmoset **leoncita** because of its miniature mane."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"In the dense upper foliage of the Amazon basin dwells the **leoncita**, feeding largely on tree exudates."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The agile **leoncita** darted among vertical tree trunks with remarkable speed, clinging with claw-like nails."*

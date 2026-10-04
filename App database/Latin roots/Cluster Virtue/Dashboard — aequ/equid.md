@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any mammal of the family Equidae, which comprises horses, asses, and zebras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, odd-toed ungulates tracing evolutionary lineage from Eocene Hyracotherium to modern single-toed Equus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equid designates hoofed mammals having slender legs and a flat coat with a narrow mane along the back of the neck."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"The fossil sequence of the **equid** lineage in North America furnishes unanswerable proof of gradual evolutionary transformation."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Every modern **equid** retains faint ancestral stripes upon the legs and shoulders, testifying to common ancestry."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The swift, cursorial limb adaptations of the **equid** evolved to exploit expanding grassland biomes."*

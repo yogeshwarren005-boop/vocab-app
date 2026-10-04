@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Edelweiss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Edelweiss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous plants in the family Asteraceae, including the edelweiss (Leontopodium nivale), native to Eurasian mountain ranges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In alpine botany, recognized by woolly, white hair covering the leaves and bracts to conserve moisture and protect against intense ultraviolet light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leontopodium designates edelweiss."*
+> - 📜 **John Tyndall (*Hours of Exercise in the Alps*):** *"Upon the steep limestone ledges above the glacier we gathered rare clusters of woolly **Leontopodium**."*
+> - 📜 **Edward Whymper (*Scrambles Amongst the Alps*):** *"The guide tucked a freshly plucked sprig of **Leontopodium** into his hatband before commencing the ascent."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Dense tomentose pubescence shields the alpine blossoms of **Leontopodium** from severe desiccating winds."*

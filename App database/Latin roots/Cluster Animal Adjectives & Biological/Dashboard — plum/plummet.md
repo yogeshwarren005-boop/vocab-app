@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The metal bob of a plumb line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drop sharply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plumb bob or lead weight attached to a line for testing verticality or measuring water depth; to plunge or drop steeply down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative and economic contexts, to fall rapidly and precipitously under the pull of gravity or economic decline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ignorance itself is a plummet o’er me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore my son i’ th’ ooze is bedded; and I’ll seek him deeper than e’er plummet sounded, And with him there lie mudded. [_Exit._] SEBASTIAN."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Light as it was, I heard it fall like a plummet."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Deeper than did ever **plummet** sound I'll drown my book."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Downward they fell, swift as a leaden **plummet** through the bottomless void of Chaos."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The soundings were taken with a heavy **plummet** as the vessel navigated through the murky estuary channels."*

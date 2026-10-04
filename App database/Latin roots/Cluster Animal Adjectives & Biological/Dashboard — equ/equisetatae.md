@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horsetails and related forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horsetails and related forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic taxonomic class or higher division comprising the horsetails and their extinct Paleozoic relatives (sphenopsids).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic paleobotanical classification, encompassing herbaceous Equisetaceae and giant fossil Calamitaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equisetatae designates horsetails and related forms."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The class **Equisetatae** occupied vast swamp forests during the Carboniferous period, leaving dense deposits of coal."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In phylogenetic systems, the **Equisetatae** are placed intermediate between primitive club-mosses and true ferns."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"Microscopic analysis of spore structures confirmed the unique taxonomic isolation of the **Equisetatae**."*

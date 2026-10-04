@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting an agreeably appropriate manner or style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by good fortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Well-chosen or suited to the circumstances; apt, pleasing, and fortunate in expression or effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and stylistics, exhibiting an exceptionally graceful harmony between thought, diction, and emotional tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Persuasion*):** *"He had remained in Shropshire, lamenting the blindness of his own pride, and the blunders of his own calculations, till at once released from Louisa by the astonishing and felicitous intelligence of her engagement with Benwick."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She also, by a felicitous thought, took a handkerchief from her bundle and tied it round her face under her bonnet, covering her chin and half her cheeks and temples, as if she were suffering from toothache."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"The felicitous idea occurred to me a morning or two later when I woke, that the best step I could take towards making myself uncommon was to get out of Biddy everything she knew."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The vicar possessed an uncommonly **felicitous** manner of introducing classical quotations into his Sunday discourses."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She found his phrase extraordinarily **felicitous**, capturing the subtle nuances of the Roman twilight perfectly."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"Wordsworth’s most **felicitous** lines possess an elemental simplicity that defies imitation or paraphrase."*

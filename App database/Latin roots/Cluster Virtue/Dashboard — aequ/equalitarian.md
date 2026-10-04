@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in the equality of all people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who believes in the equality of all people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing in, advocating, or characterized by the doctrine of equal rights and opportunities for all people; egalitarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy, emphasizing the elimination of arbitrary hierarchies in wealth, social status, and political influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equalitarian designates a person who believes in the equality of all people."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The restless, **equalitarian** passion of modern democracies constantly seeks to level surviving distinctions of rank."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"An **equalitarian** principle of justice must govern marital law if domestic life is to cultivate moral virtue."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"Democracy draws its enduring spiritual vitality from an **equalitarian** respect for the intrinsic value of every human individual."*

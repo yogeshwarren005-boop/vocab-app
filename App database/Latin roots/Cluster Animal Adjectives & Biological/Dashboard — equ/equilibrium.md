@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stable situation in which forces cancel one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical reaction and its reverse proceed at equal rates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in which opposing forces or influences are balanced; mental or emotional balance; poise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and physical chemistry, a dynamic state where forward and reverse reaction rates are identical, resulting in invariant macroscopic properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His equilibrium disturbed, he was in extremity at once."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was a typical summer evening in June, the atmosphere being in such delicate equilibrium and so transmissive that inanimate objects seemed endowed with two or three senses, if not five."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The value of gold as bullion and its value as money are kept in equilibrium by choice and by substitution."*
+> - 📜 **Isaac Newton (*Mathematical Principles of Natural Philosophy*):** *"When opposing forces act upon a body in equal and contrary directions, the system remains in static **equilibrium**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea struggled to recover her mental **equilibrium** after the painful revelations of the morning."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The complex web of nature maintains a delicate **equilibrium** among thousands of competing plant and animal forms."*

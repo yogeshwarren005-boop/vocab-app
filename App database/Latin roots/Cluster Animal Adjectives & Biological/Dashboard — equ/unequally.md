@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unequal or partial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an unequal or partial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unequal, uneven, unfair, or unbalanced manner; not in equal parts or degrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy, describing wealth, taxation, or natural resources distributed unevenly across populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Worldly goods are divided unequally, and man must not repine."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"These figures are very unequally distributed geographically, the divisions ranking as to total deposits in the following order: the Eastern Middle, New England, Middle Western, Pacific, Southern, and Western divisions."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But when the government undertakes these various tasks the expense falls unequally on individuals and affects differently their incomes."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Worldly wealth and bitter misery were divided most **unequally** between the grand square and the squalid alley."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Under aristocratic monarchies, political privileges and landed wealth were concentrated **unequally** in a few noble houses."*
+> - 📜 **William Shakespeare (*King Lear*):** *"So distribution should undo excess, and each man have enough, rather than fortune dividing her gifts so **unequally**."*

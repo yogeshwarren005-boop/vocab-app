@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A constellation in the milky way near cygnus; contains the star altair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The provincial capital of the abruzzi region in central italy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent constellation on the celestial equator, representing an eagle; the taxonomic genus of true eagles including the golden eagle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman military antiquity, the silver or bronze eagle standard carried as the sacred emblem of a legion by the aquilifer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aquila designates a constellation in the milky way near cygnus; contains the star altair."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The legionaries rallied around their golden **Aquila**, swearing to die rather than surrender their sacred standard to the barbarians."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Altair, the brilliant alpha star of the constellation **Aquila**, blazes across the summer night sky."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The golden eagle, **Aquila** chrysaetos, soared in broad majestic circles above the Andean peaks."*

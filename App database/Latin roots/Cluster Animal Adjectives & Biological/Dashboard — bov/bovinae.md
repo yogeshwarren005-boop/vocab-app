@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Term not used technically; essentially coextensive with genus bos: cattle; buffalo; and sometimes includes kudu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Term not used technically; essentially coextensive with genus bos: cattle; buffalo; and sometimes includes kudu.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subfamily of the family Bovidae comprising medium to large-sized ungulates, including cattle, bison, water buffalo, and spiral-horned antelopes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, characterized by stout build, broad muzzles, and smooth or spiral horns present in both sexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovinae designates term not used technically; essentially coextensive with genus bos: cattle; buffalo; and sometimes includes kudu."*
+> - 📜 **Richard Lydekker (*Wild Oxen, Sheep, and Goats of All Lands*):** *"The **Bovinae** encompass the wild gaur of India, the American bison, and the ancestral aurochs of Europe."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In several genera of the **Bovinae**, sexual dimorphism in body mass and horn curvature is highly pronounced."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The dental formula and robust limb skeletons of the **Bovinae** reflect adaptation to coarse grassy forage."*

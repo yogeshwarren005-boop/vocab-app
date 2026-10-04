@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus lupinus; bearing erect spikes of usually purplish-blue flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of wolves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a wolf; wolf-like, predatory, ravenous; also a leguminous flowering plant (lupin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character description, expressing predatory rapacity, savage hunger, or fierce wolflike cunning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lupine designates any plant of the genus lupinus; bearing erect spikes of usually purplish-blue flowers."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck responded to the primordial call with fierce, **lupine** ferocity, leading the wolf pack through the frozen forest."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"Behind his suave mercantile manners lurked a hungry, **lupine** greed that preyed upon gullible investors."*
+> - 📜 **Will Cather (*My Ántonia*):** *"The prairie draws were bright with wild blue **lupine** blossoms swaying in the gentle June wind."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin bov within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of bov in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient English unit of land area, equivalent to an oxgang; historically, as much land as an ox could plow in a year (approximately 15 acres).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval English agrarian economic history, one-eighth of a carucate or hide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovate designates pertaining to, derived from, or characteristic of latin bov within the domain of animal adjectives & biological."*
+> - 📜 **Frederic William Maitland (*Domesday Book and Beyond*):** *"The Domesday survey records that each villein held one **bovate** of arable land in the common fields of the manor."*
+> - 📜 **William Stubbs (*The Constitutional History of England*):** *"Taxes were levied upon the manorial holdings according to the number of carucates and single **bovate** parcels."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The franklin farmed three **bovate** strips of rich loam along the banks of the river Don."*

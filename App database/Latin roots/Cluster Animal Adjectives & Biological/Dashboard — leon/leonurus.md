@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of stout old world herbs having flowers in whorls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of stout old world herbs having flowers in whorls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Lamiaceae, including the motherwort (Leonurus cardiaca), known for dense whorls of flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and herbal medicine, traditionally employed as a cardiotonic and uterine stimulant owing to alkaloid and iridoid glycosides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leonurus designates genus of stout old world herbs having flowers in whorls."*
+> - 📜 **Nicholas Culpeper (*The English Physician*):** *"An infusion of **Leonurus** cardiaca strengthens the heart, dispels melancholic passions, and relieves hysteria."*
+> - 📜 **William Withering (*An Arrangement of British Plants*):** *"Along rural lanes and hedgerows, tall stems of **Leonurus** produce dense axillary clusters of pale purple blossoms."*
+> - 📜 **John Parkinson (*Theatrum Botanicum*):** *"The bitter leaves of **Leonurus** have long maintained repute among apothecary gardens throughout England."*

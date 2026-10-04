@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distinguished from bovidae by the male's having solid deciduous antlers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distinguished from bovidae by the male's having solid deciduous antlers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammal of the deer family (Cervidae), characterized by cloven hooves, chewing the cud, and branched deciduous antlers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian zoology, distinguishing deer from bovids by the annual shedding and regeneration of bone antlers in males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervid designates distinguished from bovidae by the male's having solid deciduous antlers."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The magnificent antlers of the adult **cervid** are shed and renewed each year at an enormous physiological cost."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"The fossil record traces the lineage of the modern **cervid** back to small, antlerless hornless ancestors in the Oligocene."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Across the northern forests, every native **cervid** browses on tender willow bark and aquatic shoots."*

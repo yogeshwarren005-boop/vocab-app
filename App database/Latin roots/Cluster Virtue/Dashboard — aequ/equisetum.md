@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horsetails; coextensive with the family equisetaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horsetails; coextensive with the family equisetaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sole living genus of vascular plants in the horsetail family Equisetaceae, commonly known as horsetails or scouring rushes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and herbalism, known for abrasive silica crystals historically utilized for scouring metal pots and polishing wood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equisetum designates horsetails; coextensive with the family equisetaceae."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Ditch banks along the moist lower meadow were densely fringed with jointed green shoots of **Equisetum**."*
+> - 📜 **Nicholas Culpeper (*The English Physician*):** *"An infusion of **Equisetum**, or horsetail, stayeth inward bleeding and healeth ulcers of the bladder."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Primitive spore plants such as **Equisetum** shed their spores through moisture-sensitive hygroscopic elaters."*

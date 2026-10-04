@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: True antelopes; cattle; oxen; sheep; goats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True antelopes; cattle; oxen; sheep; goats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large biological family of artiodactyl ruminants that includes cattle, antelopes, sheep, goats, and muskoxen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate taxonomy, the most diverse extant family of ungulates, characterized by four-chambered stomachs and permanent keratin-sheathed horns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bovidae designates true antelopes; cattle; oxen; sheep; goats."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The adaptive radiations within the **Bovidae** produced grazers capable of thriving in arctic tundra and equatorial savannas alike."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skull of the **Bovidae** is distinguished from that of the Cervidae by the non-deciduous nature of its cornual processes."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"No ungulate family has exerted a greater influence on human civilization than the **Bovidae**."*

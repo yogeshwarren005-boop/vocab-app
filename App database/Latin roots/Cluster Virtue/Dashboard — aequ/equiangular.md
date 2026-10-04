@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having all angles equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having all angles equal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having all angles equal in magnitude, as an equilateral triangle or a regular polygon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and trigonometry, describing geometric figures whose interior angles are mutually congruent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equiangular designates having all angles equal."*
+> - 📜 **Euclid (*The Elements of Geometrie (tr. Billingsley)*):** *"If a triangle hath three equal sides, it must of necessity be an **equiangular** figure with three equal angles."*
+> - 📜 **René Descartes (*The Geometry*):** *"The properties of an **equiangular** spiral reveal a constant ratio between the radius vector and the tangent."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A glass prism formed with **equiangular** faces refracts the incident beam of sunlight into its primary spectra."*

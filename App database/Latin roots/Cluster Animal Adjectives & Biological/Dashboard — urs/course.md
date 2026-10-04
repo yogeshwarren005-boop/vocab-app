@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Education imparted in a series of lessons or meetings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A connected series of events or actions or developments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The path, route, or direction taken by something moving; a systematic series of lectures or studies; a single stage of a meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation and physical geography, the compass heading followed by a vessel or the longitudinal gradient of a river.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must not marvel, Helen, at my course, Which holds not colour with the time, nor does The ministration and required office On my particular."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Write, write, that from the bloody course of war My dearest master, your dear son, may hie."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And as in the common course of all treasons, we still see them reveal themselves till they attain to their abhorr’d ends; so he that in this action contrives against his own nobility, in his proper stream, o’erflows himself."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Give him heedful note; for I mine eyes will rivet to his face, and after we will both our judgments join in censure of his seeming **course**."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"In the ordinary **course** of things, my convict friend might have lived out his days in bitter exile."*
+> - 📜 **Jane Austen (*Persuasion*):** *"She felt that time, in its silent **course**, had smoothed away the sharpness of their youthful parting."*

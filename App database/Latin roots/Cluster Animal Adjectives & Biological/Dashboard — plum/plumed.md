@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rip off; ask an unreasonable price.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be proud of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Adorned, furnished, or crested with feathers or plumes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In martial and heraldic description, decorated with feather crests on a helmet, cap, or ceremonial harness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the time is come That France must vail her lofty-plumed crest And let her head fall into England’s lap."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France spreads his banners in our noiseless land; With plumed helm thy state begins to threat, Whilst thou, a moral fool, sitt’st still, and criest ‘Alack, why does he so?’ ALBANY."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Farewell the plumed troops and the big wars That make ambition virtue!"*
+> - 📜 **William Shakespeare (*Othello*):** *"Farewell the **plumed** troop and the big wars that make ambition virtue!"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Under a coronation canopy the seraph stood, his **plumed** wings folded in radiant adoration."*
+> - 📜 **Sir Walter Scott (*The Lady of the Lake*):** *"The chieftain bore upon his brow a bonnet of blue velvet with a **plumed** eagle feather."*

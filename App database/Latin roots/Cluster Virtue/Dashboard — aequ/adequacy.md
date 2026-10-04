@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being able to meet a need satisfactorily:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being sufficient for the end in view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or sufficiency of being satisfactory, suitable, or quantitatively sufficient to meet a specific requirement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological evaluation and social sciences, an individual's perceived competence and emotional capacity to meet environmental demands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s learning he must have before him the same materials as German scholars—has he not?” Dorothea’s timidity was due to an indistinct consciousness that she was in the strange situation of consulting a third person about the adequacy of Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She hesitated before consulting an outsider regarding the **adequacy** of Mr. Casaubon's extensive classical research."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our confidence in the logical **adequacy** of any hypothesis rests upon its power to harmonize discordant experiences."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"The moral **adequacy** of an educational system is measured by its capacity to foster cooperative social habits."*

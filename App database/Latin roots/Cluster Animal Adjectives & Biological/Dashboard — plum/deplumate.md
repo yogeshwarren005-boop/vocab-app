@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip of feathers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strip of feathers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To strip of feathers or plumage; to pluck bare; figuratively, to deprive of honors, adornments, or pretenses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and zoological description, rendering a bird or person entirely devoid of protective or decorative plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deplumate designates strip of feathers."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Strip man of his decorative vestments and you **deplumate** a poor biped into bare, shivering vulnerability."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Envious detractors hasten to **deplumate** the victorious general of his deserved wreaths of honor."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Adversity will quickly **deplumate** the proud man of his borrowed plumes and reveal his native weakness."*

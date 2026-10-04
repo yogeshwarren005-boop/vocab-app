@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin urs within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of urs in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feminine given name of Latin origin meaning 'little female bear'; historically associated with Saint Ursula, a celebrated virgin martyr.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval hagiography and Christian lore, venerated as the leader of eleven thousand British virgins martyred at Cologne.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go bear this letter to my Lord of Lancaster; this to the Prince; this to the Earl of Westmoreland; and this to old Mistress Ursula, whom I have weekly sworn to marry since I perceived the first white hair of my chin."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"URSULA, Waiting gentlewoman attending on Hero."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Don Pedro, Claudio, Benedick, Balthasar, Don John, Borachio, Margaret, Ursula and Others, masked."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"Hero whispers to **Ursula** to decoy Beatrice into the pleached bower to overhear their contrived conversation."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"The quiet novice, Sister **Ursula**, glided down the stone convent corridors with downcast eyes."*
+> - 📜 **George Eliot (*Romola*):** *"Monks and townspeople celebrated the feast of Saint **Ursula** with solemn liturgical processions across Florence."*

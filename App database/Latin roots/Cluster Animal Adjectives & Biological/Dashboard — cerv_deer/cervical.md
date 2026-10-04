@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cervix of the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or associated with the neck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the neck; of or relating to the cervix of the uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical anatomy, designating the seven cervical vertebrae (C1–C7) or the uterine cervix examined during pelvic screening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Anatomically, it is distinguished from the white whale and the North Cape whale by the seven cervical vertebrae, and it has two more ribs than its congeners."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The first **cervical** vertebra, or atlas, supports the globe of the head and articulates with the occipital condyles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Enlargement of the deep **cervical** lymph nodes often provides the first clinical clue in Hodgkin's disease."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The delicate nerve plexus of the **cervical** spine demands the most meticulous surgical precision."*

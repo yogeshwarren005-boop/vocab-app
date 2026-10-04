@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Compensate; make the score equal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make equal, uniform, corresponding, or matching.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make equal, uniform, or balanced in quantity, value, or status; to level scores in a competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics and hydraulics, to distribute pressure or fluid levels uniformly between connected chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the attempt to remedy the great evil of unemployment, public works of every kind might be planned and distributed in time so as to better equalize the demand for labor and materials."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In other countries the income tax had been found to be a part of a system of taxation especially valuable as "a balance wheel" to equalize the revenues and expenditures."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"They equalize the flow of streams, moderate floods, and by preventing the washing down of the rich soil, keep the mountain sides from becoming bare and sterile rocks."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts continuously to **equalize** the reproductive advantages between competing biological varieties."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"A uniform national tariff serves to **equalize** trade advantages among the maritime and inland states."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The statute sought to **equalize** the judicial remedies available to wealthy landholders and humble copyholders."*

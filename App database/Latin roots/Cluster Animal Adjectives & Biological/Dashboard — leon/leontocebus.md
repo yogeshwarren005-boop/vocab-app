@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tamarins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tamarins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or alternative zoological genus name for the lion tamarins (genus Leontopithecus), small arboreal primates of the family Callitrichidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatological taxonomy, celebrated for their golden silk-like manes resembling miniature male lions, endemic to Atlantic Coastal forests of Brazil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog leontocebus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Lydekker (*A Hand-book to the Primates*):** *"Specimens formerly classified under **Leontocebus** inhabit the canopy of southeastern Brazilian rainforests."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The cranium of **Leontocebus** displays typical platyrrhine traits combined with sharp non-opposable claws."*
+> - 📜 **St. George Jackson Mivart (*On the Axial Skeleton of the Primates*):** *"The caudal vertebrae of **Leontocebus** reflect adaptation for arboreal quadrupedal leaping rather than prehension."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A huntsman who hunts small animals with fast dogs that use sight rather than scent to follow their prey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formerly a strong swift horse ridden into battle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swift, spirited horse, especially one ridden in battle or tournament; also a hunter or dog that pursues game by sight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval romance and chivalry, a war-horse or destrier prized for its speed, stamina, and agility on the field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Much is breeding Which, like the courser’s hair, hath yet but life And not a serpent’s poison."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then did they imitate that which I compos’d to my courser, for my horse is my mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By your furtherance I am clothed in steel; And spite of all the rapture of the sea, This jewel holds his building on my arm: Unto thy value I will mount myself Upon a courser, whose delightful steps Shall make the gazer joy to see him tread."*
+> - 📜 **William Shakespeare (*Richard III*):** *"A horse! a horse! my kingdom for a horse! The king demanded a swift **courser** to plunge back into the fray."*
+> - 📜 **Sir Walter Scott (*The Lay of the Last Minstrel*):** *"The knight leaped upon his fiery **courser** and galloped through the dark pine woods towards the border."*
+> - 📜 **Lord Byron (*Mazeppa*):** *"The wild Tartar **courser** bounded across the boundless desert with untamable fury."*

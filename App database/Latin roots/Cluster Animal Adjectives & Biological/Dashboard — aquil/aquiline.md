@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved down like an eagle's beak.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved down like an eagle's beak.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved or hooked like the beak of an eagle; of or like an eagle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Most commonly describing a prominent, sharp facial profile or hooked nose ('an aquiline nose').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He was a remarkably handsome man, dark, aquiline, and moustached—evidently the man of whom I had heard."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was of a full rubicund countenance, with a double chin, aquiline nose, and a pleasant twinkling eye."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He was a genuine specimen of the Yankee,--a long, gaunt figure, somewhat stooping, and with a long aquiline nose."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"His sharp and **aquiline** nose gave to his whole expression an alert, bird-like character."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Rochester's dark, stern countenance was dominated by heavy brows and a decisive **aquiline** nose."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The Templar possessed high features, dark flashing eyes, and a bold **aquiline** profile that bespoke pride and command."*

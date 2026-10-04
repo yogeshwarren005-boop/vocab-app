@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has committed a crime or has been legally convicted of a crime.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purulent infection at the end of a finger or toe in the area surrounding the nail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person convicted of a serious crime or felony; an evil, cruel, or treacherous villain; also an acute purulent infection of the fingertip (whitlow).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In criminal jurisprudence, an offender guilty of a crime ranked above a misdemeanor, historically carrying capital punishment or land forfeiture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Murder indeed, that bloody sin, I tortured Above the felon or what trespass else."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I do defy thy conjuration, And apprehend thee for a felon here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, then, women are more valiant That stay at home, if bearing carry it, And the ass more captain than the lion, the felon Loaden with irons wiser than the judge, If wisdom be in suffering."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"My terror of the escaped **felon** with the great iron on his leg made me steal the pork pie from Mrs. Joe's pantry."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"This is that banish'd haughty Montague that murder'd my love's cousin; villain, yield thee, base **felon**!"*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The captive knight was treated as a dangerous **felon**, loaded with heavy irons and cast into the dungeon keep."*

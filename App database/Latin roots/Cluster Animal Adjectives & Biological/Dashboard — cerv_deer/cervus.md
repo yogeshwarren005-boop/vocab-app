@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the cervidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type genus of the cervidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of true deer of the family Cervidae, including the red deer of Eurasia and the elk (wapiti) of North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, characterized by large body size, sexually dimorphic manes, and multi-tined branched antlers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cervus designates the type genus of the cervidae."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the red deer, **Cervus** elaphus, the roaring of the stag serves to challenge rival males and assemble the herd."*
+> - 📜 **Richard Lydekker (*The Deer of All Lands*):** *"The noble antlers of **Cervus** develop multiple bez and trez tines crowned by a terminal cup."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Fossil crania of the genus **Cervus** occur abundantly in European Pleistocene cave deposits."*

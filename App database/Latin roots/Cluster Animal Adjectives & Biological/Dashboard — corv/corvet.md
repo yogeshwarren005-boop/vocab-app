@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of Latin corv within the domain of Animal Adjectives & Biological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A technical or specialized form exhibiting the properties of corv in systematic terminology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic variant spelling of corvette; historically also a curvet (a leap or prank of a trained horse).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval literature, a small, swift three-masted warship carrying a single tier of guns on the upper flush deck.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, corvet designates pertaining to, derived from, or characteristic of latin corv within the domain of animal adjectives & biological."*
+> - 📜 **Walter Scott (*The Pirate*):** *"The agile light **corvet** skimmed across the stormy Pentland Firth under close-reefed topsails."*
+> - 📜 **Herman Melville (*White-Jacket*):** *"The nimble French **corvet** easily outsailed the lumbering British ship of the line in light winds."*
+> - 📜 **James Fenimore Cooper (*The Pilot*):** *"The guns of the pursuing **corvet** opened fire across the waves as darkness settled upon the bay."*

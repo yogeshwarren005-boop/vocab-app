@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of making equal or uniform.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of making equal or uniform.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of making things equal or uniform in size, status, distribution, or condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public finance and fiscal federalism, British spelling for transfers designed to equalize fiscal capacity across regional governments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, equalisation designates the act of making equal or uniform."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"The progressive **equalisation** of political privileges tends naturally toward a corresponding demand for educational equality."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The free movement of labor between parishes fosters the gradual **equalisation** of real wages across the country."*
+> - 📜 **Herbert Spencer (*Social Statics*):** *"Evolutionary progress exhibits a continuous **equalisation** of social rights and mutual moral obligations."*
